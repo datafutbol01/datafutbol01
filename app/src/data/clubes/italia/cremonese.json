@@ -1,0 +1,245 @@
+{
+  "id": "cremonese",
+  "meta": {
+    "slug": "cremonese"
+  },
+  "datos": {
+    "nombre_completo": "Unione Sportiva Cremonese S.p.A.",
+    "sigla": "CRE",
+    "fundacion": "1903",
+    "apodo": "Los Gris-Rojos, Los Tigres, Los Violines",
+    "estadio_actual": "Stadio Giovanni Zini",
+    "estadio_apodo": "",
+    "estadio_capacidad": 16003,
+    "estadio_inauguracion": "2 de noviembre de 1919",
+    "estadio_lat": 45.1437,
+    "estadio_lng": 10.0345,
+    "estadio_direccion": "Via Persico 19, 26100 Cremona, Lombardia",
+    "socios": 6500,
+    "descripcion_corta": "Surgida en Cremona como sociedad polideportiva, distinguida formal y visualmente por poseer un uniforme exclusivo de colores gris y rojo (grigiorossi).",
+    "paleta": [
+      {
+        "tag": "Gris",
+        "hex": "#a2a5a4"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#d01931"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Emiliano Mondonico (88 goles)",
+      "mas_presencias": "Luciano Cesini (436 partidos)",
+      "mayor_goleada": "6-0 vs Varese (1989)"
+    },
+    "nombre_oficial": "Unione Sportiva Cremonese",
+    "nombre_corto": "Cremonese",
+    "escudo_actual": "/escudos_historicos/cremonese/US_Cremonese_logo.webp"
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Los Orígenes Grigiorossi en La Varesina",
+      "desc": "El 24 de marzo de 1903, en respuesta a la efervescencia deportiva que cruzaba la región de Lombardía, un grupo de comerciantes y aficionados encabezado por el sastre Emilio Torrenti y el farmacéutico Zini organizó una asamblea fundacional en la humilde Trattoria La Varesina, constituyendo la Unione Sportiva Cremonese. Nacida originalmente como una sociedad polideportiva modesta, la división de fútbol vistió en sus primeros años rudimentarias camisas blancas con cuellos lila. Sin embargo, en 1914, los directivos sellaron un acuerdo textil que cambiaría su historia visual: adoptaron de forma permanente la combinación de bastones grises ceniza y rayas rojas sangre, un patrón cromático único e inédito en el Calcio que apellidó al club como 'I Grigiorossi' de por vida."
+    },
+    {
+      "ano": "1929",
+      "hito": "Participación Inaugural en la División de Honor",
+      "desc": "El equipo se integró rápidamente a los primeros torneos profesionales y logró formar parte de la primera edición histórica de la Serie A de Italia, unificada bajo un formato de todos contra todos. Aunque el equipo descendió esa primera campaña, la base deportiva continuó existiendo ininterrumpidamente."
+    },
+    {
+      "ano": "1993",
+      "hito": "Victoria Internacional en Wembley",
+      "desc": "Con el mando técnico del entrenador Gigi Simoni y operando en divisiones intermedios nacionales, la Cremonese ganó el torneo internacional Copa Anglo-Italiana, batiendo 3-1 al Derby County en las instalaciones originales del Estadio de Wembley en Inglaterra."
+    },
+    {
+      "ano": "1995",
+      "hito": "Última Época Regular en Serie A del Siglo XX",
+      "desc": "Durante la primera mitad de la década del 90, con delanteros como Enrico Chiesa, el club sostuvo su participación en Serie A durante tres temporadas consecutivas, representando su mayor lapso continuado en la categoría antes del fin de siglo."
+    },
+    {
+      "ano": "2022",
+      "hito": "Confirmación del Ascenso Final",
+      "desc": "Después de 26 años de intermitencias en escalones como la Lega Pro, la escuadra conducida por Fabio Pecchia consiguió el puntaje estadístico necesario en Serie B para garantizar el segundo lugar oficial y retornar directamente a la división élite de Italia."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Giovanni Zini",
+      "capacidad": "16.003",
+      "inauguracion": "2 de noviembre de 1919",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Persico%2019%2C%2026100%20Cremona%2C%20Lombardia",
+      "direccion": "Via Persico 19, 26100 Cremona, Lombardia",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": 1914,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "La institución inició sus registros asimilando un color blanco formal en sus camisas primarias durante los primeros torneos previos a la Gran Guerra europea."
+    },
+    {
+      "desde": 1914,
+      "hasta": null,
+      "c1": "#a1a1a1",
+      "c2": "#c20e1a",
+      "sh": "#a1a1a1",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Integraron la inusual combinación grigiorossa en el ámbito italiano, implementando un diseño dominado por rayas y líneas verticales que intercalan y dividen los colores gris ceniza y rojo vivo en su pechera oficial permanentemente."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Gianluca Vialli",
+      "periodo": "1980-1984",
+      "pos": "Delantero",
+      "desc": "Extraordinario delantero formado en la cantera. Anotó numerosos goles consolidando a la plantilla en la Serie B y guiando su histórico ascenso a la máxima categoría."
+    },
+    {
+      "nombre": "Alviero Chiorri",
+      "periodo": "1984-1992",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo muy querido por los hinchas. Conformó y lideró al equipo durante su campaña ininterrumpida logrando históricos retornos a la Serie A."
+    },
+    {
+      "nombre": "Gustavo Dezotti",
+      "periodo": "1989-1994",
+      "pos": "Delantero",
+      "desc": "Goleador internacional argentino. Fue la principal figura ofensiva de la institución estableciendo altas marcas goleadoras consecutivas a comienzos de los años 90."
+    },
+    {
+      "nombre": "Emiliano Mondonico",
+      "periodo": "1966-1979",
+      "pos": "Delantero",
+      "desc": "Histórico director técnico y exjugador del club. Dirigió al plantel asegurando el rápido retorno deportivo del equipo a competir oficialmente en la Serie A a principios de los 80."
+    },
+    {
+      "nombre": "Luigi Gualco",
+      "periodo": "1985-1996",
+      "pos": "Defensor",
+      "desc": "Defensor central surgido del fútbol base local. Mantiene inamovible el destacado puesto estadístico como el futbolista con mayor cantidad absoluta de presencias con el club."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Emiliano Mondonico",
+      "goles": 88,
+      "periodo": "1966-1979",
+      "partidos": 224,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 88 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1979."
+    },
+    {
+      "nombre": "Gustavo Dezotti",
+      "goles": 51,
+      "periodo": "1989-1994",
+      "partidos": 154,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 51 goles en competiciones oficiales durante su trayectoria en el equipo entre 1989-1994."
+    },
+    {
+      "nombre": "Alviero Chiorri",
+      "goles": 45,
+      "periodo": "1984-1992",
+      "partidos": 210,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984-1992."
+    },
+    {
+      "nombre": "Mariano Bresolin",
+      "goles": 40,
+      "periodo": "1960-1965",
+      "partidos": 140,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1965."
+    },
+    {
+      "nombre": "Gianluca Vialli",
+      "goles": 25,
+      "periodo": "1980-1984",
+      "partidos": 113,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980-1984."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Luciano Cesini",
+      "partidos": 436,
+      "periodo": "1966-1979",
+      "goles": 1,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 436 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1979."
+    },
+    {
+      "nombre": "Mario Montorfano",
+      "partidos": 399,
+      "periodo": "1978-1992",
+      "goles": 6,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 399 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1992."
+    },
+    {
+      "nombre": "Luigi Gualco",
+      "partidos": 365,
+      "periodo": "1985-1996",
+      "goles": 31,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 365 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-1996."
+    },
+    {
+      "nombre": "Felice Garzilli",
+      "partidos": 344,
+      "periodo": "1980-1992",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 344 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1992."
+    },
+    {
+      "nombre": "Corrado Verdelli",
+      "partidos": 304,
+      "periodo": "1989-1997",
+      "goles": 4,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 304 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-1997."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa Anglo-Italiana",
+      "cantidad": 1,
+      "anios": [
+        "1992-93"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1913",
+      "url": "/escudos_historicos/cremonese/Us_cremonese_1913.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/cremonese/Cremonese_30_logo.webp"
+    },
+    {
+      "ano": "1984",
+      "url": "/escudos_historicos/cremonese/Cremonese_1984_logo.webp"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/cremonese/Us_cremonese_1985.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/cremonese/US_Cremonese_logo.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Grigiorossi",
+      "origen": "Instituido en sus primeros meses. Ante escasez, aplicaron retazos de lana gris oscuro fabril combinándolos con carmesí encendido."
+    },
+    {
+      "apodo": "I Violini",
+      "origen": "Honra cívica a los virtuosos artesanos inmortales nacidos en la ciudad de Cremona, base mundial natural de los ilustres luthiers Stradivari."
+    }
+  ]
+}

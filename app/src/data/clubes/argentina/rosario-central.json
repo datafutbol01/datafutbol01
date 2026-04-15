@@ -1,0 +1,355 @@
+{
+  "id": "rosario-central",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "rosario",
+      "canalla",
+      "interior"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Rosario Central",
+    "sigla": "CARC",
+    "fundacion": "24 de diciembre de 1889",
+    "apodo": "Los Canallas, La Academia Rosarina",
+    "estadio_actual": "Gigante de Arroyito",
+    "estadio_apodo": "El Gigante",
+    "estadio_capacidad": 48900,
+    "estadio_inauguracion": "1926-11-14",
+    "estadio_lat": -32.9142,
+    "estadio_lng": -60.6738,
+    "estadio_direccion": "Bv. Avellaneda y Av. Génova, Rosario, Santa Fe",
+    "socios": 80000,
+    "descripcion_corta": "Entidad polideportiva originaria de la ciudad de Rosario. Fue el primer club de fútbol radicado fuera de la provincia de Buenos Aires en consagrarse campeón de campeonatos oficiales de AFA y de un torneo internacional de Conmebol.",
+    "paleta": [
+      {
+        "tag": "Azul Marino",
+        "hex": "#002F6C"
+      },
+      {
+        "tag": "Amarillo Oro",
+        "hex": "#FFD100"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "12-0 a Nueva Chicago (1918)",
+      "maximo_goleador": "Dionisio Waldino Mura (151 goles)",
+      "mas_presencias": "José Jorge González (521 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1889",
+      "hito": "Gestación ferroviaria en los Talleres de Rosario",
+      "desc": "El 24 de diciembre de 1889, un grupo de trabajadores ingleses y escoceses del Ferrocarril Central Argentino se congregó en un modesto galpón de mecánicos sobre la Avenida Alberdi. Liderados por el visionario Colin Calder (quien asumió como primer presidente) y Thomas Mutton, rubricaron la creación del 'Central Argentine Railway Athletic Club'. En 1903, empujados por el clamor popular, liberaron sus estatutos para permitir la inscripción de socios ajenos al ferrocarril, castellanizando su nombre definitivamente al histórico Club Atlético Rosario Central."
+    },
+    {
+      "ano": "1971",
+      "hito": "El primer estruendo del interior del país",
+      "desc": "Tras sortear décadas de postergación en los certámenes metropolitanos, Rosario Central quebró el monopolio porteño en 1971. Bajo la meticulosa ingeniería táctica de Ángel Labruna, el club se consagró campeón del Torneo Nacional. El cenit ineludible de la campaña ocurrió en la semifinal disputada el 19 de diciembre en el Estadio Monumental frente a Newell's Old Boys, inmortalizada por una palomita legendaria y milimétrica de Aldo Pedro Poy que selló el 1-0 definitivo."
+    },
+    {
+      "ano": "1973-1980",
+      "hito": "La era dorada de Timoteo Griguol y el Maestro Zof",
+      "desc": "Sostenidos en una matriz de juveniles prolífica, los canallas consolidaron su dictadura deportiva al alzar el Campeonato Nacional 1973 bajo la conducción maestra del estratega Carlos Timoteo Griguol, destacándose próceres como Carlos Aimar y Aldo Poy. Esta hegemonía de carácter agresivo y vertical tendría su correlato continental cuando en 1980, Ángel Tulio Zof comandó una maquinaria colectiva que arrolló en el Torneo Nacional orquestada por el genial Edgardo Bauza y la implacable percusión ofensiva de Félix Orte."
+    },
+    {
+      "ano": "1987",
+      "hito": "El retorno meteórico al campeonato absoluto",
+      "desc": "En un hecho sin precedentes en la demografía del fútbol mundial, Rosario Central consumó en 1987 la hazaña de consagrarse genuino campeón de Primera División en la misma temporada inmediata a su ascenso desde la Segunda División. Comandados nuevamente por don Ángel Tulio Zof y liderados dentro del campo de juego por el magistral 'Negro' Omar Palma y Hernán Díaz, el equipo auriazul dominó el certamen arrebatando de las manos el torneo a las principales potencias capitalinas."
+    },
+    {
+      "ano": "1995",
+      "hito": "La conquista internacional: Copa Conmebol",
+      "desc": "El 19 de diciembre de 1995, el Gigante de Arroyito fue testigo de un milagro internacional. En el marco de la final de la Copa Conmebol, y habiendo sufrido un devastador revés de 0-4 en Brasil frente al Atlético Mineiro, el equipo dirigido por Zof obró una remontada igualando 4-0 la serie con tantos de Rubén Da Silva y Horacio 'Petaco' Carbonari de cabeza en el descuento. Central terminó adjudicándose su primer título oficial internacional tras una agónica definición por penales frente a su pasional multitud."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Plaza Jewell",
+      "direccion": "Pasaje Gould y Echeverría, Rosario",
+      "desde": 1889,
+      "hasta": 1902,
+      "estado": "Abandonado",
+      "obs": "Primer escenario rústico situado dentro de los propios terrenos o aledaños operativos a las vías e infraestructuras del ferrocarril británico formativo inicial.",
+      "lat": -32.935,
+      "lng": -60.665,
+      "url": "https://www.google.com/maps/search/?api=1&query=Pasaje%20Gould%20y%20Echeverr%C3%ADa%2C%20Rosario"
+    },
+    {
+      "nombre": "Cancha de la Parada Castellanos",
+      "direccion": "Avenida Alberdi y Castellanos",
+      "desde": 1916,
+      "hasta": 1926,
+      "estado": "Desalojado",
+      "obs": "Estadio utilizado provisoriamente mediante la concesión por rentas del uso del suelo, forzando luego al club a desmontar y movilizar arquitectónicamente la estructura perimetral hacia un nuevo recinto definitivo.",
+      "lat": -32.92,
+      "lng": -60.67,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Alberdi%20y%20Castellanos"
+    },
+    {
+      "nombre": "Estadio Gigante de Arroyito",
+      "direccion": "Bv. Avellaneda y Av. Génova, Rosario",
+      "desde": 1926,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto mayoritario final con sucesivas ampliaciones. Fue remodelado extensamente hacia la temporada del 78 permitiendo constituirse como una de las sedes oficiales internacionales durante la disputa del Mundial.",
+      "lat": -32.9142,
+      "lng": -60.671,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bv.%20Avellaneda%20y%20Av.%20G%C3%A9nova%2C%20Rosario"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1889,
+      "hasta": 1903,
+      "c1": "#ED1C24",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "cuadros",
+      "desc": "Camiseta a cuadros rojos y blancos (Central Argentine Railway)."
+    },
+    {
+      "desde": 1903,
+      "hasta": 1904,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Camiseta a bastones azules y blancos."
+    },
+    {
+      "desde": 1904,
+      "hasta": null,
+      "c1": "#003DA5",
+      "c2": "#FFD700",
+      "sh": "#003DA5",
+      "me": "#FFD700",
+      "tipo": "rayas-verticales",
+      "desc": "Diseño definitivo a rayas verticales azules y amarillas oro."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Mario Alberto Kempes",
+      "pos": "Delantero",
+      "apodo": "El Matador",
+      "periodo": "1974-1976",
+      "desc": "Delantero letal que recaló en la institución en 1974 y consolidó promedios goleadores formidables. Su extraordinario rendimiento local lo catapultó al estrellato europeo y a brillar como máximo anotador del fútbol mundial pocos años después."
+    },
+    {
+      "nombre": "Omar Palma",
+      "pos": "Mediocampista / Enganche",
+      "apodo": "El Negro / Tordo",
+      "periodo": "1979-1987, 1992-1998",
+      "desc": "Conductor ofensivo de una longevidad notable que ganó campeonatos nacionales en la década del 80 y cerró su carrera obteniendo la Copa Conmebol en 1995. Su fina pegada y agilidad resultaron vitales en las mayores gestas del club."
+    },
+    {
+      "nombre": "Aldo Poy",
+      "pos": "Delantero / Mediapunta",
+      "apodo": "Aldo",
+      "periodo": "1965-1974",
+      "desc": "Delantero convertido en símbolo eterno gracias a su inolvidable palomita ante el clásico rival en la semifinal del Torneo Nacional de 1971, coronando la campaña que decantó en el primer título oficial de la institución."
+    },
+    {
+      "nombre": "Edgardo Bauza",
+      "pos": "Defensor",
+      "apodo": "El Patón",
+      "periodo": "1977-1982, 1986-1989, 1992",
+      "desc": "Defensor goleador récord en Primera División por su abismal precisión técnica en ejecuciones y juego aéreo. Como director técnico formó sólidas plantillas durante la primera década del siglo XXI, alcanzando semifinales de la Libertadores."
+    },
+    {
+      "nombre": "Marco Ruben",
+      "pos": "Centrodelantero",
+      "apodo": "Marciano",
+      "periodo": "2004-2006, 2015-2022",
+      "desc": "Centrodelantero de enorme entrega que ostenta el récord como máximo goleador oficial del profesionalismo del club, superando la histórica barrera de Waldino Aguirre. Su retorno en plenitud en 2015 afianzó ofensivamente los frentes locales e internacionales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Dionisio Waldino Mura",
+      "goles": 151,
+      "partidos": 240,
+      "periodo": "1940-1950",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 151 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940-1950."
+    },
+    {
+      "nombre": "Edgardo Bauza",
+      "goles": 82,
+      "partidos": 310,
+      "periodo": "1977-1989",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 82 goles en competiciones oficiales durante su trayectoria en el equipo entre 1977-1989."
+    },
+    {
+      "nombre": "Juan Antonio Pizzi",
+      "goles": 72,
+      "partidos": 137,
+      "periodo": "1988-2001",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 72 goles en competiciones oficiales durante su trayectoria en el equipo entre 1988-2001."
+    },
+    {
+      "nombre": "Rubén Bravo",
+      "goles": 71,
+      "partidos": 105,
+      "periodo": "1941-1945",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1945."
+    },
+    {
+      "nombre": "Mario Kempes",
+      "goles": 97,
+      "partidos": 123,
+      "periodo": "1974-1976",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 97 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1976."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "José Jorge González",
+      "partidos": 521,
+      "periodo": "1966-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 521 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1978."
+    },
+    {
+      "nombre": "Omar Palma",
+      "partidos": 390,
+      "periodo": "1979-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 390 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1998."
+    },
+    {
+      "nombre": "Alfredo Fógel",
+      "partidos": 423,
+      "periodo": "1936-1954",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 423 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1936-1954."
+    },
+    {
+      "nombre": "Carlos Aimar",
+      "partidos": 334,
+      "periodo": "1971-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 334 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1979."
+    },
+    {
+      "nombre": "Edgardo Bauza",
+      "partidos": 310,
+      "periodo": "1977-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1989."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 5,
+      "años": [
+        "1971",
+        "1973",
+        "1980",
+        "1987",
+        "2025"
+      ]
+    },
+    {
+      "nombre": "Copa Argentina / Copa de la Liga",
+      "cantidad": 2,
+      "años": [
+        "2018",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 5,
+      "años": [
+        "1915",
+        "1915",
+        "1916",
+        "1916",
+        "1920"
+      ]
+    },
+    {
+      "nombre": "Copa Conmebol",
+      "cantidad": 1,
+      "años": [
+        "1995"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 4,
+      "años": [
+        "1942",
+        "1951",
+        "1985",
+        "2013"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1903",
+      "url": "/escudos/historicos/rosario-central/Ca1903.webp"
+    },
+    {
+      "ano": "1964",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1964.svg"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos/historicos/rosario-central/Club_Atl-tico_Rosario_Central_1976.webp"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1983.svg"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1987.svg"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1989.svg"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1992.svg"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1995.svg"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_1998.svg"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/rosario-central/Club_Atlético_Rosario_Central_2000.svg"
+    },
+    {
+      "ano": "2003",
+      "url": "/escudos/historicos/rosario-central/Rosario_Central_2003.svg"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos/historicos/rosario-central/Rosario_Central_2007.svg"
+    },
+    {
+      "ano": "2019",
+      "url": "/escudos/historicos/rosario-central/Rosario_Central_2019.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/rosario-central.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Canallas",
+      "origen": "Surge a partir de una disputa benéfica acaecida en los comienzos de la década de 1920 en la ciudad de Rosario. Diversos organismos peticionaron formalmente al club para organizar un partido recaudatorio a fin de donar dinero al asilo del Hospital Carrasco, el cual trataba a enfermos locales asilados. Al rechazar de forma estricta la comitiva directiva este ofrecimiento, la respuesta de repudio por parte de la población consistió en tildarlos cívicamente como individuos insensibles o canallas."
+    }
+  ]
+}

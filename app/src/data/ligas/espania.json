@@ -1,0 +1,71 @@
+{
+  "id": "espania",
+  "nombre_oficial": "LaLiga",
+  "nombre_completo": "Campeonato Nacional de Liga de Primera División",
+  "pais": "España",
+  "confederacion": "UEFA",
+  "fundacion": "1929",
+  "organizador": "Liga Nacional de Fútbol Profesional (LFP) y RFEF",
+  "sitio_web": "https://www.laliga.com/",
+  "descripcion_corta": "La Primera División del sistema de ligas de fútbol de España.",
+  "historia": [
+    {
+      "periodo": "1929-Presente",
+      "descripcion": "El campeonato de Liga fue creado en 1929 y ha operado ininterrumpidamente, a excepción de la Guerra Civil Española (1936-1939). Forma junto a la Copa del Rey el pináculo del sistema piramidal."
+    }
+  ],
+  "formatos_historicos": [
+    {
+      "epoca": "Actualidad",
+      "formato": "20 equipos. Formato de liga de doble vuelta (38 fechas). Los tres últimos descienden a Segunda División."
+    }
+  ],
+  "clubes": [
+    "real-madrid",
+    "barcelona",
+    "atletico-madrid",
+    "athletic-club",
+    "real-sociedad",
+    "real-betis",
+    "villarreal",
+    "valencia",
+    "sevilla",
+    "osasuna",
+    "celta-vigo",
+    "rayo-vallecano",
+    "mallorca",
+    "alaves",
+    "las-palmas",
+    "getafe",
+    "leganes",
+    "real-valladolid",
+    "espanyol",
+    "girona"
+  ],
+  "clasicos": [
+    {
+      "nombre": "El Clásico",
+      "equipo1": "Real Madrid",
+      "equipo2": "FC Barcelona",
+      "descripcion": "El duelo entre los dos clubes más laureados y de mayor impacto histórico del fútbol español."
+    },
+    {
+      "nombre": "Derbi Madrileño",
+      "equipo1": "Real Madrid",
+      "equipo2": "Atlético de Madrid",
+      "descripcion": "El derbi de la capital de España."
+    },
+    {
+      "nombre": "El Gran Derbi",
+      "equipo1": "Sevilla FC",
+      "equipo2": "Real Betis",
+      "descripcion": "La máxima rivalidad de la ciudad de Sevilla y la comunidad andaluza."
+    },
+    {
+      "nombre": "Derbi Vasco",
+      "equipo1": "Athletic Club",
+      "equipo2": "Real Sociedad",
+      "descripcion": "La confrontación representativa del País Vasco."
+    }
+  ]
+}

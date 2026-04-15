@@ -1,0 +1,69 @@
+{
+  "id": "inglaterra",
+  "nombre_oficial": "Premier League",
+  "nombre_completo": "English Premier League",
+  "pais": "Inglaterra",
+  "confederacion": "UEFA",
+  "fundacion": "1992 (como Premier League)",
+  "organizador": "The Football Association (The FA)",
+  "sitio_web": "https://www.premierleague.com/",
+  "descripcion_corta": "La Primera División del sistema de ligas del fútbol inglés.",
+  "historia": [
+    {
+      "periodo": "1888-1992",
+      "descripcion": "La máxima categoría era conocida como la First Division. Fue la primera liga nacional de fútbol en el mundo."
+    },
+    {
+      "periodo": "1992-Presente",
+      "descripcion": "Los clubes de la First Division se independizaron para formar la Premier League, buscando mayor autonomía y beneficios por derechos televisivos."
+    }
+  ],
+  "formatos_historicos": [
+    {
+      "epoca": "Actualidad",
+      "formato": "20 equipos. Formato de liga de doble vuelta (38 fechas). Los tres últimos descienden al EFL Championship."
+    }
+  ],
+  "clubes": [
+    "arsenal",
+    "aston-villa",
+    "bournemouth",
+    "brentford",
+    "brighton",
+    "burnley",
+    "chelsea",
+    "crystal-palace",
+    "everton",
+    "fulham",
+    "leeds-united",
+    "liverpool",
+    "manchester-city",
+    "manchester-united",
+    "newcastle",
+    "nottingham-forest",
+    "sunderland",
+    "tottenham",
+    "west-ham",
+    "wolves"
+  ],
+  "clasicos": [
+    {
+      "nombre": "North-West Derby",
+      "equipo1": "Manchester United",
+      "equipo2": "Liverpool",
+      "descripcion": "La mayor rivalidad del fútbol inglés debido a la historia industrial y competitiva de ambas ciudades."
+    },
+    {
+      "nombre": "Derby de Manchester",
+      "equipo1": "Manchester United",
+      "equipo2": "Manchester City",
+      "descripcion": "El derby de la ciudad de Mánchester."
+    },
+    {
+      "nombre": "North London Derby",
+      "equipo1": "Arsenal",
+      "equipo2": "Tottenham Hotspur",
+      "descripcion": "La gran rivalidad del norte de Londres."
+    }
+  ]
+}

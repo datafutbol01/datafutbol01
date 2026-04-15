@@ -1,0 +1,247 @@
+{
+  "id": "union-berlin",
+  "meta": {
+    "slug": "union-berlin"
+  },
+  "datos": {
+    "nombre_completo": "1. FC Union Berlin e. V.",
+    "nombre_oficial": "1. FC Union Berlin",
+    "nombre_corto": "Union Berlin",
+    "apodo": "Die Eisernen (Los de Hierro)",
+    "fundacion": "1966",
+    "estadio_actual": "Stadion An der Alten Försterei",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 22012,
+    "estadio_inauguracion": "1920",
+    "estadio_direccion": "An d. Wuhlheide 263, 12555 Berlin, Alemania",
+    "estadio_lat": 52.4578,
+    "estadio_lng": 13.568,
+    "escudo_actual": "/escudos/union-berlin.svg",
+    "sigla": "FCU",
+    "socios": 55000,
+    "descripcion_corta": "Club obrero históricamente popular del Berlín Este que logró estabilizarse recientemente en la máxima categoría europea.",
+    "paleta": [
+      {
+        "tag": "Rojo Oscuro",
+        "hex": "#D4011D"
+      },
+      {
+        "tag": "Amarillo Oro",
+        "hex": "#F3B204"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Karim Benyamina (87)",
+      "mas_presencias": "Lutz Hendel (422)",
+      "mayor_goleada": "8-0 vs Chemie Leipzig"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1966",
+      "hito": "Fundación en las Sombras de Alemania Oriental",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1968",
+      "hito": "Conquista de la Copa FDGB en la RDA",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2008",
+      "hito": "Reconstrucción Voluntaria del Estadio",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2019",
+      "hito": "Ascenso Inédito a la 1. Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2023",
+      "hito": "Clasificación a la UEFA Champions League",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadion An der Alten Försterei (Alte Försterei)",
+      "capacidad": "22.012",
+      "inauguracion": "1920",
+      "url": "https://www.google.com/maps/search/?api=1&query=An%20d.%20Wuhlheide%20263%2C%2012555%20Berlin%2C%20Alemania",
+      "direccion": "An d. Wuhlheide 263, 12555 Berlin, Alemania",
+      "descripcion": "Monumento a la resistencia obrera del este construido y ampliado físicamente con la propia sangre y sudor de miles de hinchas voluntarios y albañiles de la tribuna.",
+      "lat": 52.4578,
+      "lng": 13.568
+    },
+    {
+      "nombre": "Friedrich-Ludwig-Jahn-Sportpark",
+      "capacidad": "19.708",
+      "inauguracion": "1952",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cantianstra%C3%9Fe%2024%2C%2010437%20Berlin%2C%20Alemania",
+      "direccion": "Cantianstraße 24, 10437 Berlin, Alemania",
+      "descripcion": "Un refugio secundario fundamental oriental empleado por la fuerza por las regulaciones del torneo o en época constructiva y bloqueada que impedía el uso formal de su estadio capitalino regular.",
+      "lat": 52.5435,
+      "lng": 13.4042
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1966,
+      "hasta": 1990,
+      "c1": "#d3062b",
+      "c2": "#d3062b",
+      "sh": "#ffffff",
+      "me": "#d3062b",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 2000,
+      "hasta": null,
+      "c1": "#d3062b",
+      "c2": "#ffffff",
+      "sh": "#d3062b",
+      "me": "#d3062b",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Torsten Mattuschka",
+      "periodo": "2005-2014",
+      "pos": "Mediocampista",
+      "desc": "Mediapunta y mediocampista especialista absoluto en balones detenidos. Se convirtió en indiscutido ídolo sumando decisivas anotaciones en la extensa y rigurosa era previa al resurgir de ascenso."
+    },
+    {
+      "nombre": "Christopher Trimmel",
+      "periodo": "2014-Act",
+      "pos": "Defensor / Lateral",
+      "desc": "Defensor y lateral originario de otro país. Asumió la capitanía innegociable asegurando importantes rendimientos hasta lograr disputar como capitán la exclusiva etapa de competición europea."
+    },
+    {
+      "nombre": "Karim Benyamina",
+      "periodo": "2005-2011",
+      "pos": "Delantero",
+      "desc": "Centrodelantero forastero que se garantizó la asertividad y efectividad exclusiva para consagrarse de manera oficial como el innegociable e histórico máximo anotador deportivo indisputado en la institución."
+    },
+    {
+      "nombre": "Christian Beeck",
+      "periodo": "1993-2005",
+      "pos": "Defensor",
+      "desc": "Defensor férreo afianzado. Disputó numerosos enfrentamientos asiduos a nivel defensivo asegurando la base estable titular en una serie de torneos nacionales garantizando fuertes bases competitivas absolutas."
+    },
+    {
+      "nombre": "Sheraldo Becker",
+      "periodo": "2019-2024",
+      "pos": "Delantero",
+      "desc": "Extremo formador veloz que lideró con grandes llegadas ofensivas. Garantizó triunfos absolutos participando del momento estelar clasificando al legendario club en competiciones magnas del campeonato continental de Europa."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Karim Benyamina",
+      "goles": 87,
+      "periodo": "2005-2011",
+      "partidos": 213,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 87 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2011."
+    },
+    {
+      "nombre": "Torsten Mattuschka",
+      "goles": 61,
+      "periodo": "2005-2014",
+      "partidos": 281,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2014."
+    },
+    {
+      "nombre": "Sebastian Polter",
+      "goles": 46,
+      "periodo": "2014-2020",
+      "partidos": 104,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2020."
+    },
+    {
+      "nombre": "Simon Terodde",
+      "goles": 31,
+      "periodo": "2011-2014",
+      "partidos": 87,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 31 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2014."
+    },
+    {
+      "nombre": "Sheraldo Becker",
+      "goles": 24,
+      "periodo": "2019-2024",
+      "partidos": 140,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 24 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2024."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Christopher Trimmel",
+      "partidos": 330,
+      "periodo": "2014-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 330 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-Act."
+    },
+    {
+      "nombre": "Torsten Mattuschka",
+      "partidos": 281,
+      "periodo": "2005-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 281 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2014."
+    },
+    {
+      "nombre": "Michael Parensen",
+      "partidos": 249,
+      "periodo": "2009-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 249 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2020."
+    },
+    {
+      "nombre": "Christian Stuff",
+      "partidos": 162,
+      "periodo": "2006-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 162 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2014."
+    },
+    {
+      "nombre": "Robin Knoche",
+      "partidos": 160,
+      "periodo": "2020-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2020-2024."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa de Alemania Oriental (FDGB-Pokal)",
+      "cantidad": 1,
+      "anios": [
+        "1967-68"
+      ]
+    },
+    {
+      "nombre": "3. Liga",
+      "cantidad": 1,
+      "anios": [
+        "2008-09"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/union-berlin/Berliner_TSC_logo.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/union-berlin.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Eisernen",
+      "origen": "Acogido para reivindicar el origen estricto y el duro asentamiento fundacional oriental de cuna industrial obrera. La cúpula germana surgió íntegramente gracias al masivo y rústico esfuerzo de rudos operarios metalúrgicos de la dura capital, lo que derivó rápidamente en referir a su cuadro llanamente como Los históricos de Hierro asiduos, o Los de Hierro (Eisernen)."
+    }
+  ]
+}

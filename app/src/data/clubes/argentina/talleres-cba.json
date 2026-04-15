@@ -1,0 +1,279 @@
+{
+  "id": "talleres-cba",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "cordoba",
+      "matador",
+      "la t"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Talleres",
+    "sigla": "CAT",
+    "fundacion": "12 de octubre de 1913",
+    "apodo": "La T, El Matador, Los Albiazules",
+    "estadio_actual": "Mario Alberto Kempes",
+    "estadio_apodo": "El Chateau Carreras",
+    "estadio_capacidad": 57000,
+    "estadio_inauguracion": "1978-05-16",
+    "estadio_lat": -31.3683,
+    "estadio_lng": -64.2464,
+    "estadio_direccion": "Bv. Cárcano S/N, Córdoba Capital",
+    "socios": 75000,
+    "descripcion_corta": "Institución polideportiva de la ciudad de Córdoba, originariamente vinculada al sector ferroviario. Destacado por ser el único club indirectamente afiliado a la AFA en consagrarse campeón de un torneo internacional oficial organizado por la Conmebol.",
+    "paleta": [
+      {
+        "tag": "Azul Noche Intenso",
+        "hex": "#002F6C"
+      },
+      {
+        "tag": "Blanco Puro",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-2 a Mariano Moreno (1982)",
+      "maximo_goleador": "Miguel Antonio Romero (163 goles)",
+      "mas_presencias": "Luis Galván (502 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1913",
+      "hito": "Fundación ferroviaria en La Docta por empleados británicos",
+      "desc": "El 12 de octubre de 1913, operarios técnicos y personal jerárquico originarios de las redes ferroviarias británicas, empleados locales de los pesados talleres y maestranzas del Ferrocarril Central Córdoba, fundaron y acordaron formalmente la identidad del 'Club Atlético Talleres Central Córdoba'. Bajo la tutela originaria de Tomás Lawson, primer presidente que cimentó la estructura burocrática del equipo fundacional, eligieron una camiseta rayada conformada a bastones azules y blancos entrelazados imitando al club inglés Blackburn Rovers. En la actualidad, su fundación es reconocida como la mayor fuerza barrial, deportiva, cívica y social movilizadora del interior de la República Argentina."
+    },
+    {
+      "ano": "1977",
+      "hito": "La trágica y emotiva final del Nacional frente a Independiente",
+      "desc": "Conformando una matriz táctica letal forjada de exquisitos volantes creativos e invencibles punteros ofensivos liderados por la 'Rana' Valencia y el artillero Humberto Bravo, Talleres dominó transversalmente a los estáticos rivales capitalinos dentro del Campeonato Nacional de 1977. La escalada triunfal llegó a la durísima finalísima frente al sólido Independiente en la propia ciudad de Córdoba capital. Dominando 2-1 el marcador y con superioridad numérica de jugadores, Independiente enhebró en los escasos minutos finales de agonía un fulminante gol con un escuadra raleada firmando el dramático empate que postergó a Talleres en el título superior y consagró campeones a los demonios rojos en suelo visitante cordobés."
+    },
+    {
+      "ano": "1999",
+      "hito": "Título sudamericano: La consagración en la Copa Conmebol",
+      "desc": "Rompiendo los linderos fronterizos tras el arribo clave como gestor deportivo técnico supremo del profesor estratega Ricardo Gareca (el icónico 'Tigre'), el club disputó palmo a palmo en 1999 el prestigioso torneo continental Copa Conmebol oficial superior enfrentando las eliminatorias con estoica rigurosidad. Llegados a las últimas llaves de acceso, los cordobeses sobrellevaron dramáticas reveses y doblegaron sobre el campo en el mítico recinto al combinado de CSA perteneciente al interior de las bases profesionales deportivas de Brasil concretando su histórica consagración dorada gracias a un agónico y mítico remate testarazo letal milimétrico frontal cabezazo estallado por su legendario defensor central Maidana para arrebatar de una vez un título internacional indiscutible hacia Córdoba y el interior soberano argentino."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "La Boutique (Estadio Francisco Cabasés)",
+      "direccion": "Av. Pablo Ricchieri 3195, Barrio Jardín, Córdoba",
+      "desde": 1931,
+      "hasta": null,
+      "estado": "Sede Social / Prácticas",
+      "obs": "Recinto histórico del club inaugurado bajo un estilo arquitectónico de tipo art decó. Principal sede utilizada por el club hasta la construcción del estadio provincial, siendo actualmente conservado para actividades institucionales de socios, fútbol femenino y competiciones de la división reserva.",
+      "lat": -31.442,
+      "lng": -64.182,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Pablo%20Ricchieri%203195%2C%20Barrio%20Jard%C3%ADn%2C%20C%C3%B3rdoba"
+    },
+    {
+      "nombre": "Estadio Mario Alberto Kempes",
+      "direccion": "Reserva Natural Chateau Carreras, Córdoba",
+      "desde": 1978,
+      "hasta": null,
+      "estado": "Sede Principal Oficial",
+      "obs": "Estadio provincial construido originalmente como sede para la Copa del Mundo 1978. Talleres utiliza regularmente las instalaciones para oficiar de local en las competencias de Primera División y torneos internacionales organizados por Conmebol debido a la envergadura de aforo requerida.",
+      "lat": -31.3683,
+      "lng": -64.246,
+      "url": "https://www.google.com/maps/search/?api=1&query=Reserva%20Natural%20Chateau%20Carreras%2C%20C%C3%B3rdoba"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1913,
+      "hasta": null,
+      "c1": "#003da5",
+      "c2": "#ffffff",
+      "sh": "#003da5",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Histórica inmaculada matriz formativa dispuesta rigurosa y majestuosa por operarios ferroviarios originarios de Córdoba estructurando el ropaje purista legendario e imperecedero sobre gruesos listones verticales alternados en estricto crudo marino azul y el blanco poético para dominar los potreros de la docta y."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Daniel Willington",
+      "pos": "Enganche",
+      "apodo": "El Loco",
+      "periodo": "1962-1981 (Múltiples Ciclos)",
+      "desc": "Exquisito mediocampista ofensivo forjado de una potencia técnica distinguida y natural remate. Fue un símbolo insoslayable durante el esplendor institucional desarrollado regionalmente en la década de 1960 y 1970."
+    },
+    {
+      "nombre": "Mario Kempes",
+      "pos": "Delantero",
+      "apodo": "El Matador",
+      "periodo": "1973",
+      "desc": "Reconocido goleador que protagonizó un rutilante paso por las filas del plantel. En la década de los setenta, anotó una asombrosa cantidad de tantos, cimentando rápidamente la base de su extraordinaria proyección mundial a futuro."
+    },
+    {
+      "nombre": "José Daniel Valencia",
+      "pos": "Enganche",
+      "apodo": "Rana",
+      "periodo": "1975-1988",
+      "desc": "Exquisito mediocampista ofensivo forjado de una potencia técnica distinguida y natural remate. Fue un símbolo insoslayable durante el esplendor institucional desarrollado regionalmente en la década de 1960 y 1970."
+    },
+    {
+      "nombre": "Pablo Guiñazú",
+      "pos": "Mediocampista Central",
+      "apodo": "El Cholo",
+      "periodo": "2016-2019",
+      "desc": "Experimentado volante central de recuperación devenido en referente ineludible contemporáneo. Se ganó la idolatría permanente en 2016 al ensayar un agónico e inesperado remate al ángulo que consumó el ascenso definitivo de vuelta a Primera."
+    },
+    {
+      "nombre": "Luis Galván",
+      "motivo": "Exponente superlativo del talento cordobés en la década del '60 y '70; su técnica exquisita lo erigió en mito viviente del club.",
+      "pos": "Defensor",
+      "apodo": "El Maestro",
+      "periodo": "1970-1982",
+      "desc": "Zaguero central mundialista de enorme serenidad táctica, quite y posicionamiento estricto. Representó a la institución ininterrumpidamente durante todo el ciclo superior nacional siendo pilar irremplazable en los equipos de 1977."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Miguel Antonio Romero",
+      "goles": 163,
+      "partidos": 242,
+      "periodo": "1955-1968",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 163 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1968."
+    },
+    {
+      "nombre": "Humberto Bravo",
+      "goles": 140,
+      "partidos": 237,
+      "periodo": "1974-1981",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1981."
+    },
+    {
+      "nombre": "Mario Bevilacqua",
+      "goles": 75,
+      "partidos": 267,
+      "periodo": "1983-1994",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1994."
+    },
+    {
+      "nombre": "José Reinaldi",
+      "goles": 71,
+      "partidos": 218,
+      "periodo": "1974-1984",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1984."
+    },
+    {
+      "nombre": "Roberto Oste",
+      "goles": 60,
+      "partidos": 160,
+      "periodo": "1994-1998",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 60 goles en competiciones oficiales durante su trayectoria en el equipo entre 1994-1998."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Luis Galván",
+      "partidos": 502,
+      "periodo": "1970-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 502 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1982."
+    },
+    {
+      "nombre": "Víctor Binello",
+      "partidos": 339,
+      "periodo": "1973-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 339 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1982."
+    },
+    {
+      "nombre": "Mario Bevilacqua",
+      "partidos": 267,
+      "periodo": "1983-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 267 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1994."
+    },
+    {
+      "nombre": "Guido Herrera",
+      "partidos": 265,
+      "periodo": "2016-Presente",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 265 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-Presente."
+    },
+    {
+      "nombre": "Miguel Oviedo",
+      "partidos": 255,
+      "periodo": "1974-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 255 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1984."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa Conmebol",
+      "cantidad": 1,
+      "años": [
+        "1999"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1998",
+        "2016"
+      ]
+    },
+    {
+      "nombre": "Torneo Federal Autónomo",
+      "cantidad": 2,
+      "años": [
+        "2013",
+        "2015"
+      ]
+    },
+    {
+      "nombre": "Ligas Cordobesas Regionales",
+      "cantidad": 27,
+      "años": [
+        "Historial Completo Desde 1915"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1913",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1913.webp"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1920.webp"
+    },
+    {
+      "ano": "1923",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1923.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1942.webp"
+    },
+    {
+      "ano": "1958",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1958%2C_2012.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos/historicos/talleres-cba/Talleres_1973.webp"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos/historicos/talleres-cba/Escudo_Talleres_2015.svg"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos/historicos/talleres-cba/Talleres_2025.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/talleres-cba.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Matadores",
+      "origen": "Título instalado y popularizado en las páginas del impreso local La Voz del Interior durante su estallido deportivo de 1970. Su firme adjudicación remite estrictamente a la letal racha récord impuesta en las competencias del interior sumando la incontable cifra de 24 encuentros oficiales disputados al hilo de forma invicta. Un ilustre reportero lo catalogó equiparando directamente el plantel táctico de la institución a los míticos Matadores pioneros del equipo San Lorenzo de Almagro forjados años antes a nivel nacional."
+    }
+  ]
+}

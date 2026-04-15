@@ -1,0 +1,295 @@
+{
+  "id": "gimnasia-lp",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "la plata",
+      "lobo",
+      "decano",
+      "basurero"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club de Gimnasia y Esgrima La Plata",
+    "sigla": "CGE",
+    "fundacion": "3 de junio de 1887",
+    "apodo": "El Lobo, El Decano de América, Los Triperos",
+    "estadio_actual": "Juan Carmelo Zerillo",
+    "estadio_apodo": "El Bosque",
+    "estadio_capacidad": 30000,
+    "estadio_inauguracion": "1924-04-26",
+    "estadio_lat": -34.9125,
+    "estadio_lng": -57.9317,
+    "estadio_direccion": "Avenida 60 y 118, La Plata, Buenos Aires",
+    "socios": 35000,
+    "descripcion_corta": "Institución decana del fútbol sudamericano, fundada en 1887. Con sede en la ciudad de La Plata, el 'Lobo' mantiene una profunda representación deportiva y social en la región, siendo animador constante de los certámenes de la Primera División argentina y habiendo conquistado títulos nacionales y la Copa Centenario.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#001D4A"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-1 a Racing Club (1961)",
+      "maximo_goleador": "Arturo Naón (105 goles)",
+      "mas_presencias": "Jorge San Esteban (462 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1887",
+      "hito": "Fundación en el local de la calle 7",
+      "desc": "El 3 de junio de 1887, cincuenta socios vinculados al comercio y la administración pública se reunieron en el local comercial de la Avenida 7 para firmar el acta constitutiva del Club de Gimnasia y Esgrima. Presidida por Saturnino Perdriel (oficial del Ministerio de Hacienda), la institución promovía originalmente la esgrima y gimnasia, y no incorporó el fútbol formalmente hasta principios del siglo XX, cuando la influencia británica se consolidó en la ciudad."
+    },
+    {
+      "ano": "1929",
+      "hito": "El Campeonato Amateur de Primera División",
+      "desc": "Bajo la dirección del entrenador húngaro Emérico Hirschl, el equipo conocido popularmente como 'El Expreso' conquistó el Campeonato de Primera División de 1929. El título se definió en febrero de 1930 en un partido de desempate disputado en el viejo estadio de River Plate en Recoleta, donde Gimnasia superó por 2-1 a Boca Juniors con goles de Martín Maleanni."
+    },
+    {
+      "ano": "1993",
+      "hito": "La Copa Centenario",
+      "desc": "Con motivo del centenario de la Asociación del Fútbol Argentino, se disputó un torneo oficial que finalizó a principios de 1994. Dirigido por Roberto Perfumo, Gimnasia y Esgrima La Plata superó las diferentes instancias eliminatorias frente a varios rivales clásicos para culminar su campaña derrotando 3-1 a River Plate en la final disputada en el estadio del Bosque, asegurando así un nuevo trofeo oficial."
+    },
+    {
+      "ano": "1995-1998",
+      "hito": "El ciclo de Carlos Timoteo Griguol",
+      "desc": "La llegada del experimentado director técnico Carlos Timoteo Griguol marcó el período competitivo moderno más destacado del club. Inculcando gran rigor táctico e impulsando el desarrollo de jugadores juveniles, Gimnasia peleó el liderazgo en varios campeonatos consecutivos. Este proceso incluyó campañas de alto rendimiento que resultaron en los subcampeonatos de los torneos Clausura 1995, Clausura 1996 y Apertura 1998 de la Primera División."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Plaza de Juegos Atléticos",
+      "direccion": "Avenida 1 y Calle 47, La Plata",
+      "desde": 1901,
+      "hasta": 1905,
+      "estado": "Histórico",
+      "obs": "Primer predio propio para actividades al aire libre otorgado por el gobierno provincial (Ley 2784). Allí se disputó el primer partido oficial de fútbol en la historia de la ciudad. El club lo desocupó cuando las tierras fueron cedidas a la Universidad Nacional de La Plata.",
+      "lat": -34.9125,
+      "lng": -57.9405,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%201%20y%20Calle%2047%2C%20La%20Plata"
+    },
+    {
+      "nombre": "Campo del Club Independencia y Ferrocarril Provincial",
+      "direccion": "Calle 72 y 12, La Plata",
+      "desde": 1916,
+      "hasta": 1923,
+      "estado": "Histórico",
+      "obs": "Tras regresar a la práctica activa del fútbol de competencia en 1915, el club utilizó esporádicamente el campo del club Independencia para luego trasladarse y oficiar de local entre 1916 y 1923 en la cancha del Club Ferrocarril Provincial.",
+      "lat": -34.9137,
+      "lng": -57.9341,
+      "url": "https://www.google.com/maps/search/?api=1&query=Calle%2072%20y%2012%2C%20La%20Plata"
+    },
+    {
+      "nombre": "Estadio Juan Carmelo Zerillo",
+      "direccion": "Avenida 60 y 118, La Plata",
+      "desde": 1924,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado oficialmente el 26 de abril de 1924 en los terrenos ubicados en el predio geográfico del parque público local, por lo cual es llamado habitualmente 'El Bosque'. En 1929 fue el recinto de la consagración oficial del equipo.",
+      "lat": -34.9125,
+      "lng": -57.9317,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%2060%20y%20118%2C%20La%20Plata"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1887,
+      "hasta": 1903,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Blancas lisas utilizadas para la práctica de esgrima."
+    },
+    {
+      "desde": 1903,
+      "hasta": 1910,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Uso de camiseta rayada celeste y blanca o azul y blanca."
+    },
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "franja-horizontal",
+      "desc": "Diseño inalterable blanco con la franja horizontal azul marino."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "René Favaloro",
+      "pos": "Hincha Emblema / Institucional",
+      "apodo": "Doctor",
+      "periodo": "Ad-eternum",
+      "desc": "Prestigioso médico inventor del bypass coronario y reconocido mundialmente. Al margen de lo deportivo, su profundo fanatismo por la institución lo convirtió en el máximo emblema moral y pasional representativo de gran parte de los simpatizantes."
+    },
+    {
+      "nombre": "Pedro Troglio",
+      "pos": "Director Técnico / Mediocampista",
+      "apodo": "Peter",
+      "periodo": "1997-2002 (Jug), Múltiples ciclos (DT)",
+      "desc": "Mediocampista todoterreno y figura de la Selección Nacional que jugó en el club durante múltiples ciclos. Destacó fuertemente en su posterior etapa como entrenador, regresando en varias etapas de crisis para estabilizar competitivamente a la plantilla."
+    },
+    {
+      "nombre": "Guillermo Barros Schelotto",
+      "pos": "Extremo",
+      "apodo": "El Mellizo",
+      "periodo": "1991-1997",
+      "desc": "Atacante surgido de las formativas, de juego rápido, punzante e irreverente. Se destacó tempranamente a mediados de los 90 junto a su hermano, conformando planteles que pelearon intensamente campeonatos de Primera División."
+    },
+    {
+      "nombre": "Arturo Naón",
+      "pos": "Delantero",
+      "apodo": "Torito",
+      "periodo": "1928-1934, 1939",
+      "desc": "Es el máximo goleador de toda la historia de la institución. Delantero de instinto goleador incuestionable durante la primera década del profesionalismo argentino (1930s), cuyas impresionantes cifras artilleras siguen imbatidas."
+    },
+    {
+      "nombre": "Jorge San Esteban",
+      "pos": "Defensor",
+      "apodo": "El Coco",
+      "periodo": "1992-2003, 2004-2009",
+      "desc": "Férreo zaguero central que sostiene el récord moderno histórico de presencias al haber disputado más de 450 partidos. Fue estandarte defensivo y gran capitán del equipo durante la década de 1990 y los primeros años de los 2000."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Arturo Naón",
+      "goles": 105,
+      "partidos": 120,
+      "periodo": "1927-1934",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1927-1934."
+    },
+    {
+      "nombre": "Diego Francisco Bayo",
+      "goles": 71,
+      "partidos": 138,
+      "periodo": "1955-1965",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1965."
+    },
+    {
+      "nombre": "Gualberto Vidal Muggione",
+      "goles": 61,
+      "partidos": 126,
+      "periodo": "1952-1956",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1956."
+    },
+    {
+      "nombre": "Pedro Pablo Mansilla",
+      "goles": 49,
+      "partidos": 113,
+      "periodo": "1956-1960",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 1956-1960."
+    },
+    {
+      "nombre": "Guillermo Barros Schelotto",
+      "goles": 45,
+      "partidos": 181,
+      "periodo": "1991-1997",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-1997."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jorge San Esteban",
+      "partidos": 462,
+      "periodo": "1992-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 462 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2009."
+    },
+    {
+      "nombre": "Guillermo Sanguinetti",
+      "partidos": 393,
+      "periodo": "1991-2003",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 393 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1991-2003."
+    },
+    {
+      "nombre": "Oscar Olivera",
+      "partidos": 324,
+      "periodo": "1975-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1984."
+    },
+    {
+      "nombre": "Enzo Leonardo Noce",
+      "partidos": 321,
+      "periodo": "1989-2003",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 321 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2003."
+    },
+    {
+      "nombre": "Lucas Licht",
+      "partidos": 307,
+      "periodo": "2001-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 307 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 1,
+      "años": [
+        "1929"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas / Copa Centenario",
+      "cantidad": 1,
+      "años": [
+        "1993"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 3,
+      "años": [
+        "1944",
+        "1947",
+        "1952"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1887",
+      "url": "/escudos/historicos/gimnasia-lp/Gimnasia_y_Esgrima_1887.webp"
+    },
+    {
+      "ano": "1900",
+      "url": "/escudos/historicos/gimnasia-lp/Gimnasialp_logo_1900.webp"
+    },
+    {
+      "ano": "1902",
+      "url": "/escudos/historicos/gimnasia-lp/Gimnasia_y_esgrima_1902.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos/historicos/gimnasia-lp/Gimnasia_y_esgrima_1941.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/gimnasia-lp.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Triperos",
+      "origen": "Surgido temporal y sociológicamente en la década de 1920 originando del componente puramente clasista de obrera gremial en la ciudad de la Plata y Berisso Ensenada donde se localizaron y gran parte masiva en labores en los frigoríficos originando por tanto que gran operativad obrera manual consistía activamente en el vaciamiento o extracción masiva incesante fáctica de incesantes tripas limpiantes bovinas del faenado animal vacuno."
+    },
+    {
+      "apodo": "El Lobo",
+      "origen": "Presentado y popularizado en las páginas del matutino gráfico local El Día en abril de 1953. El reconocido ilustrador de la zona, Julio César Walter, delineó e impuso la figura de un feroz animal. Su objetivo explícito fue ilustrar la histórica rivalidad deportiva creando un antagonismo biológico natural. Argumentó que su equipo debía comportarse como el lobo cazador persiguiendo constantemente al roedor o rata que representaba gráficamente a su histórico rival."
+    }
+  ]
+}

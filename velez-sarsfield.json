@@ -1,0 +1,36 @@
+{
+  "id": "velez-sarsfield",
+  "datos": {
+    "nombre_oficial": "Club Atlético Vélez Sársfield",
+    "nombre_corto": "Vélez Sársfield",
+    "apodos": [
+      "El Fortín",
+      "El Fortín de Liniers"
+    ],
+    "fundacion": "1910-01-01",
+    "ciudad": "Buenos Aires",
+    "barrio": "Liniers",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio José Amalfitani",
+    "estadio_capacidad": 49540,
+    "estadio_inauguracion": "1951-03-25",
+    "estadio_lat": -34.6408,
+    "estadio_lng": -58.5267,
+    "debut_primera": 1931
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#FFFFFF",
+        "#003DA5"
+      ],
+      "diseno": "unicolor_con_V"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 10,
+  "meta": {
+    "datos_completos": false
+  }
+}

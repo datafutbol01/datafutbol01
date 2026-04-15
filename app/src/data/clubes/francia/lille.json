@@ -1,0 +1,280 @@
+{
+  "id": "lille",
+  "meta": {
+    "slug": "lille"
+  },
+  "datos": {
+    "nombre_completo": "Lille OSC",
+    "nombre_oficial": "Lille OSC",
+    "nombre_corto": "Lille",
+    "apodo": "Les Dogues",
+    "fundacion": "23 de Septiembre de 1944",
+    "estadio_actual": "Decathlon Arena (Stade Pierre-Mauroy)",
+    "presidente": "Olivier Létang",
+    "entrenador": "Paulo Fonseca",
+    "estadio_capacidad": "50.186",
+    "estadio_inauguracion": "2012",
+    "estadio_direccion": "261 Bd de Tournai, 59650 Villeneuve-d'Ascq, Francia",
+    "estadio_lat": 50.6119,
+    "estadio_lng": 3.1305,
+    "sigla": "LOSC",
+    "socios": 45000,
+    "descripcion_corta": "Franquicia norteña producto de una asociación en 1944 de clubes circundantes, operando con una política formal de exploración y transferencias internacionales.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E60000"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#000066"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jean Baratte (218 goles)",
+      "mas_presencias": "Marceau Somerlinck (433 partidos)",
+      "mayor_goleada": "10-0 vs Fives (1942)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/lille.webp"
+  },
+  "historia": [
+    {
+      "ano": "1944",
+      "hito": "La Gran Fusión de Post Guerra al Borde de la Frontera",
+      "desc": "Aún sangrantes de metralla invasora y asimilando férreos y dolorosos crudos tiempos estipulados originarios por las ruinas de la Segunda Guerra Mundial, el dictador supremo de la ciudad Louis Henno consolidó férrea pacificación el 23 de septiembre de 1944, estipulando formal la absorción táctica del enconado gran SC Fives y el gigante Olympique Lillois para dar de alta asombrosamente y fundar innegociable a la formal colosal entidad 'Lille Olympique Sporting Club'. Nacieron los inmensos legendarios y colosales formales letales grandes e inmortales originados 'Mastines' protegiendo fuertemente en su pecho fiero el escudo perenne de la ruda colosal flor de lis puramente obrera norteña."
+    },
+    {
+      "ano": "1946",
+      "hito": "Campeonato Oficial Finalizado en Doblete",
+      "desc": "Poco después de fundarse bajo una fusión formal de clubes urbanos locales, el LOSC ganó matemáticamente la liga y su primer trofeo de Copa de Francia de manera concurrente en 1946."
+    },
+    {
+      "ano": "1954",
+      "hito": "El Segundo Título Local de Ligue 1",
+      "desc": "El equipo se adjudicó en 1954 la competición oficial de la Ligue 1, logrando una de sus etapas más dominantes a nivel de registro estadístico de posguerra."
+    },
+    {
+      "ano": "2011",
+      "hito": "Reinicio de Títulos Bajo Rudi Garcia",
+      "desc": "Bajo las órdenes de Rudi García y con el jugador Eden Hazard, el club se impuso estadísticamente y ganó la Liga y la Copa de Francia, marcando sus primeros campeonatos principales del siglo."
+    },
+    {
+      "ano": "2021",
+      "hito": "Giro Coronatorio y Hegemonía Interrumpida",
+      "desc": "El club alcanzó 83 puntos bajo el liderazgo técnico de Christophe Galtier, liderando el campeonato en la última fecha y coronándose campeones de Francia frente al Paris Saint-Germain."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Grimonprez-Jooris",
+      "capacidad": "21.128",
+      "inauguracion": "1975",
+      "desde": "1975",
+      "hasta": "2004",
+      "direccion": "Av. du Petit Paradis, 59800 Lille, Francia",
+      "lat": 50.6408,
+      "lng": 3.0454,
+      "obs": "Vieja fortaleza del club que fue demolida tras décadas de uso debido a límites estructurales y financieros.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20du%20Petit%20Paradis%2C%2059800%20Lille%2C%20Francia"
+    },
+    {
+      "nombre": "Decathlon Arena (Stade Pierre-Mauroy)",
+      "capacidad": "50.186",
+      "inauguracion": "2012",
+      "desde": "2012",
+      "hasta": "",
+      "direccion": "261 Bd de Tournai, 59650 Villeneuve-d'Ascq, Francia",
+      "lat": 50.6119,
+      "lng": 3.1305,
+      "obs": "Estadio cubierto multifuncional construido en Villeneuve-d'Ascq para ser utilizado como centro de élite europeo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=261%20Bd%20de%20Tournai%2C%2059650%20Villeneuve-d'Ascq%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1944,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#ffffff",
+      "sh": "#000040",
+      "me": "#000040",
+      "tipo": "v-pecho",
+      "desc": "Generalmente remera roja con una heráldica de la 'V' estampada o franjas de detalle."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Eden Hazard",
+      "periodo": "2007-2012",
+      "pos": "Mediocampista",
+      "desc": "Talentoso extremo ofensivo formado en el club. Lideró con excelente técnica el equipo conquistando el doblete de liga y copa antes de su transfer internacional."
+    },
+    {
+      "nombre": "Rio Mavuba",
+      "periodo": "2008-2017",
+      "pos": "Mediocampista",
+      "desc": "Sólido mediocampista defensivo francés. Fue el gran capitán de la escuadra durante casi una década asumiendo un liderazgo total en las competencias europeas."
+    },
+    {
+      "nombre": "Jean Baratte",
+      "periodo": "1944-1953",
+      "pos": "Delantero",
+      "desc": "Histórico y prolífico delantero. Mantiene el récord indiscutido como máximo goleador oficial en la historia del club anotando más de un centenar de dianas victoriosas."
+    },
+    {
+      "nombre": "Yohan Cabaye",
+      "periodo": "2004-2011",
+      "pos": "Mediocampista",
+      "desc": "Organizador mediocentro emergido de las formativas formales asegurando pases asertivos tácticos siendo baluarte inicial en los campeonatos nacionales oficiales."
+    },
+    {
+      "nombre": "Mathieu Debuchy",
+      "periodo": "2003-2013",
+      "pos": "Defensor",
+      "desc": "Férreo lateral formado íntegramente de modo originario sumando una extensa labor ininterrumpida aportando gran despliegue lateral a su afamado y querido escudo formador."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jean Baratte",
+      "goles": 218,
+      "periodo": "1944-1953",
+      "partidos": 268,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 218 goles en competiciones oficiales durante su trayectoria en el equipo entre 1944-1953."
+    },
+    {
+      "nombre": "André Strappe",
+      "goles": 112,
+      "periodo": "1948-1958",
+      "partidos": 275,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1948-1958."
+    },
+    {
+      "nombre": "Gérard Bourbotte",
+      "goles": 92,
+      "periodo": "1952-1957",
+      "partidos": 145,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 92 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1957."
+    },
+    {
+      "nombre": "Jonathan David",
+      "goles": 71,
+      "periodo": "2020-2024",
+      "partidos": 145,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2024."
+    },
+    {
+      "nombre": "Eden Hazard",
+      "goles": 50,
+      "periodo": "2007-2012",
+      "partidos": 194,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Marceau Somerlinck",
+      "partidos": 433,
+      "periodo": "1945-1957",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 433 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1945-1957."
+    },
+    {
+      "nombre": "Rio Mavuba",
+      "partidos": 370,
+      "periodo": "2008-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 370 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2017."
+    },
+    {
+      "nombre": "Florent Balmont",
+      "partidos": 323,
+      "periodo": "2008-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 323 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2016."
+    },
+    {
+      "nombre": "Franck Beria",
+      "partidos": 317,
+      "periodo": "2007-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 317 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2017."
+    },
+    {
+      "nombre": "Mathieu Debuchy",
+      "partidos": 301,
+      "periodo": "2003-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 301 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2013."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 4,
+      "anios": [
+        "1946",
+        "1954",
+        "2011",
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 6,
+      "anios": [
+        "1946",
+        "1947",
+        "1948",
+        "1953",
+        "1955",
+        "2011"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 1,
+      "anios": [
+        "2021"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_city_crest.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logo_2e9.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logos_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_lsogo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logosaa_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logo_2sa9.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lille/Lille_OSC_logo (1).webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/lille.webp"
+    }
+  ]
+}

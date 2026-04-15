@@ -1,0 +1,263 @@
+{
+  "id": "koln",
+  "meta": {
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "fc-koln"
+    ],
+    "slug": "koln"
+  },
+  "datos": {
+    "nombre_completo": "1. Fußball-Club Köln 01/07 e. V.",
+    "sigla": "KOE",
+    "fundacion": "1948",
+    "apodo": "Die Geißböcke (Los Machos Cabríos)",
+    "estadio_actual": "RheinEnergieStadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 50000,
+    "estadio_inauguracion": "1923",
+    "estadio_lat": 50.9335,
+    "estadio_lng": 6.8749,
+    "estadio_direccion": "Aachener Str. 999, 50933 Köln, Alemania",
+    "socios": 132000,
+    "descripcion_corta": "Equipo clave en el desarrollo del fútbol moderno alemán, fundado en 1948 y primer campeón del formato actual de la Bundesliga.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#ED1C24"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Hannes Löhr (166)",
+      "mas_presencias": "Toni Schumacher (422)",
+      "mayor_goleada": "8-0 vs Schalke (1969)"
+    },
+    "nombre_oficial": "",
+    "nombre_corto": "1. FC Köln",
+    "escudo_actual": "/escudos/koln.webp"
+  },
+  "historia": [
+    {
+      "ano": "1948",
+      "hito": "El Pacto Matrimonial Futbolístico Liderado por Kremer",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1964",
+      "hito": "El Primer Campeón Nacional de la Nueva Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1978",
+      "hito": "Obtención del Histórico Doblete Local",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1998",
+      "hito": "El Descenso Por Primera Vez a Segunda División",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2017",
+      "hito": "Rápido Retorno a los Campos de Europa",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "RheinEnergieStadion (Müngersdorfer Stadion)",
+      "capacidad": "50.000",
+      "inauguracion": "1923",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aachener%20Str.%20999%2C%2050933%20K%C3%B6ln%2C%20Alemania",
+      "direccion": "Aachener Str. 999, 50933 Köln, Alemania",
+      "descripcion": "Templo encendido portando en cada rincón un enorme ambiente caluroso marcado por la famosa mascota de la cabra presenciando en césped directo el partido.",
+      "lat": 50.9335,
+      "lng": 6.8749
+    },
+    {
+      "nombre": "Radrennbahn Müngersdorf",
+      "capacidad": "80.000",
+      "inauguracion": "1923",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aachener%20Str.%2C%2050933%20K%C3%B6ln%2C%20Alemania",
+      "direccion": "Aachener Str., 50933 Köln, Alemania",
+      "descripcion": "Monumental terreno y circuito antiguo provisto originalmente de pista de ciclismo de velocidad. Base formal para forjar el estadio final del bloque en Müngersdorf.",
+      "lat": 50.9335,
+      "lng": 6.8749
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1948,
+      "hasta": 1980,
+      "c1": "#ffffff",
+      "c2": "#ed1c24",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1980,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ed1c24",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Wolfgang Overath",
+      "periodo": "1962-1977",
+      "pos": "Mediocampista",
+      "desc": "Experimentado mediocampista. Jugó más de 500 partidos en el club y formó parte del plantel alemán que ganó el Mundial en 1974."
+    },
+    {
+      "nombre": "Pierre Littbarski",
+      "periodo": "1978-1993",
+      "pos": "Mediocampista / Extremo",
+      "desc": "Volante ofensivo que disputó centenares de encuentros locales en el club consiguiendo títulos nacionales antes de coronarse como campeón del mundo."
+    },
+    {
+      "nombre": "Heinz Flohe",
+      "periodo": "1966-1979",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista central de destacada labor táctica. Se adjudicó la liga local y formó la base central del equipo campeón del mundo en 1974."
+    },
+    {
+      "nombre": "Harald Schumacher",
+      "periodo": "1972-1987",
+      "pos": "Arquero",
+      "desc": "Guardameta alemán que custodió el arco titular del equipo durante asiduas ligas continuadas asumiendo récord histórico oficial como uno de los goleros con más presencias sumatorias."
+    },
+    {
+      "nombre": "Lukas Podolski",
+      "periodo": "2003-2012",
+      "pos": "Delantero",
+      "desc": "Destacado delantero asumiendo capitanías a lo largo de los años 2000 que logró asegurar centenares de goles antes de oficializar su etapa victoriosa campeón del mundo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Hannes Löhr",
+      "goles": 166,
+      "periodo": "1964-1978",
+      "partidos": 381,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 166 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1978."
+    },
+    {
+      "nombre": "Dieter Müller",
+      "goles": 159,
+      "periodo": "1973-1981",
+      "partidos": 248,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 159 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1981."
+    },
+    {
+      "nombre": "Pierre Littbarski",
+      "goles": 116,
+      "periodo": "1978-1993",
+      "partidos": 406,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 116 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1993."
+    },
+    {
+      "nombre": "Klaus Allofs",
+      "goles": 88,
+      "periodo": "1981-1987",
+      "partidos": 177,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 88 goles en competiciones oficiales durante su trayectoria en el equipo entre 1981-1987."
+    },
+    {
+      "nombre": "Lukas Podolski",
+      "goles": 86,
+      "periodo": "2003-2012",
+      "partidos": 181,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Harald Schumacher",
+      "partidos": 422,
+      "periodo": "1972-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 422 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1987."
+    },
+    {
+      "nombre": "Wolfgang Overath",
+      "partidos": 409,
+      "periodo": "1962-1977",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 409 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1977."
+    },
+    {
+      "nombre": "Pierre Littbarski",
+      "partidos": 406,
+      "periodo": "1978-1993",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 406 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1993."
+    },
+    {
+      "nombre": "Hannes Löhr",
+      "partidos": 381,
+      "periodo": "1964-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 381 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1978."
+    },
+    {
+      "nombre": "Paul Steiner",
+      "partidos": 291,
+      "periodo": "1981-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 291 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1991."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 3,
+      "anios": [
+        "1961-62",
+        "1963-64",
+        "1977-78"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 4,
+      "anios": [
+        "1967-68",
+        "1976-77",
+        "1977-78",
+        "1982-83"
+      ]
+    },
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 4,
+      "anios": [
+        "1999-00",
+        "2004-05",
+        "2013-14",
+        "2018-19"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/koln/1973.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/koln.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Geißböcke",
+      "origen": "Atribuido en rigor zoológico tras un evento folclórico dictaminado como tradición en las cuencas del Rin en Colonia. Durante los carnavales locales, directivos aceptaron obsequiados a un fiero macho cabrío al que bautizaron Hennes. En su devoción, el icónico mamífero saltó eternamente a dominar el escudo central refiriéndolos como Los Machos Cabríos rindiendo masiva honra animal."
+    }
+  ]
+}

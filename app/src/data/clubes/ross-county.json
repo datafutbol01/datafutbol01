@@ -1,0 +1,217 @@
+{
+  "id": "ross-county",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "ross county",
+      "the staggies",
+      "dingwall"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Ross County Football Club",
+    "sigla": "ROS",
+    "fundacion": "26 de abril de 1929",
+    "apodo": "The Staggies",
+    "estadio_actual": "Global Energy Stadium",
+    "estadio_apodo": "Victoria Park",
+    "estadio_capacidad": 6541,
+    "estadio_inauguracion": "1929",
+    "estadio_lat": 57.5959,
+    "estadio_lng": -4.4172,
+    "estadio_direccion": "Victoria Park, Dingwall IV15 9QZ, Reino Unido",
+    "socios": 2000,
+    "descripcion_corta": "Entidad representativa de las Tierras Altas (Highlands) del norte de Escocia. Surgió en ligas regionales menores antes de ascender a la máxima división y consolidarse profesionalmente.",
+    "paleta": [
+      {
+        "tag": "Azul Marino",
+        "hex": "#001B4B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Michael Mackay (113 goles)",
+      "mas_presencias": "Gary Farquhar (322 partidos)",
+      "mayor_goleada": "11-0 vs St. Cuthbert Wanderers (1993)"
+    },
+    "nombre_oficial": "Ross County Football Club",
+    "nombre_corto": "Ross County"
+  },
+  "historia": [
+    {
+      "ano": "1929",
+      "hito": "Fundación e inicios en la Highland League",
+      "desc": "El club se fundó el 26 de abril de 1929 en la pequeña localidad de Dingwall para representar al condado de Ross-shire en el área norte del país. De inmediato, el equipo se inscribió en la Highland Football League, un campeonato regional ajeno a la liga profesional estatal escocesa. Comenzaron a jugar en el estadio Victoria Park el mismo año. Durante más de sesenta años, el club compitió y se mantuvo exclusivamente en este nivel geográfico amateur y semiprofesional."
+    },
+    {
+      "ano": "1994",
+      "hito": "Elección para la Liga Profesional Nacional",
+      "desc": "El punto de inflexión estructural para el club ocurrió en 1994. Ante la reestructuración de la Scottish Football League para crear una nueva Cuarta División (Third Division), se abrieron plazas para la expansión de clubes de todo el país. Tras presentar su solicitud, Ross County fue elegido y admitido en el sistema de ligas profesionales a nivel nacional junto con su tradicional vecino y rival regional del norte, el Inverness Caledonian Thistle. Esto marcó su paso definitivo a la escala competitiva de todo el territorio escocés."
+    },
+    {
+      "ano": "2010",
+      "hito": "Finalistas de la Copa de Escocia",
+      "desc": "Mientras competían en la Segunda División (First Division), el club realizó una destacada participación en la Copa de Escocia de la temporada 2009-2010. En la instancia de semifinales, lograron una sorpresiva victoria por 2-0 frente al Celtic en Hampden Park, un resultado de alto impacto mediático. Aunque fueron derrotados por el Dundee United en la final del torneo con un marcador de 3-0, el evento generó un gran reconocimiento nacional para Ross County y movilizó a más de 20.000 seguidores de las Tierras Altas hasta estadios de primera división."
+    },
+    {
+      "ano": "2012",
+      "hito": "Histórico ascenso a Primera División",
+      "desc": "Bajo la dirección técnica del entrenador Derek Adams, el club dominó el calendario 2011-2012 de la First Division y logró una racha de 40 partidos consecutivos sin perder en la competición de liga. Este rendimiento permitió al equipo obtener el campeonato de la división y, como resultado, su primer y ansiado ascenso a la máxima categoría del fútbol del país (la Scottish Premier League). Con este hito, Dingwall se convirtió en la ciudad más pequeña (con menos de 6.000 habitantes) en poseer un equipo jugando en la élite escocesa."
+    },
+    {
+      "ano": "2016",
+      "hito": "Conquista de la Copa de la Liga Escocesa",
+      "desc": "El principal logro oficial de la institución sucedió el 13 de marzo de 2016. Durante su estancia continua en la Primera División, el equipo avanzó hasta la final de la Copa de la Liga tras superar al Celtic en las semifinales previas. En el encuentro decisivo disputado en el Hampden Park frente a Hibernian, el Ross County se alzó con la victoria por 2-1 tras una anotación conseguida en el último minuto reglamentario por el delantero Alex Schalk. Este título representa el primer y único trofeo mayor en los registros del club."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Victoria Park (Global Energy Stadium)",
+      "capacidad": "6541",
+      "inauguracion": "1929",
+      "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20Park%2C%20Dingwall%20IV15%209QZ%2C%20Reino%20Unido",
+      "direccion": "Victoria Park, Dingwall IV15 9QZ, Reino Unido",
+      "lat": 57.5959,
+      "lng": -4.4172,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 1,
+      "anios": [
+        "2015-16"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1929,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Al forjarse formalmente optaron y sostuvieron por largas décadas los delineamientos estándares de un tejido llano compuesto de un color azul profundo estilo naval sin mayores tramas ornamentales, comúnmente conjugados con una modesta estilización blanquiazul delineadora."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Michael Gardyne",
+      "pos": "Leyenda / Referente",
+      "periodo": "2006-2021",
+      "desc": "Histórico jugador ascendiendo desde los estamentos menores para coronar al conjunto en reiteradas ocasiones, resultando indispensable para sostenerse en la Premiership.",
+      "apodo": "Midge"
+    },
+    {
+      "nombre": "Derek Adams",
+      "pos": "Leyenda / Referente",
+      "periodo": "1996-2004, 2007-2014",
+      "desc": "Primero como mediocentro dinámico y luego fungiendo el rol de director técnico para comandar la gran escalada a final de la Copa Escocesa asombrando al país formativo.",
+      "apodo": "Derek"
+    },
+    {
+      "nombre": "Richard Brittain",
+      "pos": "Leyenda / Referente",
+      "periodo": "2008-2015",
+      "desc": "Batallador capitán firme en su zancada, logrando certificar pautas ascensionales y sumando victorias plenas como especialista irrebatible de certeras ejecuciones a pelota quieta.",
+      "apodo": "Richie"
+    },
+    {
+      "nombre": "Scott Boyd",
+      "pos": "Leyenda / Referente",
+      "periodo": "2007-2016",
+      "desc": "Zaguero inamovible de estricto rigor operativo. Sus anticipos defensivos blindaron el progreso de un equipo chico hasta cruzar a los escenarios de primera.",
+      "apodo": "Scott"
+    },
+    {
+      "nombre": "Ian McShane",
+      "pos": "Leyenda / Referente",
+      "periodo": "2015-2017",
+      "desc": "Medular que con una intervención corta firmó la mayor presea obtenida, la Copa de la Liga Escocesa en 2016, tras batir con solidez inusitada la competencia local.",
+      "apodo": "Ian"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Michael Gardyne",
+      "goles": 73,
+      "periodo": "2006-2021",
+      "desc": "Atleta versátil y mayor goleador histórico, destrozó redes para orquestar la consolidación del elenco modesto convirtiéndolo en un participante respetado de peso formal en divisiones estelares."
+    },
+    {
+      "nombre": "Liam Boyce",
+      "goles": 50,
+      "periodo": "2014-2017",
+      "desc": "Letal norirlandés que rompió los esquemas tácticos convirtiéndose rápidamente en el máximo anotador de todo el circuito británico de la temporada regular, un lujo increíble para el humilde bastión norteño."
+    },
+    {
+      "nombre": "Craig Curran",
+      "goles": 33,
+      "periodo": "2015-2018",
+      "desc": "Delantero fiero que encadenó rachas positivas y brindó su cuota asertiva de conquistas permitiendo campeonatos locales de Copa fundamentales en tiempos reñidos de salvación táctica."
+    },
+    {
+      "nombre": "Brian Graham",
+      "goles": 20,
+      "periodo": "2015-2016",
+      "desc": "Rematador esporádico que aportó valiosos aportes coperos manteniendo resoluciones asombrosas y muy efectivas al momento definitivo frente de cada gran contienda nacional."
+    },
+    {
+      "nombre": "Liam Craig",
+      "goles": 19,
+      "periodo": "2015-2017",
+      "desc": "Ofensivo disciplinado que promedió resoluciones letales precisas engrosando los márgenes de seguridad para superar obstáculos competitivos dentro de los campos opuestos."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Michael Gardyne",
+      "partidos": 444,
+      "periodo": "2006-2021",
+      "desc": "Líder indiscutido operando de manera irrenunciable sobrepasando lances tácticos inmensos hasta alcanzar cumbres y galardones escoceses memorables."
+    },
+    {
+      "nombre": "Scott Boyd",
+      "partidos": 305,
+      "periodo": "2007-2016",
+      "desc": "Dictando solidez perimetral aportando más de trescientas jornadas asegurables que afirmaron la retaguardia estable del ascenso nacional."
+    },
+    {
+      "nombre": "Richard Brittain",
+      "partidos": 274,
+      "periodo": "2008-2015",
+      "desc": "Medio de enorme temperamento que cerró registros estáticos muy admirables con una entrega y regularidad indiscutida por ambas facciones de la directiva y afición."
+    },
+    {
+      "nombre": "Marcus Fraser",
+      "partidos": 196,
+      "periodo": "2015-2020",
+      "desc": "Defensor seguro lateral que encumbró triunfos coperos de altísimo riesgo y acumuló cercanías a la segunda centena aportando innegable control rústico perimetral."
+    },
+    {
+      "nombre": "Martin Woods",
+      "partidos": 139,
+      "periodo": "2014-2017",
+      "desc": "Constante fijado en el once titular asumiendo valiosa responsabilidad en los choques medulares directos."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/ross-county.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Staggies",
+      "origen": "El término rinde un estricto homenaje institucional a la insignia oficial que viste el escudo del club. En su epicentro luce la figura geométrica de un ciervo (stag en inglés), elemento histórico directamente sustraído del emblema de armas correspondiente al Clan Mackenzie, una dinastía histórica con influencias territoriales contundentes en las cercanías del condado de Ross-shire."
+    }
+  ]
+}

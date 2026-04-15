@@ -1,0 +1,34 @@
+{
+  "id": "rosario-central",
+  "datos": {
+    "nombre_oficial": "Club Atlético Rosario Central",
+    "nombre_corto": "Rosario Central",
+    "apodos": [
+      "El Canalla",
+      "El Expreso"
+    ],
+    "fundacion": "1889-12-24",
+    "ciudad": "Rosario",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Gigante de Arroyito",
+    "estadio_capacidad": 41654,
+    "estadio_lat": -32.9097,
+    "estadio_lng": -60.6868,
+    "debut_primera": 1921
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFD700"
+      ],
+      "diseno": "uniforme_azul_con_banda"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 9,
+  "meta": {
+    "datos_completos": false
+  }
+}

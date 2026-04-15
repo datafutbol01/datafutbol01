@@ -1,0 +1,352 @@
+{
+  "id": "atletico-madrid",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "atlético madrid",
+      "colchoneros"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético de Madrid",
+    "sigla": "ATM",
+    "fundacion": "26 de abril de 1903",
+    "apodo": "Colchoneros, Rojiblancos, Indios",
+    "estadio_actual": "Cívitas Metropolitano",
+    "estadio_apodo": "El Metropolitano",
+    "estadio_capacidad": 70460,
+    "estadio_inauguracion": "16 de septiembre de 2017",
+    "estadio_lat": 40.4361,
+    "estadio_lng": -3.5994,
+    "estadio_direccion": "Av. de Luis Aragonés, 4, San Blas-Canillejas, 28022 Madrid, España",
+    "socios": 138000,
+    "descripcion_corta": "Entidad polideportiva localizada en Madrid que ha participado de casi la totalidad de campeonatos de Primera División.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#CB2428"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Antoine Griezmann (175 goles)",
+      "mas_presencias": "Koke (620+ partidos)",
+      "mayor_goleada": "9-0 vs Hércules (1955)"
+    },
+    "nombre_oficial": "Club Atlético de Madrid S.A.D.",
+    "nombre_corto": "Atlético Madrid"
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Fundación como Sucursal del Athletic",
+      "desc": "El 26 de abril de 1903, el coraje vasco se apoderó de Madrid. Llenos de nostalgia y orgullo tras presenciar cómo el Athletic Club de Bilbao levantaba la Copa de España en la capital, un grupo de audaces estudiantes vascos matriculados en la Escuela Especial de Ingenieros de Minas de Madrid se congregó en los salones de la Sociedad Vasco-Navarra con un sueño épico: fundar un filial inexpugnable. Liderados por los fundadores Eduardo de Acha, Enrique Goiri (quien ya estaba vinculado al equipo bilbaíno), Ramón de Arancibia e Ignacio Gortázar, nació el 'Athletic Club de Madrid'. Estos pioneros exigieron que la filialidad fuera absoluta: mismos estatutos, mismo emblema y, en un principio, idénticos colores arlequinados en azul y blanco. En 1911, fruto del histórico viaje a Inglaterra de Juan Elorduy en busca de uniformes que resultó en la compra accidental de camisetas del Sunderland inglés, el club mutaría a su sagrada identidad rojiblanca. Así, aquellos intrépidos estudiantes sentaron los cimientos de la entidad que pronto cortaría amarras con el equipo madre, erigiéndose rebelde, colchonera y gigante frente al poder hegemónico del establishment futbolístico de la clase alta madrileña."
+    },
+    {
+      "ano": "1939",
+      "hito": "Fusión y el Athletic Aviación",
+      "desc": "Al culminar la Guerra Civil, el club se fusionó estratégicamente con el equipo militar de Aviación Nacional. Como Athletic Aviación (y luego Atlético Aviación), levantaron sus primeros grandes torneos liguero instaurando una mística aguerrida."
+    },
+    {
+      "ano": "1974",
+      "hito": "La Tragedia de Múnich y la Copa Intercontinental",
+      "desc": "Tras acariciar la gloria de la Copa de Europa e igualar heroicamente en la final original ante el Bayern, el Atlético se coronó meses después Campeón del Mundo al ganar la Copa Intercontinental, bordando la estrella máxima en su escudo."
+    },
+    {
+      "ano": "1995-1996",
+      "hito": "El Inolvidable Doblete de Antic",
+      "desc": "Bajo la batuta de Radomir Antic, el Atlético se llenó de gloria con una temporada perfecta. Guiados por Simeone, Caminero y Kiko, levantaron La Liga y la Copa del Rey en el mismo año, desatando el delirio rojiblanco."
+    },
+    {
+      "ano": "2013-2014",
+      "hito": "La Era Cholista y la Liga Heroica",
+      "desc": "Comandando a sus tropas desde la banda, Diego Pablo Simeone destronó a los gigantes del fútbol mundial, ganando una Liga épica en la última fecha en el Camp Nou y alcanzando finales imborrables de Champions."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Metropolitano",
+      "capacidad": "70.460",
+      "inauguracion": "2017",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Luis%20Aragon%C3%A9s%2C%204%2C%2028022%20Madrid",
+      "direccion": "Av. de Luis Aragonés, 4, 28022 Madrid",
+      "descripcion": "Colosal y moderna mudanza rojiblanca tras dejar el histórico Vicente Calderón a orillas del Manzanares."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": 1911,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "mitades",
+      "desc": "Sucursal cívica y burocrática romántica fundada vistiendo mitades arlequinadas puristas crudas de origen bilbaíno."
+    },
+    {
+      "desde": 1911,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#e3001b",
+      "tipo": "rayas-verticales",
+      "desc": "transición fáctica eterna vistiendo sibilantes telas fabricadas popularmente a puristas y rayas verticales colchoneras rojiblancas, cimentando estatuida la furia de los indios del místico Manzanares para asombrar a toda Europa y someter inmensurable dictatorial el duro infierno asfáltico rojiblanco."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Luis Aragonés",
+      "periodo": "1964-1974",
+      "pos": "Mediocampista",
+      "desc": "Conocido emblemáticamente como 'El Sabio de Hortaleza'. Como jugador y eximio pateador de tiros libres, es el máximo artillero en divisiones oficiales de la entidad, para luego convertirse en el primer técnico en otorgar la histórica Copa Intercontinental."
+    },
+    {
+      "nombre": "Diego Simeone",
+      "periodo": "1994-2005",
+      "pos": "Mediocampista",
+      "desc": "Volante de corte y jerarquía indiscutible en el equipo protagonista que ganó el Histórico Doblete de 1996. Retornó como Director Técnico para reestructurar drásticamente los cimientos del club e iniciar la mayor época de conquistas nacionales e internacionales."
+    },
+    {
+      "nombre": "Fernando Torres",
+      "periodo": "2001-2018",
+      "pos": "Delantero",
+      "desc": "Hijo pródigo de las categorías inferiores, apodado 'El Niño'. Asumió la capitanía en plena etapa de reconstrucción e irrumpió en la ofensiva de la Primera División con anotaciones clave, emigrando tras ser símbolo y retornando para conseguir su ansiado título europeo."
+    },
+    {
+      "nombre": "Gabi Fernández",
+      "periodo": "2003-2018",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2003-2018, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Paulo Futre",
+      "periodo": "1987-1993",
+      "pos": "Delantero",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1987-1993, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Antoine Griezmann",
+      "goles": 181,
+      "periodo": "2014-2024",
+      "partidos": 389,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 181 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2024."
+    },
+    {
+      "nombre": "Luis Aragonés",
+      "goles": 172,
+      "periodo": "1964-1974",
+      "partidos": 368,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 172 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1974."
+    },
+    {
+      "nombre": "Adrián Escudero",
+      "goles": 169,
+      "periodo": "1945-1958",
+      "partidos": 330,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 169 goles en competiciones oficiales durante su trayectoria en el equipo entre 1945-1958."
+    },
+    {
+      "nombre": "Paco Campos",
+      "goles": 153,
+      "periodo": "1939-1948",
+      "partidos": 219,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 153 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1948."
+    },
+    {
+      "nombre": "José Gárate",
+      "goles": 136,
+      "periodo": "1966-1977",
+      "partidos": 327,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 136 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1977."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Koke Resurrección",
+      "partidos": 638,
+      "periodo": "2009-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 638 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2024."
+    },
+    {
+      "nombre": "Adelardo Rodríguez",
+      "partidos": 553,
+      "periodo": "1959-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 553 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1976."
+    },
+    {
+      "nombre": "Tomás Reñones",
+      "partidos": 483,
+      "periodo": "1984-1996",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 483 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-1996."
+    },
+    {
+      "nombre": "Enrique Collar",
+      "partidos": 470,
+      "periodo": "1953-1969",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 470 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1953-1969."
+    },
+    {
+      "nombre": "Jan Oblak",
+      "partidos": 446,
+      "periodo": "2014-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 446 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2024."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 11,
+      "anios": [
+        "1939-40",
+        "1940-41",
+        "1949-50",
+        "1950-51",
+        "1965-66",
+        "1969-70",
+        "1972-73",
+        "1976-77",
+        "1995-96",
+        "2013-14",
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 10,
+      "anios": [
+        "1960",
+        "1961",
+        "1965",
+        "1972",
+        "1976",
+        "1985",
+        "1991",
+        "1992",
+        "1996",
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 2,
+      "anios": [
+        "1985",
+        "2014"
+      ]
+    },
+    {
+      "nombre": "Copa Eva Duarte",
+      "cantidad": 1,
+      "anios": [
+        "1951"
+      ]
+    },
+    {
+      "nombre": "Europa League",
+      "cantidad": 3,
+      "anios": [
+        "2009-10",
+        "2011-12",
+        "2017-18"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1961-62"
+      ]
+    },
+    {
+      "nombre": "Supercopa de la UEFA",
+      "cantidad": 3,
+      "anios": [
+        "2010",
+        "2012",
+        "2018"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 1,
+      "anios": [
+        "1974"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 1,
+      "anios": [
+        "2001-02"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1903",
+      "url": "/escudos_historicos/atletico-madrid/Atmadrid1903__1_.webp"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos_historicos/atletico-madrid/Athletic_Club_Bilbao__1911-1941_.svg"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1917.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1932.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1939.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1942.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1947.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_1950.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/atletico-madrid/Atl_tico_Madrid_1970.svg"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/atletico-madrid/Atletico_Madrid_2017.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/atletico-madrid.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Colchoneros",
+      "origen": "Recibieron esta nomenclatura de forma popular y generalizada hacia el difícil periodo de posguerra civil a finales de la década de 1930 e inicios del 40. En aquellos históricos años escaseaban brutalmente los insumos textiles, por lo tanto, la tela más rústica, masiva y barata utilizada por la población general obrera para recubrir las antiguas fundas de colchones hogareños en Madrid portaba el mismo patrón grueso de franjas rojas y blancas estampadas en su algodón, lo que disparó que las crónicas los igualaran automáticamente con el mobiliario de cama de la población popular obrera."
+    },
+    {
+      "apodo": "Los Indios",
+      "origen": "Apodo originado explícitamente desde el entorno de clubes contrarios en la urbe durante la entrada de la década de 1970 tras la fuerte reapertura de la fronteras a jugadores internacionales extranjeros. El entonces presidente de gestión, Vicente Calderón, encabezó una política agresiva de pases contratando de forma sostenida a decenas de figuras deportivas provenientes de distintos países de Sudamérica (generalmente de raza mixta, argentinos y brasileños). A eso se sumaba una razón natural burlesca: como el estadio tradicional oficial de la institución quedaba a la margen fronteriza ribereña del río Manzanares, sus rivales afirmaban despectivamente que habitaban acampando bordeando el cauce, llanamente igual a tribus indias apartadas de las urbes."
+    },
+    {
+      "apodo": "El Pupas",
+      "origen": "Terminología oficial y directa lanzada ante el vocabulario y medios de comunicación el 15 de mayo de 1974 por su mismo expresidente mandatario y cabeza, la leyenda institucional Vicente Calderón. Acuñó tajantemente esta histórica frase quejosa y de infortunio absoluto en la cita oficial de la final de Copa de Europa llevada a cabo en el campo neutral de Bruselas contra el conjunto imparable alemán del Bayern de Múnich, y donde el equipo del Atlético de Madrid se puso adelante a los 114 minutos del segundo y duro tiempo suplementario ganando hasta recibir fatídicamente el gol y tiro al final lejano faltando mínimos segundos por parte del germánico Schwarzenbeck para decretar un empate nefasto. El mandatario oficial, a salida de vestuarios exclamó a pluma abierta a reporteros: 'Lo nuestro no tiene arreglo, verdaderamente somos un equipo desgraciado, somos El Pupas, nos pasa todo tipo de desgracias a nosotros'."
+    }
+  ]
+}

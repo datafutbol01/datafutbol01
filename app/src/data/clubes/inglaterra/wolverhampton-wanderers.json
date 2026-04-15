@@ -1,0 +1,343 @@
+{
+  "id": "wolverhampton-wanderers",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "wolves",
+      "wanderers",
+      "molineux"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Wolverhampton Wanderers Football Club",
+    "sigla": "WOL",
+    "fundacion": "13 de enero de 1877",
+    "apodo": "Wolves",
+    "estadio_actual": "Molineux Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 32050,
+    "estadio_inauguracion": "1889",
+    "estadio_lat": 52.5902,
+    "estadio_lng": -2.1303,
+    "estadio_direccion": "Waterloo Rd, Wolverhampton WV1 4QR",
+    "socios": 30000,
+    "descripcion_corta": "Histórico club inglés fundado en 1877 y radicado en la región del Black Country. Fue uno de los miembros fundadores de la English Football League en 1888 y vivió su época dorada en la década de 1950, cuando conquistó tres campeonatos de Primera División.",
+    "paleta": [
+      {
+        "tag": "Oro Viejo (Old Gold)",
+        "hex": "#FDB913"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "14-0 a Crosswells' Brewery (Noviembre 1886)",
+      "maximo_goleador": "Steve Bull (306 goles)",
+      "mas_presencias": "Derek Parkin (609 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1877",
+      "hito": "Fundación como St. Luke's F.C.",
+      "desc": "El nacimiento de esta histórica franquicia, enraizada profundamente en el tejido industrial de las Tierras Medias Occidentales, tuvo origen en el seno escolar de 1877. Fundado oficialmente por el ímpetu visionario de John Baynton y Jack Brodie —estudiantes devotos tras la presentación de un balón a su clase— el equipo inició como un proyecto estrictamente institucional eclesiástico bajo el ala directiva de la St. Luke’s School en el distrito de Blakenhall. Tras la inicial dominación en ligas inter-escolares regionales amateur y habiéndose curtido en el juego rústico contra adultos, la junta juvenil oficializó formalmente su reestructuración magna en 1879 amparando su fusión definitiva con el club de críquet local, The Wanderers, bautizando así a la leyenda dorada venidera."
+    },
+    {
+      "ano": "1879",
+      "hito": "Nacimiento de Wolverhampton Wanderers",
+      "desc": "Tras fusionarse con el equipo de críquet local The Blakenhall Wanderers, la institución adoptó su nombre definitivo de Wolverhampton Wanderers Football Club."
+    },
+    {
+      "ano": "1889",
+      "hito": "Traslado al Molineux Stadium",
+      "desc": "El club se mudó definitivamente a los terrenos que antiguamente pertenecían al comerciante local Benjamín Molineux, estableciendo allí el Molineux Stadium como su sede permanente para competir."
+    },
+    {
+      "ano": "1953-1959",
+      "hito": "Época dorada con Stan Cullis",
+      "desc": "Bajo la dirección técnica de Stan Cullis y con la capitanía de Billy Wright, el club vivió su etapa más gloriosa, logrando tres títulos de Primera División en la década (1954, 1958 y 1959). En esos años también se popularizaron sus famosos amistosos disputados bajo iluminación artificial contra equipos internacionales como el Honvéd húngaro."
+    },
+    {
+      "ano": "1980",
+      "hito": "Campeones de la Copa de la Liga",
+      "desc": "A pesar de atravesar dificultades económicas, el club logró coronarse campeón de la League Cup (Copa de la Liga) al vencer por 1-0 al Nottingham Forest en la final disputada en el estadio de Wembley."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Molineux Stadium",
+      "direccion": "Waterloo Rd, Wolverhampton WV1 4QR",
+      "desde": 1889,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Histórico estadio construido sobre los antiguos jardines del comerciante Benjamin Molineux. Fue uno de los primeros recintos en el país en instalar iluminación artificial estable en la década de 1950, y alcanzó un récord histórico de asistencia de 61.315 espectadores en esa misma época.",
+      "lat": 52.5902,
+      "lng": -2.1303,
+      "url": "https://www.google.com/maps/search/?api=1&query=Waterloo%20Rd%2C%20Wolverhampton%20WV1%204QR"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1877,
+      "hasta": 1891,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Malla escolar purista lícita en franjas blanquiazules iniciales."
+    },
+    {
+      "desde": 1891,
+      "hasta": null,
+      "c1": "#FDB913",
+      "c2": "#111111",
+      "sh": "#111111",
+      "me": "#FDB913",
+      "tipo": "liso",
+      "desc": "Consagración poética divina inmaculada legendaria y majestuosa gloriosa asfáltica cruda fáctica liza y oro antiguo ámbar quemado y oscuro negro tenebroso cívico estatutario para siempre y dictaminado formal innegociable victoriano místico."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Steve Bull",
+      "pos": "Delantero",
+      "apodo": "Bully",
+      "periodo": "1986-1999",
+      "desc": "Centrodelantero veloz que aportó más de trescientos goles oficiales en diversas categorías formales. Sus aportaciones goleadoras afianzaron rápidos ascensos continuificados que atrajeron posteriormente reconocimiento internacional."
+    },
+    {
+      "nombre": "Billy Wright",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1939-1959",
+      "desc": "Zaguero central que capitaneó victorias originarias de títulos ligueros del equipo. Formó un pilar indispensable y es célebremente referenciado como el primer futbolista mundial con enormes y cientos de intervenciones como seleccionado internacional formal oficial y capitán permanente estable y riguroso originario inglés de toda la región."
+    },
+    {
+      "nombre": "Derek Parkin",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1968-1982",
+      "desc": "Zaguero y marcador sumando y liderando ineludiblemente el listado presencial tras sobrepasar las quinientas actuaciones oficiales inglesas consolidadas y registradas establemente durante varios de los períodos de mayor participación en competencias liguistas asertivas estables resolutivas."
+    },
+    {
+      "nombre": "John Richards",
+      "pos": "Delantero",
+      "apodo": "King John",
+      "periodo": "1969-1983",
+      "desc": "Prolífico autor central aportador de incontables goles de relevancia formal que establecieron y aseguraron trofeos competitivos nacionales resolutorios oficiales originarios formidables brindando victorias finales firmes asertivas a base de fuertes determinaciones liguistas formidables victoriosas generales asombrosas a finales magnas resolutivas copables inglesas aportando sendos abultados triunfos anotadores."
+    },
+    {
+      "nombre": "Ron Flowers",
+      "pos": "Mediocampista",
+      "apodo": "",
+      "periodo": "1952-1967",
+      "desc": "Mediocentro polifuncional del victorioso equipo dominador de las etapas de Primera División en sus formativos años victoriosos originales, donde la alineación formal afianzó diversos lauros británicos formidables resolutivos afianzando enormes estatus formales consolidados estelares de rango oficial total contundente asertiva táctica pura y letal."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Steve Bull",
+      "goles": 306,
+      "partidos": 561,
+      "periodo": "1986-1999",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 306 goles en competiciones oficiales durante su trayectoria en el equipo entre 1986-1999."
+    },
+    {
+      "nombre": "John Richards",
+      "goles": 194,
+      "partidos": 486,
+      "periodo": "1969-1983",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 194 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1983."
+    },
+    {
+      "nombre": "Dennis Westcott",
+      "goles": 124,
+      "partidos": 144,
+      "periodo": "1936-1948",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 124 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1948."
+    },
+    {
+      "nombre": "Sébastien Squillaci",
+      "goles": 120,
+      "partidos": 310,
+      "periodo": "1910-1925",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 120 goles en competiciones oficiales durante su trayectoria en el equipo entre 1910-1925."
+    },
+    {
+      "nombre": "Johnny Hancocks",
+      "goles": 167,
+      "partidos": 378,
+      "periodo": "1946-1957",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 167 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1957."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Derek Parkin",
+      "partidos": 609,
+      "periodo": "1968-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 609 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1982."
+    },
+    {
+      "nombre": "Kenny Hibbitt",
+      "partidos": 574,
+      "periodo": "1968-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 574 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1984."
+    },
+    {
+      "nombre": "Steve Bull",
+      "partidos": 561,
+      "periodo": "1986-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 561 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1999."
+    },
+    {
+      "nombre": "Billy Wright",
+      "partidos": 541,
+      "periodo": "1939-1959",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 541 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1939-1959."
+    },
+    {
+      "nombre": "Ron Flowers",
+      "partidos": 515,
+      "periodo": "1952-1967",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 515 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1952-1967."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division (Inglaterra)",
+      "cantidad": 3,
+      "años": [
+        "1953-54",
+        "1957-58",
+        "1958-59"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 4,
+      "años": [
+        "1892-93",
+        "1907-08",
+        "1948-49",
+        "1959-60"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 2,
+      "años": [
+        "1973-74",
+        "1979-80"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 4,
+      "años": [
+        "1949",
+        "1954",
+        "1959",
+        "1960"
+      ]
+    },
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 4,
+      "años": [
+        "1931-32",
+        "1976-77",
+        "2008-09",
+        "2017-18"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 3,
+      "años": [
+        "1923-24",
+        "1988-89",
+        "2013-14"
+      ]
+    },
+    {
+      "nombre": "EFL League Two / Cuarta División",
+      "cantidad": 1,
+      "años": [
+        "1987-88"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1921_web.png"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_50s.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_logo_70-74.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1970_web.png"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_icon_74-79.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1974_web.png"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_logo_79-88.webp"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1979_web.png"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1988_web.png"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_Wanderers_FC_logo_(1990s).svg"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1990_web.png"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1993_web.png"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_1996_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/wolverhampton-wanderers/wolverhampton-wanderers_2002_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/wolverhampton-wanderers/Wolverhampton_Wanderers_FC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Wolves",
+      "origen": "Referencia surgida para simplificar fonéticamente y aplicar disminución directa del largo vocablo fundacional geográfico. Para evitar extenuantes nombramientos al mencionar su villa municipal Wolverhampton, la asamblea oficial resumió el apelativo empleando velozmente la estirpe inglesa de Los Lobos, forjando el agresivo perfil cazador de dicho mamífero instalando en las históricas prendas una ruda efigie imborrable."
+    }
+  ]
+}

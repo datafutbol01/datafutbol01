@@ -1,0 +1,34 @@
+{
+  "id": "defensa-justicia",
+  "datos": {
+    "nombre_oficial": "Club Defensa y Justicia",
+    "nombre_corto": "Defensa y Justicia",
+    "apodos": [
+      "El Halcón",
+      "El Dragón del Sur"
+    ],
+    "fundacion": "1935-06-12",
+    "ciudad": "Florencio Varela",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Norberto Tomaghello",
+    "estadio_capacidad": 15000,
+    "estadio_lat": -34.8263,
+    "estadio_lng": -58.2763,
+    "debut_primera": 2013
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#FFD700",
+        "#CC0000"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#CC0000",
+    "medias": "#FFD700"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

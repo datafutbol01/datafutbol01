@@ -1,0 +1,240 @@
+{
+  "id": "estudiantes-rc",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "interior",
+      "cordoba",
+      "rio cuarto",
+      "leon",
+      "imperio"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Asociación Atlética Estudiantes",
+    "sigla": "AAE",
+    "fundacion": "21 de septiembre de 1912",
+    "apodo": "El León, El León del Imperio, El Celeste",
+    "estadio_actual": "Gremio Ciudad de Río Cuarto - Antonio Candini",
+    "estadio_apodo": "El Templo del Imperio",
+    "estadio_capacidad": 11000,
+    "estadio_inauguracion": "1938-10-12",
+    "estadio_lat": -33.1258,
+    "estadio_lng": -64.3524,
+    "estadio_direccion": "Avenida España 251, Río Cuarto, Provincia de Córdoba",
+    "socios": 7000,
+    "descripcion_corta": "Club representativo de la ciudad de Río Cuarto, fundado a partir de alumnos escolares. Popularmente conocido como 'El León', es uno de los máximos exponentes del sur cordobés, habiendo participado en los Torneos Nacionales de Primera División en la década de 1980 y afianzado en la Primera Nacional en la era moderna.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#7CB9E8"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "7-0 en Ligas Regionales",
+      "maximo_goleador": "Ariel Dolso (50 goles documentados en regionales)",
+      "mas_presencias": "Andrés Aimar (280 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1912",
+      "hito": "Fundación a partir del Colegio Nacional",
+      "desc": "El 21 de septiembre de 1912, a partir de la escisión deportiva del 'Centro de Estudiantes y Biblioteca Bernardino Rivadavia', un grupo de alumnos del Colegio Nacional N.º 1 de Río Cuarto conformó administrativamente la Asociación Atlética Estudiantes. La institución nació como un espacio de representación social y deportiva, siendo designado Juan Francisco Remedi como el primer presidente de la incipiente entidad. Acordaron adoptar el tono celeste para sus identificaciones visuales institucionales y deportivas, forjando las bases del club."
+    },
+    {
+      "ano": "1983-1985",
+      "hito": "Participación en los Campeonatos Nacionales de AFA",
+      "desc": "Tras destacarse en la Liga Regional, Estudiantes de Río Cuarto obtuvo la clasificación a los Campeonatos Nacionales organizados por la AFA durante tres años consecutivos (1983, 1984 y 1985). En este formato de torneo de Primera División, el club cordobés se enfrentó de local y visitante a las instituciones más consolidadas de Buenos Aires y el país."
+    },
+    {
+      "ano": "2018",
+      "hito": "El retiro oficial de Pablo Aimar",
+      "desc": "El 23 de enero de 2018, en un encuentro válido por la Copa Argentina frente a Sportivo Belgrano, Pablo César Aimar disputó su último partido oficial. El ex mediocampista de la Selección Nacional, quien realizó sus pasos formativos infantiles en el club, optó por concretar su retiro profesional vistiendo la indumentaria oficial de la institución junto a su hermano Andrés."
+    },
+    {
+      "ano": "2019",
+      "hito": "Campeones del Torneo Federal A y Ascenso",
+      "desc": "Estudiantes se consagró campeón del Torneo Federal A tras vencer a Sarmiento de Resistencia en el hexagonal final de la temporada 2018-2019. Este campeonato le otorgó el ascenso directo a la Primera Nacional (segunda categoría de AFA), marcando su consolidación en los niveles superiores del fútbol argentino."
+    },
+    {
+      "ano": "2021",
+      "hito": "Las Finales por el ascenso a Primera División",
+      "desc": "Durante la particular temporada de Transición, el club fue protagonista principal de la Primera Nacional alcanzando ambas finales por el ascenso directo a la máxima categoría. Estudiantes fue superado en los partidos decisivos a través de definiciones por penales (primero ante Sarmiento de Junín y luego ante Platense), finalizando con un histórico subcampeonato."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Predio del Colegio Nacional",
+      "direccion": "Baigorria 463, Río Cuarto",
+      "desde": 1912,
+      "hasta": 1938,
+      "estado": "Histórico",
+      "obs": "Previo a lograr establecer su recinto propio e infraestructura definitiva, el club desarrolló sus primeras décadas compitiendo amateurmente en terrenos improvisados de la zona local y en las instalaciones vinculadas al Colegio Nacional N.º 1, cuna fundacional de la institución.",
+      "lat": -33.1209,
+      "lng": -64.3486,
+      "url": "https://www.google.com/maps/search/?api=1&query=Baigorria%20463%2C%20R%C3%ADo%20Cuarto"
+    },
+    {
+      "nombre": "Estadio Ciudad de Río Cuarto Antonio Candini",
+      "direccion": "Avenida España 251, Río Cuarto",
+      "desde": 1938,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado el 12 de octubre de 1938 en los terrenos históricamente conocidos como 'El Mogote'. Es reconocido por albergar las históricas campañas en los viejos Torneos Nacionales de Primera División. Fue rebautizado oficialmente años posteriores en honor al expresidente y dirigente Antonio Candini.",
+      "lat": -33.1324,
+      "lng": -64.3557,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Espa%C3%B1a%20251%2C%20R%C3%ADo%20Cuarto"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1912,
+      "hasta": null,
+      "c1": "#6CABDD",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#6CABDD",
+      "tipo": "rayas-verticales",
+      "desc": "El club mediterráneo acopló gloriosamente la estricta métrica celeste y alba fáctica cruda nacional dispuesta en bastones longitudinales poéticos idénticos a los seleccionados nacionales supremos, inquebrantables líneas paralelas sostenidas a rigor estatutario."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Pablo Aimar",
+      "pos": "Enganche",
+      "apodo": "El Payasito",
+      "periodo": "1994-1995 (Inf), 2018",
+      "desc": "Uno de los talentos más grandes originados futbolísticamente en el club antes de su gran carrera internacional. Retornó sorpresivamente en 2018 para disputar su último partido oficial por la Copa Argentina con esta camiseta."
+    },
+    {
+      "nombre": "Héctor Pitarch",
+      "pos": "Delantero",
+      "apodo": "El Negro",
+      "periodo": "1983-1988",
+      "desc": "Reconocido organizador ofensivo que se erigió como referente del club al guiar al plantel a inolvidables campeonatos provinciales de la Liga Regional y torneos zonales."
+    },
+    {
+      "nombre": "Javier Alejandro",
+      "pos": "Defensor",
+      "apodo": "El Javi",
+      "periodo": "1998-2005",
+      "desc": "Capitán en torneos federales. Su constante presencia en el campo lo ubicó históricamente como uno de los máximos responsables de afianzar al conjunto celeste en las categorías competentes del ascenso nacional."
+    },
+    {
+      "nombre": "Marcelo Vázquez",
+      "pos": "Director Técnico",
+      "apodo": "El Mendocino",
+      "periodo": "2016-2021",
+      "desc": "Director técnico que jerarquizó al plantel logrando múltiples ascensos categóricos en fila, hasta alcanzar finales directas que estuvieron a pocos partidos de lograr el ingreso a Primera División."
+    },
+    {
+      "nombre": "Néstor Ortigoza",
+      "pos": "Mediocampista",
+      "apodo": "El Gordo",
+      "periodo": "2020",
+      "desc": "Experimentado mediocampista central de trayectoria internacional. Decidió competir profesionalmente en esta institución durante torneos oficiales de ascenso aportando gran orden táctico en la zona medular."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ariel Dolso",
+      "goles": 50,
+      "partidos": 150,
+      "periodo": "Ligas Regionales Históricas",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre Ligas Regionales Históricas."
+    },
+    {
+      "nombre": "Nicolás Gatto",
+      "goles": 45,
+      "partidos": 105,
+      "periodo": "2000s y 2010s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000s y 2010s."
+    },
+    {
+      "nombre": "Luis Ludueña",
+      "goles": 38,
+      "partidos": 160,
+      "periodo": "Años 80",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 80."
+    },
+    {
+      "nombre": "Héctor Pitarch",
+      "goles": 35,
+      "partidos": 110,
+      "periodo": "Años 80",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 80."
+    },
+    {
+      "nombre": "Bruno Sepúlveda",
+      "goles": 25,
+      "partidos": 75,
+      "periodo": "2018-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2021."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Andrés Aimar",
+      "partidos": 280,
+      "periodo": "2007-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 280 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2018."
+    },
+    {
+      "nombre": "Nicolás Foglia",
+      "partidos": 260,
+      "periodo": "2013-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 260 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2020."
+    },
+    {
+      "nombre": "Héctor Pitarch",
+      "partidos": 200,
+      "periodo": "Años 80",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 200 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 80."
+    },
+    {
+      "nombre": "Víctor Beraldi",
+      "partidos": 175,
+      "periodo": "2010s-2020s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 175 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s-2020s."
+    },
+    {
+      "nombre": "Adrián Peralta",
+      "partidos": 150,
+      "periodo": "2010s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Torneo Federal A / Tercera División",
+      "cantidad": 1,
+      "años": [
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Ligas Regionales del Interior",
+      "cantidad": 38,
+      "años": [
+        "Múltiples Ediciones"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg/1280px-Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El León del Imperio",
+      "origen": "Adjudicado producto de fusionar dos íconos nativos procedentes del sur de las comarcas cordobesas. Apelaron al clásico felino estandarte ineludible histórico para la conformación del escudo, designándose de modo patrio para honrar al imperio local ríocuartense."
+    }
+  ]
+}

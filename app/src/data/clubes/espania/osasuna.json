@@ -1,0 +1,285 @@
+{
+  "id": "osasuna",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "osasuna",
+      "pamplona",
+      "navarra"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Osasuna",
+    "sigla": "OSA",
+    "fundacion": "24 de octubre de 1920",
+    "apodo": "Rojillos",
+    "estadio_actual": "El Sadar",
+    "estadio_apodo": "",
+    "estadio_capacidad": 23516,
+    "estadio_inauguracion": "1967",
+    "estadio_lat": 42.7967,
+    "estadio_lng": -1.6369,
+    "estadio_direccion": "C. Sadar, s/n, 31006 Pamplona, Navarra",
+    "socios": 20000,
+    "descripcion_corta": "Entidad pamplonesa y símbolo deportivo integral en la Comunidad Foral de Navarra constituyendo matriz identitaria regional histórica.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#DA291C"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#00205B"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-1 a RCD Espanyol",
+      "maximo_goleador": "Sabino Andonegui",
+      "mas_presencias": "Patxi Puñal (513 partidos)"
+    },
+    "nombre_corto": "CA Osasuna"
+  },
+  "historia": [
+    {
+      "ano": "1920",
+      "hito": "Fundación Euskera de pura cepa",
+      "desc": "La férrea y orgullosa tierra de Navarra carecía de un estandarte unificado hasta la noche clave del 24 de octubre de 1920. El murmullo tenso de las tertulias taurinas y fiesteras se acalló en las céntricas mesas del legendario Café Kutz, frente a la mismísima Plaza del Castillo en Pamplona. Allí, un grupo de pioneros logró el milagro de unificar el coraje del 'Sportiva Foot-Ball Club' y la destreza del 'New Club' en un solo puño. Bajo la pluma y la visión de próceres fundacionales como el periodista Benjamín Andoian Martínez, Marcos Eizaguirre, Eduardo Aizpún, Joaquín Rasero y el primer presidente Eusebio Sánchez, se firmó el pacto fundacional rojillo. Fue el propio Andoian quien asestó el golpe maestro proponiendo un nombre de milenaria raíz euskera, desterrando de cuajo todo anglicismo: 'Osasuna' (que clama por la Salud, el Vigor y la Fuerza bruta universal). Así, entre copas y, nació un club de cepa, destinado irremisiblemente a representar la tenacidad navarra."
+    },
+    {
+      "ano": "1982-1985",
+      "hito": "La Magia Continental en El Sadar",
+      "desc": "El Sadar se volvió inexpugnable, abriéndole la puerta grande al equipo para clasificarse asombrosamente por primera vez a torneos de impacto en la Copa de la UEFA bajo la gestión de Pepe Alzate y la garra de sus centuriones."
+    },
+    {
+      "ano": "2005",
+      "hito": "La Noche de Rencor Copero",
+      "desc": "Comandado por el histórico y legendario técnico mexicano Javier Aguirre, Osasuna acarició una gesta gigante al llegar a la Final de Copa del Rey enfrentando y asediando al agónico Real Betis en el Calderón."
+    },
+    {
+      "ano": "2007",
+      "hito": "Tormenta de Fútbol en Europa",
+      "desc": "Osasuna desplegó la épica aplastando al Leverkusen por 3-0 en la furiosa Europa League arribando a semifinales ante el Sevilla, inscribiendo la campaña más monumental navarra a nivel internacional."
+    },
+    {
+      "ano": "2023",
+      "hito": "La Heroica Final de los Milagros",
+      "desc": "Tumbando y asediando rivales con fe, corazón y agallas (incluyendo al Athletic), llegaron a la final de Copa del Rey de La Cartuja enfrentando con un dignísimo pecho al Real Madrid."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio El Sadar",
+      "capacidad": "23.576",
+      "inauguracion": "1967",
+      "url": "https://www.google.com/maps/search/?api=1&query=C.%20del%20Sadar%2C%20s%2Fn%2C%2031006%20Pamplona%2C%20Navarra",
+      "direccion": "C. del Sadar, s/n, 31006 Pamplona, Navarra",
+      "descripcion": "Ruidoso, asfixiante y vertical. El Muro Rojo donde los pamploneses derraman el fervor inquebrantable por Osasuna."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#cc0000",
+      "c2": "#cc0000",
+      "sh": "#000080",
+      "me": "#cc0000",
+      "tipo": "liso",
+      "desc": "recio y místico ropaje rojillo purista crudo totalmente liso infundiendo pánico con sus duros formales fuertes e imperecederos calzones negros navarros legendarios."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Patxi Puñal",
+      "periodo": "1997-2014",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista formado en el club. Posee el histórico récord de mayor cantidad de partidos jugados en la institución, con más de 500 encuentros."
+    },
+    {
+      "nombre": "Jan Urban",
+      "periodo": "1989-1994",
+      "pos": "Delantero",
+      "desc": "Delantero de origen polaco. Disputó la titularidad a principios de 1990 anotando goles claves que permitieron las primeras clasificaciones a torneos europeos del equipo."
+    },
+    {
+      "nombre": "César Cruchaga",
+      "periodo": "1997-2009",
+      "pos": "Defensa",
+      "desc": "Zaguero central y gran capitán institucional. Formó parte del plantel que alcanzó por primera vez los torneos de Liga de Campeones en 2006."
+    },
+    {
+      "nombre": "Pablo García",
+      "periodo": "2002-2005",
+      "pos": "Mediocampista",
+      "desc": "Defensor y volante uruguayo de quite. Lideró la organización y recuperación para afianzar el histórico cuarto lugar general en torneos locales del club."
+    },
+    {
+      "nombre": "Roberto Torres",
+      "periodo": "2011-2022",
+      "pos": "Mediocampista",
+      "desc": "Atacante surgido del complejo local. Jugó más de 300 partidos durante campañas formales y apoyó el ascenso titular directo de su escuadra a Primera División."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Sabino Andonegui",
+      "goles": 127,
+      "periodo": "1953-1963",
+      "partidos": 234,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 127 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1963."
+    },
+    {
+      "nombre": "Patxi Iriguibel",
+      "goles": 111,
+      "periodo": "1977-1985",
+      "partidos": 255,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1977-1985."
+    },
+    {
+      "nombre": "Julio Vergara",
+      "goles": 84,
+      "periodo": "Años 40",
+      "partidos": 0,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 40."
+    },
+    {
+      "nombre": "Jan Urban",
+      "goles": 49,
+      "periodo": "1989-1994",
+      "partidos": 168,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 1989-1994."
+    },
+    {
+      "nombre": "Roberto Torres",
+      "goles": 60,
+      "periodo": "2011-2022",
+      "partidos": 353,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 60 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Patxi Puñal",
+      "partidos": 513,
+      "periodo": "1997-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 513 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2014."
+    },
+    {
+      "nombre": "José Manuel Echeverría",
+      "partidos": 463,
+      "periodo": "1973-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 463 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1987."
+    },
+    {
+      "nombre": "César Cruchaga",
+      "partidos": 386,
+      "periodo": "1997-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 386 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2009."
+    },
+    {
+      "nombre": "Javier Castañeda",
+      "partidos": 350,
+      "periodo": "1980-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 350 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1991."
+    },
+    {
+      "nombre": "Oier Sanjurjo",
+      "partidos": 356,
+      "periodo": "2008-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 356 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Segunda División",
+      "cantidad": 4,
+      "anios": [
+        "1952-53",
+        "1955-56",
+        "1960-61",
+        "2018-19"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/osasuna/osasuna_1920_bot.png"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/osasuna/osasuna_1920_full.jpg"
+    },
+    {
+      "ano": "1925",
+      "url": "/escudos_historicos/osasuna/osasuna_1925_bot.png"
+    },
+    {
+      "ano": "1925",
+      "url": "/escudos_historicos/osasuna/osasuna_1925_full.jpg"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/osasuna/osasuna_1929_bot.png"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/osasuna/osasuna_1929_full.jpg"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/osasuna/osasuna_1931_bot.png"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/osasuna/osasuna_1931_full.jpg"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/osasuna/osasuna_1941_full.jpg"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos_historicos/osasuna/osasuna_1956_full.jpg"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/osasuna/osasuna_1960_full.jpg"
+    },
+    {
+      "ano": "1962",
+      "url": "/escudos_historicos/osasuna/osasuna_1962_full.jpg"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos_historicos/osasuna/osasuna_1976_full.jpg"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/osasuna/osasuna_1980_full.jpg"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/osasuna/osasuna_2000_full.jpg"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos_historicos/osasuna/osasuna_2004_full.png"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/osasuna/Osasuna.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/osasuna.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Rojillos",
+      "origen": "Apuntado expresamente por la crónica popular como gentilicio derivado de la indumentaria que la entidad forjó como ley desde sus años maduros en Pamplona. Se dictaminó la utilización íntegra e inobjetable del color oscuro rojo pasión como predominante sobre toda prenda titular de la sede navarra en profunda imitación a los tonos de la bandera foral."
+    }
+  ]
+}

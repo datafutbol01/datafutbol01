@@ -1,0 +1,252 @@
+{
+  "id": "freiburg",
+  "meta": {
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "sc-freiburg"
+    ],
+    "slug": "freiburg"
+  },
+  "datos": {
+    "nombre_completo": "Sport-Club Freiburg e. V.",
+    "sigla": "SCF",
+    "fundacion": "1904",
+    "apodo": "Breisgau-Brasilianer (Los Brasileños de Breisgau)",
+    "estadio_actual": "Europa-Park Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 34700,
+    "estadio_inauguracion": "2021",
+    "estadio_lat": 48.0211,
+    "estadio_lng": 7.8286,
+    "estadio_direccion": "Achim-Stocker-Straße 1, 79108 Freiburg im Breisgau, Alemania",
+    "socios": 65000,
+    "descripcion_corta": "Club de la Selva Negra enfocado históricamente en el desarrollo de sus categorías juveniles.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#C60C30"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Nils Petersen (105)",
+      "mas_presencias": "Andreas Zeyer (441)",
+      "mayor_goleada": "6-0 vs Monchengladbach (2021)"
+    },
+    "nombre_oficial": "",
+    "nombre_corto": "SC Freiburg",
+    "escudo_actual": "/escudos/freiburg.svg"
+  },
+  "historia": [
+    {
+      "ano": "1904",
+      "hito": "Fundación en las Puertas de la Selva Negra",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1993",
+      "hito": "Ingreso Histórico a la Élite Bajo Mando de Volker Finke",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1995",
+      "hito": "Tercer Puesto en Liga y Clasificación a Copa de la UEFA",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2015",
+      "hito": "El Ascenso Consolidado por Christian Streich",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2022",
+      "hito": "Subcampeonato en la DFB-Pokal en el Estadio Olímpico de Berlín",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Dreisamstadion / Schwarzwald-Stadion",
+      "capacidad": "24.000",
+      "inauguracion": "1954",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schwarzwaldstra%C3%9Fe%20193%2C%2079117%20Freiburg%2C%20Alemania",
+      "direccion": "Schwarzwaldstraße 193, 79117 Freiburg, Alemania",
+      "descripcion": "Estadio enclavado puramente en las orillas ecológicas colindantes del Río Dreisam y alimentado con paneles ambientales solares, sirvió dignamente hasta 2021.",
+      "lat": 47.9888,
+      "lng": 7.8931
+    },
+    {
+      "nombre": "Europa-Park Stadion (Mooswaldstadion)",
+      "capacidad": "34.700",
+      "inauguracion": "2021",
+      "url": "https://www.google.com/maps/search/?api=1&query=Achim-Stocker-Stra%C3%9Fe%201%2C%2079108%20Freiburg%20im%20Breisgau%2C%20Alemania",
+      "direccion": "Achim-Stocker-Straße 1, 79108 Freiburg im Breisgau, Alemania",
+      "descripcion": "La nueva maravilla sustentable que reemplazó entre nostalgia a su querido rincón del Dreisamstadion. Plagado de la magia nacida de la Selva Negra.",
+      "lat": 48.0211,
+      "lng": 7.8286
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1904,
+      "hasta": 1920,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#ff0000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ff0000",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Joachim Löw",
+      "periodo": "1978-1989",
+      "pos": "Delantero",
+      "desc": "Atacante originario de la región germana mayor. Se desempeñó liderando la vanguardia goleadora registrando importantes tantos durante varias etapas antes de convertirse en seleccionador formal."
+    },
+    {
+      "nombre": "Nils Petersen",
+      "periodo": "2015-2023",
+      "pos": "Delantero",
+      "desc": "Delantero centro letal moderno asumiendo un largo tiempo participativo y líder exclusivo tras conseguir el valioso registro anotador ubicándose como máximo artillero formador local y contundente formal originario mayor absoluto del plantel."
+    },
+    {
+      "nombre": "Christian Günter",
+      "periodo": "2012-Act",
+      "pos": "Defensor lateral",
+      "desc": "Lateral izquierdo local y de gran despliegue firme asegurando sólidas capitanías logrando situarse en los puestos cimeros absolutos de la suma estadística en el conteo de mayoritarias formidables titularidades."
+    },
+    {
+      "nombre": "Vincenzo Grifo",
+      "periodo": "2015-Act",
+      "pos": "Mediocampista",
+      "desc": "Ofensivo mediocampista de suma precisión anotando grandes cantidades formales obteniendo el récord local absoluto posicionándose victorioso como líder formal exclusivo forjador e indiscutido logrando el campeonato liguista italiano formativo estelar de goleador puro formativo de equipo general."
+    },
+    {
+      "nombre": "Andreas Zeyer",
+      "periodo": "1989-2004",
+      "pos": "Mediocampista",
+      "desc": "Sólido futbolista histórico compitiendo linderos ascensos de ligueros iniciales estables formales totales afianzándose en gran número para las consolidaciones de primera formativa etapa liguista victoriosa alemana de origen estatuario seguro estable."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Nils Petersen",
+      "goles": 105,
+      "periodo": "2015-2023",
+      "partidos": 277,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2023."
+    },
+    {
+      "nombre": "Vincenzo Grifo",
+      "goles": 84,
+      "periodo": "2015-Act",
+      "partidos": 273,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Act."
+    },
+    {
+      "nombre": "Joachim Löw",
+      "goles": 83,
+      "periodo": "1978-1989",
+      "partidos": 263,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 83 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1989."
+    },
+    {
+      "nombre": "Alexander Iashvili",
+      "goles": 63,
+      "periodo": "1997-2007",
+      "partidos": 273,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 1997-2007."
+    },
+    {
+      "nombre": "Papiss Cissé",
+      "goles": 39,
+      "periodo": "2009-2012",
+      "partidos": 67,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 39 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Andreas Zeyer",
+      "partidos": 432,
+      "periodo": "1989-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 432 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2004."
+    },
+    {
+      "nombre": "Christian Günter",
+      "partidos": 393,
+      "periodo": "2012-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 393 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-Act."
+    },
+    {
+      "nombre": "Nicolas Höfler",
+      "partidos": 345,
+      "periodo": "2010-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 345 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-Act."
+    },
+    {
+      "nombre": "Nils Petersen",
+      "partidos": 277,
+      "periodo": "2015-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 277 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2023."
+    },
+    {
+      "nombre": "Alexander Iashvili",
+      "partidos": 273,
+      "periodo": "1997-2007",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 273 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2007."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 4,
+      "anios": [
+        "1992-93",
+        "2002-03",
+        "2008-09",
+        "2015-16"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/freiburg/Logo-SC_Freiburg.svg"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/freiburg/Dfs_wl_d_freiburg_sc.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/freiburg.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Breisgau-Brasilianer",
+      "origen": "Denominación asimilada fílmicamente en franca alusión futbolística tras la vibrante década deportiva de 1990. Al forjar una escuadra galopante que distribuía incesantemente veloces y virtuosos pases cortos de estilo sudamericano en territorio germano, la prensa asidua los consagró en portadas llamándolos rumbosamente Los Brasileños de Brisgovia."
+    }
+  ]
+}

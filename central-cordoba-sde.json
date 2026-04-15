@@ -1,0 +1,34 @@
+{
+  "id": "central-cordoba-sde",
+  "datos": {
+    "nombre_oficial": "Club Atlético Central Córdoba",
+    "nombre_corto": "Central Córdoba (SdE)",
+    "apodos": [
+      "El Ferroviario",
+      "El Charrúa"
+    ],
+    "fundacion": "1906-10-06",
+    "ciudad": "Santiago del Estero",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Único Madre de Ciudades",
+    "estadio_capacidad": 30000,
+    "estadio_lat": -27.7811,
+    "estadio_lng": -64.2588,
+    "debut_primera": 2018
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "bastones_verticales"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

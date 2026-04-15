@@ -1,0 +1,263 @@
+{
+  "id": "villarreal",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "villarreal",
+      "submarino amarillo"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Villarreal Club de Fútbol",
+    "sigla": "VIL",
+    "fundacion": "10 de marzo de 1923",
+    "apodo": "El Submarino Amarillo",
+    "estadio_actual": "Estadio de la Cerámica",
+    "estadio_apodo": "El Madrigal",
+    "estadio_capacidad": 23000,
+    "estadio_inauguracion": "17 de junio de 1923",
+    "estadio_lat": 39.9441,
+    "estadio_lng": -0.1036,
+    "estadio_direccion": "C. Blasco Ibáñez, 2, 12540 Vila-real, Castellón, España",
+    "socios": 20500,
+    "descripcion_corta": "Club perteneciente a la provincia de Castellón con crecimiento de gestión privada ascendente reciente.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#FFD700"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#005BA6"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Gerard Moreno (121)",
+      "mas_presencias": "Manu Trigueros (477)"
+    },
+    "nombre_oficial": "Villarreal Club de Fútbol S.A.D.",
+    "nombre_corto": "Villarreal",
+    "escudo_actual": "/escudos_historicos/villarreal/Villarreal.webp"
+  },
+  "historia": [
+    {
+      "ano": "1923",
+      "hito": "Nacimiento en Boticarias Tierra Castellonense",
+      "desc": "Lejos del bullicio industrial, el municipio castellonense gestó su inmortalidad corporativa entre el aroma penetrante a medicamentos y fórmulas maestras. En los apacibles inicios de 1923, la trastienda de la farmacia local 'La Botica' se transformó mágicamente en la asamblea clandestina de la juventud soñadora apasionada por el fútbol. Impulsados incansablemente por el fervor visionario y altruista del boticario José Calduch Almela, y secundados por un círculo irreductible de próceres fundacionales como Pascual Font de Mora, José Llorca y Enrique Segarra, se sentaron las bases definitivas el 10 de marzo para rubricar oficialmente el Club Deportivo de Villarreal. Adquiriendo los yermos terrenos comunales para instalar El Madrigal, los primeros futbolistas, enfundados con camisas blancas remendadas y rudimentarios pantalones negros que sus propias madres hilaban, comenzaron a dictar sentencias deportivas sobre la arcilla. Posteriormente transmutarían al e incandescente amarillo oro que los convertiría de campesinos al letal, respetado y temido monstruo táctico pan-europeo rebautizado mundialmente hoy como el 'Submarino Amarillo'."
+    },
+    {
+      "ano": "1998",
+      "hito": "El Inesperado Ascenso Legendario Compostelano",
+      "desc": "Asaltó inexplorado e intrincado como en las utopías un empate dramático de mil batallas eliminatorias abatiendo un insólito viaje del pueblo a instalarse descaradamente en la Primera División majestuosa de fe."
+    },
+    {
+      "ano": "2006",
+      "hito": "El Maligno y Amargo Llanto Riquelme",
+      "desc": "Paredes preciosas empujaron al planeta guiados brillantemente con Forlán desatando pánico en Europa abatiéndose sólo injustamente por letal penalti errado ahogado frente al poderoso y legendario equipo inglés perdiendo final atónitamente en Londres."
+    },
+    {
+      "ano": "2008",
+      "hito": "Dominio de Liga Apelando Subcampeonatos",
+      "desc": "Fútbol táctico de lírica de orquesta. El club más pequeño supero y abatió en tablas por momentos en juego enamorando gigantes y aniquilándolos finalizando sorpresivamente un impecabilísimo subcampeonato absoluto sobre poderoso Barcelona."
+    },
+    {
+      "ano": "2021",
+      "hito": "El Oro Puro Polaco de Europa",
+      "desc": "El infierno en los pies. Luego de ahogar y sufrir espinas por Europa, Emery conjuró milagrosamente la épica con un Gero Rulli titán destrozando y asestando gloriosa venganza frente colosal al propio Manchester para clavar único título."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de la Cerámica (El Madrigal)",
+      "capacidad": "23.500",
+      "inauguracion": "1923",
+      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Blasco%20Ib%C3%A1%C3%B1ez%2C%202%2C%2012540%20Vila-real%2C%20Castell%C3%B3n",
+      "direccion": "C. Blasco Ibáñez, 2, 12540 Vila-real, Castellón",
+      "descripcion": "El acorazado amarillo envuelto en precioso azulejo. Una proeza titánica donde se ahogaron gigantes europeos enteros."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1923,
+      "hasta": 1947,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Dura llanura formativa poética con un lienzo enteramente liso albo y humilde desprovisto crudo."
+    },
+    {
+      "desde": 1947,
+      "hasta": null,
+      "c1": "#ffcc00",
+      "c2": "#ffcc00",
+      "sh": "#000080",
+      "me": "#ffcc00",
+      "tipo": "liso",
+      "desc": "Adquisición amarilla fáctica legendaria y gloriosa por escasez de tejidos para cimentarse eternos inquebrantables lícitos legendarios y formales submarinos poéticos letales dorados en el mediterráneo purista."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Juan Román Riquelme",
+      "periodo": "2003-2007",
+      "pos": "Mediocampista",
+      "desc": "Creativo mediocampista argentino. Se destacó liderando el armado del equipo durante la histórica campaña que alcanzó las semifinales de la Liga de Campeones en 2006."
+    },
+    {
+      "nombre": "Bruno Soriano",
+      "periodo": "2006-2020",
+      "pos": "Mediocampista",
+      "desc": "Volante central originario exclusivamente del club. Posee el histórico récord absoluto como el jugador con mayor cantidad de partidos oficiales disputados vistiendo esta camiseta."
+    },
+    {
+      "nombre": "Gerard Moreno",
+      "periodo": "2018-2025",
+      "pos": "Delantero",
+      "desc": "Delantero español que ostenta el lugar como máximo artillero en la historia oficial de la institución tras superar todos los registros goleadores anteriores."
+    },
+    {
+      "nombre": "Diego Forlán",
+      "periodo": "2004-2007",
+      "pos": "Delantero",
+      "desc": "Goleador uruguayo que tuvo un notable desempeño. Ganó el Trofeo Pichichi de España en la temporada 2004-05 y la primera Bota de Oro europea en la historia del equipo."
+    },
+    {
+      "nombre": "Pau Torres",
+      "periodo": "2016-2023",
+      "pos": "Defensa",
+      "desc": "Defensor central originario del fútbol base. Fue titular indiscutido en la final histórica en la cual el club se coronó por primera vez campeón de la Europa League en 2021."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gerard Moreno",
+      "goles": 120,
+      "periodo": "Varios",
+      "partidos": 300,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 120 goles en competiciones oficiales durante su trayectoria en el equipo entre Varios."
+    },
+    {
+      "nombre": "Giuseppe Rossi",
+      "goles": 82,
+      "periodo": "2007-2013",
+      "partidos": 192,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 82 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2013."
+    },
+    {
+      "nombre": "Diego Forlán",
+      "goles": 59,
+      "periodo": "2004-2007",
+      "partidos": 128,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2007."
+    },
+    {
+      "nombre": "Cedric Bakambu",
+      "goles": 47,
+      "periodo": "2015-2018",
+      "partidos": 105,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 47 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2018."
+    },
+    {
+      "nombre": "Santi Cazorla",
+      "goles": 34,
+      "periodo": "Varios",
+      "partidos": 334,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 34 goles en competiciones oficiales durante su trayectoria en el equipo entre Varios."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Manu Trigueros",
+      "partidos": 477,
+      "periodo": "2012-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 477 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2024."
+    },
+    {
+      "nombre": "Bruno Soriano",
+      "partidos": 425,
+      "periodo": "2006-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 425 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2020."
+    },
+    {
+      "nombre": "Mario Gaspar",
+      "partidos": 424,
+      "periodo": "2009-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 424 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2022."
+    },
+    {
+      "nombre": "Santi Cazorla",
+      "partidos": 334,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 334 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Gerard Moreno",
+      "partidos": 320,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 320 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Europa League",
+      "cantidad": 1,
+      "anios": [
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Tercera División",
+      "cantidad": 1,
+      "anios": [
+        "1970"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/villarreal/Villarreal.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos_historicos/villarreal/Vallareal_1942.webp"
+    },
+    {
+      "ano": "1947",
+      "url": "/escudos_historicos/villarreal/Vallareal_1947.webp"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos_historicos/villarreal/Vallareal_1951.webp"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos_historicos/villarreal/Vallareal_1956.webp"
+    },
+    {
+      "ano": "1969",
+      "url": "/escudos_historicos/villarreal/Vallareal_1969.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/villarreal/Vallareal_1995.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/villarreal/Villarreal.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Submarino Amarillo",
+      "origen": "Instaurado y consolidado hacia el histórico 1967 tras la utilización popular céntrica y deportiva local de un famoso tema musical festivo. Durante la obtención plena de incesantes triunfos y un vertiginoso ascenso escalando divisiones nacionales vistiendo masivamente predominante camisetas amarillas puras, los jóvenes simpatizantes reprodujeron a todo volumen el legendario hit inglés de éxito de los Beatles bautizado análogo a ellos integrando la victoria."
+    },
+    {
+      "apodo": "El Groguet",
+      "origen": "Apodo originando adopción naciente e idénticamente local de raíz de puramente de dialecto geográfico incautando un término base fáctico textual idéntico. Surge de catalogar incesantemente llanamente el uso ininterrumpido incautando del originario y principal color y fáctico de pigmento fáctico distintivo puro predominante al vestir del tono purista de origen amarillo o color crudo base purista y textualmente general en originario idioma regional purista valenciano autóctono."
+    }
+  ]
+}

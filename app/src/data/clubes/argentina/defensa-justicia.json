@@ -1,0 +1,249 @@
+{
+  "id": "defensa-justicia",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "buenos aires",
+      "florencio varela",
+      "halcon",
+      "sur"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Social y Deportivo Defensa y Justicia",
+    "sigla": "CSyDDyJ",
+    "fundacion": "20 de marzo de 1935",
+    "apodo": "El Halcón de Varela",
+    "estadio_actual": "Norberto Tomaghello",
+    "estadio_apodo": "El Tito Tomaghello",
+    "estadio_capacidad": 18000,
+    "estadio_inauguracion": "1978-02-26",
+    "estadio_lat": -34.8143,
+    "estadio_lng": -58.2753,
+    "estadio_direccion": "Humahuaca 2542, Florencio Varela, Buenos Aires",
+    "socios": 15000,
+    "descripcion_corta": "Institución de Florencio Varela, zona sur del Gran Buenos Aires. El club se afianzó en la Primera División de AFA en 2014 tras un ininterrumpido ascenso desde las categorías menores, coronándose campeón en torneos internacionales de Conmebol.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#FFDF00"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#008F39"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-0 a un rival de C (1981)",
+      "maximo_goleador": "Juan Martín Lucero (59 goles)",
+      "mas_presencias": "Ezequiel Unsain (228 partidos)"
+    }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Escudo_del_Club_Defensa_y_Justicia.svg?width=500"
+    }
+  ],
+  "historia": [
+    {
+      "ano": "1935",
+      "hito": "Comité fundante en Florencio Varela",
+      "desc": "Las bases societarias gremiales y puramente vecinales que residían en el conurbano de Buenos Aires fijaron su firma a nivel formal redactando el acta y los estatutos el 20 de marzo de 1935. Nacida en primera instancia la institución como un punto de bienestar barrial para la organización social conurbana, las actividades netamente representativas futboleras adoptaron su carácter formal y el posterior e histórico mote logístico transportista de 'El Halcón'."
+    },
+    {
+      "ano": "2014",
+      "hito": "El debut ineludible logrado en la máxima Primera División",
+      "desc": "Luego de transitar ininterrumpida y agónicamente a partir de las franjas extremas inferiores de las limitadas divisiones 'D' y 'C' del campeonato desde fines del setenta, el conjunto consumó finalmente el ansiado ascenso oficial por mandato directo bajo estructura intensa de su entrenador táctico general de pautas agresivas y proyecciones de campo organizadas por Diego Cocca consolidando participar a mayo de 2014 históricamente en Primera División."
+    },
+    {
+      "ano": "2020",
+      "hito": "La definitiva Copa Sudamericana en la neutralidad",
+      "desc": "Excediendo rotundamente métricas acotadas asociadas a planteles modestos sudamericanos, el estilo y propuesta arriesgada asfixiante desplegada ofensivamente por Hernán Crespo posibilitó conquistar internacionalmente la edición aplazada por pandemia referencial del Torneo de Conmebol rompiendo lógicas tácticas previas. Defensa y Justicia impuso total jerarquía derrotando con amplitud oficial reglamentaria general de un holgado y justificado 3-0 frente al consolidado cuadro vecino de Lanús alzando el máximo podio trofeo internacional."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha Histórica de Florencio Varela",
+      "direccion": "Avenida San Martín y Calle Mitre",
+      "desde": 1935,
+      "hasta": 1978,
+      "estado": "Histórico",
+      "obs": "Predio original para torneos regionales antes del salto al fútbol federado, en etapas tempranas de la vida de la institución.",
+      "lat": -34.8077,
+      "lng": -58.2737,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20San%20Mart%C3%ADn%20y%20Calle%20Mitre"
+    },
+    {
+      "nombre": "Estadio Norberto Tomaghello",
+      "direccion": "Humahuaca 2542",
+      "desde": 1978,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado originalmente como Estadio General San Martín en 1978 y rebautizado en diciembre de 1990 en honor al ex presidente de la institución Norberto 'Tito' Tomaghello.",
+      "lat": -34.8143,
+      "lng": -58.2753,
+      "url": "https://www.google.com/maps/search/?api=1&query=Humahuaca%202542"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1935,
+      "hasta": 1982,
+      "c1": "#003da5",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#003da5",
+      "tipo": "rayas-verticales",
+      "desc": "Etapa amateurs germinal inmaculada vistiéndose puramente con líneas finas y albas, alusivas al escudo formal burocrático inicial de la asociación cívica."
+    },
+    {
+      "desde": 1982,
+      "hasta": null,
+      "c1": "#fff200",
+      "c2": "#006600",
+      "sh": "#006600",
+      "me": "#fff200",
+      "tipo": "liso",
+      "desc": "Súbita y conversión romántica cromática a tonalidades amarillo y verde impuestas en donativo por la pujante empresa patronal barrial inmensurable de ómnibus de la Línea El Halcón que mutaría permanentemente el tejido histórico y místico cromático estatutario."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Hernán Crespo",
+      "pos": "Director Técnico",
+      "apodo": "Valdanito",
+      "periodo": "2020-2021",
+      "desc": "Histórico exdelantero que consolidó su prestigio como director técnico al conducir a la institución a la conquista de su primer título internacional: la Copa Sudamericana en la temporada 2020."
+    },
+    {
+      "nombre": "Braian Romero",
+      "pos": "Delantero",
+      "apodo": "Braian",
+      "periodo": "2020-2021",
+      "desc": "Atacante decisivo que se consagró como el máximo goleador y figura central de la histórica campaña del equipo para obtener la Copa Sudamericana 2020 disputada en la ciudad de Córdoba."
+    },
+    {
+      "nombre": "Sebastián Beccacece",
+      "pos": "Director Técnico",
+      "apodo": "Becca",
+      "periodo": "2016-2017, 2018-2019, 2021-2022",
+      "desc": "Entrenador fundamental en la consolidación contemporánea del equipo. Estableció un estilo de juego ofensivo y posicional que resultó en un subcampeonato de la Primera División argentina."
+    },
+    {
+      "nombre": "Enrique Triverio",
+      "pos": "Delantero",
+      "apodo": "Kike",
+      "periodo": "2014-2015",
+      "desc": "Delantero de área y potencia que fue el goleador titular durante las primeras y exitosas campañas iniciales de la institución tras su histórico ascenso a la máxima categoría."
+    },
+    {
+      "nombre": "Ezequiel Unsain",
+      "pos": "Arquero",
+      "apodo": "Eze",
+      "periodo": "2017-2023",
+      "desc": "Arquero de grandes reflejos y capitán del ciclo más exitoso en la historia del club. Levantó la Copa Sudamericana en calidad de referente portando la cinta en el logro internacional en el año 2020."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Juan Martín Lucero",
+      "goles": 59,
+      "partidos": 105,
+      "periodo": "2010-2014",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2014."
+    },
+    {
+      "nombre": "Nicolás Fernández",
+      "goles": 54,
+      "partidos": 115,
+      "periodo": "2017-2024",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2024."
+    },
+    {
+      "nombre": "Braian Romero",
+      "goles": 21,
+      "partidos": 33,
+      "periodo": "2020-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 21 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2021."
+    },
+    {
+      "nombre": "Walter Bou",
+      "goles": 20,
+      "partidos": 52,
+      "periodo": "2021-2022",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2022."
+    },
+    {
+      "nombre": "Miguel Merentiel",
+      "goles": 19,
+      "partidos": 55,
+      "periodo": "2020-2022",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 19 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Ezequiel Unsain",
+      "partidos": 228,
+      "periodo": "2017-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 228 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2023."
+    },
+    {
+      "nombre": "Ciro Rius",
+      "partidos": 153,
+      "periodo": "2014-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 153 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2021."
+    },
+    {
+      "nombre": "Tomás Cardona",
+      "partidos": 128,
+      "periodo": "2016-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 128 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2023."
+    },
+    {
+      "nombre": "Adonis Frías",
+      "partidos": 121,
+      "periodo": "2019-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 121 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2022."
+    },
+    {
+      "nombre": "Gabriel Hachen",
+      "partidos": 115,
+      "periodo": "2020-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 115 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2020-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "2020"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Ascensos de Categoría Históricos (A, B, C, D)",
+      "cantidad": 4,
+      "años": [
+        "1982",
+        "1997",
+        "2014"
+      ]
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Halcón",
+      "origen": "Reemplazado oficialmente como nuevo emblema al inicio de la era moderna deportiva en el barrio de Florencio Varela. Durante los ochentas, la firma transportista de colectivos El Halcón sponsoreó a sus camisetas cediendo colores y distintivo."
+    }
+  ]
+}

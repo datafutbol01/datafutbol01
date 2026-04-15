@@ -1,0 +1,479 @@
+{
+  "id": "lanus",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "sur",
+      "granate",
+      "lanus"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Lanús",
+    "sigla": "CAL",
+    "fundacion": "3 de enero de 1915",
+    "apodo": "El Granate",
+    "estadio_actual": "Ciudad de Lanús - Néstor Díaz Pérez",
+    "estadio_apodo": "La Fortaleza",
+    "estadio_capacidad": 47027,
+    "estadio_inauguracion": "1929-02-24",
+    "estadio_lat": -34.7175,
+    "estadio_lng": -58.3814,
+    "estadio_direccion": "General Arias y Héctor Guidi, Lanús Este, Buenos Aires",
+    "descripcion_corta": "Institución modelo del Conurbano Sur. Destaca por su sólido desarrollo institucional y su crecimiento sostenido en las últimas décadas, logrando consolidarse deportivamente al obtener múltiples campeonatos de Primera División y un resonante tricampeonato internacional histórico (Copa Conmebol, Copa Sudamericana y Recopa).",
+    "paleta": [
+      {
+        "tag": "Rojo Granate",
+        "hex": "#6D1A25"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-0 a Quilmes (1935)",
+      "maximo_goleador": "José 'Pepe' Sand (173 goles)",
+      "mas_presencias": "Maximiliano Velázquez (423 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1915",
+      "hito": "Fusión barrial frente al viejo Hospital",
+      "desc": "Aquejados por crónicas crisis de financiamiento, los dirigentes de las escuadras 'Lanús United' y 'El Progreso' acordaron aunar esfuerzos. El 3 de enero de 1915, reunidos en el salón social del Centro Comercial de la ciudad (frente a las instalaciones del antiguo hospital municipal), sellaron la unificación bajo el nombre único de Club Atlético Lanús. La votación asamblearia eligió a Miguel Usaray como presidente original. Ante la escasez de proveedores, los directivos compraron remanentes económicos importados de la tela borra de vino provenientes desde España, lo que instauraría el emblemático apodo de la institución: 'El Granate'."
+    },
+    {
+      "ano": "1996",
+      "hito": "El triunfo en Bogotá y la Copa Conmebol",
+      "desc": "Superando años deportivos críticos (incluyendo estadías en Tercera División), el club estabilizó su estructura con el inicio de la década de los noventa. Reforzado mediante jugadores provenientes de su sólida infraestructura juvenil como Ariel Ibagaza y Carlos Roa, y orquestado rigurosamente por el director técnico Héctor Cúper, el equipo se abrió paso eliminatorio en el escenario continental. En diciembre de 1996, viajó a Bogotá donde doblegó en la final internacional a Independiente Santa Fe, adjudicándose la Copa Conmebol oficial, la primera estrella en toda su historia deportiva institucional."
+    },
+    {
+      "ano": "2007",
+      "hito": "El Torneo Apertura y el estruendo de La Bombonera",
+      "desc": "El 2 de diciembre de 2007 quedó marcado como el día más importante en los registros modernos de Lanús. Tras comandar la liga doméstica de forma sostenida bajo el conocimiento estratégico impartido por su ídolo devenido en entrenador, Ramón Cabrero, enfrentó como visitante a Boca Juniors requiriendo solo de un empate para dar la vuelta olímpica. El delantero José Sand (máximo goleador histórico granate) estableció el 1-1 definitorio desatando la invasión y vuelta olímpica de miles de simpatizantes de la localidad sureña que habían copado por completo las bandejas visitantes foráneas del recinto porteño."
+    },
+    {
+      "ano": "2013-2016",
+      "hito": "Copa Sudamericana y el campeonato Transición 2016",
+      "desc": "Dirigidos técnicamente por Guillermo Barros Schelotto, Lanús conquistó contundentemente la Copa Sudamericana 2013 invictos en calidad de visitante y tras vencer a Ponte Preta en el estadio Ciudad de Lanús. Su ciclo esplendoroso de la última década encontró su pináculo formal en la Primera División de 2016. Bajo la propuesta de alta posesión implementada por el entrenador Jorge Almirón, el conjunto se clasificó finalista superando claramente todas las métricas tácticas. En el partido único final llevado a cabo en el estadio de River Plate, el club apabulló categóricamente por 4-0 al histórico equipo de San Lorenzo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Margarita Weild y Dehesa",
+      "direccion": "Lanús Este, Provincia de Bs.As",
+      "desde": 1915,
+      "hasta": 1929,
+      "estado": "Desalojado",
+      "obs": "Primer recinto liguista donde el club organizó formalmente sus tempranas disputas deportivas barriales durante la expansión fundacional amateur.",
+      "lat": -34.7088,
+      "lng": -58.3855,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lan%C3%BAs%20Este%2C%20Provincia%20de%20Bs.As"
+    },
+    {
+      "nombre": "Estadio Ciudad de Lanús - Néstor Díaz Pérez (La Fortaleza)",
+      "direccion": "General Arias y Héctor Guidi, Lanús Este",
+      "desde": 1929,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto propio histórico y definitivo de la institución. Apodado sólidamente 'La Fortaleza', atravesó múltiples fases de modernización y ampliación en etapas cementadas para adaptarse a la infraestructura requerida para torneos internacionales organizados por CONMEBOL.",
+      "lat": -34.7175,
+      "lng": -58.384,
+      "url": "https://www.google.com/maps/search/?api=1&query=General%20Arias%20y%20H%C3%A9ctor%20Guidi%2C%20Lan%C3%BAs%20Este"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1915,
+      "hasta": null,
+      "c1": "#7a003c",
+      "c2": "#7a003c",
+      "sh": "#ffffff",
+      "me": "#7a003c",
+      "tipo": "liso",
+      "desc": "Uniforme místico e formal liso en tono rojo oscuro bermellón grana derivando y directo del color originado arquitectónico formal de los portones patronales ferroviarios sureños de antaño en una armadura imperecedera purista."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Lautaro Acosta",
+      "pos": "Extremo / Delantero",
+      "apodo": "Laucha",
+      "periodo": "2006-2008, 2013-Hoy",
+      "desc": "Delantero extremo, producto de la cantera y figura emblemática de la modernidad Granate. Conquistó el Torneo Apertura 2007 en sus inicios y continuó siendo estandarte en los diversos trofeos obtenidos posteriormente."
+    },
+    {
+      "nombre": "José Sand",
+      "pos": "Centrodelantero",
+      "apodo": "Pepe",
+      "periodo": "2007-2009, 2016-2017, 2019-2023",
+      "desc": "El máximo artillero en la historia centenaria de la institución. Con un instinto delantero irreplicable, fue el arma determinante del equipo tanto en los campeonatos de Primera División como en las competiciones del continente."
+    },
+    {
+      "nombre": "Luis Arrieta",
+      "pos": "Delantero",
+      "apodo": "El Artillero",
+      "periodo": "1939-1944",
+      "desc": "Destacado atacante de la década de 1940 que mantuvo el récord histórico de goleo exclusivo durante setenta años. Integró el plantel representativo que solidificó inicialmente al equipo en la máxima categoría regulada."
+    },
+    {
+      "nombre": "Armando González",
+      "pos": "Defensor",
+      "apodo": "La Urraca",
+      "periodo": "1987-1997",
+      "desc": "Histórico capitán defensivo aguerrido apodado 'La Urraca'. Inmortalizó su nombre en 1996 al levantar la Copa Conmebol, certamen que representó el primer título oficial internacional del club."
+    },
+    {
+      "nombre": "Héctor Guidi",
+      "motivo": "El jugador con más presencias en la historia del 'Granate', emblema del equipo formador de la etapa más gloriosa de Lanús.",
+      "pos": "Mediocampista",
+      "apodo": "El Nene",
+      "periodo": "1949-1961, 1963-1966",
+      "desc": "Mediocampista organizador central histórico de enorme despliegue. Completó la mayor parte de su trayectoria profesional aquí y fue el director de orquesta de los combinados de 1950, recordados por su elegante juego."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "José Sand",
+      "goles": 173,
+      "partidos": 322,
+      "periodo": "2007-2023",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 173 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2023."
+    },
+    {
+      "nombre": "Luis Arrieta",
+      "goles": 120,
+      "partidos": 164,
+      "periodo": "1939-1944",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 120 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1944."
+    },
+    {
+      "nombre": "Gilmar Villagrán",
+      "goles": 111,
+      "partidos": 314,
+      "periodo": "1984-1991",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984-1991."
+    },
+    {
+      "nombre": "Juan E. Elena",
+      "goles": 84,
+      "partidos": 160,
+      "periodo": "1936-1941",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1941."
+    },
+    {
+      "nombre": "José Florio",
+      "goles": 74,
+      "partidos": 82,
+      "periodo": "1949-1951",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 74 goles en competiciones oficiales durante su trayectoria en el equipo entre 1949-1951."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Maximiliano Velázquez",
+      "partidos": 423,
+      "periodo": "2004-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 423 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2017."
+    },
+    {
+      "nombre": "Lautaro Acosta",
+      "partidos": 401,
+      "periodo": "2006-Presente",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 401 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-Presente."
+    },
+    {
+      "nombre": "Atilio Ducca",
+      "partidos": 333,
+      "periodo": "1935-1946",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 333 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1935-1946."
+    },
+    {
+      "nombre": "José Sand",
+      "partidos": 322,
+      "periodo": "2007-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 322 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2023."
+    },
+    {
+      "nombre": "Gilmar Villagrán",
+      "partidos": 314,
+      "periodo": "1984-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 314 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-1991."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 2,
+      "años": [
+        "2007",
+        "2016"
+      ]
+    },
+    {
+      "nombre": "Copa Bicentenario / Supercopa Argentina",
+      "cantidad": 2,
+      "años": [
+        "2016",
+        "2016"
+      ]
+    },
+    {
+      "nombre": "Copa Conmebol",
+      "cantidad": 1,
+      "años": [
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 4,
+      "años": [
+        "1950",
+        "1964",
+        "1971",
+        "1976"
+      ]
+    },
+    {
+      "nombre": "Tercera División",
+      "cantidad": 1,
+      "años": [
+        "1981"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1915",
+      "url": "/escudos_historicos/lanus/lanus_1915_web.png"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos/historicos/lanus/1915.avif"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos/historicos/lanus/1915_2.avif"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/lanus/lanus_1931_web.png"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos/historicos/lanus/1931.avif"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/lanus/lanus_1932_web.png"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/lanus/1932.avif"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos_historicos/lanus/lanus_1935_web.png"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos/historicos/lanus/1935.avif"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos/historicos/lanus/1935_2.avif"
+    },
+    {
+      "ano": "1937",
+      "url": "/escudos_historicos/lanus/lanus_1937_web.png"
+    },
+    {
+      "ano": "1937",
+      "url": "/escudos/historicos/lanus/1937.avif"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos_historicos/lanus/lanus_1940_web.png"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos/historicos/lanus/1940.avif"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos_historicos/lanus/lanus_1950_web.png"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos/historicos/lanus/1951.avif"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos_historicos/lanus/lanus_1955_web.png"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos/historicos/lanus/1955.avif"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/lanus/lanus_1960_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/lanus/1960.avif"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/lanus/1960_2.avif"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/lanus/lanus_1974_web.png"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos/historicos/lanus/1974.avif"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/lanus/lanus_1977_web.png"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos/historicos/lanus/1977.avif"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/lanus/lanus_1980_web.png"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/lanus/lanus_1992_web.png"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos/historicos/lanus/1992.avif"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/lanus/lanus_1996_web.png"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/lanus/lanus_1998_web.png"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos/historicos/lanus/1998.avif"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos_historicos/lanus/lanus_2004_web.png"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos/historicos/lanus/2004.avif"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/lanus/lanus_2007_web.png"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos/historicos/lanus/2007.avif"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos/historicos/lanus/2007_2.avif"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos_historicos/lanus/lanus_2009_web.png"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos/historicos/lanus/2009.avif"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/lanus/lanus_2012_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/lanus/lanus_2013_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos/historicos/lanus/2013.avif"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos_historicos/lanus/lanus_2014_web.png"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos_historicos/lanus/lanus_2015_web.png"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos/historicos/lanus/2015.avif"
+    },
+    {
+      "ano": "2016",
+      "url": "/escudos/historicos/lanus/2016.avif"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos_historicos/lanus/lanus_2017_web.png"
+    },
+    {
+      "ano": "2020",
+      "url": "/escudos/historicos/lanus/2020.avif"
+    },
+    {
+      "ano": "2021",
+      "url": "/escudos_historicos/lanus/lanus_2021_web.png"
+    },
+    {
+      "ano": "2023",
+      "url": "/escudos/historicos/lanus/2023.avif"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos_historicos/lanus/lanus_2025_web.png"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos/historicos/lanus/2025.avif"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos/historicos/lanus/2025_2.avif"
+    },
+    {
+      "ano": "2026",
+      "url": "/escudos/historicos/lanus/2026.avif"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Escudo_del_Club_Atletico_Lan%C3%BAs.png/1280px-Escudo_del_Club_Atletico_Lan%C3%BAs.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Granate",
+      "origen": "Establecido como un tributo fundacional directo de sus pioneros barriales a principios del siglo XX. El uso del color característico derivó del aporte y ayuda logística lograda por sus incipientes jugadores en la década de 1910 al recibir donaciones mediante el club de origen español Pontevedra. El equipo importó la histórica tela del cuadro gallego, la cual poseía el exacto color rojo oscuro para todos sus uniformes. Así dictaminaron sellarla en el acta oficial para los años posteriores ante la Asociación asociando el término del tono propio textil como apodo principal."
+    }
+  ]
+}

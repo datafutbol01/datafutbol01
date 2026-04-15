@@ -1,0 +1,280 @@
+{
+  "id": "alaves",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "alaves",
+      "el glorioso",
+      "vitoria"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Deportivo Alavés",
+    "sigla": "ALA",
+    "fundacion": "23 de enero de 1921",
+    "apodo": "Babazorros, El Glorioso",
+    "estadio_actual": "Mendizorroza",
+    "estadio_apodo": "",
+    "estadio_capacidad": 19840,
+    "estadio_inauguracion": "1924",
+    "estadio_lat": 42.8369,
+    "estadio_lng": -2.6881,
+    "estadio_direccion": "P.º de Cervantes, s/n, 01007 Vitoria-Gasteiz, Álava",
+    "socios": 17500,
+    "descripcion_corta": "Entidad vitoriana inscrita registralmente como pionera deportiva de la comarca.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#005BA6"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "5-1 a Valladolid",
+      "maximo_goleador": "Javi Moreno",
+      "mas_presencias": "Martín Astudillo (346 partidos)"
+    },
+    "nombre_corto": "Deportivo Alavés"
+  },
+  "historia": [
+    {
+      "ano": "1921",
+      "hito": "Fundación del Deportivo Alavés",
+      "desc": "El frío sepulcral y la elegante burguesía de Vitoria fueron el caldo de cultivo ideal para un grito de identidad. Aunque el fútbol trotaba tímidamente desde 1913 bajo el formato del primitivo 'Sport Friends Club', la ebullición absoluta ocurrió en los despachos de la mismísima tenencia de alcaldía en enero de 1921. Con un hambre voraz por plantar cara a los vecinos bilbaínos, próceres institucionales de la talla de José Gabriel de Guinea, el icónico y visionario Amadeo García de Salazar, junto a pioneros incansables como Hilario y Carmelo Leza, rubricaron el parto oficial del 'Deportivo Alavés'. Se conjuraron bajo un emblema transversal que buscaba derribar las barreras clasistas: amparar por igual el fervor de los obreros de la metalurgia local y la ilusión de la alta sociedad vizcaína. Enfundados originalmente con camisetas regaladas por la Real Sociedad, cimentaron el irrenunciable honor albiazul, erigiendo una máquina defensiva tan, áspera e indomable, que en poco tiempo mereció el apodo de 'El '."
+    },
+    {
+      "ano": "1930",
+      "hito": "Primer Ascenso a Primera División",
+      "desc": "Aquel Alavés logró su primer ascenso a la élite del fútbol español, convirtiéndose en el primer club vitoriano en codearse con los grandes, escribiendo las primeras líneas de oro en su libro."
+    },
+    {
+      "ano": "1998",
+      "hito": "El Despertar Moderno y la Copa del Rey",
+      "desc": "Bajo la batuta del técnico Mané, el retornó a Primera División tras décadas de sombras y realizó una campaña en la Copa del Rey que sorprendió a toda España y despertó el furor en Mendizorroza."
+    },
+    {
+      "ano": "2001",
+      "hito": "La Épica de Dortmund",
+      "desc": "Disputó una de las finales más espectaculares en la historia de la Copa de la UEFA frente al Liverpool (5-4 con gol de oro en contra). Una gesta mítica donde un club modesto paralizó Europa con su fútbol y guerrero."
+    },
+    {
+      "ano": "2017",
+      "hito": "Subcampeones de la Copa del Rey",
+      "desc": "Alcanzó su primera final de Copa del Rey contra el intratable FC Barcelona de Messi instaurando, a pesar de la derrota, una comunión con la marea albiazul desplazada a Madrid."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Mendizorroza",
+      "capacidad": "19.840",
+      "inauguracion": "1924",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paseo%20Cervantes%2C%20s%2Fn%2C%2001007%20Vitoria-Gasteiz%2C%20%C3%81lava",
+      "direccion": "Paseo Cervantes, s/n, 01007 Vitoria-Gasteiz, Álava",
+      "descripcion": "El fortín histórico del Glorioso, una de las canchas más antiguas del fútbol español profesional."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1921,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Forjados en tierra vasca cruda y firme, dictaminando inquebrantables e históricos listones albiazules a rayas verticales que forjarían eternos a los babazorros del norte legendario."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Javi Moreno",
+      "periodo": "1998-2001",
+      "pos": "Delantero",
+      "desc": "Máximo goleador en la campaña que finalizó en el subcampeonato de la Copa de la UEFA en 2001."
+    },
+    {
+      "nombre": "Manu García",
+      "periodo": "2012-2021",
+      "pos": "Mediocampista",
+      "desc": "Capitán originario de Vitoria que anotó el gol de la victoria frente al Real Madrid en la temporada 2018."
+    },
+    {
+      "nombre": "Cosmin Contra",
+      "periodo": "1999-2001",
+      "pos": "Defensa",
+      "desc": "Lateral derecho titular en la destacada participación que el club logró en la Copa de la UEFA de 2001."
+    },
+    {
+      "nombre": "Pablo Gómez",
+      "periodo": "1996-2004",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo que ascendió con el equipo desde las divisiones menores hasta la Primera División."
+    },
+    {
+      "nombre": "Fernando Pacheco",
+      "periodo": "2015-2022",
+      "pos": "Arquero",
+      "desc": "Arquero titular en la etapa contemporánea, acumulando cientos de encuentros disputados en Primera División."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Julio Remacha",
+      "goles": 54,
+      "periodo": "Años 50",
+      "partidos": "-",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 50."
+    },
+    {
+      "nombre": "Rubén Navarro",
+      "goles": 48,
+      "periodo": "2001-2007",
+      "partidos": "-",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2007."
+    },
+    {
+      "nombre": "Javi Moreno",
+      "goles": 39,
+      "periodo": "1998-2001",
+      "partidos": "-",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 39 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2001."
+    },
+    {
+      "nombre": "Magno Mocelin",
+      "goles": 37,
+      "periodo": "1998-2004",
+      "partidos": "-",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 37 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2004."
+    },
+    {
+      "nombre": "Joselu",
+      "goles": 36,
+      "periodo": "2019-2022",
+      "partidos": "-",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 36 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Martín Astudillo",
+      "partidos": 346,
+      "periodo": "1999-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 346 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2008."
+    },
+    {
+      "nombre": "Manu García",
+      "partidos": 308,
+      "periodo": "2012-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 308 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2021."
+    },
+    {
+      "nombre": "Víctor Laguardia",
+      "partidos": 285,
+      "periodo": "2014-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 285 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2023."
+    },
+    {
+      "nombre": "Pablo Gómez",
+      "partidos": 279,
+      "periodo": "1996-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 279 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2004."
+    },
+    {
+      "nombre": "Fernando Pacheco",
+      "partidos": 253,
+      "periodo": "2015-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 253 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Segunda División",
+      "cantidad": 4,
+      "anios": [
+        "1929-30",
+        "1953-54",
+        "1997-98",
+        "2015-16"
+      ]
+    },
+    {
+      "nombre": "Copa Federación",
+      "cantidad": 1,
+      "anios": [
+        "1946"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/alaves/Deportivo_Alav_s_1921_logo.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/alaves/Deportivo_Alav_s_1923_logo.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1922_logo.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1928.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1941.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/alaves/Deportivo_Alav_s_1950.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1950.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1956.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1986_logo.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_1995.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_2001.webp"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_2020.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/alaves/Deportivo_Alaves_logo.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/alaves.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Babazorros",
+      "origen": "El apodo proviene de la combinación vasca de las palabras 'baba' (haba) y 'zorro' (saco). Históricamente funcionaba como un gentilicio peyorativo utilizado para denominar a todos los habitantes maduros de la provincia de Álava durante el siglo XIX, debido a la muy alta dependencia de los cultivos de habas en la dieta local. El club y su masa societaria adoptaron el término con puro orgullo sociológico tras su fundación, instituyéndolo como sello inalterable."
+    },
+    {
+      "apodo": "El Glorioso",
+      "origen": "Fue instaurado a nivel periodístico y popular de modo definitivo entre 1930 y 1932. Nació tras lograr una campaña estadística inusitada y heroica para el fútbol español de entonces: conseguir escalar y lograr el ascenso desde Tercera División hasta Primera División de España en tres años consecutivos. Irrumpió posteriormente alcanzando de forma inmediata las semifinales absolutas de la Copa del Rey de 1932, quedando en las páginas de las crónicas como un equipo verdaderamente glorioso y sorpresivo."
+    }
+  ]
+}

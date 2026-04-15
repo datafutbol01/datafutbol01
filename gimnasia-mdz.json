@@ -1,0 +1,35 @@
+{
+  "id": "gimnasia-mdz",
+  "datos": {
+    "nombre_oficial": "Club de Gimnasia y Esgrima de Mendoza",
+    "nombre_corto": "Gimnasia (Mendoza)",
+    "apodos": [
+      "El Lobo Mendocino",
+      "El Azul de Mendoza"
+    ],
+    "fundacion": "1904-03-25",
+    "ciudad": "Mendoza",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Víctor Legrotaglie",
+    "estadio_capacidad": 20000,
+    "estadio_lat": -32.909,
+    "estadio_lng": -68.835,
+    "debut_primera": 2026,
+    "obs": "Ascendió desde Primera Nacional 2025. Regresa a Primera por primera vez desde el Torneo Nacional 1984"
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "unicolor_azul"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

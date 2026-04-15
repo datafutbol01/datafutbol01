@@ -1,0 +1,292 @@
+{
+  "id": "lyon",
+  "meta": {
+    "slug": "lyon"
+  },
+  "datos": {
+    "nombre_completo": "Olympique Lyonnais",
+    "nombre_oficial": "Olympique Lyonnais",
+    "nombre_corto": "Lyon",
+    "apodo": "Les Gones",
+    "fundacion": "3 de Agosto de 1950",
+    "estadio_actual": "Groupama Stadium (Parc OL)",
+    "presidente": "John Textor",
+    "entrenador": "Pierre Sage",
+    "estadio_capacidad": "59.186",
+    "estadio_inauguracion": "2016",
+    "estadio_direccion": "10 Av. Simone Veil, 69150 Décines-Charpieu, Francia",
+    "estadio_lat": 45.7656,
+    "estadio_lng": 4.9818,
+    "sigla": "OL",
+    "socios": 98000,
+    "descripcion_corta": "Entidad de la región de Ródano-Alpes que sostiene el registro nacional numérico de siete campeonatos de liga adjudicados de manera consecutiva (2002-2008).",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#D3302F"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Fleury Di Nallo (222 goles)",
+      "mas_presencias": "Serge Chiesa (542 partidos)",
+      "mayor_goleada": "10-0 vs Ajaccio (1954)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/lyon.webp"
+  },
+  "historia": [
+    {
+      "ano": "1950",
+      "hito": "El Gran Cisma Radical de la Disidencia Universitariay el LOU",
+      "desc": "El Olympique Lyonnais es directamente originario e innegociable de la ruda escisión cismática y violenta ruptura directiva fáctica con el rudo gigante matriz LOU (Lyon Olympique Universitaire) arrastrando consigo divisiones crudas dictaminadas sobre cómo inyectar salarios profesionales formales. En asamblea el 3 de agosto de 1950 bajo tenaz y originaria rigurosa caudillez del médico e ídolo de medicina deportiva el eminente brillante 'Albert Trillat' y Félix Louot sentenciado purísimamente el Acta formal innegociable fundacional gestando la corporación escindida soberana portadora estricta fiera del colosal león."
+    },
+    {
+      "ano": "1951",
+      "hito": "Independización y Registro del Olimpique Lyonnais",
+      "desc": "Tras serios desacuerdos documentados en la asociación universitaria general, el equipo de fútbol se desvinculó de la directiva y se inscribió bajo un marco legal independiente como Olympique Lyonnais."
+    },
+    {
+      "ano": "1987",
+      "hito": "Adquisición Presidencial Oficial por Jean-Michel Aulas",
+      "desc": "El empresario local Jean-Michel Aulas adquirió los derechos mayoritarios deportivos e institucionales, aplicando reestructuraciones financieras de mediano plazo e inyectando un capital accionario llamado proyecto OL Europe."
+    },
+    {
+      "ano": "2008",
+      "hito": "Récord Matemático Consagrando 7 Ligas Consecutivas",
+      "desc": "Aprovechando su estabilidad financiera y deportiva de cantera, el equipo aseguró el registro inamovible finalizando campeonatos sumando 7 certificaciones formales de liga francesa continuada (de 2002 a 2008)."
+    },
+    {
+      "ano": "2020",
+      "hito": "Acceso Documentado a Semifinales Continentales",
+      "desc": "Guiados por el entrenador del club, el equipo obtuvo en Lisboa la victoria tras un peritaje táctico marcando 3 goles a 1 frente al Manchester City alcanzando avanzar de llave en el marco superior de Champions League."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade de Gerland",
+      "capacidad": "41.044",
+      "inauguracion": "1926",
+      "desde": "1950",
+      "hasta": "2015",
+      "direccion": "353 Av. Jean Jaurès, 69007 Lyon, Francia",
+      "lat": 45.7238,
+      "lng": 4.8322,
+      "obs": "Estadio primario del club por más de sesenta años, cimentando su dominio con los 7 títulos consecutivos.",
+      "url": "https://www.google.com/maps/search/?api=1&query=353%20Av.%20Jean%20Jaur%C3%A8s%2C%2069007%20Lyon%2C%20Francia"
+    },
+    {
+      "nombre": "Groupama Stadium (Parc OL)",
+      "capacidad": "59.186",
+      "inauguracion": "2016",
+      "desde": "2016",
+      "hasta": "",
+      "direccion": "10 Av. Simone Veil, 69150 Décines-Charpieu, Francia",
+      "lat": 45.7656,
+      "lng": 4.9818,
+      "obs": "Recinto propio edificado por el proyecto OL Europe, diseñado en las afueras de la urbe de Lyon.",
+      "url": "https://www.google.com/maps/search/?api=1&query=10%20Av.%20Simone%20Veil%2C%2069150%20D%C3%A9cines-Charpieu%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1950,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#e30613",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Camiseta primordialmente blanca pura con sutiles pero tradicionales detalles rojos y azules locales del escudo."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Juninho Pernambucano",
+      "periodo": "2001-2009",
+      "pos": "Mediocampista",
+      "desc": "Histórico armador y mediocampista brasileño. Es ídolo supremo del equipo al capitaneár la obtención de siete campeonatos consecutivos de liga y ser aclamado como el especialista total en tiros libres."
+    },
+    {
+      "nombre": "Fleury Di Nallo",
+      "periodo": "1960-1974",
+      "pos": "Delantero",
+      "desc": "Centrodelantero legendario de la institución apodado 'El principito'. Estableció férreamente el récord al convertirse en el máximo goleador de toda la vida deportiva e historia nacional local."
+    },
+    {
+      "nombre": "Grégory Coupet",
+      "periodo": "1997-2008",
+      "pos": "Arquero",
+      "desc": "Estandarte titular protegiendo el arco general. Consiguió múltiples marcas sumando siete títulos de la primera división de manera ininterrumpida custodiando las redes oficiales."
+    },
+    {
+      "nombre": "Sidney Govou",
+      "periodo": "1999-2010",
+      "pos": "Delantero",
+      "desc": "Atacante extremo surgido enteramente en divisiones formativas. Compartió de inicio a fin la histórica década de consolidación séptuple de campeonatos sin abandonar nunca a la alineación oficialista."
+    },
+    {
+      "nombre": "Alexandre Lacazette",
+      "periodo": "2010-2017",
+      "pos": "Delantero",
+      "desc": "Gran goleador surgido de la academia de la institución. Alternó su carrera consiguiendo cifras superlativas superando ampliamente más del centenar de anotaciones en torneos oficiales ligueros."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Fleury Di Nallo",
+      "goles": 222,
+      "periodo": "1960-1974",
+      "partidos": 489,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 222 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1974."
+    },
+    {
+      "nombre": "Alexandre Lacazette",
+      "goles": 169,
+      "periodo": "2010-Act",
+      "partidos": 330,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 169 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-Act."
+    },
+    {
+      "nombre": "Bernard Lacombe",
+      "goles": 149,
+      "periodo": "1969-1978",
+      "partidos": 230,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1978."
+    },
+    {
+      "nombre": "Serge Chiesa",
+      "goles": 134,
+      "periodo": "1969-1983",
+      "partidos": 541,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 134 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1983."
+    },
+    {
+      "nombre": "Bafétimbi Gomis",
+      "goles": 91,
+      "periodo": "2009-2014",
+      "partidos": 244,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 91 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2014."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Serge Chiesa",
+      "partidos": 541,
+      "periodo": "1969-1983",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 541 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1983."
+    },
+    {
+      "nombre": "Grégory Coupet",
+      "partidos": 518,
+      "periodo": "1997-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 518 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2008."
+    },
+    {
+      "nombre": "Fleury Di Nallo",
+      "partidos": 489,
+      "periodo": "1960-1974",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 489 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1974."
+    },
+    {
+      "nombre": "Anthony Lopes",
+      "partidos": 477,
+      "periodo": "2012-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 477 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-Act."
+    },
+    {
+      "nombre": "Juninho",
+      "partidos": 344,
+      "periodo": "2001-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 344 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2009."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 7,
+      "anios": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 5,
+      "anios": [
+        "1964",
+        "1967",
+        "1973",
+        "2008",
+        "2012"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 1,
+      "anios": [
+        "2001"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 8,
+      "anios": [
+        "1973",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2012"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1950",
+      "url": "/escudos_historicos/lyon/Logo_Olympique_Lyonnais_-_1950.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/lyon/Logo_Olympique_Lyonnais_-_1974.webp"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos_historicos/lyon/Logo_Olympique_Lyonnais_-_1976.webp"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/lyon/Logo_Olympique_Lyonnais_-_1977.webp"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/lyon/Logo_Olympique_Lyonnais_-_1980.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lyon/Olympique_Lyonnais_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lyon/Olympique_Lyonnais_logo_29e.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lyon/Olympique_Lyonnais_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/lyon.webp"
+    }
+  ]
+}

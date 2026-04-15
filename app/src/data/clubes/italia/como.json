@@ -1,0 +1,249 @@
+{
+  "id": "como",
+  "meta": {
+    "slug": "como"
+  },
+  "datos": {
+    "nombre_completo": "Como 1907 S.r.l.",
+    "sigla": "COM",
+    "fundacion": "1907",
+    "apodo": "Los Larianos, Los Azules, Los Voltianos",
+    "estadio_actual": "Stadio Giuseppe Sinigaglia",
+    "estadio_apodo": "",
+    "estadio_capacidad": 13602,
+    "estadio_inauguracion": "1927",
+    "estadio_lat": 45.813,
+    "estadio_lng": 9.0766,
+    "estadio_direccion": "Viale Giuseppe Sinigaglia 2, 22100 Como, Lombardia",
+    "socios": 7000,
+    "descripcion_corta": "Entidad de la región de Lombardía con base frente al Lago de Como, reconocida por varios ascensos seguidos que le permitieron volver a Serie A en 2024 tras 21 años.",
+    "paleta": [
+      {
+        "tag": "Azul Claro",
+        "hex": "#005eaa"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Antonio Cetti (91 goles)",
+      "mas_presencias": "Bruno Ballarini (350 partidos)",
+      "mayor_goleada": "5-0 vs Lucchese (1951)"
+    },
+    "nombre_oficial": "Como 1907",
+    "nombre_corto": "Como",
+    "escudo_actual": "/escudos_historicos/como/Como_1907_logo_(2019).svg"
+  },
+  "historia": [
+    {
+      "ano": "1907",
+      "hito": "Las Bases Larienses en el Bar Taroni",
+      "desc": "El encanto estético del Lago de Como, centro turístico y aristocrático en Lombardía, no fue ajeno a la fiebre del 'foot-ball'. El 25 de julio de 1907, tras la organización de un comité de ciudadanos locales y entusiastas deportivos entre los que destacaban Mario Bazzi, el primer presidente, y el comerciante Carlo Colombo, se fundó formalmente el Como Foot-Ball Club durante una reunión celebrada en el céntrico Bar Taroni. Con el respaldo de las autoridades comunales y disputando sus primeros encuentros en prados prestados, el equipo integró rápidamente los campeonatos regionales. Su identidad quedó sellada de forma indisoluble al decidir adoptar de manera unánime el color azul profundo (Azzurro), representando visualmente y para toda la eternidad las aguas de su emblemático lago."
+    },
+    {
+      "ano": "1949",
+      "hito": "Primer Ascenso a Serie A",
+      "desc": "Al término del contexto de posguerra, la escuadra logró estructurar una campaña sólida en Serie B que garantizó su primer ascenso histórico a la máxima categoría del fútbol nacional. Mantuvieron la categoría durante un período de cuatro temporadas consecutivas."
+    },
+    {
+      "ano": "1980",
+      "hito": "Era Contemporánea en Primera División",
+      "desc": "El Como inició un ciclo de subidas y descensos entre Serie A y Serie B que se extendió durante la década de los 80. Jugadores de renombre internacional utilizaron la infraestructura del Estadio Giuseppe Sinigaglia para afianzar el proyecto lariense."
+    },
+    {
+      "ano": "2002",
+      "hito": "Regreso Breve y Crisis Institucional",
+      "desc": "El club enlazó saltos numéricos desde divisiones semiprofesionales hasta regresar brevemente a Serie A bajo el mando de Loris Dominissini. Posterior a su rápido descenso de la élite, el club sufrió quiebras financieras múltiples que obligaron a su refundación."
+    },
+    {
+      "ano": "2024",
+      "hito": "Reestructuración y Retorno a Serie A",
+      "desc": "Comprados por capital indonesio (los hermanos Hartono) y apuntalados operativamente por el exfutbolista Cesc Fàbregas, el Como concretó su ascenso definitivo a la máxima categoría, superando 21 años de ausencia marcados por la inestabilidad en divisiones como la Serie D y la Serie C."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Giuseppe Sinigaglia",
+      "capacidad": "13.602",
+      "inauguracion": "1927",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20Giuseppe%20Sinigaglia%202%2C%2022100%20Como%2C%20Lombardia",
+      "direccion": "Viale Giuseppe Sinigaglia 2, 22100 Como, Lombardia",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1907,
+      "hasta": null,
+      "c1": "#005bb5",
+      "c2": "#005bb5",
+      "sh": "#ffffff",
+      "me": "#005bb5",
+      "tipo": "liso",
+      "desc": "Respetando su fuerte afiliación histórica lariense, el cuadro porta de forma llana, uniforme y lisa el color azul (Azzurro) derivado visual de los tonos cromáticos y acuáticos de su lago limítrofe."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Stefano Borgonovo",
+      "periodo": "1980-1988",
+      "pos": "Delantero",
+      "desc": "Delantero formado en la cantera del club. Fue el goleador del equipo durante las campañas en la Serie A a mediados de la década de 1980."
+    },
+    {
+      "nombre": "Giancarlo Centi",
+      "periodo": "1978-1990",
+      "pos": "Defensor",
+      "desc": "Mediocampista titular que posee el récord histórico como el jugador con mayor cantidad de partidos jugados en el club."
+    },
+    {
+      "nombre": "Gianfranco Matteoli",
+      "periodo": "1984-1986",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista técnico que debutó profesionalmente en el equipo y lideró los ascensos del club antes de consolidar su carrera en importantes planteles de Italia."
+    },
+    {
+      "nombre": "Dan Corneliusson",
+      "periodo": "1984-1989",
+      "pos": "Delantero",
+      "desc": "Delantero centro de origen sueco. Fue un titular habitual y aportó anotaciones durante la participación continua del equipo en la Serie A."
+    },
+    {
+      "nombre": "Pietro Vierchowod",
+      "periodo": "1976-1981",
+      "pos": "Defensor",
+      "desc": "Defensor central campeón del mundo con Italia. Inició su etapa deportiva profesional consolidándose como firme zaguero titular del club a fines de los años 70."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Antonio Cetti",
+      "goles": 91,
+      "periodo": "1920-1930",
+      "partidos": 278,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 91 goles en competiciones oficiales durante su trayectoria en el equipo entre 1920-1930."
+    },
+    {
+      "nombre": "Marco Romano",
+      "goles": 71,
+      "periodo": "1931-1936",
+      "partidos": 125,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1931-1936."
+    },
+    {
+      "nombre": "Giuseppe Baldini",
+      "goles": 59,
+      "periodo": "1940-1944",
+      "partidos": 115,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940-1944."
+    },
+    {
+      "nombre": "Vittorio Ghiandi",
+      "goles": 44,
+      "periodo": "1950-1954",
+      "partidos": 140,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre 1950-1954."
+    },
+    {
+      "nombre": "Renato Campanini",
+      "goles": 42,
+      "periodo": "1960-1964",
+      "partidos": 133,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 42 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1964."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Giancarlo Centi",
+      "partidos": 333,
+      "periodo": "1978-1990",
+      "goles": 3,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 333 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1990."
+    },
+    {
+      "nombre": "Bruno Ciappina",
+      "partidos": 318,
+      "periodo": "1954-1964",
+      "goles": 2,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 318 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1964."
+    },
+    {
+      "nombre": "Antonio Cetti",
+      "partidos": 278,
+      "periodo": "1920-1930",
+      "goles": 91,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 278 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1920-1930."
+    },
+    {
+      "nombre": "Luigi Paleari",
+      "partidos": 266,
+      "periodo": "1950-1960",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 266 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1960."
+    },
+    {
+      "nombre": "Roberto Galia",
+      "partidos": 249,
+      "periodo": "1980-1988",
+      "goles": 12,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 249 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1988."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie B",
+      "cantidad": 3,
+      "anios": [
+        "1948-49",
+        "1979-80",
+        "2001-02"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/como/Como_1907_logo_(adozione_2017).svg"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/como/Calcio-como-a (1).webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/como/Calcio-como-a.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/como/Calcio-como-b.webp"
+    },
+    {
+      "ano": "1950s",
+      "url": "/escudos_historicos/como/Comostemma.webp"
+    },
+    {
+      "ano": "1960s",
+      "url": "/escudos_historicos/como/FC_Como_Logo_29.webp"
+    },
+    {
+      "ano": "1970s",
+      "url": "/escudos_historicos/como/Logo_AC_Comense.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/como/Como_1907_logo_(2019).svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Lariani",
+      "origen": "Bautizado por el lago alpino que baña la urbe, cuyo nombre histórico romano inalterable es Larius, convirtiendo al agua en gentilicio."
+    },
+    {
+      "apodo": "I Biancoblù",
+      "origen": "Acuñado al forjar una heráldica pura con colores absolutos del inmenso lago asimilando celestes con cumbres nevadas blancas locales."
+    }
+  ]
+}

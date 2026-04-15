@@ -1,0 +1,303 @@
+{
+  "id": "marseille",
+  "meta": {
+    "slug": "marseille"
+  },
+  "datos": {
+    "nombre_completo": "Olympique de Marseille",
+    "nombre_oficial": "Olympique de Marseille",
+    "nombre_corto": "Marseille",
+    "apodo": "Les Phocéens, L'OM",
+    "fundacion": "31 de Agosto de 1899",
+    "estadio_actual": "Stade Vélodrome (Orange Vélodrome)",
+    "presidente": "Pablo Longoria",
+    "entrenador": "Jean-Louis Gasset",
+    "estadio_capacidad": "67.394",
+    "estadio_inauguracion": "1937",
+    "estadio_direccion": "3 Bd Michelet, 13008 Marseille, Francia",
+    "estadio_lat": 43.2698,
+    "estadio_lng": 5.3959,
+    "sigla": "OM",
+    "socios": 320000,
+    "descripcion_corta": "Club localizado en la región de Provenza y el único equipo del torneo francés que documentó formalmente una victoria en final de la Copa de Europa (1993).",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Celeste",
+        "hex": "#00B4D5"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Gunnar Andersson (194 goles)",
+      "mas_presencias": "Steve Mandanda (613 partidos)",
+      "mayor_goleada": "19-0 vs Stade Raphaëlois (1933)"
+    },
+    "estadio_apodo": "Le Vélodrome",
+    "escudo_actual": "/escudos/marseille.webp"
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "El Rugido del Velódromo Sur Nace del Estudiantado Escocés",
+      "desc": "Mientras el gigantesco y colosal caótico bullicioso puerto de Marsella albergaba cientos de buques navales repletos estipulados originarios y pesados con mercadería inglesa, un brillante visionario de ilustre familia aristócrata René Dufaure de Montmirail asimiló colosales destrezas atléticas del incipiente rugby combinando un nacimiento del fútbol escocés formando estipuladamente el 'Olympique de Marseille'. Formalizado oficialmente a fines del estruendoso agosto del ochenta y nueve fundaron bajo divisa blanquísima portando orígenes de los lemas y estandartes oficiales adoptando grito fiero innegociable Droit Au But asimilado histórico directamente apuntado al y estricto gigantesco gol directo victorioso."
+    },
+    {
+      "ano": "1937",
+      "hito": "El Primer Título Formal Local Competición",
+      "desc": "En los albores de las competiciones unificadas, el equipo generó los puntos suficientes para que el torneo se le adjudicara matemáticamente registrando el estatus de liga a las arcas cimentadas del club."
+    },
+    {
+      "ano": "1986",
+      "hito": "El Inversor Fáctico Bernard Tapie Toma Las Directivas",
+      "desc": "La institución pasó a recibir formalmente el estatus y presupuesto en propiedad del empresario mediático Bernard Tapie, realizando fichajes internacionales fuertes en el cierre de período originando la era de tetracampeonato."
+    },
+    {
+      "ano": "1993",
+      "hito": "Única Entidad Nacional Adquiriendo Champions League",
+      "desc": "Bajo la orden táctica firme y tras un testarazo de área a cargo del defensor Basile Boli, el Marsella derrotó matemáticamente 1-0 al AC Milan en el césped alemán adquiriendo de formalidad la primera Copa Continental Francesa."
+    },
+    {
+      "ano": "1994",
+      "hito": "Sanciones Formadas Administrativas y Escándalo de Valenciennes",
+      "desc": "Tras revelarse dictámenes legales sobre incentivos no válidos en fechas ligueras previas contra el equipo Valenciennes FC, la directiva deportiva de Francia ordenó anular su último torneo y proceder a la quita formal con el inminente descenso sumiso del equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade de l'Huveaune",
+      "capacidad": "15.000",
+      "inauguracion": "1904",
+      "desde": "1904",
+      "hasta": "1937",
+      "direccion": "Rue de l'Huveaune, 13008 Marseille, Francia",
+      "lat": 43.2736,
+      "lng": 5.3944,
+      "obs": "El campo original de principios de siglo utilizado y construido bajo propiedad y fondos de fieles de la base afición.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20l'Huveaune%2C%2013008%20Marseille%2C%20Francia"
+    },
+    {
+      "nombre": "Stade Vélodrome (Orange Vélodrome)",
+      "capacidad": "67.394",
+      "inauguracion": "1937",
+      "desde": "1937",
+      "hasta": "",
+      "direccion": "3 Bd Michelet, 13008 Marseille, Francia",
+      "lat": 43.2698,
+      "lng": 5.3959,
+      "obs": "El templo del fútbol del sur. Famoso por albergar una acústica ruidosa bajo una inmensa cubierta ondular blanca.",
+      "url": "https://www.google.com/maps/search/?api=1&query=3%20Bd%20Michelet%2C%2013008%20Marseille%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#00a1dd",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Blanco inmaculado rematado por cruces y detalles en azul celeste mediterráneo."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jean-Pierre Papin",
+      "periodo": "1986-1992",
+      "pos": "Delantero",
+      "desc": "Artillero letal en ataque históricamente laureado. Fue ganador indiscutido del Balón de Oro asegurando consecutivos campeonatos al máximo nivel de gol nacional y europeo para sumar incontables cifras."
+    },
+    {
+      "nombre": "Steve Mandanda",
+      "periodo": "2007-2022",
+      "pos": "Arquero",
+      "desc": "Experimentado y sólido arquero. Posee en la actualidad la imbatible marca oficial del jugador con mayor cantidad de partidos jugados protegiendo el arco general vistiendo la indumentaria."
+    },
+    {
+      "nombre": "Didier Drogba",
+      "periodo": "2003-2004",
+      "pos": "Delantero",
+      "desc": "Potente centroatacante oficial africano de gran porte. Aportó una temporada excepcional de récord consolidándose directamente y de forma indiscutida originando estrechos vínculos asombrosos con las tribunas."
+    },
+    {
+      "nombre": "Chris Waddle",
+      "periodo": "1989-1992",
+      "pos": "Mediocampista",
+      "desc": "Habilidoso extremo inglés recordado reverencialmente. Formó una mítica asociación consolidante durante la victoriosa de gran nivel de la etapa máxima y dorada de ligas asegurando formidables títulos."
+    },
+    {
+      "nombre": "Mamadou Niang",
+      "periodo": "2005-2010",
+      "pos": "Delantero",
+      "desc": "Dinámico delantero veloz y referente goleador oficial de Senegal. Fue el capitán en ataque que lideró con gran soltura la escuadra que coronó nuevamente el campeonato de liga inicial en 2010."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gunnar Andersson",
+      "goles": 194,
+      "periodo": "1950-1958",
+      "partidos": 220,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 194 goles en competiciones oficiales durante su trayectoria en el equipo entre 1950-1958."
+    },
+    {
+      "nombre": "Jean-Pierre Papin",
+      "goles": 182,
+      "periodo": "1986-1992",
+      "partidos": 274,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 182 goles en competiciones oficiales durante su trayectoria en el equipo entre 1986-1992."
+    },
+    {
+      "nombre": "Josip Skoblar",
+      "goles": 176,
+      "periodo": "1966-1974",
+      "partidos": 211,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 176 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1974."
+    },
+    {
+      "nombre": "Emmanuel Aznar",
+      "goles": 149,
+      "periodo": "1936-1952",
+      "partidos": 204,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1952."
+    },
+    {
+      "nombre": "Mamadou Niang",
+      "goles": 100,
+      "periodo": "2005-2010",
+      "partidos": 227,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 100 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2010."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Steve Mandanda",
+      "partidos": 610,
+      "periodo": "2007-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 610 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2022."
+    },
+    {
+      "nombre": "Roger Scotti",
+      "partidos": 452,
+      "periodo": "1942-1958",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 452 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1942-1958."
+    },
+    {
+      "nombre": "Jean Bastien",
+      "partidos": 337,
+      "periodo": "1935-1950",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 337 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1935-1950."
+    },
+    {
+      "nombre": "François Bracci",
+      "partidos": 342,
+      "periodo": "1971-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 342 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1979."
+    },
+    {
+      "nombre": "Mathieu Valbuena",
+      "partidos": 330,
+      "periodo": "2006-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 330 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2014."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 9,
+      "anios": [
+        "1937",
+        "1948",
+        "1971",
+        "1972",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "2010"
+      ]
+    },
+    {
+      "nombre": "UEFA Champions League",
+      "cantidad": 1,
+      "anios": [
+        "1993"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 10,
+      "anios": [
+        "1924",
+        "1926",
+        "1927",
+        "1935",
+        "1938",
+        "1943",
+        "1969",
+        "1972",
+        "1976",
+        "1989"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 3,
+      "anios": [
+        "2010",
+        "2011",
+        "2012"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 3,
+      "anios": [
+        "1971",
+        "2010",
+        "2011"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_29.webp"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_1935.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_1972.webp"
+    },
+    {
+      "ano": "1986",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_1986.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_logo_29.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_logo_1993.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_logo_1998.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/marseille/Olympique_de_Marseille_logo_2000.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/marseille.webp"
+    }
+  ]
+}

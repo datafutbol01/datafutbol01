@@ -1,0 +1,304 @@
+{
+  "id": "borussia-monchengladbach",
+  "meta": {
+    "slug": "borussia-monchengladbach",
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "monchengladbach",
+      "potros"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Borussia Verein für Leibesübungen 1900 e. V.",
+    "nombre_oficial": "Borussia Mönchengladbach",
+    "nombre_corto": "Borussia M'gladbach",
+    "apodo": "Die Fohlen (Los Potros)",
+    "fundacion": "1900",
+    "estadio_actual": "Borussia-Park",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 54057,
+    "estadio_inauguracion": "2004",
+    "estadio_direccion": "Hennes-Weisweiler-Allee 1, 41179 Mönchengladbach, Alemania",
+    "estadio_lat": 51.1746,
+    "estadio_lng": 6.3855,
+    "escudo_actual": "/escudos/borussia-monchengladbach.webp",
+    "sigla": "BMG",
+    "socios": 100000,
+    "descripcion_corta": "Club tradicional alemán que vivió su época más gloriosa e invencible durante la década de 1970.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#008B45"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jupp Heynckes (292)",
+      "mas_presencias": "Berti Vogts (526)",
+      "mayor_goleada": "12-0 vs Dortmund (1978)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "El Pacto Tabernario de Eicken",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1970",
+      "hito": "Táctica Vanguardista del Entrenador Hennes Weisweiler",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1975",
+      "hito": "Extensión Regional del Monopolio Coronando Con UEFA",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1999",
+      "hito": "Descenso Burocrático y Hundimiento Deportivo de Final de Milenio",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2011",
+      "hito": "El Inesperado Rescate Inyectado por la Lógica de Lucien Favre",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Bökelbergstadion",
+      "capacidad": "34.500",
+      "inauguracion": "1919",
+      "url": "https://www.google.com/maps/search/?api=1&query=B%C3%B6kelstra%C3%9Fe%20161%2C%2041063%20M%C3%B6nchengladbach%2C%20Alemania",
+      "direccion": "Bökelstraße 161, 41063 Mönchengladbach, Alemania",
+      "descripcion": "Un templo histórico tristemente demolido, hogar definitivo de Los Potros ('Die Fohlen') en su etapa de absoluto dominio formativo teutón nacional e internacional en la prodigiosa década de los 70.",
+      "lat": 51.2057,
+      "lng": 6.4311
+    },
+    {
+      "nombre": "Borussia-Park (Nordpark)",
+      "capacidad": "54.057",
+      "inauguracion": "2004",
+      "url": "https://www.google.com/maps/search/?api=1&query=Hennes-Weisweiler-Allee%201%2C%2041179%20M%C3%B6nchengladbach%2C%20Alemania",
+      "direccion": "Hennes-Weisweiler-Allee 1, 41179 Mönchengladbach, Alemania",
+      "descripcion": "Reemplazó al querido pero obsoleto y mítico Bökelbergstadion para dotar a los 'Potros' de un infierno verde de élite y máxima comodidad.",
+      "lat": 51.1746,
+      "lng": 6.3855
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1900,
+      "hasta": 1960,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1970,
+      "hasta": 1980,
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1990,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Günter Netzer",
+      "periodo": "1963-1973",
+      "pos": "Mediocampista",
+      "desc": "Histórico mediocampista central. Lideró tácticamente al equipo durante la llamada época dorada del club, obteniendo múltiples certámenes locales en la década del 70."
+    },
+    {
+      "nombre": "Berti Vogts",
+      "periodo": "1965-1979",
+      "pos": "Defensor",
+      "desc": "Zaguero y líder del equipo titular. Se mantiene firme como el jugador con el récord inamovible de más partidos oficiales disputados en la institución."
+    },
+    {
+      "nombre": "Jupp Heynckes",
+      "periodo": "1963-1978",
+      "pos": "Delantero",
+      "desc": "Histórico goleador local. Ostenta de manera indiscutida el título del máximo artillero del elenco registrando cerca de trescientos goles oficiales en total."
+    },
+    {
+      "nombre": "Allan Simonsen",
+      "periodo": "1972-1979",
+      "pos": "Delantero",
+      "desc": "Delantero ágil y veloz originario de Dinamarca. Conquistó en los setenta el mayor logro individual tras adjudicarse el Balón de Oro de Europa."
+    },
+    {
+      "nombre": "Herbert Wimmer",
+      "periodo": "1966-1978",
+      "pos": "Mediocampista",
+      "desc": "Medioampista de gran despliegue que operó de socio indispensable en los campeonatos formales ganados a nivel nacional y europeo con el plantel principal."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jupp Heynckes",
+      "goles": 291,
+      "periodo": "1963-1978",
+      "partidos": 400,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 291 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1978."
+    },
+    {
+      "nombre": "Allan Simonsen",
+      "goles": 117,
+      "periodo": "1972-1979",
+      "partidos": 246,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 117 goles en competiciones oficiales durante su trayectoria en el equipo entre 1972-1979."
+    },
+    {
+      "nombre": "Herbert Laumen",
+      "goles": 112,
+      "periodo": "1962-1971",
+      "partidos": 219,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1971."
+    },
+    {
+      "nombre": "Hans-Jörg Criens",
+      "goles": 112,
+      "periodo": "1982-1993",
+      "partidos": 334,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1993."
+    },
+    {
+      "nombre": "Günter Netzer",
+      "goles": 108,
+      "periodo": "1963-1973",
+      "partidos": 297,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1973."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Berti Vogts",
+      "partidos": 526,
+      "periodo": "1965-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 526 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1979."
+    },
+    {
+      "nombre": "Uwe Kamps",
+      "partidos": 518,
+      "periodo": "1982-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 518 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-2004."
+    },
+    {
+      "nombre": "Herbert Wimmer",
+      "partidos": 466,
+      "periodo": "1966-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 466 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1978."
+    },
+    {
+      "nombre": "Jupp Heynckes",
+      "partidos": 400,
+      "periodo": "1963-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 400 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1978."
+    },
+    {
+      "nombre": "Wolfgang Kleff",
+      "partidos": 394,
+      "periodo": "1968-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1979."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 5,
+      "anios": [
+        "1969-70",
+        "1970-71",
+        "1974-75",
+        "1975-76",
+        "1976-77"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 3,
+      "anios": [
+        "1959-60",
+        "1972-73",
+        "1994-95"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 2,
+      "anios": [
+        "1974-75",
+        "1978-79"
+      ]
+    },
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 1,
+      "anios": [
+        "2007-08"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-monchengladbach/Borussia_M28green_background.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-monchengladbach/Logo_Borussia_Monchengladbach_1961_-_1970.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-monchengladbach/Borussia_M_gladbach_Wappen.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-monchengladbach/Borussia_Monchengladbach_1900_logo.webp"
+    },
+    {
+      "ano": "1904",
+      "url": "/escudos_historicos/borussia-monchengladbach/1904.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/borussia-monchengladbach.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Fohlen",
+      "origen": "Denominación masivamente adquirida en franca alusión estética a su recordada camada pionera y gloriosa del rústico fútbol germánico en la década de 1970. Al forjar una escuadra galopante invadiendo incesantemente pases veloces en el juego, la prensa decidió llamarlos sementales juveniles de carrera, o Los Potros."
+    }
+  ]
+}

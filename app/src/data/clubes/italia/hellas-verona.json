@@ -1,0 +1,260 @@
+{
+  "id": "hellas-verona",
+  "meta": {
+    "slug": "hellas-verona"
+  },
+  "datos": {
+    "nombre_completo": "Hellas Verona Football Club S.p.A.",
+    "sigla": "VER",
+    "fundacion": "1903",
+    "apodo": "Los Amarillos y Azules, Los Mastines, Los Scaligeros",
+    "estadio_actual": "Stadio Marcantonio Bentegodi",
+    "estadio_apodo": "",
+    "estadio_capacidad": 31045,
+    "estadio_inauguracion": "15 de diciembre de 1963",
+    "estadio_lat": 45.4353,
+    "estadio_lng": 10.9687,
+    "estadio_direccion": "Piazzale Olimpia, 37138 Verona, Véneto",
+    "socios": 12000,
+    "descripcion_corta": "Entidad deportiva surgida en Verona, mundialmente conocida por su triunfo logrando el Scudetto en la temporada competitiva de la Serie A de 1984-85.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#fed11e"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#002855"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Arcadio Venturi / Luca Toni (referencias históricas clave)",
+      "mas_presencias": "Emiliano Mascetti (330 partidos)",
+      "mayor_goleada": "5-0 vs Perugia (1975)"
+    },
+    "nombre_oficial": "Hellas Verona Football Club",
+    "nombre_corto": "Hellas Verona",
+    "escudo_actual": "/escudos_historicos/hellas-verona/Hellas_Verona_logo.svg"
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Estatutos Clásicos en el Liceo Maffei",
+      "desc": "En el año 1903, la milenaria ciudad de Verona presenciaba cómo los nuevos espectáculos deportivos británicos captaban la curiosidad de su juventud académica. En octubre de ese año, un inquieto grupo de alumnos del riguroso Liceo Clásico Scipione Maffei debatió organizativamente la necesidad de formar una escuadra. Influenciados fuertemente por sus exhaustivos estudios sobre las literaturas de historia antigua, los jóvenes acudieron a su maestro de lengua y filosofía, el estricto educador Decio Corubolo. Sería él quien sugirió académicamente el nombre de 'Hellas' (nombre original y clásico de la antigua Grecia). Fundados formalmente y sumados luego los colores institucionales que replicaban exactamente las distinciones y escudos oficiales de la municipalidad de Verona, los amarillo y azul (gialloblù) del Hellas Verona marcaron el puntapié institucional en el Véneto."
+    },
+    {
+      "ano": "1968",
+      "hito": "Asentamiento Funcional en la Competencia",
+      "desc": "Dirigidos por Nils Liedholm temporalmente, el club logró ascender sistemáticamente desde Serie B para acoplarse con mayor permanencia en el sistema mayoritario de liga, alejándose de los balances inestables en el entorno semi-profesional anterior."
+    },
+    {
+      "ano": "1985",
+      "hito": "Logro Único del Campeonato de Serie A",
+      "desc": "Organizados centralmente por el entrenador Osvaldo Bagnoli e impulsados por adiciones de jugadores como Preben Elkjær y Hans-Peter Briegel, el club obtuvo sorpresivamente el título de la Serie A superando presupuestos muy elevados como los del Milan, Inter y la Juventus. Se conoce estadísticamente como uno de los certámenes con menor diferencia económica a nivel de plantilla en los años 80."
+    },
+    {
+      "ano": "2002",
+      "hito": "Declive Administrativo y Caída de Categoría",
+      "desc": "Sufriendo una recesión por problemas directivos frente a la descapitalización monetaria, el equipo evidenció campañas descendentes llegando recurrentemente a comprometer su posición en divisiones reducidas, terminando por estabilizarse momentáneamente en Serie C."
+    },
+    {
+      "ano": "2013",
+      "hito": "Estabilización Institucional con Andrea Mandorlini",
+      "desc": "Posterior a la permanencia de 11 años entre la tercera y segunda división italiana, el cuerpo técnico gestionado por Andrea Mandorlini estructuró una cadena de promoción regular hasta volver deportivamente a la Serie A tras una final prolongada de campaña."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Marcantonio Bentegodi",
+      "capacidad": "31.045",
+      "inauguracion": "15 de diciembre de 1963",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piazzale%20Olimpia%2C%2037138%20Verona%2C%20V%C3%A9neto",
+      "direccion": "Piazzale Olimpia, 37138 Verona, Véneto",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#0f235e",
+      "c2": "#0f235e",
+      "sh": "#ffe205",
+      "me": "#0f235e",
+      "tipo": "liso",
+      "desc": "El club asumió los rangos cromáticos escalados heráldicos y asimilados al escudo oficial cívico comunal de la ciudad de Verona a través integraciones amarillas destacadas sobre sus bases institucionales generalmente planas lisas de matiz azul profundo."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Preben Elkjær Larsen",
+      "periodo": "1984-1988",
+      "pos": "Delantero",
+      "desc": "Temible delantero danés que aseguró el título formal anotando de manera frecuente durante el histórico campeonato Scudetto de la temporada 1984-1985."
+    },
+    {
+      "nombre": "Luca Toni",
+      "periodo": "2013-2016",
+      "pos": "Delantero",
+      "desc": "Experimentado delantero centro italiano que en su etapa de madurez profesional conquistó en el club el título de máximo goleador de la Serie A."
+    },
+    {
+      "nombre": "Roberto Tricella",
+      "periodo": "1979-1987",
+      "pos": "Defensor",
+      "desc": "Defensor central y capitán del equipo que obtuvo formalmente el campeonato absoluto oficial en 1985 conquistando la Serie A."
+    },
+    {
+      "nombre": "Hans-Peter Briegel",
+      "periodo": "1984-1986",
+      "pos": "Defensor",
+      "desc": "Fuerte mediocampista y defensor de origen alemán que aportó gran fiabilidad táctica en el once titular durante la obtención del histórico Scudetto."
+    },
+    {
+      "nombre": "Emiliano Mascetti",
+      "periodo": "1967-1979",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista histórico e indispensable aportador de titularidades sumando presencias a largo plazo antes de transformarse en director deportivo firme institucional."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Adaílton",
+      "goles": 52,
+      "periodo": "1999-2006",
+      "partidos": 175,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2006."
+    },
+    {
+      "nombre": "Luca Toni",
+      "goles": 51,
+      "periodo": "2013-2016",
+      "partidos": 100,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 51 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2016."
+    },
+    {
+      "nombre": "Giampaolo Pazzini",
+      "goles": 50,
+      "periodo": "2015-2020",
+      "partidos": 135,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2020."
+    },
+    {
+      "nombre": "Preben Elkjær Larsen",
+      "goles": 48,
+      "periodo": "1984-1988",
+      "partidos": 130,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984-1988."
+    },
+    {
+      "nombre": "Emiliano Mascetti",
+      "goles": 46,
+      "periodo": "1967-1979",
+      "partidos": 330,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 1967-1979."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Luigi Bernardi",
+      "partidos": 337,
+      "periodo": "1927-1939",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 337 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1927-1939."
+    },
+    {
+      "nombre": "Emiliano Mascetti",
+      "partidos": 330,
+      "periodo": "1967-1979",
+      "goles": 46,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 330 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1979."
+    },
+    {
+      "nombre": "Rafael",
+      "partidos": 314,
+      "periodo": "2007-2016",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 314 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2016."
+    },
+    {
+      "nombre": "Domenico Volpati",
+      "partidos": 258,
+      "periodo": "1982-1989",
+      "goles": 8,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 258 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1989."
+    },
+    {
+      "nombre": "Roberto Tricella",
+      "partidos": 255,
+      "periodo": "1979-1987",
+      "goles": 3,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 255 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1987."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 1,
+      "anios": [
+        "1984-85"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 3,
+      "anios": [
+        "1956-57",
+        "1981-82",
+        "1998-99"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1903",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_FC_1903_Old_29.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/hellas-verona/Logo_Hellas_Verona_FC_2020.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/hellas-verona/Hellas-Verona%403.-old-logo.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/hellas-verona/Hellas-Verona%402.-old-logo.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_1945_logo.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_1970s_logo.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_1970_logo.webp"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_1985_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/hellas-verona/Hellas_Verona_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Mastini",
+      "origen": "Apropiado genéricamente rindiendo un ilustre tributo a Mastino I della Scala, fiero gobernador histórico de la inmensa dinastía medieva aristocrática de Verona."
+    },
+    {
+      "apodo": "I Gialloblù",
+      "origen": "Instituido al heredar rígidamente el escudo visual cruzado del antiguo gobierno civil veronés, asimilando colores ocre oro y sangre azul heráldica."
+    }
+  ]
+}

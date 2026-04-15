@@ -1,0 +1,34 @@
+{
+  "id": "banfield",
+  "datos": {
+    "nombre_oficial": "Club Atlético Banfield",
+    "nombre_corto": "Banfield",
+    "apodos": [
+      "El Taladro",
+      "El Drill"
+    ],
+    "fundacion": "1896-01-28",
+    "ciudad": "Banfield",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Florencio Sola",
+    "estadio_capacidad": 34930,
+    "estadio_lat": -34.7462,
+    "estadio_lng": -58.4004,
+    "debut_primera": 1939
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#228B22",
+        "#FFFFFF"
+      ],
+      "diseno": "unicolor_verde"
+    },
+    "short": "#228B22",
+    "medias": "#228B22"
+  },
+  "titulos_primera": 1,
+  "meta": {
+    "datos_completos": false
+  }
+}

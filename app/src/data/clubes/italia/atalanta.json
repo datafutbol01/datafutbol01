@@ -1,0 +1,272 @@
+{
+  "id": "atalanta",
+  "meta": {
+    "slug": "atalanta"
+  },
+  "datos": {
+    "nombre_completo": "Atalanta Bergamasca Calcio S.p.A.",
+    "sigla": "ATA",
+    "fundacion": "1907",
+    "apodo": "La Diosa, Los Orobicos, Los Negriazules",
+    "estadio_actual": "Gewiss Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 21300,
+    "estadio_inauguracion": "1 de noviembre de 1928",
+    "estadio_lat": 45.7092,
+    "estadio_lng": 9.6808,
+    "estadio_direccion": "Viale Giulio Cesare 18, 24124 Bergamo, Lombardia",
+    "socios": 15000,
+    "descripcion_corta": "Entidad de la ciudad de Bérgamo, destacada en las últimas décadas por su academia formativa y su consolidación en competiciones europeas bajo al mando de Gian Piero Gasperini.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#1a428a"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Cristiano Doni (112 goles)",
+      "mas_presencias": "Gianpaolo Bellini (435 partidos)",
+      "mayor_goleada": "7-0 vs Torino (2020)"
+    },
+    "nombre_oficial": "Atalanta Bergamasca Calcio",
+    "nombre_corto": "Atalanta",
+    "escudo_actual": "/escudos_historicos/atalanta/AtalantaBC.webp"
+  },
+  "historia": [
+    {
+      "ano": "1907",
+      "hito": "Fundación del Atalanta Bergamasca Calcio",
+      "desc": "A principios del siglo XX, la ciudad de Bérgamo experimentaba una clara división deportiva dominada por las vetustas asociaciones de gimnasia de la Ciudad Alta. Buscando romper con ese rigor conservador, el 17 de octubre de 1907, cinco jóvenes estudiantes del Liceo Clásico Paolo Sarpi (Eugenio Urio, Giulio y Ferruccio Amati, Alessandro Forlini y Giovanni Roberti) decidieron fundar un club íntegramente dedicado al novedoso deporte del foot-ball. Rechazando alianzas con la aristocracia local, bautizaron a la institución en honor a Atalanta, la heroína cazadora y atleta inalcanzable de la mitología griega. Tras una prolongada rivalidad regional, en 1920 absorbieron definitivamente a la sociedad Bergamasca di Ginnastica e Scherma, forjando el ADN moderno del club y adoptando para siempre la característica indumentaria de rayas verticales negras y azules."
+    },
+    {
+      "ano": "1963",
+      "hito": "Primer Título Nacional: Coppa Italia",
+      "desc": "El 2 de junio de 1963, el club logró su primer título importante al vencer 3-1 al Torino en la final de la Coppa Italia disputada en Milán. El equipo estaba capitaneado por Angelo Domenghini y dirigido por el técnico Paolo Tabanelli."
+    },
+    {
+      "ano": "1988",
+      "hito": "Semifinales de la Recopa de Europa desde Serie B",
+      "desc": "Bajo la dirección de Emiliano Mondonico, la Atalanta compitió en la Recopa de Europa mientras militaba en la Serie B. El club alcanzó las semifinales del torneo eliminando al Sporting de Lisboa y otros equipos, estableciendo un registro histórico para un equipo de segunda división en torneos continentales."
+    },
+    {
+      "ano": "2019",
+      "hito": "Clasificación Histórica a la Champions League",
+      "desc": "Con Gian Piero Gasperini en el banquillo, el club implementó un sistema de juego ofensivo y finalizó en la tercera posición de la Serie A. Este puesto otorgó a la institución su primera clasificación a la UEFA Champions League, consolidando su estatus moderno."
+    },
+    {
+      "ano": "2024",
+      "hito": "Campeones de la Europa League",
+      "desc": "La Atalanta obtuvo su primer título internacional al vencer 3-0 al Bayer Leverkusen en la final de la UEFA Europa League disputada en Dublín. Ademola Lookman anotó un triplete (hat-trick) en el partido decisivo para asegurar el trofeo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Gewiss Stadium",
+      "capacidad": "21.300",
+      "inauguracion": "1 de noviembre de 1928",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20Giulio%20Cesare%2018%2C%2024124%20Bergamo%2C%20Lombardia",
+      "direccion": "Viale Giulio Cesare 18, 24124 Bergamo, Lombardia",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1907,
+      "hasta": 1920,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "En sus años fundacionales tras su creación en 1907, la escuadra portó camisetas con finas rayas verticales en colores blanco y negro."
+    },
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#1a428a",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Tras la fusión administrativa con la sociedad Bergamasca, el club adoptó permanentemente el patrón de franjas verticales uniendo el azul y el negro."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Glenn Strömberg",
+      "periodo": "1984-1992",
+      "pos": "Mediocampista",
+      "desc": "Capitán histórico sueco. Jugó ininterrumpidamente ocho temporadas en el club durante la década de 1980 en Primera y Segunda División."
+    },
+    {
+      "nombre": "Gianpaolo Bellini",
+      "periodo": "1998-2016",
+      "pos": "Defensor",
+      "desc": "Defensor lateral surgido de la cantera. Posee el récord absoluto de presencias en la historia del club superando los 400 encuentros oficiales."
+    },
+    {
+      "nombre": "Alejandro 'Papu' Gómez",
+      "periodo": "2014-2021",
+      "pos": "Delantero",
+      "desc": "Volante ofensivo argentino y capitán histórico. Máximo asistente del club que lideró al equipo en su primera participación oficial en la Liga de Campeones en 2019."
+    },
+    {
+      "nombre": "Cristiano Doni",
+      "periodo": "1998-2011",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista goleador. Se mantiene como el máximo anotador estadístico histórico de la institución superando la cifra de cien goles oficiales."
+    },
+    {
+      "nombre": "Claudio Caniggia",
+      "periodo": "1989-1992",
+      "pos": "Delantero",
+      "desc": "Veloz delantero internacional argentino que jugó en la institución en torneos regulares logrando la histórica clasificación a la Copa de la UEFA en 1989."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Cristiano Doni",
+      "goles": 112,
+      "periodo": "1998-2011",
+      "partidos": 323,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2011."
+    },
+    {
+      "nombre": "Duván Zapata",
+      "goles": 82,
+      "periodo": "2018-2023",
+      "partidos": 191,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 82 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2023."
+    },
+    {
+      "nombre": "Severo Cominelli",
+      "goles": 62,
+      "periodo": "1934-1947",
+      "partidos": 261,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 62 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1947."
+    },
+    {
+      "nombre": "Alejandro 'Papu' Gómez",
+      "goles": 59,
+      "periodo": "2014-2021",
+      "partidos": 252,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2021."
+    },
+    {
+      "nombre": "Germán Denis",
+      "goles": 56,
+      "periodo": "2011-2016",
+      "partidos": 158,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 56 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2016."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Gianpaolo Bellini",
+      "partidos": 435,
+      "periodo": "1998-2016",
+      "goles": 12,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 435 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2016."
+    },
+    {
+      "nombre": "Valter Bonacina",
+      "partidos": 331,
+      "periodo": "1986-1999",
+      "goles": 19,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 331 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1999."
+    },
+    {
+      "nombre": "Stefano Angeleri",
+      "partidos": 324,
+      "periodo": "1949-1960",
+      "goles": 4,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1949-1960."
+    },
+    {
+      "nombre": "Cristian Raimondi",
+      "partidos": 313,
+      "periodo": "2001-2017",
+      "goles": 5,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 313 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2017."
+    },
+    {
+      "nombre": "Marten de Roon",
+      "partidos": 300,
+      "periodo": "2015-presente",
+      "goles": 16,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 300 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-presente."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 1,
+      "anios": [
+        "1962-63"
+      ]
+    },
+    {
+      "nombre": "Europa League",
+      "cantidad": 1,
+      "anios": [
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 6,
+      "anios": [
+        "1927-28",
+        "1939-40",
+        "1958-59",
+        "1983-84",
+        "2005-06",
+        "2010-11"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1907",
+      "url": "/escudos_historicos/atalanta/Sbg_atalanta_1907.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/atalanta/Atalanta_vecchio_logo.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/atalanta/LogoAtalanta.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/atalanta/Atalanta_1930s.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/atalanta/Atalanta_1940s.webp"
+    },
+    {
+      "ano": "1960-1970",
+      "url": "/escudos_historicos/atalanta/Atalanta-bc-bergamo-60-s-70-s-logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/atalanta/AtalantaBC.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Dea",
+      "origen": "Nombramiento estricto originando un oficial culto legendario erudito impartido sólidamente masivamente por las incipientes asambleas humanísticas ilustradas de estirpe culta. Rindiendo tributo puro, instalaron estatutariamente purista y oficializaron por insignia e reverente póstumo culto gráfico puro fáctico a la deidad heroica y virginal cazadora milenaria y arcadia nacida de Grecia e hija de Esqueneo puros fáctica Atalanta."
+    },
+    {
+      "apodo": "Gli Orobici",
+      "origen": "Apropiado derivado genéricamente por incorporar firmemente el asiduo y referencial puro e imponente e incesante impacto del fáctico relieve agreste macizo y milenario local y contiguo asimilando puro y textualmente ininterrumpida base pura afín territorial. La afición alude acoplar gentilicio originario rindiendo homenaje masivo fáctico para portar su contigua e local imponente cordillera local maciza de cumbres bautizada Alpes Oróbicos."
+    }
+  ]
+}

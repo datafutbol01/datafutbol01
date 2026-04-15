@@ -1,0 +1,282 @@
+{
+  "id": "aberdeen",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "aberdeen",
+      "dons",
+      "pittodrie"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Aberdeen Football Club",
+    "sigla": "ABE",
+    "fundacion": "14 de abril de 1903",
+    "apodo": "The Dons, The Dandies",
+    "estadio_actual": "Pittodrie Stadium",
+    "estadio_apodo": "Pittodrie",
+    "estadio_capacidad": 20866,
+    "estadio_inauguracion": "1899 (por el club original)",
+    "estadio_lat": 57.1594,
+    "estadio_lng": -2.0888,
+    "estadio_direccion": "Pittodrie St, Aberdeen AB24 5QH, Reino Unido",
+    "socios": 15000,
+    "descripcion_corta": "Entidad del norte de Escocia, reconocida históricamente por romper la hegemonía del duopolio de Glasgow durante los años ochenta y reinar a nivel continental al conquistar la Recopa de Europa.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E3000F"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Joe Harper (205 goles)",
+      "mas_presencias": "Willie Miller (797 partidos)",
+      "mayor_goleada": "13-0 vs Peterhead (1923)"
+    },
+    "nombre_oficial": "Aberdeen Football Club",
+    "nombre_corto": "Aberdeen",
+    "escudo_actual": "/escudos/aberdeen.webp"
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Amalgamación y formación oficial",
+      "desc": "El 14 de abril de 1903, con el objetivo de constituir un club representativo con la solidez necesaria para competir contra las instituciones del sur de Escocia, se celebró una asamblea general en el Northern Friendly Society Hall. Durante la convocatoria, se aprobó la fusión formal de tres clubes preexistentes en la ciudad: el Aberdeen original, el Victoria United y el Orion F.C. Esta unificación dio origen al actual Aberdeen Football Club. La entidad asumió de inmediato la propiedad de las instalaciones del Pittodrie Stadium y en 1904 logró su afiliación como miembro pleno de la Scottish Football League."
+    },
+    {
+      "ano": "1947-1955",
+      "hito": "Primeros títulos nacionales bajo Dave Halliday",
+      "desc": "Tras la culminación de la Segunda Guerra Mundial, el Aberdeen se consolidó deportivamente bajo la dirección táctica del entrenador Dave Halliday. En 1947, la institución obtuvo su primer trofeo oficial de máxima categoría al conquistar la Copa de Escocia, venciendo por 2-1 al Hibernian en Hampden Park. Posteriormente, durante la temporada 1954-55 y manteniendo la misma base organizativa, el equipo logró adjudicarse de manera definitiva el título de Campeón de la Primera División, marcando un precedente administrativo al desafiar frontalmente el histórico dominio estadístico de los elencos de Glasgow."
+    },
+    {
+      "ano": "1983",
+      "hito": "Campeones de la Recopa de Europa en Gotemburgo",
+      "desc": "El éxito internacional de mayor jerarquía para la institución se registró empíricamente el 11 de mayo de 1983. Bajo la gestión del técnico Alex Ferguson, el Aberdeen derrotó por 2-1 al Real Madrid en la final de la Recopa de Europa de la UEFA, disputada en el estadio Ullevi de la ciudad sueca de Gotemburgo. La victoria quedó certificada en la prórroga mediante una anotación de John Hewitt. Ese mismo año civil, el plantel completó su ciclo continental al superar al Hamburgo alemán y erigirse formalmente como ganador de la Supercopa de Europa."
+    },
+    {
+      "ano": "1980-1985",
+      "hito": "La era Ferguson y surgimiento de la 'New Firm'",
+      "desc": "Durante la administración deportiva de Alex Ferguson en la primera mitad de la década de 1980, el Aberdeen materializó su etapa de mayor hegemonía a nivel nacional. Respaldados por figuras de peso institucional como Willie Miller, Alex McLeish y Gordon Strachan, sumaron tres campeonatos de Primera División (1980, 1984 y 1985) además de consolidar el excepcional registro de obtener cuatro Copas de Escocia consecutivas. Junto al sobresaliente desempeño del Dundee United en la época, el equipo integró lo que el periodismo local denominó como la 'New Firm', evidenciando una estricta interrupción estatutaria y temporal del clásico Old Firm capitalino."
+    },
+    {
+      "ano": "2014",
+      "hito": "Fin de la sequía de títulos en Celtic Park",
+      "desc": "Pese al declive competitivo sostenido y las serias exigencias financieras que afrontaron los clubes provinciales a inicios de la década de 2000, el club forjó eventualmente una recuperación institucional efectiva. Esta reconstrucción arrojó frutos oficiales en el año 2014 cuando el cuerpo técnico liderado por Derek McInnes cortó formalmente una sequía de diecinueve años sin campeonatos para la vitrina del equipo rojo. Ante la presencia confirmada de más de 40.000 aficionados desplazados desde su ciudad original, el Aberdeen doblegó en la tanda de penales al Inverness Caledonian Thistle dentro del coliseo de Celtic Park, adjudicándose la correspondiente Copa de la Liga Escocesa."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Pittodrie Stadium (Pittodrie)",
+      "capacidad": "20866",
+      "inauguracion": "1899 (por el club original)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pittodrie%20St%2C%20Aberdeen%20AB24%205QH%2C%20Reino%20Unido",
+      "direccion": "Pittodrie St, Aberdeen AB24 5QH, Reino Unido",
+      "lat": 57.1594,
+      "lng": -2.0888,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 4,
+      "anios": [
+        "1954-55",
+        "1979-80",
+        "1983-84",
+        "1984-85"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 7,
+      "anios": [
+        "1946-47",
+        "1969-70",
+        "1981-82",
+        "1982-83",
+        "1983-84",
+        "1985-86",
+        "1989-90"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 6,
+      "anios": [
+        "1955",
+        "1976-77",
+        "1985-86",
+        "1989",
+        "1995-96",
+        "2013-14"
+      ]
+    },
+    {
+      "nombre": "European Cup Winners' Cup (Recopa de Europa)",
+      "cantidad": 1,
+      "anios": [
+        "1982-83"
+      ]
+    },
+    {
+      "nombre": "European Super Cup (Supercopa de Europa)",
+      "cantidad": 1,
+      "anios": [
+        "1983"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": 1939,
+      "c1": "#000000",
+      "c2": "#FFD700",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Durante sus primeras tres décadas de vida el equipo de la ciudad disputó sus asociaciones luciendo un fiero tramado rústico compuesto por líneas longitudinales verticales gruesas negras entrelazadas con gajos dorados (motivo por el que se adjudicaron el legendario apodo de 'Las Avispas')."
+    },
+    {
+      "desde": 1939,
+      "hasta": null,
+      "c1": "#E00000",
+      "c2": "#ffffff",
+      "sh": "#E00000",
+      "me": "#E00000",
+      "tipo": "liso",
+      "desc": "Cambio de identidad crudo llevado a cabo como iniciativa para renovarse antes del inicio de la segunda guerra; el formato abandonó para siempre a las avispas implementando un formato liso rojo intenso casi absoluto y plano, sosteniéndolo sin pausas como herencia histórica central (Los Dons)."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Gordon Strachan",
+      "pos": "Leyenda / Referente",
+      "periodo": "1977-1984",
+      "desc": "Dinámico y cerebral, se erigió como el motor del mediocampo durante la época dorada bajo el mando de Alex Ferguson. Su visión de juego y entrega absoluta fueron pilares para la histórica conquista de la Recopa de Europa.",
+      "apodo": "Wee Gordon"
+    },
+    {
+      "nombre": "Eoin Jess",
+      "pos": "Leyenda / Referente",
+      "periodo": "1987-1996, 1997-2001",
+      "desc": "Un mediapunta de indudable jerarquía técnica que iluminó Pittodrie durante la década de 1990. Sus regates y anotaciones memorables le otorgaron un estatus de referente indiscutido en tiempos de transición deportiva.",
+      "apodo": "The Prince of Pittodrie"
+    },
+    {
+      "nombre": "Neale Cooper",
+      "pos": "Leyenda / Referente",
+      "periodo": "1979-1986",
+      "desc": "Representó el alma combativa del equipo de Gotemburgo. Mediocampista de contención férrea, su imponente presencia física desarticuló rivales continentales de gran calibre con una disciplina táctica invaluable.",
+      "apodo": "Tattie"
+    },
+    {
+      "nombre": "Stewart McKimmie",
+      "pos": "Leyenda / Referente",
+      "periodo": "1983-1997",
+      "desc": "Defensor lateral de consistencia impecable, patrulló la franja derecha durante catorce años. Su regularidad sobresaliente garantizó el equilibrio competitivo que mantuvo al club en los puestos jerárquicos de Escocia.",
+      "apodo": "McKimmie"
+    },
+    {
+      "nombre": "Russell Anderson",
+      "pos": "Leyenda / Referente",
+      "periodo": "1996-2007, 2012-2015",
+      "desc": "Zaguero implacable y gran capitán del siglo XXI. Superó severos contratiempos físicos para liderar la retaguardia norteña, logrando cerrar su ciclo levantando heroicamente la Copa de la Liga.",
+      "apodo": "Rusty"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Joe Harper",
+      "goles": 205,
+      "periodo": "1969-1972, 1976-1981",
+      "desc": "El 'Rey de la Norte', un delantero de oportunismo letal y definición clínica. Ostenta el récord histórico absoluto del club, validando su grandeza con cifras goleadoras que establecieron un estándar inalcanzable."
+    },
+    {
+      "nombre": "Matt Armstrong",
+      "goles": 150,
+      "periodo": "1931-1946",
+      "desc": "Centrodelantero destacado en la década del '30, sostuvo un índice de conversión abrumador. Comandó la vanguardia en épocas complejas, siendo clave para cimentar el respeto nacional hacia los Dons."
+    },
+    {
+      "nombre": "Drew Jarvie",
+      "goles": 131,
+      "periodo": "1972-1982",
+      "desc": "Socio ideal en la delantera junto a Harper, combinó un excelente juego de asociación con un fino olfato resolutivo. Su gran despliegue aseguró presencias continuas en el marcador a lo largo de una década."
+    },
+    {
+      "nombre": "Benny Yorston",
+      "goles": 125,
+      "periodo": "1927-1932",
+      "desc": "Artillero fulminante que deslumbró anotando más de cuarenta tantos en una sola campaña liguera. Dejó cifras irrefutables que lo posicionaron como la primera gran leyenda goleadora en la historia de Pittodrie."
+    },
+    {
+      "nombre": "Harry Yorston",
+      "goles": 98,
+      "periodo": "1947-1957",
+      "desc": "Sobrino del legendario Benny, continuó con el legado familiar siendo un atacante incisivo. Resultó fundamental para conseguir el primer campeonato escocés oficial del equipo a mediados de los años cincuenta."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Willie Miller",
+      "partidos": 797,
+      "periodo": "1972-1990",
+      "desc": "Considerado como el zaguero escocés más dominante de todos los tiempos. Un líder inamovible que capitaneó al plantel hacia la cumbre continental y acumuló la impresionante cifra récord del listado general."
+    },
+    {
+      "nombre": "Alex McLeish",
+      "partidos": 692,
+      "periodo": "1978-1994",
+      "desc": "Torre defensiva de juego aéreo inexpugnable, conformó junto a Miller la dupla central definitiva. Su inmensa participación estructuró la retaguardia durante los históricos años ochenta."
+    },
+    {
+      "nombre": "Bobby Clark",
+      "partidos": 591,
+      "periodo": "1965-1982",
+      "desc": "Guardameta formidable que custodió los tres palos asumiendo un récord histórico de imbatibilidad oficial. Sus reflejos salvaron incontables choques en casi seiscientas actuaciones."
+    },
+    {
+      "nombre": "Andrew Considine",
+      "partidos": 571,
+      "periodo": "2004-2022",
+      "desc": "Leal defensor contemporáneo que forjó su currículum con perseverancia y tesón. Superó los cambios rotundos de la liga moderna manteniéndose como titular firme a lo largo de casi dos décadas completas."
+    },
+    {
+      "nombre": "Jim Leighton",
+      "partidos": 535,
+      "periodo": "1977-1988, 1997-2000",
+      "desc": "Exponente titular en la final de la Recopa Europea de 1983. Un arquero de intervención espectacular y reacciones extremas que selló las barreras continentales y nacionales."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1972-1986",
+      "url": "/escudos_historicos/aberdeen/Aberdeen_FC_logo_1972-1986.webp"
+    },
+    {
+      "ano": "1986-2005",
+      "url": "/escudos_historicos/aberdeen/Aberdeen_FC_logo1986-2005.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/aberdeen.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Dons",
+      "origen": "El apodo constituye una referencia geográfica e institucional ineludible de la ciudad. Su origen remonta a las primeras décadas del siglo XX, derivando tanto de la proximidad del Río Don, que atraviesa los límites septentrionales del núcleo urbano, como de la designación tradicional otorgada históricamente a los profesores y académicos ('Dons') pertenecientes a la centenaria Universidad de Aberdeen."
+    },
+    {
+      "apodo": "The Dandies",
+      "origen": "Surgido en la era de entreguerras, el apelativo fue acuñado por la prensa gráfica local para describir el estilo de juego técnico y el aspecto pulcro de las primeras alineaciones del club, contrastando notoriamente con el fútbol rudimentario y físico predominante en los nacientes años de la liga escocesa."
+    }
+  ]
+}

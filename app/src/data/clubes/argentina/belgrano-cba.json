@@ -1,0 +1,305 @@
+{
+  "id": "belgrano-cba",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "cordoba",
+      "pirata",
+      "alberdi"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Belgrano",
+    "sigla": "CAB",
+    "fundacion": "19 de marzo de 1905",
+    "apodo": "El Pirata, El Celeste",
+    "estadio_actual": "Julio César Villagra",
+    "estadio_apodo": "El Gigante de Alberdi",
+    "estadio_capacidad": 34830,
+    "estadio_inauguracion": "1929-03-17",
+    "estadio_lat": -31.4019,
+    "estadio_lng": -64.2057,
+    "estadio_direccion": "Arturo Orgaz 510, Barrio Alberdi, Córdoba",
+    "socios": 65000,
+    "descripcion_corta": "Una de las pasiones futbolísticas más fuertes y masivas del interior de Argentina en la provincia de Córdoba. Sus hinchas, los 'Piratas' del mítico Barrio Alberdi, forjaron un club aguerrido y fuertemente arraigado que protagonizó el histórico ascenso al lograr la promoción en el estadio Monumental.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#64AEE5"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "7-1 a Independiente Mdz. (Nacional 1980)",
+      "maximo_goleador": "Luis Fabián Artime (94 goles AFA)",
+      "mas_presencias": "Juan Carlos Olave (382 partidos AFA)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Fundación en el Barrio Alberdi",
+      "desc": "El 19 de marzo de 1905, bajo un ombú ubicado en el barrio popular de Alberdi, Arturo Orgaz fundó el Club Atlético Belgrano junto a un grupo de catorce adolescentes. El nombre fue elegido en homenaje al creador de la bandera nacional y los fundadores adoptaron el color celeste de la insignia nacional por cuestiones de economía para costear las telas de los primeros uniformes."
+    },
+    {
+      "ano": "1968",
+      "hito": "Debut en el Torneo Nacional",
+      "desc": "Belgrano se convirtió en el primer equipo de la provincia de Córdoba en lograr clasificar al Torneo Nacional de Primera División organizado por la AFA en 1968. Esta participación marcó un antecedente federativo clave, abriendo la competencia de los certámenes metropolitanos hacia los representativos del interior del país."
+    },
+    {
+      "ano": "2011",
+      "hito": "Ascenso frente a River Plate en el Estadio Monumental",
+      "desc": "Bajo la conducción técnica de Ricardo Zielinski, el club protagonizó el hito más recordado de su historia reciente al disputar la serie de Promoción. Tras vencer 2-0 en Córdoba, Belgrano selló su ascenso a Primera División el 26 de junio de 2011 luego de un empate 1-1 como visitante, consumando el descenso de uno de los equipos más tradicionales del país."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Canchita del Cañaveral",
+      "direccion": "Sectores ribereños de Córdoba",
+      "desde": 1905,
+      "hasta": null,
+      "estado": "Demolido",
+      "obs": "Primer escenario amateur del club durante sus primeros años de existencia.",
+      "lat": -31.4046,
+      "lng": -64.2054,
+      "url": "https://www.google.com/maps/search/?api=1&query=Sectores%20ribere%C3%B1os%20de%20C%C3%B3rdoba"
+    },
+    {
+      "nombre": "Cancha detrás del Colegio Santo Tomás",
+      "direccion": "Barrio Centro",
+      "desde": null,
+      "hasta": null,
+      "estado": "Demolido",
+      "obs": "Ubicación temporal utilizada en las primeras décadas ante las exigencias de la liga de contar con recintos cerrados.",
+      "lat": -31.3942,
+      "lng": -64.2037,
+      "url": "https://www.google.com/maps/search/?api=1&query=Barrio%20Centro"
+    },
+    {
+      "nombre": "Cancha en Calle Deán Funes",
+      "direccion": "Detrás del ex-Registro Civil",
+      "desde": null,
+      "hasta": 1914,
+      "estado": "Demolido",
+      "obs": "Último de los asentamientos previos del club antes de mudar de manera definitiva la construcción de sus instalaciones deportivas al Barrio Alberdi.",
+      "lat": -31.3992,
+      "lng": -64.2103,
+      "url": "https://www.google.com/maps/search/?api=1&query=Detr%C3%A1s%20del%20ex-Registro%20Civil"
+    },
+    {
+      "nombre": "Estadio Julio César Villagra ('Gigante de Alberdi')",
+      "direccion": "Arturo Orgaz 510, Barrio Alberdi",
+      "desde": 1929,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado el 17 de marzo de 1929, fue el primer estadio en la historia de la provincia en contar con tribunas de cemento. Recibió sucesivas remodelaciones y ampliaciones modernas en 1997, 2017 y 2024, consolidándose como la fortaleza histórica del club.",
+      "lat": -31.4019,
+      "lng": -64.2057,
+      "url": "https://www.google.com/maps/search/?api=1&query=Arturo%20Orgaz%20510%2C%20Barrio%20Alberdi"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": null,
+      "c1": "#6CABDD",
+      "c2": "#6CABDD",
+      "sh": "#111111",
+      "me": "#6CABDD",
+      "tipo": "liso",
+      "desc": "Manto liso profundo. Inspirado formal, rigurosa y majestuosamente en el color celeste estricto crudo extraído de una arcaica bandera poética nacional para cubrir estatuida a la escuadra pirata originada rebelde barrial en la legendaria mítica Alberdi a telar monocromático."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Luis Fabián Artime",
+      "pos": "Centrodelantero",
+      "apodo": "Luifa",
+      "periodo": "1992-1993, 1994-1999, 2000-2001",
+      "desc": "Máximo goleador en la historia del club en torneos de AFA. Lideró el ascenso a Primera División en 1991 como jugador y, décadas más tarde, asumió el cargo de presidente de la institución."
+    },
+    {
+      "nombre": "Julio César Villagra",
+      "pos": "Enganche",
+      "apodo": "La Chacha",
+      "periodo": "1982-1991",
+      "desc": "Mediocampista ofensivo clave durante las décadas de 1980 y 1990. Su importancia histórica en el club es tal que el estadio de Belgrano, El Gigante de Alberdi, fue bautizado oficialmente con su nombre."
+    },
+    {
+      "nombre": "Rodrigo Bueno",
+      "pos": "Hincha Emblema / Institucional",
+      "apodo": "El Potro",
+      "periodo": "Ad-eternum",
+      "desc": "El más popular representante cultural de la institución. Si bien no fue deportista, el reconocido músico forjó una profunda identificación pública que masificó los colores del club a nivel nacional."
+    },
+    {
+      "nombre": "Guillermo Farré",
+      "pos": "Mediocampista",
+      "apodo": "Guille",
+      "periodo": "2007-2017",
+      "desc": "Mediocampista de larga trayectoria en el club. Fue el autor del gol definitivo en el Estadio Monumental que sentenció la serie de promoción de 2011 y logró el histórico ascenso frente a River Plate."
+    },
+    {
+      "nombre": "Juan Carlos Olave",
+      "pos": "Arquero",
+      "apodo": "Juanca",
+      "periodo": "2001-2002, 2007-2016",
+      "desc": "Arquero que posee el récord de mayor cantidad de presencias con la camiseta de Belgrano. Fue una de las figuras principales en la histórica campaña de ascenso de 2011 tras atajar un penal vital."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Luis Fabián Artime",
+      "goles": 94,
+      "partidos": 315,
+      "periodo": "1992-2001",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 94 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-2001."
+    },
+    {
+      "nombre": "Pablo Vegetti",
+      "goles": 63,
+      "partidos": 122,
+      "periodo": "2019-2023",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
+    },
+    {
+      "nombre": "César Pereyra",
+      "goles": 53,
+      "partidos": 169,
+      "periodo": "2010-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2015."
+    },
+    {
+      "nombre": "Matías Suárez",
+      "goles": 27,
+      "partidos": 128,
+      "periodo": "2006-2018",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 27 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2018."
+    },
+    {
+      "nombre": "Julio César Villagra",
+      "goles": 25,
+      "partidos": 110,
+      "periodo": "1982-1991",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1991."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Juan Carlos Olave",
+      "partidos": 382,
+      "periodo": "2001-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 382 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2016."
+    },
+    {
+      "nombre": "Guillermo Farré",
+      "partidos": 327,
+      "periodo": "2007-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2017."
+    },
+    {
+      "nombre": "Luis Fabián Artime",
+      "partidos": 315,
+      "periodo": "1992-2001",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 315 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2001."
+    },
+    {
+      "nombre": "Gastón Turus",
+      "partidos": 295,
+      "periodo": "2000-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 295 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000-2015."
+    },
+    {
+      "nombre": "César Mansanelli",
+      "partidos": 269,
+      "periodo": "2005-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 269 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2015."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1986",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Ligas Cordobesas Regionales",
+      "cantidad": 31,
+      "años": [
+        "Historial Completo Desde 1913"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1905",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1905.webp"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1915.webp"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano-1927.webp"
+    },
+    {
+      "ano": "1938",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1938.webp"
+    },
+    {
+      "ano": "1962",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1962.webp"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1980.webp"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1985,_2005.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1991.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1993.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_1997.webp"
+    },
+    {
+      "ano": "2003",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_2003.webp"
+    },
+    {
+      "ano": "2010",
+      "url": "/escudos/historicos/belgrano-cba/Belgrano_2010.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Pirata",
+      "origen": "Bautizado alrededor de la compleja temporada histórica disputada a nivel regional durante 1968. Sectores radicales de aficionado seguían a las formaciones en grandes caravanas para disputar campeonatos del interior de la provincia transitando poblados rurales de menor tamaño por las rutas. Aquellas facciones incitaron actos delictivos robando y saqueando cantinas como asaltantes descontrolados, asolando los sumarios policiales con denuncias de piratería urbana que quedaron encasilladas para caracterizar perpetuamente a la afición del club."
+    }
+  ]
+}

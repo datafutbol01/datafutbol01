@@ -1,0 +1,35 @@
+{
+  "id": "estudiantes-rc",
+  "datos": {
+    "nombre_oficial": "Club Atlético Estudiantes",
+    "nombre_corto": "Estudiantes Río Cuarto",
+    "apodos": [
+      "El Grillo",
+      "El Albirrojo"
+    ],
+    "fundacion": "1922-07-09",
+    "ciudad": "Río Cuarto",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Ciudad de Río Cuarto",
+    "estadio_capacidad": 18000,
+    "estadio_lat": -33.1305,
+    "estadio_lng": -64.3498,
+    "debut_primera": 2026,
+    "obs": "Ascendió desde Primera Nacional 2025 (torneo reducido). Primera vez en Primera División desde el Torneo Nacional 1985"
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#CC0000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

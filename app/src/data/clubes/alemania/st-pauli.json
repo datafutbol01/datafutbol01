@@ -1,0 +1,236 @@
+{
+  "id": "st-pauli",
+  "meta": {
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "fc-st-pauli"
+    ],
+    "slug": "st-pauli"
+  },
+  "datos": {
+    "nombre_completo": "Fußball-Club St. Pauli von 1910 e. V.",
+    "sigla": "FCSP",
+    "fundacion": "1910",
+    "apodo": "Die Kiezkicker / Freibeuter der Liga (Piratas de la Liga)",
+    "estadio_actual": "Millerntor-Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 29546,
+    "estadio_inauguracion": "1963",
+    "estadio_lat": 53.5534,
+    "estadio_lng": 9.9678,
+    "estadio_direccion": "Harald-Stender-Platz 1, 20359 Hamburg, Alemania",
+    "socios": 30000,
+    "descripcion_corta": "Club fuertemente ligado a su barrio portuario en Hamburgo y mundialmente reconocido por su sólida y combativa identidad social.",
+    "paleta": [
+      {
+        "tag": "Marrón",
+        "hex": "#533422"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#D6001C"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "André Trulsen (53)",
+      "mas_presencias": "Jürgen Gronau (340)",
+      "mayor_goleada": "8-1 vs Burghausen (2002)"
+    },
+    "nombre_oficial": "",
+    "nombre_corto": "FC St. Pauli",
+    "escudo_actual": "/escudos/st-pauli.webp"
+  },
+  "historia": [
+    {
+      "ano": "1910",
+      "hito": "Rebelión Nacida Muelle Adentro en las Orillas del Puerto",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1977",
+      "hito": "Primer Ascenso a la Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1980",
+      "hito": "Identidad Antifascista y la Calavera",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2002",
+      "hito": "La Victoria sobre el Bayern Múnich",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2024",
+      "hito": "Campeonato y Retorno a Primera",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Sportplatz an der Sternschanze",
+      "capacidad": "10.000",
+      "inauguracion": "1900",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sternschanze%2C%20Hamburg%2C%20Alemania",
+      "direccion": "Sternschanze, Hamburg, Alemania",
+      "descripcion": "El primer recinto oficial a cielo abierto en las periferias del parque Sternschanze donde la franquicia disputaba los combates antes del estallido mundial militar global.",
+      "lat": 53.5641,
+      "lng": 9.968
+    },
+    {
+      "nombre": "Millerntor-Stadion (Millerntor)",
+      "capacidad": "29.546",
+      "inauguracion": "1963",
+      "url": "https://www.google.com/maps/search/?api=1&query=Harald-Stender-Platz%201%2C%2020359%20Hamburg%2C%20Alemania",
+      "direccion": "Harald-Stender-Platz 1, 20359 Hamburg, Alemania",
+      "descripcion": "Mítico estadio cultural. Un bastión impenetrable ideológicamente portuario bañado por calaveras antinazis (Jolly Roger) resonando fuerte The Hells Bells de AC/DC.",
+      "lat": 53.5534,
+      "lng": 9.9678
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#4a2511",
+      "c2": "#ffffff",
+      "sh": "#4a2511",
+      "me": "#4a2511",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Fabian Boll",
+      "periodo": "2002-2014",
+      "pos": "Mediocampista",
+      "desc": "Histórico mediocampista central de destacada labor recuperadora y posicional que logró alternar su extensa trayectoria oficial deportiva combinándola con su profesión en las fuerzas policiales."
+    },
+    {
+      "nombre": "André Trulsen",
+      "periodo": "1986-2001",
+      "pos": "Defensor",
+      "desc": "Sólido defensor inamovible de enorme recorrido competitivo y liguero. Ostenta la sumatoria récord garantizando su lugar como el jugador con mayor número de participaciones de la institución."
+    },
+    {
+      "nombre": "Holger Stanislawski",
+      "periodo": "1993-2004",
+      "pos": "Defensor",
+      "desc": "Férreo defensor titular organizador. Condujo la zona baja rígidamente asegurando posiciones y más tarde lideró a la plantilla asumiendo exitosamente el rol oficial como entrenador."
+    },
+    {
+      "nombre": "Marius Ebbers",
+      "periodo": "2008-2013",
+      "pos": "Delantero",
+      "desc": "Centrodelantero oportunista que anotó las suficientes cifras logrando sobrepasar la cifra de un centenar de anotaciones asegurando destacadas contiendas propiciando ascensos de categoría al primer nivel."
+    },
+    {
+      "nombre": "Walter Frosch",
+      "periodo": "1976-1982",
+      "pos": "Defensor",
+      "desc": "Zaguero de enorme temperamento en el campo. Se consolidó como recordada figura defensiva institucional mostrando inclaudicable firmeza en los difíciles certámenes y logrando enorme recordación popular estable."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Franz Gerber",
+      "goles": 52,
+      "periodo": "1976-1978",
+      "partidos": 77,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 1976-1978."
+    },
+    {
+      "nombre": "Marius Ebbers",
+      "goles": 43,
+      "periodo": "2008-2013",
+      "partidos": 148,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 43 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2013."
+    },
+    {
+      "nombre": "Rouwen Hennings",
+      "goles": 35,
+      "periodo": "2008-2012",
+      "partidos": 131,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2012."
+    },
+    {
+      "nombre": "Guido Burgstaller",
+      "goles": 31,
+      "periodo": "2020-2022",
+      "partidos": 60,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 31 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
+    },
+    {
+      "nombre": "Alexander Meier",
+      "goles": 18,
+      "periodo": "2001-2019",
+      "partidos": 70,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2019."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "André Trulsen",
+      "partidos": 408,
+      "periodo": "1986-2001",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 408 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-2001."
+    },
+    {
+      "nombre": "Jürgen Gronau",
+      "partidos": 333,
+      "periodo": "1984-1997",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 333 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-1997."
+    },
+    {
+      "nombre": "Fabian Boll",
+      "partidos": 292,
+      "periodo": "2002-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 292 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2014."
+    },
+    {
+      "nombre": "Holger Stanislawski",
+      "partidos": 260,
+      "periodo": "1993-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 260 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2004."
+    },
+    {
+      "nombre": "Jan-Philipp Kalla",
+      "partidos": 164,
+      "periodo": "2006-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 164 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2020."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 2,
+      "anios": [
+        "1976-77",
+        "2023-24"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/st-pauli/FC_St__Pauli_logo.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/st-pauli.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Kiezkicker",
+      "origen": "Consagrado y validado sociológicamente por abarcar la profunda bohemia local de toda su cuna, afincada en la barriada portuaria roja y obrera de Hamburgo (Reeperbahn). Los vecinos siempre la llamaron coloquialmente Kiez, y la prensa generalizó referenciarlos para la eternidad de manera barrial como Los Pateadores de Kiez (o Los Pateadores del Barrio)."
+    }
+  ]
+}

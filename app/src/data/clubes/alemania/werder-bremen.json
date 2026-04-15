@@ -1,0 +1,321 @@
+{
+  "id": "werder-bremen",
+  "meta": {
+    "slug": "werder-bremen",
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "werder",
+      "bremen"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Sportverein Werder Bremen von 1899 e. V.",
+    "nombre_oficial": "SV Werder Bremen",
+    "nombre_corto": "Werder Bremen",
+    "apodo": "Die Werderaner / Die Grün-Weißen",
+    "fundacion": "1899",
+    "estadio_actual": "Weserstadion",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 42100,
+    "estadio_inauguracion": "1947",
+    "estadio_direccion": "Franz-Böhmert-Straße 1, 28205 Bremen, Alemania",
+    "estadio_lat": 53.0664,
+    "estadio_lng": 8.8376,
+    "escudo_actual": "/escudos/werder-bremen.png",
+    "sigla": "SVW",
+    "socios": 40000,
+    "descripcion_corta": "Institución tradicional e importante campeón histórico de la cuenca del Weser en el norte de Alemania.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#1D9053"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Claudio Pizarro (153)",
+      "mas_presencias": "Dieter Burdenski (444)",
+      "mayor_goleada": "8-1 vs Arminia Bielefeld"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "El Trofeo Escolar de Tira y Afloja",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1965",
+      "hito": "Su Primer Campeonato en la Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1992",
+      "hito": "Conquista de la Recopa de Europa",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2004",
+      "hito": "La Obtención del Doblete",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2021",
+      "hito": "Descenso luego de Cuatro Décadas",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Campo deportivo Krähenberg / Kälberwerder",
+      "capacidad": "3.000",
+      "inauguracion": "1899",
+      "url": "https://www.google.com/maps/search/?api=1&query=K%C3%A4lberwerder%2C%20Bremen%2C%20Alemania",
+      "direccion": "Kälberwerder, Bremen, Alemania",
+      "descripcion": "El predio originariamente liso y rústico frente al río donde un núcleo escolar de estudiantes disputó sus formales orígenes con su primer balón pateado bajo la institución incipiente fundacional de finales del siglo decimonónico.",
+      "lat": 53.0764,
+      "lng": 8.83
+    },
+    {
+      "nombre": "Weserstadion (El fortín del río)",
+      "capacidad": "42.100",
+      "inauguracion": "1947",
+      "url": "https://www.google.com/maps/search/?api=1&query=Franz-B%C3%B6hmert-Stra%C3%9Fe%201%2C%2028205%20Bremen%2C%20Alemania",
+      "direccion": "Franz-Böhmert-Straße 1, 28205 Bremen, Alemania",
+      "descripcion": "Erguido a base de tierra a orillas del majestuoso río Weser, es la fosa portuaria en donde sucedieron los históricos 'Weserwunder'.",
+      "lat": 53.0664,
+      "lng": 8.8376
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 1960,
+      "c1": "#1d904f",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#1d904f",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1970,
+      "hasta": 1990,
+      "c1": "#1d904f",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 2000,
+      "hasta": null,
+      "c1": "#1d904f",
+      "c2": "#ff4500",
+      "sh": "#ffffff",
+      "me": "#1d904f",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Claudio Pizarro",
+      "periodo": "1999-2020",
+      "pos": "Delantero",
+      "desc": "Experimentado delantero peruano. Cosechó amplios registros goleadores durante sus diversas etapas en la institución, consolidando su legado histórico como máximo artillero formador extranjero."
+    },
+    {
+      "nombre": "Johan Micoud",
+      "periodo": "2002-2006",
+      "pos": "Mediocampista",
+      "desc": "Mediapunta y armador ofensivo francés de altísima destreza técnica. Se convirtió en el cerebro táctico que permitió al club consagrarse obteniendo históricamente la gloria mediante el doblete de 2004."
+    },
+    {
+      "nombre": "Aílton",
+      "periodo": "1998-2004",
+      "pos": "Delantero",
+      "desc": "Potente centrodelantero letal de área. Ostenta la marca de ser el goleador indiscutido liderando con cifras inéditas una sola competición para asegurar el título de liga alemán absoluto."
+    },
+    {
+      "nombre": "Frank Baumann",
+      "periodo": "1999-2009",
+      "pos": "Defensor / Mediocampista",
+      "desc": "Mediocampista central aguerrido que formó la sólida base recuperadora de la institución. Comandó al equipo oficial portando el brazalete de capitán a lo largo de diez asertivas temporadas."
+    },
+    {
+      "nombre": "Rudi Völler",
+      "periodo": "1982-1987",
+      "pos": "Delantero",
+      "desc": "Reconocido atacante y artillero nacido en Alemania. Registró estadísticas contundentes para liderar a la escuadra durante históricas participaciones cimeras de la década inicial de los ochenta."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Claudio Pizarro",
+      "goles": 153,
+      "periodo": "1999-2020",
+      "partidos": 320,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 153 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2020."
+    },
+    {
+      "nombre": "Frank Neubarth",
+      "goles": 141,
+      "periodo": "1982-1996",
+      "partidos": 317,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 141 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1996."
+    },
+    {
+      "nombre": "Marco Bode",
+      "goles": 130,
+      "periodo": "1989-2002",
+      "partidos": 442,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 130 goles en competiciones oficiales durante su trayectoria en el equipo entre 1989-2002."
+    },
+    {
+      "nombre": "Rudi Völler",
+      "goles": 119,
+      "periodo": "1982-1987",
+      "partidos": 174,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 119 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1987."
+    },
+    {
+      "nombre": "Aílton",
+      "goles": 106,
+      "periodo": "1998-2004",
+      "partidos": 214,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 106 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2004."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Dieter Burdenski",
+      "partidos": 581,
+      "periodo": "1972-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 581 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1988."
+    },
+    {
+      "nombre": "Karl-Heinz Kamp",
+      "partidos": 450,
+      "periodo": "1970-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 450 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1984."
+    },
+    {
+      "nombre": "Dieter Eilts",
+      "partidos": 445,
+      "periodo": "1985-2002",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 445 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-2002."
+    },
+    {
+      "nombre": "Marco Bode",
+      "partidos": 442,
+      "periodo": "1989-2002",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 442 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2002."
+    },
+    {
+      "nombre": "Frank Baumann",
+      "partidos": 360,
+      "periodo": "1999-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 360 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2009."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 4,
+      "anios": [
+        "1964-65",
+        "1987-88",
+        "1992-93",
+        "2003-04"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 6,
+      "anios": [
+        "1960-61",
+        "1990-91",
+        "1993-94",
+        "1998-99",
+        "2003-04",
+        "2008-09"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 3,
+      "anios": [
+        "1988",
+        "1993",
+        "1994"
+      ]
+    },
+    {
+      "nombre": "Copa de la Liga (Ligapokal)",
+      "cantidad": 1,
+      "anios": [
+        "2006"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1991-92"
+      ]
+    },
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 1,
+      "anios": [
+        "1980-81"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/werder-bremen/Werder_Bremen_logo_1.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/werder-bremen/Werder_Bremen_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/werder-bremen/Werder_Bremen_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/werder-bremen/Logo_Werder_Bremem_1946_-_1962.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/werder-bremen/FV_Werder_Bremen_logo_1899.webp"
+    },
+    {
+      "ano": "1914",
+      "url": "/escudos_historicos/werder-bremen/1914.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/werder-bremen.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Grün-Weißen",
+      "origen": "Atribuido en rigor estatutario histórico para referenciar y oficializar a nivel cívico portuario las rústicas decisiones deportivas pioneras póstumas. Al formarse el conjunto deportivo pionero, la asamblea oficial dictaminó emular los tradicionales tonos llanos verdes y el impoluto color blanco liso (Verdiblancos) copiando la botánica natural asidua de las islas ribereñas fluviales alemanas originarias del río Weser."
+    }
+  ]
+}

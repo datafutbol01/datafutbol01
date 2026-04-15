@@ -1,0 +1,35 @@
+{
+  "id": "barracas-central",
+  "datos": {
+    "nombre_oficial": "Barracas Central",
+    "nombre_corto": "Barracas Central",
+    "apodos": [
+      "El Guapo del Sur",
+      "El Naranjita"
+    ],
+    "fundacion": "1904-04-07",
+    "ciudad": "Buenos Aires",
+    "barrio": "Barracas",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Claudio Chiqui Tapia",
+    "estadio_capacidad": 8500,
+    "estadio_lat": -34.661,
+    "estadio_lng": -58.3807,
+    "debut_primera": 2022
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "bastones_verticales"
+    },
+    "short": "#CC0000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

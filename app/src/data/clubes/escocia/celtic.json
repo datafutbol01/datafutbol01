@@ -1,0 +1,397 @@
+{
+  "id": "celtic",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "celtic",
+      "bhoys",
+      "glasgow"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Celtic Football Club",
+    "sigla": "CEL",
+    "fundacion": "6 de noviembre de 1887",
+    "apodo": "The Bhoys, The Hoops",
+    "estadio_actual": "Celtic Park",
+    "estadio_apodo": "Parkhead / Paradise",
+    "estadio_capacidad": 60411,
+    "estadio_inauguracion": "1892",
+    "estadio_lat": 55.8497,
+    "estadio_lng": -4.2055,
+    "estadio_direccion": "Kerrydale St, Glasgow G40 3RE, Reino Unido",
+    "socios": 55000,
+    "descripcion_corta": "Institución de Glasgow fundada originalmente con fines benéficos para la comunidad irlandesa. Registra el hito histórico de ser el primer club británico en consagrarse campeón de la Copa de Europa.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#008000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jimmy McGrory (522 goles)",
+      "mas_presencias": "Billy McNeill (822 partidos)",
+      "mayor_goleada": "11-0 vs Dundee (1895)"
+    },
+    "nombre_oficial": "The Celtic Football Club",
+    "nombre_corto": "Celtic",
+    "escudo_actual": "/escudos/celtic.webp"
+  },
+  "historia": [
+    {
+      "ano": "1887",
+      "hito": "Fundación institucional por el Hermano Walfrid",
+      "desc": "El 6 de noviembre de 1887, en el salón de reuniones de la iglesia de Santa María ubicada en el distrito de Calton, el sacerdote irlandés de la orden Marista, Andrew Kerins —conocido históricamente como Hermano Walfrid—, acordó la fundación de la entidad. Ante el registro de índices de pobreza extrema en la región, el propósito fundacional exclusivo del club consistió en funcionar como instrumento de recaudación de fondos para respaldar a la obra de caridad local 'The Poor Children's Dinner Table', orientada a asistir directamente a la población infantil y a familias de inmigrantes irlandeses ubicadas en el este de Glasgow. Se asignó la denominación 'Celtic' con el fin de reflejar oficialmente los vínculos sociológicos escoceses e irlandeses característicos del proyecto."
+    },
+    {
+      "ano": "1967",
+      "hito": "Obtención de la Copa de Europa (Los Leones de Lisboa)",
+      "desc": "El 25 de mayo de 1967, bajo la gestión directivo-táctica del entrenador Jock Stein, la asociación se transformó administrativamente en el primer club británico en conseguir el trofeo de la Copa de Europa de clubes. En la final celebrada dentro de las instalaciones del Estadio Nacional de Portugal en Lisboa, los jugadores revirtieron el encuentro al superar por 2-1 al Internazionale de Milán, escuadra italiana bajo el mando de Helenio Herrera. Este campeonato continental se acentúa históricamente mediante el particular registro demográfico conformado en relación a sus once futbolistas titulares: todos certificaban origen civil de nacimiento asentado a escasamente un radio menor a treinta millas (48 kilómetros) circundantes al estadio de Celtic Park."
+    },
+    {
+      "ano": "1965-1974",
+      "hito": "La seguidilla de nueve campeonatos (Nine-in-a-row)",
+      "desc": "La estructuración metódica implementada y perpetuada por Jock Stein desencadenó una consolidación sin precedentes en las tablas de la asociación escocesa. Favorecidos por una sólida disciplina enfocada en laterales de proyección ofensiva sumamente avanzada, el equipo registró un dominio sostenido sobre el cuadro local, alcanzando y consolidando un récord nacional inédito: adjudicarse consecutivamente la máxima división escocesa (Scottish League Championship) durante un trayecto continuo de nueve temporadas. Esta seguidilla de trofeos —desarrollada entre 1966 y 1974 y bautizada oficialmente como el 'Nine-in-a-row'— aseguró también en paralelo constantes clasificaciones en fases trascendentales a nivel europeo certificando la supremacía del cuadro."
+    },
+    {
+      "ano": "2000-2003",
+      "hito": "Reestructuración y la final de la Copa de la UEFA",
+      "desc": "Buscando equilibrar la irregularidad sufrida durante la década de los noventa, la junta corporativa oficializó la contratación del mánager técnico Martin O'Neill al inicio de los 2000 para llevar a cabo una extensa reestructuración del primer equipo. El progreso derivó instantáneamente en la exitosa captura del Triplete del certamen local correspondiente a la temporada 2000-2001. A nivel continental, durante la campaña del 2003, el empuje de jugadores referenciales entre los que resaltaba el atacante Henrik Larsson proyectó a la institución hasta su ingreso formal en la Gran Final de la Copa de la UEFA disputada frente al FC Porto en Sevilla. El masivo desplazamiento geográfico oficial estimado en una cifra sobre los ochenta mil seguidores le otorgó de manera extraordinaria a los simpatizantes del Celtic el reconocimiento mundial Premio Fair Play de la FIFA."
+    },
+    {
+      "ano": "2016-2020",
+      "hito": "Registro récord con la firma del 'Cuádruple Triplete'",
+      "desc": "Con Brendan Rodgers asumiendo a cargo de la primera plantilla posteriormente seguida en su clausura por Neil Lennon, las arcas logísticas se desmarcaron estadísticamente estableciendo marcas abismales respecto del campeonato regular. Finalizando oficialmente la estricta temporada 2016-2017 sin ceder margen estadístico a derrotas completas en enfrentamientos locales en ningún tipo de competición, la institución consolidó un rendimiento denominado en cifras como la campaña invicta. Tal dominio se prolongó ininterrumpidamente para materializarse definitivamente a finales del 2020 sumando y certificando un suceso inédito bautizado históricamente por estadísticas de archivo como el 'Quadruple Treble': un total de doce honores obtenidos correspondientes a sus debidas Premierships, la Scottish League Cups y la Scottish Cups durante cuatro temporadas cronológicamente sucesivas."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Celtic Park (Parkhead / Paradise)",
+      "capacidad": "60411",
+      "inauguracion": "1892",
+      "url": "https://www.google.com/maps/search/?api=1&query=Kerrydale%20St%2C%20Glasgow%20G40%203RE%2C%20Reino%20Unido",
+      "direccion": "Kerrydale St, Glasgow G40 3RE, Reino Unido",
+      "lat": 55.8497,
+      "lng": -4.2055,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 54,
+      "anios": [
+        "1892-93",
+        "1893-94",
+        "1895-96",
+        "1897-98",
+        "1904-05",
+        "1905-06",
+        "1906-07",
+        "1907-08",
+        "1908-09",
+        "1909-10",
+        "1913-14",
+        "1914-15",
+        "1915-16",
+        "1916-17",
+        "1918-19",
+        "1921-22",
+        "1925-26",
+        "1935-36",
+        "1937-38",
+        "1953-54",
+        "1965-66",
+        "1966-67",
+        "1967-68",
+        "1968-69",
+        "1969-70",
+        "1970-71",
+        "1971-72",
+        "1972-73",
+        "1973-74",
+        "1976-77",
+        "1978-79",
+        "1980-81",
+        "1981-82",
+        "1985-86",
+        "1987-88",
+        "1997-98",
+        "2000-01",
+        "2001-02",
+        "2003-04",
+        "2005-06",
+        "2006-07",
+        "2007-08",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 42,
+      "anios": [
+        "1891-92",
+        "1898-99",
+        "1899-00",
+        "1903-04",
+        "1906-07",
+        "1907-08",
+        "1910-11",
+        "1911-12",
+        "1913-14",
+        "1922-23",
+        "1924-25",
+        "1926-27",
+        "1930-31",
+        "1932-33",
+        "1936-37",
+        "1950-51",
+        "1953-54",
+        "1964-65",
+        "1966-67",
+        "1968-69",
+        "1970-71",
+        "1971-72",
+        "1973-74",
+        "1974-75",
+        "1976-77",
+        "1979-80",
+        "1984-85",
+        "1987-88",
+        "1988-89",
+        "1994-95",
+        "2000-01",
+        "2003-04",
+        "2004-05",
+        "2006-07",
+        "2010-11",
+        "2012-13",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2022-23",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 21,
+      "anios": [
+        "1956",
+        "1957-58",
+        "1965",
+        "1966-67",
+        "1967-68",
+        "1968-69",
+        "1969-70",
+        "1974-75",
+        "1982-83",
+        "1997-98",
+        "1999-00",
+        "2000-01",
+        "2005",
+        "2008-09",
+        "2014-15",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2021",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "European Cup",
+      "cantidad": 1,
+      "anios": [
+        "1966-67"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1888,
+      "hasta": 1889,
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Equipación formativa fundacional impoluta blanca con vivos y cuello verde, destacándose en el pecho el rasgo identitario de una cruz grande y ornamental católica de naturaleza celta."
+    },
+    {
+      "desde": 1889,
+      "hasta": 1903,
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Periodo temprano signado por la transición hacia un formato compuesto por delgadas y consistentes rayas verticales que alternaban simétricamente tonos blancos crudos y verde esmeralda."
+    },
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-horizontales",
+      "desc": "El año en el que formalmente nació el mito de la institución. Adopta el diseño de barras ininterrumpidas horizontales ('The Hoops') que rodean por completo el frente y dorso en verde y blanco inmaculado, sostenido como una política irrenunciable e intocable hasta el día de la fecha."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Henrik Larsson",
+      "pos": "Leyenda / Referente",
+      "periodo": "1997-2004",
+      "desc": "El sueco revolucionó el fútbol de Glasgow con una elegancia técnica envidiable. Anotó dobles dígitos sostenidos y condujo al equipo a la memorable final de la Copa UEFA, coronándose como ídolo supremo moderno.",
+      "apodo": "The King of Kings / Henke"
+    },
+    {
+      "nombre": "Jimmy Johnstone",
+      "pos": "Leyenda / Referente",
+      "periodo": "1962-1975",
+      "desc": "Eescurridizo, talentoso e impredecible. El mejor extremo en la historia del club, enloqueció a laterales europeos y fue el eje desequilibrante fundamental de los gloriosos Leones de Lisboa de 1967.",
+      "apodo": "Jinky"
+    },
+    {
+      "nombre": "Kenny Dalglish",
+      "pos": "Leyenda / Referente",
+      "periodo": "1969-1977",
+      "desc": "Surgido en las inferiores, el genial atacante escocés combinó instinto letal con visión periférica. Sus goles posibilitaron cuatro ligas escocesas antes de marcar una época dorada en el plano europeo.",
+      "apodo": "King Kenny"
+    },
+    {
+      "nombre": "Paul McStay",
+      "pos": "Leyenda / Referente",
+      "periodo": "1981-1997",
+      "desc": "Apodado 'El Maestro'. Organizador cerebral y pasador milimétrico, mantuvo la brújula central del elenco como eterno capitán en épocas de reconstrucción táctica durante toda una trayectoria exclusiva.",
+      "apodo": "El Maestro"
+    },
+    {
+      "nombre": "Shunsuke Nakamura",
+      "pos": "Leyenda / Referente",
+      "periodo": "2005-2009",
+      "desc": "Mediocampista japonés poseedor de una pegada magistral en balones detenidos. Decidió campeonatos enteros y enfrentamientos de la Champions League gracias a su deslumbrante zurda parabólica.",
+      "apodo": "Naka"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jimmy McGrory",
+      "goles": 522,
+      "periodo": "1922-1937",
+      "desc": "El goleador empedernido más prolífico de Gran Bretaña. Un portento de remate de cabeza que estableció récords irrepetibles en el fútbol de entreguerras con un promedio de más de un gol por partido."
+    },
+    {
+      "nombre": "Bobby Lennox",
+      "goles": 273,
+      "periodo": "1961-1980",
+      "desc": "Extraordinario y veloz extremo que se consolidó estadísticamente como segundo mayor artillero general. Vencía en carreras largas para definir cruzado en la etapa más gloriosa continental de Parkhead."
+    },
+    {
+      "nombre": "Stevie Chalmers",
+      "goles": 231,
+      "periodo": "1959-1971",
+      "desc": "Delantero sutil y definidor nato, su nombre es sinónimo de historia tras haber desviado el disparo victorioso en la final de la Copa de Europa de 1967 cerrando cifras altísimas en Escocia."
+    },
+    {
+      "nombre": "Jimmy Quinn",
+      "goles": 218,
+      "periodo": "1900-1915",
+      "desc": "Rudo e implacable centrodelantero pionero. Marcó el ritmo dominador del bloque celta a inicios del siglo XX destacando categóricamente en los derbis bajo una racha implacable."
+    },
+    {
+      "nombre": "Sandy McMahon",
+      "goles": 171,
+      "periodo": "1890-1903",
+      "desc": "El primer rematador prolífico de la institución, afianzando récords en plena conformación organizativa liguera decimonónica de un equipo naciente ávido de protagonismo deportivo."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Billy McNeill",
+      "partidos": 822,
+      "periodo": "1957-1975",
+      "desc": "Capitán colosal que representó la solidez del cuadro. Dirigió a los Leones de Lisboa desde el centro de la defensa forjando su marca de representaciones en 822 combates formales y puros."
+    },
+    {
+      "nombre": "Pat Bonner",
+      "partidos": 641,
+      "periodo": "1978-1997",
+      "desc": "Cuidapalos irlandés firme, mantuvo en su poder los guantes principales rebasando los seiscientos partidos en una longevidad admirable bajo los cimientos tácticos de las décadas ochenta y noventa."
+    },
+    {
+      "nombre": "Danny McGrain",
+      "partidos": 663,
+      "periodo": "1970-1987",
+      "desc": "Lateral total de despliegue inagotable y resistencia abismal sobrepasando incluso diagnósticos médicos complejos para sumar presencias heroicas inamovibles sobre la franja diestra."
+    },
+    {
+      "nombre": "Roy Aitken",
+      "partidos": 672,
+      "periodo": "1976-1990",
+      "desc": "Férreo baluarte que abarcó roles de defensa central o volante destructivo imponiéndose ante las ofensivas rivales cruzando cómodamente la inmensa marca de seiscientos encuentros."
+    },
+    {
+      "nombre": "Alec McNair",
+      "partidos": 604,
+      "periodo": "1904-1925",
+      "desc": "Apodado 'La Roca Celta'. Resistió un trayecto burocrático monumental que le permitió cruzar eventos mundiales convulsos para cerrar un período imbatible en cantidad de apariciones de la temprana liga."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1888-1889",
+      "url": "/escudos_historicos/celtic/Celtic_FC_logo_1888-1889.webp"
+    },
+    {
+      "ano": "1896-1897",
+      "url": "/escudos_historicos/celtic/Celtic_FC_Season_Ticket_Badge_1896-1897.webp"
+    },
+    {
+      "ano": "1925-1965",
+      "url": "/escudos_historicos/celtic/Celtic_FC_logo_1925-1965.webp"
+    },
+    {
+      "ano": "1928-1929",
+      "url": "/escudos_historicos/celtic/The_Celtic_Football_and_Athletic_Coy_Ltd_logo1928-1929.webp"
+    },
+    {
+      "ano": "1977-1995",
+      "url": "/escudos_historicos/celtic/celtic_1977_1995.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/celtic.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Bhoys",
+      "origen": "El término posee su raíz fundamental en los primeros años de formación de la entidad a finales del siglo XIX, siendo utilizado coloquialmente para agrupar y denominar a los inmigrantes católicos irlandeses. La inclusión ortográfica de la letra 'h' (Bhoys) obedeció a una transcripción diseñada de manera deliberada para reflejar fidedignamente la pronunciación característica del acento gaélico de época."
+    },
+    {
+      "apodo": "The Hoops",
+      "origen": "Designación de orden estrictamente estética adoptada definitivamente en el año 1903. La prensa nacional etiquetó al conjunto generalizando el uso de su histórico uniforme titular, cuya confección prescindió de las tradicionales rayas verticales para implementar un patrón inamovible de anillos horizontales gruesos (hoops) entrelazando ininterrumpidamente los tonos verde y blanco."
+    }
+  ]
+}

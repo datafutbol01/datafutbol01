@@ -1,0 +1,279 @@
+{
+  "id": "strasbourg",
+  "meta": {
+    "slug": "strasbourg"
+  },
+  "datos": {
+    "nombre_completo": "RC Strasbourg Alsace",
+    "nombre_oficial": "RC Strasbourg Alsace",
+    "nombre_corto": "Strasbourg",
+    "apodo": "Le Racing",
+    "fundacion": "1906",
+    "estadio_actual": "Stade de la Meinau",
+    "presidente": "Marc Keller",
+    "entrenador": "Patrick Vieira",
+    "estadio_capacidad": "26.109",
+    "estadio_inauguracion": "1914",
+    "estadio_direccion": "12 Rue de l'Extenwoerth, 67100 Strasbourg, Francia",
+    "estadio_lat": 48.5603,
+    "estadio_lng": 7.7533,
+    "sigla": "RCSA",
+    "socios": 30000,
+    "descripcion_corta": "Entidad de Alsacia con registro documentado de una liga lograda en 1979 previo a sus respectivas caídas directivas, liquidación por impagos en los juzgados y reascensos.",
+    "paleta": [
+      {
+        "tag": "Azul Real",
+        "hex": "#132D5F"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Oskar Rohr (118 goles)",
+      "mas_presencias": "René Hauss (580 partidos)",
+      "mayor_goleada": "10-0 vs Valenciennes (1938)"
+    },
+    "estadio_apodo": "La Meinau",
+    "escudo_actual": "/escudos/strasbourg.webp"
+  },
+  "historia": [
+    {
+      "ano": "1906",
+      "hito": "Forjados en Sangre y Carbón Bajo el Acero Sombrío Invasor del Gran Dominio Férreo Prusiano Orquestador Obrero de Neudorf",
+      "desc": "En las entrañas estipuladas crudas oscuras del letal del obrero histórico amargo rústico de Neudorf mientras Alsacia era estrujada heroicamente de innegociable territorio asimilado espeso dictaminado imperial alemán prusiano el caudillo formador un joven originario letal e histórico llamado Charles Koch originaba junto de colosales s escolares y en 1906 el modesto rudo y gigante Racing Club sumiendo escudos inquebrantables s de origen de oro y riguroso puramente con colores originarios blanquiazules adoptados dolorosamente adoptando bandera soberana e inmensamente francesa oculta s en pechos tras rigores rústicos desafiando originarios regímenes innegociables duros alemanes originando al gran y histórico e indestructible Racing inmenso colosal de todo originario rudo Club de Strasbourg legendario y rey purista."
+    },
+    {
+      "ano": "1951",
+      "hito": "La Victoria en Copa de Francia",
+      "desc": "El plantel obtuvo la final de la Copa tras vencer de manera lícita por 3-0 al equipo del Valenciennes FC, añadiendo la primera copa formal de este certamen a sus vitrinas."
+    },
+    {
+      "ano": "1979",
+      "hito": "Obtención Histórica de la Ligue 1",
+      "desc": "Bajo las órdenes del entrenador Gilbert Gress, la plantilla alcanzó 56 puntos en el torneo local, logrando el primer puesto final por dos puntos de ventaja sobre el FC Nantes."
+    },
+    {
+      "ano": "2011",
+      "hito": "Liquidación Judicial y Bancarrota",
+      "desc": "El tribunal civil ordenó la liquidación judicial inmediata debido a millonarias deudas insolutas, perdiendo su licencia profesional y siendo descendido administrativamente a quinta categoría."
+    },
+    {
+      "ano": "2017",
+      "hito": "Ascenso y Retorno Oficial a la Élite",
+      "desc": "Mediante una reestructuración escalonada de base, el equipo consumó de manera aritmética un récord interno logrando ascensos consecutivos hasta volver a competir oficialmente en la máxima división."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade de la Meinau",
+      "capacidad": "26.109",
+      "inauguracion": "1914",
+      "desde": "1914",
+      "hasta": "",
+      "direccion": "12 Rue de l'Extenwoerth, 67100 Strasbourg, Francia",
+      "lat": 48.5603,
+      "lng": 7.7533,
+      "obs": "Su terreno original fue forjado cerca del bosque por universitarios alemanes a principios del siglo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=12%20Rue%20de%20l'Extenwoerth%2C%2067100%20Strasbourg%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1906,
+      "hasta": null,
+      "c1": "#0055a4",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#0055a4",
+      "tipo": "liso",
+      "desc": "Equipación predominantemente azul tradicional."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "René Hauss",
+      "periodo": "1949-1967",
+      "pos": "Defensor",
+      "desc": "Emblemático defensa que desarrolló toda su formidable carrera profesional logrando establecerse como el jugador con más de quinientos partidos oficiales en la alineación local."
+    },
+    {
+      "nombre": "Oskar Rohr",
+      "periodo": "1934-1939",
+      "pos": "Delantero",
+      "desc": "Letal delantero de origen alemán. Sus contundentes y prolíficos años treinta lo consagraron como el líder anotador y gran artillero indiscutido nacional de la época de pre-guerra institucional."
+    },
+    {
+      "nombre": "Marc Molitor",
+      "periodo": "1969-1973",
+      "pos": "Delantero",
+      "desc": "Delantero titular indiscutible de notable rendimiento. Lideró estadísticas goleadoras aportando decenas de tantos y convirtiéndose en un ídolo referencial definitivo por su rotunda asertividad frente a las redes."
+    },
+    {
+      "nombre": "Dominique Dropsy",
+      "periodo": "1973-1984",
+      "pos": "Arquero",
+      "desc": "Legendario guardameta de enorme jerarquía internacional. Fue fundamental custodiando el pórtico para la épica coronación y único campeonato oficialista logrando el título local de 1979."
+    },
+    {
+      "nombre": "Léonard Specht",
+      "periodo": "1972-1989",
+      "pos": "Defensor",
+      "desc": "Zaguero central inamovible nacional. Se erigió victoriosamente como estandarte de la época más laureada del club tras integrar la plantilla logrando coronarse en el torneo definitivo absoluto."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Oskar Rohr",
+      "goles": 118,
+      "periodo": "1934-1939",
+      "partidos": 136,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 118 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1939."
+    },
+    {
+      "nombre": "Albert Gemmrich",
+      "goles": 93,
+      "periodo": "1973-1979",
+      "partidos": 228,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 93 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1979."
+    },
+    {
+      "nombre": "Marc Molitor",
+      "goles": 54,
+      "periodo": "1969-1973",
+      "partidos": 100,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1973."
+    },
+    {
+      "nombre": "Ludovic Ajorque",
+      "goles": 51,
+      "periodo": "2018-2023",
+      "partidos": 151,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 51 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2023."
+    },
+    {
+      "nombre": "Habib Diallo",
+      "goles": 41,
+      "periodo": "2020-2023",
+      "partidos": 103,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 41 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2023."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "René Hauss",
+      "partidos": 515,
+      "periodo": "1949-1967",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 515 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1949-1967."
+    },
+    {
+      "nombre": "Dominique Dropsy",
+      "partidos": 406,
+      "periodo": "1973-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 406 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1984."
+    },
+    {
+      "nombre": "Léonard Specht",
+      "partidos": 367,
+      "periodo": "1972-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 367 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1989."
+    },
+    {
+      "nombre": "Dimitri Liénard",
+      "partidos": 300,
+      "periodo": "2013-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 300 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2023."
+    },
+    {
+      "nombre": "Guillaume Lacour",
+      "partidos": 272,
+      "periodo": "2001-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 272 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2010."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 1,
+      "anios": [
+        "1979"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 3,
+      "anios": [
+        "1951",
+        "1966",
+        "2001"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 4,
+      "anios": [
+        "1964",
+        "1997",
+        "2005",
+        "2019"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1920.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1945.webp"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1950.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strgasbourg_1960.webp"
+    },
+    {
+      "ano": "1971",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1971.webp"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos_historicos/strasbourg/Ancien_Blason_RC_Strasbourg_1976.webp"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1985.webp"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/strasbourg/Blason_RC_Strasbourg_1987.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/strasbourg/Racing_Club_de_Strasbourg_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/strasbourg/Racing_Club_de_Strasbourg_logo.svg"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/strasbourg/Racing_Club_de_Strasbourg_Alsace_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/strasbourg.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Le Racing",
+      "origen": "Designación estatutaria pura heredada tras el ferviente arrastre cultural e impacto social formativo impulsado contundentemente desde lejanas ramificaciones e influencias anglosajonas históricas. Copiaron rígidamente y en homenaje a aquellas pioneras modas anglosajonas al fiero apelativo Racing."
+    }
+  ]
+}

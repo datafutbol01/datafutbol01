@@ -1,0 +1,337 @@
+{
+  "id": "borussia-dortmund",
+  "meta": {
+    "slug": "borussia-dortmund",
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "dortmund",
+      "bvb"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Ballspielverein Borussia 09 e. V. Dortmund",
+    "nombre_oficial": "Borussia Dortmund",
+    "nombre_corto": "Borussia Dortmund",
+    "apodo": "Die Schwarzgelben (Los Negriamarillos)",
+    "fundacion": "1909",
+    "estadio_actual": "Signal Iduna Park",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 81365,
+    "estadio_inauguracion": "1974",
+    "estadio_direccion": "Strobelallee 50, 44139 Dortmund, Alemania",
+    "estadio_lat": 51.4925,
+    "estadio_lng": 7.4518,
+    "escudo_actual": "/escudos/borussia-dortmund.webp",
+    "sigla": "BVB",
+    "socios": 175000,
+    "descripcion_corta": "Uno de los clubes con más tradición de la cuenca del Ruhr, reconocido por tener la mayor asistencia de público en Europa.",
+    "paleta": [
+      {
+        "tag": "Amarillo Dortmund",
+        "hex": "#FDE100"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Alfred Preissler (177)",
+      "mas_presencias": "Michael Zorc (572)",
+      "mayor_goleada": "11-1 vs Bielefeld (1982)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1909",
+      "hito": "Apertura Estatutaria",
+      "desc": "Nacimiento oficial del club en 1909 por parte de jóvenes operarios en el contexto de la iglesia local."
+    },
+    {
+      "ano": "1966",
+      "hito": "Copa Evaluatoria de Campeones",
+      "desc": "Gran victoria contra la Juventus para alzar su máximo campeonato europeo."
+    },
+    {
+      "ano": "1997",
+      "hito": "Tabulación Liguera Moderna",
+      "desc": "Imponente bicampeonato de Bundesliga consolidando un fútbol muy intenso y dinámico de la mano de Klopp."
+    },
+    {
+      "ano": "2005",
+      "hito": "Rescate del Abismo y del Quiebre y Caos Financiero de Valores",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2012",
+      "hito": "El Dictamen Sofocante de la Liga Sellado Con 'Gegenpressing'",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadion Rote Erde",
+      "capacidad": "25.000",
+      "inauguracion": "1926",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strobelallee%2050%2C%2044139%20Dortmund%2C%20Alemania",
+      "direccion": "Strobelallee 50, 44139 Dortmund, Alemania",
+      "descripcion": "La mítica Tierra Roja de Renania. El emblemático escenario lindante a la actual casa aurinegra en donde el equipo forjó su carácter pionero ganando copas continentales teutonas hasta 1974.",
+      "lat": 51.4925,
+      "lng": 7.4544
+    },
+    {
+      "nombre": "Signal Iduna Park (Westfalenstadion)",
+      "capacidad": "81.365",
+      "inauguracion": "1974",
+      "url": "https://www.google.com/maps/search/?api=1&query=Strobelallee%2050%2C%2044139%20Dortmund%2C%20Alemania",
+      "direccion": "Strobelallee 50, 44139 Dortmund, Alemania",
+      "descripcion": "El estadio de mayor aforo formal del país, hogar de la mítica e inquebrantable 'Muralla Amarilla' ('Gelbe Wand') en su tribuna sur.",
+      "lat": 51.4925,
+      "lng": 7.4518
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1909,
+      "hasta": 1912,
+      "c1": "#00529b",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1913,
+      "hasta": 1980,
+      "c1": "#fde100",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#fde100",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1980,
+      "hasta": 1996,
+      "c1": "#e6ff00",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#e6ff00",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1997,
+      "hasta": null,
+      "c1": "#fde100",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#fde100",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Marco Reus",
+      "periodo": "2012-2024",
+      "pos": "Mediocampista / Delantero",
+      "desc": "Histórico referente nacido en la ciudad. Capitaneó oficialmente la escuadra declinando importantes transferencias para mantener incondicional lealtad a la plantilla."
+    },
+    {
+      "nombre": "Michael Zorc",
+      "periodo": "1981-1998",
+      "pos": "Mediocampista",
+      "desc": "Sólido mediocentro del primer equipo que mantiene en su posesión el récord firme como el jugador con mayor número de presencias deportivas del club."
+    },
+    {
+      "nombre": "Matthias Sammer",
+      "periodo": "1993-1998",
+      "pos": "Defensor / Líbero",
+      "desc": "Líbero histórico de la institución y del fútbol nacional. Su nivel y desempeño apuntalaron la esperada consagración liguista de Liga de Campeones en 1997."
+    },
+    {
+      "nombre": "Dedê",
+      "periodo": "1998-2011",
+      "pos": "Defensor lateral",
+      "desc": "Lateral brasileño del fútbol local. Integró el club a lo largo de centenares de torneos oficiales volviéndose en uno de los referentes internacionales consolidados."
+    },
+    {
+      "nombre": "Jürgen Kohler",
+      "periodo": "1995-2002",
+      "pos": "Defensor central",
+      "desc": "Fuerte zaguero con experiencia central. Se acopló asertivamente solidificando al elenco germano para ganar copas locales e históricas participaciones a nivel mundial."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Alfred Preißler",
+      "goles": 177,
+      "periodo": "1946-1959",
+      "partidos": 274,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 177 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1959."
+    },
+    {
+      "nombre": "Marco Reus",
+      "goles": 170,
+      "periodo": "2012-2024",
+      "partidos": 429,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 170 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2024."
+    },
+    {
+      "nombre": "Michael Zorc",
+      "goles": 159,
+      "periodo": "1981-1998",
+      "partidos": 572,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 159 goles en competiciones oficiales durante su trayectoria en el equipo entre 1981-1998."
+    },
+    {
+      "nombre": "Manfred Burgsmüller",
+      "goles": 135,
+      "periodo": "1976-1983",
+      "partidos": 224,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 135 goles en competiciones oficiales durante su trayectoria en el equipo entre 1976-1983."
+    },
+    {
+      "nombre": "Timo Konietzka",
+      "goles": 121,
+      "periodo": "1958-1965",
+      "partidos": 163,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 121 goles en competiciones oficiales durante su trayectoria en el equipo entre 1958-1965."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Michael Zorc",
+      "partidos": 572,
+      "periodo": "1981-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 572 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1998."
+    },
+    {
+      "nombre": "Mats Hummels",
+      "partidos": 508,
+      "periodo": "2008-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 508 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2024."
+    },
+    {
+      "nombre": "Roman Weidenfeller",
+      "partidos": 453,
+      "periodo": "2002-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 453 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2018."
+    },
+    {
+      "nombre": "Stefan Reuter",
+      "partidos": 421,
+      "periodo": "1992-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 421 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2004."
+    },
+    {
+      "nombre": "Lars Ricken",
+      "partidos": 407,
+      "periodo": "1993-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 407 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2008."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 8,
+      "anios": [
+        "1955-56",
+        "1956-57",
+        "1962-63",
+        "1994-95",
+        "1995-96",
+        "2001-02",
+        "2010-11",
+        "2011-12"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 5,
+      "anios": [
+        "1964-65",
+        "1988-89",
+        "2011-12",
+        "2016-17",
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 6,
+      "anios": [
+        "1989",
+        "1995",
+        "1996",
+        "2013",
+        "2014",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 1,
+      "anios": [
+        "1996-97"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1965-66"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 1,
+      "anios": [
+        "1997"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-dortmund/Borussia-Dortmund_2_-old-logo_1.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-dortmund/Borussia_Dortmund_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-dortmund/Borussia-Dortmund_2_-old-logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-dortmund/Borussia_Dortmund.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/borussia-dortmund/Logo_Borussia_Dortmund_29.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/borussia-dortmund.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Schwarzgelben",
+      "origen": "Consagrado y validado en puro ámbito cromático definitivo tras originar intercambios logísticos iniciales en asambleas históricas de 1913. Al desechar el uso del previo listado bicolor azul y rayas blancas, la cúpula oficial dictaminó utilizar permanentemente vivos cruzados unificando amarillo limón y oscuro asfalto."
+    },
+    {
+      "apodo": "Die Borussen",
+      "origen": "Aprobado masivamente en rigor estricto dictado desde los primeros cruces directivos cívicos para homologar un linaje histórico asimilando la antigua realeza prusiana. El nativo nombre dictado evoca estatutariamente un tributo nominal utilizando eternamente el apelativo civil latino de la legendaria Prusia."
+    }
+  ]
+}

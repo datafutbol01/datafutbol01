@@ -1,0 +1,415 @@
+{
+  "id": "manchester-city",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "citizens",
+      "cityzens",
+      "manchester"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Manchester City Football Club",
+    "sigla": "MCI",
+    "fundacion": "16 de abril de 1894",
+    "apodo": "Cityzens, The Sky Blues",
+    "estadio_actual": "Etihad Stadium",
+    "estadio_apodo": "City of Manchester",
+    "estadio_capacidad": 53400,
+    "estadio_inauguracion": "2003",
+    "estadio_lat": 53.4831,
+    "estadio_lng": -2.2004,
+    "estadio_direccion": "Ashton New Rd, Manchester M11 3FF",
+    "socios": 45000,
+    "descripcion_corta": "Entidad profesional arraigada en el este de Manchester. Surgieron inocentemente de una parroquia como excusa religiosa para frenar la sangrienta violencia barrial y atravesaron décadas grises oscurísimas hasta que una increíble, billonaria y caprichosa compra extranjera de jeques árabes en 2008 los bañó en puros petrodólares de oro, transformándolos a puro talonario en la implacable bestia mundial y arrasadora que hoy pisotea letalmente Europa.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#6CABDD"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#1C2C5B"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "12-0 a Liverpool Stanley (Octubre 1890)",
+      "maximo_goleador": "Sergio Agüero (260 goles)",
+      "mas_presencias": "Alan Oakes (680 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1880",
+      "hito": "El proyecto parroquial fundado por la eclesiástica familia Connell",
+      "desc": "Cimentado en base civil buscando paliar con urgencia los abrumadores casos delincuenciales extendidos urbanos crecientes presentes sobre clanes territoriales barriales a obreros del sector conurbano Gorton ubicados al del sur lindantes industriales. El club de fútbol toma inicio formal asambleario 1880 gestado como 'St. Mark's (West Gorton)' propulsado liderado y en recursos de base provista formativa gracias a aportes e iniciativas logísticas rectoras impartidas desde Anna Connell conjuntamente con reverendos directivos formales eclesiásticos de su familia parroquial."
+    },
+    {
+      "ano": "1968-1970",
+      "hito": "Los cimientos institucionales superiores a nivel doméstico y logrando la Recopa europea",
+      "desc": "Tras la reestructuración impulsada de contrataciones certeras dirigenciales con la sociedad formativa operativa del banquillo conformada estrictamente impartida dirigida entre Joe Mercer asociados operativamente junto a Malcolm Allison obtuvieran el correspondiente formal y principal trofeo de liga del período interino anual 1968 a la FA Cup 1969 e inscribiendo el inobjetable valioso aporte originado histórico directo internacional oficial certamen correspondiente a conquistar el máximo lauro denominado tradicional la Recopa oficial Europa 1970."
+    },
+    {
+      "ano": "2012",
+      "hito": "El campeonato histórico logrado originado al tiempo límite (Agüero 93:20)",
+      "desc": "Concluyendo de manera estricta y resolutiva en la ajustada etapa y de certamen agónico tras durísimas reesctructuraciones globales comerciales originadas previas recientes al adquirir y propiciar grandes aportaciones económicas formadas a dueños asiáticos corporativos al club logran tras prolongadas y oscuras campañas relegadas a segundas líneas someter por primera instancia la liga contemporánea Premier obtenida legal un contundente originado del milisegundo formal del juego rematado goleador delantero Agüero estableciendo en métricas 93:20 cronómetro al título agónico e histórico superior contemporáneo."
+    },
+    {
+      "ano": "2023",
+      "hito": "Posesión táctica de juego hegemónica consagrada oficialmente ganadora del Treble comercial",
+      "desc": "Implementando formalmente logísticas metódicas asociativas ofensivas estrictas pautadas del meticuloso esquema rector avalando formaciones rigurosas planteadas dictaminadas operativas conducidas con dirección plena impuesta al preparador español Pep Guardiola la directiva consagró de máxima estadística absoluta obtener a nivel del país el mismo ciclo de tiempo originado simultáneamente ligas de copa la Premier contemporánea completando la conquista formal anhelada y el trofeo esquivo directo disputando Champions League internacional conociéndose universal consolidar y conquistar logrando su Triplete anual."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Hyde Road",
+      "direccion": "Bennett Street, Ardwick, Manchester",
+      "desde": 1887,
+      "hasta": 1923,
+      "estado": "Histórico",
+      "obs": "Primer escenario de carácter permanente tras la reformulación como Ardwick A.F.C. Acumuló expansiones edilicias modulares hasta sufrir la destrucción estructural de su tribuna principal (Main Stand) en un incendio incidental en el año 1920.",
+      "lat": 53.4694,
+      "lng": -2.2088,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bennett%20Street%2C%20Ardwick%2C%20Manchester"
+    },
+    {
+      "nombre": "Maine Road",
+      "direccion": "Maine Rd, Moss Side, Manchester M14",
+      "desde": 1923,
+      "hasta": 2003,
+      "estado": "Histórico",
+      "obs": "Trascendental coliseo deportivo operado ininterrumpidamente a lo largo de 80 años. En su punto de máxima capacidad, albergó el récord documentado general de asistencia de fútbol británico en estadios de clubes con 84,569 espectadores oficiales (1934).",
+      "lat": 53.4533,
+      "lng": -2.2386,
+      "url": "https://www.google.com/maps/search/?api=1&query=Maine%20Rd%2C%20Moss%20Side%2C%20Manchester%20M14"
+    },
+    {
+      "nombre": "City of Manchester (Etihad)",
+      "direccion": "Ashton New Rd, Manchester M11 3FF",
+      "desde": 2003,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Construido preliminarmente para los Juegos de la Commonwealth 2002. Fue arrendado e intervenido topográficamente por el Manchester City para readaptarlo al uso futbolístico eliminando la pista perimetral atlética.",
+      "lat": 53.4831,
+      "lng": -2.2004,
+      "url": "https://www.google.com/maps/search/?api=1&query=Ashton%20New%20Rd%2C%20Manchester%20M11%203FF"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1880,
+      "hasta": 1884,
+      "c1": "#111111",
+      "c2": "#111111",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Como St Mark's el cuadro parroquial forjó purista fáctica dura lisa negra cruz de plata para frenar pecadores del barrio."
+    },
+    {
+      "desde": 1894,
+      "hasta": null,
+      "c1": "#6CABDD",
+      "c2": "#6CABDD",
+      "sh": "#ffffff",
+      "me": "#6CABDD",
+      "tipo": "liso",
+      "desc": "Adopta el nombre oficial y clava liso celeste cielo resplandeciente crudo enlazándolo divinamente con estratos superiores y el honor estricto del agua mítica e citadina para siempre y por todo asfalto global europeo supremo conquistado letal y duro de oro en petrodólar comercial actual."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Sergio Agüero",
+      "pos": "Delantero",
+      "apodo": "Kun",
+      "periodo": "2011-2021",
+      "desc": "Autor del gol más trascendental en la historia de la liga (93:20) que cortó una sequía de 44 años para el club. Máximo goleador histórico absoluto de la institución, cimentando el arrollador y multimillonario proyecto moderno con su jerarquía ofensiva inquebrantable."
+    },
+    {
+      "nombre": "Colin Bell",
+      "pos": "Mediocampista",
+      "apodo": "The King of the Kippax",
+      "periodo": "1966-1979",
+      "desc": "Ídolo histórico reverenciado de la exitosa década del final de los años 60 e inicios de los 70. Mediocampista apodado 'The King of the Kippax', notablemente vigoroso e incansable que coronó al equipo conquistando un título local liguero y la Copa FA antes del largo invierno."
+    },
+    {
+      "nombre": "Vincent Kompany",
+      "pos": "Defensor Central",
+      "apodo": "Vinnie",
+      "periodo": "2008-2019",
+      "desc": "Gran capitán y líder indiscutido que encabezó el vestuario durante la transformación a potencia futbolística hegemónica. Férreo defensor de enorme temple que contribuyó además con anotaciones inverosímiles y decisivas siempre en instancias culminantes de la Premier League."
+    },
+    {
+      "nombre": "David Silva",
+      "pos": "Mediocampista Ofensivo",
+      "apodo": "El Mago",
+      "periodo": "2010-2020",
+      "desc": "Magistral creador de juego español apodado 'El Mago'. Arribó en 2010 y moldeó la identidad estilística total del equipo con una lectura impecable, obteniendo cuatro títulos de liga y siendo el motor invisible bajo diferentes y exigentes cuerpos técnicos."
+    },
+    {
+      "nombre": "Kevin De Bruyne",
+      "pos": "Mediocampista",
+      "apodo": "KDB",
+      "periodo": "2015-Actualidad",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2015-Actualidad, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Sergio Agüero",
+      "goles": 260,
+      "partidos": 390,
+      "periodo": "2011-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 260 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2021."
+    },
+    {
+      "nombre": "Eric Brook",
+      "goles": 177,
+      "partidos": 494,
+      "periodo": "1928-1939",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 177 goles en competiciones oficiales durante su trayectoria en el equipo entre 1928-1939."
+    },
+    {
+      "nombre": "Tommy Johnson",
+      "goles": 166,
+      "partidos": 354,
+      "periodo": "1920-1930",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 166 goles en competiciones oficiales durante su trayectoria en el equipo entre 1920-1930."
+    },
+    {
+      "nombre": "Colin Bell",
+      "goles": 153,
+      "partidos": 501,
+      "periodo": "1966-1979",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 153 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1979."
+    },
+    {
+      "nombre": "Joe Hayes",
+      "goles": 152,
+      "partidos": 364,
+      "periodo": "1953-1965",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 152 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1965."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alan Oakes",
+      "partidos": 680,
+      "periodo": "1959-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 680 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1976."
+    },
+    {
+      "nombre": "Joe Corrigan",
+      "partidos": 603,
+      "periodo": "1967-1983",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 603 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1983."
+    },
+    {
+      "nombre": "Mike Doyle",
+      "partidos": 570,
+      "periodo": "1965-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 570 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1978."
+    },
+    {
+      "nombre": "Bert Trautmann",
+      "partidos": 545,
+      "periodo": "1949-1964",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 545 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1949-1964."
+    },
+    {
+      "nombre": "Colin Bell",
+      "partidos": 501,
+      "periodo": "1966-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 501 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1979."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division / Premier League",
+      "cantidad": 10,
+      "años": [
+        "1936-37",
+        "1967-68",
+        "2011-12",
+        "2013-14",
+        "2017-18",
+        "2018-19",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 7,
+      "años": [
+        "1903-04",
+        "1933-34",
+        "1955-56",
+        "1968-69",
+        "2010-11",
+        "2018-19",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 9,
+      "años": [
+        "1969-70",
+        "1975-76",
+        "2013-14",
+        "2015-16",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2025-26"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 7,
+      "años": [
+        "1937",
+        "1968",
+        "1972",
+        "2012",
+        "2018",
+        "2019",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "UEFA Champions League",
+      "cantidad": 1,
+      "años": [
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa UEFA",
+      "cantidad": 1,
+      "años": [
+        "1969-70"
+      ]
+    },
+    {
+      "nombre": "UEFA Super Cup",
+      "cantidad": 1,
+      "años": [
+        "2023"
+      ]
+    },
+    {
+      "nombre": "FIFA Club World Cup",
+      "cantidad": 1,
+      "años": [
+        "2023"
+      ]
+    },
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 7,
+      "años": [
+        "1898-99",
+        "1902-03",
+        "1909-10",
+        "1927-28",
+        "1946-47",
+        "1965-66",
+        "2001-02"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1880",
+      "url": "/escudos/manchester-city/St_Mark_West_Gorton.webp"
+    },
+    {
+      "ano": "1880",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1880_web.png"
+    },
+    {
+      "ano": "1887",
+      "url": "/escudos/manchester-city/Ardwick_Association_FC_logo.webp"
+    },
+    {
+      "ano": "1887",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1887_web.png"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1926_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/manchester-city/Manchester_City_1960s.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1960_web.png"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/manchester-city/Fc-manchester-city-1970-s.svg"
+    },
+    {
+      "ano": "1971",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1971_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos/manchester-city/Manchester_City_(1972).svg"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1972_web.png"
+    },
+    {
+      "ano": "1981",
+      "url": "/escudos/manchester-city/Manchester_City_(1981).svg"
+    },
+    {
+      "ano": "1981",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1981_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos/manchester-city/Manchester_City_crest.svg"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/manchester-city/manchester-city_1997_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/manchester-city/manchester-city_2012_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/manchester-city/manchester-city_2013_web.png"
+    },
+    {
+      "ano": "2016",
+      "url": "/escudos_historicos/manchester-city/manchester-city_2016_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/manchester-city/Manchester_City_FC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Citizens",
+      "origen": "Titulados como un gentilicio formal directo y netamente correspondiente a la estricta utilización lícita general de su nomenclatura legal en el antiguo registro constitutivo. Adapta al público aficionado la denominación textual en inglés para catalogar fielmente y bajo firme rigor a los inmensos Ciudadanos de época que componen y forjan su amplia base urbana fundacional local."
+    }
+  ]
+}

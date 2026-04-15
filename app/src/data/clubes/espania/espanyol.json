@@ -1,0 +1,290 @@
+{
+  "id": "espanyol",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "espanyol",
+      "pericos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Reial Club Deportiu Espanyol de Barcelona",
+    "sigla": "ESP",
+    "fundacion": "28 de octubre de 1900",
+    "apodo": "Pericos, Blanquiazules",
+    "estadio_actual": "RCDE Stadium",
+    "estadio_apodo": "Estadio Cornellà-El Prat",
+    "estadio_capacidad": 40000,
+    "estadio_inauguracion": "2 de agosto de 2009",
+    "estadio_lat": 41.3478,
+    "estadio_lng": 2.0756,
+    "estadio_direccion": "Av. del Baix Llobregat, 100, 08940 Cornellà de Llobregat, Barcelona",
+    "socios": 25000,
+    "descripcion_corta": "Entidad constitutiva y fundadora de la actual liga.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Rafael Marañón (144)",
+      "mas_presencias": "Raúl Tamudo (389)"
+    },
+    "nombre_oficial": "R.C.D. Espanyol de Barcelona S.A.D.",
+    "nombre_corto": "Espanyol"
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "Fundación Universitaria en las Aulas Pericas",
+      "desc": "En 1900, la incipiente escena barcelonesa sufría un éxodo de talento usurpado y organizado exclusivamente por colonias y sociedades británicas y suizas, donde los lugareños eran menospreciados. Furioso ante este elitismo excluyente, el estudiante de ingeniería Ángel Rodríguez Ruiz, figura central de las aulas de la Universidad de Barcelona, impulsó una rebelión patriótica deportiva. El 28 de octubre de 1900, junto a valientes compañeros fundadores como Octavi Aballí (su primer secretario) y Lluís Riera, gestaron solemnemente en la Sociedad Gimnástica Española el primer equipo pensado, desarrollado y formado exclusiva y rígidamente por jugadores catalanes y españoles: la Sociedad Española de Football. Jugando primero de estricto color amarillo perimetral (sobrante de una fábrica textil de un amigo de los fundadores) antes de cimentarse en el histórico blanquiazul del almirante Roger de Llúria de 1909. Esta fundación obrera, académica y reactiva ante los foráneos incrustó al RCD Espanyol en un pedestal de resistencia, marcando a sangre y rebeldía su identidad perica frente al enorme monstruo mediático que comenzaba a nacer en su misma ciudad."
+    },
+    {
+      "ano": "1929",
+      "hito": "Rey de Copas: El Gol del Agua",
+      "desc": "Bajo un aguacero apocalíptico en la mítica final del 'Gol del Agua', conquistó su primera Copa del Rey ante el Real Madrid empujado por la fiereza del emblemático Ricardo Zamora en portería."
+    },
+    {
+      "ano": "1988",
+      "hito": "La Heroica Final de Leverkusen",
+      "desc": "Tocó el cielo y las sombras europeas: tras una campaña eliminando gigantes, se plantó en la histórica final de la Copa UEFA contra el Bayer Leverkusen, una espina gloriosa en el corazón perico."
+    },
+    {
+      "ano": "2006",
+      "hito": "Tetracampeonato de Copa del Rey",
+      "desc": "Una plantilla épica aplastó en la final del Bernabéu al Real Zaragoza por 4-1 con magia de Luis García y Tamudo, levantando la cuarta Copa del club ante 30,000 hinchas desatados."
+    },
+    {
+      "ano": "2007",
+      "hito": "El Llanto Bajo la Lluvia Escocesa",
+      "desc": "Liderados por el talento desbordante de Tamudo e Iván de la Peña, el club rozó su mayor gloria europea al llegar invicto a la Final de Glasgow de la UEFA. El destino, tiránico en la tanda de penaltis, blindó igualmente al equipo para siempre en el corazón de la historia blanquiazul."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Cornellà-El Prat",
+      "capacidad": "40.000",
+      "inauguracion": "2009",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20del%20Baix%20Llobregat%2C%20100%2C%2008940%20Cornell%C3%A0%20de%20Llobregat%2C%20Barcelona",
+      "direccion": "Av. del Baix Llobregat, 100, 08940 Cornellà de Llobregat, Barcelona",
+      "descripcion": "Estadio vanguardista y hermético levantado por el esfuerzo perico tras su salida del mítico Sarrià."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1900,
+      "hasta": 1910,
+      "c1": "#fff200",
+      "c2": "#fff200",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Inicios de rústicas donaciones arrojando lisas telas amarillas crudas formales poéticas."
+    },
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#003da5",
+      "sh": "#003da5",
+      "me": "#003da5",
+      "tipo": "rayas-verticales",
+      "desc": "Viraje a estampa heráldica poética naval mediterránea usando dictaminadas formales finas puristas y lícitas y gruesas alternadas rayas verticales blanquivestas en y azul cruzador."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Raúl Tamudo",
+      "periodo": "1996-2010",
+      "pos": "Delantero",
+      "desc": "Máximo goleador histórico con más de 120 anotaciones. Ganó dos títulos de Copa del Rey durante su capitanía."
+    },
+    {
+      "nombre": "Dani Jarque",
+      "periodo": "2002-2009",
+      "pos": "Defensa",
+      "desc": "Defensor central y capitán formado en la cantera. La ciudad deportiva del club lleva institucionalmente su nombre."
+    },
+    {
+      "nombre": "Thomas N'Kono",
+      "periodo": "1982-1990",
+      "pos": "Arquero",
+      "desc": "Arquero camerunés titular en la histórica campaña de la Copa de la UEFA donde el equipo fue subcampeón en 1988."
+    },
+    {
+      "nombre": "Luis García",
+      "periodo": "2005-2011",
+      "pos": "Delantero",
+      "desc": "Delantero protagonista en la obtención de la Copa del Rey de 2006 y en diversas clasificaciones internacionales."
+    },
+    {
+      "nombre": "Iván de la Peña",
+      "periodo": "2002-2011",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista central que lideró en número de asistencias a los delanteros del club durante sus años en Primera."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Raúl Tamudo",
+      "goles": 140,
+      "periodo": "1996-2010",
+      "partidos": 389,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2010."
+    },
+    {
+      "nombre": "Marañón",
+      "goles": 144,
+      "periodo": "1974-1983",
+      "partidos": 261,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 144 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1983."
+    },
+    {
+      "nombre": "Julián Arcas",
+      "goles": 86,
+      "periodo": "1946-1958",
+      "partidos": 236,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1958."
+    },
+    {
+      "nombre": "Cayetano Ré",
+      "goles": 61,
+      "periodo": "1966-1971",
+      "partidos": 146,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1971."
+    },
+    {
+      "nombre": "Luis García",
+      "goles": 60,
+      "periodo": "2005-2011",
+      "partidos": 262,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 60 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2011."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Raúl Tamudo",
+      "partidos": 389,
+      "periodo": "1996-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 389 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2010."
+    },
+    {
+      "nombre": "Antonio Argilés",
+      "partidos": 301,
+      "periodo": "1950-1962",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 301 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1962."
+    },
+    {
+      "nombre": "Javi López",
+      "partidos": 283,
+      "periodo": "2009-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 283 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2020."
+    },
+    {
+      "nombre": "Mauricio Pochettino",
+      "partidos": 275,
+      "periodo": "1994-2006",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 275 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1994-2006."
+    },
+    {
+      "nombre": "Sergi Darder",
+      "partidos": 245,
+      "periodo": "2017-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 245 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2023."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 4,
+      "anios": [
+        "1929",
+        "1940",
+        "2000",
+        "2006"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 2,
+      "anios": [
+        "1993-94",
+        "2020-21"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1990",
+      "url": "/escudos_historicos/espanyol/Club_Espanyol_de_Foot-ball_1900.webp"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos_historicos/espanyol/Club_Espanyol_de_Foot-ball_1901.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/espanyol/Club_Deportivo_Espa_ol_1910.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/espanyol/Real_Club_Deportivo_Espa_ol_1912.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/espanyol/Espanol_1921_logo.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/espanyol/Real_Club_Deportivo_Espa_ol_1923.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/espanyol/Club_Deportivo_Espa_ol_1931.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/espanyol/Club_Deportivo_Espa_ol_1934.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/espanyol/Espanyol_1940_logo__1_.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/espanyol/Espanyol_1940_logo.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/espanyol/Real_Club_Deportivo_Espanyol_1995.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/espanyol/Foot-ball_Club_X.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/espanyol/RCD_Espanyol_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/espanyol.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Periquitos",
+      "origen": "Nació como marca identificatoria oficial y de masivo fervor barrial en la década de 1920 al momento clave de decidir abandonar las antiguas bases y mudar el tradicional asentamiento barcelonés rumbo a la locación de Sarrià. Al tomar total posesión física de la cancha y los alrededores del anillo perimetral general exterior, la hinchada descubrió que las tradicionales palmeras circundantes a los predios de la instalación estallaban desbordadas masivamente frente y por plenas y autóctonas bandadas y bulliciosos refugios de centenares aves locales o pericos de tonos puros y color verde silvestres."
+    },
+    {
+      "apodo": "Los Blanquiazules",
+      "origen": "Apodo cimentado en y bajo una concepción pura y naciente en torno al tributo nacional incesante fundamentado sobre blasones y los históricos escudos. Confeccionar la equipación e indumentaria blanquiazul del club blanquiazul original no resulta obra ni azar ni capricho: este cromatismo fue elegido y textualmente decretado estipulando formal respeto local al clásico estandarte patriótico base oficial y a la escudería oficial perteneciente pura del gran almirante general del almogávar capitalino y originario histórico aragonés Roger de Flor en el puro inicio del origen siglo trece."
+    }
+  ]
+}

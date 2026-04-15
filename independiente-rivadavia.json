@@ -1,0 +1,34 @@
+{
+  "id": "independiente-rivadavia",
+  "datos": {
+    "nombre_oficial": "Independiente Rivadavia",
+    "nombre_corto": "Independiente Rivadavia",
+    "apodos": [
+      "La Lepra Mendocina",
+      "El Verde de Mendoza"
+    ],
+    "fundacion": "1907-12-27",
+    "ciudad": "Mendoza",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Bautista Gargantini",
+    "estadio_capacidad": 26000,
+    "estadio_lat": -32.8928,
+    "estadio_lng": -68.8458,
+    "debut_primera": 1978
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#228B22",
+        "#FFFFFF"
+      ],
+      "diseno": "unicolor_verde"
+    },
+    "short": "#228B22",
+    "medias": "#228B22"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

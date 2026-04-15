@@ -1,0 +1,278 @@
+{
+  "id": "platense",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "buenos aires",
+      "vicente lopez",
+      "saavedra",
+      "calamar"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Platense",
+    "sigla": "CAP",
+    "fundacion": "25 de mayo de 1905",
+    "apodo": "El Calamar, Tense, El Marrón",
+    "estadio_actual": "Ciudad de Vicente López",
+    "estadio_apodo": "Ciudad de Vicente López",
+    "estadio_capacidad": 34530,
+    "estadio_inauguracion": "1979-07-22",
+    "estadio_lat": -34.5408,
+    "estadio_lng": -58.48,
+    "estadio_direccion": "Zufriategui 2021, Florida, Vicente López",
+    "socios": 15000,
+    "descripcion_corta": "Tradicional institución afincada en el barrio de Saavedra y la Zona Norte (Vicente López). Fundador del profesionalismo de AFA, se caracterizó históricamente por su prolongada permanencia ininterrumpida en Primera División durante el Siglo XX y su reciente consagración como Campeón Nacional en 2025.",
+    "paleta": [
+      {
+        "tag": "Marrón",
+        "hex": "#4A3B32"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-0 a Argentino de Quilmes (1939)",
+      "maximo_goleador": "Daniel Vega (86 goles)",
+      "mas_presencias": "Enrique Topini (324 partidos)"
+    }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/platense/Platense_1932.webp"
+    },
+    {
+      "ano": "1981",
+      "url": "/escudos/historicos/platense/Platense_1981.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos/historicos/platense/Platense_1991.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos/historicos/platense/Platense_1996.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/platense/Platense_2000.webp"
+    },
+    {
+      "ano": "2008",
+      "url": "/escudos/historicos/platense/Platense_2008.webp"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos/historicos/platense/Platense_(2025).svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg/1280px-Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg.png"
+    }
+  ],
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Origen fundacional gracias al hipódromo",
+      "desc": "Un grupo de adolescentes conformados principalmente por vecinos de la Avenida Callao fundó el 25 de mayo de 1905 el Club Atlético Platense. La financiación para sostener la inscripción y la modesta indumentaria blanca inaugural surgió íntegramente gracias a las inesperadas ganancias producidas por una afortunada apuesta de dinero colocada en las carreras hípicas al ejemplar equino perteneciente al Stud Platense, de donde tomarían el nombre."
+    },
+    {
+      "ano": "1980",
+      "hito": "Década de consolidación ininterrumpida",
+      "desc": "Caracterizado históricamente por lidiar constantemente con la permanencia en torneos peleados, Platense forjó en la década de 1980 su período de mayor estabilidad. Destacó a lo largo de varias temporadas gracias a la eficiencia ordenadora de su defensa y a conformar en sus alineaciones y formativas a talentos singulares del ataque, brindando plataforma generacional a jugadores de extrema jerarquía y precisión técnica."
+    },
+    {
+      "ano": "2021",
+      "hito": "Retorno a Primera División",
+      "desc": "El club transitó de manera irregular torneos de segunda y tercera categoría desde 1999 hasta concretar definitivamente su resurrección el último día del mes de enero de 2021. Devolvéndolos a Primera tras 22 temporadas de ausencia, el elenco comandado por el entrenador Juan Manuel Llop consiguió un ajustado triunfo mediante desempate por penales frente a Estudiantes de Río Cuarto."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Manuela Pedraza y Crámer",
+      "direccion": "Saavedra, Capital Federal",
+      "desde": 1917,
+      "hasta": 1971,
+      "estado": "Desalojado",
+      "obs": "Recinto histórico del club durante gran parte del siglo XX. El anegamiento habitual de sus instalaciones linderas originó el popular apodo 'Calamar' atribuido al equipo.",
+      "lat": -34.5458,
+      "lng": -58.4683,
+      "url": "https://www.google.com/maps/search/?api=1&query=Saavedra%2C%20Capital%20Federal"
+    },
+    {
+      "nombre": "Ciudad de Vicente López",
+      "direccion": "Zufriategui 2021, Florida",
+      "desde": 1979,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Capacidad estructural moderna de cemento, desarrollada íntegramente de manera local e impulsada como la sede definitiva y permanente de la institución.",
+      "lat": -34.5408,
+      "lng": -58.48,
+      "url": "https://www.google.com/maps/search/?api=1&query=Zufriategui%202021%2C%20Florida"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": 1908,
+      "c1": "#E2001A",
+      "c2": "#111111",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Camiseta roja y negra."
+    },
+    {
+      "desde": 1908,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#8B4513",
+      "sh": "#ffffff",
+      "me": "#8B4513",
+      "tipo": "franja-horizontal",
+      "desc": "Adopción de franja marrón motivado por un caballo del stud."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Goyeneche",
+      "pos": "Hincha Emblema / Institucional",
+      "apodo": "El Polaco",
+      "periodo": "Ad-eternum",
+      "desc": "Conocido popular y nacionalmente como uno de los máximos exponentes de la historia tanguera del país. Su devoto y constante apoyo hizo que su nombre y figura se asimilaran profundamente como parte intrínseca de la identidad general de la institución."
+    },
+    {
+      "nombre": "Gonzalo Bergessio",
+      "pos": "Delantero",
+      "apodo": "Lavandina",
+      "periodo": "2001-2006, 2022",
+      "desc": "Robusto delantero con destacada potencia física. Durante el inicio de su extensa trayectoria, irrumpió con fuerza letal en el primer equipo evidenciando su notoria capacidad anotadora frente a las fuertes defensas del torneo de ascenso."
+    },
+    {
+      "nombre": "David Trezeguet",
+      "pos": "Delantero",
+      "apodo": "El Rey",
+      "periodo": "1994-1995",
+      "desc": "Destacado atacante franco-argentino y campeón mundial internacional, nacido profesionalmente de las entrañas formativas del club, donde tuvo sus primeros roces de primera división en 1994 previo a su fulgurante carrera europea."
+    },
+    {
+      "nombre": "Claudio Spontón",
+      "pos": "Extremo / Director Técnico",
+      "apodo": "El Ruso",
+      "periodo": "1987-1991, 1994-1995, Múltiples Ciclos",
+      "desc": "Rápido atacante y protagonista destacado de la estructura principal de la Primera División a lo largo de diversas etapas de la década de 1990. Su arraigo a los colores lo mantuvo vigente permanentemente como valioso delantero e ícono local."
+    },
+    {
+      "nombre": "Mauricio Hanuch",
+      "pos": "Mediocampista",
+      "apodo": "El Turco",
+      "periodo": "1993-1998",
+      "desc": "Mediocampista dinámico volcado al ataque y reconocido por su regate explosivo en la zona de tres cuartos. Quedó grabado en la gran memoria tras estelarizar un ineludible encuentro goleando contundentemente a Boca Juniors en 1998."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Daniel Vega",
+      "goles": 86,
+      "partidos": 243,
+      "periodo": "Era Moderna",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre Era Moderna."
+    },
+    {
+      "nombre": "Vicente Sayago",
+      "goles": 75,
+      "partidos": 206,
+      "periodo": "1948-1956",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1948-1956."
+    },
+    {
+      "nombre": "Tomás Campilongo",
+      "goles": 66,
+      "partidos": 169,
+      "periodo": "1939-1946",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 66 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1946."
+    },
+    {
+      "nombre": "Marcelo Espina",
+      "goles": 45,
+      "partidos": 160,
+      "periodo": "1983-1994",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1994."
+    },
+    {
+      "nombre": "Claudio Spontón",
+      "goles": 40,
+      "partidos": 150,
+      "periodo": "1990s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990s."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Enrique Topini",
+      "partidos": 324,
+      "periodo": "1960-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1970."
+    },
+    {
+      "nombre": "Juan C. Pizutti",
+      "partidos": 286,
+      "periodo": "1940-1950",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 286 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1940-1950."
+    },
+    {
+      "nombre": "Carlos Bulla",
+      "partidos": 250,
+      "periodo": "Años 70",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 250 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 70."
+    },
+    {
+      "nombre": "Daniel Vega",
+      "partidos": 243,
+      "periodo": "Era Moderna",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 243 partidos disputados, manteniendo presencia oficial ininterrumpida entre Era Moderna."
+    },
+    {
+      "nombre": "Sergio Zanetti",
+      "partidos": 235,
+      "periodo": "1990-2000",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 235 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2000."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ascensos y Segunda División Histórica",
+      "cantidad": 3,
+      "años": [
+        "1912",
+        "1976",
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Tercera División",
+      "cantidad": 2,
+      "años": [
+        "2006",
+        "2018"
+      ]
+    },
+    {
+      "nombre": "Primera División / Liga Profesional",
+      "cantidad": 1,
+      "anios": [
+        "2025"
+      ]
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Calamar",
+      "origen": "Acuñado en firme por el afamado escritor Julio Palacio Zino tras relatar los épicos acontecimientos de 1908. Observando cómo el plantel de jugadores embarrados caía asiduamente sobre el lodo oscuro a los costados del río bajo, exclamó que sus patinadas parecían de ciegos calamares hundiéndose en su oscura tinta."
+    }
+  ]
+}

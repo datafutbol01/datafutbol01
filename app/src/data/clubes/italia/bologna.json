@@ -1,0 +1,266 @@
+{
+  "id": "bologna",
+  "meta": {
+    "slug": "bologna"
+  },
+  "datos": {
+    "nombre_completo": "Bologna Football Club 1909 S.p.A.",
+    "sigla": "BOL",
+    "fundacion": "1909",
+    "apodo": "Los Felsineos, Los Rojiazules, Los Galgos",
+    "estadio_actual": "Stadio Renato Dall'Ara",
+    "estadio_apodo": "Il Littoriale",
+    "estadio_capacidad": 36462,
+    "estadio_inauguracion": "29 de mayo de 1927",
+    "estadio_lat": 44.4923,
+    "estadio_lng": 11.3099,
+    "estadio_direccion": "Via Andrea Costa 174, 40134 Bologna, Emilia-Romagna",
+    "socios": 14000,
+    "descripcion_corta": "Institución de la región de Emilia-Romaña que dominó el campeonato nacional italiano en la década de 1930, ostentando siete títulos de la Serie A.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#a21c26"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#1a2f4c"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Angelo Schiavio (251 goles)",
+      "mas_presencias": "Giacomo Bulgarelli (486 partidos)",
+      "mayor_goleada": "8-0 vs Triestina (1932)"
+    },
+    "nombre_oficial": "Bologna Football Club 1909",
+    "nombre_corto": "Bologna",
+    "escudo_actual": "/escudos_historicos/bologna/Bolognafc.svg"
+  },
+  "historia": [
+    {
+      "ano": "1909",
+      "hito": "Fundación en la Cervecería Ronzani",
+      "desc": "El arraigo del fútbol en la región de Emilia-Romaña nació al calor de la inmigración europea y las discusiones de bar. El 3 de octubre de 1909, en las mesas de la popular Cervecería Ronzani de la Vía Spaderie, el comerciante bohemio-austríaco Emilio Arnstein se reunió con estudiantes locales y expatriados para dar vida al Bologna Football Club. Arnstein ya había fundado clubes en Praga, pero fue el respaldo del estudiante boloñés Carlo Sandoni y del dentista suizo Louis Rauch (quien se erigió como el primer presidente) lo que cimentó el proyecto. Financiados por el abogado Guido Della Valle y vistiendo primitivas camisas rojas y azules heredadas del colegio suizo Schönberg de Rossbach, el equipo saltó a los Prados de Caprara para forjar una de las instituciones más tradicionales y dominantes de la Italia prebélica."
+    },
+    {
+      "ano": "1925",
+      "hito": "El Primer Scudetto de la Institución",
+      "desc": "Con el delantero Angelo Schiavio como figura central, el Bologna ganó su primer Campeonato Nacional superando al Genoa tras una disputada serie de partidos finales. La solidez del equipo provocó que la prensa nacional lo apodara 'el escuadrón que hace temblar al mundo'."
+    },
+    {
+      "ano": "1964",
+      "hito": "El Séptimo Scudetto en Partido de Desempate",
+      "desc": "Días después del fallecimiento del presidente Renato Dall'Ara, el Bologna conquistó su séptimo Scudetto al disputar el único partido de desempate en la historia moderna de la Serie A. El encuentro se jugó contra el Inter de Milán y finalizó 2-0 a favor de los emilianos."
+    },
+    {
+      "ano": "1998",
+      "hito": "Retorno a Competiciones Europeas",
+      "desc": "Bajo la influencia del mediapunta Roberto Baggio, quien logró cifras goleadoras destacadas en la temporada, el club mejoró su rendimiento después de años en divisiones inferiores. Conquistaron la Copa Intertoto, lo que les permitió reintegrarse en torneos continentales."
+    },
+    {
+      "ano": "2024",
+      "hito": "Regreso a la Champions League",
+      "desc": "Dirigido por Thiago Motta, el equipo alcanzó la quinta posición en la Serie A. Este rendimiento aseguró el retorno histórico del Bologna a la máxima competición de clubes de Europa (Champions League) tras seis décadas de ausencia."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Renato Dall'Ara",
+      "capacidad": "36.462",
+      "inauguracion": "29 de mayo de 1927",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Andrea%20Costa%20174%2C%2040134%20Bologna%2C%20Emilia-Romagna",
+      "direccion": "Via Andrea Costa 174, 40134 Bologna, Emilia-Romagna",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Il Littoriale."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1909,
+      "hasta": null,
+      "c1": "#00163b",
+      "c2": "#9e0014",
+      "sh": "#ffffff",
+      "me": "#00163b",
+      "tipo": "rayas-verticales",
+      "desc": "A lo largo de toda su historia documentada, el equipo emiliano ha competido portando líneas y rayas verticales azules y rojas emulando modelos formales originados de regiones británicas en las etapas fundacionales."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Angelo Schiavio",
+      "periodo": "1922-1938",
+      "pos": "Delantero",
+      "desc": "Máximo goleador histórico con 242 anotaciones. Artillero central del equipo que conquistó diversos títulos de Serie A durante la década de 1930."
+    },
+    {
+      "nombre": "Giacomo Bulgarelli",
+      "periodo": "1958-1975",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista histórico e indispensable capitán general. Ostenta sólidamente el máximo registro absoluto con cerca de 400 partidos de liga oficial en la posguerra."
+    },
+    {
+      "nombre": "Roberto Baggio",
+      "periodo": "1997-1998",
+      "pos": "Delantero",
+      "desc": "Legendario atacante italiano que en la temporada 1997 anotó un total de 22 goles para el equipo, estableciendo el mejor registro goleador de su carrera profesional liguera."
+    },
+    {
+      "nombre": "Marco Di Vaio",
+      "periodo": "2008-2012",
+      "pos": "Delantero",
+      "desc": "Experimentado delantero y capitán del plantel en la época moderna. Consiguió la marca de más de 60 goles durante cuatro temporadas seguidas en la Serie A."
+    },
+    {
+      "nombre": "Harald Nielsen",
+      "periodo": "1961-1967",
+      "pos": "Delantero",
+      "desc": "Delantero de origen danés. Finalizó como líder de goleo y consagró al plantel aportando goles durante el último campeonato liguero de 1964."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Angelo Schiavio",
+      "goles": 251,
+      "periodo": "1922-1938",
+      "partidos": 364,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 251 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922-1938."
+    },
+    {
+      "nombre": "Carlo Reguzzoni",
+      "goles": 168,
+      "periodo": "1930-1946",
+      "partidos": 417,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 168 goles en competiciones oficiales durante su trayectoria en el equipo entre 1930-1946."
+    },
+    {
+      "nombre": "Ezio Pascutti",
+      "goles": 142,
+      "periodo": "1955-1969",
+      "partidos": 344,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 142 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1969."
+    },
+    {
+      "nombre": "Gino Pivatelli",
+      "goles": 105,
+      "periodo": "1953-1960",
+      "partidos": 198,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1960."
+    },
+    {
+      "nombre": "Giuseppe Signori",
+      "goles": 84,
+      "periodo": "1998-2004",
+      "partidos": 178,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2004."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Giacomo Bulgarelli",
+      "partidos": 486,
+      "periodo": "1958-1975",
+      "goles": 58,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 486 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1958-1975."
+    },
+    {
+      "nombre": "Tazio Roversi",
+      "partidos": 459,
+      "periodo": "1963-1979",
+      "goles": 2,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 459 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1979."
+    },
+    {
+      "nombre": "Carlo Reguzzoni",
+      "partidos": 417,
+      "periodo": "1930-1946",
+      "goles": 168,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 417 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1930-1946."
+    },
+    {
+      "nombre": "Ivan Zatorri",
+      "partidos": 405,
+      "periodo": "1935-1950",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 405 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1935-1950."
+    },
+    {
+      "nombre": "Angelo Schiavio",
+      "partidos": 364,
+      "periodo": "1922-1938",
+      "goles": 251,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 364 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1922-1938."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 7,
+      "anios": [
+        "1924-25",
+        "1928-29",
+        "1935-36",
+        "1936-37",
+        "1938-39",
+        "1940-41",
+        "1963-64"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 2,
+      "anios": [
+        "1969-70",
+        "1973-74"
+      ]
+    },
+    {
+      "nombre": "Copa Mitropa",
+      "cantidad": 3,
+      "anios": [
+        "1932",
+        "1934",
+        "1961"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 2,
+      "anios": [
+        "1987-88",
+        "1995-96"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/bologna/Bologna-fc-1909-c.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/bologna/Logobologna2018.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/bologna/Bologna.webp"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos_historicos/bologna/Bologna-fc-1909-100-years-2009-.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/bologna/Bolognafc.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Rossoblù",
+      "origen": "Reconocidos por su contundente color dual masivo asiduo de pura faja impuesto estrictamente desde fundaciones de asambleas. Su pionero líder oficial dictaminó incansablemente de modo fáctico emular el ropaje listado a franjas verticales rojas cruzando tonos azules ciegos rindiendo asimilación exacta originando de tributo base a su asiduo y rústico primer formativo colegio histórico e originario suizo Schönberg."
+    },
+    {
+      "apodo": "I Felsinei",
+      "origen": "Referencia sociológica purísima asidua para acoplar el sólido arraigo fáctico civil sobre el histórico asentamiento geográfico y nativo del municipio originario medieval de base de la mismísima urbe y ciudad boloñesa. Honrando tributo a la historia originaria en península italiana, el rótulo masivamente derivado remite a los pioneros ancestrales e imponentes poblados civilizados netos formados bajo etruscos, conocidos bautizando al territorio original como llanura de Felsina."
+    }
+  ]
+}

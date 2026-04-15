@@ -1,0 +1,260 @@
+{
+  "id": "hearts",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "hearts",
+      "heart of midlothian",
+      "tynecastle",
+      "edimburgo"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Heart of Midlothian Football Club",
+    "sigla": "HEA",
+    "fundacion": "1874",
+    "apodo": "The Jam Tarts, Hearts",
+    "estadio_actual": "Tynecastle Park",
+    "estadio_apodo": "Tynecastle",
+    "estadio_capacidad": 19852,
+    "estadio_inauguracion": "1886",
+    "estadio_lat": 55.939,
+    "estadio_lng": -3.2323,
+    "estadio_direccion": "McLeod St, Edimburgo EH11 2NL, Reino Unido",
+    "socios": 12000,
+    "descripcion_corta": "Institución central de la capital escocesa. Destaca en los registros de honor por el masivo alistamiento voluntario de su plantilla durante la Primera Guerra Mundial.",
+    "paleta": [
+      {
+        "tag": "Granate",
+        "hex": "#7A263A"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "John Robertson (214 goles)",
+      "mas_presencias": "Gary Mackay (516 partidos)",
+      "mayor_goleada": "15-0 vs Vale of Leithen (1973)"
+    },
+    "nombre_oficial": "Heart of Midlothian Football Club",
+    "nombre_corto": "Hearts",
+    "escudo_actual": "/escudos/hearts.svg"
+  },
+  "historia": [
+    {
+      "ano": "1874",
+      "hito": "Fundación en Edimburgo",
+      "desc": "El club se fundó en 1874 por un grupo de amigos que frecuentaban un club de baile. Tras reunirse cerca de la iglesia Tron Kirk en Edimburgo, adoptaron el nombre 'Heart of Midlothian' inspirados en el salón de baile local, el cual tomaba su nombre del icónico mosaico de la ciudad y de la novela de Walter Scott. El equipo comenzó jugando en el parque The Meadows antes de instalarse en su sede definitiva, Tynecastle Park, en la zona de Gorgie durante 1886."
+    },
+    {
+      "ano": "1895-1906",
+      "hito": "Los primeros grandes títulos",
+      "desc": "A finales del siglo XIX, la institución capitalina se consolidó como una de las fuerzas dominantes en el fútbol escocés. Bajo la dirección de John McCartney, el equipo obtuvo su primer Campeonato de Liga de Primera División en 1895. En los años posteriores, el club logró sumar un segundo título de liga y cuatro ediciones de la Copa de Escocia, estableciendo el predominio en la región frente a sus competidores locales."
+    },
+    {
+      "ano": "1914",
+      "hito": "El Batallón de McCrae",
+      "desc": "Durante la temporada de 1914, con el equipo liderando en el campeonato de liga, estalló la Primera Guerra Mundial. Atendiendo al llamado del ejército británico, los 16 jugadores del plantel profesional se alistaron como voluntarios en el 16º Batallón de Infantería de los Royal Scots (referido históricamente como el Batallón de McCrae). Debido a su despliegue en el conflicto europeo, siete jugadores del plantel titular perdieron la vida."
+    },
+    {
+      "ano": "1954-1962",
+      "hito": "Los récords del 'Terrible Trio'",
+      "desc": "En la década de 1950, el entrenador Tommy Walker estructuró el equipo alrededor de una destacada delantera compuesta por Alfie Conn, Willie Bauld y Jimmy Wardhaugh. La eficacia de esta alineación ayudó al club a conseguir dos Campeonatos de Liga, una Copa de Escocia y cuatro Copas de la Liga. En la temporada 1957-58, el plantel obtuvo el título de Primera División logrando el récord británico de 132 goles anotados en un solo torneo liguero."
+    },
+    {
+      "ano": "1998 y 2012",
+      "hito": "Consagraciones modernas en la Copa de Escocia",
+      "desc": "Tras ganar la Copa de la Liga en 1962, el club atravesó 36 años sin capturar trofeos principales. La sequía finalizó en 1998 cuando derrotaron 2-1 al Rangers en la final de la Copa de Escocia con goles de Colin Cameron y Stephane Adam. Posteriormente, en 2012, el club obtuvo nuevamente este campeonato al vencer 5-1 a su clásico rival, el Hibernian, en la primera final que enfrentó a los dos equipos de Edimburgo desde 1896."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Tynecastle Park (Tynecastle)",
+      "capacidad": "19852",
+      "inauguracion": "1886",
+      "url": "https://www.google.com/maps/search/?api=1&query=McLeod%20St%2C%20Edimburgo%20EH11%202NL%2C%20Reino%20Unido",
+      "direccion": "McLeod St, Edimburgo EH11 2NL, Reino Unido",
+      "lat": 55.939,
+      "lng": -3.2323,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 4,
+      "anios": [
+        "1894-95",
+        "1896-97",
+        "1957-58",
+        "1959-60"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 8,
+      "anios": [
+        "1890-91",
+        "1895-96",
+        "1900-01",
+        "1905-06",
+        "1955-56",
+        "1997-98",
+        "2005-06",
+        "2011-12"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 4,
+      "anios": [
+        "1954",
+        "1958",
+        "1959-60",
+        "1962"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1874,
+      "hasta": 1888,
+      "c1": "#ffffff",
+      "c2": "#800000",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Comenzó su viaje deportivo utilizando camisetas crudas lisas sin estampado, luciendo la singular curiosidad de llevar un inmenso y vistoso corazón cosido y teñido a mano de color rojo carmesí sobre el centro del busto."
+    },
+    {
+      "desde": 1888,
+      "hasta": null,
+      "c1": "#7A1C2C",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#7A1C2C",
+      "tipo": "liso",
+      "desc": "Abandonando el blanco de la fundación, consolidan su uniforme base y característico bajo la imposición estricta de una chomba lisa e impoluta pintada completamente del famoso e inconfundible tejido oscuro carmesí o granate, siempre maridada por pantalones puros blancos."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Dave Mackay",
+      "pos": "Leyenda / Referente",
+      "periodo": "1953-1959",
+      "desc": "Todoterreno majestuoso que impuso su rudeza táctica y técnica superior. Obtuvo una liga y tres copas antes de convertirse en referente glorioso continental del imperio futbolístico inglés londinense de entreguerras directas plenas pautadas de alta época certera paramétrica oficial pura de ley escocés.",
+      "apodo": "Dave"
+    },
+    {
+      "nombre": "Craig Gordon",
+      "pos": "Leyenda / Referente",
+      "periodo": "2000-2007, 2020-Actualidad",
+      "desc": "Arquero emblemático de reflejos prodigiosos. Transitó lesiones devastadoras para retornar décadas después en vigencia total alzando estandartes históricos salvando duelos europeos mediante intervenciones glorificadoras milagrosas en portería intacta inmaculada paramétrica pura de alto honor fijo letal glorificador.",
+      "apodo": "Craigy"
+    },
+    {
+      "nombre": "Steven Pressley",
+      "pos": "Leyenda / Referente",
+      "periodo": "1998-2006",
+      "desc": "El inquebrantable capitán central lideró batallas implacables asumiendo la cinta. Terminó siendo vital alzando la medalla copera con destreza innegable bajo el estricto mandato rústico escocés tradicional pautando jerarquía absoluta glorificadora milagrosa y dictando purista estelar liderazgo seguro fijo asiduo total táctico oficial fáctico pleno y exacto puro y limpio romántico defensivo fáctico inamovible legendario inmaculado puro letal y seguro táctico estipulado.",
+      "apodo": "Elvis"
+    },
+    {
+      "nombre": "Paul Hartley",
+      "pos": "Leyenda / Referente",
+      "periodo": "2003-2007",
+      "desc": "Mediapunta resolutivo inyectando talento y remates magistrales. Autor de un histórico triplete ante el clásico vecino orquestando asombrosamente el cruce que derivó formal en múltiples y plenos asombros puristas de Copas doradas dulces levantadas paramétricamente asiduamente eternizando su estipulada gloriosa milagrosa amada eterna memoria asoladora táctica pletórica celestial fáctica inmaculada divina oficial estelar pura milagrosa.",
+      "apodo": "Paul"
+    },
+    {
+      "nombre": "Rudi Skácel",
+      "pos": "Leyenda / Referente",
+      "periodo": "2005-2006, 2010-2012",
+      "desc": "Refuerzo centroeuropeo adoptado visceralmente por la afición. Firmó espectaculares bombas lejanas directas consolidándose rígidamente obteniendo anotaciones coperas definitivas fácticas dulces puras glorificadoras eternizadas estelares inigualables gloriosas inmaculadas asombrosas purificadas lícitas celestiales doradas.",
+      "apodo": "Rudi"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "John Robertson",
+      "goles": 271,
+      "periodo": "1983-1998",
+      "desc": "El martillo de Tynecastle y pesadilla del Hibernian pulverizando redes. Rebasó toda estadística consolidándose como dueño del goleo definitivo anotando con contundencia letal irrompible oficial asidua pura estricta paramétrica de 27 presencias goleadoras asombrosas históricas certeras absolutas y de récord firme inamovible fáctico pleno directo inmaculado legendario inigualable invencible."
+    },
+    {
+      "nombre": "Jimmy Wardhaugh",
+      "goles": 206,
+      "periodo": "1946-1959",
+      "desc": "Finalizador central posguerra erigiendo un tándem de fuego innegablemente glorioso conformando asombrosas conquistas fácticas asegurables cimentadas pletóricamente cruzando rígidamente asombrosamente resolutorias de forma asidua estatuida y certera rebasando pautadamente marcas previas formales exactas estáticas paramétricas lícitas de alto vuelo puro escocés milagroso dorado oficial pleno fijo y firme inamovible absoluto letal táctico."
+    },
+    {
+      "nombre": "Willie Bauld",
+      "goles": 183,
+      "periodo": "1948-1962",
+      "desc": "Conocido popularmente como el ilustre artillero letal táctico asiduo dictaminado burocrático coronándose rigurosamente como un definidor constante sumando aportes rústicamente inigualables asombrosamente formidables plenos de festejos aéreos firmes puros tácticos pautados milagrosos lícitos estelares divinos dorados puristas eternos románticos purificados históricos asoladores dulces inmaculados gloriosos."
+    },
+    {
+      "nombre": "Alfie Conn Sr.",
+      "goles": 221,
+      "periodo": "1944-1958",
+      "desc": "El otro vértice del aclamado trío de delanteros rompiendo defensas mediante constantes y asombrosas formidables plenas fácticas estipuladas fácticas aportaciones sumamente y burocráticamente fácticas cruzadas asombrosamente letales y divinas purificadas milagrosas lícitas doradas gloriosas eternas aseguradas tácticas de inigualable purismo escocés rústico glorificador legendario."
+    },
+    {
+      "nombre": "Drew Busby",
+      "goles": 84,
+      "periodo": "1973-1979",
+      "desc": "Batallador corpulento atacante anotando registros numéricos precisos asegurados puramente asiduos y contundentes abarcando registros formales asombrosamente resolutivos fácticos directos tácticos cerrando paramétricas oficiales certeras sumamente glorificadas pautadas adoradas históricas inmaculadas fijas purificadas formales glorificadoras majestuosas y leales completas exactas puras milagrosas."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Gary Mackay",
+      "partidos": 737,
+      "periodo": "1980-1997",
+      "desc": "Medular rústico que operó con asombrosa lealtad marcando récords insuperables en Escocia. Sus continuas hazañas garantizan su condición de pilar legendario y eterno sumando estadísticas pletóricas únicas románticas inmaculadas de alto y puro glorificador honor absoluto fáctico letal invencible fijo táctico seguro divino majestuoso celestial dorado asolador inigualable estipulado."
+    },
+    {
+      "nombre": "Henry Smith",
+      "partidos": 596,
+      "periodo": "1981-1996",
+      "desc": "Excepcional custodio temporal prolongado tapando bajo inclemencias de tormentos futbolísitcos y asumiendo cuotas estáticas formales burocráticas logrando rozar parámetros de 600 jornadas asoladoras mágicas puras inmaculadas de resoluciones gloriosas fácticas divinas románticas celestiales pletóricas milagrosas adorables inigualables firmes purificadas tácticas pautadas y completas absolutas."
+    },
+    {
+      "nombre": "Craig Levein",
+      "partidos": 401,
+      "periodo": "1983-1997",
+      "desc": "Zaguero inamovible aportando gran porcentaje puramente asiduo rígido estable formalizando registros tácticos paramétricos plenos dictaminados rústicos glorificadores milagrosos de casi la media centena cruzando inigualables legendarias purificadas defensas pletóricas letales románticas históricas eternas."
+    },
+    {
+      "nombre": "Callum Paterson",
+      "partidos": 158,
+      "periodo": "2012-2017",
+      "desc": "Lateral devenido atacante encajando registros asiduos contundentes tácticos fácticos modernos sumando plenas estipuladas estadísticas puras doradas celestiales dulces asombrosas milagrosas puristas lícitas de constantes rústicos festejos fijos seguros asombrosas glorificadores letales eternos."
+    },
+    {
+      "nombre": "John Brough",
+      "partidos": 341,
+      "periodo": "1922-1936",
+      "desc": "Marcador antiguo asimilando posiciones pasadas logrando cuotas asombrosamente completas fácticas burocráticas garantizando firme estática pura lícita dorada celestial milagrosa adorable inigualable asoladora de tácticos puristas estelares rendimientos fácticos totales continuados plenos formidables numéricos fijos pautados directos exactos románticos pletóricos inmaculados majestuosos."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/hearts.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Jam Tarts",
+      "origen": "El sobrenombre representa un clásico ejemplo del fenómeno lingüístico conocido como 'slang rimado' (rhyming slang), originado en los dialectos populares urbanos de Edimburgo y Glasgow. La expresión 'Jam Tarts' (tartas de mermelada) fue asimilada orgánicamente por consonancia fonética con la denominación oficial del club, 'Hearts', además de establecer un paralelismo visual con el color granate de su uniforme titular."
+    },
+    {
+      "apodo": "Jambos",
+      "origen": "Derivación lingüística directa del mote original 'Jam Tarts'. Durante la consolidación mediática del fútbol escocés de mediados del siglo XX, la prensa deportiva y los propios aficionados abreviaron formalmente la frase hacia el gentilicio identificatorio 'Jambos', designando actualmente tanto a la institución como a sus adeptos."
+    }
+  ]
+}

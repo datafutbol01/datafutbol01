@@ -1,0 +1,272 @@
+{
+  "id": "atletico-tucuman",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "norte",
+      "tucuman",
+      "decano",
+      "pulga"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Tucumán",
+    "sigla": "CAT",
+    "fundacion": "27 de septiembre de 1902",
+    "apodo": "El Decano, Los Gigantes del Norte",
+    "estadio_actual": "Monumental José Fierro",
+    "estadio_apodo": "El Gigante del Norte, El Monumental",
+    "estadio_capacidad": 35200,
+    "estadio_inauguracion": "1922-05-21",
+    "estadio_lat": -26.8166,
+    "estadio_lng": -65.1977,
+    "estadio_direccion": "25 de Mayo y Chile, San Miguel de Tucumán",
+    "socios": 42000,
+    "descripcion_corta": "Institución polideportiva con sede en San Miguel de Tucumán. Fundada en 1902, es el club activo de fútbol más antiguo del Norte de Argentina, motivo por el cual es conocido como 'El Decano'. Se destaca por su popularidad regional y por sus recientes participaciones en certámenes continentales como la Copa Libertadores.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#64AEE5"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "10-0 a Los Andes (Regional 1980)",
+      "maximo_goleador": "Luis Miguel Rodríguez (130 goles)",
+      "mas_presencias": "Francisco Ruiz (375 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1902",
+      "hito": "Decano fundacional en Calle 25 de Mayo",
+      "desc": "Siendo irrefutable institución pionera referencial del entorno formativo futbolero de todo el norte argentino central, el acto asambleísta y protocolar se realizó en una casona céntrica tucumana de la arteria oficial de la calle 25 de Mayo en el atardecer general del 27 de septiembre del ciclo anual de 1902. El núcleo directriz principal fue encabezado firme por la determinación burocrática referencial originaria y organizativa de la presidencia asamblearia fundacional recaída por Agenor Albornoz."
+    },
+    {
+      "ano": "1960",
+      "hito": "El Campeonato Anual de Campeones de la República",
+      "desc": "Enmarcando legalmente la fortaleza imbatible ostentada contundentemente por las representaciones de cuadros norteños e interior argentino de entonces frente el centralismo clásico porteño metropolitano capitalino, el combinado afianzó de manera triunfante de principio al fin obteniendo rotundo campeonato con final lícita avalada triunfante venciendo de local por la competencia frente de local formal y oficial frente el combinado digno y fuerte valiente santafesino 'El Quequén' obteniendo rotundos una avalada Copa Nacional."
+    },
+    {
+      "ano": "2017",
+      "hito": "Primer plano en la máxima escala de Libertadores",
+      "desc": "Abriéndose por mérito y rendimiento consolidado lugar oficial en contiendas transfronterizas máximas continentales, el equipo de Ricardo Zielinski consolidó de forma estoica incursiones notables sobre difíciles paradas externas lícitas de altura frente a combinados de Quito sufriendo inconvenientes y eventuales contingencias burocráticas letales solventadas logísticamente sobre indumentarias de emergencia cedidas por la selección Argentina obteniendo contundentes clasificaciones internacionales superadoras a sus fases máximas de torneo superior sudamericano."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Gimnasio Belgrano",
+      "direccion": "Avenida Belgrano, San Miguel de Tucumán",
+      "desde": 1902,
+      "hasta": 1922,
+      "estado": "Histórico",
+      "obs": "Primer predio utilizado por la institución durante las primeras dos décadas del siglo XX, vital para la etapa amateur formativa.",
+      "lat": -26.8104,
+      "lng": -65.1906,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Belgrano%2C%20San%20Miguel%20de%20Tucum%C3%A1n"
+    },
+    {
+      "nombre": "Estadio Monumental José Fierro",
+      "direccion": "25 de Mayo y Chile, San Miguel de Tucumán",
+      "desde": 1922,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado en 1922 bajo el nombre 'El Grand Stadium' y rebautizado posteriormente en honor a su fundador José Fierro. Es el recinto principal de la provincia y reconocido históricamente por la presión y cercanía de sus gradas.",
+      "lat": -26.8166,
+      "lng": -65.1977,
+      "url": "https://www.google.com/maps/search/?api=1&query=25%20de%20Mayo%20y%20Chile%2C%20San%20Miguel%20de%20Tucum%C3%A1n"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1902,
+      "hasta": 1903,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camisa rústica alba plana inmaculada oficial germinal dictaminada antes de adquirir lotes británicos de colores definitivos."
+    },
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#7eafdb",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Consagración de los y bastones verticales finos paralelos emulando firmemente en tributo exacto a la bandera patria oficial argentina nacional."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Luis Miguel Rodríguez",
+      "pos": "Delantero / Enganche",
+      "apodo": "Pulga",
+      "periodo": "2005-2010, 2011-2018",
+      "desc": "Conocido como 'El Pulga', es el máximo representante contemporáneo del club. Lideró al equipo desde las categorías de ascenso hasta la disputa de la final de la Copa Argentina y la Copa Libertadores."
+    },
+    {
+      "nombre": "Ricardo Zielinski",
+      "pos": "Director Técnico",
+      "apodo": "El Ruso",
+      "periodo": "2017-2020",
+      "desc": "Director técnico emblemático que consolidó al equipo en la máxima categoría del fútbol argentino de forma estable. Bajo su conducción, el plantel logró históricas clasificaciones continentales."
+    },
+    {
+      "nombre": "Cristian Lucchetti",
+      "pos": "Arquero",
+      "apodo": "El Laucha",
+      "periodo": "2012-2021",
+      "desc": "Experimentado guardameta y capitán durante las últimas décadas. Resultó fundamental para mantener la categoría en reiteradas campañas y capitanear los planteles en torneos sudamericanos."
+    },
+    {
+      "nombre": "Julio Ricardo Villa",
+      "pos": "Mediocampista",
+      "apodo": "Ricky",
+      "periodo": "1974-1976",
+      "desc": "Director técnico emblemático que consolidó al equipo en la máxima categoría del fútbol argentino de forma estable. Bajo su conducción, el plantel logró históricas clasificaciones continentales."
+    },
+    {
+      "nombre": "Víctor Palomba",
+      "pos": "Mediocampista",
+      "apodo": "El Víctor",
+      "periodo": "1972-1982",
+      "desc": "Referente histórico y goleador de la institución durante la época de esplendor del equipo en los antiguos certámenes Nacionales, liderando el fútbol tucumano frente a rivales de todo el país."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Luis Miguel Rodríguez",
+      "goles": 130,
+      "partidos": 310,
+      "periodo": "2005-2018",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 130 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2018."
+    },
+    {
+      "nombre": "Santiago Michal",
+      "goles": 121,
+      "partidos": 204,
+      "periodo": "Años 1940s-1950s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 121 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 1940s-1950s."
+    },
+    {
+      "nombre": "Luciano E. Ibáñez",
+      "goles": 92,
+      "partidos": 160,
+      "periodo": "1980s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 92 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980s."
+    },
+    {
+      "nombre": "Héctor Carlos",
+      "goles": 84,
+      "partidos": 160,
+      "periodo": "1960s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960s."
+    },
+    {
+      "nombre": "Héctor Carlos Álvarez",
+      "goles": 54,
+      "nota": "1999-2005",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre su paso por la institución."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Francisco Ruiz",
+      "partidos": 375,
+      "periodo": "1970-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 375 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1982."
+    },
+    {
+      "nombre": "Guillermo Acosta",
+      "partidos": 352,
+      "periodo": "2013-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 352 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2024."
+    },
+    {
+      "nombre": "Luis Miguel Rodríguez",
+      "partidos": 310,
+      "periodo": "2005-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2018."
+    },
+    {
+      "nombre": "Javier Alejandro Páez",
+      "partidos": 241,
+      "periodo": "2000-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 241 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000-2010."
+    },
+    {
+      "nombre": "Martín Granero",
+      "partidos": 221,
+      "periodo": "2002-2011",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 221 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2011."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Primera B Nacional / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "2009",
+        "2015"
+      ]
+    },
+    {
+      "nombre": "Torneo Argentino A / Tercera División",
+      "cantidad": 1,
+      "años": [
+        "2008"
+      ]
+    },
+    {
+      "nombre": "Ligas Tucumanas Regionales",
+      "cantidad": 21,
+      "años": [
+        "Historial Completo Desde 1920"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/atletico-tucuman/atletico-tucuman_1980_web.png"
+    },
+    {
+      "ano": "2003",
+      "url": "/escudos_historicos/atletico-tucuman/atletico-tucuman_2003_web.png"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos_historicos/atletico-tucuman/atletico-tucuman_2015_web.png"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos/historicos/atletico-tucuman/Logo_del_Club_Atlético_Tucumán_-_2015.svg"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos_historicos/atletico-tucuman/atletico-tucuman_2017_web.png"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos/historicos/atletico-tucuman/Logo_del_Club_Atlético_Tucumán_-_2017.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/atletico-tucuman.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Decano",
+      "origen": "Surge del registro estadístico pionero. El apodo lo posiciona oficialmente como la primera asociación forjada y formada legalmente para practicar fútbol a través de toda la región norte del país en el año 1902."
+    }
+  ]
+}

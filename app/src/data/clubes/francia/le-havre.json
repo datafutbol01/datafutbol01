@@ -1,0 +1,242 @@
+{
+  "id": "le-havre",
+  "meta": {
+    "slug": "le-havre"
+  },
+  "datos": {
+    "nombre_completo": "Le Havre AC",
+    "nombre_oficial": "Le Havre AC",
+    "nombre_corto": "Le Havre",
+    "apodo": "Le HAC, Les Ciel et Marine",
+    "fundacion": "1872",
+    "estadio_actual": "Stade Océane",
+    "presidente": "Jean-Michel Roussier",
+    "entrenador": "Luka Elsner",
+    "estadio_capacidad": "25.178",
+    "estadio_inauguracion": "2012",
+    "estadio_direccion": "Blvd de Léningrad, 76600 Le Havre, Francia",
+    "estadio_lat": 49.4994,
+    "estadio_lng": 0.1683,
+    "sigla": "HAC",
+    "socios": 11000,
+    "descripcion_corta": "El club atlético documentado y certificado oficialmente en los estatutos nacionales como la entidad formal en actividad formativa más antigua del país dictaminada.",
+    "paleta": [
+      {
+        "tag": "Azul Cielo",
+        "hex": "#5D9BCE"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#002B5C"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jean-Pierre Delaunay (88 goles)",
+      "mas_presencias": "Alexandre Bonnet (486 partidos)",
+      "mayor_goleada": "7-0 vs Sète (1951)"
+    },
+    "estadio_apodo": "Le HAC",
+    "escudo_actual": "/escudos/le-havre.svg"
+  },
+  "historia": [
+    {
+      "ano": "1894",
+      "hito": "Los Pioneros Decanos Británicos del Fútbol Galo",
+      "desc": "Considerado la matriz y pilar absoluto innegociable de todo el fútbol de Francia. A los márgenes estriados navieros del canal de la Mancha, el Le Havre Athletic Club fue forjado oficialmente bajo el rigor en 1894 como evolución de un club de cricket precedente gracias al reverendo puramente inglés F.F. Langstaff. Obreros británicos instalados en el puerto importaron férreamente las clásicas reglas originarias de Cambridge para organizar la primera base futbolística gala pintada imponentemente a dos y originales formalidades de míticos tonos celeste Oxford y estricto marino origen Cambridge."
+    },
+    {
+      "ano": "1959",
+      "hito": "Doble Éxito Nacional (Segunda y Copa de Francia)",
+      "desc": "Compitiendo en Segunda División, el Le Havre se consagró campeón de la Copa de Francia al vencer en el replay al Sochaux por 3-0, además de conseguir el ascenso a Primera el mismo año."
+    },
+    {
+      "ano": "1985",
+      "hito": "Retorno a la Máxima Categoría",
+      "desc": "Tras pasar varias décadas disputando los torneos de la segunda y tercera categoría del fútbol francés, la institución aseguró matemáticamente su retorno a la primera división."
+    },
+    {
+      "ano": "2012",
+      "hito": "Inauguración del Stade Océane",
+      "desc": "El club concretó el cierre oficial de su antiguo recinto, el Stade Jules-Deschaseaux, para trasladarse a su nuevo estadio municipal con capacidad para 25 mil espectadores."
+    },
+    {
+      "ano": "2023",
+      "hito": "Ascenso como Campeón de Ligue 2",
+      "desc": "El club sumó 75 puntos en la temporada en el torneo de ascenso y logró volver a la Ligue 1 como campeón de la categoría bajo la conducción del entrenador Luka Elsner."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Jules-Deschaseaux",
+      "capacidad": "16.382",
+      "inauguracion": "1932",
+      "desde": "1932",
+      "hasta": "2012",
+      "direccion": "33 Rue du Commandant Abadie, 76620 Le Havre, Francia",
+      "lat": 49.5008,
+      "lng": 0.1691,
+      "obs": "Antiguo recinto del equipo y sede durante la Copa del Mundo de 1938.",
+      "url": "https://www.google.com/maps/search/?api=1&query=33%20Rue%20du%20Commandant%20Abadie%2C%2076620%20Le%20Havre%2C%20Francia"
+    },
+    {
+      "nombre": "Stade Océane",
+      "capacidad": "25.178",
+      "inauguracion": "2012",
+      "desde": "2012",
+      "hasta": "",
+      "direccion": "Blvd de Léningrad, 76600 Le Havre, Francia",
+      "lat": 49.4994,
+      "lng": 0.1683,
+      "obs": "Infraestructura ultramoderna de exterior azul diseñada para cumplir protocolos UEFA.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Blvd%20de%20L%C3%A9ningrad%2C%2076600%20Le%20Havre%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1884,
+      "hasta": null,
+      "c1": "#5c9ed5",
+      "c2": "#000040",
+      "sh": "#000040",
+      "me": "#5c9ed5",
+      "tipo": "mitad-vertical",
+      "desc": "Mitades celestes y azul marino oscura. Nace de los colores de las universidades de Cambridge y Oxford de los fundadores ingleses."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Christophe Revault",
+      "periodo": "1992-2010",
+      "pos": "Arquero",
+      "desc": "Histórico guardameta portador oficial del brazalete. Registró la principal marca como el futbolista con mayor suma de presencias y defensas institucionales."
+    },
+    {
+      "nombre": "Vikash Dhorasoo",
+      "periodo": "1993-1998",
+      "pos": "Mediocampista",
+      "desc": "Dinámico mediocentro organizativo de amplio talento. Se consolidó como titular formativo originario en el centro logrando destacadas campañas ligueras formidables."
+    },
+    {
+      "nombre": "Guillaume Hoarau",
+      "periodo": "2004-2008",
+      "pos": "Delantero",
+      "desc": "Centrodelantero veloz formador titular. En su última temporada formadora en el club finalizó liderando estadísticamente la tabla anotadora obteniendo ascensos."
+    },
+    {
+      "nombre": "Riyad Mahrez",
+      "periodo": "2010-2014",
+      "pos": "Delantero",
+      "desc": "Extremo franco-argelino de excelente técnica regateadora. Conquistó en esta institución sus primeras titularidades profesionales afianzándose formador victorioso estable."
+    },
+    {
+      "nombre": "Ibrahim Ba",
+      "periodo": "1991-1996",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo logrando firmes desempeños inamovibles. Surgió de la reserva consolidándose a nivel formativa logrando destacadas cifras asertivas absolutas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jean-Michel Lesage",
+      "goles": 73,
+      "periodo": "1998-2009",
+      "partidos": 230,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 73 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2009."
+    },
+    {
+      "nombre": "Kandia Traoré",
+      "goles": 30,
+      "periodo": "2005-2007",
+      "partidos": 78,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 30 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2007."
+    },
+    {
+      "nombre": "Guillaume Hoarau",
+      "goles": 28,
+      "periodo": "2004-2008",
+      "partidos": 83,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2008."
+    },
+    {
+      "nombre": "Walid Mesloub",
+      "goles": 23,
+      "periodo": "2010-2014",
+      "partidos": 125,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 23 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2014."
+    },
+    {
+      "nombre": "Tino Kadewere",
+      "goles": 20,
+      "periodo": "2018-2020",
+      "partidos": 43,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2020."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alexandre Bonnet",
+      "partidos": 321,
+      "periodo": "2009-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 321 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2022."
+    },
+    {
+      "nombre": "Victor Lekhal",
+      "partidos": 231,
+      "periodo": "2014-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 231 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2023."
+    },
+    {
+      "nombre": "Jean-Michel Lesage",
+      "partidos": 230,
+      "periodo": "1998-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 230 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2009."
+    },
+    {
+      "nombre": "Christophe Revault",
+      "partidos": 187,
+      "periodo": "2007-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 187 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2010."
+    },
+    {
+      "nombre": "Arouna Sangante",
+      "partidos": 80,
+      "periodo": "2021-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 80 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2021-2024."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 1,
+      "anios": [
+        "1959"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/le-havre/LeHavreancien.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/le-havre/LeHavreancien2.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/le-havre/Havre_Athletic_Club_logo_(Salamander).svg"
+    },
+    {
+      "ano": "2005",
+      "url": "/escudos_historicos/le-havre/Le_Havre_logo_(until_2005).svg"
+    },
+    {
+      "ano": "2005-2012",
+      "url": "/escudos_historicos/le-havre/Le_Havre_logo_(2005-2012).svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/le-havre.svg"
+    }
+  ]
+}

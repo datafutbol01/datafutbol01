@@ -1,0 +1,233 @@
+{
+  "id": "getafe",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "getafe",
+      "azulones"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Getafe Club de Fútbol",
+    "sigla": "GET",
+    "fundacion": "8 de julio de 1983",
+    "apodo": "Azulones",
+    "estadio_actual": "Coliseum",
+    "estadio_apodo": "",
+    "estadio_capacidad": 16500,
+    "estadio_inauguracion": "1998",
+    "estadio_lat": 40.3255,
+    "estadio_lng": -3.7147,
+    "estadio_direccion": "Av. Teresa de Calcuta, s/n, 28903 Getafe, Madrid",
+    "socios": 11500,
+    "descripcion_corta": "Corporación inserta de la urbe del sur del núcleo residencial de la capital.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "5-1 a Sevilla",
+      "maximo_goleador": "Manu del Moral",
+      "mas_presencias": "Damián Suárez (295 partidos)"
+    },
+    "nombre_corto": "Getafe CF"
+  },
+  "historia": [
+    {
+      "ano": "1983",
+      "hito": "Refundación del Getafe Club de Fútbol",
+      "desc": "En pleno corazón del arrabal proletario y del resistente cinturón sur de Madrid, el colapso financiero amenazaba con exterminar al fútbol local en 1983. Ante las cenizas desgarradoras del antiguo e histórico Club Getafe Deportivo, la tristeza popular no detuvo la fuerza obrera. El calor y el aroma de la legendaria taberna 'Peña Morate' sirvió como guarida insurreccional. Allí, en una trinchera cubierta de aserrín y pasiones rotas, un grupo de hinchas de clase trabajadora liderados ciegamente por Antonio de Miguel, el perseverante Enrique Fanjul y el salvador y exalcalde municipal Jesús Prieto, firmaron un acta precaria pero dotada de amor incesable el caluroso 8 de julio de 1983. Refundaron completamente de la nada, con los bolsillos pelados, al moderno 'Getafe Club de Fútbol'. Arrastrando escudos heráldicos cubiertos de polvo, forjaron un club espartano partiendo exactamente desde el fondo infernal e invisible amateur madrileño, destrozando barreras a sangre hasta codearse contra los transatlánticos europeos enfundados en esa armadura azulina insoslayable e innegociable."
+    },
+    {
+      "ano": "2004",
+      "hito": "Tenerife y el Boleto a la Élite",
+      "desc": "Manejados por la bota goleadora de Michel, con Pachón sellando el mito con varios goles dorados en Tenerife, el EuroGeta aterrizaba sin billete de retorno y por primera vez en la máxima categoría del fútbol ibérico."
+    },
+    {
+      "ano": "2007",
+      "hito": "El Inviernazo de Baviera y la Epopeya de Copa",
+      "desc": "Alcanzó su primera final de Copa del Rey reescribiendo la historia con un histórico 4-0 ante el Barça en semifinales. Su vuelo continuaría al año siguiente enfrentando al enorme Bayern Munich por Europa."
+    },
+    {
+      "ano": "2008",
+      "hito": "La Segunda Final Coperas y La Rabia",
+      "desc": "Se consolidó oficialmente y para sorpresa del establishment futbolero, plantándose en su segunda gran final de Copa del Rey consecutiva, consolidando el mote del legendario 'EuroGeta'."
+    },
+    {
+      "ano": "2019",
+      "hito": "El Muro de Bordalás Regresa a Europa",
+      "desc": "Imponiendo la ley espartana de Pepe Bordalás en cada césped, el club azulón se apoderó de España finalizando 5to y metiéndose a Europa con un equipo correoso que enamoró al municipio por su entrega incesante."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Coliseum",
+      "capacidad": "16.500",
+      "inauguracion": "1998",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Teresa%20de%20Calcuta%2C%20s%2Fn%2C%2028903%20Getafe%2C%20Madrid",
+      "direccion": "Av. Teresa de Calcuta, s/n, 28903 Getafe, Madrid",
+      "descripcion": "Rudo y feroz coliseo del sur de Madrid, la pista forjadora de los sueños europeos de la armada azulona."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1946,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#000080",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Cimentando e el azul liso intenso y regio de las bases obreras para dominar y dictatorial como aguerridos legendarios puristas eternos azulones la llanura madrileña industrial divina."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Manu del Moral",
+      "periodo": "2006-2011",
+      "pos": "Delantero",
+      "desc": "Delantero que se mantuvo durante largos años como el máximo anotador histórico del club en Primera División."
+    },
+    {
+      "nombre": "Gabi",
+      "periodo": "2004-2005",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista defensivo que fue titular durante la histórica campaña del club en la Copa de la UEFA 2008."
+    },
+    {
+      "nombre": "Sergio Pachón",
+      "periodo": "2003-2007",
+      "pos": "Delantero",
+      "desc": "Atacante que anotó cuatro goles en el partido final de la temporada asegurando el histórico primer ascenso del club a Primera."
+    },
+    {
+      "nombre": "Abbondanzieri",
+      "periodo": "2006-2009",
+      "pos": "Arquero",
+      "desc": "Arquero argentino que obtuvo el Trofeo Zamora como el arco menos vencido de Primera División de España en 2007."
+    },
+    {
+      "nombre": "Jaime Gavilán",
+      "periodo": "2007-2014",
+      "pos": "Mediocampista",
+      "desc": "Extremo que asumió la titularidad superando un centenar de partidos en la máxima categoría del fútbol español."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jorge Molina",
+      "goles": 52,
+      "periodo": "2016-2020",
+      "partidos": 163,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2020."
+    },
+    {
+      "nombre": "Ángel Rodríguez",
+      "goles": 46,
+      "periodo": "2017-2021",
+      "partidos": 153,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2021."
+    },
+    {
+      "nombre": "Enes Ünal",
+      "goles": 38,
+      "periodo": "2020-2024",
+      "partidos": 109,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2024."
+    },
+    {
+      "nombre": "Manu del Moral",
+      "goles": 37,
+      "periodo": "2006-2011",
+      "partidos": 159,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 37 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2011."
+    },
+    {
+      "nombre": "Casquero",
+      "goles": 21,
+      "periodo": "2006-2012",
+      "partidos": 190,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 21 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Djené Dakonam",
+      "partidos": 275,
+      "periodo": "2017-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 275 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2024."
+    },
+    {
+      "nombre": "Cata Díaz",
+      "partidos": 237,
+      "periodo": "2007-2012",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 237 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2012."
+    },
+    {
+      "nombre": "Casquero",
+      "partidos": 190,
+      "periodo": "2006-2012",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 190 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2012."
+    },
+    {
+      "nombre": "Jaime Gavilán",
+      "partidos": 184,
+      "periodo": "2007-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 184 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2014."
+    },
+    {
+      "nombre": "David Soria",
+      "partidos": 211,
+      "periodo": "2018-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 211 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2024."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Segunda División B",
+      "cantidad": 1,
+      "anios": [
+        "1998-99"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/getafe/Getafe_CF_1982.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/getafe/Getafe_CF_1983.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/getafe/Getafe_CF_1996.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/getafe/Getafe_CF_2003.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/getafe/Getafe.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/getafe.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Azulones",
+      "origen": "Otorgado orgánicamente luego del proceso base de fusión definitiva e histórica que aglutinó diversas asociaciones o bases equipos barriales en la de y del madrileño origen sur municipal de los albores de los ochentas en Getafe. Tras nacer la base sólida originaria oficial corporativa e imponente textualmente local oficial incautante puro del general Madrid se y optó incesantemente por dejar base atrás puros formales otros puros colores adoptando general la monocromática ropas oficial puristas de de los pantalones e formales camisas a puro general oficial general un único e ininterrumplida fáctica azul de base naviera purista o base marino ineludible textualmente."
+    }
+  ]
+}

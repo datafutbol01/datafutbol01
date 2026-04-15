@@ -1,0 +1,335 @@
+{
+  "id": "brentford",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "londres",
+      "the bees"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Brentford Football Club",
+    "sigla": "BRE",
+    "fundacion": "10 de octubre de 1889",
+    "apodo": "The Bees",
+    "estadio_actual": "Gtech Community Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 17250,
+    "estadio_inauguracion": "2020",
+    "estadio_lat": 51.4906,
+    "estadio_lng": -0.2889,
+    "estadio_direccion": "Lionel Rd S, Brentford TW8 0RU",
+    "socios": 40000,
+    "descripcion_corta": "Histórico club del oeste de Londres fundado curiosamente por miembros de un club de remo en 1889. Tras jugar más de un siglo en su tradicional estadio de Griffin Park, el equipo logró alcanzar su punto máximo ascendiendo a la Premier League en 2021 liderando una absoluta revolución deportiva global basada en el uso de modelos científicos (Big Data) e inteligencia estadística para evaluar rendimientos y fichar talentos.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Amarillo Borde",
+        "hex": "#FFB81C"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-0 a Wrexham (Octubre 1963)",
+      "maximo_goleador": "Jim Towers (163 goles)",
+      "mas_presencias": "Ken Coote (559 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1889",
+      "hito": "Fundación en el pub Oxford & Cambridge",
+      "desc": "El 10 de octubre de 1889, un ansioso grupo de remeros de la asociación naval 'Brentford Rowing Club' se reunió en el pub del hotel Oxford & Cambridge (ubicado junto al puente de Kew Múltiple) buscando desesperadamente un deporte de invierno para mantenerse en forma de manera colectiva mientras las gélidas aguas del río Támesis estuvieran congeladas. Tras una reñida y acalorada asamblea nocturna donde desestimaron jugar al rugby, votaron formar un equipo de fútbol asumiendo al señor J.J. Kynaston como su primer presidente fundacional. Durante sus primeros catorce años mantuvieron su estatus totalmente amateur, alquilando campos prestados en el condado antes de dar el salto."
+    },
+    {
+      "ano": "1904-1920",
+      "hito": "El mítico Griffin Park y la profesionalización",
+      "desc": "Buscando un hogar definitivo para sus aficionados, en 1904 los directivos firmaron un contrato de concesión agrícola sobre un inmenso huerto frutal que pertenecía a la histórica y famosa cervecería londinense Fuller, Smith & Turner. Allí construyeron y levantaron el célebre Griffin Park, un estadio mundialmente conocido porque ostentaba un pintoresco e irrepetible récord arquitectónico: tenía un pub oficial de cerveza operando en cada una de sus cuatro esquinas callejeras. La inmensa afluencia y el arraigo vecinal fortalecieron velozmente las arcas del club, permitiéndoles convertirse en profesionales y ser rápidamente aceptados para disputar el torneo liguero nacional en 1920."
+    },
+    {
+      "ano": "1930-1946",
+      "hito": "Apogeo absoluto con Harry Curtis en Primera",
+      "desc": "El periodo previo al estallido bélico mundial fue la verdadera 'época de oro' del club gracias a la genialidad táctica de su mánager, el inglés Harry Curtis. Aplicando audaces formaciones ofensivas y apoyándose en el talento de habilidosos refuerzos escoceses importados al sur del país, Curtis logró fantásticos ascensos sucesivos y llevó a la institución a debutar por todo lo alto en la Primera División de Inglaterra. Su punto culminante llegaría con la conquista de un fabuloso e inesperado quinto lugar general a nivel nacional, tuteándose contra todos los grandes gigantes deportivos de la isla."
+    },
+    {
+      "ano": "1947-2009",
+      "hito": "Deudas, agonía y exilio en el ascenso bajo",
+      "desc": "Con el cese de las hostilidades y el retorno a la paz en 1946, el club se hundió en una espiral autodestructiva irremediable. Las deudas gigantes, la pobre infraestructura y directivos nefastos arrastraron al equipo hacia múltiples descensos dramáticos hasta caer al oscuro y violento sótano de la Cuarta División. Sobreviviendo a colectas entre sus humildes fieles para poder evitar la liquidación bancaria y la desaparición corporativa de la franquicia, el club naufragó durante largas y dolorosas décadas por los torneos del inframundo futbolístico británico sin recursos para regresar a la cúspide."
+    },
+    {
+      "ano": "2012-Actualidad",
+      "hito": "La revolución científica del Moneyball",
+      "desc": "En 2012, el equipo fue adquirido por Matthew Benham, un frío y excéntrico millonario surgido del mundo de las apuestas deportivas que decidió erradicar las metodologías normales aplicadas por otros presidentes. Benham instaló modelos matemáticos hiper-complejos (Big Data) e inteligencia predictiva computarizada para evaluar estadísticamente a jugadores descartables que terminaron siendo estrellas abrumadoras. Apoyado desde el banquillo por el metódico estratega danés Thomas Frank, el experimento funcionó con una abrumadora precisión, estrenando el flamante estadio 'Gtech Community Stadium' y logrando el soñado retorno a la poderosa Premier League en 2021 al batir al Swansea."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Clifden House Ground",
+      "direccion": "Clifden Rd, Brentford TW8",
+      "desde": 1889,
+      "hasta": 1891,
+      "estado": "Histórico",
+      "obs": "Terreno primario escolar sin graderías formales empleado estrictamente por requerimiento de la entidad para el cumplimiento reglado de los primeros amistosos de etapa deportiva amateur.",
+      "lat": 51.488611,
+      "lng": -0.301389,
+      "url": "https://www.google.com/maps/search/?api=1&query=Clifden%20Rd%2C%20Brentford%20TW8"
+    },
+    {
+      "nombre": "Griffin Park",
+      "direccion": "Braemar Rd, Brentford TW8 0NT",
+      "desde": 1904,
+      "hasta": 2020,
+      "estado": "Histórico",
+      "obs": "Estadio principal oficial del club por más de un siglo. Connotado operativamente nivel mundial por su rasgo inusual de integrar estructuralmente la habilitación inamovible de cuatro pubs independientes, uno por esquina territorial.",
+      "lat": 51.488333,
+      "lng": -0.3025,
+      "url": "https://www.google.com/maps/search/?api=1&query=Braemar%20Rd%2C%20Brentford%20TW8%200NT"
+    },
+    {
+      "nombre": "Gtech Community Stadium",
+      "direccion": "Lionel Rd S, Brentford TW8 0RU",
+      "desde": 2020,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inmueble actual centralizado y moderno sustituto, emplazado a corta distancia en Kew Bridge con esquemas y normativas formales sustentables y de reubicación comercial logística para las emisiones.",
+      "lat": 51.4906,
+      "lng": -0.2889,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lionel%20Rd%20S%2C%20Brentford%20TW8%200RU"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1889,
+      "hasta": 1925,
+      "c1": "#000080",
+      "c2": "#cc0000",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "franja-horizontal",
+      "desc": "Bajo la oscura niebla fluvial trazaron inquebrantables suéteres crudos y marineros provistos majestuosamente con puristas rayas horizontales bicolores náuticas gruesas."
+    },
+    {
+      "desde": 1925,
+      "hasta": null,
+      "c1": "#cc0000",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Asiento poético legendario al clásico formato de ceñidas y finas rayas verticales rojas y albas, ganándose por esta fáctica apariencia el alias popular que los liga poéticamente a un enjambre punzante apicultor (Abejas)."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ken Coote",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1949-1964",
+      "desc": "Defensor versátil con el mayor registro de presencias oficiales en la historia del conjunto. Fue pieza clave del equipo titular durante más de catorce temporadas en las divisionales británicas."
+    },
+    {
+      "nombre": "Jim Towers",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "1954-1961",
+      "desc": "Temible rematador y delantero que encabeza los registros de anotación históricos de la institución en los certámenes regulares de posguerra, destacando a mediados de la década de 1950."
+    },
+    {
+      "nombre": "Thomas Frank",
+      "pos": "Entrenador",
+      "apodo": "",
+      "periodo": "2018-En el cargo",
+      "desc": "Director técnico contemporáneo proveniente de Dinamarca. Consolidó un estilo rápido y vertical logrando el anhelado ascenso institucional hacia la Premier League tras más de setenta años de ausencia."
+    },
+    {
+      "nombre": "Ivan Toney",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "2020-2024",
+      "desc": "Goleador decisivo durante la campaña del ascenso a Primera División y del debut en la Premier League. Sus reiteradas anotaciones lo proyectaron de manera inmediata a la selección nacional de Inglaterra."
+    },
+    {
+      "nombre": "Peter Gelson",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1960-1974",
+      "desc": "Marcador central firme que disputó la totalidad de su extensa carrera profesional en la institución a mediados del siglo XX, lo que le valió su ingreso permanente al Salón de la Fama histórico."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jim Towers",
+      "goles": 163,
+      "partidos": 282,
+      "periodo": "1954-1961",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 163 goles en competiciones oficiales durante su trayectoria en el equipo entre 1954-1961."
+    },
+    {
+      "nombre": "George Francis",
+      "goles": 136,
+      "partidos": 280,
+      "periodo": "1955-1961",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 136 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1961."
+    },
+    {
+      "nombre": "Jack Holliday",
+      "goles": 121,
+      "partidos": 222,
+      "periodo": "1932-1939",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 121 goles en competiciones oficiales durante su trayectoria en el equipo entre 1932-1939."
+    },
+    {
+      "nombre": "Gary Blissett",
+      "goles": 105,
+      "partidos": 291,
+      "periodo": "1987-1993",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1987-1993."
+    },
+    {
+      "nombre": "Billy Scott",
+      "goles": 89,
+      "partidos": 295,
+      "periodo": "1932-1947",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1932-1947."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Ken Coote",
+      "partidos": 559,
+      "periodo": "1949-1964",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 559 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1949-1964."
+    },
+    {
+      "nombre": "Jamie Bates",
+      "partidos": 524,
+      "periodo": "1986-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 524 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1999."
+    },
+    {
+      "nombre": "Peter Gelson",
+      "partidos": 516,
+      "periodo": "1960-1974",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 516 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1974."
+    },
+    {
+      "nombre": "Kevin O'Connor",
+      "partidos": 501,
+      "periodo": "1999-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 501 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2015."
+    },
+    {
+      "nombre": "Tommy Brolin",
+      "partidos": 446,
+      "periodo": "1950-1962",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 446 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1962."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 1,
+      "años": [
+        "1934-35"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 2,
+      "años": [
+        "1932-33",
+        "1991-92"
+      ]
+    },
+    {
+      "nombre": "EFL League Two / Cuarta División",
+      "cantidad": 1,
+      "años": [
+        "1962-63"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1893",
+      "url": "/escudos/historicos/brentford/Brentford_logo_1.webp"
+    },
+    {
+      "ano": "1893",
+      "url": "/escudos_historicos/brentford/brentford_1893_web.png"
+    },
+    {
+      "ano": "1909",
+      "url": "/escudos/historicos/brentford/Brentford_FC_1909.webp"
+    },
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/brentford/brentford_1909_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/brentford/Brentford_FC_1960s.webp"
+    },
+    {
+      "ano": "1965",
+      "url": "/escudos_historicos/brentford/brentford_1965_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/brentford/brentford_1972_web.png"
+    },
+    {
+      "ano": "1975",
+      "url": "/escudos/historicos/brentford/Brentford_logo_2.webp"
+    },
+    {
+      "ano": "1975",
+      "url": "/escudos_historicos/brentford/brentford_1975_web.png"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos/historicos/brentford/Brentford_logo_3.webp"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos_historicos/brentford/brentford_1989_web.png"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/brentford/Brentford_FC_logo.svg"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/brentford/brentford_1994_web.png"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos_historicos/brentford/brentford_2014_web.png"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos/historicos/brentford/Brentford_FC_2017.webp"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos_historicos/brentford/brentford_2017_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/brentford.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Bees",
+      "origen": "Instaurado como un curioso bautismo e instalando base temporalmente a causa de aclamaciones populares corrompidas de la multitud confusa en épocas de naciente popularidad de fútbol de siglo IXX. Surgido el hito fáctico estrictamente originado en 1890, forjado cuando un conjunto estudiantil comenzó cánticos para aupar y aclamar a su atacante escolar Joe Gettins vitoreándole rígidamente \\\"Buck up Bs\\\" como parte de lema acortado universitario para el Borough Road College, el cual equivocó por similitud y oyó como zumbido de avispas y cantos clamando fuertes abejas por reporteras crónicas de todos."
+    }
+  ]
+}

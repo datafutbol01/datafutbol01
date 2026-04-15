@@ -1,0 +1,35 @@
+{
+  "id": "lanus",
+  "datos": {
+    "nombre_oficial": "Club Atlético Lanús",
+    "nombre_corto": "Lanús",
+    "apodos": [
+      "El Granate",
+      "El Grana"
+    ],
+    "fundacion": "1915-01-03",
+    "ciudad": "Lanús",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Ciudad de Lanús",
+    "estadio_apodo": "La Fortaleza",
+    "estadio_capacidad": 47028,
+    "estadio_lat": -34.7013,
+    "estadio_lng": -58.3954,
+    "debut_primera": 1950
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#8B0000",
+        "#228B22"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#8B0000",
+    "medias": "#8B0000"
+  },
+  "titulos_primera": 2,
+  "meta": {
+    "datos_completos": false
+  }
+}

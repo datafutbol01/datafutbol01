@@ -1,0 +1,275 @@
+{
+  "id": "central-cordoba",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "norte",
+      "santiago",
+      "ferroviario",
+      "sde"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Central Córdoba (SdE)",
+    "sigla": "CACC",
+    "fundacion": "3 de junio de 1919",
+    "apodo": "El Ferroviario, El Tren",
+    "estadio_actual": "Único Madre de Ciudades",
+    "estadio_apodo": "El Terrés del Norte, Estadio Único Madre",
+    "estadio_capacidad": 30000,
+    "estadio_inauguracion": "2021-03-04",
+    "estadio_lat": -27.7656,
+    "estadio_lng": -64.2494,
+    "estadio_direccion": "Av. Diego Maradona S/N, Santiago del Estero",
+    "socios": 15000,
+    "descripcion_corta": "Uno de los clubes de mayor trascendencia de la provincia de Santiago del Estero y de toda la región norte del país. De histórico origen ferroviario, en los últimos años logró consolidarse en la máxima categoría del fútbol argentino y forjó una estrecha Localía en el moderno Estadio Único Madre de Ciudades.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "7-0 a Güemes (Clásico Santiagueño, Liga Local)",
+      "maximo_goleador": "Manuel Rojas (82 goles)",
+      "mas_presencias": "Juan Carlos Roldán (280 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1919",
+      "hito": "Fundación santiagueña",
+      "desc": "Los estatutos directivos iniciales fueron confeccionados originariamente durante una asamblea conformada por obreros desvinculados oficialmente del Club Atlético Mitre luego de serios y formales e insuperables diferendos. Organizados laboral e ideológicamente a la par por la red técnica santiagueña adyacente del Central Córdoba el grupo fundacional concretó pactos asamblearios la calurosa tarde el 3 de junio de 1919 con el titular principal ejecutivo a cargo directriz unificado recayendo bajo firme mandato legal sobre el originario Francisco De La Iglesia logrando uniformes lícitos tradicionales iniciales rayados absolutos."
+    },
+    {
+      "ano": "1967",
+      "hito": "El batacazo rotundo oficial derrotando a local lícito Boca",
+      "desc": "Quebrando esquemas de estadísticas arrolladores y pronósticos absolutos imperantes del Torneo Nacional general metropolitano superior unificado del primer año de 1967. Rompieron y destrozaron pronósticos absolutos concretando oficialmente una vistosa y elogiada gesta venciendo frontal a domicilio frente a frente neutralizando al poderoso referente capitalino derrotando 2-1 certero visitante enclavado firme en La Bombonera obteniendo impacto indiscutido a los cuadros de provincia avalados y competitivos rioplatenses históricos."
+    },
+    {
+      "ano": "2019",
+      "hito": "El regreso superior final a máxima élite",
+      "desc": "Bajo control del entrenador del ascenso y experimentado Gustavo Coleoni el cuadro neutralizó extensas presencias y deambulaciones estancadas e innumerables irregulares perdidas sin rumbos oficiales sostenidos y alejados de círculos de importancia competitivos relegando en décadas absolutas previas oscuras dolorosas. Venciendo eliminatorias frontales logró de oficial victoria regresar categóricamente indiscutido firme al Torneo formal de Primera logrando ascender indiscutibles tras arduos duros y valientes torneos y definiciones de ascenso directo frente combinados pampeanos finales."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Alfredo Terrera",
+      "direccion": "Granadero Saavedra y San Martín",
+      "desde": 1919,
+      "hasta": null,
+      "estado": "Activo / Secundario",
+      "obs": "Histórico estadio del club en el barrio Oeste de la capital santiagueña, sede de numerosos campeonatos liguistas y campañas de ascenso.",
+      "lat": -27.7586,
+      "lng": -64.2499,
+      "url": "https://www.google.com/maps/search/?api=1&query=Granadero%20Saavedra%20y%20San%20Mart%C3%ADn"
+    },
+    {
+      "nombre": "Estadio Único Madre de Ciudades",
+      "direccion": "Av. Diego Armando Maradona S/N",
+      "desde": 2021,
+      "hasta": null,
+      "estado": "Activo / Principal",
+      "obs": "Moderno complejo deportivo utilizado por el club para disputar sus compromisos de Liga Profesional y Copas Nacionales ante una mayor capacidad de espectadores.",
+      "lat": -27.7656,
+      "lng": -64.2494,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Diego%20Armando%20Maradona%20S%2FN"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1919,
+      "hasta": null,
+      "c1": "#111111",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Cimentación originaria de las rayas verticales negras y blancas estrechas. Nacieron de la inspiración logística corporativa dispuesta oficial de maquinistas del ferrocarril de Córdoba crudo operando sobre el asfalto mítico indomable norteño. Su patrón se respeta estricto lineal purista en todas y cada histórica poética presentación."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "René Orlando Houseman",
+      "pos": "Delantero",
+      "apodo": "El Loco",
+      "periodo": "1971",
+      "desc": "El legendario extremo campeón del mundo con Argentina inició su destacada trayectoria profesional dando brillantes destellos en este conjunto, sobresaliendo fuertemente a nivel provincial en sus primeros años."
+    },
+    {
+      "nombre": "Gustavo Coleoni",
+      "pos": "Director Técnico",
+      "apodo": "El Sapito",
+      "periodo": "2017-2020, 2021",
+      "desc": "Director técnico artífice del resurgimiento institucional contemporáneo. Bajo su conducción, el equipo ascendió a Primera División y clasificó sorpresivamente a la final de la Copa Argentina."
+    },
+    {
+      "nombre": "Jonathan Bay",
+      "pos": "Defensor",
+      "apodo": "Jony",
+      "periodo": "2018-Hoy",
+      "desc": "Defensor lateral izquierdo firme tácticamente. Resultó un elemento fundamental durante las campañas de ascenso y el posterior tramo de consolidación ininterrumpida en la máxima categoría del fútbol profesional."
+    },
+    {
+      "nombre": "Cristian Vega",
+      "pos": "Mediocampista",
+      "apodo": "El Kily",
+      "periodo": "2012-2021",
+      "desc": "Mediocampista de marcaje, producto genuino de la cantera de Santiago del Estero. Asumió la capitanía siendo pilar anímico y deportivo durante la histórica clasificación a torneos sudamericanos."
+    },
+    {
+      "nombre": "Gervasio Núñez",
+      "pos": "Mediocampista",
+      "apodo": "El Yacaré",
+      "periodo": "2019-2020",
+      "desc": "Mediocampista ofensivo de destacada calidad técnica y remate de larga distancia. Fue uno de los jugadores determinantes para mantener al equipo firme en los campeonatos de Primera División."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Manuel Rojas",
+      "goles": 82,
+      "partidos": 240,
+      "periodo": "1960-1970",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 82 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1970."
+    },
+    {
+      "nombre": "Juan C. Roldán",
+      "goles": 75,
+      "partidos": 204,
+      "periodo": "1990-2000",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-2000."
+    },
+    {
+      "nombre": "Hugo Valdés",
+      "goles": 68,
+      "partidos": 150,
+      "periodo": "1980s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 68 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980s."
+    },
+    {
+      "nombre": "Damián Albil",
+      "goles": 40,
+      "partidos": 120,
+      "periodo": "Años 90s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 90s."
+    },
+    {
+      "nombre": "Cristian Vega",
+      "goles": 25,
+      "partidos": 190,
+      "periodo": "2013-2022",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Juan C. Roldán",
+      "partidos": 280,
+      "periodo": "1990-2000",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 280 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2000."
+    },
+    {
+      "nombre": "Manuel Rojas",
+      "partidos": 240,
+      "periodo": "1960s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 240 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960s."
+    },
+    {
+      "nombre": "Germán Montenegro",
+      "partidos": 200,
+      "periodo": "2000s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 200 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000s."
+    },
+    {
+      "nombre": "Cristian Vega",
+      "partidos": 190,
+      "periodo": "2013-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 190 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2022."
+    },
+    {
+      "nombre": "Jonathan Bay",
+      "partidos": 150,
+      "periodo": "2018-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Torneo Federal A / Interior",
+      "cantidad": 2,
+      "años": [
+        "1986",
+        "2018"
+      ]
+    },
+    {
+      "nombre": "Ligas Santiagueñas Regionales",
+      "cantidad": 48,
+      "años": [
+        "Múltiples Ediciones Locales"
+      ]
+    },
+    {
+      "nombre": "Copa Argentina",
+      "cantidad": 1,
+      "anios": [
+        "2024"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/central-cordoba/central-cordoba_1970_web.jpg"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos/historicos/central-cordoba/central_cordoba_1989.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/central-cordoba/central_cordoba_1993.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/central-cordoba/central_cordoba_2000-1.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/central-cordoba/central_cordoba_2000-2.webp"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos/historicos/central-cordoba/central_cordoba_2004.webp"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos_historicos/central-cordoba/central-cordoba_2006_web.jpg"
+    },
+    {
+      "ano": "2018",
+      "url": "/escudos_historicos/central-cordoba/central-cordoba_2018_web.png"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos_historicos/central-cordoba/central-cordoba_2025_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/central-cordoba.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Ferroviario",
+      "origen": "Implantado rindiendo honor a los tendidos de rieles fundacionales que atraviesan la provincia de Santiago del Estero. Fue constituido legalmente por maquinistas, mecánicos y obreros trabajadores del ferrocarril formaron su masa oficial."
+    }
+  ]
+}

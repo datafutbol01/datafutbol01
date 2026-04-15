@@ -1,0 +1,293 @@
+{
+  "id": "mallorca",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "mallorca",
+      "bermellones",
+      "baleares"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Club Deportivo Mallorca",
+    "sigla": "MAL",
+    "fundacion": "5 de marzo de 1916",
+    "apodo": "Bermellones",
+    "estadio_actual": "Estadi Mallorca Son Moix",
+    "estadio_apodo": "",
+    "estadio_capacidad": 23142,
+    "estadio_inauguracion": "1999",
+    "estadio_lat": 39.5898,
+    "estadio_lng": 2.63,
+    "estadio_direccion": "Camí dels Reis, s/n, 07011 Palma, Illes Balears",
+    "socios": 20700,
+    "descripcion_corta": "Entidad representativa vinculada a las islas del ente autonómico balear.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#DA291C"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "7-1 a Recreativo Huelva",
+      "maximo_goleador": "Samuel Eto'o (70 goles LFP)",
+      "mas_presencias": "Paco Soler (419 partidos)"
+    },
+    "nombre_corto": "RCD Mallorca"
+  },
+  "historia": [
+    {
+      "ano": "1916",
+      "hito": "Fundación del Adolfo Vázquez",
+      "desc": "El archipiélago balear exigía a gritos su propia voz futbolera tras una desorganizada y bohemia importación de pelotas desde la lejana península durante principios de siglo. El 5 de marzo de 1916 floreció la primera piedra monumental liderada casi en soledad, pero con una convicción y poder descomunal, por el insigne Adolfo Vázquez Humasqué, acompañado íntimamente por fundadores de la isla como Antoni Moner, Julio Peñas y Ferran Pin. Así, bautizado pomposa y majestuosamente como la insigne 'Sociedad Alfonso XIII Foot-Ball Club' en honores a la monarquía (que tardaría años en castellanizarse para asomar eternamente como Real CD Mallorca y derrocar tintes reales puristas). Los primeros ropajes piratas ensayaban rudimentos rústicos hasta asentarse el bermellón oscuro (rojo y negro) en sus banderas infiriendo respeto asfixiante, abriendo fuego para siempre en un humilde descampado insular para forjar a garra bermellona la identidad de un equipo abocado a destruir gigantes venidos de mares europeos para encender de rojo hasta el último trozo de tierra de Palma."
+    },
+    {
+      "ano": "1998",
+      "hito": "Un Cuper Espectacular y Europa",
+      "desc": "Héctor Cúper revolucionó el archipiélago y transformó al club perdiendo una y agónica Final de Copa ante el Barcelona, lo que igual bastó para destapar la lata a nivel internacional ganando luego la Supercopa soñada."
+    },
+    {
+      "ano": "1999",
+      "hito": "A las Puertas de Europa",
+      "desc": "Cayó dolorosa e injustamente (1-2) frente a la poderosa SS Lazio en la mística final de la Recopa de Europa, habiéndose robado antes los corazones de todo el viejo continente."
+    },
+    {
+      "ano": "2003",
+      "hito": "La Inmortal Corona de Elche",
+      "desc": "Bajo la diestra batuta temible del indomable Samuel Eto’o, el Mallorca masacró por 3-0 al Recreativo de Huelva en Elche para colgarse la primera y épica Copa del Rey en las vitrinas rojas y negras."
+    },
+    {
+      "ano": "2024",
+      "hito": "Finales que Rezan Valentía",
+      "desc": "Conducido por un estoico Javier Aguirre, las huestes piratas cruzaron mil tormentas para irrumpir nuevamente en la final de Copa del Rey ante el Athletic, paralizando Mallorca tras largos años de letargo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadi de Son Moix",
+      "capacidad": "23.142",
+      "inauguracion": "1999",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cam%C3%AD%20dels%20Reis%2C%20s%2Fn%2C%2007011%20Palma%2C%20Illes%20Balears",
+      "direccion": "Camí dels Reis, s/n, 07011 Palma, Illes Balears",
+      "descripcion": "La isla infernal bermellona; fortín heroico que atestiguó la gran conquista de la Copa del Rey para las Baleares."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1916,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#e3001b",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "El rojillo pleno crudo liso dominando las costas isleñas místicas poéticas con el legendario bermellón formal de estirpe victoriosa fáctica."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Samuel Eto'o",
+      "periodo": "2000-2004",
+      "pos": "Delantero",
+      "desc": "Máximo goleador en la historia del club en Primera División. Anotó dos goles decisivos en la final de la Copa del Rey de 2003 que obtuvo el equipo."
+    },
+    {
+      "nombre": "Miguel Ángel Nadal",
+      "periodo": "1986-1991 / 1999-2005",
+      "pos": "Defensa",
+      "desc": "Defensor central nacido en Baleares. Disputó una gran cantidad de partidos oficiales divididos en dos amplias etapas separadas por su paso al Fútbol Club Barcelona."
+    },
+    {
+      "nombre": "Ariel Ibagaza",
+      "periodo": "1998-2003 / 2006-2008",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista organizador argentino. Capitaneó al equipo durante las clasificaciones continentales del club y en la obtención de la histórica Copa del Rey."
+    },
+    {
+      "nombre": "Jovan Stanković",
+      "periodo": "1995-2001",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista titular que jugó de manera ininterrumpida por siete campañas en el plantel. Jugó como mediocampista en la final de la Recopa de Europa instaurada en 1999."
+    },
+    {
+      "nombre": "Dani Güiza",
+      "periodo": "1999-2003 / 2007-2008",
+      "pos": "Delantero",
+      "desc": "Delantero centro que se consagró máximo goleador oficial de la Primera División nacional en la temporada de 2008 tras jugar un excelente torneo en el club."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Samuel Eto'o",
+      "goles": 70,
+      "periodo": "2000-2004",
+      "partidos": 165,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 70 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000-2004."
+    },
+    {
+      "nombre": "Juan Arango",
+      "goles": 49,
+      "periodo": "2004-2009",
+      "partidos": 191,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2009."
+    },
+    {
+      "nombre": "Víctor Casadesús",
+      "goles": 46,
+      "periodo": "2005-2014",
+      "partidos": 237,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2014."
+    },
+    {
+      "nombre": "Abdón Prats",
+      "goles": 44,
+      "periodo": "Múltiple",
+      "partidos": 215,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre Múltiple."
+    },
+    {
+      "nombre": "Dani Güiza",
+      "goles": 28,
+      "periodo": "2007-2008",
+      "partidos": 40,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2008."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Miquel Àngel Nadal",
+      "partidos": 255,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 255 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Paco Soler",
+      "partidos": 419,
+      "periodo": "1990-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 419 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2004."
+    },
+    {
+      "nombre": "Javier Olaizola",
+      "partidos": 271,
+      "periodo": "1995-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 271 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2004."
+    },
+    {
+      "nombre": "Víctor Casadesús",
+      "partidos": 237,
+      "periodo": "2005-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 237 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2014."
+    },
+    {
+      "nombre": "Juan Arango",
+      "partidos": 191,
+      "periodo": "2004-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 191 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2009."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 1,
+      "anios": [
+        "2003"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 1,
+      "anios": [
+        "1998"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 2,
+      "anios": [
+        "1959-60",
+        "1964-65"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1916",
+      "url": "/escudos_historicos/mallorca/mallorca_1916_bot.png"
+    },
+    {
+      "ano": "1916",
+      "url": "/escudos_historicos/mallorca/mallorca_1916_full.jpg"
+    },
+    {
+      "ano": "1923",
+      "url": "/escudos_historicos/mallorca/mallorca_1923_bot.png"
+    },
+    {
+      "ano": "1923",
+      "url": "/escudos_historicos/mallorca/mallorca_1923_full.jpg"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos_historicos/mallorca/mallorca_1927_bot.png"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos_historicos/mallorca/mallorca_1927_full.jpg"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/mallorca/mallorca_1931_full.jpg"
+    },
+    {
+      "ano": "1949",
+      "url": "/escudos_historicos/mallorca/mallorca_1949_full.jpg"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos_historicos/mallorca/mallorca_1956_full.jpg"
+    },
+    {
+      "ano": "1962",
+      "url": "/escudos_historicos/mallorca/mallorca_1962_full.jpg"
+    },
+    {
+      "ano": "1969",
+      "url": "/escudos_historicos/mallorca/mallorca_1969_full.jpg"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/mallorca/mallorca_1972_full.jpg"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos_historicos/mallorca/mallorca_1976_full.jpg"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/mallorca/mallorca_1996_full.png"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/mallorca/Mallorca.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/mallorca.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Bermellones",
+      "origen": "Descriptivo estricto referido concretamente al profundo color carmesí de la histórica camiseta adoptada. El rey Alfonso XIII les otorgó el distintivo real propiciando el estricto conjunto bermellón que el club portaría ininterrumpidamente constituyéndolo como sello oficial visual de todas sus temporadas insulares en España."
+    },
+    {
+      "apodo": "Los Barralets",
+      "origen": "Denominación anclada directamente en el costumbrismo fundacional de sus primeros asistentes. Los espectadores originarios de la isla se aglutinaban tradicionalmente introduciendo envases y rústicas vasijas de arcilla para almacenar vino en el partido, elementos conocidos históricamente bajo idioma nativo ibérico y puramente insular como barralets malloquines."
+    }
+  ]
+}

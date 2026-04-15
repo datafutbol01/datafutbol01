@@ -1,0 +1,262 @@
+{
+  "id": "cagliari",
+  "meta": {
+    "slug": "cagliari"
+  },
+  "datos": {
+    "nombre_completo": "Cagliari Calcio S.p.A.",
+    "sigla": "CAG",
+    "fundacion": "1920",
+    "apodo": "Los Rojiazules, Los Isleños, El Castillo",
+    "estadio_actual": "Unipol Domus",
+    "estadio_apodo": "",
+    "estadio_capacidad": 16416,
+    "estadio_inauguracion": "10 de septiembre de 2017",
+    "estadio_lat": 39.1994,
+    "estadio_lng": 9.1408,
+    "estadio_direccion": "Via San Bartolomeo, 09126 Cagliari, Cerdeña",
+    "socios": 13500,
+    "descripcion_corta": "Equipo representativo de la isla de Cerdeña que logró un histórico Scudetto nacional en la temporada 1969-70 bajo el liderazgo de Luigi Riva.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#c31326"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#112046"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Gigi Riva (208 goles)",
+      "mas_presencias": "Daniele Conti (464 partidos)",
+      "mayor_goleada": "5-0 vs Sampdoria (1993)"
+    },
+    "nombre_oficial": "Cagliari Calcio",
+    "nombre_corto": "Cagliari",
+    "escudo_actual": "/escudos_historicos/cagliari/Cagliari_Calcio_logo_(since_2015).svg"
+  },
+  "historia": [
+    {
+      "ano": "1920",
+      "hito": "Nacimiento Deportivo en Cerdeña",
+      "desc": "Aislada históricamente del bullicio industrial y del desarrollo futbolístico que arrasaba en el norte de la península, la isla de Cerdeña necesitaba un estandarte deportivo propio. El 30 de mayo de 1920, impulsados por el cirujano local Gaetano Fichera, un grupo de profesionales y estudiantes sardos convocó a una asamblea en las butacas del Cinema Eden para fundar oficialmente el Cagliari Football Club. En sus primeros enfrentamientos informales disputados sobre el polvoriento Stallaggio Meloni, la escuadra portó improvisadas camisas blancas. Poco después, adoptaron inquebrantablemente el azul oscuro y el rojo carmesí presentes en el escudo de armas comunal de la ciudad de Cagliari, forjando una identidad que uniría el sentimiento regional de toda la isla en las décadas venideras."
+    },
+    {
+      "ano": "1964",
+      "hito": "Debut Histórico en la Serie A",
+      "desc": "El club ascendió por primera vez a la máxima categoría del fútbol italiano, coincidiendo con el desarrollo profesional de Luigi 'Gigi' Riva, un delantero que se establecería a la postre como el principal referente histórico de la entidad."
+    },
+    {
+      "ano": "1970",
+      "hito": "El Único Scudetto del Cagliari",
+      "desc": "Dirigido por Manlio Scopigno y con Gigi Riva liderando la tabla de goleadores, el Cagliari logró ganar su primer y único Scudetto en la temporada 1969-1970. Fue el primer equipo de la región del Mezzogiorno y de una isla italiana en conseguir el título nacional."
+    },
+    {
+      "ano": "1994",
+      "hito": "Campaña en la Copa de la UEFA",
+      "desc": "El equipo alcanzó las semifinales de la Copa de la UEFA bajo la conducción de Bruno Giorgi. Durante la trayectoria en dicho torneo, lograron eliminar a la Juventus, hasta que fueron frenados por el eventual ganador de la competición, el Inter de Milán."
+    },
+    {
+      "ano": "2023",
+      "hito": "Retorno a Serie A con Claudio Ranieri",
+      "desc": "Claudio Ranieri retornó a la dirección técnica del club. Lograron avanzar hasta la final de las eliminatorias de ascenso y derrotaron al Bari en condición de visitante con un gol en el minuto 94 anotado por Leonardo Pavoletti, reincorporándose a la Serie A."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Unipol Domus",
+      "capacidad": "16.416",
+      "inauguracion": "10 de septiembre de 2017",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20San%20Bartolomeo%2C%2009126%20Cagliari%2C%20Cerde%C3%B1a",
+      "direccion": "Via San Bartolomeo, 09126 Cagliari, Cerdeña",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#001133",
+      "c2": "#ab0c21",
+      "sh": "#001133",
+      "me": "#001133",
+      "tipo": "mitades",
+      "desc": "Inspirados en los estandartes heráldicos clásicos de la ciudad de Cerdeña y sus regiones locales, su fisonomía oficial es y ha consistido históricamente en mitades verticales divididas al centro entre el azul oscuro y el rojo carmesí."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Luigi Riva",
+      "periodo": "1963-1976",
+      "pos": "Delantero",
+      "desc": "Conocido como Gigi. Máximo ídolo y goleador del equipo que consiguió la hazaña histórica de obtener el título local formal de Serie A en 1970."
+    },
+    {
+      "nombre": "Daniele Conti",
+      "periodo": "1999-2015",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista defensivo originario de las juveniles y eterno capitán. Dueño de la marca inexpugnable formal que corresponde al máximo jugador con participaciones sumando más de 400 partidos."
+    },
+    {
+      "nombre": "Gianfranco Zola",
+      "periodo": "2003-2005",
+      "pos": "Mediocampista",
+      "desc": "Talentoso y veloz delantero italiano. Retornó sorpresivamente para las campañas finales logrando devolver asiduamente al equipo en un complejo campeonato formativo hasta lograr el ascenso."
+    },
+    {
+      "nombre": "David Suazo",
+      "periodo": "1999-2007",
+      "pos": "Delantero",
+      "desc": "Atacante hondureño. Lideró la ofensiva logrando consagrarse y asumiendo registros como goleador del equipo superando más de cien conquistas absolutas."
+    },
+    {
+      "nombre": "Enzo Francescoli",
+      "periodo": "1990-1993",
+      "pos": "Delantero",
+      "desc": "Fino volante creativo uruguayo. Resultó pilar indispensable asumiendo la generación de juego del equipo liguero de principios de años noventa logrando mantener a la plantilla a salvo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Luigi Riva",
+      "goles": 208,
+      "periodo": "1963-1976",
+      "partidos": 374,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1976."
+    },
+    {
+      "nombre": "David Suazo",
+      "goles": 102,
+      "periodo": "1999-2007",
+      "partidos": 275,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 102 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2007."
+    },
+    {
+      "nombre": "Luigi Piras",
+      "goles": 104,
+      "periodo": "1973-1987",
+      "partidos": 377,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 104 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1987."
+    },
+    {
+      "nombre": "João Pedro",
+      "goles": 86,
+      "periodo": "2014-2022",
+      "partidos": 271,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2022."
+    },
+    {
+      "nombre": "Mauro Esposito",
+      "goles": 65,
+      "periodo": "2001-2007",
+      "partidos": 216,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 65 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2007."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Daniele Conti",
+      "partidos": 464,
+      "periodo": "1999-2015",
+      "goles": 51,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 464 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2015."
+    },
+    {
+      "nombre": "Mario Brugnera",
+      "partidos": 404,
+      "periodo": "1968-1982",
+      "goles": 40,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 404 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1982."
+    },
+    {
+      "nombre": "Nené",
+      "partidos": 380,
+      "periodo": "1964-1976",
+      "goles": 26,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 380 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1976."
+    },
+    {
+      "nombre": "Luigi Piras",
+      "partidos": 377,
+      "periodo": "1973-1987",
+      "goles": 104,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 377 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1987."
+    },
+    {
+      "nombre": "Luigi Riva",
+      "partidos": 374,
+      "periodo": "1963-1976",
+      "goles": 208,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 374 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1976."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 1,
+      "anios": [
+        "1969-70"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 1,
+      "anios": [
+        "2015-16"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/cagliari/Cagliari_Calcio_logo_(gold_outline).svg"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/cagliari/Cagliari_Calcio_logo.svg"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/cagliari/Cagliari_calcio_1920_old.webp"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/cagliari/Cagliari_Calcio_1920_Old_27s%29.webp"
+    },
+    {
+      "ano": "1925",
+      "url": "/escudos_historicos/cagliari/CS_Cagliari_1925_logo.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/cagliari/Cagliari.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/cagliari/Cagliaristemma.webp"
+    },
+    {
+      "ano": "1970s",
+      "url": "/escudos_historicos/cagliari/Cagliari-calcio-70s-logo.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/cagliari/Cagliari_Calcio_1993_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/cagliari/Cagliari_Calcio_logo_(since_2015).svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Gli Isolani",
+      "origen": "Derivado geográfico por representar a los residentes aislados en el Mar Tirreno en la isla de Cerdeña."
+    },
+    {
+      "apodo": "I Rossoblù",
+      "origen": "La asamblea asimiló teñir la indumentaria cruzando azul y rojo, homenajeando el histórico escudo municipal de Cagliari."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "monaco",
+  "meta": {
+    "slug": "monaco"
+  },
+  "datos": {
+    "nombre_completo": "AS Monaco FC",
+    "nombre_oficial": "AS Monaco FC",
+    "nombre_corto": "Monaco",
+    "apodo": "Les Monégasques",
+    "fundacion": "23 de Agosto de 1924",
+    "estadio_actual": "Stade Louis II",
+    "presidente": "Dmitry Rybolovlev",
+    "entrenador": "Adi Hütter",
+    "estadio_capacidad": "16.360",
+    "estadio_inauguracion": "1985",
+    "estadio_direccion": "7 Av. des Castelans, 98000 Monaco",
+    "estadio_lat": 43.7276,
+    "estadio_lng": 7.4156,
+    "sigla": "ASM",
+    "socios": 18000,
+    "descripcion_corta": "Entidad del Principado con personalidad jurídica amparada en los reglamentos extracomunitarios de la liga francesa, apalancada por inversiones privadas corporativas.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#E3001B"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Delio Onnis (223 goles)",
+      "mas_presencias": "Jean-Luc Ettori (754 partidos)",
+      "mayor_goleada": "9-0 vs Burdeos (1986)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/monaco.png"
+  },
+  "historia": [
+    {
+      "ano": "1924",
+      "hito": "El Principado se Viste de Sangre, Oro y Glamour",
+      "desc": "Arrullados entre la suntuosa e majestuosidad y ostentación férrea marítima del originario rocoso estipulado Peñón de Mónaco el gran dictador corporativo y fundacional inmenso Anthony Noghès empujado paralelamente estricto y por el dictamen monárquico del príncipe innegable colosal Luis II forjó originario el 1 de agosto de 1924 la Association Sportive de Monaco absorbiendo masivos y pioneros clubes de natación de forma rígidamente polideportiva y portando dictaminado formidables estandartes rústicos rojiblancos adoptados por estandartes directos y romboides escudos de la realeza soberana Grimaldi regida originaria."
+    },
+    {
+      "ano": "1960",
+      "hito": "El Torneo Copa y Registros Oficiales",
+      "desc": "El equipo del principado dictó registro consolidado originando resultados de tabla venciendo en finales de fecha de copa al representativo de la época logrando estipular sumisión copa de la nación francesa por vez inicial documentada."
+    },
+    {
+      "ano": "1997",
+      "hito": "Campeonato Con Cimientos de Talentos Estipulados Sub 20",
+      "desc": "De la mano de la cúpula técnica e incipientes jóvenes en su cuadro formativo del club originarios Fabien Barthez y Thierry Henry registraron el liderato legal y vencieron la temporada ganando ligueros puestos y campeonato finalizado."
+    },
+    {
+      "ano": "2004",
+      "hito": "Final Internacional De UCL de Forma Formal Documentada",
+      "desc": "Acumulando goles del atacante español Fernando Morientes el conjunto registró eliminatorias legales contra equipos internacionales Real Madrid e ingleses finalizando en llave central de cierre en Alemania siendo vencidos matemáticamente en registros 3-0 contra Oporto europeo."
+    },
+    {
+      "ano": "2017",
+      "hito": "Corona Con Puntos Finalizados Validando y Abatiendo Hegemonía Parisina",
+      "desc": "Con el delantero de canteras legal Kylian Mbappé registrando posiciones lograron superar marcas formalmente estipuladas restando puntos del club líder de Paris, asumiendo campeonato formal finalizado a la suma totalizada y registro documentado numérico de 95 puntos en la tabla nacional final."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Louis II",
+      "capacidad": "16.360",
+      "inauguracion": "1985",
+      "desde": "1985",
+      "hasta": "",
+      "direccion": "7 Av. des Castelans, 98000 Monaco",
+      "lat": 43.7276,
+      "lng": 7.4156,
+      "obs": "Situado en el distrito industrial de Fontvieille encajonado junto al mar; se distingue por sus vistosos arcos amarillos perimetrales.",
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Av.%20des%20Castelans%2C%2098000%20Monaco"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1924,
+      "hasta": 1960,
+      "c1": "#ffffff",
+      "c2": "#d3062b",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Indumentaria fundacional que portaba franjas verticales rojas y blancas de la antigua era del principado."
+    },
+    {
+      "desde": 1960,
+      "hasta": null,
+      "c1": "#d3062b",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "mitad-diagonal",
+      "desc": "El histórico e icónico y original diseño en diagonal, partido por mitades rojiblancas delineado directamente por la propia Grace Kelly."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jean-Luc Ettori",
+      "periodo": "1975-1994",
+      "pos": "Arquero",
+      "desc": "Histórico arquero de prolongada trayectoria en el club. Defendió ininterrumpidamente el arco por casi dos décadas ostentando el enorme récord de mayor cantidad de presencias oficiales."
+    },
+    {
+      "nombre": "Thierry Henry",
+      "periodo": "1994-1999",
+      "pos": "Delantero",
+      "desc": "Veloz e incisivo atacante surgido íntegramente de la cantera monegasca. Demostró una capacidad ofensiva innegable que le posibilitó coronar títulos nacionales tempranamente."
+    },
+    {
+      "nombre": "Fabien Barthez",
+      "periodo": "1995-2000",
+      "pos": "Arquero",
+      "desc": "Reflejo y seguridad en la portería del elenco titular. Formó parte esencial asumiendo estricto protagonismo logrando sumar un par de ligas oficiales nacionales."
+    },
+    {
+      "nombre": "Lilian Thuram",
+      "periodo": "1991-1996",
+      "pos": "Defensor",
+      "desc": "Sólido zaguero y lateral inamovible nacional titular de excelente y firme fortaleza física de enorme capacidad defensiva originando formales y rítmicas incesantes subidas."
+    },
+    {
+      "nombre": "David Trezeguet",
+      "periodo": "1995-2000",
+      "pos": "Delantero",
+      "desc": "Poderoso y asombroso centroatacante artillero francés. Sus destacadas y asiduas participaciones le brindaron una sólida asertividad asegurando formidables liderazgos de remates puros incontestables originando enormes registros."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Delio Onnis",
+      "goles": 223,
+      "periodo": "1973-1980",
+      "partidos": 280,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 223 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1980."
+    },
+    {
+      "nombre": "Wissam Ben Yedder",
+      "goles": 118,
+      "periodo": "2019-2024",
+      "partidos": 201,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 118 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2024."
+    },
+    {
+      "nombre": "Lucien Cossou",
+      "goles": 115,
+      "periodo": "1959-1965",
+      "partidos": 161,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 115 goles en competiciones oficiales durante su trayectoria en el equipo entre 1959-1965."
+    },
+    {
+      "nombre": "Christian Dalger",
+      "goles": 89,
+      "periodo": "1971-1980",
+      "partidos": 333,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1971-1980."
+    },
+    {
+      "nombre": "Radamel Falcao",
+      "goles": 83,
+      "periodo": "2013-2019",
+      "partidos": 140,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 83 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2019."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jean-Luc Ettori",
+      "partidos": 755,
+      "periodo": "1975-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 755 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1994."
+    },
+    {
+      "nombre": "Claude Puel",
+      "partidos": 601,
+      "periodo": "1979-1996",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 601 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1996."
+    },
+    {
+      "nombre": "Jean Petit",
+      "partidos": 428,
+      "periodo": "1969-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 428 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1982."
+    },
+    {
+      "nombre": "Manuel Amoros",
+      "partidos": 348,
+      "periodo": "1980-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 348 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1989."
+    },
+    {
+      "nombre": "Danijel Subašić",
+      "partidos": 292,
+      "periodo": "2012-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 292 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2020."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 8,
+      "anios": [
+        "1961",
+        "1963",
+        "1978",
+        "1982",
+        "1988",
+        "1997",
+        "2000",
+        "2017"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 5,
+      "anios": [
+        "1960",
+        "1963",
+        "1980",
+        "1985",
+        "1991"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 1,
+      "anios": [
+        "2003"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 4,
+      "anios": [
+        "1961",
+        "1985",
+        "1997",
+        "2000"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/monaco/AS_Monaco.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/monaco/AS_Monaco (1).webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/monaco/AS_Monaco_FC_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/monaco/AS_Monaco_logo.webp"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/monaco/AS_Monaco_2013.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/monaco.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Rouges et Blancs",
+      "origen": "Designados referenciando los rigurosos dictámenes de linaje cívico portuario. Adoptaron el tono blanco inmaculado y el rojo sangre aludiendo de manera idéntica a las armas formales históricas y estatutarias de la familia Grimaldi."
+    }
+  ]
+}

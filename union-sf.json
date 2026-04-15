@@ -1,0 +1,34 @@
+{
+  "id": "union-sf",
+  "datos": {
+    "nombre_oficial": "Club Atlético Unión",
+    "nombre_corto": "Unión",
+    "apodos": [
+      "El Tatengue",
+      "El Tate"
+    ],
+    "fundacion": "1907-04-07",
+    "ciudad": "Santa Fe",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio 15 de Abril",
+    "estadio_capacidad": 23000,
+    "estadio_lat": -31.6405,
+    "estadio_lng": -60.7011,
+    "debut_primera": 1966
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#CC0000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

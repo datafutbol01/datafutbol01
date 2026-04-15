@@ -1,0 +1,274 @@
+{
+  "id": "pisa",
+  "meta": {
+    "slug": "pisa"
+  },
+  "datos": {
+    "nombre_completo": "Pisa Sporting Club S.r.l.",
+    "sigla": "PIS",
+    "fundacion": "1909",
+    "apodo": "Los Negriazules, Las Torres",
+    "estadio_actual": "Stadio Romeo Anconetani",
+    "estadio_apodo": "Arena Garibaldi",
+    "estadio_capacidad": 14000,
+    "estadio_inauguracion": "26 de octubre de 1919",
+    "estadio_lat": 43.7259,
+    "estadio_lng": 10.398,
+    "estadio_direccion": "Via Rindi 1, 56123 Pisa, Toscana",
+    "socios": 8000,
+    "descripcion_corta": "Entidad de la Toscana con sede en Pisa, de historial frecuente en divisiones secundarias pero con incursiones destacadas en la Serie A durante los años ochenta.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#1D3557"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Lamberto Piovanelli (79 goles)",
+      "mas_presencias": "Fabrizio Barontini (318 partidos)",
+      "mayor_goleada": "6-0 vs Varese (1969)"
+    },
+    "nombre_oficial": "Pisa Sporting Club",
+    "nombre_corto": "Pisa",
+    "escudo_actual": "/escudos_historicos/pisa/Pisa_Sporting_Club_logo.svg"
+  },
+  "historia": [
+    {
+      "ano": "1909",
+      "hito": "Los Jóvenes a las Orillas del Arno",
+      "desc": "Bajo la atenta e histórica mirada de la inconfundible Torre Inclinada, un grupo de activos y jóvenes universitarios de la región de la Toscana sintió la imperiosa necesidad de sumarse a las innovaciones deportivas de la época. En abril de 1909, tras acaloradas tertulias formales entre los bancos de clase, organizaron un improvisado campo en la tradicional Piazza di San Paolo a Ripa d'Arno. Liderados operativamente por su primer presidente y benefactor, Ferruccio Giovannini, labraron oficialmente el acta del Pisa Sporting Club. Vistiendo camisetas inicialmente blanquirojas cedidas y adoptando al poco tiempo las emblemáticas franjas negras y azules (nerazzurri) en reverencia respetuosa a la poderosa escuadra del Inter milanés, el club conformó y forjó en pocos años un carácter aguerrido y un espíritu representativo puramente pisano."
+    },
+    {
+      "ano": "1921",
+      "hito": "Finalista del Campeonato Italiano",
+      "desc": "En los albores de la estructura competitiva italiana dividida territorialmente, el Pisa superó las llaves zonales de la liga sur accediendo a disputar el título nacional absoluto contra el equipo representante del norte italiano (Pro Vercelli). El partido final concluyó con una derrota competitiva 2-1, pero aseguró su estadística como subcampeón de liga."
+    },
+    {
+      "ano": "1968",
+      "hito": "Logro del Primer Ascenso a la Serie A",
+      "desc": "Transcurridos periodos extensos documentados entre divisiones reguladas inferiores, durante el término del cierre anual de 1968 bajo dirección del técnico Renato Lucchi, los jugadores conformaron matemáticamente la suma requerida de puntaje obteniendo por vía deportiva la validación directa al primer nivel élite del país."
+    },
+    {
+      "ano": "1982",
+      "hito": "Período Directivo Presidencial Ochentero",
+      "desc": "La incorporación al puesto directivo y de mando oficial del presidente Romeo Anconetani posibilitó una era de inversión institucional constante, alternando promociones competitivas que le garantizaron participación estable en la Serie A obteniendo como logro complementario la conquista internacional de rondas en la Copa Mitropa."
+    },
+    {
+      "ano": "2022",
+      "hito": "Reconstrucción y Eliminatoria de Ascenso",
+      "desc": "Atravesando previamente instancias legales por bancarrota directiva, el club retornó estructurado financieramente para alcanzar la estancia definitoria de repesca o torneo suplementario por acceder nuevamente tras mucho tiempo a Serie A. Las finales a confrontación de ida y vuelta concluyeron superados estadísticamente ante su rival (Monza)."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Romeo Anconetani",
+      "capacidad": "14.000",
+      "inauguracion": "26 de octubre de 1919",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Rindi%201%2C%2056123%20Pisa%2C%20Toscana",
+      "direccion": "Via Rindi 1, 56123 Pisa, Toscana",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Arena Garibaldi."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1909,
+      "hasta": 1910,
+      "c1": "#ffffff",
+      "c2": "#db0011",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "mitades",
+      "desc": "Al momento resolutivo de documentar conformación, el cuadro integró vestimentas lisas y listadas rojiblancas divididas respondiendo directamente al escudo representativo cívico municipal de bases rojas cruzado oficial."
+    },
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#122a61",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Transicionando por aprobación de normativas en homenaje estatuarios, implementaron para sus afiliaciones históricas el sistema vertical listado de rayas dividiendo los tonos azules contra fúnebres matices oscuros negros formalizados formalmente."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Klaus Berggreen",
+      "periodo": "1982-1986",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista de Dinamarca que garantizó fuertes e históricas aportaciones asegurando los constantes avances iniciales en la Serie A a mediados de los 80."
+    },
+    {
+      "nombre": "Carlos Dunga",
+      "periodo": "1987-1988",
+      "pos": "Mediocampista",
+      "desc": "Volante central brasileño y posterior campeón mundial. Debutó en el fútbol europeo siendo titular indiscutido de este club en la Primera División de Italia."
+    },
+    {
+      "nombre": "Lamberto Piovanelli",
+      "periodo": "1983-1991",
+      "pos": "Delantero",
+      "desc": "Atacante que aportó un gran caudal de goles en su participación liguera permitiendo al equipo asegurar clasificaciones estables e históricos retornos a la Serie A."
+    },
+    {
+      "nombre": "Diego Simeone",
+      "periodo": "1990-1992",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista argentino que dio sus primeros pasos en torneos continentales europeos fortaleciendo el centro del campo del plantel a principios de la década del noventa."
+    },
+    {
+      "nombre": "Alessandro Mannini",
+      "periodo": "1978-1987",
+      "pos": "Mediocampista",
+      "desc": "Sólido portero que custodiaba habitualmente el arco durante las importantes escaladas en campeonatos de ascensos disputados a finales del siglo veinte."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Enzo Loni",
+      "goles": 78,
+      "periodo": "1940-1950",
+      "partidos": 200,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 78 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940-1950."
+    },
+    {
+      "nombre": "Lamberto Piovanelli",
+      "goles": 34,
+      "periodo": "1983-1991",
+      "partidos": 169,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 34 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1991."
+    },
+    {
+      "nombre": "Klaus Berggreen",
+      "goles": 29,
+      "periodo": "1982-1986",
+      "partidos": 124,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 29 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1986."
+    },
+    {
+      "nombre": "Sergio Bertoni",
+      "goles": 27,
+      "periodo": "1935-1938",
+      "partidos": 119,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 27 goles en competiciones oficiales durante su trayectoria en el equipo entre 1935-1938."
+    },
+    {
+      "nombre": "Alessandro Mannini",
+      "goles": 23,
+      "periodo": "1978-1987",
+      "partidos": 220,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 23 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1987."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fabrizio Barontini",
+      "partidos": 318,
+      "periodo": "1960-1974",
+      "goles": 12,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 318 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1974."
+    },
+    {
+      "nombre": "Domenico Vigna",
+      "partidos": 264,
+      "periodo": "1930-1940",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 264 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1930-1940."
+    },
+    {
+      "nombre": "Alessandro Mannini",
+      "partidos": 220,
+      "periodo": "1978-1987",
+      "goles": 23,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 220 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1987."
+    },
+    {
+      "nombre": "Emiliano Niccolini",
+      "partidos": 198,
+      "periodo": "1985-1993",
+      "goles": 11,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 198 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-1993."
+    },
+    {
+      "nombre": "Klaus Berggreen",
+      "partidos": 124,
+      "periodo": "1982-1986",
+      "goles": 29,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 124 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1986."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa Mitropa",
+      "cantidad": 2,
+      "anios": [
+        "1985-86",
+        "1987-88"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 2,
+      "anios": [
+        "1984-85",
+        "1986-87"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/pisa/Pisa_SC_1909_Old_27s%29.webp"
+    },
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/pisa/Pisa_SC_1909_Old_h27s%29.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/pisa/Pisa_Calcio_logo.svg"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/pisa/Pisa_Calcio_1995.svg"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/pisa/Acpisastemma.webp"
+    },
+    {
+      "ano": "1969",
+      "url": "/escudos_historicos/pisa/Pisa_sporting_club_1966_1969.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/pisa/Pisa_sporting_club_1969_1972.webp"
+    },
+    {
+      "ano": "1973-1983",
+      "url": "/escudos_historicos/pisa/Pisa_sporting_club_1909_1973_1983.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/pisa/Pisa_sporting_club_1909_1972_1973.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/pisa/Pisa_SC_1988.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/pisa/Pisa_Sporting_Club_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Nerazzurri",
+      "origen": "Apuntado deportivamente al emular estamentos pioneros e anclajes visuales. Copió las originarias cruces listadas alternando negro y celeste asimilando las rústicas insignias portuarias."
+    }
+  ]
+}

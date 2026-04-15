@@ -1,0 +1,247 @@
+{
+  "id": "riestra",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "capital",
+      "sur",
+      "pompeya",
+      "malevos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Deportivo Riestra Asociación de Fomento Barrio Sud",
+    "sigla": "CDR",
+    "fundacion": "22 de febrero de 1931",
+    "apodo": "Los Malevos de Pompeya",
+    "estadio_actual": "Guillermo Laza",
+    "estadio_apodo": "El Laza",
+    "estadio_capacidad": 3000,
+    "estadio_inauguracion": "1993",
+    "estadio_lat": -34.6517,
+    "estadio_lng": -58.4485,
+    "estadio_direccion": "Avenida Varela y Ana María Janer, Villa Soldati",
+    "socios": 3000,
+    "descripcion_corta": "Entidad deportiva surgida en Nueva Pompeya y fuertemente vinculada al barrio de Villa Soldati. Conocida en el fútbol argentino por su meteórico ascenso institucional, logrando escalar desde la última categoría metropolitana hasta la Primera División de manera inédita durante la última década.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "6-0 a Yupanqui (1993)",
+      "maximo_goleador": "Jonathan Herrera (108 goles)",
+      "mas_presencias": "Gonzalo Bravo (204 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1931",
+      "hito": "Fundación en Nueva Pompeya",
+      "desc": "El 22 de febrero de 1931, un grupo de jóvenes que frecuentaban la lechería de una vecina conocida como 'Melucha' en la calle Riestra, en el barrio de Nueva Pompeya, fundaron formalmente el 'Club Social, Cultural y Deportivo Riestra'. Inicialmente inscriptos en asociaciones independientes, los socios establecieron al equipo con los tradicionales colores blanco y negro, originados a partir del diseño de unas camisetas donadas en sus inicios por un comercio de la zona."
+    },
+    {
+      "ano": "1993",
+      "hito": "Inauguración del Estadio Guillermo Laza",
+      "desc": "Luego de sufrir la expropiación de su antiguo estadio en 1981, el club concretó la inauguración oficial de su nuevo recinto deportivo el 20 de febrero de 1993, en el barrio de Villa Soldati (Bajo Flores). La cancha, bautizada como Guillermo Laza en honor a un exvicepresidente de la entidad, fue construida en terrenos aledaños al estadio de San Lorenzo de Almagro, otorgando finalmente una radicación definitiva a la institución tras más de una década de ejercer su localía en estadios ajenos."
+    },
+    {
+      "ano": "2014-2017",
+      "hito": "El inicio de los múltiples ascensos",
+      "desc": "A partir de la temporada 2013/2014, el club experimentó un marcado despegue deportivo. Impulsado por los goles del delantero Jonathan Herrera, único futbolista en coronarse como máximo goleador en cuatro categorías distintas de AFA, Riestra logró el ascenso de la Primera D a la Primera C y, poco tiempo después, a la Primera B Metropolitana, consolidando la etapa más exitosa de la institución impulsada fuertemente por gestiones privadas de gerenciamiento externo."
+    },
+    {
+      "ano": "2017-2023",
+      "hito": "Ingreso a la Primera Nacional",
+      "desc": "Mateniendo una singular y estricta modalidad de entrenamiento que incluía jornadas de preparación de alta exigencia física en la madrugada en un predio balneario privado, el equipo continuó su progresión al ascender al Campeonato de Primera Nacional en 2017 y permanecer firmemente afincado en la división de plata a partir de 2019, caracterizándose por ser un equipo táctico de corte aguerrido."
+    },
+    {
+      "ano": "2023",
+      "hito": "Histórico ascenso a la Primera División",
+      "desc": "Como corolario de su década preparatoria, Deportivo Riestra participó del Torneo Reducido de la Primera Nacional en 2023. Tras superar diversas etapas eliminatorias venciendo como visitante, la institución logró el triunfo definitivo en la final por el segundo ascenso ante Deportivo Maipú de Mendoza por 1-0. De este modo, la entidad consolidó de forma histórica su ingreso a la máxima categoría profesional (Liga Profesional de Fútbol) por primera vez desde su fundación."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha de la Calle Famatina",
+      "direccion": "Famatina 3428, Nueva Pompeya",
+      "desde": 1931,
+      "hasta": 1938,
+      "estado": "Desalojado",
+      "obs": "Primer escenario deportivo utilizado formalmente por la institución mediante alquiler para la disputa de los campeonatos barriales independientes porteños.",
+      "lat": -34.651,
+      "lng": -58.412,
+      "url": "https://www.google.com/maps/search/?api=1&query=Famatina%203428%2C%20Nueva%20Pompeya"
+    },
+    {
+      "nombre": "Estadio de Lacarra y Riestra",
+      "direccion": "Avenida Riestra y Autopista (actual), Villa Soldati",
+      "desde": 1950,
+      "hasta": 1981,
+      "estado": "Expropiado y Demolido",
+      "obs": "Recinto histórico oficial del club donde Riestra se afincó en el ascenso nacional durante décadas, abandonado de manera forzosa debido a la expropiación y demolición impulsada por la última dictadura militar para el trazado de la Autopista AU7.",
+      "lat": -34.665,
+      "lng": -58.455,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Riestra%20y%20Autopista%20(actual)%2C%20Villa%20Soldati"
+    },
+    {
+      "nombre": "Estadio Guillermo Laza",
+      "direccion": "Avenida Varela y Ana María Janer, Villa Soldati",
+      "desde": 1993,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Cancha principal y actual afincada definitivamente en el Bajo Flores en inmediata cercanía de la ciudad deportiva de San Lorenzo de Almagro, con instalaciones que fueron modernizándose a medida que el club ascendió divisionalmente.",
+      "lat": -34.6655,
+      "lng": -58.456,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Varela%20y%20Ana%20Mar%C3%ADa%20Janer%2C%20Villa%20Soldati"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1931,
+      "hasta": null,
+      "c1": "#000000",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Tela gloriosamente enmarcada romántica cruda y formal de rayas verticales delgadas oscuras y blancas rememorando estrictas fundaciones y barriales del sur asfáltico letal porteño sin jamás corromperse en la matriz comercial estatutaria actual."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Milton Céliz",
+      "pos": "Delantero",
+      "apodo": "Milton",
+      "periodo": "2023-Hoy",
+      "desc": "Líder del plantel en etapas modernas. Aportó tanto valiosas cifras anotadoras como presencia innegociable en el campo que contribuyeron directamente al mayor salto institucional en la máxima categoría."
+    },
+    {
+      "nombre": "Víctor Gómez",
+      "pos": "Delantero",
+      "apodo": "Gómez",
+      "periodo": "2014-2019",
+      "desc": "Director técnico y administrador a cargo de la reconstrucción competitiva institucional. Permitió las bases organizativas primordiales para impulsar formidables ascensos en diversas y consecutivas divisiones en escasas temporadas."
+    },
+    {
+      "nombre": "Gonzalo Bravo",
+      "pos": "Delantero",
+      "apodo": "Gonza",
+      "periodo": "2014-2023",
+      "desc": "Habilidoso centrocampista volcado al ataque. Destacó en las últimas décadas rompiendo redes hasta lograr asombrosas estadísticas goleadoras que lo erigieron como figura inmensamente representativa ante el público local."
+    },
+    {
+      "nombre": "Jonathan Herrera",
+      "pos": "Centrodelantero",
+      "apodo": "El Sultán",
+      "periodo": "2013-2018",
+      "desc": "Delantero y artillero abanderado ostentando un récord extraordinario a nivel país: se consagró goleador absoluto vistiendo esta misma camiseta en cuatro categorías diferentes consecutivas del ascenso nacional."
+    },
+    {
+      "nombre": "Guillermo Szeszurak",
+      "pos": "Director Técnico",
+      "apodo": "El Búfalo",
+      "periodo": "2014-2015",
+      "desc": "Símbolo desde la conducción técnica forjado en la Primera D. Aportó rigor táctico fundamental al conformar planteles sólidos de un alto espíritu combativo abriéndole paso a los torneos superiores del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jonathan Herrera",
+      "goles": 108,
+      "partidos": 173,
+      "periodo": "2013-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2020."
+    },
+    {
+      "nombre": "Gonzalo Bravo",
+      "goles": 38,
+      "partidos": 204,
+      "periodo": "2015-Actualidad",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Actualidad."
+    },
+    {
+      "nombre": "Sebastián Soto",
+      "goles": 25,
+      "partidos": 100,
+      "periodo": "2014-2018",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2018."
+    },
+    {
+      "nombre": "Milton Céliz",
+      "goles": 15,
+      "partidos": 65,
+      "periodo": "2020-Actualidad",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-Actualidad."
+    },
+    {
+      "nombre": "Walter Acuña",
+      "goles": 12,
+      "partidos": 40,
+      "periodo": "2022",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 12 goles en competiciones oficiales durante su trayectoria en el equipo entre 2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Gonzalo Bravo",
+      "partidos": 204,
+      "periodo": "2015-Actualidad",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 204 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Actualidad."
+    },
+    {
+      "nombre": "Jonathan Herrera",
+      "partidos": 173,
+      "periodo": "2013-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 173 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2020."
+    },
+    {
+      "nombre": "Mauricio Soto",
+      "partidos": 155,
+      "periodo": "2014-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 155 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2020."
+    },
+    {
+      "nombre": "Leandro Freyre",
+      "partidos": 140,
+      "periodo": "2013-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 140 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2018."
+    },
+    {
+      "nombre": "Víctor Gómez",
+      "partidos": 130,
+      "periodo": "1990s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 130 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990s."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ascensos Históricos y Divisiones de Ascenso",
+      "cantidad": 4,
+      "años": [
+        "1953",
+        "2014",
+        "2017",
+        "2023"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/riestra.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Malevos",
+      "origen": "Extraído fielmente de los términos literarios pertenecientes a la poética tanguera del histórico arrabal vecinal. Forjado en su núcleo para denominar al bravío marginal y al criollo habitante característico de sus territorios fundacionales periféricos sureños."
+    }
+  ]
+}

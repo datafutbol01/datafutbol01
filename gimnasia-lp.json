@@ -1,0 +1,34 @@
+{
+  "id": "gimnasia-lp",
+  "datos": {
+    "nombre_oficial": "Club de Gimnasia y Esgrima La Plata",
+    "nombre_corto": "Gimnasia LP",
+    "apodos": [
+      "El Lobo",
+      "El Tripero"
+    ],
+    "fundacion": "1887-06-03",
+    "ciudad": "La Plata",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Juan Carmelo Zerillo",
+    "estadio_capacidad": 30708,
+    "estadio_lat": -34.9011,
+    "estadio_lng": -57.9518,
+    "debut_primera": 1916
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "mitades_diagonales"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

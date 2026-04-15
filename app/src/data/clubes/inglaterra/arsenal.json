@@ -1,0 +1,470 @@
+{
+  "id": "arsenal",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "gunners",
+      "highbury",
+      "londres"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Arsenal Football Club",
+    "sigla": "ARS",
+    "fundacion": "Octubre de 1886",
+    "apodo": "The Gunners",
+    "estadio_actual": "Emirates Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 60704,
+    "estadio_inauguracion": "2006",
+    "estadio_lat": 51.5551,
+    "estadio_lng": -0.1084,
+    "estadio_direccion": "Hornsey Rd, London N7 7AJ",
+    "socios": 70000,
+    "descripcion_corta": "Fundado por obreros de la fábrica de armamento Royal Arsenal en el sureste de Londres en 1886. En 1913 se trasladaron sorpresivamente al norte de la ciudad. Ostentan el récord absoluto de más coronaciones en la historia de la tradicional FA Cup (14) y son los dueños de la inigualada temporada invicta de 2003-04 en la Premier League.",
+    "paleta": [
+      {
+        "tag": "Rojo Fuerte",
+        "hex": "#EF0107"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "12-0 a Loughborough (Marzo 1900)",
+      "maximo_goleador": "Thierry Henry (228 goles)",
+      "mas_presencias": "David O'Leary (722 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1886",
+      "hito": "Fundación en la fábrica de armamentos (Dial Square)",
+      "desc": "A finales de octubre de 1886, un grupo de quince trabajadores del taller 'Dial Square' dentro de la fábrica de armamentos y municiones Royal Arsenal (ubicada en Woolwich, sureste de Londres) decidió formar un equipo de fútbol. Liderados por David Danskin, un ingeniero mecánico escocés aficionado al deporte, y Jack Humble, los obreros fundadores realizaron una pequeña colecta (cada uno aportó seis peniques, y Danskin aportó tres chelines adicionales) para comprar su primera pelota de cuero. El 11 de diciembre de ese mismo año disputaron su primer partido en un terreno baldío de la Isla de los Perros, goleando 6-0 al Eastern Wanderers. Poco después, el día de Navidad, celebraron una asamblea en el pub Royal Oak donde cambiaron su primer nombre por el de 'Royal Arsenal'."
+    },
+    {
+      "ano": "1913",
+      "hito": "Dificultades geográficas y mudanza a Highbury",
+      "desc": "A lo largo de los primeros años del siglo XX, la ubicación geográfica aislada de la fábrica en Woolwich dificultaba enormemente la asistencia de espectadores. La caída en las recaudaciones y los malos resultados derivaron en el descenso de categoría en la temporada 1912-13. Como audaz y urgente medida de rescate corporativo, el magnate y político Henry Norris adquirió el club y tomó la polémica decisión de mudar toda la institución desde el sur hacia el norte de Londres, alquilando los terrenos de una escuela de teología en Highbury para construir su nuevo estadio. Al año siguiente, el club suprimió la palabra 'Woolwich' de su nombre corporativo, pasando a llamarse definitivamente Arsenal Football Club."
+    },
+    {
+      "ano": "1930-1938",
+      "hito": "Herbert Chapman y el dominio de los años treinta",
+      "desc": "La institución experimentó la mayor revolución táctica y administrativa de su historia con la llegada del legendario entrenador Herbert Chapman en 1925. Chapman introdujo el famoso esquema táctico defensivo conocido como 'W-M', inventó e incorporó las clásicas mangas blancas en las camisetas rojas para facilitar que los jugadores se reconocieran mejor sobre el campo de juego, e impulsó innovaciones como la inclusión de enormes relojes públicos en las tribunas. Este profundo proceso de modernización catapultó al equipo, logrando dominar por completo el fútbol inglés con múltiples títulos de liga y FA Cups a lo largo de la década de 1930, estableciéndose como el club más importante y glamoroso del Reino Unido en la sociedad de preguerra."
+    },
+    {
+      "ano": "2003-2004",
+      "hito": "Los Invencibles de Arsène Wenger",
+      "desc": "Bajo el mando técnico del visionario entrenador francés Arsène Wenger, el club desarrolló su campaña más laureada y recordada en la era contemporánea. Durante la temporada 2003-2004, el Arsenal logró conquistar el título de la Premier League sin registrar absolutamente ninguna derrota en los treinta y ocho exhaustivos partidos disputados (concluyendo con 26 triunfos y 12 empates). Por esta gesta estadística completamente inédita en los registros del fútbol inglés moderno, las autoridades de la competición procedieron a premiar a la entidad con una réplica exclusiva del trofeo liguero esculpida íntegramente en oro masivo."
+    },
+    {
+      "ano": "2006",
+      "hito": "Cierre de Highbury y mudanza al Emirates Stadium",
+      "desc": "Frente a la absoluta imposibilidad urbanística y legal de continuar ampliando estructuralmente las tradicionales gradas de su estadio histórico en Highbury (limitado estrictamente por zonas residenciales inalterables), la comisión directiva trazó un colosal plan maestro para emprender un nuevo y ambicioso traslado en el mismo barrio. En 2006, la institución concretó la fastuosa inauguración del ultra moderno Emirates Stadium en los antiguos y abandonados terrenos industriales que pertenecían a Ashburton Grove, expandiendo masivamente el aforo receptivo del club a más de 60.000 asientos con el fin de asegurar que el equipo pudiese estabilizar y mantener de manera firme su sostenibilidad competitiva y monetaria compitiendo de tú a tú en el máximo y elitista plano rentado del mundo balompédico europeo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Highbury (Arsenal Stadium)",
+      "direccion": "Avenell Rd, Highbury, London N5 1BU",
+      "desde": 1913,
+      "hasta": 2006,
+      "estado": "Histórico",
+      "obs": "Estadio principal del club por más de 90 años. Destacó arquitectónicamente por las monumentales tribunas de estilo Art Decó construidas en la etapa de Herbert Chapman. El estadio fue clausurado definitivamente en 2006 porque no podía ampliarse más. El bloque de tribunas fue remodelado bajo el formato de complejo de departamentos privados.",
+      "lat": 51.5578,
+      "lng": -0.1028,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenell%20Rd%2C%20Highbury%2C%20London%20N5%201BU"
+    },
+    {
+      "nombre": "Emirates Stadium",
+      "direccion": "Hornsey Rd, London N7 7AJ",
+      "desde": 2006,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Actual estadio y centro total de las operaciones del club, con aforo para más de 60 mil simpatizantes. Construido por la suma total estimada de 390 millones de libras que conllevó una estrechez financiera del equipo los años siguientes a su inauguración.",
+      "lat": 51.5551,
+      "lng": -0.1084,
+      "url": "https://www.google.com/maps/search/?api=1&query=Hornsey%20Rd%2C%20London%20N7%207AJ"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1886,
+      "hasta": 1933,
+      "c1": "#cc0000",
+      "c2": "#cc0000",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "El legendario escuadrón armero originariamente vestía camisas de un oscuro y opaco rojo liso regalado por filántropos provenientes del colosal Nottingham, puristas de cepa de pies a cabeza."
+    },
+    {
+      "desde": 1933,
+      "hasta": null,
+      "c1": "#ef0107",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Magnífica revolución visual y funcional estatuida por obra genial del mítico conductor Herbert Chapman concibiendo mangas albas inconfundibles junto a su ruda pechera lisa en reluciente rojo bermellón brillante."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Thierry Henry",
+      "pos": "Delantero",
+      "apodo": "Titi",
+      "periodo": "1999-2007, 2012",
+      "desc": "Máximo goleador histórico y emblema indiscutido de la institución. Dotado de una velocidad y técnica insuperables, lideró la memorable gesta de 'Los Invencibles' en la Premier League 2003-04 y consolidó la hegemonía del club en los inicios del nuevo milenio."
+    },
+    {
+      "nombre": "David O'Leary",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1975-1993",
+      "desc": "Sostiene el récord absoluto de presencias con el primer equipo al superar la barrera de los 700 partidos. Defensor central sobrio e inagotable que fue el bastión de la zaga durante dos décadas enteras, obteniendo títulos en los 80s y 90s."
+    },
+    {
+      "nombre": "Tony Adams",
+      "pos": "Defensor Central",
+      "apodo": "Mr. Arsenal",
+      "periodo": "1983-2002",
+      "desc": "El gran capitán de la era moderna, apodado 'Mr. Arsenal'. Lideró con extrema firmeza la famosa solidez defensiva del equipo durante más de 15 años, alzando títulos de liga en tres décadas distintas antes de su retiro profesional en 2002."
+    },
+    {
+      "nombre": "Ian Wright",
+      "pos": "Delantero",
+      "apodo": "Wrighty",
+      "periodo": "1991-1998",
+      "desc": "Artillero carismático y letal de la década de 1990 que rompió el récord goleador histórico del equipo antes de ser superado por Henry. Fue el principal protagonista ofensivo en la obtención de la histórica doble corona (Liga y Copa) en 1998."
+    },
+    {
+      "nombre": "Patrick Vieira",
+      "pos": "Mediocampista Central",
+      "apodo": "",
+      "periodo": "1996-2005",
+      "desc": "Imponente mediocampista central francés y estandarte táctico del equipo dirigido por Arsène Wenger. Combinaba un brutal rigor físico con una notable lucidez para distribuir, capitaneando la inolvidable plantilla de la temporada invicta."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Thierry Henry",
+      "goles": 228,
+      "partidos": 377,
+      "periodo": "1999-2012",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 228 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2012."
+    },
+    {
+      "nombre": "Ian Wright",
+      "goles": 185,
+      "partidos": 288,
+      "periodo": "1991-1998",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 185 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-1998."
+    },
+    {
+      "nombre": "Cliff Bastin",
+      "goles": 178,
+      "partidos": 396,
+      "periodo": "1929-1947",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 178 goles en competiciones oficiales durante su trayectoria en el equipo entre 1929-1947."
+    },
+    {
+      "nombre": "John Radford",
+      "goles": 149,
+      "partidos": 481,
+      "periodo": "1964-1976",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1976."
+    },
+    {
+      "nombre": "Jimmy Brain",
+      "goles": 139,
+      "partidos": 232,
+      "periodo": "1923-1931",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 139 goles en competiciones oficiales durante su trayectoria en el equipo entre 1923-1931."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "David O'Leary",
+      "partidos": 722,
+      "periodo": "1975-1993",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 722 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1993."
+    },
+    {
+      "nombre": "Tony Adams",
+      "partidos": 669,
+      "periodo": "1983-2002",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 669 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-2002."
+    },
+    {
+      "nombre": "George Armstrong",
+      "partidos": 621,
+      "periodo": "1961-1977",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 621 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1961-1977."
+    },
+    {
+      "nombre": "Lee Dixon",
+      "partidos": 619,
+      "periodo": "1988-2002",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 619 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-2002."
+    },
+    {
+      "nombre": "Nigel Winterburn",
+      "partidos": 584,
+      "periodo": "1987-2000",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 584 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1987-2000."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division / Premier League",
+      "cantidad": 13,
+      "años": [
+        "1930-31",
+        "1932-33",
+        "1933-34",
+        "1934-35",
+        "1937-38",
+        "1947-48",
+        "1952-53",
+        "1970-71",
+        "1988-89",
+        "1990-91",
+        "1997-98",
+        "2001-02",
+        "2003-04"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 14,
+      "años": [
+        "1929-30",
+        "1935-36",
+        "1949-50",
+        "1970-71",
+        "1978-79",
+        "1992-93",
+        "1997-98",
+        "2001-02",
+        "2002-03",
+        "2004-05",
+        "2013-14",
+        "2014-15",
+        "2016-17",
+        "2019-20"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 2,
+      "años": [
+        "1986-87",
+        "1992-93"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 17,
+      "años": [
+        "1930",
+        "1931",
+        "1933",
+        "1934",
+        "1938",
+        "1948",
+        "1953",
+        "1991",
+        "1998",
+        "1999",
+        "2002",
+        "2004",
+        "2014",
+        "2015",
+        "2017",
+        "2020",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa UEFA",
+      "cantidad": 1,
+      "años": [
+        "1993-94"
+      ]
+    },
+    {
+      "nombre": "Copa de Ferias",
+      "cantidad": 1,
+      "años": [
+        "1969-70"
+      ]
+    },
+    {
+      "nombre": "Centenary Trophy",
+      "cantidad": 1,
+      "años": [
+        "1988"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1888",
+      "url": "/escudos/arsenal/Crest-1888.webp"
+    },
+    {
+      "ano": "1904",
+      "url": "/escudos_historicos/arsenal/arsenal_1904_web.jpg"
+    },
+    {
+      "ano": "1922",
+      "url": "/escudos_historicos/arsenal/arsenal_1922_web.png"
+    },
+    {
+      "ano": "1925",
+      "url": "/escudos_historicos/arsenal/arsenal_1925_web.png"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1927).svg"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos_historicos/arsenal/arsenal_1927_web.png"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos/arsenal/Arsenal_FC_(1930s).svg"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/arsenal/arsenal_1930_web.png"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1932).svg"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/arsenal/arsenal_1932_web.png"
+    },
+    {
+      "ano": "1936",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1936).svg"
+    },
+    {
+      "ano": "1936",
+      "url": "/escudos_historicos/arsenal/arsenal_1936_web.png"
+    },
+    {
+      "ano": "1949",
+      "url": "/escudos/arsenal/Arsenal_Victoria.webp"
+    },
+    {
+      "ano": "1949",
+      "url": "/escudos_historicos/arsenal/arsenal_1949_web.png"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1950).svg"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos_historicos/arsenal/arsenal_1950_web.png"
+    },
+    {
+      "ano": "1952",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1952).svg"
+    },
+    {
+      "ano": "1952",
+      "url": "/escudos_historicos/arsenal/arsenal_1952_web.png"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1967-1977).svg"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos_historicos/arsenal/arsenal_1967_web.png"
+    },
+    {
+      "ano": "1971",
+      "url": "/escudos_historicos/arsenal/arsenal_1971_web.png"
+    },
+    {
+      "ano": "1978",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1978-1989).svg"
+    },
+    {
+      "ano": "1978",
+      "url": "/escudos_historicos/arsenal/arsenal_1978_web.png"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/arsenal/arsenal_1985_web.png"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1990-1993).svg"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos_historicos/arsenal/arsenal_1990_web.png"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1994-1995).svg"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/arsenal/arsenal_1994_web.png"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/arsenal/arsenal_1995_web.png"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(1996-2000).svg"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/arsenal/arsenal_1998_web.png"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos/arsenal/Arsenal_FC_logo_(2001-2002).svg"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/arsenal/arsenal_2001_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/arsenal/arsenal_2002_web.png"
+    },
+    {
+      "ano": "2005",
+      "url": "/escudos_historicos/arsenal/arsenal_2005_web.png"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos_historicos/arsenal/arsenal_2011_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/arsenal/Arsenal_FC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Gunners",
+      "origen": "Adjudicado a raíz de sus profundos orígenes obreros vinculados estrictamente a la industria armamentística a finales del siglo. El ensamble principal de peones pioneros que constituyeron en base al club en 1886 ganaban el sustento labrando pólvora pesada y municiones dentro del complejo logístico del Real Arsenal militar, emplazado geográficamente y originariamente en la región de Woolwich, consolidando a prueba de balas el título legendario de artilleros puros."
+    }
+  ]
+}

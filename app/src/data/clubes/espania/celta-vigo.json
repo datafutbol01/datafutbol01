@@ -1,0 +1,299 @@
+{
+  "id": "celta-vigo",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "celta",
+      "vigo",
+      "galicia"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Club Celta de Vigo",
+    "sigla": "CEL",
+    "fundacion": "23 de agosto de 1923",
+    "apodo": "Celestes, Célticos",
+    "estadio_actual": "Abanca Balaídos",
+    "estadio_apodo": "Balaídos",
+    "estadio_capacidad": 24791,
+    "estadio_inauguracion": "30 de diciembre de 1928",
+    "estadio_lat": 42.212,
+    "estadio_lng": -8.7402,
+    "estadio_direccion": "Rúa de Val Miñor, 1, 36210 Vigo, Pontevedra, España",
+    "socios": 20000,
+    "descripcion_corta": "Entidad gallega consolidada.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#87CEEB"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Iago Aspas (200+)",
+      "mas_presencias": "Iago Aspas (500+)"
+    },
+    "nombre_oficial": "Real Club Celta de Vigo S.A.D.",
+    "nombre_corto": "Celta de Vigo"
+  },
+  "historia": [
+    {
+      "ano": "1923",
+      "hito": "El Pacto por Galicia: Fusión del Celta",
+      "desc": "El oleaje atlántico empujó un pacto cívico y deportivo sin parangón en las rías gallegas. Entrada la década de los veinte, la ciudad marinera sufría el sangriento cisma competitivo entre sus dos tótems ineludibles: el aristócrata 'Real Vigo Sporting Club' y el ferviente 'Real Club Fortuna de Vigo'. Sabedor de que divididos eran presa fácil ante los poderes castellanos y vascos, el brillante periodista deportivo Manuel de Castro, apodado históricamente 'Handicap', lideró una cruzada diplomática incansable por la hermandad. Su utopía se concretó el vibrante 23 de agosto de 1923, en los solemnes salones de la Federación Gallega. Custodiados por pilares fundamentales como Juan Baliño Ledo y el Pepe Bar, ambas directivas firmaron la claudicación de sus propios colores en nombre de un escudo y supremo que protegiera a toda Galicia. Renegaron del anglicismo 'Foot-ball' y, enarbolando un brutal orgullo ancestral, lo bautizaron solemnemente bajo el peso celta. Tiñeron su ropa con el color exacto del gélido cielo gallego en honra perpetua a su mar."
+    },
+    {
+      "ano": "1936",
+      "hito": "El Ascenso a la Tierra Prometida",
+      "desc": "El conjunto gallego consiguió de forma agónica y apoteósica su ansiado primer billete a la Primera División española, aunque el estallido de la guerra postergaría su debut oficial en la élite."
+    },
+    {
+      "ano": "1998-1999",
+      "hito": "EuroCelta: Fútbol Espectáculo",
+      "desc": "Mostosovoi, Karpin, Gustavo López y Catanha armaron el famoso 'EuroCelta'. Un equipo poético en su juego que asedió a la Juventus, humilló al Aston Villa y desató admiración total en cada rincón europeo donde pisó."
+    },
+    {
+      "ano": "2003",
+      "hito": "Clasificación Inédita a la Champions",
+      "desc": "Tras otra campaña desbordante de talento y coraje, el club certificó un hito legendario: se apoderó de los ránkings y entró matemáticamente en la máxima competición continental por primera y gloriosa vez."
+    },
+    {
+      "ano": "2017",
+      "hito": "A las Puertas de la Gloria en Mánchester",
+      "desc": "El Celta protagonizó la gesta moderna de alcanzar las semifinales de la Europa League al borde del mito en Old Trafford contra el Manchester United, enamorando a todo Vigo a pesar de la milimétrica eliminación."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Balaídos",
+      "capacidad": "24.791",
+      "inauguracion": "1928",
+      "url": "https://www.google.com/maps/search/?api=1&query=R%C3%BAa%20de%20Bala%C3%ADdos%2C%20s%2Fn%2C%2036210%20Vigo%2C%20Pontevedra",
+      "direccion": "Rúa de Balaídos, s/n, 36210 Vigo, Pontevedra",
+      "descripcion": "Un bastión inquebrantable cerca de la ría gallega, donde el himno celta resuena a capela por su ferviente hinchada."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1923,
+      "hasta": null,
+      "c1": "#6CABDD",
+      "c2": "#6CABDD",
+      "sh": "#ffffff",
+      "me": "#6CABDD",
+      "tipo": "liso",
+      "desc": "Escudo y ropaje formal crudo riguroso liso teñido asombrosamente fiel con brillante y tono celeste mar emulando letales y a la mismísima indomable pureza de la cruz poética del honor y bandera del mar gallego."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Alexander Mostovoi",
+      "periodo": "1996-2004",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ruso que fue el referente ofensivo durante las competiciones europeas de fines de los años 90."
+    },
+    {
+      "nombre": "Valery Karpin",
+      "periodo": "1997-2002",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista organizador de origen ruso. Conformó el equipo titular en la Copa de la UEFA."
+    },
+    {
+      "nombre": "Gustavo López",
+      "periodo": "1999-2007",
+      "pos": "Delantero",
+      "desc": "Extremo argentino que jugó ocho años en el club y alcanzó el subcampeonato de la Copa del Rey en 2001."
+    },
+    {
+      "nombre": "Hugo Mallo",
+      "periodo": "2009-2023",
+      "pos": "Defensa",
+      "desc": "Lateral derecho y capitán. Posee el récord absoluto de mayor cantidad de partidos jugados en la historia del club."
+    },
+    {
+      "nombre": "Iago Aspas",
+      "periodo": "2008-2024",
+      "pos": "Delantero",
+      "desc": "Máximo goleador histórico del club en Primera División y ganador de cuatro Trofeos Zarra de España."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Iago Aspas",
+      "goles": 204,
+      "periodo": "2008-2024",
+      "partidos": 493,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 204 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2024."
+    },
+    {
+      "nombre": "Vlado Gudelj",
+      "goles": 113,
+      "periodo": "1991-1999",
+      "partidos": 258,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 113 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-1999."
+    },
+    {
+      "nombre": "Pahiño",
+      "goles": 91,
+      "periodo": "1943-1948",
+      "partidos": 104,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 91 goles en competiciones oficiales durante su trayectoria en el equipo entre 1943-1948."
+    },
+    {
+      "nombre": "Catanha",
+      "goles": 46,
+      "periodo": "2000-2004",
+      "partidos": 139,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000-2004."
+    },
+    {
+      "nombre": "Nolito",
+      "goles": 40,
+      "periodo": "2013-2020",
+      "partidos": 130,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2020."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Iago Aspas",
+      "partidos": 500,
+      "periodo": "2008-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 500 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2024."
+    },
+    {
+      "nombre": "Hugo Mallo",
+      "partidos": 449,
+      "periodo": "2009-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 449 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2023."
+    },
+    {
+      "nombre": "Atilano Vecino",
+      "partidos": 393,
+      "periodo": "1982-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 393 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1994."
+    },
+    {
+      "nombre": "Juan Fernández",
+      "partidos": 348,
+      "periodo": "1969-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 348 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1980."
+    },
+    {
+      "nombre": "Vlado Gudelj",
+      "partidos": 258,
+      "periodo": "1991-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 258 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1991-1999."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa Intertoto",
+      "cantidad": 1,
+      "anios": [
+        "2000"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 3,
+      "anios": [
+        "1935-36",
+        "1981-82",
+        "1991-92"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1923.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1924.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1925.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1928.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1931.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1933.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1936.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1939.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1941.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1942.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1948.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1954.webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1957.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1960.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1972.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1984.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/celta-vigo/Celta_Vigo_1990.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/celta-vigo/Celta_de_Vigo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/celta-vigo.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Celestes",
+      "origen": "Bautismo dictaminado estrictamente tras constituirse el acta fundacional originaria del equipo frente a su nacimiento en fusiones durante los años nacientes e incesantes formativos originarios temporales de de agosto en de 1923 base incesante histórica. Como convención originaria directa fáctica fundando del unión incesante naciente base los dos clubes base nacientes fundadores locales unificados incesantes (El extinto Vigo Sporting y naciente base Real Club Fortuna histórico), se escogió incitando incesante utilizar crudo ininterrumpidamente las famosas ropas y distintivos naturales celestine originario color naval fáctico de cielos azules de históricas bases banderas gallegas adoptados por oficial directiva central para el eterno originante equipo general unificado originario del celta vigués fáctico."
+    },
+    {
+      "apodo": "Los Olívicos",
+      "origen": "Apodo heredado formalmente proveniente de incesante la pura denominación originaria oficial textual en un legendario ícono geográfico e histórico afincado local escudo puro purista y e original medieval municipal incautando e insertado fáctico base oficial provincial y purista al local oficial textualmente incesante de de naciente original oficial geográfico escudo central del heráldico de natural de originario puros base la local de Vigo originante. Refiriendo póstumo base textualmente origen incesante del majestuoso origen oficial céntrico temporal árbol antiguo incesante sagrado fáctico o e icónico natural local de histórico olivo de los antiguos nacientes y puros y templarios monjes originales puros incesantes incautando base originario base de de y fácticos puristas."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "real-sociedad",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "real sociedad",
+      "san sebastian"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Sociedad de Fútbol",
+    "sigla": "RSO",
+    "fundacion": "7 de septiembre de 1909",
+    "apodo": "Txuri-Urdines",
+    "estadio_actual": "Estadio Anoeta",
+    "estadio_apodo": "Reale Arena",
+    "estadio_capacidad": 40000,
+    "estadio_inauguracion": "13 de agosto de 1993",
+    "estadio_lat": 43.3013,
+    "estadio_lng": -1.9734,
+    "estadio_direccion": "Anoeta Pasealekua, 1, 20014 Donostia, Gipuzkoa, España",
+    "socios": 38000,
+    "descripcion_corta": "Entidad representativa de la urbe guipuzcoana.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#005BA6"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jesús María Satrústegui (162)",
+      "mas_presencias": "Alberto Górriz (599)"
+    },
+    "nombre_oficial": "Real Sociedad de Fútbol S.A.D.",
+    "nombre_corto": "Real Sociedad"
+  },
+  "historia": [
+    {
+      "ano": "1909",
+      "hito": "Fundación del Muro Txuri-Urdin",
+      "desc": "Las gélidas mareas cantábricas y la apacible brisa de la preciosa playa de La Concha acunaron una fundación pionera forjada en el barro donostiarra. Hartos de disputar precarios recintos prestados y conformados velozmente a partir de atléticos y deportistas escindidos del originario Club Ciclista en San Sebastián, el parto oficial y como 'Sociedad de Fútbol' atronó y retumbó por los pasillos vascos la lluviosa tarde del 7 de septiembre de 1909. La engorrosa pluma burocrática recayó irremediablemente sobre los hombros fundacionales del tenaz presidente Adolfo Sáenz Alonso, quien gozaba del indispensable y estricto coraje organizativo de próceres legendarios como Tomás Guruceta y Primitivo Gafoz. Enfundados visual y sagradamente desde sus raíces absolutas en la gloriosa indumentaria de listones blanquiazules (aquella mítica txuri-urdin irrenunciable), esta casta visionaria selló los pilares inquebrantables de un fútbol regional cerrado y, garantizando el respeto de una institución cívica impoluta que destella honor, linaje vasco intocable e insufla terror a cualquier potencia europea."
+    },
+    {
+      "ano": "1981-1982",
+      "hito": "El Bicampeonato del Zamora Intratable",
+      "desc": "Arconada forjó el muro de roble más sólido que conoció la historia del club e indujo a un místico plantel vasco liderado junto a Zamora y Satrústegui a levantar gloriosamente Liga y repitirla como leyenda."
+    },
+    {
+      "ano": "1987",
+      "hito": "Zaragoza Testigo del Poder",
+      "desc": "Tras la agónica y salvaje tanda de penales con los guantes blindados de Arconada volando salvadoramente, atestiguaron un grito copero frente al Atlético de Madrid de Luis Aragonés."
+    },
+    {
+      "ano": "2003",
+      "hito": "A Punto del Olimpo y Kovacevic",
+      "desc": "Con un letal De Pedro y Nihat-Kovacevic humillando e infligiendo terror constante liderando las redes, empujaron con épico tesón el milagro acariciando y perdiendo el título que coronó final el Real Madrid."
+    },
+    {
+      "ano": "2021",
+      "hito": "El Título Bajo una Oscura Pandemia",
+      "desc": "Con un Mikel Oyarzabal descontrolando redes mediante la letal pena máxima vasca, conquistaron y resucitaron al club tras alzar épicamente el derbi en una ansiada Copa del Rey donostiarra en estadios vaciados."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Anoeta",
+      "capacidad": "39.500",
+      "inauguracion": "1993",
+      "url": "https://www.google.com/maps/search/?api=1&query=Anoeta%20Pasalekua%2C%201%2C%2020014%20Donostia%2C%20Gipuzkoa",
+      "direccion": "Anoeta Pasalekua, 1, 20014 Donostia, Gipuzkoa",
+      "descripcion": "Majestuosa casa txuri-urdin remodelada sin la gélida pista de atletismo, acercando el grito sagrado vasco directo al pasto."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1909,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Estableciendo la divinidad poética cruda y fáctica blanquiazul y gloriosa importada cívica para trazar en el viento donostiarra legendarias puristas crudas y rayas verticales inmortales marinas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Luis Arconada",
+      "periodo": "1974-1989",
+      "pos": "Arquero",
+      "desc": "Guardameta internacional español y capitán del club. Fue referente en los dos campeonatos de Primera División ganados de forma consecutiva en las temporadas 1980-81 y 1981-82."
+    },
+    {
+      "nombre": "Roberto López Ufarte",
+      "periodo": "1975-1987",
+      "pos": "Delantero",
+      "desc": "Delantero de excelente calidad técnica. Formó parte principal del histórico equipo que se coronó bicampeón de liga a principios de la década de 1980."
+    },
+    {
+      "nombre": "Mikel Oyarzabal",
+      "periodo": "2015-2025",
+      "pos": "Delantero",
+      "desc": "Extremo formado en la cantera local. Anotó el gol de penal decisivo en la final frente al clásico rival que otorgó la Copa del Rey de 2020 al club."
+    },
+    {
+      "nombre": "Jesús María Zamora",
+      "periodo": "1974-1989",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista organizador autor de un histórico y agónico gol en 1981, el cual permitió asegurar matemáticamente el primer campeonato de liga de la institución."
+    },
+    {
+      "nombre": "Darko Kovačević",
+      "periodo": "1996-2007",
+      "pos": "Delantero",
+      "desc": "Delantero internacional de Serbia. Resultó ser el máximo anotador del plantel durante la histórica clasificación y subcampeonato de liga en la campaña de 2002-03."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jesús María Satrústegui",
+      "goles": 162,
+      "periodo": "1973-1986",
+      "partidos": 374,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 162 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1986."
+    },
+    {
+      "nombre": "Darko Kovačević",
+      "goles": 107,
+      "periodo": "Varios",
+      "partidos": 286,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 107 goles en competiciones oficiales durante su trayectoria en el equipo entre Varios."
+    },
+    {
+      "nombre": "Mikel Oyarzabal",
+      "goles": 97,
+      "periodo": "2015-2025",
+      "partidos": 343,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 97 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2025."
+    },
+    {
+      "nombre": "Roberto López Ufarte",
+      "goles": 129,
+      "periodo": "1975-1987",
+      "partidos": 474,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1987."
+    },
+    {
+      "nombre": "Meho Kodro",
+      "goles": 81,
+      "periodo": "1991-1995",
+      "partidos": 146,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 81 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-1995."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alberto Górriz",
+      "partidos": 599,
+      "periodo": "1979-1993",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 599 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1993."
+    },
+    {
+      "nombre": "Juan Antonio Larrañaga",
+      "partidos": 589,
+      "periodo": "1980-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 589 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1994."
+    },
+    {
+      "nombre": "Jesús María Zamora",
+      "partidos": 588,
+      "periodo": "1974-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 588 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1989."
+    },
+    {
+      "nombre": "Luis Arconada",
+      "partidos": 551,
+      "periodo": "1974-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 551 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1989."
+    },
+    {
+      "nombre": "Xabi Prieto",
+      "partidos": 532,
+      "periodo": "2003-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 532 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2018."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 2,
+      "anios": [
+        "1980-81",
+        "1981-82"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 3,
+      "anios": [
+        "1909",
+        "1987",
+        "2020"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 1,
+      "anios": [
+        "1982"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 3,
+      "anios": [
+        "1948-49",
+        "1966-67",
+        "2009-10"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad.webp"
+    },
+    {
+      "ano": "1910",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1910.webp"
+    },
+    {
+      "ano": "1923",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1923.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1930.webp"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1931.webp"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1932.webp"
+    },
+    {
+      "ano": "1933",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1933.webp"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1940.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos_historicos/real-sociedad/Real_Sociedad_1942.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/real-sociedad.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Txuri-Urdin",
+      "origen": "Asignación instalada y unificada de procedencia enteramente lingüística. Deriva y asimila en forma directa las descripciones bicolores propias correspondientes para referenciar la vestimenta basándose en el vocablo del origen puramente nativo de su entorno popular o lengua euskera histórica vasca para representar paralelamente y traducir tanto a las franjas y tono blanco (txuri) sumando su acompañante oscuro color naval o azul (urdin)."
+    }
+  ]
+}

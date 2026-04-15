@@ -1,0 +1,85 @@
+{
+  "datos": {
+    "nombre_corto": "Real Valladolid",
+    "estadio_actual": "Estadio José Zorrilla",
+    "estadio_direccion": "Av. del Mundial 82, s/n, 47014 Valladolid",
+    "estadio_lat": 41.6444,
+    "estadio_lng": -4.7612
+  },
+  "historia": [
+    "Nace el 20 de junio de 1928 de la intrépida fusión entre el Real Unión Deportiva y el Club Deportivo Español. Forjó la estirpe pucelana blanquivioleta en los páramos castellanos.",
+    "Templo de coraje y cantera inagotable. Ha sobrevivido estoicamente alternando categorías pero alzando el trofeo de la mítica Copa de la Liga de 1984."
+  ],
+  "canchas": [
+    {
+      "nombre": "Viejo Zorrilla",
+      "desde": "1940",
+      "hasta": "1982",
+      "direccion": "Valladolid",
+      "lat": 41.642,
+      "lng": -4.75,
+      "obs": "Antiguo recinto del milagro blanquivioleta."
+    },
+    {
+      "nombre": "Nuevo José Zorrilla",
+      "desde": "1982",
+      "hasta": "Presente",
+      "direccion": "Av. Mundial 82, s/n",
+      "lat": 41.6444,
+      "lng": -4.7612,
+      "obs": "Ergido monumentalmente para el Mundial '82."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1928",
+      "hasta": "Presente",
+      "tipo": "rayas-verticales",
+      "c1": "#6f295b",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "desc": "Singulares bastones violetas y blancos impertérritos."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa de la Liga",
+      "cantidad": 1,
+      "anios": [
+        "1984"
+      ]
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jorge Alberto González",
+      "pos": "Delantero",
+      "apodo": "Mágico",
+      "periodo": "1984-1985",
+      "desc": "Mago irrepetible, paso corto pero destellos cegadores castellanos."
+    },
+    {
+      "nombre": "Alberto López",
+      "pos": "Delantero",
+      "apodo": "Alberto",
+      "periodo": "1987-1995",
+      "desc": "Histórico rematador incansable del club."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Javi Guerra",
+      "goles": 73,
+      "periodo": "2010-2014",
+      "partidos": 154
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alberto López",
+      "partidos": 361,
+      "periodo": "1987-1995"
+    }
+  ]
+}

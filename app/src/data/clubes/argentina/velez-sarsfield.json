@@ -1,0 +1,497 @@
+{
+  "id": "velez-sarsfield",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "sexto grande",
+      "liniers",
+      "fortin"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Vélez Sarsfield",
+    "sigla": "CAVS",
+    "fundacion": "1 de enero de 1910",
+    "apodo": "El Fortín",
+    "estadio_actual": "José Amalfitani",
+    "estadio_apodo": "El Fortín de Liniers",
+    "estadio_capacidad": 49540,
+    "estadio_inauguracion": "1943-04-11",
+    "estadio_lat": -34.6356,
+    "estadio_lng": -58.5208,
+    "estadio_direccion": "Av. Juan B. Justo 9200, Liniers, CABA",
+    "socios": 65000,
+    "descripcion_corta": "Institución deportiva arraigada en el barrio de Liniers, destacada por sus logros institucionales y deportivos. El club ostenta un palmarés que incluye campeonatos de Primera División y los máximos trofeos internacionales como la Copa Libertadores y la Copa Intercontinental, esta última obtenida tras vencer al AC Milan en 1994.",
+    "paleta": [
+      {
+        "tag": "Azul Ultramar",
+        "hex": "#0F4B9B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "11-0 a Huracán (Ingeniero White) (1968)",
+      "maximo_goleador": "Carlos Bianchi (206 goles)",
+      "mas_presencias": "Fabián Cubero (633 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1910",
+      "hito": "Acta bajo la lluvia en el Ferrocarril del Oeste",
+      "desc": "El primer día del año 1910 presagió el nacimiento de un gigante del occidente capitalino. En la espesa lluvia del 1 de enero, un aglomerado de amigos se refugió precipitadamente bajo el techo del sombrío túnel peatonal en la vieja terminal 'Estación Floresta' del Ferrocarril del Oeste. Liderados incesantemente por Luis Barredo, primer presidente titular, y Nicolás Marín Moreno, estamparon la fundación del Club Atlético Vélez Sarsfield, adoptando luego irrenunciablemente las camisas italianas trigadas en blanco, rojo y verde que mutarían recién en 1933 hacia la legendaria V azulada."
+    },
+    {
+      "ano": "1968",
+      "hito": "El bautismo triunfal en el legendario Viejo Gasómetro",
+      "desc": "Conduciendo férreamente el vestuario, Manuel Giúdice desterró décadas de complejos instalando a Vélez Sarsfield como un titán del Torneo Nacional de 1968. Explotando el pico superlativo y la garra magistral goleadora del delantero Omar Wehbe y las filigranas de Daniel Willington, provocaron un histórico y angustiante triple empate forzoso en la tabla final compartiendo cima junto a los poderosos River Plate y Racing Club. El 29 de diciembre, en la resolución triangular sostenida en San Lorenzo, pulverizaron gloriosamente a La Academia por 4-2 erigiendo su primer certamen oficial superior."
+    },
+    {
+      "ano": "1994",
+      "hito": "La epopeya transcontinental frente al rey de Milán",
+      "desc": "El arribo al banco de suplentes de su ídolo supremo y cerebral, Carlos Bianchi, desencadenó un estallido triunfal sin retornos. Al coronarse estoicamente como emperador de América venciendo al hegemónico São Paulo de Telê Santana en un dramático desempate por penales (consagración absoluta de José Luis Chilavert). El 1 de diciembre de 1994 chocó frontalmente ante el aplastante AC Milan de Europa en Tokio. Exhibiendo una perfección táctica defensiva y ráfagas ultra pragmáticas en ofensiva, un penal ejecutado por Roberto Trotta y un latigazo del 'Turco' Asad decretaron un lapidario 2-0 que lo bañó del oro Intercontinental."
+    },
+    {
+      "ano": "1998",
+      "hito": "Un equipo plagado de jerarquía liderado por Marcelo Bielsa",
+      "desc": "Manteniendo el núcleo de guerreros intocables consolidados en Liniers durante la mítica era de Carlos Bianchi, pero acoplados fervientemente bajo las modernas órdenes metodológicas ultradinámicas propulsadas por un joven Marcelo Bielsa, la institución continuó marcando tendencia nacional. Soportando duros embates técnicos, se alzaron categóricamente vencedores en el Torneo Clausura de 1998 forjando una aplanadora que desbordaba por presión constante alimentada de los milimétricos movimientos letales de sus goleadores Mauricio Pellegrino y Patricio Camps."
+    },
+    {
+      "ano": "2009-2013",
+      "hito": "La ráfaga hegemónica y elegante del Tigre Gareca",
+      "desc": "Tras años de austeridad táctica, el club apeló de nuevo al linaje y trajo de regreso a su ídolo delentero central Ricardo 'Tigre' Gareca en plano de director técnico a inicios de 2009. Implementando una vocación lúdica, posesión de pelota excelsa y pases verticales liderados por el cerebro Maxi Moralez y los artilleros Juan Manuel Martínez y Santiago Silva, el equipo arrasó dominando el fútbol de su país conquistando de manera brillante los Torneos Clausura 2009, Clausura 2011, Inicial 2012 y la Superfinal Nacional del 2013."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Villa Luro",
+      "direccion": "Vías de Cortina, Basualdo, Schmidl y Pizarro, CABA",
+      "desde": 1924,
+      "hasta": 1940,
+      "estado": "Histórico / Uso previo",
+      "obs": "Recinto que le originó su popular sobrenombre histórico conocido popularmente como 'El Fortín' al mantenerse invicto orgánico en numerosos partidos consecutivos de competencia oficial, siendo además reconocido como pionero inicial con iluminación artificial completa en la nación de forma certificada.",
+      "lat": -34.6358,
+      "lng": -58.5028,
+      "url": "https://www.google.com/maps/search/?api=1&query=V%C3%ADas%20de%20Cortina%2C%20Basualdo%2C%20Schmidl%20y%20Pizarro%2C%20CABA"
+    },
+    {
+      "nombre": "Estadio José Amalfitani",
+      "direccion": "Av. Juan B. Justo 9200, Liniers, CABA",
+      "desde": 1943,
+      "hasta": null,
+      "estado": "Sede Principal Actual",
+      "obs": "Asentamiento definitivo de la estructura consolidada que alberga recurrentemente capacidades en grandes volúmenes para partidos de trascendencia, posicionado territorialmente tras complejas labores y rellenado progresivo del riacho que circundaba los lotes formalmente asignados al club desde el primer organigrama del presidente y gestor.",
+      "lat": -34.6356,
+      "lng": -58.5208,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Juan%20B.%20Justo%209200%2C%20Liniers%2C%20CABA"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1910,
+      "hasta": 1914,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camisas completamente blancas en sus primeros cotejos."
+    },
+    {
+      "desde": 1914,
+      "hasta": 1915,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "mitad-vertical",
+      "desc": "Camisetas a mitades blanca y azul claro."
+    },
+    {
+      "desde": 1916,
+      "hasta": 1933,
+      "c1": "#008000",
+      "c2": "#ED1C24",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Mítica camiseta tricolor a bastones verticales (Italiana)."
+    },
+    {
+      "desde": 1933,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "v-pecho",
+      "desc": "Se acopla la V azulada sobre el pecho blanco."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "José Luis Chilavert",
+      "pos": "Arquero",
+      "apodo": "Chila",
+      "periodo": "1991-2000, 2004",
+      "desc": "Histórico arquero paraguayo y figura emblemática de la década de 1990. Revolucionó su puesto por su capacidad ejecutando tiros libres y penales. Ganó la Copa Libertadores y la Intercontinental de 1994, siendo clave bajo los tres palos."
+    },
+    {
+      "nombre": "Carlos Bianchi",
+      "pos": "Delantero / Director Técnico",
+      "apodo": "El Virrey / Carlitos",
+      "periodo": "1967-1973, 1980-1984 (Jug), 1993-1996 (DT)",
+      "desc": "Máximo goleador histórico del equipo en Primera División y uno de los entrenadores más laureados de la institución. En su faceta como director técnico, consolidó la época de mayor éxito internacional del club durante los años 90."
+    },
+    {
+      "nombre": "Fabián Cubero",
+      "pos": "Defensor / Volante",
+      "apodo": "Poroto",
+      "periodo": "1996-2007, 2008-2019",
+      "desc": "Jugador récord en presencias, disputando más de 600 partidos con la institución. Como defensor y volante central, fue capitán y referente defensivo, permaneciendo leal al equipo durante la mayor parte de su extensa carrera profesional."
+    },
+    {
+      "nombre": "Daniel Willington",
+      "pos": "Enganche",
+      "apodo": "El Loco / El Daniel",
+      "periodo": "1962-1971, 1978",
+      "desc": "Talentoso mediocampista creativo de la década del 60. Destacó por su gran estatura, elegante dominio del balón y potentísima pegada, siendo pieza elemental en la obtención del Torneo Nacional de 1968, el primer título oficial del club."
+    },
+    {
+      "nombre": "Ricardo Gareca",
+      "pos": "Delantero / Director Técnico",
+      "apodo": "El Tigre",
+      "periodo": "1989-1992 (Jug), 2009-2013 (DT)",
+      "desc": "Reconocido delantero durante su etapa como jugador, alcanzó el estatus de ídolo máximo como director técnico. Su ciclo en el banquillo entre 2009 y 2013 retornó al equipo a los primeros planos, sumando cuatro campeonatos locales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Carlos Bianchi",
+      "goles": 206,
+      "partidos": 324,
+      "periodo": "1967-1984",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 206 goles en competiciones oficiales durante su trayectoria en el equipo entre 1967-1984."
+    },
+    {
+      "nombre": "Juan José Ferraro",
+      "goles": 111,
+      "partidos": 236,
+      "periodo": "1941-1953",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1953."
+    },
+    {
+      "nombre": "Norberto Conde",
+      "goles": 108,
+      "partidos": 224,
+      "periodo": "1952-1964",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1964."
+    },
+    {
+      "nombre": "Agustín Cosso",
+      "goles": 95,
+      "partidos": 121,
+      "periodo": "1933-1941",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 95 goles en competiciones oficiales durante su trayectoria en el equipo entre 1933-1941."
+    },
+    {
+      "nombre": "Patricio Camps",
+      "goles": 89,
+      "partidos": 257,
+      "periodo": "1991-2002",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-2002."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fabián Cubero",
+      "partidos": 633,
+      "periodo": "1996-2019",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 633 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2019."
+    },
+    {
+      "nombre": "Pedro Larraquy",
+      "partidos": 455,
+      "periodo": "1975-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 455 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1987."
+    },
+    {
+      "nombre": "Ángel Bargas",
+      "partidos": 426,
+      "periodo": "1971-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 426 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1981."
+    },
+    {
+      "nombre": "Raúl Cardozo",
+      "partidos": 411,
+      "periodo": "1986-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 411 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1999."
+    },
+    {
+      "nombre": "José Luis Chilavert",
+      "partidos": 347,
+      "periodo": "1991-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 347 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1991-2004."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 11,
+      "años": [
+        "1968",
+        "1993",
+        "1995",
+        "1996",
+        "1998",
+        "2005",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Supercopa Argentina",
+      "cantidad": 1,
+      "años": [
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores de América",
+      "cantidad": 1,
+      "años": [
+        "1994"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 1,
+      "años": [
+        "1994"
+      ]
+    },
+    {
+      "nombre": "Supercopa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "1997"
+      ]
+    },
+    {
+      "nombre": "Copa Interamericana",
+      "cantidad": 1,
+      "años": [
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 1,
+      "años": [
+        "1943"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1910.webp"
+    },
+    {
+      "ano": "1914",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1914_web.png"
+    },
+    {
+      "ano": "1917",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1917_web.png"
+    },
+    {
+      "ano": "1917",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1917.webp"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1926_web.png"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1926.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1930_web.png"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1930.webp"
+    },
+    {
+      "ano": "1933",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1933_web.png"
+    },
+    {
+      "ano": "1933",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1933.webp"
+    },
+    {
+      "ano": "1934",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1934_web.png"
+    },
+    {
+      "ano": "1937",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1937.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1941_web.png"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1941.webp"
+    },
+    {
+      "ano": "1943",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1943_web.png"
+    },
+    {
+      "ano": "1954",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1954_web.png"
+    },
+    {
+      "ano": "1954",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1954.webp"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1956.webp"
+    },
+    {
+      "ano": "1962",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1962_web.png"
+    },
+    {
+      "ano": "1962",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1962.webp"
+    },
+    {
+      "ano": "1984",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1984_web.png"
+    },
+    {
+      "ano": "1984",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1984.webp"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1987_web.png"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1989_web.png"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1989.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1991_web.png"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1991.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1992_web.png"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1993.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1994_web.png"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1994.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1996_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_1997_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos/historicos/velez-sarsfield/velez_1997.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/velez-sarsfield/velez_2000.webp"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2001_web.png"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2004_web.png"
+    },
+    {
+      "ano": "2008",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2008_web.png"
+    },
+    {
+      "ano": "2010",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2010_web.png"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2011_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2012_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2013_web.png"
+    },
+    {
+      "ano": "2023",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2023_web.png"
+    },
+    {
+      "ano": "2024",
+      "url": "/escudos_historicos/velez-sarsfield/velez-sarsfield_2024_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/velez-sarsfield.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Fortín",
+      "origen": "Procede originariamente por las planas originadas documentado formalmente y a través literario puramente del la historia local y oficial ininterrumpida texto periodístico del periodista local de del deportivo en 1932 o de y de textualmente Marini de de base ininterrumpida Hugo Crítica oficial de los certámenes deportivos. Lo denominó apelando asimilando base textualmente al primer originario y textualmente base al modesto pero amurallado fortín militar local a el de recinto imbatible texto purista o bastión de del viejo originario en del campo y terreno en de originario Villa y originante barrial textualmente originario originante sur de de de y Luro local texto purista original textualmente del fáctico originante general de originaria fáctica originante."
+    }
+  ]
+}

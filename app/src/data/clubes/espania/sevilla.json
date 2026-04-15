@@ -1,0 +1,313 @@
+{
+  "id": "sevilla",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "sevilla",
+      "andalucia"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Sevilla Fútbol Club",
+    "sigla": "SFC",
+    "fundacion": "25 de enero de 1890",
+    "apodo": "Hispalenses, Nervionenses, Palanganas",
+    "estadio_actual": "Ramón Sánchez-Pizjuán",
+    "estadio_apodo": "La Bombonera de Nervión",
+    "estadio_capacidad": 43883,
+    "estadio_inauguracion": "7 de septiembre de 1958",
+    "estadio_lat": 37.384,
+    "estadio_lng": -5.9705,
+    "estadio_direccion": "C. Sevilla Fútbol Club, s/n, Nervión, 41005 Sevilla, España",
+    "socios": 45000,
+    "descripcion_corta": "Entidad pionera andaluza consolidada como potencia continental en el siglo XXI.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#D81A22"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Guillermo Campanal (218)",
+      "mas_presencias": "Jesús Navas (680+)"
+    },
+    "nombre_oficial": "Sevilla Fútbol Club S.A.D.",
+    "nombre_corto": "Sevilla FC"
+  },
+  "historia": [
+    {
+      "ano": "1890",
+      "hito": "Cuna y Abolengo del Sur",
+      "desc": "La Giralda y los aromas del sur de España atestiguaron uno de los orígenes deportivos más aristocráticos y tempraneros del país. En el corazón de las florecientes delegaciones comerciales británicas, la histórica noche del 25 de enero de 1890 se vistió de gala. Durante las tradicionales celebraciones escocesas de la 'Burns Night' en un céntrico café, la élite empresarial naval impulsó el nacimiento del Sevilla Football Club. La fundación fue liderada incansablemente por pioneros británicos legendarios: el naviero Edward Farquharson Johnston como primer presidente supremo, secundado por el tesorero Hugo MacColl y el entusiasta secretario Isaías White Méndez. Apenas unas semanas después, firmaron la historia dorada al disputar contra el vecino Recreativo de Huelva el primer partido bajo estatutos oficiales que jamás se hubiera jugado en suelo peninsular, triunfando bajo la intensa lluvia en Tablada. Forjados en la cultura industrial extranjera pero arropados por la sangre nervionense, la escuadra consolidó rápidamente el escudo que monopolizaría la gloria eterna en toda Andalucía."
+    },
+    {
+      "ano": "1946",
+      "hito": "El Trono Soberano de Una Liga",
+      "desc": "Gracias a una legendaria casta de futbolistas temblaron e hirvieron las defensas para consolidar un título frente a un rutilante empate épico dominador nada más contra el fiero Barça en la élite máxima."
+    },
+    {
+      "ano": "2006",
+      "hito": "La Noche Holandesa y El Nacimiento Europeo",
+      "desc": "Eindhoven quedó impregnada del sevillismo rabioso cuando aplastando ferozmente a su pobre rival, alzaron con letal estirpe bajo Juande la Copa de la UEFA iniciando su temido reinado de oro europeo."
+    },
+    {
+      "ano": "2016",
+      "hito": "El Tricampeonato Infame de Emery",
+      "desc": "Tres zarpazos, una locura que reescribió los panteones continentales machacando consecutivamente rivales hasta anular en finales letales lo inverosímil completando un brutal tercer título y quinto consecutivo bajo su estruendosa hegemonía."
+    },
+    {
+      "ano": "2023",
+      "hito": "El Milagro de Mendilibar (Séptima)",
+      "desc": "Tatuajes de estirpe: eliminó con coraje espartano al Manchester United y la poderosa Juve acariciando las lágrimas y abatiendo otra nueva insólita coronación máxima ahogada por un Mendilibar imponente contra Mourinho."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Ramón Sánchez-Pizjuán",
+      "capacidad": "43.883",
+      "inauguracion": "1958",
+      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Sevilla%20F%C3%BAtbol%20Club%2C%20s%2Fn%2C%2041005%20Sevilla",
+      "direccion": "C. Sevilla Fútbol Club, s/n, 41005 Sevilla",
+      "descripcion": "Infierno ardiente rojiblanco y caldera inexpugnable donde se cimentaron implacables las grandes dinastías de UEFAs."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1890,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Las imperecederas formales fundaciones poéticas heróicas mantuvieron estricta cívica y hegemónica inmaculada blanca cruda tela lisa poética andaluz con el honor de las medias negras."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Frederic Kanouté",
+      "periodo": "2005-2012",
+      "pos": "Delantero",
+      "desc": "Artillero africano y monumental estandarte de la época hegemónica en torneos europeos del club. Destruyó sistemas y esquemas defensivos, ganándose un puesto clave de respeto histórico rotundo cada vez que pisaba formalmente el área en las definitivas rondas de UEFA o la inolvidable Europa League."
+    },
+    {
+      "nombre": "Jesús Navas",
+      "periodo": "2003-2013 / 2017-2024",
+      "pos": "Defensa",
+      "desc": "Extremo electrizante de recorrido inagotable formado netamente en las entrañas de Nervión y transformado inteligentemente en veloz lateral en su extensa veteranía. Sostiene sólidamente y por gran margen estadístico el récord impoluto del total de presencias con varias docenas de trofeos continentales."
+    },
+    {
+      "nombre": "Antonio Puerta",
+      "periodo": "2004-2007",
+      "pos": "Defensa",
+      "desc": "Volante de creatividad natural arrolladora y querencia inquebrantable de la grada general. Se formó, prosperó, exportó y retornó formalmente al equipo para liderar con su fina técnica y remate asertivo en pro de encauzar valiosos encuentros finales durante los tres consecutivos campeonatos modernos de su adorada Europa League."
+    },
+    {
+      "nombre": "Andrés Palop",
+      "periodo": "2005-2013",
+      "pos": "Arquero",
+      "desc": "Guardameta milagroso dotado de extraordinarios reflejos, y autor excepcional y épico de verdaderos hitos como anotar la diana de un valiosísimo empate en octavos continentales, sentando así las bases irrevocables para que la plantilla consiguiese con honores alzar el trofeo continental definitivo."
+    },
+    {
+      "nombre": "José Antonio Reyes",
+      "periodo": "1999-2004 / 2012-2016",
+      "pos": "Delantero",
+      "desc": "Volante de creatividad natural arrolladora y querencia inquebrantable de la grada general. Se formó, prosperó, exportó y retornó formalmente al equipo para liderar con su fina técnica y remate asertivo en pro de encauzar valiosos encuentros finales durante los tres consecutivos campeonatos modernos de su adorada Europa League."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Guillermo Campanal",
+      "goles": 218,
+      "periodo": "Años 30-40",
+      "partidos": 274,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 218 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 30-40."
+    },
+    {
+      "nombre": "Juan Arza",
+      "goles": 204,
+      "periodo": "1943-1959",
+      "partidos": 414,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 204 goles en competiciones oficiales durante su trayectoria en el equipo entre 1943-1959."
+    },
+    {
+      "nombre": "Juan Araujo",
+      "goles": 159,
+      "periodo": "1945-1956",
+      "partidos": 242,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 159 goles en competiciones oficiales durante su trayectoria en el equipo entre 1945-1956."
+    },
+    {
+      "nombre": "Frédéric Kanouté",
+      "goles": 136,
+      "periodo": "2005-2012",
+      "partidos": 290,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 136 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2012."
+    },
+    {
+      "nombre": "Luis Fabiano",
+      "goles": 107,
+      "periodo": "2005-2011",
+      "partidos": 230,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 107 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2011."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jesús Navas",
+      "partidos": 688,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 688 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Pablo Blanco",
+      "partidos": 415,
+      "periodo": "1971-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 415 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1984."
+    },
+    {
+      "nombre": "Juan Arza",
+      "partidos": 414,
+      "periodo": "1943-1959",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 414 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1943-1959."
+    },
+    {
+      "nombre": "Manolo Jiménez",
+      "partidos": 413,
+      "periodo": "1983-1997",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 413 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1997."
+    },
+    {
+      "nombre": "Campanal II",
+      "partidos": 403,
+      "periodo": "1950-1966",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 403 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1966."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 1,
+      "anios": [
+        "1945-46"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 5,
+      "anios": [
+        "1935",
+        "1939",
+        "1948",
+        "2007",
+        "2010"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 1,
+      "anios": [
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Europa League",
+      "cantidad": 7,
+      "anios": [
+        "2005-06",
+        "2006-07",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2019-20",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "Supercopa de la UEFA",
+      "cantidad": 1,
+      "anios": [
+        "2006"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 4,
+      "anios": [
+        "1929",
+        "1933-34",
+        "1968-69",
+        "2000-01"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/sevilla/Sevilla.webp"
+    },
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1908-1.webp"
+    },
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1909.webp"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1915.webp"
+    },
+    {
+      "ano": "1918",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1918.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1921.webp"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1926.webp"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1932.webp"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1935.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1945.webp"
+    },
+    {
+      "ano": "1966",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1966.webp"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos_historicos/sevilla/Sevilla_FC_1979.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/sevilla.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Nervionenses",
+      "origen": "Denominados gracias al anclaje y pertenencia vital del histórico asentamiento de su recinto. Procedido del vínculo oficial e indiscutible establecido luego de inaugurarse el masivo y gigantesco reducto moderno o estadio Ramón Sánchez Pizjuán fijando sus cimientos puramente céntricos y linderos sobre la barriada histórica, populosa e imperecedera del conocido barrio andaluz de Nervión sevillano."
+    },
+    {
+      "apodo": "Los Palanganas",
+      "origen": "Surge sociológicamente como acto de desdén de raíz de un conflicto interno cívico cimentado a principios del sXX por un fichaje obrero resistido. Socios pudientes y elitistas se excindieron negándose a la incorporación del obrero al club y retirándose regalando de modo afrentoso abandonando en una habitación del club de forma despreciativa incesante un lavamanos casero u objeto aseo antiguo color blanco de franja bermeja referenciado y denominado de forma denigrante local como un lavabo inmaculado vulgar o rústica palangana."
+    }
+  ]
+}

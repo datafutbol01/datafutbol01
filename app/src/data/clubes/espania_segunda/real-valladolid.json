@@ -1,0 +1,206 @@
+{
+  "id": "real-valladolid",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "valladolid",
+      "pucelanos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Valladolid Club de Fútbol",
+    "sigla": "VLL",
+    "fundacion": "20 de junio de 1928",
+    "apodo": "Pucelanos, Blanquivioletas",
+    "estadio_actual": "Estadio José Zorrilla",
+    "estadio_apodo": "",
+    "estadio_capacidad": 27618,
+    "estadio_inauguracion": "1982",
+    "estadio_lat": 41.6444,
+    "estadio_lng": -4.7612,
+    "estadio_direccion": "Av. Mundial 82, s/n, 47014 Valladolid, España",
+    "socios": 22000,
+    "descripcion_corta": "Entidad consolidada de la región castellana.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Violeta",
+        "hex": "#4B0082"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-3 a Real Oviedo (1996)",
+      "maximo_goleador": "Alen Peternac",
+      "mas_presencias": "Marcos Fernández (358 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1928",
+      "hito": "El Pacto Del Pisuerga",
+      "desc": "El nacimiento del coloso de Castilla es fruto de una excepcional cordura cívica y deportiva. En 1928, la incipiente escena vallisoletana desgastaba sus fuerzas en las pujas fratricidas entre sus dos entidades más poderosas: la Real Unión Deportiva y el Club Deportivo Español. Gracias a las intensas gestiones diplomáticas del insigne pacificador organizativo Pedro Zuloaga, el 20 de junio de 1928 se obró el milagro de la unificación. Nació así el Real Valladolid, asumiendo los clásicos tonos violeta y blanco y congregando a todos los ciudadanos bajo un único blasón representativo en el panorama nacional."
+    },
+    {
+      "ano": "1984",
+      "hito": "La Exquisita y Agónica Copa Ligera",
+      "desc": "Imponiendo clase y asestando duro al imperio, destrozaron un feroz Atlético en gran parte desde la magia poética que les entregó irremediablemente la histórica y extinta Copa de la Liga."
+    },
+    {
+      "ano": "1989",
+      "hito": "A Caras del Súmmum con Soler y Hierro",
+      "desc": "Vicente Cantatore, inyectando su sangre purista chilena de fiero estilo, acarició milagrosamente con aquel grupo colosal el poder real desandando hacia la Finalísima dolorosa contra el Real Madrid."
+    },
+    {
+      "ano": "1997",
+      "hito": "Pasaje Mítico e Incomparable hacia Europa",
+      "desc": "Armó estruendos demoliendo moldes finalizando imponente en La Liga con una de las camadas de cantera más brillantes y formidables asegurando vuelo histórico absoluto a la brillante UEFA europea."
+    },
+    {
+      "ano": "2018",
+      "hito": "Mata y El Infierno Resucitado de Ronaldo",
+      "desc": "Bajo la batuta sudada de resarcirse por fin asaltaron sin escalas el regreso del estadio José Zorrilla nuevamente a una vibrante y desatada Primera División bajo aplausos encendidos tras años fútiles."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio José Zorrilla",
+      "capacidad": "27.618",
+      "inauguracion": "1982",
+      "url": "https://maps.app.goo.gl/z2c5F8v6G4M9t2e59",
+      "direccion": "Av. del Mundial 82, s/n, 47014 Valladolid",
+      "descripcion": "Frío y temperamental césped castellano forjado para el Mundial, hoy guarida indiscutida de la estirpe pucelana."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1928",
+      "hasta": "2025",
+      "tipo": "rayas-verticales",
+      "c1": "#800080",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "desc": "La unificación pucelana fusionó los oscuros colores y trazó las clásicas asombrosas y raras hermosas blanquivioletas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Víctor Sánchez del Amo",
+      "periodo": "Record Vario",
+      "pos": "Delantero",
+      "desc": "Estrella brillante extrema liderando puramente ofensivas milagrosas y pases magistrales inolvidables pucelanos."
+    },
+    {
+      "nombre": "Javi Guerra",
+      "periodo": "2010-2014",
+      "pos": "Delantero",
+      "desc": "Tanque andaluz que destrozaba defensas anotando un número de locos logrando hazañas y elevándose letal del ascenso."
+    },
+    {
+      "nombre": "Peternac",
+      "periodo": "1995-2000",
+      "pos": "Delantero",
+      "desc": "El croata pistolero destrozó redes puras del club. Cuatro goles agónicos inmortales insospechables desataron ferocidad balcánica en toda España entera."
+    },
+    {
+      "nombre": "Sisi",
+      "periodo": "2006-2008 / 2009-2012",
+      "pos": "Mediocampista",
+      "desc": "Pillín extremo incansable indomable destrozado por lesiones trágicas salvando milagros y regates pucelanos fantásticos."
+    },
+    {
+      "nombre": "Alberto Marcos",
+      "periodo": "1995-2010",
+      "pos": "Defensa",
+      "desc": "Líder zaguero histórico inalterable sumando y sangrando en batallas de puras guerras estoicas defensores."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Alen Peternac",
+      "goles": 55,
+      "periodo": "1995-2000",
+      "partidos": 164
+    },
+    {
+      "nombre": "Víctor",
+      "goles": 53,
+      "periodo": "Varios",
+      "partidos": 310
+    },
+    {
+      "nombre": "Javi Guerra",
+      "goles": 72,
+      "periodo": "2010-2014",
+      "partidos": 154
+    },
+    {
+      "nombre": "Coque",
+      "goles": 65,
+      "periodo": "Años 50",
+      "partidos": 0
+    },
+    {
+      "nombre": "Moré",
+      "goles": 48,
+      "periodo": "Años 70",
+      "partidos": 0
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alberto Marcos",
+      "partidos": 471,
+      "periodo": "1995-2010"
+    },
+    {
+      "nombre": "Mínguez",
+      "partidos": 341,
+      "periodo": "1978-1992"
+    },
+    {
+      "nombre": "Víctor",
+      "partidos": 310,
+      "periodo": "Varios"
+    },
+    {
+      "nombre": "Óscar González",
+      "partidos": 285,
+      "periodo": "Varios"
+    },
+    {
+      "nombre": "Álvaro Rubio",
+      "partidos": 306,
+      "periodo": "2006-2016"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa de la Liga",
+      "cantidad": 1,
+      "anios": [
+        "1984"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 3,
+      "anios": [
+        "1947-48",
+        "1958-59",
+        "2006-07"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/real-valladolid.png",
+      "desc": "Escudo actual."
+    }
+  ]
+}

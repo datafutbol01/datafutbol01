@@ -1,0 +1,392 @@
+{
+  "id": "rangers",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "rangers",
+      "gers",
+      "glasgow",
+      "ibrox"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Rangers Football Club",
+    "sigla": "RAN",
+    "fundacion": "Marzo de 1872",
+    "apodo": "The Gers, Light Blues, Teddy Bears",
+    "estadio_actual": "Ibrox Stadium",
+    "estadio_apodo": "Ibrox",
+    "estadio_capacidad": 50817,
+    "estadio_inauguracion": "1899",
+    "estadio_lat": 55.8532,
+    "estadio_lng": -4.3092,
+    "estadio_direccion": "150 Edmiston Dr, Glasgow G51 2XD, Reino Unido",
+    "socios": 47000,
+    "descripcion_corta": "Entidad de Glasgow identificada tradicionalmente con el sector protestante de la ciudad. Ostenta el registro histórico del fútbol mundial con mayor cantidad de campeonatos de liga de primera división.",
+    "paleta": [
+      {
+        "tag": "Azul Rey",
+        "hex": "#0033A0"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ally McCoist (355 goles)",
+      "mas_presencias": "John Greig (755 partidos)",
+      "mayor_goleada": "14-2 vs Blairgowrie (1934)"
+    },
+    "nombre_oficial": "The Rangers Football Club",
+    "nombre_corto": "Rangers",
+    "escudo_actual": "/escudos/rangers.svg"
+  },
+  "historia": [
+    {
+      "ano": "1872",
+      "hito": "Formación estatutaria en West End Park",
+      "desc": "A principios de la primavera de 1872, los hermanos Peter y Moses McNeil, junto a Peter Campbell y William McBeath, se reunieron en los terrenos públicos del West End Park (actual Kelvingrove Park) para conformar orgánicamente un equipo de fútbol. Disputaron su primer encuentro documentado meses más tarde en Flesher's Haugh frente al Callander F.C. El registro del nombre 'Rangers' fue propuesto oficialmente por Moses McNeil, adoptándolo tras documentarlo de una vieja publicación sobre asociaciones de clubes de rugby procedentes de Inglaterra."
+    },
+    {
+      "ano": "1920-1954",
+      "hito": "Gestión institucional de Bill Struth",
+      "desc": "Tras la finalización del primer conflicto bélico mundial, William 'Bill' Struth asumió la dirección técnica y administrativa del primer equipo deportivo, manteniendo ininterrumpidamente el cargo por más de tres décadas. Struth estableció normativas disciplinarias rígidas a nivel interno, requiriendo obligatoriamente a los integrantes de la plantilla presentarse a los compromisos oficiales vistiendo traje y corbata. Adicionalmente a estas reformas culturales, durante su gestión consolidada el club obtuvo 18 campeonatos de Primera División, cimentando estructuralmente el arraigado dominio de la entidad en las tablas del país."
+    },
+    {
+      "ano": "1972",
+      "hito": "Obtención de la Recopa de Europa (Barcelona)",
+      "desc": "El principal lauro contemporáneo del club a escala internacional se materializó en mayo de 1972, asegurando la Recopa de Europa de la UEFA en la ciudad española de Barcelona. Coordinados deportivamente por el capitán John Greig, el Rangers F.C. derrotó formalmente por 3-2 al Dynamo de Moscú en las instalaciones del recinto de Camp Nou. El registro documenta invasiones parciales del campo de juego a minutos previos a la culminación reglamentaria, por lo que el trofeo fue entregado administrativamente a los jugadores dentro de los pasillos internos del estadio y en ausencia del protocolo abierto oficial."
+    },
+    {
+      "ano": "1988-1997",
+      "hito": "Gestión Souness y ciclo de Nueve Consecutivas",
+      "desc": "Con la contratación formal en 1986 de Graeme Souness cubriendo el rol dual de jugador-entrenador central, Rangers implementó una amplia reestructuración patrimonial fundamentada en el fichaje récord de experimentados futbolistas extranjeros. La gestión erradicó su informal política histórica de no inscribir futbolistas católicos escoceses para fines de década con el célebre fichaje del atacante Maurice Johnston (1989). Respaldados a posteriori por la gestión administrativa del entrenador Walter Smith, la institución encadenó contundentemente un ciclo victorioso monopolizando la liga, igualando la marca nacional vigente con 9 campeonatos de Primera División consecutivos finalizando dicho tramo cronológico en 1997."
+    },
+    {
+      "ano": "2012-2021",
+      "hito": "Proceso de liquidación fiscal y regreso a Primera División",
+      "desc": "Atravesando agudas crisis originadas por evasiones fiscales y administraciones operativas deficitarias previas, la compañía primaria matriz del club colapsó bajo un estado irresoluble de quiebra financiera y subsecuente liquidación comercial estatutaria en 2012. Suspendido lógicamente de la Premier escocesa y refundado en la escala corporativa corporativa, Rangers fue degradado a competir desde los estamentos más bajos correspondientes a la Cuarta División escocesa. Efectuando cuatro procesos progresivos de ascenso mediante desempeño escalonado, el equipo concretó la reinserción permanente logrando la captura ratificada del Campeonato de Liga escocés (el título número 55 de su registro acumulado) finalizando estadísticamente la campaña 2021 de forma invicta bajo las indicaciones de Steven Gerrard."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Ibrox Stadium (Ibrox)",
+      "capacidad": "50817",
+      "inauguracion": "1899",
+      "url": "https://www.google.com/maps/search/?api=1&query=150%20Edmiston%20Dr%2C%20Glasgow%20G51%202XD%2C%20Reino%20Unido",
+      "direccion": "150 Edmiston Dr, Glasgow G51 2XD, Reino Unido",
+      "lat": 55.8532,
+      "lng": -4.3092,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 55,
+      "anios": [
+        "1890-91",
+        "1898-99",
+        "1899-00",
+        "1900-01",
+        "1901-02",
+        "1910-11",
+        "1911-12",
+        "1912-13",
+        "1917-18",
+        "1919-20",
+        "1920-21",
+        "1922-23",
+        "1923-24",
+        "1924-25",
+        "1926-27",
+        "1927-28",
+        "1928-29",
+        "1929-30",
+        "1930-31",
+        "1932-33",
+        "1933-34",
+        "1934-35",
+        "1936-37",
+        "1938-39",
+        "1946-47",
+        "1948-49",
+        "1949-50",
+        "1952-53",
+        "1955-56",
+        "1956-57",
+        "1958-59",
+        "1960-61",
+        "1962-63",
+        "1963-64",
+        "1974-75",
+        "1975-76",
+        "1977-78",
+        "1986-87",
+        "1988-89",
+        "1989-90",
+        "1990-91",
+        "1991-92",
+        "1992-93",
+        "1993-94",
+        "1994-95",
+        "1995-96",
+        "1996-97",
+        "1998-99",
+        "1999-00",
+        "2002-03",
+        "2004-05",
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 34,
+      "anios": [
+        "1893-94",
+        "1896-97",
+        "1897-98",
+        "1902-03",
+        "1927-28",
+        "1929-30",
+        "1931-32",
+        "1933-34",
+        "1934-35",
+        "1935-36",
+        "1947-48",
+        "1948-49",
+        "1949-50",
+        "1952-53",
+        "1959-60",
+        "1961-62",
+        "1962-63",
+        "1963-64",
+        "1965-66",
+        "1972-73",
+        "1975-76",
+        "1977-78",
+        "1978-79",
+        "1980-81",
+        "1991-92",
+        "1992-93",
+        "1995-96",
+        "1998-99",
+        "1999-00",
+        "2001-02",
+        "2002-03",
+        "2007-08",
+        "2008-09",
+        "2021-22"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 28,
+      "anios": [
+        "1946",
+        "1948",
+        "1960-61",
+        "1961-62",
+        "1963-64",
+        "1964-65",
+        "1970-71",
+        "1975-76",
+        "1977-78",
+        "1978-79",
+        "1981-82",
+        "1983-84",
+        "1984-85",
+        "1986-87",
+        "1987-88",
+        "1988-89",
+        "1990-91",
+        "1992-93",
+        "1993-94",
+        "1996-97",
+        "1998-99",
+        "2001-02",
+        "2002-03",
+        "2004-05",
+        "2007-08",
+        "2009-10",
+        "2010-11",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "European Cup Winners' Cup (Recopa de Europa)",
+      "cantidad": 1,
+      "anios": [
+        "1971-72"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1872,
+      "hasta": 1904,
+      "c1": "#7FA2DF",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Originariamente la institución saltaba al campo luciendo una tonalidad azul celeste lisa de tonalidad extremadamente clara ('Light Blues'), complementada con pantalones completamente blancos de época."
+    },
+    {
+      "desde": 1904,
+      "hasta": null,
+      "c1": "#0033A0",
+      "c2": "#E30613",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Periodo caracterizado y consolidado por el oscurecimiento del lienzo principal a un azul marino o 'Azul Rey' mucho más intenso; estandarizando el atuendo histórico oficial bajo un tono liso contrastado de manera irrenunciable por pantalones blancos y medias de color negro sólido que siempre presumen un elástico decorativo rojo vivo en el tope de la rótula."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jim Baxter",
+      "pos": "Leyenda / Referente",
+      "periodo": "1960-1965, 1969-1970",
+      "desc": "Apodado 'Slim Jim', el deslumbrante mediocampista marcó época impartiendo clases de talento y técnica pura. Sus regates humillaron defensas enteras forjando un estatus legendario en las retinas de los aficionados de Ibrox.",
+      "apodo": "Slim Jim"
+    },
+    {
+      "nombre": "Brian Laudrup",
+      "pos": "Leyenda / Referente",
+      "periodo": "1994-1998",
+      "desc": "Elegante y resolutivo, el danés orquestó los triunfos de los famosos 'Nueve Seguidos'. Un mediocampista superlativo que coleccionó distinciones individuales y enamoró a la grada con su velocidad electrizante.",
+      "apodo": "The Prince"
+    },
+    {
+      "nombre": "Paul Gascoigne",
+      "pos": "Leyenda / Referente",
+      "periodo": "1995-1998",
+      "desc": "Genio desequilibrante del fútbol mundial que deslumbró en tierras escocesas. El talentoso y controversial mediocentro desató eufóricas celebraciones conquistando al público mediante destellos técnicos fenomenales y goles sublimes.",
+      "apodo": "Gazza"
+    },
+    {
+      "nombre": "Richard Gough",
+      "pos": "Leyenda / Referente",
+      "periodo": "1987-1997",
+      "desc": "El gran capitán de los nueve laureles consecutivos. Férreo zaguero que brindaba absoluta seguridad a la última línea, sumando un liderazgo indispensable para consolidar la etapa más brillante del club.",
+      "apodo": "Goughie"
+    },
+    {
+      "nombre": "Sandy Jardine",
+      "pos": "Leyenda / Referente",
+      "periodo": "1964-1982",
+      "desc": "Lateral ofensivo incombustible que participó gloriosamente de la histórica conquista continental en Barcelona. Un profesional intachable que cruzó tres décadas sirviendo íntegramente a los intereses de la institución.",
+      "apodo": "Sandy"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ally McCoist",
+      "goles": 355,
+      "periodo": "1983-1998",
+      "desc": "El letal 'Super Ally' destrozó arqueros durante décadas anotando goles de todas las facturas. Un goleador extraordinario que ostenta dos Botas de Oro europeas y el récord histórico absoluto del club."
+    },
+    {
+      "nombre": "Bob McPhail",
+      "goles": 261,
+      "periodo": "1927-1939",
+      "desc": "Ídolo del periodo pre-guerra que estableció cuotas altísimas de conversión. Destruyó esquemas defensivos liderando las estadísticas como el mayor artillero de su época."
+    },
+    {
+      "nombre": "Jimmy Smith",
+      "goles": 249,
+      "periodo": "1928-1946",
+      "desc": "Rematador prolífico de registro casi infalible con un promedio de gol atronador. Llevó el poderío de Glasgow a liderar el certamen nacional con definiciones inolvidables de alta precisión."
+    },
+    {
+      "nombre": "Ralph Brand",
+      "goles": 206,
+      "periodo": "1954-1965",
+      "desc": "Atacante implacable y escurridizo que aterrorizó a los defensores rivales entre finales de los años cincuenta y mediados de los sesenta logrando consolidarse como una potencia de ataque."
+    },
+    {
+      "nombre": "Jim Forrest",
+      "goles": 145,
+      "periodo": "1962-1967",
+      "desc": "Velocísimo extremo de explosión temprana en los sesenta. Firmó números asombrosos rompiendo redes con un medio centenar de anotaciones en una única campaña liguera antes de partir a Inglaterra."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "John Greig",
+      "partidos": 755,
+      "periodo": "1961-1978",
+      "desc": "Nombrado simbólicamente 'el mejor de todos los tiempos' en Ibrox. Capitán de mística irrompible que sumó más batallas disputadas que ningún otro en toda la historia de la escuadra."
+    },
+    {
+      "nombre": "Sandy Jardine",
+      "partidos": 674,
+      "periodo": "1964-1982",
+      "desc": "Su inmensa constancia y entrega le permitió ubicarse en la segunda posición histórica de presencias, asumiendo una regularidad soberbia sin ceder jamás su jerarquía."
+    },
+    {
+      "nombre": "Ally McCoist",
+      "partidos": 581,
+      "periodo": "1983-1998",
+      "desc": "Complementando su enorme superioridad en el registro goleador, el ariete escocés consolidó su fidelidad total disputando casi seiscientos encuentros de altísima exigencia."
+    },
+    {
+      "nombre": "Sandy Archibald",
+      "partidos": 513,
+      "periodo": "1914-1934",
+      "desc": "Formidable extremo diestro que participó dictando la titularidad en un sinfín de campeonatos. Sostuvo un ritmo constante durante el siglo emergente sumando gloria y campeonatos."
+    },
+    {
+      "nombre": "David Meiklejohn",
+      "partidos": 490,
+      "periodo": "1919-1936",
+      "desc": "Marcador de sobriedad impecable que lideró la zaga por quince extensos torneos, asegurando la representación inquebrantable que cimentó sólidas victorias de campeonato."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1959-1968",
+      "url": "/escudos_historicos/rangers/Rangers_FC_logo_2C_1959-1968_29.webp"
+    },
+    {
+      "ano": "1968-1991",
+      "url": "/escudos_historicos/rangers/Rangers_FC_logo_2C_1968-1991_29.webp"
+    },
+    {
+      "ano": "1991-2020",
+      "url": "/escudos_historicos/rangers/Rangers_FC_logo_1991-2020_corporate_.svg"
+    },
+    {
+      "ano": "2020",
+      "url": "/escudos_historicos/rangers/Rangers_FC_2020.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/rangers.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Gers",
+      "origen": "Constituye la fracción silábica final y el diminutivo por excelencia del sustantivo 'Rangers'. Se estableció en la cultura popular y periodística desde comienzos del siglo XX debido a la necesidad lingüística de simplificar el término en los cánticos de estadio y crónicas oficiales."
+    },
+    {
+      "apodo": "The Teddy Bears",
+      "origen": "Ejemplo estructural del slang o argot de rima (rhyming slang) propio del dialecto urbano británico. La locución 'Teddy Bears' rima fonéticamente con el apodo acortado 'Gers' (pronunciado de forma similar a 'Bears'). Esto decantó en que habitualmente tanto cronistas como seguidores se autodenominen simplemente como 'The Bears' (Los Osos)."
+    },
+    {
+      "apodo": "Light Blues",
+      "origen": "Denominación asignada sistemáticamente por periodistas y relatores en respuesta al histórico cambio en el atuendo oficial. Instituido de forma definitiva, el equipo adoptó la camiseta azul rey con variaciones de tonos celestes a lo largo de las décadas para diferenciarse en transmisiones televisivas."
+    }
+  ]
+}

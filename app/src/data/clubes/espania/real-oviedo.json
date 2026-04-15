@@ -1,0 +1,256 @@
+{
+  "id": "real-oviedo",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "real oviedo",
+      "asturias",
+      "carbayones"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Oviedo",
+    "sigla": "OVI",
+    "fundacion": "26 de marzo de 1926",
+    "apodo": "Carbayones, Azules",
+    "estadio_actual": "Estadio Carlos Tartiere",
+    "estadio_apodo": "",
+    "estadio_capacidad": 30500,
+    "estadio_inauguracion": "2000",
+    "estadio_lat": 43.3581,
+    "estadio_lng": -5.8718,
+    "estadio_direccion": "C. Isidro Lángara, s/n, 33013 Oviedo, Asturias, España",
+    "socios": 20000,
+    "descripcion_corta": "Histórica entidad representativa de la urbe asturiana surgida de unificaciones locales pioneras.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-2 a Sabadell",
+      "maximo_goleador": "Isidro Lángara (281 goles)",
+      "mas_presencias": "Berto (512 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1926",
+      "hito": "La Fusión Monumental del Principado",
+      "desc": "El 26 de marzo de 1926, la encarnizada rivalidad que fracturaba Oviedo se selló con un pacto de sangre deportiva histórica. Acorralados ante la necesidad de construir una potencia regional que pudiera competir nacionalmente, el legendario Real Club Deportivo Oviedo y el aguerrido Real Stadium Club Ovetense decidieron hacer a un lado el orgullo local para firmar una fusión irrevocable. La asamblea constituyente unificó ambas sociedades en el despacho incuestionable del visionario don Carlos Tartiere, quien asumiría con honor el cargo de primer presidente del naciente 'Real Oviedo Football Club'. Arropados inicialmente por una camiseta blanca antes de evolucionar a su mítico atuendo completamente azul, Tartiere y los arquitectos de esta alianza forjaron para toda la eternidad la esencia guerrera de una escuadra abocada a defender el orgullo máximo del Principado de Asturias ante España."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Buenavista (Antiguo Carlos Tartiere)",
+      "direccion": "Buenavista, Oviedo",
+      "desde": 1932,
+      "hasta": 2000,
+      "estado": "Histórico",
+      "obs": "Estructura histórica sede mundialista. Fue clausurado tras considerarse deficiente para la asistencia.",
+      "lat": 43.3583,
+      "lng": -5.8647,
+      "url": "https://www.google.com/maps/search/?api=1&query=Buenavista%2C%20Oviedo"
+    },
+    {
+      "nombre": "Estadio Carlos Tartiere",
+      "direccion": "C. Isidro Lángara, s/n, Oviedo",
+      "desde": 2000,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Moderna construcción erigida con un perímetro integral de visualización rectilínea.",
+      "lat": 43.3581,
+      "lng": -5.8718,
+      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Isidro%20L%C3%A1ngara%2C%20s%2Fn%2C%20Oviedo"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1926,
+      "hasta": null,
+      "c1": "#003da5",
+      "c2": "#003da5",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Tras surgir de rigurosas conjunciones ovetenses formales y lícitas poéticas vistieron invencibles formales duros telares oscuros azules asturianos impolutos puristas y lisos lícitos legendarios eternos."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Isidro Lángara",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "1930-1936",
+      "desc": "Extraordinario goleador de la década de 1930. Ganó el Trofeo Pichichi de Primera División en tres temporadas consecutivas."
+    },
+    {
+      "nombre": "Eduardo Herrera Bueno (Herrerita)",
+      "pos": "Delantero",
+      "apodo": "Herrerita",
+      "periodo": "1933-1950",
+      "desc": "Destacado delantero que conformó el bloque ofensivo del club garantizando altas consagraciones regulares a mediados de siglo."
+    },
+    {
+      "nombre": "Carlos Muñoz",
+      "pos": "Delantero",
+      "apodo": "Carlos",
+      "periodo": "1987-1996",
+      "desc": "Delantero centro fundamental que aportó la mayoría de goles decisivos en el ascenso a Primera División a finales de la década de 1980."
+    },
+    {
+      "nombre": "Mariano Arias (Marianín)",
+      "pos": "Delantero",
+      "apodo": "El Jabalí del Bierzo",
+      "periodo": "1972-1977",
+      "desc": "Atacante galardonado históricamente que logró ganar el Trofeo Pichichi a máximo goleador de Primera División en la temporada de 1972."
+    },
+    {
+      "nombre": "Esteban Suárez",
+      "pos": "Portero",
+      "apodo": "",
+      "periodo": "1997-2016",
+      "desc": "Arquero que habiendo cumplido trayectorias locales y externas retornó años después para defender el arco logrando rescates y ascensos."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Isidro Lángara",
+      "goles": 281,
+      "partidos": 220,
+      "periodo": "1930-1936",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 281 goles en competiciones oficiales durante su trayectoria en el equipo entre 1930-1936."
+    },
+    {
+      "nombre": "Herrerita",
+      "goles": 119,
+      "partidos": 228,
+      "periodo": "1933-1950",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 119 goles en competiciones oficiales durante su trayectoria en el equipo entre 1933-1950."
+    },
+    {
+      "nombre": "Carlos",
+      "goles": 132,
+      "partidos": 275,
+      "periodo": "1987-1996",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 132 goles en competiciones oficiales durante su trayectoria en el equipo entre 1987-1996."
+    },
+    {
+      "nombre": "Galo",
+      "goles": 104,
+      "partidos": 247,
+      "periodo": "1931-1935",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 104 goles en competiciones oficiales durante su trayectoria en el equipo entre 1931-1935."
+    },
+    {
+      "nombre": "Linares",
+      "goles": 53,
+      "partidos": 140,
+      "periodo": "2014-2018",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2018."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Berto",
+      "partidos": 512,
+      "periodo": "1984-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 512 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-1999."
+    },
+    {
+      "nombre": "Viti",
+      "partidos": 395,
+      "periodo": "1979-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 395 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1994."
+    },
+    {
+      "nombre": "Tensi",
+      "partidos": 377,
+      "periodo": "1965-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 377 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1978."
+    },
+    {
+      "nombre": "Toni Cuervo",
+      "partidos": 370,
+      "periodo": "1954-1967",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 370 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1967."
+    },
+    {
+      "nombre": "Emilín",
+      "partidos": 277,
+      "periodo": "1933-1949",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 277 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1933-1949."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo.webp"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1926.webp"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1931_.webp"
+    },
+    {
+      "ano": "1934",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1934_.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1941_.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1942.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1945.webp"
+    },
+    {
+      "ano": "1953",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1953.webp"
+    },
+    {
+      "ano": "1957",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1957.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1988_logo.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1992_logo.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_1998_logo.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/real-oviedo/Real_Oviedo_2000_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/real-oviedo.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Carbayones",
+      "origen": "Heredado del gentilicio y apropiación geográfica pura asturiana debido a un legendario e antiguo árbol de roble. Esta espesa especie arbórea se afincó y emplazó temporalmente de modo céntrico como árbol masivo originario fundamental en su ciudad municipal marcando en el paisaje a toda la descendencia, que llanamente terminó utilizándolo genéricamente refiriendo y bautizando como base a su grueso social."
+    }
+  ]
+}

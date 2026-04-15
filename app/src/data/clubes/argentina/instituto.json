@@ -1,0 +1,232 @@
+{
+  "id": "instituto",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "cordoba",
+      "gloria",
+      "kempes",
+      "dybala"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Instituto Atlético Central Córdoba",
+    "sigla": "IACC",
+    "fundacion": "8 de agosto de 1918",
+    "apodo": "La Gloria, El Albirrojo",
+    "estadio_actual": "Monumental Juan Domingo Perón",
+    "estadio_apodo": "El Monumental de Alta Córdoba",
+    "estadio_capacidad": 26535,
+    "estadio_inauguracion": "1951-08-15",
+    "estadio_lat": -31.3934,
+    "estadio_lng": -64.1802,
+    "estadio_direccion": "Jujuy 2602, Alta Córdoba, Provincia de Córdoba",
+    "socios": 35000,
+    "descripcion_corta": "Club emblemático de la ciudad de Córdoba con sede administrativa e infraestructura en el barrio de Alta Córdoba. Conocido popularmente como 'La Gloria', es uno de los máximos referentes provinciales y nacionales del interior del país, destacando por una importante escuela formativa de futbolistas que incluye campeones del mundo como Mario Alberto Kempes, Osvaldo Ardiles y Paulo Dybala.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E2001A"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-1 a San Lorenzo de Mar del Plata (Nacional 1973)",
+      "maximo_goleador": "Oscar Alberto Dertycia (93 goles)",
+      "mas_presencias": "Enrique Roberto Nieto (261 partidos)"
+    }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Escudo_Instituto_Atletico_Central_Cordoba.png/1280px-Escudo_Instituto_Atletico_Central_Cordoba.png"
+    }
+  ],
+  "historia": [
+    {
+      "ano": "1918",
+      "hito": "Fundación originada por empleados ferroviarios",
+      "desc": "El 8 de agosto de 1918, un grupo de trabajadores de la seccional local del Ferrocarril Central Córdoba llevó a cabo una asamblea en la Escuela De Artes y Oficios de la ciudad de Córdoba. Liderados por Ramón Isleños, como primer titular de la comisión, fundaron el 'Instituto Ferrocarril Central Córdoba'. Años más tarde, ante cambios sindicales, el club se estructuró con su identidad rojiblanca en el tradicional barrio de Alta Córdoba."
+    },
+    {
+      "ano": "1973",
+      "hito": "Participación en el Campeonato Nacional",
+      "desc": "Sostenidos en un gran nivel colectivo, Instituto tuvo su participación primordial en la Primera División nacional al competir en el Campeonato Nacional de 1973. En un frente de ataque elogiado por la crónica deportiva, se consolidó la explosividad goleadora y formación futbolística del delantero Mario Alberto Kempes y del organizador Osvaldo Ardiles, posteriormente mundialistas."
+    },
+    {
+      "ano": "2022",
+      "hito": "Ascenso a la Liga Profesional",
+      "desc": "Tras más de una década de participación ininterrumpida en torneos de la segunda categoría y luego de una estructurada temporada regular, el equipo dirigido por Lucas Bovaglio venció a Estudiantes de Caseros en la serie final del Torneo Reducido. Este resultado determinó su definitivo regreso al máximo campeonato de la Primera División nacional para la temporada 2023."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Canchas Provisorias Liguistas",
+      "direccion": "Varios Terrenos (Alta Córdoba e inmediaciones)",
+      "desde": 1918,
+      "hasta": 1951,
+      "estado": "Histórico",
+      "obs": "Previo a la materialización definitiva de su estadio, el club efectuó un peregrinaje transitorio de casi tres décadas oficiando de local en distintos predios acondicionados de forma precaria en la barriada ferroviaria capitalina.",
+      "lat": -31.385,
+      "lng": -64.18,
+      "url": "https://www.google.com/maps/search/?api=1&query=Varios%20Terrenos%20(Alta%20C%C3%B3rdoba%20e%20inmediaciones)"
+    },
+    {
+      "nombre": "Monumental Presidente Juan Domingo Perón",
+      "direccion": "Jujuy 2602/2700, Alta Córdoba, Provincia de Córdoba",
+      "desde": 1951,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto en el epicentro histórico institucional del barrio de Alta Córdoba inaugurado oficialmente de manera formal el 15 de agosto de 1951. Los terrenos definitivos habían sido previamente comprados recién en 1941.",
+      "lat": -31.382,
+      "lng": -64.181,
+      "url": "https://www.google.com/maps/search/?api=1&query=Jujuy%202602%2F2700%2C%20Alta%20C%C3%B3rdoba%2C%20Provincia%20de%20C%C3%B3rdoba"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1918,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Rayas verticales rojiblancas puristas y asombrosamente forjadas tejidas originadas bajo influencias logísticas de asociaciones estudiantiles ferroviarias cordobesas que dominaron imponentes con estas franjas purísimas Alta Córdoba la docta y la historia férrea eterna fáctica legendaria de la Gloria."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Mario Alberto Kempes",
+      "pos": "Delantero",
+      "apodo": "El Matador",
+      "periodo": "1973-1974",
+      "desc": "El histórico goleador cordobés y campeón mundial inició su destacada carrera profesional en el club en el año 1973, consolidándose como atacante goleador antes de su traspaso a Rosario Central."
+    },
+    {
+      "nombre": "Osvaldo Ardiles",
+      "pos": "Mediocampista",
+      "apodo": "El Pitón",
+      "periodo": "1973-1974",
+      "desc": "Mediocampista formado en la cantera del club. Fue una pieza clave del mediocampo durante su primera etapa profesional, lo que le valió su posterior convocatoria y consolidación en el fútbol europeo."
+    },
+    {
+      "nombre": "Paulo Dybala",
+      "pos": "Delantero / Enganche",
+      "apodo": "La Joya",
+      "periodo": "2011-2012",
+      "desc": "Atacante surgido del predio La Agustina. Debutó con 17 años y rompió un récord institucional al anotar en partidos consecutivos, siendo la máxima figura del equipo en la B Nacional antes de emigrar a Italia."
+    },
+    {
+      "nombre": "Diego Klimowicz",
+      "pos": "Centrodelantero",
+      "apodo": "El Granadero",
+      "periodo": "1993-1996, 2011-2012",
+      "desc": "Delantero de gran envergadura física originario del club. Durante la década de 1990 lideró la ofensiva aportando un importante promedio goleador antes de desarrollar gran parte de su carrera en Europa."
+    },
+    {
+      "nombre": "Miliki Jiménez",
+      "pos": "Delantero",
+      "apodo": "Miliki",
+      "periodo": "1998-2002",
+      "desc": "Atacante central fuertemente identificado con las campañas en las divisionales de ascenso. Es recordado como uno de los goleadores más importantes de la historia moderna de la institución."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Oscar Alberto Dertycia",
+      "goles": 93,
+      "partidos": 220,
+      "periodo": "1982-1988, 1996",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 93 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1988, 1996."
+    },
+    {
+      "nombre": "Daniel Jiménez",
+      "goles": 89,
+      "partidos": 173,
+      "periodo": "1998-2005",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2005."
+    },
+    {
+      "nombre": "Mario Kempes",
+      "goles": 78,
+      "partidos": 81,
+      "periodo": "1973",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 78 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973."
+    },
+    {
+      "nombre": "Claudio Sarría",
+      "goles": 45,
+      "partidos": 194,
+      "periodo": "1990-2000",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-2000."
+    },
+    {
+      "nombre": "Ramón Ábila",
+      "goles": 35,
+      "partidos": 87,
+      "periodo": "2008-2013",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2013."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Enrique Roberto Nieto",
+      "partidos": 261,
+      "periodo": "1980s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 261 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980s."
+    },
+    {
+      "nombre": "Julián Maidana",
+      "partidos": 210,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 210 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Osvaldo Márquez",
+      "partidos": 195,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 195 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Claudio Sarría",
+      "partidos": 194,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 194 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Diego Álvarez",
+      "partidos": 182,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 182 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1999",
+        "2004"
+      ]
+    },
+    {
+      "nombre": "Ligas Cordobesas Regionales",
+      "cantidad": 9,
+      "años": [
+        "Historial Completo Desde 1925"
+      ]
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Gloria",
+      "origen": "Dictaminado por las formidables e imparables demostraciones competitivas logradas a partir de los certámenes de 1919. A pesar de estrenarse como equipo principiante originario del barrio cordobés de Alta Córdoba con muy escasos recursos respecto a los gigantes del núcleo provincial, el equipo se adjudicó la liga local cordobesa conquistando absolutamente la corona en calidad de planteles invictos. La plana periodística rotuló la imponente hazaña graficando en tapas que marchaban triunfalmente hacia la gloria inminente."
+    }
+  ]
+}

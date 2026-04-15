@@ -1,0 +1,785 @@
+[
+  {
+    "rival": "Agropecuario Argentino",
+    "pj": 4,
+    "victorias": 0,
+    "empates": 2,
+    "derrotas": 2,
+    "goles_a_favor": 2,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Aldosivi",
+    "pj": 20,
+    "victorias": 10,
+    "empates": 6,
+    "derrotas": 4,
+    "goles_a_favor": 27,
+    "goles_en_contra": 21
+  },
+  {
+    "rival": "All Boys",
+    "pj": 15,
+    "victorias": 3,
+    "empates": 9,
+    "derrotas": 3,
+    "goles_a_favor": 15,
+    "goles_en_contra": 17
+  },
+  {
+    "rival": "Almagro",
+    "pj": 13,
+    "victorias": 3,
+    "empates": 4,
+    "derrotas": 6,
+    "goles_a_favor": 12,
+    "goles_en_contra": 15
+  },
+  {
+    "rival": "Almirante Brown",
+    "pj": 15,
+    "victorias": 5,
+    "empates": 4,
+    "derrotas": 6,
+    "goles_a_favor": 16,
+    "goles_en_contra": 15
+  },
+  {
+    "rival": "Alvarado",
+    "pj": 4,
+    "victorias": 3,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 7,
+    "goles_en_contra": 5
+  },
+  {
+    "rival": "Argentino de Quilmes",
+    "pj": 1,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 0
+  },
+  {
+    "rival": "Argentinos Juniors",
+    "pj": 7,
+    "victorias": 3,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 8,
+    "goles_en_contra": 8
+  },
+  {
+    "rival": "Arsenal de Sarandí",
+    "pj": 1,
+    "victorias": 0,
+    "empates": 1,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Atlanta",
+    "pj": 7,
+    "victorias": 2,
+    "empates": 3,
+    "derrotas": 1,
+    "goles_a_favor": 8,
+    "goles_en_contra": 8
+  },
+  {
+    "rival": "Atlético Paraná",
+    "pj": 5,
+    "victorias": 0,
+    "empates": 4,
+    "derrotas": 1,
+    "goles_a_favor": 3,
+    "goles_en_contra": 4
+  },
+  {
+    "rival": "Atlético Rafaela",
+    "pj": 15,
+    "victorias": 8,
+    "empates": 4,
+    "derrotas": 3,
+    "goles_a_favor": 24,
+    "goles_en_contra": 20
+  },
+  {
+    "rival": "Atlético Tucumán",
+    "pj": 17,
+    "victorias": 4,
+    "empates": 8,
+    "derrotas": 5,
+    "goles_a_favor": 15,
+    "goles_en_contra": 17
+  },
+  {
+    "rival": "Banfield",
+    "pj": 9,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 7,
+    "goles_a_favor": 8,
+    "goles_en_contra": 18
+  },
+  {
+    "rival": "Barracas Central",
+    "pj": 9,
+    "victorias": 2,
+    "empates": 3,
+    "derrotas": 4,
+    "goles_a_favor": 10,
+    "goles_en_contra": 10
+  },
+  {
+    "rival": "Belgrano de Córdoba",
+    "pj": 16,
+    "victorias": 7,
+    "empates": 4,
+    "derrotas": 5,
+    "goles_a_favor": 21,
+    "goles_en_contra": 14
+  },
+  {
+    "rival": "Belgrano de San Francisco",
+    "pj": 6,
+    "victorias": 3,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 8,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Ben Hur de Rafaela",
+    "pj": 2,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "goles_a_favor": 2,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Boca Juniors",
+    "pj": 3,
+    "victorias": 0,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 1,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Boca Unidos",
+    "pj": 16,
+    "victorias": 3,
+    "empates": 8,
+    "derrotas": 5,
+    "goles_a_favor": 14,
+    "goles_en_contra": 16
+  },
+  {
+    "rival": "Brown de Adrogué",
+    "pj": 12,
+    "victorias": 2,
+    "empates": 6,
+    "derrotas": 4,
+    "goles_a_favor": 6,
+    "goles_en_contra": 12
+  },
+  {
+    "rival": "C.A.I. de Comodoro Rivadavia",
+    "pj": 8,
+    "victorias": 3,
+    "empates": 3,
+    "derrotas": 2,
+    "goles_a_favor": 12,
+    "goles_en_contra": 13
+  },
+  {
+    "rival": "CA Los Andes",
+    "pj": 9,
+    "victorias": 5,
+    "empates": 2,
+    "derrotas": 2,
+    "goles_a_favor": 10,
+    "goles_en_contra": 8
+  },
+  {
+    "rival": "Central Córdoba Rosario",
+    "pj": 1,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "goles_a_favor": 2,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Central Córdoba SdE",
+    "pj": 9,
+    "victorias": 4,
+    "empates": 2,
+    "derrotas": 3,
+    "goles_a_favor": 11,
+    "goles_en_contra": 10
+  },
+  {
+    "rival": "Chacarita Juniors",
+    "pj": 17,
+    "victorias": 5,
+    "empates": 4,
+    "derrotas": 8,
+    "goles_a_favor": 12,
+    "goles_en_contra": 19
+  },
+  {
+    "rival": "Chaco For Ever",
+    "pj": 3,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 3,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Colón de Santa Fe",
+    "pj": 1,
+    "victorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 0,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Crucero del Norte",
+    "pj": 9,
+    "victorias": 4,
+    "empates": 3,
+    "derrotas": 2,
+    "goles_a_favor": 10,
+    "goles_en_contra": 7
+  },
+  {
+    "rival": "Defensa y Justicia",
+    "pj": 17,
+    "victorias": 6,
+    "empates": 9,
+    "derrotas": 2,
+    "goles_a_favor": 32,
+    "goles_en_contra": 28
+  },
+  {
+    "rival": "Defensores de Belgrano",
+    "pj": 6,
+    "victorias": 2,
+    "empates": 4,
+    "derrotas": 0,
+    "goles_a_favor": 9,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Deportivo Madryn",
+    "pj": 3,
+    "victorias": 2,
+    "empates": 1,
+    "derrotas": 0,
+    "goles_a_favor": 5,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Deportivo Maipú",
+    "pj": 3,
+    "victorias": 2,
+    "empates": 1,
+    "derrotas": 0,
+    "goles_a_favor": 4,
+    "goles_en_contra": 2
+  },
+  {
+    "rival": "Deportivo Merlo",
+    "pj": 8,
+    "victorias": 0,
+    "empates": 0,
+    "derrotas": 8,
+    "goles_a_favor": 4,
+    "goles_en_contra": 14
+  },
+  {
+    "rival": "Deportivo Morón",
+    "pj": 6,
+    "victorias": 2,
+    "empates": 3,
+    "derrotas": 1,
+    "goles_a_favor": 8,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Deportivo Riestra",
+    "pj": 6,
+    "victorias": 2,
+    "empates": 2,
+    "derrotas": 2,
+    "goles_a_favor": 7,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Desamparados de San Juan",
+    "pj": 2,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 1,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Douglas Haig",
+    "pj": 9,
+    "victorias": 3,
+    "empates": 2,
+    "derrotas": 4,
+    "goles_a_favor": 8,
+    "goles_en_contra": 13
+  },
+  {
+    "rival": "Estudiantes",
+    "pj": 3,
+    "victorias": 0,
+    "empates": 2,
+    "derrotas": 1,
+    "goles_a_favor": 4,
+    "goles_en_contra": 5
+  },
+  {
+    "rival": "Estudiantes de Caseros",
+    "pj": 6,
+    "victorias": 4,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 7,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Estudiantes de Río Cuarto",
+    "pj": 4,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 3,
+    "goles_en_contra": 7
+  },
+  {
+    "rival": "Estudiantes de San Luis",
+    "pj": 6,
+    "victorias": 4,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 7,
+    "goles_en_contra": 4
+  },
+  {
+    "rival": "Ferro Carril Oeste",
+    "pj": 28,
+    "victorias": 7,
+    "empates": 10,
+    "derrotas": 11,
+    "goles_a_favor": 25,
+    "goles_en_contra": 33
+  },
+  {
+    "rival": "Ferrocarril Midland",
+    "pj": 1,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 0
+  },
+  {
+    "rival": "Flandria",
+    "pj": 4,
+    "victorias": 1,
+    "empates": 2,
+    "derrotas": 1,
+    "goles_a_favor": 4,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Gimnasia de Jujuy",
+    "pj": 22,
+    "victorias": 7,
+    "empates": 9,
+    "derrotas": 6,
+    "goles_a_favor": 24,
+    "goles_en_contra": 21
+  },
+  {
+    "rival": "Gimnasia de La Plata",
+    "pj": 7,
+    "victorias": 4,
+    "empates": 2,
+    "derrotas": 1,
+    "goles_a_favor": 10,
+    "goles_en_contra": 9
+  },
+  {
+    "rival": "Gimnasia de Mendoza",
+    "pj": 6,
+    "victorias": 3,
+    "empates": 0,
+    "derrotas": 3,
+    "goles_a_favor": 9,
+    "goles_en_contra": 7
+  },
+  {
+    "rival": "Godoy Cruz",
+    "pj": 5,
+    "victorias": 0,
+    "empates": 3,
+    "derrotas": 2,
+    "goles_a_favor": 3,
+    "goles_en_contra": 5
+  },
+  {
+    "rival": "Guaraní Antonio Franco",
+    "pj": 2,
+    "victorias": 0,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 0,
+    "goles_en_contra": 2
+  },
+  {
+    "rival": "Guillermo Brown",
+    "pj": 15,
+    "victorias": 6,
+    "empates": 4,
+    "derrotas": 5,
+    "goles_a_favor": 14,
+    "goles_en_contra": 12
+  },
+  {
+    "rival": "Güemes de SdE",
+    "pj": 3,
+    "victorias": 1,
+    "empates": 2,
+    "derrotas": 0,
+    "goles_a_favor": 3,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Huracán",
+    "pj": 14,
+    "victorias": 4,
+    "empates": 4,
+    "derrotas": 6,
+    "goles_a_favor": 10,
+    "goles_en_contra": 17
+  },
+  {
+    "rival": "Independiente",
+    "pj": 6,
+    "victorias": 3,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 6,
+    "goles_en_contra": 5
+  },
+  {
+    "rival": "Instituto de Córdoba",
+    "pj": 27,
+    "victorias": 5,
+    "empates": 11,
+    "derrotas": 11,
+    "goles_a_favor": 22,
+    "goles_en_contra": 29
+  },
+  {
+    "rival": "Juventud Unida Universitario",
+    "pj": 1,
+    "victorias": 0,
+    "empates": 1,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Juventud Unida de Gualeguaychú",
+    "pj": 6,
+    "victorias": 1,
+    "empates": 3,
+    "derrotas": 2,
+    "goles_a_favor": 5,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Lanús",
+    "pj": 4,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "goles_a_favor": 3,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Mitre de SdE",
+    "pj": 7,
+    "victorias": 2,
+    "empates": 1,
+    "derrotas": 4,
+    "goles_a_favor": 7,
+    "goles_en_contra": 8
+  },
+  {
+    "rival": "Newell's Old Boys",
+    "pj": 3,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 2,
+    "goles_en_contra": 2
+  },
+  {
+    "rival": "Nueva Chicago",
+    "pj": 15,
+    "victorias": 8,
+    "empates": 5,
+    "derrotas": 1,
+    "goles_a_favor": 25,
+    "goles_en_contra": 14
+  },
+  {
+    "rival": "Olimpo de Bahía Blanca",
+    "pj": 7,
+    "victorias": 3,
+    "empates": 0,
+    "derrotas": 4,
+    "goles_a_favor": 7,
+    "goles_en_contra": 10
+  },
+  {
+    "rival": "Patronato de Paraná",
+    "pj": 12,
+    "victorias": 2,
+    "empates": 4,
+    "derrotas": 6,
+    "goles_a_favor": 11,
+    "goles_en_contra": 13
+  },
+  {
+    "rival": "Platense",
+    "pj": 10,
+    "victorias": 4,
+    "empates": 3,
+    "derrotas": 3,
+    "goles_a_favor": 16,
+    "goles_en_contra": 11
+  },
+  {
+    "rival": "Quilmes",
+    "pj": 14,
+    "victorias": 5,
+    "empates": 3,
+    "derrotas": 6,
+    "goles_a_favor": 18,
+    "goles_en_contra": 26
+  },
+  {
+    "rival": "Racing Club",
+    "pj": 4,
+    "victorias": 1,
+    "empates": 2,
+    "derrotas": 1,
+    "goles_a_favor": 4,
+    "goles_en_contra": 4
+  },
+  {
+    "rival": "Racing de Córdoba",
+    "pj": 2,
+    "victorias": 0,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 1,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Ramón Santamarina",
+    "pj": 12,
+    "victorias": 6,
+    "empates": 2,
+    "derrotas": 4,
+    "goles_a_favor": 18,
+    "goles_en_contra": 11
+  },
+  {
+    "rival": "River Plate",
+    "pj": 6,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 3,
+    "goles_a_favor": 4,
+    "goles_en_contra": 10
+  },
+  {
+    "rival": "Rosario Central",
+    "pj": 9,
+    "victorias": 2,
+    "empates": 3,
+    "derrotas": 4,
+    "goles_a_favor": 9,
+    "goles_en_contra": 10
+  },
+  {
+    "rival": "Sacachispas",
+    "pj": 1,
+    "victorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 1,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "San Lorenzo",
+    "pj": 1,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 0
+  },
+  {
+    "rival": "San Martín de San Juan",
+    "pj": 13,
+    "victorias": 4,
+    "empates": 3,
+    "derrotas": 6,
+    "goles_a_favor": 16,
+    "goles_en_contra": 16
+  },
+  {
+    "rival": "San Martín de Tucumán",
+    "pj": 10,
+    "victorias": 3,
+    "empates": 4,
+    "derrotas": 3,
+    "goles_a_favor": 9,
+    "goles_en_contra": 12
+  },
+  {
+    "rival": "San Telmo",
+    "pj": 3,
+    "victorias": 2,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 8,
+    "goles_en_contra": 4
+  },
+  {
+    "rival": "Sarmiento de Junín",
+    "pj": 12,
+    "victorias": 4,
+    "empates": 4,
+    "derrotas": 4,
+    "goles_a_favor": 8,
+    "goles_en_contra": 9
+  },
+  {
+    "rival": "Sportivo Italiano",
+    "pj": 2,
+    "victorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "goles_a_favor": 5,
+    "goles_en_contra": 4
+  },
+  {
+    "rival": "Talleres de Córdoba",
+    "pj": 9,
+    "victorias": 3,
+    "empates": 2,
+    "derrotas": 4,
+    "goles_a_favor": 14,
+    "goles_en_contra": 16
+  },
+  {
+    "rival": "Temperley",
+    "pj": 5,
+    "victorias": 1,
+    "empates": 1,
+    "derrotas": 3,
+    "goles_a_favor": 4,
+    "goles_en_contra": 7
+  },
+  {
+    "rival": "Tigre",
+    "pj": 5,
+    "victorias": 3,
+    "empates": 1,
+    "derrotas": 1,
+    "goles_a_favor": 9,
+    "goles_en_contra": 6
+  },
+  {
+    "rival": "Tiro Federal de Rosario",
+    "pj": 8,
+    "victorias": 3,
+    "empates": 2,
+    "derrotas": 3,
+    "goles_a_favor": 9,
+    "goles_en_contra": 11
+  },
+  {
+    "rival": "Tristan Suárez",
+    "pj": 5,
+    "victorias": 3,
+    "empates": 0,
+    "derrotas": 2,
+    "goles_a_favor": 9,
+    "goles_en_contra": 7
+  },
+  {
+    "rival": "Unión de Mar del Plata",
+    "pj": 2,
+    "victorias": 0,
+    "empates": 2,
+    "derrotas": 0,
+    "goles_a_favor": 1,
+    "goles_en_contra": 1
+  },
+  {
+    "rival": "Unión de Santa Fe",
+    "pj": 16,
+    "victorias": 4,
+    "empates": 3,
+    "derrotas": 9,
+    "goles_a_favor": 18,
+    "goles_en_contra": 26
+  },
+  {
+    "rival": "Villa Dálmine",
+    "pj": 12,
+    "victorias": 7,
+    "empates": 5,
+    "derrotas": 0,
+    "goles_a_favor": 13,
+    "goles_en_contra": 3
+  },
+  {
+    "rival": "Villa San Carlos",
+    "pj": 2,
+    "victorias": 2,
+    "empates": 0,
+    "derrotas": 0,
+    "goles_a_favor": 3,
+    "goles_en_contra": 0
+  },
+  {
+    "rival": "Vélez Sarsfield",
+    "pj": 3,
+    "victorias": 0,
+    "empates": 0,
+    "derrotas": 3,
+    "goles_a_favor": 0,
+    "goles_en_contra": 6
+  }
+]

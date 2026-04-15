@@ -1,0 +1,228 @@
+{
+  "id": "paris-fc",
+  "meta": {
+    "slug": "paris-fc"
+  },
+  "datos": {
+    "nombre_completo": "Paris FC",
+    "nombre_oficial": "Paris FC",
+    "nombre_corto": "Paris FC",
+    "apodo": "PFC",
+    "fundacion": "1969",
+    "estadio_actual": "Stade Sébastien Charléty",
+    "presidente": "Pierre Ferracci",
+    "entrenador": "Stéphane Gilli",
+    "estadio_capacidad": "20.000",
+    "estadio_inauguracion": "1939",
+    "estadio_direccion": "99 Bd Kellermann, 75013 Paris, Francia",
+    "estadio_lat": 48.8178,
+    "estadio_lng": 2.3468,
+    "sigla": "PFC",
+    "socios": 5000,
+    "descripcion_corta": "El núcleo corporativo y logístico que posibilitó aportar la figura jurídica local sobre la fusión originaria y administrativa validada como Paris Saint-Germain en la apertura de 1970.",
+    "paleta": [
+      {
+        "tag": "Azul Oscuro",
+        "hex": "#0C2340"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ousmane Kanté (19 goles)",
+      "mas_presencias": "Cyril Mandouki (184 partidos)",
+      "mayor_goleada": "5-0 vs Bastia (2020)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/paris-fc.svg"
+  },
+  "historia": [
+    {
+      "ano": "1969",
+      "hito": "La Urbe Capital Exige y Fragua su Propio Coloso Desesperado",
+      "desc": "Asfixiados hundidos por la humillante innegociable fáctica realidad que sumida la monumental eterna purísima y más gigantesca capital inmensurable del mundo, la gloriosa ciudad magna de París originaria histórica, dictaminaba dolorosa e innegociable no portar un club en la cima estipulada élite. Bajo presión asfixiante el Ayuntamiento junto a gigantes de federaciones de época fundaron originariamente el 1 de agosto originado inmenso al gran Paris Football Club forzando dictaminada amalgama absorbiendo para jugar la élite gloriosa al y rústico rudo modesto inmenso colosal de región el y grande de Saint-Germain."
+    },
+    {
+      "ano": "1969",
+      "hito": "Fundación Institucional",
+      "desc": "El club fue establecido por directivos de la federación francesa con el mandato de dotar a la capital francesa de un club profesional en la primera división."
+    },
+    {
+      "ano": "1972",
+      "hito": "Ruptura Institucional del Paris Saint-Germain",
+      "desc": "Luego de funcionar legalmente en fusión con el equipo de Saint-Germain, la asamblea oficial de la ciudad votó para desarmar el vínculo, operando nuevamente en solitario."
+    },
+    {
+      "ano": "1974",
+      "hito": "Descenso de Categoría Profesional",
+      "desc": "Tras terminar en posiciones de fondo de tabla, el primer equipo consumó su descenso oficial de la máxima división, perdiendo su estatus en el círculo principal nacional."
+    },
+    {
+      "ano": "2024",
+      "hito": "Inversión Mayoritaria del Grupo LVMH",
+      "desc": "Formalizando documentación comercial, la familia Arnault, propietaria del conglomerado LVMH, junto a Red Bull, adquirió la participación mayoritaria del club asumiendo el control administrativo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Déjerine",
+      "capacidad": "2.500",
+      "inauguracion": "1905",
+      "desde": "1969",
+      "hasta": "2007",
+      "direccion": "Rue des Docteurs Déjerine, 75020 Paris, Francia",
+      "lat": 48.8601,
+      "lng": 2.4116,
+      "obs": "Sede histórica de sus años de regional, limitante para divisiones de fútbol absoluto.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20des%20Docteurs%20D%C3%A9jerine%2C%2075020%20Paris%2C%20Francia"
+    },
+    {
+      "nombre": "Stade Sébastien Charléty",
+      "capacidad": "20.000",
+      "inauguracion": "1939",
+      "desde": "2007",
+      "hasta": "",
+      "direccion": "99 Bd Kellermann, 75013 Paris, Francia",
+      "lat": 48.8178,
+      "lng": 2.3468,
+      "obs": "Complejo multiusos ubicado en distrito trece de la urbe parisina asimilado para localías actuales del equipo.",
+      "url": "https://www.google.com/maps/search/?api=1&query=99%20Bd%20Kellermann%2C%2075013%20Paris%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1969,
+      "hasta": null,
+      "c1": "#002b5e",
+      "c2": "#ffffff",
+      "sh": "#002b5e",
+      "me": "#002b5e",
+      "tipo": "liso",
+      "desc": "Estricto ropaje local e institucional de tonalidades azul oscuro pleno y profundo, rememorando formalmente a la historia inicial metropolitana."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Vincent Demarconnay",
+      "periodo": "2008-2023",
+      "pos": "Arquero",
+      "desc": "Arquero titular y capitán emblemático contemporáneo. Custodió ininterrumpidamente el arco durante gran parte de las últimas dos décadas logrando superar el récord de más apariciones del club."
+    },
+    {
+      "nombre": "Jean-François Beltramini",
+      "periodo": "1973-1975",
+      "pos": "Delantero",
+      "desc": "Goleador histórico y delantero asiduo local. Fue atacante destacado que lideró las posiciones de artillería máxima garantizando formidables triunfos durante la original etapa fundacional liguera."
+    },
+    {
+      "nombre": "François M'Pelé",
+      "periodo": "1973-1973",
+      "pos": "Delantero",
+      "desc": "Atacante internacional originario del ámbito africano. Demostró una notable corpulencia e incisivo avance ofensivo disputando contiendas formales a nivel institucional capitalino."
+    },
+    {
+      "nombre": "Félix Pironti",
+      "periodo": "1973-1974",
+      "pos": "Mediocampista",
+      "desc": "Sólido jugador formativo y de tareas ofensivas y tácticas de las primeras filas parisinas competidoras. Garantizó su cuota aportadora originando firme e indiscutida titularidad a su paso."
+    },
+    {
+      "nombre": "Louis Floch",
+      "periodo": "1972-1974",
+      "pos": "Mediocampista",
+      "desc": "Volante de línea ofensiva de destacada y asidua regularidad. Se erigió como enorme figura y oficial titular del mediocampo logrando organizar las bases ofensivas generalistas del conjunto oficial."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jean-François Beltramini",
+      "goles": 15,
+      "periodo": "1973-1975",
+      "partidos": 80,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1975."
+    },
+    {
+      "nombre": "Khalid Boutaïb",
+      "goles": 15,
+      "periodo": "2021-2023",
+      "partidos": 50,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2023."
+    },
+    {
+      "nombre": "Louis Floch",
+      "goles": 12,
+      "periodo": "1972-1974",
+      "partidos": 65,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 12 goles en competiciones oficiales durante su trayectoria en el equipo entre 1972-1974."
+    },
+    {
+      "nombre": "Gaëtan Laura",
+      "goles": 11,
+      "periodo": "2020-2022",
+      "partidos": 45,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 11 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
+    },
+    {
+      "nombre": "Ousmane Kanté",
+      "goles": 10,
+      "periodo": "2018-2023",
+      "partidos": 142,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 10 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2023."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Vincent Demarconnay",
+      "partidos": 371,
+      "periodo": "2008-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 371 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2023."
+    },
+    {
+      "nombre": "Cyril Mandouki",
+      "partidos": 183,
+      "periodo": "2017-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 183 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-Act."
+    },
+    {
+      "nombre": "Ousmane Kanté",
+      "partidos": 142,
+      "periodo": "2018-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 142 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2023."
+    },
+    {
+      "nombre": "Florent Hanin",
+      "partidos": 88,
+      "periodo": "2020-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 88 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2020-2023."
+    },
+    {
+      "nombre": "Loup Diwan Gueho",
+      "partidos": 45,
+      "periodo": "2022-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 45 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2022-2024."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/paris-fc/Logo_Paris_Football_Club_-_1970s.svg"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/paris-fc/Paris_FC_(ancien_logo).svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paris-fc.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Parisiens",
+      "origen": "Acogido incesantemente de manera formal y popular para designar a su primer estamento pionero cívico reivindicando su linaje geográfico originario y la masiva sede barrial, referenciando nativamente a los pobladores y habitantes parisinos."
+    }
+  ]
+}

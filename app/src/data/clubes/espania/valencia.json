@@ -1,0 +1,340 @@
+{
+  "id": "valencia",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "valencia",
+      "murcielagos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Valencia Club de Fútbol",
+    "sigla": "VCF",
+    "fundacion": "18 de marzo de 1919",
+    "apodo": "Los Che, Blanquinegros",
+    "estadio_actual": "Mestalla",
+    "estadio_apodo": "Camp de Mestalla",
+    "estadio_capacidad": 49430,
+    "estadio_inauguracion": "20 de mayo de 1923",
+    "estadio_lat": 39.4746,
+    "estadio_lng": -0.3582,
+    "estadio_direccion": "Av. de Suècia, s/n, 46010 València, España",
+    "socios": 39000,
+    "descripcion_corta": "Entidad de la capital valenciana consolidada en copas nacionales e internacionales.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Edmundo Suárez (269)",
+      "mas_presencias": "Fernando Gómez (553)"
+    },
+    "nombre_oficial": "Valencia Club de Fútbol, S.A.D.",
+    "nombre_corto": "Valencia CF"
+  },
+  "historia": [
+    {
+      "ano": "1919",
+      "hito": "El Lanzamiento de la Moneda Che",
+      "desc": "La llanura costera del Turia observaba con intriga la fiebre por el balón. La génesis del conjunto che fue tan bohemia como magnética. La tarde del 18 de marzo de 1919, las bulliciosas mesas del céntrico Bar Torino, en plena Plaza del Ayuntamiento, sirvieron de cuna para el nacimiento ineludible del Valencia Foot-Ball Club. Ante la falta de un líder absoluto, la primera presidencia se resolvió de forma mítica e hilarante mediante el azaroso lanzamiento de una moneda al aire. El lado ganador de la moneda coronó a Octavio Augusto Milego Díaz como primer presidente, relegando a su íntimo amigo Gonzalo Medina Pernas a la vicepresidencia. Acompañados de padres fundadores de la talla de Julio Gascó, Fernando Marzal y Andrés Bonilla, los pioneros acordaron vestir la casaca blanca y enarbolar en el pecho la sagrada imagen del murciélago (lo rat penat), animal heráldico y monárquico del Reino de Valencia. Erigieron así las barreras de un club temperamental y volcánico que dominaría la cuenca mediterránea."
+    },
+    {
+      "ano": "1941",
+      "hito": "Mundo Inmortal y Copa Rey de Epoca",
+      "desc": "Una constelación che dominó feroz con Mundo destrozando arcos la Copa del Rey para erizar y deslumbrar asaltos seguidos y cimentando su leyenda para abrir decenios del estruendo español valenciano."
+    },
+    {
+      "ano": "1999-2001",
+      "hito": "A Punto del Cénit: Héctor Cúper",
+      "desc": "Aplastantes, sólidos y feroces. Ese equipo del 'Piojo' y Mendieta besó trágicamente y cruelmente dos Finales seguidas europeas ante todo resarcimiento quedando sepultados agónica e injustamente al pie final de su gloria."
+    },
+    {
+      "ano": "2004",
+      "hito": "El Imperio Rabioso Benítez Doblete",
+      "desc": "Rafa Benítez orquestó el murciélago aplastante, veloz e defensivamente destrozándolo y devorando gigantes madrileños robando así gloriosa Liga asestando paralelamente el oro brutal de inmaculada Europa en Goteborg."
+    },
+    {
+      "ano": "2019",
+      "hito": "Batacazo Monstruoso del Centenario",
+      "desc": "Tumbando por completo bajo furiosos empujes al todopoderoso y agusanado FC Barcelona de un atónito Leo Messi para alzarse legendariamente bajo cánticos sagrados otra y merecida Copa encarnando su primer gloriosísimo Centenario."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Camp de Mestalla",
+      "capacidad": "49.430",
+      "inauguracion": "1923",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Su%C3%A8cia%2C%20s%2Fn%2C%2046010%20Val%C3%A8ncia%2C%20Valencia",
+      "direccion": "Av. de Suècia, s/n, 46010 València, Valencia",
+      "descripcion": "Una olla a presión aterradora. Las gradas casi besan la banda asfixiando rivales, siendo un templo centenario sagrado."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1919,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Bautizo de sangre eterna formándose letales murciélagos vistiendo impoluta armadura lisa blanca superior majestuosa y asombrosamente temible junto al calzón cívico crudo negro azabache dictaminado."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Mario Kempes",
+      "periodo": "1976-1984",
+      "pos": "Delantero",
+      "desc": "Reconocido artillero argentino apodado 'El Matador'. Destrozó incansablemente redes y porteros en el último tramo de la década de 1970 con un remate y zancada formidables, siendo coronado como factor clave en la obtención de la Copa del Rey y la recordada Recopa continental."
+    },
+    {
+      "nombre": "Santiago Cañizares",
+      "periodo": "1998-2008",
+      "pos": "Arquero",
+      "desc": "Símbolo del arco con sus particulares cabellos y su temperamento ganador de época. Protagonizó la etapa gloriosa alzando ligas y trofeos internacionales erigiéndose en un arquero de atajadas memorables que sostuvo estruendosamente la imbatibilidad local del cuadro Ché."
+    },
+    {
+      "nombre": "David Albelda",
+      "periodo": "1997-2013",
+      "pos": "Mediocampista",
+      "desc": "Dueño indiscutido y celoso pilar defensivo en el mediocentro. Un capitán leal e implacable forzado a recuperar la esférica bajo formidables tácticas de equipo, llevando sin concesiones la batuta de una plantilla abrumadoramente ganadora de Ligas y Copas UEFA en su periodo."
+    },
+    {
+      "nombre": "Rubén Baraja",
+      "periodo": "2000-2010",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2000-2010, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Pablo Aimar",
+      "periodo": "2001-2006",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2001-2006, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Mundo",
+      "goles": 269,
+      "periodo": "1939-1950",
+      "partidos": 287,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 269 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1950."
+    },
+    {
+      "nombre": "Waldo Machado",
+      "goles": 160,
+      "periodo": "1961-1970",
+      "partidos": 296,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 160 goles en competiciones oficiales durante su trayectoria en el equipo entre 1961-1970."
+    },
+    {
+      "nombre": "Mario Kempes",
+      "goles": 149,
+      "periodo": "1976-1984",
+      "partidos": 247,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1976-1984."
+    },
+    {
+      "nombre": "Fernando Gómez",
+      "goles": 142,
+      "periodo": "1983-1998",
+      "partidos": 553,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 142 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1998."
+    },
+    {
+      "nombre": "David Villa",
+      "goles": 129,
+      "periodo": "2005-2010",
+      "partidos": 225,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2010."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fernando Gómez",
+      "partidos": 553,
+      "periodo": "1983-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 553 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1998."
+    },
+    {
+      "nombre": "Ricardo Arias",
+      "partidos": 521,
+      "periodo": "1976-1992",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 521 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1992."
+    },
+    {
+      "nombre": "David Albelda",
+      "partidos": 485,
+      "periodo": "1997-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 485 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2013."
+    },
+    {
+      "nombre": "Miguel Ángel Angulo",
+      "partidos": 434,
+      "periodo": "1997-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 434 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2009."
+    },
+    {
+      "nombre": "Santiago Cañizares",
+      "partidos": 416,
+      "periodo": "1998-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 416 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2008."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 6,
+      "anios": [
+        "1941-42",
+        "1943-44",
+        "1946-47",
+        "1970-71",
+        "2001-02",
+        "2003-04"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 8,
+      "anios": [
+        "1941",
+        "1949",
+        "1954",
+        "1967",
+        "1979",
+        "1999",
+        "2008",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 1,
+      "anios": [
+        "1999"
+      ]
+    },
+    {
+      "nombre": "Copa Eva Duarte",
+      "cantidad": 1,
+      "anios": [
+        "1949"
+      ]
+    },
+    {
+      "nombre": "Europa League",
+      "cantidad": 1,
+      "anios": [
+        "2003-04"
+      ]
+    },
+    {
+      "nombre": "Copa de Ferias",
+      "cantidad": 2,
+      "anios": [
+        "1961-62",
+        "1962-63"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1979-80"
+      ]
+    },
+    {
+      "nombre": "Supercopa de la UEFA",
+      "cantidad": 2,
+      "anios": [
+        "1980",
+        "2004"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 2,
+      "anios": [
+        "1930-31",
+        "1986-87"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/valencia/Valencia.webp"
+    },
+    {
+      "ano": "1919",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1919_logo.webp"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1920_logo.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/valencia/Vaalencia_CF_1921.webp"
+    },
+    {
+      "ano": "1924",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1924.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1930_logo.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1941_logo.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1942_logo.webp"
+    },
+    {
+      "ano": "1950s",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1950s_logo.webp"
+    },
+    {
+      "ano": "1966",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1966_logo.webp"
+    },
+    {
+      "ano": "1980s",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1980s_logo.webp"
+    },
+    {
+      "ano": "1990s",
+      "url": "/escudos_historicos/valencia/Valencia_CF_1990s_logo.webp"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/valencia/Valencia_CF-logo-2001.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/valencia.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Chés",
+      "origen": "Uso de procedencia exclusiva aplicando un profundo modismo local y costumbrista como identificación territorial inamovible de sus hinchas. La designación asimila originariamente una extendida interjección lingüística informal y muy particular generada con arraigo e instalada en todo el mapa de la comunidad y del tejido valenciano como gentilicio expresivo para asimilar a sus pares, apropiándose el club del concepto."
+    },
+    {
+      "apodo": "Los Murciélagos",
+      "origen": "Deriva en adopción pura fáctica ligada del origen de su icónico escudo cívico céntrico rememorando hazañas valencianas históricas llanas del siglo trece originadas y lideradas. El equipo tomó la enseña inminente ratificada puramente originando por honor y en base heroica medieval cuando en 1238 se instaló sorpresivamente un murciélago o \"rat penat\" en alto firme reposando sobre la cúspide incesante en una tienda guerrera forjando una premonición legendaria de victorias del rey portador Jaume I, originándose estatuto identitario incuestionable de su población."
+    }
+  ]
+}

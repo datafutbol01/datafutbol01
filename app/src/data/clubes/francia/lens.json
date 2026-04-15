@@ -1,0 +1,243 @@
+{
+  "id": "lens",
+  "meta": {
+    "slug": "lens"
+  },
+  "datos": {
+    "nombre_completo": "Racing Club de Lens",
+    "nombre_oficial": "Racing Club de Lens",
+    "nombre_corto": "RC Lens",
+    "apodo": "Les Sang et Or",
+    "fundacion": "1906",
+    "estadio_actual": "Stade Bollaert-Delelis",
+    "presidente": "Joseph Oughourlian",
+    "entrenador": "Franck Haise",
+    "estadio_capacidad": "38.223",
+    "estadio_inauguracion": "1933",
+    "estadio_direccion": "Av. Alfred Maes, 62300 Lens, Francia",
+    "estadio_lat": 50.4328,
+    "estadio_lng": 2.8148,
+    "sigla": "RCL",
+    "socios": 59000,
+    "descripcion_corta": "Representante oriundo de la región de Pas-de-Calais, posicionado geográficamente sobre instalaciones y bases laborales mineras tradicionales del siglo XX.",
+    "paleta": [
+      {
+        "tag": "Sangre",
+        "hex": "#D31200"
+      },
+      {
+        "tag": "Oro",
+        "hex": "#FADF00"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ahmed Oudjani (94 goles)",
+      "mas_presencias": "Éric Sikora (433 partidos)",
+      "mayor_goleada": "10-2 vs Racing Paris (1960)"
+    },
+    "estadio_apodo": "Bollaert",
+    "escudo_actual": "/escudos/lens.webp"
+  },
+  "historia": [
+    {
+      "ano": "1906",
+      "hito": "Del Polvo de Carbón Nace la Sangre y el Oro",
+      "desc": "El corazón de las minas y las entrañas ensangrentadas de carbón de Paso de Calais vieron gestar al Racing Club de Lens a principios de enero de 1906. Un grupo humilde de jóvenes forjadores de minas carboníferas impulsados por las rudas élites dirigidas de Maurice Radix como originario presidente formaron originariamente un cuadro rústico verdinegro. No fue hasta padecimientos posguerras que en 1924, el emblemático alcalde Pierre Moglia junto a obreros adoptaron definitivamente el estricto Sangre y Oro ('Sang et Or') e innegociables originados legendariamente inspirados en enseñas reales españolas y el oro de la resurrección de las minas obreras trágicas."
+    },
+    {
+      "ano": "1937",
+      "hito": "Adopción del Estatus Profesional",
+      "desc": "La junta local y los comités mineros de la región le otorgaron un presupuesto y el estatus profesional definitivo al club, logrando el ascenso a la Division 1 a finales de ese año."
+    },
+    {
+      "ano": "1998",
+      "hito": "La Única Conquista Histórica de Ligue 1",
+      "desc": "Liderados por el técnico Daniel Leclercq, el equipo minero obtuvo 68 puntos, igualando en la cima con el Metz pero logrando el título de campeones por diferencia de goles."
+    },
+    {
+      "ano": "2000",
+      "hito": "Llegada Histórica a las Semifinales de Copa UEFA",
+      "desc": "Superaron diversas fases continentales y eliminaron al Atlético de Madrid. En las semifinales fueron eliminados oficialmente por el Galatasaray de Turquía."
+    },
+    {
+      "ano": "2023",
+      "hito": "Subcampeonato Local con Récord",
+      "desc": "El equipo acumuló 84 unidades matemáticas en la temporada local guiados por el técnico Franck Haise, finalizando en el segundo lugar a tan solo 1 punto del PSG."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Bollaert-Delelis",
+      "capacidad": "38.223",
+      "inauguracion": "1933",
+      "desde": "1933",
+      "hasta": "",
+      "direccion": "Av. Alfred Maes, 62300 Lens, Francia",
+      "lat": 50.4328,
+      "lng": 2.8148,
+      "obs": "Coliseo histórico minero, cuya capacidad curiosamente puede albergar a más personas de las que residen en la propia ciudad de Lens.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Alfred%20Maes%2C%2062300%20Lens%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1906,
+      "hasta": 1923,
+      "c1": "#000000",
+      "c2": "#00aa00",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Primeros colores del club reflejando el carbón (negro) y el pasto de la Plaza Verde local."
+    },
+    {
+      "desde": 1924,
+      "hasta": null,
+      "c1": "#da251d",
+      "c2": "#fbd116",
+      "sh": "#000000",
+      "me": "#fbd116",
+      "tipo": "rayas-verticales",
+      "desc": "Adopción de los colores Sangre y Oro como tributo a la historia minera de la ocupación española."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Éric Sikora",
+      "periodo": "1985-2004",
+      "pos": "Defensor",
+      "desc": "Símbolo supremo de la defensa local. Jugó toda su carrera en Lens obteniendo el récord inapelable de mayor cantidad de presencias oficiales con el club."
+    },
+    {
+      "nombre": "Daniel Leclercq",
+      "periodo": "1974-1983",
+      "pos": "Mediocampista",
+      "desc": "Volante central organizador conocido como 'El gran rubio'. Condujo tácticamente al equipo como jugador y posteriormente lideró la obtención de la liga como entrenador en 1998."
+    },
+    {
+      "nombre": "Roger Boli",
+      "periodo": "1989-1996",
+      "pos": "Delantero",
+      "desc": "Rápido atacante nacido en Costa de Marfil. Conformó una potente delantera logrando galardones individuales al consagrarse máximo artillero en la temporada 1994."
+    },
+    {
+      "nombre": "Seydou Keita",
+      "periodo": "2002-2007",
+      "pos": "Mediocampista",
+      "desc": "Volante central oriundo de Malí de inmensa capacidad recuperadora. Manejó el centro del campo liderando importantes ubicaciones europeas de la institución."
+    },
+    {
+      "nombre": "Antoine Sibierski",
+      "periodo": "1996-2000",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista creativo. Capitaneó al escuadrón asegurando triunfos oficiales e históricos que le permitieron al club debutar exitosamente en competiciones europeas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ahmed Oudjani",
+      "goles": 118,
+      "periodo": "1958-1965",
+      "partidos": 175,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 118 goles en competiciones oficiales durante su trayectoria en el equipo entre 1958-1965."
+    },
+    {
+      "nombre": "Maryan Wisnieski",
+      "goles": 105,
+      "periodo": "1953-1963",
+      "partidos": 277,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1963."
+    },
+    {
+      "nombre": "Georges Lech",
+      "goles": 78,
+      "periodo": "1962-1968",
+      "partidos": 214,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 78 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1968."
+    },
+    {
+      "nombre": "Anton Drobnjak",
+      "goles": 48,
+      "periodo": "1997-1998",
+      "partidos": 68,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 1997-1998."
+    },
+    {
+      "nombre": "Tony Vairelles",
+      "goles": 44,
+      "periodo": "1995-1999",
+      "partidos": 143,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre 1995-1999."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Éric Sikora",
+      "partidos": 590,
+      "periodo": "1985-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 590 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-2004."
+    },
+    {
+      "nombre": "Guillaume Warmuz",
+      "partidos": 427,
+      "periodo": "1992-2002",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2002."
+    },
+    {
+      "nombre": "Jean-Guy Wallemme",
+      "partidos": 420,
+      "periodo": "1986-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 420 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1998."
+    },
+    {
+      "nombre": "Hervé Arsène",
+      "partidos": 360,
+      "periodo": "1989-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 360 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-1998."
+    },
+    {
+      "nombre": "Walid Mesloub",
+      "partidos": 165,
+      "periodo": "2014-2019",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 165 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2019."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 1,
+      "anios": [
+        "1998"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 1,
+      "anios": [
+        "1999"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lens/Racing_Club_de_Lens_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lens/Racing_Club_de_Lens_logo (1).webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lens/Racing_Club_de_Lens_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lens/Racing_Club_de_Lens_logo (2).webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/lens.webp"
+    }
+  ]
+}

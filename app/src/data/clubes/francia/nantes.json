@@ -1,0 +1,305 @@
+{
+  "id": "nantes",
+  "meta": {
+    "slug": "nantes"
+  },
+  "datos": {
+    "nombre_completo": "FC Nantes",
+    "nombre_oficial": "FC Nantes",
+    "nombre_corto": "Nantes",
+    "apodo": "Les Canaris",
+    "fundacion": "21 de Abril de 1943",
+    "estadio_actual": "Stade de la Beaujoire",
+    "presidente": "Waldemar Kita",
+    "entrenador": "Antoine Kombouaré",
+    "estadio_capacidad": "35.322",
+    "estadio_inauguracion": "1984",
+    "estadio_direccion": "5 Bd de la Beaujoire, 44300 Nantes, Francia",
+    "estadio_lat": 47.2556,
+    "estadio_lng": -1.5253,
+    "sigla": "FCN",
+    "socios": 29000,
+    "descripcion_corta": "Plaza fuerte del fútbol de la región del Loira y promotor estricto del juego colectivo a un toque, patentado en campo y directrices como 'Jeu à la Nantaise'.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#FFCC00"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#006400"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Bernard Blanchet (111 goles)",
+      "mas_presencias": "Jean-Paul Bertrand-Demanes (532 partidos)",
+      "mayor_goleada": "8-0 vs Valenciennes (1979)"
+    },
+    "estadio_apodo": "La Beaujoire",
+    "escudo_actual": "/escudos/nantes.webp"
+  },
+  "historia": [
+    {
+      "ano": "1943",
+      "hito": "Nacidos del Caos en Tiempos Violentos de Ocupación Opresora",
+      "desc": "Al interior profundo inmenso de los devastadores crueles letales dolorosos amargos originarios bombardeos s aliados estipulados y ocupaciones colosales nazis de formales de segunda grande pesada guerra la asediada cuna de Bretaña en un acto estricto agónico sumiso de purísima unidad civil dictaminó de forma amarga de fundadores férreos y legendarios como héroes Marcel Saupin asumiendo presidir e inyectar inmenso milagro absorbiendo y devorando seis colosales clubes rudos parroquiales y originando dictaminar crear el Football Club de Nantes el 21 del frío inmenso abril portando orígenes estipulados divisa amarilla espléndida y rudo verde colorado."
+    },
+    {
+      "ano": "1965",
+      "hito": "Primer Campeonato Puro Original del Ciclo Formador",
+      "desc": "Las directrices del formal de la asunción de banquillo José Arribas organizó juego consolidado asumiendo estipendia del registro táctico logrando la asimilación del torneo y sumatoria general fáctica posicional terminando líderes."
+    },
+    {
+      "ano": "1995",
+      "hito": "Cimentando Récord y Campeón con Treintaidós Juegos Invictos",
+      "desc": "Enmarcado en esquemas formativos por el entrenador principal Jean-Claude Suaudeau forjando marca general purísima de invictos en la tabla estadística alcanzando sumar numéricamente partidos 32 de corrido no caídos a finanzas, cerrando corona liga formal validada del torneo general."
+    },
+    {
+      "ano": "2001",
+      "hito": "Dictamen Matemático de Campeonato Cerrando el Octavo Trofeo Liga",
+      "desc": "Mediante esquemas del entrenador en posesión Reynald Denoueix formales estipulados de base sumaron puntos matemáticos y ganaron coronados posiciones de primera logrando estipendiada formativa fáctica legal del cierre validado y campeón su cuenta total del país local histórico llegando al octavo número."
+    },
+    {
+      "ano": "2022",
+      "hito": "Copa Formativa Validada Final Consagrando",
+      "desc": "Tras la tabla generada en eliminatorias vencieron formal documentada al Niza mediante resolución de penaltis del uno asumiendo el final formal y copa estipulada de manera que el equipo FC Nantes asimilaba campeonato de llaves oficial en el año 2022 registrado."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Marcel-Saupin",
+      "capacidad": "20.000",
+      "inauguracion": "1937",
+      "desde": "1937",
+      "hasta": "1984",
+      "direccion": "Quai Malakoff, 44000 Nantes, Francia",
+      "lat": 47.2144,
+      "lng": -1.5369,
+      "obs": "Terreno a orillas del río Loira. Sede fundacional durante los primeros lauros de los 'Canarios'.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Quai%20Malakoff%2C%2044000%20Nantes%2C%20Francia"
+    },
+    {
+      "nombre": "Stade de la Beaujoire",
+      "capacidad": "35.322",
+      "inauguracion": "1984",
+      "desde": "1984",
+      "hasta": "",
+      "direccion": "5 Bd de la Beaujoire, 44300 Nantes, Francia",
+      "lat": 47.2556,
+      "lng": -1.5253,
+      "obs": "Construido velozmente para acoger certámenes internacionales del campeonato Euro de 1984.",
+      "url": "https://www.google.com/maps/search/?api=1&query=5%20Bd%20de%20la%20Beaujoire%2C%2044300%20Nantes%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1943,
+      "hasta": null,
+      "c1": "#ffee00",
+      "c2": "#008800",
+      "sh": "#ffee00",
+      "me": "#ffee00",
+      "tipo": "liso",
+      "desc": "Conformación del clásico amarillo vistoso completado por detalles en verde, que les originó y fundamentó el apodo oficial de Los Canarios."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Henri Michel",
+      "periodo": "1966-1982",
+      "pos": "Mediocampista",
+      "desc": "Legendario mediocampista central y capitán histórico del club. Jugó durante dieciséis certámenes consecutivos logrando el máximo récord oficial de encuentros disputados con el plantel amarillo."
+    },
+    {
+      "nombre": "Mickaël Landreau",
+      "periodo": "1996-2006",
+      "pos": "Arquero",
+      "desc": "Sólido portero surgido íntegramente de la cantera canaria. Inició su etapa como juvenil asumiendo velozmente la titularidad y capitaneando posteriormente a formaciones triunfadoras en torneos."
+    },
+    {
+      "nombre": "Japhet N'Doram",
+      "periodo": "1990-1997",
+      "pos": "Delantero",
+      "desc": "Atacante internacional conocido popularmente como 'El hechicero de La Beaujoire'. Finalizó sus prolíficas ligas consolidándose como uno de los extranjeros con mayores aportes de goles en la entidad."
+    },
+    {
+      "nombre": "Vahid Halilhodžić",
+      "periodo": "1981-1986",
+      "pos": "Delantero",
+      "desc": "Potente atacante puro nacido en Europa del Este. Cosechó estadísticas contundentes tras militar asiduamente y lograr coronarse como el máximo anotador de la división central francesa repetidas veces."
+    },
+    {
+      "nombre": "Jean-Paul Bertrand-Demanes",
+      "periodo": "1969-1987",
+      "pos": "Arquero",
+      "desc": "Eximio arquero recordado a nivel nacional. Compartió toda su prolífica carrera profesional salvaguardando históricamente la portería local para conseguir varios y valiosos trofeos institucionales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gilles Rampillon",
+      "goles": 116,
+      "periodo": "1970-1982",
+      "partidos": 400,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 116 goles en competiciones oficiales durante su trayectoria en el equipo entre 1970-1982."
+    },
+    {
+      "nombre": "Bernard Blanchet",
+      "goles": 111,
+      "periodo": "1962-1974",
+      "partidos": 412,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1974."
+    },
+    {
+      "nombre": "Vahid Halilhodžić",
+      "goles": 111,
+      "periodo": "1981-1986",
+      "partidos": 192,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1981-1986."
+    },
+    {
+      "nombre": "Philippe Gondet",
+      "goles": 98,
+      "periodo": "1963-1971",
+      "partidos": 205,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 98 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1971."
+    },
+    {
+      "nombre": "Japhet N'Doram",
+      "goles": 91,
+      "periodo": "1990-1997",
+      "partidos": 225,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 91 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-1997."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Henri Michel",
+      "partidos": 662,
+      "periodo": "1966-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 662 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1982."
+    },
+    {
+      "nombre": "Jean-Paul Bertrand-Demanes",
+      "partidos": 650,
+      "periodo": "1969-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 650 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1987."
+    },
+    {
+      "nombre": "Loïc Amisse",
+      "partidos": 602,
+      "periodo": "1973-1990",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 602 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1990."
+    },
+    {
+      "nombre": "Maxime Bossis",
+      "partidos": 502,
+      "periodo": "1973-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 502 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1985."
+    },
+    {
+      "nombre": "Mickaël Landreau",
+      "partidos": 425,
+      "periodo": "1996-2006",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 425 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2006."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 8,
+      "anios": [
+        "1965",
+        "1966",
+        "1973",
+        "1977",
+        "1980",
+        "1983",
+        "1995",
+        "2001"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 4,
+      "anios": [
+        "1979",
+        "1999",
+        "2000",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 1,
+      "anios": [
+        "1965"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 3,
+      "anios": [
+        "1965",
+        "1999",
+        "2001"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_29.webp"
+    },
+    {
+      "ano": "1961",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_1961.webp"
+    },
+    {
+      "ano": "1968",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_1968.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_1973.webp"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_1977.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/nantes/FC_Nantes_Atlantique_logo_1988.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/nantes/FC_Nantes_Atlantique_logo_1997.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/nantes/FC_Nantes_Atlantique_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo.webp"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo_2013.webp"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos_historicos/nantes/FC_Nantes_logo 2014.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/nantes.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Canaris",
+      "origen": "Bautizados por la afición tras encender un poderoso patrón cromático costero. Adoptaron un llamativo manto amarillo vivo con destellos verdes listados cruzados, imitando fielmente a los sonoros y vistosos pájaros cantores ribereños."
+    }
+  ]
+}

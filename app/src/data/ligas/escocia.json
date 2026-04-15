@@ -1,0 +1,57 @@
+{
+  "id": "escocia",
+  "nombre_oficial": "Scottish Premiership",
+  "nombre_completo": "Scottish Football System",
+  "pais": "Escocia",
+  "confederacion": "UEFA",
+  "fundacion": "1890",
+  "organizador": "Scottish Professional Football League (SPFL)",
+  "sitio_web": "https://spfl.co.uk/",
+  "descripcion_corta": "La máxima jerarquía del histórico y legendario sistema de ligas de Escocia.",
+  "historia": [
+    {
+      "periodo": "1890-Presente",
+      "descripcion": "El fútbol profesional escocés, inaugurado de manera oficial en la extinta época victoriana, se constituye históricamente como el segundo formato liguero ininterrumpido más antiguo a nivel global, dictaminado implacablemente a lo largo de su existencia bajo la hegemónica rivalidad del legendario duelo de la ciudad de Glasgow."
+    }
+  ],
+  "formatos_historicos": [
+    {
+      "epoca": "Actualidad",
+      "formato": "12 equipos en formato corto regular. Finalizando las 33 jornadas, el campeonato se divide asimétricamente en dos hexagonales paralelos en donde disputan los trofeos y ascensos a divisiones continentales."
+    }
+  ],
+  "clubes": [
+    "aberdeen",
+    "celtic",
+    "dundee",
+    "dundee-united",
+    "hearts",
+    "hibernian",
+    "kilmarnock",
+    "motherwell",
+    "rangers",
+    "falkirk",
+    "livingston",
+    "st-mirren"
+  ],
+  "clasicos": [
+    {
+      "nombre": "Old Firm",
+      "equipo1": "Celtic",
+      "equipo2": "Rangers",
+      "descripcion": "La encarnizada rivalidad más feroz, prolongada y contundente en el planeta. Escindida a fuego por diferencias socioculturales, políticas y religiosas insalvables."
+    },
+    {
+      "nombre": "Derby de Edimburgo",
+      "equipo1": "Hearts",
+      "equipo2": "Hibernian",
+      "descripcion": "El cruce inmemorial y sagrado de las esferas de clase media alta contra las bases proletarias afincadas históricamente en la inmensa urbe y capital nacional escocesa."
+    },
+    {
+      "nombre": "New Firm",
+      "equipo1": "Aberdeen",
+      "equipo2": "Dundee United",
+      "descripcion": "Nacida empíricamente en la revolucionaria década del ochenta como el bastión deportivo provincial que demolió temporariamente el poderío unipolar del imperio capitalino de Glasgow."
+    }
+  ]
+}

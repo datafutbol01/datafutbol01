@@ -1,0 +1,36 @@
+{
+  "id": "argentinos-jrs",
+  "datos": {
+    "nombre_oficial": "Asociación Atlética Argentinos Juniors",
+    "nombre_corto": "Argentinos Juniors",
+    "apodos": [
+      "El Bicho",
+      "Los Bichos Colorados",
+      "El Semillero del Mundo"
+    ],
+    "fundacion": "1904-08-25",
+    "ciudad": "Buenos Aires",
+    "barrio": "La Paternal",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Diego Armando Maradona",
+    "estadio_capacidad": 26000,
+    "estadio_lat": -34.5972,
+    "estadio_lng": -58.5001,
+    "debut_primera": 1935
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "bastones_verticales"
+    },
+    "short": "#CC0000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 4,
+  "meta": {
+    "datos_completos": false
+  }
+}

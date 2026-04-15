@@ -1,0 +1,1110 @@
+{
+    "id": "independiente",
+    "datos": {
+        "nombre_oficial": "Club Atlético Independiente",
+        "nombre_corto": "Independiente",
+        "apodos": [
+            "El Rey de Copas",
+            "El Rojo",
+            "Los Diablos Rojos"
+        ],
+        "fundacion": "1905-01-01",
+        "ciudad": "Avellaneda",
+        "barrio": "Avellaneda",
+        "pais": "Argentina",
+        "estadio_actual": "Estadio Libertadores de América-Ricardo Enrique Bochini",
+        "estadio_apodo": "La Doble Visera de Cemento",
+        "estadio_capacidad": 49612,
+        "estadio_inauguracion": "1928-01-01",
+        "estadio_lat": -34.6617,
+        "estadio_lng": -58.3669,
+        "estadio_direccion": "Av. Mitre 470, Avellaneda",
+        "debut_primera": 1912
+    },
+    "historia": [
+        "El 1° de enero de 1905, trabajadores de una tienda de ropa inglesa llamada 'A La Ciudad de Londres' fundaron el club en Avellaneda. Paradójicamente, el club surgido de empleados obreros se convirtió en la institución argentina con más títulos internacionales en la historia. Los colores rojo y blanco se adoptaron en 1907. En 1928 inauguró el primer estadio de cemento de Sudamérica.",
+        "Nunca descendió de Primera División — junto con Boca Juniors, son los únicos dos clubes argentinos que pueden decirlo. En la era profesional logró sus primeros dos títulos en 1938 y 1939 gracias a la delantera de Arsenio Erico (48 goles en un torneo — récord histórico vigente), De la Mata y Sastre. El equipo de 1938-39 es considerado por historiadores como uno de los mejores del fútbol mundial.",
+        "La era de las Libertadores (1964-1984) es la más gloriosa: 7 Copas Libertadores, incluyendo 4 consecutivas (1972-1973-1974-1975) — único equipo del mundo en lograrlo. También ganó 2 Copas Intercontinentales (1973, 1984) y 3 Copas Interamericanas. La figura máxima de toda esa era fue Ricardo Bochini, el ídolo absoluto del club, con 706 partidos — récord de partidos para un mismo equipo en Argentina.",
+        "La era de los 70s con Pastoriza como DT y la de los 80s con Osvaldo Zubeldía produjeron equipos irrepetibles. En 1984, contra toda lógica, venció al Liverpool de Europa en la Copa Intercontinental. Sergio Agüero debutó con 15 años en 2003 — el jugador más joven en debutar en Primera División argentina, destronando a Maradona.",
+        "En el siglo XXI el club atravesó una crisis institucional profunda y múltiples amagues de descenso, el más serio en 2024 cuando estuvo en zona de playoffs toda la temporada. Sin embargo se mantuvo en Primera — su historial sin descensos es uno de los más notables del fútbol mundial."
+    ],
+    "canchas": [
+        {
+            "nombre": "Canchas provisorias en Avellaneda",
+            "desde": 1905,
+            "hasta": 1928,
+            "obs": "Múltiples terrenos alquilados en el área de Avellaneda durante los primeros 23 años"
+        },
+        {
+            "nombre": "Estadio Libertadores de América-Ricardo Enrique Bochini",
+            "desde": 1928,
+            "hasta": null,
+            "ciudad": "Avellaneda",
+            "obs": "Inaugurado en 1928 como el primer estadio de cemento de Sudamérica. Renombrado 'Ricardo Enrique Bochini' en 2021 en honor al máximo ídolo. A menos de 300 metros del estadio de Racing Club. La tribuna principal lleva el nombre de Arsenio Erico",
+            "lat": -34.6617,
+            "lng": -58.3669
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1905,
+            "hasta": 1907,
+            "desc": "Camiseta blanca con franja azul diagonal",
+            "c1": "#FFFFFF",
+            "c2": "#0000FF",
+            "dis": "banda_diagonal_roja",
+            "sh": "#FFFFFF",
+            "me": "#FFFFFF"
+        },
+        {
+            "desde": 1908,
+            "hasta": null,
+            "desc": "Rojo total — adoptado definitivamente en 1908 como color institucional",
+            "c1": "#CC0000",
+            "c2": null,
+            "sh": "#FFFFFF",
+            "me": "#CC0000",
+            "ac1": "#FFFFFF",
+            "ash": "#CC0000",
+            "ame": "#FFFFFF"
+        }
+    ],
+    "temporadas": [
+        {
+            "anio": 1912,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Debut en Primera División"
+        },
+        {
+            "anio": 1922,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 1er título de la historia"
+        },
+        {
+            "anio": 1926,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 2° título amateur"
+        },
+        {
+            "anio": 1931,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón del 1er torneo profesional"
+        },
+        {
+            "anio": 1932,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (River Plate campeón en desempate). Debut de Erico"
+        },
+        {
+            "anio": 1933,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1934,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1935,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1937,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente finalista). Erico 47 goles — récord máximo goleador de un torneo largo en Argentina"
+        },
+        {
+            "anio": 1938,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. 1er título profesional. Erico 43 goles. Cuádruple corona: liga + Copa Ibarguren + Copa Aldao + Copa Escobar"
+        },
+        {
+            "anio": 1939,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN bicampeón. Erico 41 goles. Delantera histórica: De la Mata, Erico, Sastre"
+        },
+        {
+            "anio": 1940,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1941,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "River Plate campeón"
+        },
+        {
+            "anio": 1942,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1943,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1944,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1945,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1946,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Último torneo de Erico. Retiro con 295 goles en 325 partidos"
+        },
+        {
+            "anio": 1947,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1948,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Goleada histórica 6-0 al Real Madrid de Di Stéfano en gira europea (1953)"
+        },
+        {
+            "anio": 1949,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Racing Club campeón del tricampeonato)"
+        },
+        {
+            "anio": 1950,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1951,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1952,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1953,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Delantera histórica: Micheli, Cecconato, Lacasia, Grillo y Cruz"
+        },
+        {
+            "anio": 1954,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1955,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1956,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1957,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1958,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1959,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1960,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Copa Libertadores 1964 — CAMPEÓN (1er argentino en ganarla)"
+        },
+        {
+            "anio": 1961,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1962,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1963,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Copa Libertadores 1964 y 1965 — CAMPEÓN. 1er bicampeón de la Libertadores"
+        },
+        {
+            "anio": 1964,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1965,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors bicampeón)"
+        },
+        {
+            "anio": 1966,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Racing Club campeón"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Nacional. Copa Libertadores 1972 — CAMPEÓN (4 consecutivas)"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Metropolitano. DT Pastoriza"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Metropolitano bicampeón"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Copa Libertadores 1972 — CAMPEÓN"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Copa Libertadores 1973 — CAMPEÓN. Copa Intercontinental 1973 — CAMPEÓN vs Juventus"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Copa Libertadores 1974 — CAMPEÓN (3er consecutivo)"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Copa Libertadores 1975 — CAMPEÓN (4° consecutivo) — único en la historia mundial"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Nacional"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Nacional bicampeón del Nacional"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Metropolitano. El día del descenso de Racing, Independiente ganó el título. Copa Libertadores 1984 — CAMPEÓN"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Copa Libertadores 1984 — CAMPEÓN (7°). Copa Intercontinental 1984 — CAMPEÓN vs Liverpool"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1986,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1987,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1988,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1989,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN 1988/89. DT Zubeldía. Último título antes de la era Clausura/Apertura"
+        },
+        {
+            "anio": 1990,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura 1994. Supercopa Sudamericana 1994 y 1995 — CAMPEÓN"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura 2002. Copa Sudamericana 2010 — CAMPEÓN"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "obs": "Debut de Sergio Agüero: 5/7/2003, con 15 años y 35 días — el más joven en debutar en Primera argentina"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "obs": "Copa Sudamericana 2010 — CAMPEÓN vs Goiás"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Torneo Inicial",
+            "div": "1ª"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Final",
+            "div": "1ª"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Inicial",
+            "div": "1ª"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Final",
+            "div": "1ª"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Transición",
+            "div": "1ª",
+            "obs": "Racing Club campeón"
+        },
+        {
+            "anio": 2015,
+            "torneo": "Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 2016,
+            "torneo": "Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 2017,
+            "torneo": "Superliga Argentina",
+            "div": "1ª",
+            "obs": "Copa Sudamericana 2017 — CAMPEÓN vs Flamengo"
+        },
+        {
+            "anio": 2018,
+            "torneo": "Superliga Argentina",
+            "div": "1ª"
+        },
+        {
+            "anio": 2019,
+            "torneo": "Superliga Argentina",
+            "div": "1ª"
+        },
+        {
+            "anio": 2020,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2021,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "obs": "El estadio es renombrado 'Libertadores de América-Ricardo Enrique Bochini'"
+        },
+        {
+            "anio": 2022,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2023,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2024,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "obs": "Temporada muy difícil — estuvo en zona de playoffs de descenso toda la temporada. Se salvó."
+        },
+        {
+            "anio": 2025,
+            "torneo": "Liga Profesional — Apertura/Clausura",
+            "div": "1ª"
+        }
+    ],
+    "titulos": [
+        {
+            "comp": "Campeonato de Primera División (Amateur)",
+            "n": 2,
+            "anios": [
+                1922,
+                1926
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera División (Profesional)",
+            "n": 14,
+            "anios": [
+                1938,
+                1939,
+                1948,
+                1960,
+                1963,
+                1967,
+                1970,
+                1971,
+                1977,
+                1978,
+                1983,
+                1989,
+                1994,
+                2002
+            ]
+        },
+        {
+            "comp": "Copa Argentina",
+            "n": 1,
+            "anios": [
+                2002
+            ]
+        },
+        {
+            "comp": "Copa Libertadores",
+            "n": 7,
+            "anios": [
+                1964,
+                1965,
+                1972,
+                1973,
+                1974,
+                1975,
+                1984
+            ],
+            "obs": "Récord mundial: 4 consecutivas (1972-1975)"
+        },
+        {
+            "comp": "Copa Intercontinental",
+            "n": 2,
+            "anios": [
+                1973,
+                1984
+            ]
+        },
+        {
+            "comp": "Copa Sudamericana",
+            "n": 2,
+            "anios": [
+                2010,
+                2017
+            ]
+        },
+        {
+            "comp": "Supercopa Sudamericana",
+            "n": 2,
+            "anios": [
+                1994,
+                1995
+            ]
+        },
+        {
+            "comp": "Recopa Sudamericana",
+            "n": 1,
+            "anios": [
+                1995
+            ]
+        },
+        {
+            "comp": "Copa Interamericana",
+            "n": 3,
+            "anios": [
+                1973,
+                1974,
+                1976
+            ]
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "pos": 1,
+            "nombre": "Arsenio Erico",
+            "apodo": "El Paraguayo de Oro",
+            "goles": 295,
+            "partidos": 325,
+            "periodo": "1934–1946",
+            "posicion": "Delantero",
+            "obs": "Máximo goleador de la historia del fútbol argentino. 47 goles en 1937 — récord de un torneo largo. 3 veces goleador consecutivo del campeonato (1937, 1938, 1939). Di Stéfano lo consideró el mejor que vio"
+        },
+        {
+            "pos": 2,
+            "nombre": "Vicente De la Mata",
+            "apodo": "Capote",
+            "goles": 161,
+            "partidos": 374,
+            "periodo": "1933–1948",
+            "posicion": "Delantero",
+            "obs": "El golazo vs River en el Monumental le dio su apodo. Tres títulos con Erico en la delantera histórica"
+        },
+        {
+            "pos": 3,
+            "nombre": "Antonio Sastre",
+            "goles": null,
+            "partidos": null,
+            "periodo": "1931–1942",
+            "posicion": "Delantero",
+            "obs": "Tercera punta de la delantera histórica junto a Erico y De la Mata. Los tres marcaron 556 goles juntos"
+        },
+        {
+            "pos": 4,
+            "nombre": "Ricardo Bochini",
+            "apodo": "El Bocha / El Indio",
+            "goles": 72,
+            "partidos": 706,
+            "periodo": "1972–1991",
+            "posicion": "Mediocampista",
+            "obs": "No es goleador en cantidad pero sí en importancia. 706 partidos — récord absoluto para un mismo club en Argentina. 13 títulos. El estadio lleva su nombre"
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "pos": 1,
+            "nombre": "Ricardo Bochini",
+            "apodo": "El Bocha",
+            "partidos": 706,
+            "posicion": "Mediocampista",
+            "periodo": "1972–1991",
+            "obs": "Récord de partidos para un mismo club en Argentina. 13 títulos — el máximo ganador del club. El estadio lleva su nombre desde 2021"
+        },
+        {
+            "pos": 2,
+            "nombre": "Ricardo Pavoni",
+            "apodo": "El Gato",
+            "partidos": 500,
+            "posicion": "Mediocampista / Volante",
+            "periodo": "1960–1978",
+            "obs": "~500 partidos. Uno de los grandes mediocampistas de las Libertadores históricas"
+        },
+        {
+            "pos": 3,
+            "nombre": "Vicente De la Mata",
+            "apodo": "Capote",
+            "partidos": 374,
+            "posicion": "Delantero",
+            "periodo": "1933–1948",
+            "obs": "2° goleador histórico con 161 tantos y 374 presencias"
+        },
+        {
+            "pos": 4,
+            "nombre": "Miguel Ángel Santoro",
+            "apodo": "El Burru",
+            "partidos": null,
+            "posicion": "Arquero",
+            "periodo": "1962–1975",
+            "obs": "Arquero de las Libertadores 1964, 1965, 1972, 1973. Gol del título en la final 1964 ante Nacional"
+        },
+        {
+            "pos": 5,
+            "nombre": "Rubén Navarro",
+            "apodo": "El Chivo",
+            "partidos": null,
+            "posicion": "Lateral izquierdo",
+            "periodo": "1965–1977",
+            "obs": "Lateral uruguayo, ídolo de la era dorada. 12 títulos. Ídolo de Maradona en su infancia"
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Ricardo Bochini",
+            "apodo": "El Bocha / El Indio",
+            "pos": "Mediocampista",
+            "periodo": "1972–1991",
+            "desc": "El ídolo máximo y absoluto. 706 partidos — récord de Argentina para un mismo club. 13 títulos. El estadio lleva su nombre. Maradona lo hizo entrar en la final del Mundial 1986 para que sea campeón con él"
+        },
+        {
+            "nombre": "Arsenio Erico",
+            "apodo": "El Paraguayo de Oro",
+            "pos": "Delantero",
+            "periodo": "1934–1946",
+            "desc": "Máximo goleador de la historia del fútbol argentino con 295 tantos. 47 goles en un torneo — récord histórico. Di Stéfano lo consideró el mejor que vio"
+        },
+        {
+            "nombre": "Vicente De la Mata",
+            "apodo": "Capote",
+            "pos": "Delantero",
+            "periodo": "1933–1948",
+            "desc": "2° goleador histórico. El golazo vs River en el Monumental gambeteando a medio equipo le dio para siempre su apodo"
+        },
+        {
+            "nombre": "José Omar Pastoriza",
+            "apodo": "El Toro",
+            "pos": "Mediocampista / DT",
+            "periodo": "1958–1969 / DT 1970–1975",
+            "desc": "Como DT condujo las 4 Libertadores consecutivas (1972-1975). Jugador multicampeón también. Símbolo del club en todas sus eras"
+        },
+        {
+            "nombre": "Rubén Navarro",
+            "apodo": "El Chivo",
+            "pos": "Lateral izquierdo",
+            "periodo": "1965–1977",
+            "desc": "12 títulos. Ídolo de Maradona en su niñez. Parte de las 4 Libertadores consecutivas. Mejor lateral izquierdo de su generación"
+        },
+        {
+            "nombre": "Ricardo Pavoni",
+            "apodo": "El Gato",
+            "pos": "Mediocampista",
+            "periodo": "1960–1978",
+            "desc": "~500 partidos. 2° en la tabla histórica de presencias. Figura de las Libertadores 1964, 1965 y del ciclo de los 70s"
+        },
+        {
+            "nombre": "Miguel Ángel Santoro",
+            "apodo": "El Burru",
+            "pos": "Arquero",
+            "periodo": "1962–1975",
+            "desc": "72 goles. Arquero de las primeras 4 Libertadores. Gol del título en la final 1964 ante Nacional"
+        },
+        {
+            "nombre": "Daniel Bertoni",
+            "apodo": "Lechuga",
+            "pos": "Extremo / Delantero",
+            "periodo": "1972–1978",
+            "desc": "Figura de las Libertadores 1972-1975 y campeón del Mundo 1978 con Argentina"
+        },
+        {
+            "nombre": "Sergio Agüero",
+            "apodo": "El Kun",
+            "pos": "Delantero",
+            "periodo": "2003–2006",
+            "desc": "El jugador más joven en debutar en Primera argentina (15 años). Surgido en inferiores. Ídolo a pesar del paso breve. Luego figura mundial en Manchester City"
+        }
+    ],
+    "meta": {
+        "version": "1.0",
+        "datos_completos": true,
+        "ultima_actualizacion": "2026-03-24",
+        "pendientes": [
+            "Posiciones exactas 1931-2002 (varios torneos)",
+            "Historial de rivales completo",
+            "Estadísticas detalladas por temporada"
+        ]
+    }
+}

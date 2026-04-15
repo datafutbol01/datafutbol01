@@ -1,0 +1,261 @@
+{
+  "id": "union",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "interior",
+      "litoral",
+      "santa fe",
+      "tatengue"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Unión",
+    "sigla": "CAU",
+    "fundacion": "15 de abril de 1907",
+    "apodo": "El Tatengue, El Tate, El Rojiblanco de la Avenida",
+    "estadio_actual": "15 de Abril",
+    "estadio_apodo": "El Estadio de la Avenida",
+    "estadio_capacidad": 28000,
+    "estadio_inauguracion": "1929-04-28",
+    "estadio_lat": -31.6288,
+    "estadio_lng": -60.7153,
+    "estadio_direccion": "Avenida López y Planes 3513, Santa Fe, Provincia de Santa Fe",
+    "socios": 35000,
+    "descripcion_corta": "Histórica institución deportiva de la ciudad capital de Santa Fe, afincada en la tradicional Avenida López y Planes. Reconocido por su activa inserción en las competencias nacionales y por haber formado en sus divisiones inferiores a futbolistas campeones del mundo como Nery Pumpido y Leopoldo Luque.",
+    "paleta": [
+      {
+        "tag": "Rojo Fuego Sangre",
+        "hex": "#E2001A"
+      },
+      {
+        "tag": "Blanco Puro",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-1 a Estudiantes de La Plata (1975)",
+      "maximo_goleador": "Francisco Valiente (129 goles)",
+      "mas_presencias": "Pablo de las Mercedes Cárdenas (362 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1907",
+      "hito": "Constitución de Union en la calle Catamarca",
+      "desc": "El 15 de abril de 1907, catorce socios que habían decidido separarse asambleariamente del pionero Santa Fe Foot-ball Club se agruparon de manera fundacional en el domicilio de la familia Barisio, ubicado sobre la calle capitalina de Catamarca. La primera presidencia recayó sobre Guillermo Drenner, sellando el nacimiento del 'Club United', el cual luego sería castellanizado formalmente a Club Atlético Unión."
+    },
+    {
+      "ano": "1966",
+      "hito": "Nombramiento como equipo de Primera División",
+      "desc": "El año 1966 marcó la llegada definitiva de Unión al mapa liguero principal, cuando el club se alzó con la primera posición en el campeonato de la Segunda División 'B' organizado por la AFA. Este título certificó de manera oficial el ascenso del equipo, otorgando a la ciudad de Santa Fe nuevamente representación directa en la Primera División del país."
+    },
+    {
+      "ano": "1979",
+      "hito": "Subcampeón del Torneo Nacional",
+      "desc": "Bajo el estricto orden de pizarra y disciplina brindado por su entrenador Reynaldo Volken, Unión coronó la mayor escala de su historial en primera categoría. El plantel tatengue sorteó de manera exitosa todas las llaves eliminatorias del Nacional 1979 y debió conformarse con el título de Subcampeón ante River Plate por la extinta reglamentación del gol de valor de visitante, tras dos empates de rendimiento igualado."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Plaza Santa Coloma",
+      "direccion": "Frente al actual Hospital Cullen, Santa Fe",
+      "desde": 1907,
+      "hasta": 1908,
+      "estado": "Histórico / Uso previo",
+      "obs": "Primer campo de deportes formal inicial del naciente club durante el primer tramo del profesionalismo previo federado.",
+      "lat": -31.638,
+      "lng": -60.71,
+      "url": "https://www.google.com/maps/search/?api=1&query=Frente%20al%20actual%20Hospital%20Cullen%2C%20Santa%20Fe"
+    },
+    {
+      "nombre": "Terreno de Urquiza y Suipacha",
+      "direccion": "Urquiza y Suipacha (actual Colegio Calvario), Santa Fe",
+      "desde": 1908,
+      "hasta": 1910,
+      "estado": "Historico / Institucional Céntrico",
+      "obs": "Predio cerrado que se organizó geográficamente durante tempranas disputas interzonales locales de la ciudad.",
+      "lat": -31.642,
+      "lng": -60.715,
+      "url": "https://www.google.com/maps/search/?api=1&query=Urquiza%20y%20Suipacha%20(actual%20Colegio%20Calvario)%2C%20Santa%20Fe"
+    },
+    {
+      "nombre": "Estadio en Boulevard Pellegrini y San Jerónimo",
+      "direccion": "Bv. Pellegrini y San Jerónimo (actual Rectorado UNL)",
+      "desde": 1910,
+      "hasta": 1929,
+      "estado": "Institucional / Cesado",
+      "obs": "Espacio arrendado permanente que hospedó consistentemente las campañas consolidadas de las agrupaciones del club durante las temporadas completas en ligas vecinas antepasadas compitiendo bajo normativa AAF.",
+      "lat": -31.636,
+      "lng": -60.705,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bv.%20Pellegrini%20y%20San%20Jer%C3%B3nimo%20(actual%20Rectorado%20UNL)"
+    },
+    {
+      "nombre": "Estadio 15 de Abril",
+      "direccion": "Avenida Vicente López y Planes 3513, Santa Fe",
+      "desde": 1929,
+      "hasta": null,
+      "estado": "Sede Principal Oficial",
+      "obs": "Asentamiento fáctico final ininterrumpido conformado integralmente el 28 de abril de 1929, adoptando reglamentariamente el diseño paramétrico exigible del sistema futbolístico nacional central. Su denominación rinde un sincero y explícito homenaje conmemorativo hacia el aniversario preciso referente al día fundacional del club.",
+      "lat": -31.6288,
+      "lng": -60.7153,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Vicente%20L%C3%B3pez%20y%20Planes%203513%2C%20Santa%20Fe"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1907,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "El legendario ropaje santafesino purista originado asombrosamente con rayas crudas rojiblancas inquebrantables formalmente desde la fusión de nobles y puristas asociaciones fundacionales pioneras dictaminando la unión eterna en la mítica zona tatengue purista del país forjador."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Pumpido / Nery Pumpido",
+      "pos": "Arquero / Director Técnico",
+      "apodo": "El Loco",
+      "periodo": "1976-1981, 1999-2001 (DT)",
+      "desc": "Arquero formado en las filas del club. Destacó en el arco rojiblanco durante sus primeros años profesionales antes de emigrar, lograr el campeonato mundial con Argentina y posteriormente retornar como entrenador."
+    },
+    {
+      "nombre": "Leonardo Madelón",
+      "pos": "Director Técnico / Mediocampista",
+      "apodo": "Leo",
+      "periodo": "1989-1990 (Jug), Múltiples ciclos (DT)",
+      "desc": "Figura dual de alta importancia. Destacó como mediocampista en la final del torneo de 1989 y, años después, como entrenador, logrando históricos ascensos y clasificaciones a torneos internacionales."
+    },
+    {
+      "nombre": "Facundo Sava",
+      "pos": "Delantero / Director Técnico",
+      "apodo": "El Colorado",
+      "periodo": "2012-2014, 2023",
+      "desc": "Delantero central reconocido por su capacidad en el juego aéreo. Mantuvo un destacado registro anotador durante su paso por la institución a inicios de los años 2000, liderando la ofensiva del equipo."
+    },
+    {
+      "nombre": "Fernando Alí",
+      "pos": "Delantero",
+      "apodo": "El Turco",
+      "periodo": "1978-1988",
+      "desc": "Histórico artillero central que posee el récord de máximo goleador del club en el profesionalismo con 85 tantos, formando parte de los planteles protagonistas de las décadas del 70 y 80."
+    },
+    {
+      "nombre": "Vicente Luque / Leopoldo Luque",
+      "pos": "Delantero",
+      "apodo": "El Pulpo",
+      "periodo": "1973-1975",
+      "desc": "Legendario atacante santafesino que aportó una destacada cuota goleadora en el club, forjando su proyección internacional antes de consagrarse campéoón en el Mundial de 1978 con la Selección Argentina."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Francisco Valiente",
+      "goles": 129,
+      "partidos": 195,
+      "periodo": "Años 1920s-1930s (Amateur)",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 1920s-1930s (Amateur)."
+    },
+    {
+      "nombre": "Fernando 'El Turco' Alí",
+      "goles": 89,
+      "partidos": 347,
+      "periodo": "1978-1988",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1988."
+    },
+    {
+      "nombre": "Orlando Ruiz",
+      "goles": 74,
+      "partidos": 154,
+      "periodo": "Años 50 y 60",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 74 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 50 y 60."
+    },
+    {
+      "nombre": "Carlos Alberto Vidal",
+      "goles": 61,
+      "partidos": 169,
+      "periodo": "1975-1981",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1981."
+    },
+    {
+      "nombre": "Julio Ávila",
+      "goles": 45,
+      "partidos": 105,
+      "periodo": "Años 40 y 50",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 40 y 50."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Pablo de las Mercedes Cárdenas",
+      "partidos": 362,
+      "periodo": "1979-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1988."
+    },
+    {
+      "nombre": "Fernando 'El Turco' Alí",
+      "partidos": 347,
+      "periodo": "1978-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 347 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1988."
+    },
+    {
+      "nombre": "Mario Enrique Alberto",
+      "partidos": 327,
+      "periodo": "Década 80s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre Década 80s."
+    },
+    {
+      "nombre": "Eduardo Sánchez",
+      "partidos": 336,
+      "periodo": "1977-1987, 1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 336 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1987, 1989."
+    },
+    {
+      "nombre": "Nereo Fernández",
+      "partidos": 240,
+      "periodo": "2001-Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 240 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-Varios."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ascensos de Categoría Históricos",
+      "cantidad": 7,
+      "años": [
+        "1966",
+        "1968",
+        "1989",
+        "1996",
+        "2011",
+        "2014"
+      ]
+    },
+    {
+      "nombre": "Ligas Santafesinas Regionales",
+      "cantidad": 38,
+      "años": [
+        "Historial Local Desde 1907"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1907",
+      "url": "/escudos/historicos/union/Uni-n_de_Santa_Fe_1907.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/union.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Tatengue",
+      "origen": "Expresión naciente y utilizada de modo exclusivo clasificador durante inicios de siglo en su originario asentamiento santafesino. Trabajadores empleaban asiduamente esta frase refiriéndose estrictamente como crítica hacia el perfil social pudiente demostrando la acaudalada y rica alcurnia principal fundadora del equipo situada siempre desde el próspero centro vecinal."
+    }
+  ]
+}

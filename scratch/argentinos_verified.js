@@ -1,0 +1,31 @@
+const argentinosData = {
+  // [wins_argentinos, losses_argentinos, draws]
+  "Club Atlético Gimnasia y Esgrima": [1, 1, 0],
+  "Asociación Atlética Estudiantes": [1, 0, 2],
+  "Club Atlético Tigre": [28, 25, 21],
+  "Club Atlético Aldosivi": [7, 7, 1],
+  "Club Sportivo Independiente Rivadavia": [3, 2, 1],
+  "Club Atlético Sarmiento": [23, 14, 17],
+  "Club Atlético Unión": [31, 34, 29],
+  "Club Atlético Rosario Central": [31, 42, 37],
+  "Club Atlético Platense": [23, 31, 34],
+  "Club Atlético Newell's Old Boys": [34, 52, 44],
+  "Club Social y Deportivo Defensa y Justicia": [7, 9, 7],
+  "Club Atlético Central Córdoba (SdE)": [5, 2, 2],
+  "Club Atlético Belgrano": [17, 18, 14],
+  "Club Atlético Banfield": [31, 33, 30],
+  "Club Atlético Tucumán": [7, 6, 6],
+  "Club Atlético Vélez Sarsfield": [37, 65, 46],
+  "Club Atlético Huracán": [36, 50, 40],
+  "Club Estudiantes de La Plata": [45, 51, 39],
+  "Club Atlético San Lorenzo de Almagro": [33, 63, 42],
+  "Club Atlético Independiente": [39, 56, 50],
+  "Racing Club": [31, 63, 46],
+  "Club Atlético River Plate": [29, 74, 40],
+  "Boca Juniors": [35, 72, 45],
+  "Club de Gimnasia y Esgrima La Plata": [43, 51, 45],
+  "Club Atlético Lanús": [25, 42, 30],
+  "Instituto Atlético Central Córdoba": [10, 11, 11],
+  "Club Atlético Talleres": [22, 21, 12]
+};
+module.exports = argentinosData;

@@ -1,0 +1,377 @@
+{
+  "id": "leeds-united",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "championship",
+      "yorkshire",
+      "whites",
+      "peacocks"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Leeds United Football Club",
+    "sigla": "ENG",
+    "fundacion": "1919-10-17",
+    "apodo": "The Whites, The Peacocks",
+    "estadio_actual": "Elland Road",
+    "estadio_apodo": "",
+    "estadio_capacidad": 37600,
+    "estadio_inauguracion": "1897-01-01",
+    "estadio_lat": 53.7778,
+    "estadio_lng": -1.5722,
+    "estadio_direccion": "Elland Rd, Beeston, Leeds LS11 0ES, Reino Unido",
+    "socios": 35000,
+    "descripcion_corta": "Club salvaje surgido literalmente de la tumba pública del escandaloso Leeds City en 1919. A la sombra del implacable genio Don Revie vistieron ropajes enteramente inmaculados blancos armando la más legendaria y ruda bestia futbolística británica, conocida odiosamente por todo el país como el asombroso club más sucio, asolador y temido, ganando un respeto europeo gigante a base de juego áspero, tenaz y furiosamente hermoso.",
+    "paleta": [
+      {
+        "tag": "Principal",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Secundario",
+        "hex": "#FBE122"
+      },
+      {
+        "tag": "Terciario",
+        "hex": "#1D428A"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "10-0 a Lyn Oslo (1969)",
+      "maximo_goleador": "Peter Lorimer (238 goles)",
+      "mas_presencias": "Jack Charlton (773 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1919",
+      "hito": "La creación oficial del club en reemplazo de Leeds City FC",
+      "desc": "Posterior a un resonado escándalo que involucró resoluciones contundentes castigatorias tras comprobar pagos financieros y compensatorios ilícitos ocultos otorgados paralelamente contrariando la vigencia nacional al fútbol efectuado durante el período conflictivo directo correspondientes temporalmente de la Primera Guerra Mundial y decretar administrativamente desafiliación para el Leeds City FC. Oficializan a Leeds United durante octubre final de 1919 para ingresar reocupar plazas con estricto reglamento legal."
+    },
+    {
+      "ano": "1968-1974",
+      "hito": "Sucesión unificada victoriosa obteniendo laureles liderados formal a Don Revie",
+      "desc": "Transformados categóricamente a base dura ríspida compacta competitividad máxima conformada sobre escuadras extremadamente combativas ásperas y sólidas impusieron y consolidaron su estricta y rústica etapa más reconocida históricamente al cargo táctico impuesto formal Don Revie. Obtienen legal el respectivo título doméstico 1968-69 unificando simultáneo certámenes directos como Copa Liga Fairs europea para luego establecer un incuestionable riguroso y evaluado máximo campeonato final de imbatibles veintinueve duelos sobre liga 1973-74."
+    },
+    {
+      "ano": "1992",
+      "hito": "Último campeón nacional de First Division formal previa al formato actual Premier League",
+      "desc": "Acoplándose y forjando rígidamente dinámicas asfixiantes veloces de un estructurado rigor sostenidas mediocampo liderados directos integradamente lideradas por figuras como Gordon Strachan e incursionando decisivamente la táctica técnica y goleadora de recién incorporado atacante Eric Cantona formados y diagramados al pulso absoluto técnico propuesto por Howard Wilkinson lograron obtener legal e incontrovertible el último certero máximo Campeonato Oficial a nivel jerárquico Primera División transcurrido previamente a la reconversión nacional avalada comercial y corporativamente conocida del Premier League."
+    },
+    {
+      "ano": "2001",
+      "hito": "Irrupción y arribo competitivo hasta semifinales del tornero Champions League",
+      "desc": "Construyendo de base formativa un agresivo joven dinámico esquema técnico forjado directivo al mando del entrenador propuesto e interino David O'Leary afianzado la irrupción lograda formativa destacada que abatió llaves europeas incesantes eliminando directamente potencias consagradas ibéricas y de calibres continentales. Ingresan al núcleo reservado disputando durísimas rondas llegando a etapa eliminatoria semifinal oficial y formal Liga Campeones culminando allí finalmente marginados por contingencias del ajustado resultado desfavorable."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "The Old Peacock Ground",
+      "desde": 1897,
+      "hasta": 1919,
+      "ciudad": "Leeds",
+      "barrio": "Beeston",
+      "obs": "Terreno vinculado en sus inicios operativamente a la actividad de rugby disputada en la zona pre-Leeds City, reconocido logísticamente de manera popular por el tradicional pub local The Old Peacock apostado en la avenida circundante.",
+      "direccion": "Elland Rd, Beeston, Leeds LS11",
+      "lat": 53.7777,
+      "lng": -1.5721,
+      "url": "https://www.google.com/maps/search/?api=1&query=Elland%20Rd%2C%20Beeston%2C%20Leeds%20LS11"
+    },
+    {
+      "nombre": "Elland Road",
+      "desde": 1919,
+      "hasta": null,
+      "ciudad": "Leeds",
+      "barrio": "Beeston",
+      "obs": "Sede activa permanente cobijando sin excepciones las localías históricas dictaminadas a lo largo del tiempo por la entidad y registrando los recuentos generales masivos de la región con aforos ampliables contemporáneamente hasta sus casi 38.000 butacas.",
+      "direccion": "Elland Rd, Beeston, Leeds LS11 0ES, Reino Unido",
+      "lat": 53.7778,
+      "lng": -1.5722,
+      "url": "https://www.google.com/maps/search/?api=1&query=Elland%20Rd%2C%20Beeston%2C%20Leeds%20LS11%200ES%2C%20Reino%20Unido"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1919,
+      "hasta": 1961,
+      "c1": "#000080",
+      "c2": "#ffcc00",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "mitades",
+      "desc": "Mitades bipartitas arlequinadas oscuras entre marino profundo rígido y ocre crudo, reverenciando rigurosos a la cívica y burocrática estructura armstrongiana heráldica del escudo formal consistorial."
+    },
+    {
+      "desde": 1961,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Cambio abrupto maquiavélico poético purista. La dirigencia inyecta y fuerza fáctica vestiduras monocolores albas enteras lisas emulando formales a castas reinantes monarcas galácticas supremas españolas madrileñas de la época universal dorada."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Billy Bremner",
+      "pos": "Mediocampista",
+      "apodo": "",
+      "periodo": "1959-1976",
+      "desc": "Capitán histórico en el mediocampo durante el ciclo del entrenador Don Revie. Bajo su liderazgo, el equipo obtuvo dos campeonatos de la Primera División inglesa."
+    },
+    {
+      "nombre": "Peter Lorimer",
+      "pos": "Mediocampista / Extremo",
+      "apodo": "HotShot",
+      "periodo": "1962-1979, 1983-1985",
+      "desc": "Extremo escocés originado en las divisiones inferiores. Con su remate de larga distancia se convirtió en el máximo goleador de toda la historia del club."
+    },
+    {
+      "nombre": "Jack Charlton",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1953-1973",
+      "desc": "Defensor central que lidera el registro de mayor cantidad absoluta de presencias oficiales con el club de Yorkshire, jugando ininterrumpidamente durante la exitosa década del 60 y 70."
+    },
+    {
+      "nombre": "Norman Hunter",
+      "pos": "Defensor",
+      "apodo": "Bites Yer Legs",
+      "periodo": "1962-1976",
+      "desc": "Defensor central del equipo. Conformó la zaga titular durante la época dorada de los años 70, resultando indispensable para la obtención de múltiples ligas y copas nacionales."
+    },
+    {
+      "nombre": "John Charles",
+      "pos": "Centrodelantero / Defensor",
+      "apodo": "Il Gigante Buono",
+      "periodo": "1949-1957, 1962",
+      "desc": "Delantero y defensor galés. Su registro de anotaciones en el inicio de la década de 1950 impulsó su histórico traspaso récord al fútbol italiano."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Peter Lorimer",
+      "goles": 238,
+      "partidos": 705,
+      "periodo": "1962-1979, 1983-1985",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 238 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1979, 1983-1985."
+    },
+    {
+      "nombre": "John Charles",
+      "goles": 157,
+      "partidos": 327,
+      "periodo": "1949-1957, 1962",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 157 goles en competiciones oficiales durante su trayectoria en el equipo entre 1949-1957, 1962."
+    },
+    {
+      "nombre": "Allan Clarke",
+      "goles": 151,
+      "partidos": 351,
+      "periodo": "1969-1978",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 151 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1978."
+    },
+    {
+      "nombre": "Tom Jennings",
+      "goles": 117,
+      "partidos": 174,
+      "periodo": "1925-1931",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 117 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1931."
+    },
+    {
+      "nombre": "Billy Bremner",
+      "goles": 115,
+      "partidos": 773,
+      "periodo": "1959-1976",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 115 goles en competiciones oficiales durante su trayectoria en el equipo entre 1959-1976."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jack Charlton",
+      "partidos": 773,
+      "periodo": "1953-1973",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 773 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1953-1973."
+    },
+    {
+      "nombre": "Billy Bremner",
+      "partidos": 773,
+      "periodo": "1959-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 773 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1976."
+    },
+    {
+      "nombre": "Paul Reaney",
+      "partidos": 745,
+      "periodo": "1962-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 745 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1978."
+    },
+    {
+      "nombre": "Norman Hunter",
+      "partidos": 726,
+      "periodo": "1962-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 726 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1976."
+    },
+    {
+      "nombre": "Peter Lorimer",
+      "partidos": 705,
+      "periodo": "1962-1979, 1983-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 705 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1979, 1983-1985."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division (Inglaterra)",
+      "cantidad": 3,
+      "años": [
+        "1968-69",
+        "1973-74",
+        "1991-92"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 1,
+      "años": [
+        "1971-72"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 1,
+      "años": [
+        "1967-68"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 2,
+      "años": [
+        "1969",
+        "1992"
+      ]
+    },
+    {
+      "nombre": "Copa de Ferias",
+      "cantidad": 2,
+      "años": [
+        "1967-68",
+        "1970-71"
+      ]
+    },
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 4,
+      "años": [
+        "1923-24",
+        "1963-64",
+        "1989-90",
+        "2019-20"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 1,
+      "años": [
+        "2009-10"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1908_web.png"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_logoas_29.webp"
+    },
+    {
+      "ano": "1964",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_logos_29.webp"
+    },
+    {
+      "ano": "1964",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1964_web.png"
+    },
+    {
+      "ano": "1971",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1971_web.png"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_logosa_29.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1973_web.png"
+    },
+    {
+      "ano": "1976",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1976_web.png"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1977_web.png"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_loago_29.webp"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1980_web.png"
+    },
+    {
+      "ano": "1984",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_laogo_29.webp"
+    },
+    {
+      "ano": "1984",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1984_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1997_web.png"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_logo_29.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1998_web.png"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/leeds-united/leeds-united_1999_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/leeds-united/leeds-united_2002_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/leeds-united/leeds-united_2012_web.png"
+    },
+    {
+      "ano": "2019",
+      "url": "/escudos_historicos/leeds-united/leeds-united_2019_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/leeds-united/Leeds_United_AFC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Whites",
+      "origen": "Homologado gracias a potentes mandatos directivos que arribaron con el técnico visionario general del período de 1960. Durante la extensa era del imponente entrenador Don Revie, forzó radicalmente a eliminar diversas indumentarias listadas combinadas e implantó un masivo régimen de vestuario absolutamente blanco emulando al mismísimo ibérico Real Madrid como símbolo intocable de prestigio continental."
+    },
+    {
+      "apodo": "The Peacocks",
+      "origen": "Remitiendo a un anclaje folclórico directo masivo vinculado a las lejanas vecindades originarias del legendario estadio antiguo de origen local. Adoptaron libremente el nombre barrial proveniente de un clásico histórico local inglés apostado a escasos metros del campo de juego conocido popularmente como la vieja cervecería The Old Peacock (El Viejo Pavo Real), bautizándose bajo costumbre vecinal de época."
+    }
+  ]
+}

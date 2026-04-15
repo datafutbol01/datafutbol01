@@ -1,0 +1,245 @@
+{
+  "id": "rennes",
+  "meta": {
+    "slug": "rennes"
+  },
+  "datos": {
+    "nombre_completo": "Stade Rennais FC",
+    "nombre_oficial": "Stade Rennais FC",
+    "nombre_corto": "Rennes",
+    "apodo": "Les Rouge et Noir",
+    "fundacion": "10 de Marzo de 1901",
+    "estadio_actual": "Roazhon Park (Stade de la Route de Lorient)",
+    "presidente": "Olivier Cloarec",
+    "entrenador": "Julien Stéphan",
+    "estadio_capacidad": "29.778",
+    "estadio_inauguracion": "1912",
+    "estadio_direccion": "111 Rue de Lorient, 35000 Rennes, Francia",
+    "estadio_lat": 48.1075,
+    "estadio_lng": -1.7128,
+    "sigla": "SRFC",
+    "socios": 32000,
+    "descripcion_corta": "Equipo posicionado en Bretaña gestionado formalmente bajo inversiones mayoritarias operativas del consorcio financiero Artémis con enfoque local formador.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Jean Grumellon (154 goles)",
+      "mas_presencias": "Romain Danzé (376 partidos)",
+      "mayor_goleada": "11-0 vs CA Paris (1950)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/rennes.webp"
+  },
+  "historia": [
+    {
+      "ano": "1901",
+      "hito": "Asimilación Estudiantil y Orgullo de Pura Raza Bretona Forjando Elt Stade",
+      "desc": "Orquestado férreamente por formaciones e ideales inmensurables estipuladas en las frías aulas letales formales originarias purísimas de estudiantes galos férreos el 10 de rudo marzo de origen histórico de época 1901 el gigantesco y Stade Rennais surgió heroicamente y asombrosamente forzado por Duchesne y unos cuantos alumnos nobles devorando e instalando escudo innegnable de férreos formidables armiños blancos estipulados rústicos innegociables soberanos s representantes de bandera y escudo rojinegro absoluto estricto e invicto y originario del coliseo bretón inmenso gigante letal estipulado originario purista estipulado."
+    },
+    {
+      "ano": "1965",
+      "hito": "El Primer Campeonato de Copa de Francia",
+      "desc": "Tras registrar un empate de 2-2 en la serie inicial, el equipo ganó el partido de repetición por 3-1 ante el Sedan Ardennes, logrando su primer trofeo de Copa de Francia."
+    },
+    {
+      "ano": "1998",
+      "hito": "Inversión Corporativa de Grupo Artemis",
+      "desc": "La municipalidad traspasó el control administrativo y financiero al holding empresarial Artemis, dirigido por François Pinault, otorgándole capital y una infraestructura sólida."
+    },
+    {
+      "ano": "2019",
+      "hito": "Tercera Copa de Francia Frente al PSG",
+      "desc": "El conjunto rojinegro empató a dos tantos contra el Paris Saint-Germain y resolvió el partido desde el punto de penal venciendo por 6-5, obteniendo su primera Copa en casi cincuenta años."
+    },
+    {
+      "ano": "2020",
+      "hito": "Mejor Clasificación Institucional (Podio)",
+      "desc": "Con el dictamen gubernamental del corte del torneo por pandemia en la fecha 28, el club garantizó legalmente el tercer lugar, clasificando por primera vez a la UEFA Champions League."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Roazhon Park (Stade de la Route de Lorient)",
+      "capacidad": "29.778",
+      "inauguracion": "1912",
+      "desde": "1912",
+      "hasta": "",
+      "direccion": "111 Rue de Lorient, 35000 Rennes, Francia",
+      "lat": 48.1075,
+      "lng": -1.7128,
+      "obs": "El bastión bretón adoptó a mediados del s. XXI un neologismo para nombrarse mediante su dialecto lingüístico original de Bretaña.",
+      "url": "https://www.google.com/maps/search/?api=1&query=111%20Rue%20de%20Lorient%2C%2035000%20Rennes%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1901,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#e30613",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Característica camisola roja rematada permanentemente por shorts negros. El escudo es símbolo roji-negro original de la zona."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Romain Danzé",
+      "periodo": "2006-2019",
+      "pos": "Defensor",
+      "desc": "Defensor lateral derecho forjado íntegramente de manera local en el club. Militó toda su carrera profesional en la institución ostentando el récord de presencias de todas las décadas modernas."
+    },
+    {
+      "nombre": "Jean Grumellon",
+      "periodo": "1947-1952",
+      "pos": "Delantero",
+      "desc": "Histórico y letal centroatacante de mediados de siglo. Estableció las primeras grandes marcas goleadoras oficiales del club coronándose como máximo anotador en la máxima división del torneo francés titular."
+    },
+    {
+      "nombre": "Yves Boutet",
+      "periodo": "1955-1970",
+      "pos": "Defensor",
+      "desc": "Experimentado líder y capitán de la zona baja. Mantiene firme el absoluto récord estadístico como el jugador con mayor cantidad de actuaciones en toda la larga historia de la entidad oficial."
+    },
+    {
+      "nombre": "Jimmy Briand",
+      "periodo": "2003-2010",
+      "pos": "Delantero",
+      "desc": "Veloz atacante forjado desde la cantera bretona. Desplegó enorme capacidad logrando destacar en el frente aportando asiduos gritos oficiales y lograda titularidad indudable a principios del gran siglo formador local."
+    },
+    {
+      "nombre": "Eduardo Camavinga",
+      "periodo": "2019-2021",
+      "pos": "Mediocampista",
+      "desc": "Dinámico mediocentro surgido tempranamente en la academia del plantel juvenil bretón. Aportó inmensa calidad destacándose como originario precoz asegurando transferencia histórica a competencias magnas supremas fijos."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jean Grumellon",
+      "goles": 107,
+      "periodo": "1947-1952",
+      "partidos": 150,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 107 goles en competiciones oficiales durante su trayectoria en el equipo entre 1947-1952."
+    },
+    {
+      "nombre": "Alexander Frei",
+      "goles": 52,
+      "periodo": "2003-2006",
+      "partidos": 117,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2006."
+    },
+    {
+      "nombre": "Benjamin Bourigeaud",
+      "goles": 52,
+      "periodo": "2017-2024",
+      "partidos": 311,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2024."
+    },
+    {
+      "nombre": "Martin Terrier",
+      "goles": 50,
+      "periodo": "2020-2024",
+      "partidos": 120,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2024."
+    },
+    {
+      "nombre": "Jimmy Briand",
+      "goles": 43,
+      "periodo": "2003-2010",
+      "partidos": 211,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 43 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2010."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Yves Boutet",
+      "partidos": 394,
+      "periodo": "1955-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1955-1970."
+    },
+    {
+      "nombre": "Romain Danzé",
+      "partidos": 376,
+      "periodo": "2006-2019",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 376 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2019."
+    },
+    {
+      "nombre": "René Cédolin",
+      "partidos": 360,
+      "periodo": "1948-1959",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 360 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1948-1959."
+    },
+    {
+      "nombre": "Pierrick Hiard",
+      "partidos": 323,
+      "periodo": "1978-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 323 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1989."
+    },
+    {
+      "nombre": "Benjamin Bourigeaud",
+      "partidos": 311,
+      "periodo": "2017-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 311 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2024."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 3,
+      "anios": [
+        "1965",
+        "1971",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 1,
+      "anios": [
+        "1971"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1900",
+      "url": "/escudos_historicos/rennes/SRFC_logo1900.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rennes/Stade_Rennais_29.svg.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rennes/Stade-Rennais27s.webp"
+    },
+    {
+      "ano": "1994-1997",
+      "url": "/escudos_historicos/rennes/Stade_Rennais_1994-1997.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rennes/Stade-Rennais%402.-old-logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/rennes.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Rouge et Noir",
+      "origen": "Apuntado deportivamente al oficializar incesantemente los dictámenes textiles originarios inquebrantables. Designaron de raíz rígidamente portar camisetas eternas dividiendo el cuerpo céntrico con una intensa y férrea mitad entera roja y la otra profundamente negra."
+    }
+  ]
+}

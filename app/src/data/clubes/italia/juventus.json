@@ -1,0 +1,383 @@
+{
+  "id": "juventus",
+  "meta": {
+    "slug": "juventus"
+  },
+  "datos": {
+    "nombre_completo": "Juventus Football Club S.p.A.",
+    "sigla": "JUV",
+    "fundacion": "1897",
+    "apodo": "La Vieja Señora, Los Blanquinegros, Las Cebras",
+    "estadio_actual": "Allianz Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 41507,
+    "estadio_inauguracion": "8 de septiembre de 2011",
+    "estadio_lat": 45.1096,
+    "estadio_lng": 7.6412,
+    "estadio_direccion": "Corso Gaetano Scirea 50, 10151 Torino, Piamonte",
+    "socios": 40000,
+    "descripcion_corta": "Entidad basada en Piamonte con sede en Turín, conocida normativamente como la organizacion futbolística más condecorada a nivel liga en Italia.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Alessandro Del Piero (290 goles)",
+      "mas_presencias": "Alessandro Del Piero (705 partidos)",
+      "mayor_goleada": "11-0 vs Cento (1926)"
+    },
+    "nombre_oficial": "Juventus Football Club",
+    "nombre_corto": "Juventus",
+    "escudo_actual": "/escudos_historicos/juventus/Juventus_FC_logo_w29.webp"
+  },
+  "historia": [
+    {
+      "ano": "1897",
+      "hito": "Jóvenes, Turin y el Banco del Umberto",
+      "desc": "La semilla del club más laureado a nivel nacional de Italia germinó sorpresivamente desde las simples interacciones adolescentes a finales del siglo XIX frente al escenario de la bella D'Azeglio. El primero de noviembre de 1897, sentados casualmente en el ya legendario e histórico banco de madera que adornaba el antiguo paseo arbolado del Corso Re Umberto de Turín, un grupo formal de catorce eruditos estudiantes y cadetes liderados por los inmortales hermanos Eugenio y Enrico Canfari decidieron organizarse estatutariamente fundando el Sport Club Juventus. Adoptaron inicialmente vistosas e inexactas camisetas informales de tonos rosa salmón abrochadas con pajarita, hasta el arribo años después de las famosas rayas blanquinegras provistas formalmente e importadas textualmente del equipo inglés Notts County, para afianzar el poder central."
+    },
+    {
+      "ano": "1930",
+      "hito": "Récord Nacional de Títulos en Piamonte",
+      "desc": "Sostenido mediante vinculaciones tempranas con la gestión industrial de la familia Fiat (Agnelli), el club comenzó la secuencia de registros al estipular estadísticamente el primer 'Quinquennio d'Oro'. Revalidaron la liga local cinco años seguidos y proveyeron la mayor cantidad de integrantes a las plantillas campeonas de la Selección Italiana prebélica."
+    },
+    {
+      "ano": "1985",
+      "hito": "Primera Consagración Europea y Tragedia Operativa",
+      "desc": "Organizado liderado por el internacional Michel Platini y dirigido por Trapattoni, la Juventus derrotó 1-0 al Liverpool gracias al gol de su mediocampista. El trofeo, la Liga de Campeones, fue obtenido en el estadio belga Heysel marcado por el fallecimiento masivo de hinchas italianos frente al hundimiento de la estructura y acciones extra-deportivas."
+    },
+    {
+      "ano": "2006",
+      "hito": "Procesos Disciplinarios Extradeportivos y Retorno a Serie A",
+      "desc": "Un análisis realizado a las relaciones directivas del calcio (Calciopoli) decretó la retroactividad de campeonatos asignados y estableció forzosamente la relegación disciplinaria a la Serie B por un año. Reforzados en los líderes Gianluigi Buffon o Alessandro Del Piero que se mantuvieron dentro de los registros, completaron la primera categoría a la temporada siguiente."
+    },
+    {
+      "ano": "2012",
+      "hito": "Aprobación Sistemática Constante (9 Scudettos Logrados)",
+      "desc": "Bajo la asistencia directiva primero de Antonio Conte y seguidamente de Massimiliano Allegri, el conjunto inició un modelo rotundo de eficacia posicional nacional. Confirmó, estructurando varias formaciones con cambios en la zaga o sistema ofensivo, el mayor periodo de victorias sucesivas finalizando en nueve entorchados de Serie A oficiales en cadena."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Allianz Stadium",
+      "capacidad": "41.507",
+      "inauguracion": "8 de septiembre de 2011",
+      "url": "https://www.google.com/maps/search/?api=1&query=Corso%20Gaetano%20Scirea%2050%2C%2010151%20Torino%2C%20Piamonte",
+      "direccion": "Corso Gaetano Scirea 50, 10151 Torino, Piamonte",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1897,
+      "hasta": 1903,
+      "c1": "#f5bcc8",
+      "c2": "#f5bcc8",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "En los albores originadores juveniles de Turín asimilaron y utilizaron a la moda normada del siglo casacas deportivas lisas y planas de color blando o rosa rosado pálido rematizadas por corbata negada base de la asamblea y escudo."
+    },
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Recibiendo encomiendas y de provisiones sustitutivas formales textiles procedentes proveniente de Nottingham desde el Reino Unido, incorporaron permanentemente de modo regular a perpetuidad las muy conocidas clásicas distintivas rayas y formaciones rayadas blancas contra y negras fúnebres de líneas verticales definitivas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Alessandro Del Piero",
+      "periodo": "1993-2012",
+      "pos": "Delantero",
+      "desc": "Símbolo mayúsculo y jugador con mayor número de partidos y goles en toda la historia de la 'Vecchia Signora'. Desplegó una elegancia técnica suprema durante casi dos décadas, conduciendo la ofensiva en la obtención de múltiples Scudettos y la histórica Liga de Campeones en 1996."
+    },
+    {
+      "nombre": "Michel Platini",
+      "periodo": "1982-1987",
+      "pos": "Mediocampista",
+      "desc": "El gran estratega francés de la década de 1980. Mediocampista ofensivo dotado de un remate magistral y visión de juego perfecta que enlazó tres Balones de Oro consecutivos mientras dictaminaba los triunfos reinantes en la Serie A y en la primera Copa de Europa del club."
+    },
+    {
+      "nombre": "Gianluigi Buffon",
+      "periodo": "2001-2021",
+      "pos": "Arquero",
+      "desc": "Guardameta legendario y capitán inquebrantable reconocido como uno de los mejores porteros de la historia del fútbol. Protegió ininterrumpidamente el arco turinés sosteniendo la jerarquía del equipo tanto en la cumbre europea como durante la difícil transición y consolidación de regreso a Primera."
+    },
+    {
+      "nombre": "Gaetano Scirea",
+      "periodo": "1974-1988",
+      "pos": "Defensor",
+      "desc": "Referente máximo de la solidez defensiva y exponente magistral del puesto de líbero. Se consagró campeón de absolutamente todos los trofeos continentales e intercontinentales posibles respaldado por su legendario y ejemplar juego limpio indiscutido."
+    },
+    {
+      "nombre": "Zinedine Zidane",
+      "periodo": "1996-2001",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1996-2001, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Alessandro Del Piero",
+      "goles": 290,
+      "periodo": "1993-2012",
+      "partidos": 705,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 290 goles en competiciones oficiales durante su trayectoria en el equipo entre 1993-2012."
+    },
+    {
+      "nombre": "Giampiero Boniperti",
+      "goles": 179,
+      "periodo": "1946-1961",
+      "partidos": 459,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 179 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1961."
+    },
+    {
+      "nombre": "Roberto Bettega",
+      "goles": 178,
+      "periodo": "1970-1983",
+      "partidos": 482,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 178 goles en competiciones oficiales durante su trayectoria en el equipo entre 1970-1983."
+    },
+    {
+      "nombre": "David Trezeguet",
+      "goles": 171,
+      "periodo": "2000-2010",
+      "partidos": 320,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 171 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000-2010."
+    },
+    {
+      "nombre": "Omar Sívori",
+      "goles": 167,
+      "periodo": "1957-1965",
+      "partidos": 253,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 167 goles en competiciones oficiales durante su trayectoria en el equipo entre 1957-1965."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alessandro Del Piero",
+      "partidos": 705,
+      "periodo": "1993-2012",
+      "goles": 290,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 705 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2012."
+    },
+    {
+      "nombre": "Gianluigi Buffon",
+      "partidos": 685,
+      "periodo": "2001-2021",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 685 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2021."
+    },
+    {
+      "nombre": "Giorgio Chiellini",
+      "partidos": 561,
+      "periodo": "2005-2022",
+      "goles": 36,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 561 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2022."
+    },
+    {
+      "nombre": "Gaetano Scirea",
+      "partidos": 552,
+      "periodo": "1974-1988",
+      "goles": 32,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 552 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1988."
+    },
+    {
+      "nombre": "Giuseppe Furino",
+      "partidos": 528,
+      "periodo": "1969-1984",
+      "goles": 8,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 528 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1984."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 36,
+      "anios": [
+        "1905",
+        "1925-26",
+        "1930-31",
+        "1931-32",
+        "1932-33",
+        "1933-34",
+        "1934-35",
+        "1949-50",
+        "1951-52",
+        "1957-58",
+        "1959-60",
+        "1960-61",
+        "1966-67",
+        "1971-72",
+        "1972-73",
+        "1974-75",
+        "1976-77",
+        "1977-78",
+        "1980-81",
+        "1981-82",
+        "1983-84",
+        "1985-86",
+        "1994-95",
+        "1996-97",
+        "1997-98",
+        "2001-02",
+        "2002-03",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 15,
+      "anios": [
+        "1937-38",
+        "1941-42",
+        "1958-59",
+        "1959-60",
+        "1964-65",
+        "1978-79",
+        "1982-83",
+        "1989-90",
+        "1994-95",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2020-21",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Supercoppa Italiana",
+      "cantidad": 9,
+      "anios": [
+        "1995",
+        "1997",
+        "2002",
+        "2003",
+        "2012",
+        "2013",
+        "2015",
+        "2018",
+        "2020"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 2,
+      "anios": [
+        "1984-85",
+        "1995-96"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 3,
+      "anios": [
+        "1976-77",
+        "1989-90",
+        "1992-93"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1983-84"
+      ]
+    },
+    {
+      "nombre": "Mundial de Clubes / Intercontinental",
+      "cantidad": 2,
+      "anios": [
+        "1985",
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Europa",
+      "cantidad": 2,
+      "anios": [
+        "1984",
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 1,
+      "anios": [
+        "2006-07"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1905",
+      "url": "/escudos_historicos/juventus/Juventus_FC_1905.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/juventus/Juventus_FC_2020.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/juventus/Juventus_old_badge.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/juventus/Juventus_FC_1921.webp"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/juventus/Juventus_FC_1929.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/juventus/Juventus_FC_logo_29.webp"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/juventus/Juventus_FC_1977.webp"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/juventus/Juventus_FC_1982.webp"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos_historicos/juventus/Juventus_2017.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/juventus/Juventus_FC_logo_w29.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Vecchia Signora",
+      "origen": "Acuñado en virtud de un paradójico contraste etimológico social a lo largo de las décadas tempranas de 1930. Dado que la palabra Juventus deriva directamente del latín para designar el concepto de Juventud, la afición contraria recurrió al humor popular para llamarla irónicamente Señora Magna o Vieja, ya que el club sostenía y retenía a una plantilla de experimentados jugadores mayores y maduros durante aquel glorioso lustro deportivo."
+    },
+    {
+      "apodo": "I Bianconeri",
+      "origen": "Otorgado de forma literal como apodo cromático oficial tras una radical decisión textil transcurrida importando de Gran Bretaña. Al destiñirse sus originarias remeras rosadas de fundación, la comisión solicitó repuestos a un contacto inglés quien remitió cajas asimilando el vestuario de rayas blancas y negras idénticas al Notts County en 1903, convirtiéndose este accidente en la asimilación visual perpetua del pueblo turinés."
+    }
+  ]
+}

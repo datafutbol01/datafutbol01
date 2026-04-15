@@ -1,0 +1,34 @@
+{
+  "id": "atletico-tucuman",
+  "datos": {
+    "nombre_oficial": "Club Atlético Tucumán",
+    "nombre_corto": "Atlético Tucumán",
+    "apodos": [
+      "El Decano",
+      "El Decano del Norte"
+    ],
+    "fundacion": "1902-10-04",
+    "ciudad": "San Miguel de Tucumán",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Monumental José Fierro",
+    "estadio_capacidad": 30000,
+    "estadio_lat": -26.8286,
+    "estadio_lng": -65.2226,
+    "debut_primera": 2012
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "unicolor_azul"
+    },
+    "short": "#FFFFFF",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

@@ -1,0 +1,33 @@
+const barracasData = {
+  // [wins, losses, draws] for Barracas Central
+  "Club Atlético Gimnasia y Esgrima": [0, 0, 2],
+  "Asociación Atlética Estudiantes": [0, 0, 2],
+  "Club Sportivo Independiente Rivadavia": [3, 4, 3],
+  "Instituto Atlético Central Córdoba": [2, 3, 5],
+  "Club Deportivo Riestra Asociación de Fomento Barrio Sud": [21, 17, 15],
+  "Club Social y Deportivo Defensa y Justicia": [2, 4, 2],
+  "Club Estudiantes de La Plata": [1, 8, 2],
+  "Club Atlético Independiente": [5, 9, 7],
+  "Racing Club": [2, 12, 3],
+  "Club Atlético River Plate": [4, 15, 4],
+  "Boca Juniors": [0, 9, 2],
+  "Club Atlético San Lorenzo de Almagro": [1, 12, 4],
+  "Club de Gimnasia y Esgrima La Plata": [2, 5, 1],
+  "Club Atlético Huracán": [3, 5, 2],
+  "Club Atlético Vélez Sarsfield": [0, 3, 3],
+  "Club Atlético Lanús": [1, 5, 3],
+  "Asociación Atlética Argentinos Juniors": [2, 2, 4],
+  "Club Atlético Tucumán": [1, 3, 1],
+  "Club Atlético Banfield": [9, 17, 10],
+  "Club Atlético Belgrano": [2, 2, 3],
+  "Club Atlético Central Córdoba (SdE)": [0, 2, 4],
+  "Club Atlético Newell's Old Boys": [1, 2, 2],
+  "Club Atlético Platense": [14, 9, 12],
+  "Club Atlético Rosario Central": [4, 1, 2],
+  "Club Atlético Unión": [4, 4, 2],
+  "Club Atlético Sarmiento": [3, 5, 5],
+  "Club Atlético Aldosivi": [3, 1, 1],
+  "Club Atlético Talleres": [1, 1, 1],
+  "Club Atlético Tigre": [6, 9, 5]
+};
+module.exports = barracasData;

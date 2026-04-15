@@ -1,0 +1,429 @@
+{
+  "id": "barcelona",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "barcelona",
+      "culés",
+      "cataluña"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Fútbol Club Barcelona",
+    "sigla": "FCB",
+    "fundacion": "29 de noviembre de 1899",
+    "apodo": "Culés, Blaugranas",
+    "estadio_actual": "Spotify Camp Nou",
+    "estadio_apodo": "Camp Nou",
+    "estadio_capacidad": 99354,
+    "estadio_inauguracion": "24 de septiembre de 1957",
+    "estadio_lat": 41.380896,
+    "estadio_lng": 2.12282,
+    "estadio_direccion": "C. d'Arístides Maillol, 12, Les Corts, 08028 Barcelona, España",
+    "socios": 143000,
+    "descripcion_corta": "Institución catalana polideportiva que integra campeonatos nacionales consecutivos desde origen fundacional.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#004D98"
+      },
+      {
+        "tag": "Grana",
+        "hex": "#A50044"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Lionel Messi (672 goles)",
+      "mas_presencias": "Lionel Messi (778 partidos)",
+      "mayor_goleada": "10-1 vs Gimnàstic de Tarragona (1949)"
+    },
+    "nombre_oficial": "F. C. Barcelona",
+    "nombre_corto": "Barcelona"
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "La Llamada de Joan Gamper",
+      "desc": "La génesis del FC Barcelona es quizás una de las epopeyas fundacionales más poéticas de toda Europa. El 22 de octubre de 1899, el suizo Hans Max Gamper (conocido luego como Joan Gamper), publicó un humilde pero incisivo anuncio en la revista 'Los Deportes' llamando a cualquier aficionado que quisiera congregarse para jugar al fútbol. La cita histórica tuvo lugar el 29 de noviembre de 1899 en las angostas salas del Gimnasio Solé. Doce apóstoles del fútbol respondieron al llamado: junto a Gamper se sentaron los ingleses John y William Parsons, el suizo Otto Kunzle, su compatriota Otto Maier, y los locales Lluís d'Ossó, Bartomeu Terradas, Enric Ducay, Pere Cabot, Carles Pujol, Josep Llobet y Walter Wild, quien por aclamación (y por ser el mayor) se convirtió en el primer presidente. La fusión de sangre catalana, británica, germana y suiza dotó al equipo de un universalismo sin parangón, encarnando el grito sagrado catalán frente a la imposición extranjera de otros equipos y adoptando -inspirados libremente en los cantones suizos de origen de Gamper- los y sagrados colores azul y grana."
+    },
+    {
+      "ano": "1952",
+      "hito": "El Barça de las Cinco Copas",
+      "desc": "Una legión imparable liderada por Kubala que conquistó Liga, Copa, Copa Latina, Copa Eva Duarte y Copa Martini Rossi en un mismo año, marcando la hegemonía definitiva del club a nivel peninsular y europeo temprano."
+    },
+    {
+      "ano": "1992",
+      "hito": "Wembley y el Sueño de Plata (Dream Team)",
+      "desc": "Un misil atronador de Ronald Koeman bajo las luces de Wembley rompió la sequía histórica: el 'Dream Team' de Johan Cruyff asaltaba Europa y el club levantaba su ansiada y primera Copa de Europa."
+    },
+    {
+      "ano": "2009",
+      "hito": "El Sextete Monumental de Guardiola",
+      "desc": "Apoyados en el fútbol de asociación exquisito, Xavi, Iniesta y Messi guiaron al equipo de Pep Guardiola a barrer absolutamente con todo torneo en su camino, ganando seis títulos y enamorando al fútbol mundial."
+    },
+    {
+      "ano": "2015",
+      "hito": "El Segundo Triplete de Luis Enrique",
+      "desc": "Con uno de los tridentes ofensivos más dominantes de la historia (Messi, Suárez, Neymar), el conjunto culé arrasó con Europa y con España, coronándose en Berlín con su quinta Copa de Europa y logrando un segundo e irrepetible Triplete."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Camp Nou",
+      "capacidad": "99.354",
+      "inauguracion": "1957",
+      "url": "https://www.google.com/maps/search/?api=1&query=C.%20d'Ar%C3%ADstides%20Maillol%2C%2012%2C%2008028%20Barcelona",
+      "direccion": "C. d'Arístides Maillol, 12, 08028 Barcelona",
+      "descripcion": "La gigantesca y mística casa del barcelonismo, escenario de milagros mundiales y noches doradas europeas."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 1910,
+      "c1": "#000080",
+      "c2": "#7a003c",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "mitades",
+      "desc": "Primer rústico y fundacional ropaje teñido enteramente a brutales y formales mitades poéticas bicolor azul oscuro y grana bermellón impuestas de sangre europea purista suiza."
+    },
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#7a003c",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Adaptación colosal romántica incondicional fáctica a las anchas legendarias rayas verticales blaugranas sangrientas que terminarían destrozando imperios futbolísticos dominando universal fáctica la estética cruda cívica de élite superior de la divinidad poética de Cataluña."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Johan Cruyff",
+      "periodo": "1973-1978",
+      "pos": "Mediocampista",
+      "desc": "El ideólogo absoluto de la filosofía y el estilo contemporáneo del club. Primero dominó al fútbol español como jugador en la década del 70 devolviendo la liga tras largos años de espera, y posteriormente edificó el brillante 'Dream Team' como director técnico en 1992."
+    },
+    {
+      "nombre": "Ronaldinho",
+      "periodo": "2003-2008",
+      "pos": "Delantero",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2003-2008, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Dani Alves",
+      "periodo": "2008-2022",
+      "pos": "Defensa",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensa durante el período 2008-2022, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Andrés Iniesta",
+      "periodo": "2002-2018",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista de extraordinaria calidad técnica, regate e inteligencia inigualable. Socorrido como una de las piezas claves del sextete y famoso por su antológico e inolvidable gol en Stamford Bridge que abrió las puertas al histórico trofeo continental del 2009."
+    },
+    {
+      "nombre": "Lionel Messi",
+      "periodo": "1999-2014",
+      "pos": "Defensa",
+      "desc": "Reconocido unánimemente como el mejor jugador en la historia del club. Debutó en 2004 y lideró una extensa era acumulando récords absolutos como máximo goleador, jugador con más presencias y cuatro Copas de Europa."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Lionel Messi",
+      "goles": 672,
+      "periodo": "2004-2021",
+      "partidos": 778,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 672 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2021."
+    },
+    {
+      "nombre": "César Rodríguez",
+      "goles": 232,
+      "periodo": "1942-1955",
+      "partidos": 351,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 232 goles en competiciones oficiales durante su trayectoria en el equipo entre 1942-1955."
+    },
+    {
+      "nombre": "Luis Suárez",
+      "goles": 198,
+      "periodo": "2014-2020",
+      "partidos": 283,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 198 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2020."
+    },
+    {
+      "nombre": "Ladislao Kubala",
+      "goles": 194,
+      "periodo": "1951-1961",
+      "partidos": 256,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 194 goles en competiciones oficiales durante su trayectoria en el equipo entre 1951-1961."
+    },
+    {
+      "nombre": "Josep Samitier",
+      "goles": 184,
+      "periodo": "1919-1932",
+      "partidos": 232,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 184 goles en competiciones oficiales durante su trayectoria en el equipo entre 1919-1932."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Lionel Messi",
+      "partidos": 778,
+      "periodo": "2004-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 778 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2021."
+    },
+    {
+      "nombre": "Xavi Hernández",
+      "partidos": 767,
+      "periodo": "1998-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 767 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2015."
+    },
+    {
+      "nombre": "Sergio Busquets",
+      "partidos": 722,
+      "periodo": "2008-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 722 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2023."
+    },
+    {
+      "nombre": "Andrés Iniesta",
+      "partidos": 674,
+      "periodo": "2002-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 674 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2018."
+    },
+    {
+      "nombre": "Gerard Piqué",
+      "partidos": 616,
+      "periodo": "2008-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 616 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 28,
+      "anios": [
+        "1929",
+        "1944-45",
+        "1947-48",
+        "1948-49",
+        "1951-52",
+        "1952-53",
+        "1958-59",
+        "1959-60",
+        "1973-74",
+        "1984-85",
+        "1990-91",
+        "1991-92",
+        "1992-93",
+        "1993-94",
+        "1997-98",
+        "1998-99",
+        "2004-05",
+        "2005-06",
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2012-13",
+        "2014-15",
+        "2015-16",
+        "2017-18",
+        "2018-19",
+        "2022-23",
+        "2024-25"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 32,
+      "anios": [
+        "1910",
+        "1912",
+        "1913",
+        "1920",
+        "1922",
+        "1925",
+        "1926",
+        "1928",
+        "1942",
+        "1951",
+        "1952",
+        "1953",
+        "1957",
+        "1959",
+        "1963",
+        "1968",
+        "1971",
+        "1978",
+        "1981",
+        "1983",
+        "1988",
+        "1990",
+        "1997",
+        "1998",
+        "2009",
+        "2012",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2021",
+        "2024-25"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 14,
+      "anios": [
+        "1983",
+        "1991",
+        "1992",
+        "1994",
+        "1996",
+        "2005",
+        "2006",
+        "2009",
+        "2010",
+        "2011",
+        "2013",
+        "2016",
+        "2018",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Copa Eva Duarte",
+      "cantidad": 3,
+      "anios": [
+        "1948",
+        "1952",
+        "1953"
+      ]
+    },
+    {
+      "nombre": "Copa de la Liga",
+      "cantidad": 2,
+      "anios": [
+        "1983",
+        "1986"
+      ]
+    },
+    {
+      "nombre": "Champions League",
+      "cantidad": 5,
+      "anios": [
+        "1991-92",
+        "2005-06",
+        "2008-09",
+        "2010-11",
+        "2014-15"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 4,
+      "anios": [
+        "1978-79",
+        "1981-82",
+        "1988-89",
+        "1996-97"
+      ]
+    },
+    {
+      "nombre": "Copa de Ferias",
+      "cantidad": 3,
+      "anios": [
+        "1955-58",
+        "1958-60",
+        "1965-66"
+      ]
+    },
+    {
+      "nombre": "Supercopa de la UEFA",
+      "cantidad": 5,
+      "anios": [
+        "1992",
+        "1997",
+        "2009",
+        "2011",
+        "2015"
+      ]
+    },
+    {
+      "nombre": "Mundial de Clubes",
+      "cantidad": 3,
+      "anios": [
+        "2009",
+        "2011",
+        "2015"
+      ]
+    },
+    {
+      "nombre": "Copa Latina",
+      "cantidad": 2,
+      "anios": [
+        "1949",
+        "1952"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910",
+      "url": "/escudos_historicos/barcelona/FC-Barcelona-logo-1910.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1920.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1941.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1949.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1960.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1974.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_1975.svg"
+    },
+    {
+      "ano": "2032",
+      "url": "/escudos_historicos/barcelona/640x360_historia_escut_1317115158_02_v1392032464_-_copia.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona__crest_.svg"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/barcelona/FC_Barcelona_old_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/barcelona.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Culés",
+      "origen": "Formulado bajo el ambiente netamente barrial originado en estadios callejeros tempranos entre los tempranos años de 1909 hasta 1922. Para ese momento deportivo, el club catalán actuaba deportivamente jugando todos de sus encuestros de primera local apostados oficialmente en el recordado complejo y estadio conocido periodísticamente como Camp de la calle de la Indústria. Ese viejo paraje consistía en cercos bajos de material rodeando canchas que desgraciadamente no contemplaba y carecía de muros amplios, de andamiajes, galerías cubiertas superiores gradas ni butacas o tribunas altas de paredes. El abultado número de primeros asistentes populares e influyentes aficionados tenían directamente que ubicarse aglomerados o ubicados encimados al perímetro pared exterior sentados en el muro superior limitante observando a los campo. Entonces a nivel visual puramente, cualquier incesante foráneo a los encuentros del muro exterior por la calzada divisaba masivamente las espaldas en hileras o llanamente en masa al desnudo la visual de y de espaldas e incesante el trasero natural histórico (o culs de traducción catalán exacto de culos) resultando inminente adoptado de término peyorativo hasta transformarlo como la marca de oficial de pertenencia culés."
+    },
+    {
+      "apodo": "Los Blaugranas",
+      "origen": "Referente indicativo explícito proveniente a raíz estricta de las normas de combinación estipulada local en el catalán. Designación y traducción naciente estricta nacida oficialmente del color inminente adoptado de las clásicas combinaciones textiles del 'blau' (coloración puramente de tono naval azul de base profundo o añil) de y al originario 'grana' clásico referencial puro originario inminente rojo crudo profundo o clásico oscuro del granate incesante fundacional catalanista en ineludible base incesante de estatuto de primer fundador inicial original suizo Hans originario a base Gamper incesante en 1899 textualmente original inspirado por textualmente el uniforme incesante originado fundacional puro."
+    }
+  ]
+}

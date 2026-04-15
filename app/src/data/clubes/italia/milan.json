@@ -1,0 +1,347 @@
+{
+  "id": "milan",
+  "meta": {
+    "slug": "milan"
+  },
+  "datos": {
+    "nombre_completo": "Associazione Calcio Milan S.p.A.",
+    "sigla": "MIL",
+    "fundacion": "1899",
+    "apodo": "Los Rojinegros, El Diablo, Los Destornilladores",
+    "estadio_actual": "Stadio Giuseppe Meazza",
+    "estadio_apodo": "San Siro",
+    "estadio_capacidad": 75817,
+    "estadio_inauguracion": "19 de septiembre de 1926",
+    "estadio_lat": 45.4781,
+    "estadio_lng": 9.1239,
+    "estadio_direccion": "Piazzale Angelo Moratti, 20151 Milano, Lombardia",
+    "socios": 42000,
+    "descripcion_corta": "Una de las franquicias tradicionales de la Serie A, sustentada con múltiples logros que la erigen internacionalmente como uno de los combinados con más conquistas europeas a nivel mundial.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#Fb090b"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Gunnar Nordahl (221 goles)",
+      "mas_presencias": "Paolo Maldini (902 partidos)",
+      "mayor_goleada": "13-0 vs Audax Modena (1914)"
+    },
+    "nombre_oficial": "Associazione Calcio Milan",
+    "nombre_corto": "Milan",
+    "escudo_actual": "/escudos_historicos/milan/AC_Milan_1995.webp"
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "Consulado Inglés y la Fiaschetteria Toscana",
+      "desc": "Bajo un gélido clima decembrino a finales de 1899, el fútbol aterrizó en Lombardía puramente como un pasatiempo privado para los adinerados expatriados británicos. Fue el implacable trabajador textil oriundo de Nottingham, Herbert Kilpin, junto al respetado vicecónsul británico en Milán, Alfred Edwards, quienes cristalizaron la conformación del club. En las humeantes mesas de la prestigiosa y tradicional Fiaschetteria Toscana ubicada en la Via Berchet local, fundaron oficialmente el Milan Foot-Ball and Cricket Club. Kilpin, un amante purista de la tradición, diseñó él mismo la legendaria camiseta dictando y afirmando en voz alta en esa histórica cena un lema de honor y temor: 'Seremos un equipo de diablos. Nuestros colores serán el rojo como el fuego, y el negro como el miedo que infundiremos'."
+    },
+    {
+      "ano": "1950",
+      "hito": "Integración Atlética Extranjera en Competición Local",
+      "desc": "Durante mediados del siglo, la dirigencia promovió el esquema conocido posteriormente con la abreviatura 'Gre-No-Li', conformado en base a las transferencias de los tres jugadores Gunnar Gren, Gunnar Nordahl, y Nils Liedholm. Aquel equipo obtuvo un nuevo título para la liga rompiendo una abstención competitiva para el lugar que duró cuarenta y cuatro temporadas."
+    },
+    {
+      "ano": "1989",
+      "hito": "Nuevas Aplicaciones Estratégicas e Internacionales Acúmulos",
+      "desc": "Mediante intervenciones tácticas delineadas bajo la gerencia de Silvio Berlusconi y ejecutadas desde zona de técnica de Arrigo Sacchi, introdujeron las líneas operativas del pressing. Con jugadores que participaban activamente en defensa y volantes como Gullit y Van Basten en progresión ofensiva, sumaron sucesivamente títulos nacionales e internacionales incluyendo Copas Europeas."
+    },
+    {
+      "ano": "2007",
+      "hito": "Tercera Época Dorada a Nivel Continental Europeo",
+      "desc": "Desarrollada bajo la directriz del italiano Carlo Ancelotti y posterior a una eliminación directa con incidencias estadísticas irregulares pasadas, la formación consiguió superar internacionalmente la séptima adjudicación a favor del equipo a nivel europeo venciendo a adversarios como el equipo inglés representante, el Liverpool Football Club."
+    },
+    {
+      "ano": "2022",
+      "hito": "Regulación Directiva y Obtención del Scudetto 19",
+      "desc": "Frente a periodos institucionales adversos asociados a recargos monetarios y resultados estadísticamente nulos durante más de ocho temporadas operativas y tras procesos de ajuste y restructuración técnica al cargo del profesional Stefano Pioli y el jugador principal final Zlatan Ibrahimović, la entidad revirtió puntuaciones coronando primer en puesto su campeonato final local decimonoveno liguero."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Giuseppe Meazza",
+      "capacidad": "75.817",
+      "inauguracion": "19 de septiembre de 1926",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piazzale%20Angelo%20Moratti%2C%2020151%20Milano%2C%20Lombardia",
+      "direccion": "Piazzale Angelo Moratti, 20151 Milano, Lombardia",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de San Siro."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": null,
+      "c1": "#bd061e",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Basado e instituido oficialmente bajo órdenes heráldicas británicas normadas y aprobadas en firmas desde su asamblea, utilizaron históricamente su atuendo rayado vertical liguero normado compuesto eternamente a base del rojo diablo y formales matices negros oscuros de modo continuo."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Paolo Maldini",
+      "periodo": "1984-2009",
+      "pos": "Defensor",
+      "desc": "El 'Il Capitano' definitivo y modelo unánime de lealtad tras disputar íntegramente sus 25 temporadas como profesional vistiendo la indumentaria rossonera. Defensor central y lateral izquierdo magistral que levantó un asombroso cúmulo de cinco Ligas de Campeones de Europa."
+    },
+    {
+      "nombre": "Franco Baresi",
+      "periodo": "1977-1997",
+      "pos": "Defensor",
+      "desc": "Antecesor ineludible en el liderazgo de la retaguardia milanista. Revolucionó los métodos defensivos zonales consolidando la defensa del inolvidable equipo de Arrigo Sacchi que dominó la transición continental hacia los años 90 a lomo del implacable éxito europeo."
+    },
+    {
+      "nombre": "Marco van Basten",
+      "periodo": "1987-1995",
+      "pos": "Delantero",
+      "desc": "Considerado internacionalmente como el prototipo del '9' puro y definitivo. Su asombroso nivel y envidiable remate resolvieron incontables torneos domésticos y europeos antes de que una trágica dolencia física crónica precipitara un melancólico y abrupto final en su carrera dorada."
+    },
+    {
+      "nombre": "Gianni Rivera",
+      "periodo": "1960-1979",
+      "pos": "Mediocampista",
+      "desc": "El 'Golden Boy' italiano y figura hegemónica de la entidad durante la áspera y competitiva década de 1960. Estilista superlativo que comandó organizativamente al plantel logrando dos históricas coronaciones en Copas de Campeones continentales."
+    },
+    {
+      "nombre": "Andriy Shevchenko",
+      "periodo": "1999-2009",
+      "pos": "Delantero",
+      "desc": "Artillero ucraniano implacable dotado de una aceleración descomunal. Dejó un vasto registro en la estadística europea destacándose rotundamente por anotar el milagroso y definitorio penalti que acreditó el máximo título europeo celebrado en Old Trafford."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gunnar Nordahl",
+      "goles": 221,
+      "periodo": "1949-1956",
+      "partidos": 268,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 221 goles en competiciones oficiales durante su trayectoria en el equipo entre 1949-1956."
+    },
+    {
+      "nombre": "Andriy Shevchenko",
+      "goles": 175,
+      "periodo": "1999-2009",
+      "partidos": 322,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 175 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2009."
+    },
+    {
+      "nombre": "Gianni Rivera",
+      "goles": 164,
+      "periodo": "1960-1979",
+      "partidos": 658,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 164 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1979."
+    },
+    {
+      "nombre": "José Altafini",
+      "goles": 161,
+      "periodo": "1958-1965",
+      "partidos": 246,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 161 goles en competiciones oficiales durante su trayectoria en el equipo entre 1958-1965."
+    },
+    {
+      "nombre": "Aldo Boffi",
+      "goles": 131,
+      "periodo": "1936-1945",
+      "partidos": 187,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 131 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1945."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Paolo Maldini",
+      "partidos": 902,
+      "periodo": "1984-2009",
+      "goles": 33,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 902 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-2009."
+    },
+    {
+      "nombre": "Franco Baresi",
+      "partidos": 719,
+      "periodo": "1977-1997",
+      "goles": 33,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 719 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1997."
+    },
+    {
+      "nombre": "Alessandro Costacurta",
+      "partidos": 663,
+      "periodo": "1986-2007",
+      "goles": 3,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 663 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-2007."
+    },
+    {
+      "nombre": "Gianni Rivera",
+      "partidos": 658,
+      "periodo": "1960-1979",
+      "goles": 164,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 658 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1979."
+    },
+    {
+      "nombre": "Mauro Tassotti",
+      "partidos": 583,
+      "periodo": "1980-1997",
+      "goles": 10,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 583 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1997."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 19,
+      "anios": [
+        "1901",
+        "1906",
+        "1907",
+        "1950-51",
+        "1954-55",
+        "1956-57",
+        "1958-59",
+        "1961-62",
+        "1967-68",
+        "1978-79",
+        "1987-88",
+        "1991-92",
+        "1992-93",
+        "1993-94",
+        "1995-96",
+        "1998-99",
+        "2003-04",
+        "2010-11",
+        "2021-22"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 5,
+      "anios": [
+        "1966-67",
+        "1971-72",
+        "1972-73",
+        "1976-77",
+        "2002-03"
+      ]
+    },
+    {
+      "nombre": "Supercoppa Italiana",
+      "cantidad": 7,
+      "anios": [
+        "1988",
+        "1992",
+        "1993",
+        "1994",
+        "2004",
+        "2011",
+        "2016"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 7,
+      "anios": [
+        "1962-63",
+        "1968-69",
+        "1988-89",
+        "1989-90",
+        "1993-94",
+        "2002-03",
+        "2006-07"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 2,
+      "anios": [
+        "1967-68",
+        "1972-73"
+      ]
+    },
+    {
+      "nombre": "Mundial de Clubes / Intercontinental",
+      "cantidad": 4,
+      "anios": [
+        "1969",
+        "1989",
+        "1990",
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Europa",
+      "cantidad": 5,
+      "anios": [
+        "1989",
+        "1990",
+        "1994",
+        "2003",
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 2,
+      "anios": [
+        "1980-81",
+        "1982-83"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1899",
+      "url": "/escudos_historicos/milan/Stemma_del_Milan_1899.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/milan/AC-Milan-old-logo.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/milan/Distintivo_Milan_F.B.C..webp"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/milan/Milan_AC_29.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/milan/Distintivo_MILAN_F.C._Conio_Anteguerra.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/milan/Milan_Football_Cricket_Club_old_logo.webp"
+    },
+    {
+      "ano": "1937",
+      "url": "/escudos_historicos/milan/Escudo_ac_milan_1937.webp"
+    },
+    {
+      "ano": "1938",
+      "url": "/escudos_historicos/milan/AC_Milan-1938-45.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/milan/AC_Milan_1994.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/milan/AC_Milan_1995.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Rossoneri",
+      "origen": "Titulados debido al mandato inamovible ideado por el histórico fundador Herbert Kilpin al conformar los estatutos de origen fundacional. El pionero británico forzó vestir ropajes surcados por rayas verticales oscuras negras representando el miedo infernal infligido a adversarios, alternado con un encendido tono rojo imitador de brasas puras de un fuego asolador para atemorizar rivales en las heladas canchas linderas italianas."
+    },
+    {
+      "apodo": "Il Diavolo",
+      "origen": "Adoptado como derivación e identidad visual complementaria natural enraizada puramente en los intensos colores de la plantilla y estatutos del fundador. Las congregaciones y revistas asimilaron los imponentes ropajes rojinegros de la sociedad asociándolos rústicamente a la clásica figura teológica del diablo, impulsando una efigie y folclore deportivo como peligroso y fiero estandarte histórico portado en Milan."
+    }
+  ]
+}

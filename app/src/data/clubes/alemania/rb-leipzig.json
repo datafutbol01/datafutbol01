@@ -1,0 +1,250 @@
+{
+  "id": "rb-leipzig",
+  "meta": {
+    "slug": "rb-leipzig"
+  },
+  "datos": {
+    "nombre_completo": "RasenBallsport Leipzig e. V.",
+    "nombre_oficial": "RB Leipzig",
+    "nombre_corto": "RB Leipzig",
+    "apodo": "Die Roten Bullen (Los Toros Rojos)",
+    "fundacion": "2009",
+    "estadio_actual": "Red Bull Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 47069,
+    "estadio_inauguracion": "2004",
+    "estadio_direccion": "Am Sportforum 3, 04105 Leipzig, Alemania",
+    "estadio_lat": 51.3458,
+    "estadio_lng": 12.3483,
+    "escudo_actual": "/escudos/rb-leipzig.webp",
+    "sigla": "RBL",
+    "socios": 750,
+    "descripcion_corta": "Club fundado en 2009 directamente por la corporación energética Red Bull GmbH, ascendiendo rápidamente a Primera División.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#DF0030"
+      },
+      {
+        "tag": "Azul Profundo",
+        "hex": "#001D4A"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Timo Werner (113)",
+      "mas_presencias": "Yussuf Poulsen (350+)",
+      "mayor_goleada": "8-0 vs Mainz (2019)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "2009",
+      "hito": "Compra de Licencia",
+      "desc": "Llegada contundente y veloz de la empresa energética al ambiente local, comprando la plaza para ascender."
+    },
+    {
+      "ano": "2009",
+      "hito": "Ascenso a Primera",
+      "desc": "Avance ininterrumpido hasta posicionarse rápido en lo más alto de Alemania."
+    },
+    {
+      "ano": "2016",
+      "hito": "Ascenso a la 1. Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2020",
+      "hito": "Semifinal de UEFA Champions League",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2022",
+      "hito": "Obtención de la Copa de Alemania (DFB-Pokal)",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadion am Bad (Markranstädt)",
+      "capacidad": "5.500",
+      "inauguracion": "1957",
+      "url": "https://www.google.com/maps/search/?api=1&query=Am%20Stadtbad%2030%2C%2004420%20Markranst%C3%A4dt%2C%20Alemania",
+      "direccion": "Am Stadtbad 30, 04420 Markranstädt, Alemania",
+      "descripcion": "Este modesto estadio regional periférico albergó los compases originales corporativos y técnicos de lo que acabaría asumiendo su forma en el Red Bull Leipzig durante sus primerísimas campañas de ascenso amateur.",
+      "lat": 51.3094,
+      "lng": 12.2155
+    },
+    {
+      "nombre": "Red Bull Arena (Zentralstadion)",
+      "capacidad": "47.069",
+      "inauguracion": "2004",
+      "url": "https://www.google.com/maps/search/?api=1&query=Am%20Sportforum%203%2C%2004105%20Leipzig%2C%20Alemania",
+      "direccion": "Am Sportforum 3, 04105 Leipzig, Alemania",
+      "descripcion": "Una maravilla contemporánea construida hundida literalmente sobre las mismísimas bases fundacionales del gigante pero abolido Zentralstadion socialista oriental.",
+      "lat": 51.3458,
+      "lng": 12.3483
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 2009,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#dd0000",
+      "sh": "#dd0000",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Yussuf Poulsen",
+      "periodo": "2013-Act",
+      "pos": "Delantero",
+      "desc": "Delantero centro titular e histórico. Acompañó al club desde sus cimientos en las categorías de ascenso formativo hasta conquistar títulos absolutos de primera línea."
+    },
+    {
+      "nombre": "Emil Forsberg",
+      "periodo": "2015-2023",
+      "pos": "Mediocampista",
+      "desc": "Talentoso mediocampista creador ofensivo nacido en Suecia. Fue un asistidor constante acompañando toda la etapa ascendente para clasificar finalmente a competencias supremas de Europa."
+    },
+    {
+      "nombre": "Peter Gulacsi",
+      "periodo": "2015-Act",
+      "pos": "Arquero",
+      "desc": "Arquero internacional húngaro. Conformó la base titular indiscutida custodiando firmemente el arco para asegurar decisivos subcampeonatos logrados asiduamente a nivel estelar de Bundesliga."
+    },
+    {
+      "nombre": "Timo Werner",
+      "periodo": "2016-2024",
+      "pos": "Delantero",
+      "desc": "Veloz delantero alemán de excelente técnica y llegada. Estadísticamente es recordado como el máximo artillero en la historia del plantel tras firmar incontables anotaciones linderas."
+    },
+    {
+      "nombre": "Willi Orban",
+      "periodo": "2015-Act",
+      "pos": "Defensor",
+      "desc": "Defensor central y pilar defensivo absoluto. Portó la cinta de capitán siendo un jugador fundamental en la organización estelar a lo largo de nacionales y europeos campeonatos."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Timo Werner",
+      "goles": 113,
+      "periodo": "2016-2024",
+      "partidos": 213,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 113 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2024."
+    },
+    {
+      "nombre": "Yussuf Poulsen",
+      "goles": 89,
+      "periodo": "2013-Act",
+      "partidos": 380,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-Act."
+    },
+    {
+      "nombre": "Christopher Nkunku",
+      "goles": 70,
+      "periodo": "2019-2023",
+      "partidos": 172,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 70 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
+    },
+    {
+      "nombre": "Emil Forsberg",
+      "goles": 71,
+      "periodo": "2015-2023",
+      "partidos": 325,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2023."
+    },
+    {
+      "nombre": "Marcel Sabitzer",
+      "goles": 52,
+      "periodo": "2014-2021",
+      "partidos": 227,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2021."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Yussuf Poulsen",
+      "partidos": 380,
+      "periodo": "2013-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 380 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-Act."
+    },
+    {
+      "nombre": "Emil Forsberg",
+      "partidos": 325,
+      "periodo": "2015-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 325 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2023."
+    },
+    {
+      "nombre": "Peter Gulacsi",
+      "partidos": 302,
+      "periodo": "2015-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 302 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Act."
+    },
+    {
+      "nombre": "Willi Orban",
+      "partidos": 300,
+      "periodo": "2015-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 300 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Act."
+    },
+    {
+      "nombre": "Marcel Halstenberg",
+      "partidos": 240,
+      "periodo": "2015-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 240 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2023."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 2,
+      "anios": [
+        "2021-22",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 1,
+      "anios": [
+        "2023"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rb-leipzig/RB_Leipzig_loggo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rb-leipzig/RB_Leipzig_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/rb-leipzig/Red_Bull_Leipzig_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/rb-leipzig.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Roten Bullen",
+      "origen": "Designación estatutaria impuesta rígidamente por la asimilación cívica y económica ineludible forjada al conformarse el sólido club fundacional sajón ante el empuje formativo pionero del siglo 21. Adoptaron en asamblea el fiero título deportivo refiriendo a Los Toros Rojos, calcando irrenunciablemente la estampa gráfica y las divisas mamíferas encabritadas correspondientes a la inmensa corporativa fundadora mundial y purista austriaca Red Bull."
+    }
+  ]
+}

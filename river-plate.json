@@ -1,0 +1,1338 @@
+{
+    "id": "river-plate",
+    "datos": {
+        "nombre_oficial": "Club Atlético River Plate",
+        "nombre_corto": "River Plate",
+        "apodos": [
+            "El Millonario",
+            "La Banda Roja",
+            "El Más Grande"
+        ],
+        "fundacion": "1901-05-25",
+        "ciudad": "Buenos Aires",
+        "barrio": "Núñez",
+        "pais": "Argentina",
+        "estadio_actual": "Estadio Más Monumental (Antonio Vespucio Liberti)",
+        "estadio_apodo": "El Monumental",
+        "estadio_capacidad": 85018,
+        "estadio_inauguracion": "1938-05-26",
+        "estadio_lat": -34.5454,
+        "estadio_lng": -58.4494,
+        "estadio_direccion": "Av. Figueroa Alcorta 7597, Núñez, CABA",
+        "debut_primera": 1908
+    },
+    "historia": [
+        "El 25 de mayo de 1901, en una imprenta del barrio de La Boca, un grupo de 24 jóvenes fundó el club uniendo a dos equipos rivales: Santa Rosa y La Rosales. El nombre 'River Plate' fue propuesto por Pedro Martínez, impresionado por los cajones de embarque ingleses que veía en el puerto. Leopoldo Bard fue elegido primer presidente.",
+        "En 1932 compró a Bernabé Ferreyra por 35.000 pesos, la transferencia más cara del mundo en ese momento, ganándose para siempre el apodo 'Los Millonarios'. Ese año ganó su primer campeonato profesional al vencer a Independiente en un desempate por 3-0. La década del 30 fue de construcción: en 1938 inauguró el Estadio Monumental en Núñez.",
+        "Los años 40 fueron la época dorada con 'La Máquina': la delantera formada por Muñoz, Moreno, Pedernera, Labruna y Loustau, considerada la mejor de la historia del fútbol argentino. Ganó cuatro campeonatos (1941, 1942, 1945, 1947), fue sede del Mundial de Selecciones y referente continental. Labruna, el máximo goleador histórico con 317 goles, brilló toda esta era.",
+        "Los 50 traerían un tricampeonato (1955, 1956, 1957) y Di Stéfano marcaría 27 goles antes de irse a España. En 1986 ganó la Copa Intercontinental al derrotar al Steaua de Bucarest. Con Gallardo como DT (2014-2022) vivió su era más exitosa moderna: 4 Libertadores, múltiples campeonatos locales e internacionales.",
+        "El hecho más traumático fue el descenso de 2011: tras 80 años ininterrumpidos en Primera, perdió la promoción ante Belgrano de Córdoba (0-2 y 1-1). Sin embargo, al año siguiente ganó el Campeonato de Primera B Nacional y ascendió de inmediato, comenzando el ciclo de Gallardo que lo convertiría en el club más ganador del mundo en esa década."
+    ],
+    "canchas": [
+        {
+            "nombre": "Cancha de La Boca (área portuaria)",
+            "desde": 1901,
+            "hasta": 1909,
+            "obs": "Primeros campos en el barrio fundacional, cerca del Riachuelo"
+        },
+        {
+            "nombre": "Estadio de Alvear y Tagle",
+            "desde": 1923,
+            "hasta": 1938,
+            "ciudad": "Buenos Aires",
+            "barrio": "Recoleta",
+            "obs": "Primer estadio propio de River. Capacidad: 40.000. Terreno alquilado al ferrocarril, demolido en 1938",
+            "lat": -34.5812,
+            "lng": -58.3952
+        },
+        {
+            "nombre": "Estadio Más Monumental (Antonio Vespucio Liberti)",
+            "desde": 1938,
+            "hasta": null,
+            "ciudad": "Buenos Aires",
+            "barrio": "Núñez",
+            "obs": "Inaugurado el 26/5/1938 vs Peñarol (3-1). Estadio más grande de Sudamérica: 85.018 espectadores. Sede del Mundial 1978, 4 Copas América y múltiples finales de Copa Libertadores",
+            "lat": -34.5454,
+            "lng": -58.4494
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1901,
+            "hasta": 1907,
+            "desc": "Camiseta blanca sin banda",
+            "c1": "#FFFFFF",
+            "c2": null,
+            "sh": "#FFFFFF",
+            "me": "#FFFFFF"
+        },
+        {
+            "desde": 1908,
+            "hasta": null,
+            "desc": "Blanca con banda roja diagonal — icónica desde 1908 cuando se adoptaron los colores definitivos",
+            "c1": "#FFFFFF",
+            "c2": "#EE1422",
+            "dis": "banda_diagonal_roja",
+            "sh": "#000000",
+            "me": "#FFFFFF",
+            "ac1": "#EE1422",
+            "ash": "#000000",
+            "ame": "#EE1422"
+        }
+    ],
+    "temporadas": [
+        {
+            "anio": 1908,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Debut en Primera División"
+        },
+        {
+            "anio": 1931,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 3,
+            "obs": "Boca Juniors campeón. River 3°"
+        },
+        {
+            "anio": 1932,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 34,
+            "g": 22,
+            "e": 6,
+            "pp": 6,
+            "gf": 81,
+            "gc": 43,
+            "pts": 50,
+            "obs": "1er título profesional. Desempate vs Independiente 3-0. Ferreyra 43 goles"
+        },
+        {
+            "anio": 1933,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón"
+        },
+        {
+            "anio": 1934,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1935,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Debut de Moreno y Pedernera"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa Campeonato",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Copa Campeonato 1936"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa de Oro",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Copa de Oro 1936"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa de Honor",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (San Lorenzo campeón)"
+        },
+        {
+            "anio": 1937,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 34,
+            "g": 27,
+            "e": 4,
+            "pp": 3,
+            "gf": 106,
+            "gc": 43,
+            "pts": 58,
+            "obs": "CAMPEÓN. 106 goles anotados. Moreno: 37 goles. Tricampeonato"
+        },
+        {
+            "anio": 1938,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón). Inauguración del Monumental (26/5/1938)"
+        },
+        {
+            "anio": 1939,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente bicampeón)"
+        },
+        {
+            "anio": 1940,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1941,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 30,
+            "g": 19,
+            "e": 6,
+            "pp": 5,
+            "gf": 75,
+            "gc": 35,
+            "pts": 44,
+            "obs": "CAMPEÓN. Cuádruple corona: liga + 3 copas. La Máquina en plenitud"
+        },
+        {
+            "anio": 1942,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 30,
+            "g": 20,
+            "e": 6,
+            "pp": 4,
+            "gf": 79,
+            "gc": 37,
+            "pts": 46,
+            "obs": "CAMPEÓN. Debut de la delantera con Loustau. Vuelta olímpica en La Bombonera"
+        },
+        {
+            "anio": 1943,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1944,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1945,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Labruna máximo goleador con 25 tantos"
+        },
+        {
+            "anio": 1946,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 3,
+            "obs": "3° (San Lorenzo campeón). Debuta Di Stéfano. Única vez entre 1941 y 1949 que terminó debajo del 2°"
+        },
+        {
+            "anio": 1947,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 30,
+            "g": 22,
+            "e": 4,
+            "pp": 4,
+            "gf": 90,
+            "gc": 30,
+            "pts": 48,
+            "obs": "CAMPEÓN. 90 goles. Di Stéfano 27 tantos. Partida de Pedernera a Atlanta"
+        },
+        {
+            "anio": 1948,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón). Éxodo al fútbol colombiano"
+        },
+        {
+            "anio": 1949,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Racing campeón)"
+        },
+        {
+            "anio": 1950,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 4,
+            "obs": "4° — inicio de la reconstrucción. Debut de Walter Gómez"
+        },
+        {
+            "anio": 1951,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Racing campeón. Primera transmisión televisiva de fútbol en Argentina desde el Monumental"
+        },
+        {
+            "anio": 1952,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Amadeo Carrizo consolida su lugar"
+        },
+        {
+            "anio": 1953,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN bicampeón"
+        },
+        {
+            "anio": 1954,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1955,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Inicio del tricampeonato"
+        },
+        {
+            "anio": 1956,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN bicampeón"
+        },
+        {
+            "anio": 1957,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN tricampeón. Homenaje a Labruna. Di Stéfano ya en Real Madrid"
+        },
+        {
+            "anio": 1958,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Racing Club campeón. Venta de Sívori a Juventus financia la tribuna Almirante Brown"
+        },
+        {
+            "anio": 1959,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón"
+        },
+        {
+            "anio": 1960,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón)"
+        },
+        {
+            "anio": 1961,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Racing campeón"
+        },
+        {
+            "anio": 1962,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1963,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón)"
+        },
+        {
+            "anio": 1964,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1965,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1966,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Racing Club campeón). Pinino Más máximo goleador de la Copa Libertadores 1966 con 17 goles — récord vigente"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Estudiantes LP campeón"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Independiente campeón"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón invicto"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Vélez Sársfield campeón)"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Chacarita Juniors campeón)"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón)"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Independiente campeón"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Rosario Central campeón"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón invicto"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (San Lorenzo bicampeón invicto)"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Huracán campeón"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (San Lorenzo tricampeón Nacional)"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Newell's Old Boys campeón"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón (Scotta 60 goles en el año)"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Pinino Más bicampeón goleador — fin de la sequía de 18 años"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN bicampeón anual 1975"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Independiente campeón)"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Metropolitano"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Independiente campeón"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Quilmes campeón. Mundial de fútbol en el Monumental — Argentina campeón"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Quilmes campeón)"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Metropolitano"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Nacional — cuádruple corona (Metro+Nacional 1979+Metro 1980)"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Rosario Central campeón"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Ferro Carril Oeste campeón"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Nacional — DT Labruna"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Ferro Carril Oeste campeón"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Estudiantes LP campeón"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Argentinos Juniors campeón"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Ferro Carril Oeste campeón)"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Argentinos Juniors campeón"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Nacional",
+            "div": "1ª",
+            "obs": "Newell's Old Boys campeón"
+        },
+        {
+            "anio": 1986,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN 1985/86. DT Héctor Veira. Francescoli mejor jugador. Copa Intercontinental — CAMPEÓN vs Steaua Bucarest (1-0 en Tokio)"
+        },
+        {
+            "anio": 1987,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Newell's Old Boys campeón"
+        },
+        {
+            "anio": 1988,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Newell's Old Boys campeón"
+        },
+        {
+            "anio": 1989,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Independiente campeón"
+        },
+        {
+            "anio": 1990,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN 1989/90. DT Passarella. Copa Libertadores 1986 — CAMPEÓN"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura. Nueve victorias consecutivas — récord argentin"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (San Lorenzo campeón)"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura. Copa Libertadores 1996 — CAMPEÓN"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura. Copa Libertadores 1996 ganada ese año"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura — tricampeonato. Retiro de Enzo Francescoli"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Apertura"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón)"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (San Lorenzo 47 pts — récord histórico)"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Racing Club campeón)"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Clausura. DT Diego Simeone"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 20,
+            "obs": "ÚLTIMO — inicio de la crisis. 20° de 20"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 15,
+            "obs": "DT Gorosito. El promedio cae al nivel de peligro"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 15
+        },
+        {
+            "anio": 2010,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 15,
+            "obs": "DT Astrada / Cappa"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 4,
+            "obs": "Leve mejoría"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 9,
+            "desc": true,
+            "obs": "9° en tabla pero 17° en promedios → DESCENSO A PRIMERA B NACIONAL. Perdió la promoción vs Belgrano 0-2 y 1-1 (26/6/2011). Fin de 80 años ininterrumpidos en Primera"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Campeonato de Primera B Nacional",
+            "div": "1ª Nacional",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN y ASCENSO INMEDIATO. DT Matías Almeyda"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Final",
+            "div": "1ª"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Inicial",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón. Regreso a Primera"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Final",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Torneo Final. Inicio del ciclo Gallardo (2/6/2014)"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Transición",
+            "div": "1ª"
+        },
+        {
+            "anio": 2015,
+            "torneo": "Primera División",
+            "div": "1ª",
+            "obs": "Copa Libertadores 2015 — CAMPEÓN (vs Tigres). Copa Sudamericana 2014 — CAMPEÓN"
+        },
+        {
+            "anio": 2016,
+            "torneo": "Primera División",
+            "div": "1ª",
+            "obs": "Copa Argentina 2016 — CAMPEÓN"
+        },
+        {
+            "anio": 2017,
+            "torneo": "Superliga Argentina",
+            "div": "1ª",
+            "obs": "Copa Argentina 2017 — CAMPEÓN"
+        },
+        {
+            "anio": 2018,
+            "torneo": "Superliga Argentina",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Superliga. Copa Libertadores 2018 — CAMPEÓN (vs Boca en Madrid 3-1 a.e.t.)"
+        },
+        {
+            "anio": 2019,
+            "torneo": "Superliga Argentina",
+            "div": "1ª"
+        },
+        {
+            "anio": 2020,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2021,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. Julián Álvarez máximo goleador. Copa Libertadores 2019 — CAMPEÓN (vs Flamengo)"
+        },
+        {
+            "anio": 2022,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2023,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "pos": 1,
+            "obs": "1° en tabla general (Rosario Central campeón por resolución retroactiva)"
+        },
+        {
+            "anio": 2024,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "obs": "1° en tabla anual → Copa Libertadores 2025"
+        },
+        {
+            "anio": 2025,
+            "torneo": "Liga Profesional — Apertura/Clausura",
+            "div": "1ª",
+            "obs": "Copa Argentina 2025 — CAMPEÓN (Lanús)"
+        }
+    ],
+    "titulos": [
+        {
+            "comp": "Campeonato de Primera División (Amateur)",
+            "n": 1,
+            "anios": [
+                1920
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera División (Profesional)",
+            "n": 38,
+            "anios": [
+                1932,
+                1936,
+                1937,
+                1941,
+                1942,
+                1945,
+                1947,
+                1952,
+                1953,
+                1955,
+                1956,
+                1957,
+                1975,
+                1975,
+                1977,
+                1979,
+                1979,
+                1980,
+                1981,
+                1986,
+                1990,
+                1991,
+                1993,
+                1994,
+                1996,
+                1997,
+                1997,
+                1999,
+                2000,
+                2002,
+                2003,
+                2004,
+                2008,
+                2014,
+                2018,
+                2021
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera B Nacional",
+            "n": 1,
+            "anios": [
+                2012
+            ]
+        },
+        {
+            "comp": "Copa Argentina",
+            "n": 3,
+            "anios": [
+                2016,
+                2017,
+                2019
+            ]
+        },
+        {
+            "comp": "Copa Libertadores",
+            "n": 5,
+            "anios": [
+                1986,
+                1996,
+                2015,
+                2018,
+                2019
+            ]
+        },
+        {
+            "comp": "Copa Sudamericana",
+            "n": 1,
+            "anios": [
+                2014
+            ]
+        },
+        {
+            "comp": "Copa Intercontinental / Mundial de Clubes",
+            "n": 1,
+            "anios": [
+                1986
+            ]
+        },
+        {
+            "comp": "Supercopa Sudamericana",
+            "n": 1,
+            "anios": [
+                1997
+            ]
+        },
+        {
+            "comp": "Copa Interamericana",
+            "n": 1,
+            "anios": [
+                1987
+            ]
+        },
+        {
+            "comp": "Copa Aldao",
+            "n": 6,
+            "anios": [
+                1936,
+                1937,
+                1941,
+                1945,
+                1947,
+                1955
+            ]
+        },
+        {
+            "comp": "Copa Río de la Plata",
+            "n": 1,
+            "anios": [
+                1914
+            ]
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "pos": 1,
+            "nombre": "Ángel Amado Labruna",
+            "apodo": "Angelito",
+            "goles": 317,
+            "partidos": 515,
+            "periodo": "1939–1959",
+            "posicion": "Extremo izquierdo",
+            "obs": "Máximo goleador histórico. 16 goles en el Superclásico — récord. 10 títulos nacionales"
+        },
+        {
+            "pos": 2,
+            "nombre": "Oscar Más",
+            "apodo": "Pinino",
+            "goles": 219,
+            "partidos": 422,
+            "periodo": "1964–1976",
+            "posicion": "Extremo izquierdo",
+            "obs": "Máximo goleador Copa Libertadores 1966 con 17 goles — récord histórico vigente"
+        },
+        {
+            "pos": 3,
+            "nombre": "Bernabé Ferreyra",
+            "apodo": "El Mortero de Rufino",
+            "goles": 201,
+            "partidos": 195,
+            "periodo": "1932–1939",
+            "posicion": "Delantero",
+            "obs": "Único jugador argentino con más goles que partidos. Promedio: 1,03 goles/partido"
+        },
+        {
+            "pos": 4,
+            "nombre": "José Manuel Moreno",
+            "apodo": "El Charro",
+            "goles": 184,
+            "partidos": 341,
+            "periodo": "1935–1948",
+            "posicion": "Delantero / Interior",
+            "obs": "Integrante de La Máquina. IFFHS: 5° mejor sudamericano del siglo XX"
+        },
+        {
+            "pos": 5,
+            "nombre": "Norberto Alonso",
+            "apodo": "El Beto",
+            "goles": 149,
+            "partidos": 374,
+            "periodo": "1973–1984",
+            "posicion": "Mediocampista",
+            "obs": "Símbolo de la era 70s-80s. Talento inmenso, nunca ganó Libertadores"
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "pos": 1,
+            "nombre": "Reinaldo Merlo",
+            "apodo": "Mostaza",
+            "partidos": 563,
+            "posicion": "Mediocampista",
+            "periodo": "1969–1983",
+            "obs": "Récord histórico de presencias. Récord en Superclásicos con 42 partidos"
+        },
+        {
+            "pos": 2,
+            "nombre": "Amadeo Carrizo",
+            "partidos": 520,
+            "posicion": "Arquero",
+            "periodo": "1945–1968",
+            "obs": "Mejor arquero de la historia del fútbol argentino según IFFHS"
+        },
+        {
+            "pos": 3,
+            "nombre": "Ángel Labruna",
+            "apodo": "Angelito",
+            "partidos": 515,
+            "posicion": "Extremo izquierdo",
+            "periodo": "1939–1959",
+            "obs": "También el máximo goleador histórico"
+        },
+        {
+            "pos": 4,
+            "nombre": "Leonardo Ponzio",
+            "apodo": "El León",
+            "partidos": null,
+            "posicion": "Mediocampista",
+            "periodo": "2013–2022",
+            "obs": "Máximo ganador histórico del club con 17 títulos. Capitán de la era Gallardo"
+        },
+        {
+            "pos": 5,
+            "nombre": "Félix Loustau",
+            "partidos": 365,
+            "posicion": "Extremo izquierdo",
+            "periodo": "1942–1957",
+            "obs": "Integrante de La Máquina"
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Ángel Labruna",
+            "apodo": "Angelito",
+            "pos": "Extremo izquierdo",
+            "periodo": "1939–1959",
+            "desc": "Ídolo máximo. 317 goles — récord. 10 títulos. También DT campeón"
+        },
+        {
+            "nombre": "Bernabé Ferreyra",
+            "apodo": "El Mortero de Rufino",
+            "pos": "Delantero",
+            "periodo": "1932–1939",
+            "desc": "Primer gran ídolo. Fichaje más caro del mundo en su época. 201 goles en 195 partidos"
+        },
+        {
+            "nombre": "Amadeo Carrizo",
+            "pos": "Arquero",
+            "periodo": "1945–1968",
+            "desc": "Mejor arquero de la historia del fútbol argentino. 520 partidos"
+        },
+        {
+            "nombre": "Adolfo Pedernera",
+            "apodo": "El Maestro",
+            "pos": "Interior",
+            "periodo": "1935–1947",
+            "desc": "Cerebro de La Máquina. 143 goles. IFFHS: 12° mejor sudamericano del siglo XX"
+        },
+        {
+            "nombre": "José Manuel Moreno",
+            "apodo": "El Charro",
+            "pos": "Delantero",
+            "periodo": "1935–1948",
+            "desc": "IFFHS: 5° mejor sudamericano del siglo XX. Integrante de La Máquina"
+        },
+        {
+            "nombre": "Enzo Francescoli",
+            "apodo": "El Príncipe",
+            "pos": "Mediocampista / Delantero",
+            "periodo": "1983–1997",
+            "desc": "Ídolo de Zidane. Campeón Libertadores 1986. Retiro emotivo en su último partido"
+        },
+        {
+            "nombre": "Daniel Passarella",
+            "apodo": "El Kaiser",
+            "pos": "Defensor central",
+            "periodo": "1974–1982 / DT 1989–1994",
+            "desc": "Campeón Mundial 1978 y 1986. Goleador récord entre defensores"
+        },
+        {
+            "nombre": "Oscar Más",
+            "apodo": "Pinino",
+            "pos": "Extremo izquierdo",
+            "periodo": "1964–1976",
+            "desc": "219 goles. Récord Copa Libertadores 1966 (17 goles). Pasó por Real Madrid"
+        },
+        {
+            "nombre": "Marcelo Gallardo",
+            "apodo": "El Muñeco",
+            "pos": "Mediocampista / DT",
+            "periodo": "1994–1999 / DT 2014–2022",
+            "desc": "Como DT: 22 títulos — el más ganador de la historia del club. 5 Libertadores"
+        }
+    ],
+    "meta": {
+        "version": "1.0",
+        "datos_completos": true,
+        "ultima_actualizacion": "2026-03-24",
+        "pendientes": [
+            "Posiciones faltantes 1983-1990 (varios torneos)",
+            "Historial de rivales completo",
+            "Estadísticas detalladas por temporada"
+        ]
+    }
+}

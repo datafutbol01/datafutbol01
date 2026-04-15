@@ -1,0 +1,317 @@
+{
+  "id": "lazio",
+  "meta": {
+    "slug": "lazio"
+  },
+  "datos": {
+    "nombre_completo": "Società Sportiva Lazio S.p.A.",
+    "sigla": "LAZ",
+    "fundacion": "1900",
+    "apodo": "Los Blanquicelestes, Los Aguiluchos, Las Águilas",
+    "estadio_actual": "Stadio Olimpico di Roma",
+    "estadio_apodo": "Olimpico",
+    "estadio_capacidad": 70634,
+    "estadio_inauguracion": "17 de mayo de 1953",
+    "estadio_lat": 41.9339,
+    "estadio_lng": 12.4547,
+    "estadio_direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
+    "socios": 28000,
+    "descripcion_corta": "Entidad polideportiva originaria de Roma, reconocida por su histórico desempeño a nivel liguero logrando el título de Serie A en dos ocasiones, incluyendo la temporada de cambio de siglo.",
+    "paleta": [
+      {
+        "tag": "Celeste",
+        "hex": "#87ceeb"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ciro Immobile (207 goles)",
+      "mas_presencias": "Stefan Radu (427 partidos)",
+      "mayor_goleada": "9-1 vs Modena (1931)"
+    },
+    "nombre_oficial": "Società Sportiva Lazio",
+    "nombre_corto": "Lazio",
+    "escudo_actual": "/escudos_historicos/lazio/Stemma_della_Società_Sportiva_Lazio.svg"
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "Atletas en la Piazza della Libertà",
+      "desc": "El 9 de enero de 1900, lejos de los aristocráticos campos de césped y en el frío mármol de un banco público a orillas del río Tíber en la céntrica Piazza della Libertà de Roma, el suboficial de los Bersaglieri y atleta Luigi Bigiarelli convocó a un grupo de nueve deportistas y corredores romanos. Su ambición principal era sortear estatutos restrictivos de atletismo y poder competir legalmente. Constituyeron allí mismo la Società Podistica Lazio. Rechazando monopolizar el nombre de 'Roma', Bigiarelli adoptó el título de 'Lazio' para abarcar e integrar a toda la región extendida. Eligieron orgullosamente colores blancos y azules, inspirándose fuertemente y homenajeando el país de origen de los Juegos Olímpicos originarios de Grecia."
+    },
+    {
+      "ano": "1974",
+      "hito": "Primer Campeonato de Serie A del Club",
+      "desc": "Con el mando deportivo del exjugador y técnico Tommaso Maestrelli, la Società Sportiva Lazio alcanzó el Scudetto estadísticamente por delante de competidores como Juventus. El delantero centro, Giorgio Chinaglia, contribuyó funcionalmente como eje principal en los partidos, estableciendo un primer hito liguero."
+    },
+    {
+      "ano": "1999",
+      "hito": "Expansión Europea y Torneos UEFA",
+      "desc": "A lo largo de los noventa bajo la presidencia del grupo accionario de Sergio Cragnotti, el grupo sumó fichajes de impacto internacional y el entrenador Sven-Göran Eriksson. Ganaron la final en disputa por la Recopa de Europa ganándole en formato final al RCD Mallorca, seguido de la correspondiente Supercopa UEFA."
+    },
+    {
+      "ano": "2000",
+      "hito": "Segundo Scudetto en el Año de Aniversario",
+      "desc": "La plantilla obtuvo su segunda presea de liga finalizando el último partido con un marcador favorable contra la Juventus en días contiguos. Equipos integrados por centrocampistas de prestigio general como Juan Sebastián Verón afianzaron los logros del período."
+    },
+    {
+      "ano": "2013",
+      "hito": "Último Trofeo Copero Exclusivo contra AS Roma",
+      "desc": "Las dos representaciones principales de la ciudad se enfrentaron tácticamente en el marco de una final correspondiente a la Coppa Italia. El único gol y tanto diferencial del enfrentamiento fue señalado por el volante de banda Senad Lulić con marcador definitivo (1-0)."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Olimpico di Roma",
+      "capacidad": "70.634",
+      "inauguracion": "17 de mayo de 1953",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20dei%20Gladiatori%2C%2000135%20Roma%2C%20Lacio",
+      "direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Olimpico."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1900,
+      "hasta": null,
+      "c1": "#7ec1e8",
+      "c2": "#7ec1e8",
+      "sh": "#ffffff",
+      "me": "#7ec1e8",
+      "tipo": "liso",
+      "desc": "Con honorabilidades alusivas y olímpicas originales de Grecia como principal motivo del equipo atlético, su modelo fundacional consiste invariablemente a través de las décadas en un color cielo o celeste de base totalmente plana o lisa."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Giorgio Chinaglia",
+      "periodo": "1969-1976",
+      "pos": "Delantero",
+      "desc": "Carismático icono ofensivo temperamental idolatrado en demasía por parte estricta sectorial del pasional graderío olímpico a fines formales de los setenta. Pieza vital abrumadora e indiscutida en aquella consagratoria primera conquista heroica del legendario título doméstico nacional disputando las mayores lides de jerarquía."
+    },
+    {
+      "nombre": "Alessandro Nesta",
+      "periodo": "1993-2002",
+      "pos": "Defensor",
+      "desc": "Imponente zaguero e insoslayable producto originario surgido impecablemente de sus propias divisiones básicas en la academia de formación. De estirpe imperial, comandó una impenetrable e impenetrable estructura defensiva asombrosa guiando asertivamente por pasillos al formal equipo ganador de la liga del 2000."
+    },
+    {
+      "nombre": "Silvio Piola",
+      "periodo": "1934-1943",
+      "pos": "Delantero",
+      "desc": "Ariete letal y contundente sin parangón en el historial general formal del certamen nacional italiano. En su etapa lazial dictaminó registros irrepetibles imponiendo brutalmente sus cifras máximas estatuarias de goleador total oficial para este icónico conjunto del norte de la estricta urbe romana."
+    },
+    {
+      "nombre": "Ciro Immobile",
+      "periodo": "2016-2024",
+      "pos": "Delantero",
+      "desc": "Artillero abrumador originario del siglo actual. Batió por largo la mítica cantidad acumulativa formal en la parte delantera consagrándose férreamente repetidas campañas completas en un goleador rotundo del afamado 'Capocannoniere' a base letal de resolución y contundencia directa incontestable."
+    },
+    {
+      "nombre": "Pavel Nedvěd",
+      "periodo": "1996-2001",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1996-2001, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ciro Immobile",
+      "goles": 207,
+      "periodo": "2016-2024",
+      "partidos": 340,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 207 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2024."
+    },
+    {
+      "nombre": "Silvio Piola",
+      "goles": 149,
+      "periodo": "1934-1943",
+      "partidos": 227,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1943."
+    },
+    {
+      "nombre": "Giuseppe Signori",
+      "goles": 127,
+      "periodo": "1992-1997",
+      "partidos": 195,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 127 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-1997."
+    },
+    {
+      "nombre": "Giorgio Chinaglia",
+      "goles": 122,
+      "periodo": "1969-1976",
+      "partidos": 263,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 122 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1976."
+    },
+    {
+      "nombre": "Bruno Giordano",
+      "goles": 108,
+      "periodo": "1975-1985",
+      "partidos": 258,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1985."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Stefan Radu",
+      "partidos": 427,
+      "periodo": "2008-2023",
+      "goles": 8,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2023."
+    },
+    {
+      "nombre": "Giuseppe Favalli",
+      "partidos": 401,
+      "periodo": "1992-2004",
+      "goles": 6,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 401 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2004."
+    },
+    {
+      "nombre": "Giuseppe Wilson",
+      "partidos": 394,
+      "periodo": "1969-1980",
+      "goles": 6,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1980."
+    },
+    {
+      "nombre": "Paolo Negro",
+      "partidos": 376,
+      "periodo": "1993-2005",
+      "goles": 24,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 376 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2005."
+    },
+    {
+      "nombre": "Senad Lulic",
+      "partidos": 371,
+      "periodo": "2011-2021",
+      "goles": 34,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 371 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-2021."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 2,
+      "anios": [
+        "1973-74",
+        "1999-00"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 7,
+      "anios": [
+        "1958",
+        "1997-98",
+        "1999-00",
+        "2003-04",
+        "2008-09",
+        "2012-13",
+        "2018-19"
+      ]
+    },
+    {
+      "nombre": "Supercoppa Italiana",
+      "cantidad": 5,
+      "anios": [
+        "1998",
+        "2000",
+        "2009",
+        "2017",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1998-99"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1999"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 1,
+      "anios": [
+        "1968-69"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1900",
+      "url": "/escudos_historicos/lazio/Lazio_SS_1900_Old_29.webp"
+    },
+    {
+      "ano": "1912",
+      "url": "/escudos_historicos/lazio/Stemma_Lazio_1909-1912.webp"
+    },
+    {
+      "ano": "1914",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_SS_1914.webp"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/lazio/Stemma_SP_Lazio_1920.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1921.webp"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1927.webp"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1940.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1941.webp"
+    },
+    {
+      "ano": "1958",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1958.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1974.webp"
+    },
+    {
+      "ano": "1982-1987",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_-_1982-1987.webp"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1979_-_1982.webp"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/lazio/Stemma_SS_Lazio_1987.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/lazio/Stemma_della_Società_Sportiva_Lazio.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Biancocelesti",
+      "origen": "Adoptado como derivación cromática explícita por su líder fundador Luigi Bigiarelli a fines del siglo XIX. Decidió como tributo utilizar los colores celeste y blanco emulando deportivamente los limpios ropajes de los pioneros fundadores portados en los originarios Juegos Olímpicos decimonónicos disputados en la mítica plaza de Atenas."
+    },
+    {
+      "apodo": "Le Aquile",
+      "origen": "Originado como tributo del majestuoso símbolo fundacional concebido para referir poder militar, civil e imperial. Sellaron su identidad deportiva insertando firmemente al centro exacto del escudo civil a un águila imperial, rindiendo de este modo asimilación gráfica ineludible a las legendarias y temibles y victoriosas legiones imperiales romanas clásicas."
+    }
+  ]
+}

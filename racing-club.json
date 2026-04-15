@@ -1,0 +1,1186 @@
+{
+    "id": "racing-club",
+    "datos": {
+        "nombre_oficial": "Racing Club",
+        "nombre_corto": "Racing Club",
+        "apodos": [
+            "La Academia",
+            "El Primer Grande",
+            "La Academia de Football Nacional"
+        ],
+        "fundacion": "1903-03-25",
+        "ciudad": "Avellaneda",
+        "barrio": "Avellaneda",
+        "pais": "Argentina",
+        "estadio_actual": "Estadio Presidente Perón",
+        "estadio_apodo": "El Cilindro",
+        "estadio_capacidad": 55880,
+        "estadio_inauguracion": "1950-09-03",
+        "estadio_lat": -34.6604,
+        "estadio_lng": -58.3672,
+        "estadio_direccion": "Mozart y Oreste Corbatta 1870, Avellaneda",
+        "debut_primera": 1908
+    },
+    "historia": [
+        "El 25 de marzo de 1903, en la Feria de Ganado de Avellaneda, la fusión de 'Barracas al Sur FC' y 'Colorados Unidos' dio origen al Racing Football Club. El nombre fue tomado de una revista francesa de automovilismo. Es el primer club de fútbol argentino fundado íntegramente por criollos y adoptó los colores celeste y blanco como homenaje a la bandera nacional.",
+        "Entre 1913 y 1919 ganó siete campeonatos consecutivos, convirtiéndose en el único heptacampeón del mundo fuera de Europa —hazaña compartida solo con Olympique de Lyon, Juventus y Bayern Múnich—. El equipo de Alberto Ohaco, primer gran goleador histórico con 244 tantos, dominó el fútbol argentino de forma absoluta. Ese dominio le valió el apodo de 'La Academia de Football Nacional'.",
+        "El 'Equipo de José' (1966-1967) es el hito más grande de la historia del club. Bajo la dirección de Juan José Pizzuti, con figuras como Corbatta, Perfumo, Basile, Maschio y Cárdenas, ganó el campeonato local de 1966 y se convirtió en el primer club argentino campeón del mundo al vencer a Celtic en la Copa Intercontinental. El partido en el Cilindro convocó 120.000 espectadores — récord histórico del fútbol argentino.",
+        "El 18 de diciembre de 1983 vivió el momento más trágico: cayó ante Racing de Córdoba 4-3 y descendió a Primera B por primera y única vez en su historia, tras 73 años ininterrumpidos en Primera. En 1985, con Alfio Basile como DT, ascendió. En 1999 estuvo al borde de la quiebra total — la ley 25.284 de fideicomiso para clubes salvó su existencia.",
+        "El siglo XXI trajo el renacimiento. En 2001, con Diego Milito como figura y Mostaza Merlo como DT, ganó el Apertura tras 35 años de sequía. En 2019 y 2024 sumó dos títulos más. La Copa Sudamericana 2024 bajo la conducción de Gustavo Costas fue el primer título internacional en 57 años, ante Cruzeiro (3-1 en Asunción)."
+    ],
+    "canchas": [
+        {
+            "nombre": "Cancha de Alsina y Colón",
+            "desde": 1903,
+            "hasta": 1950,
+            "ciudad": "Avellaneda",
+            "obs": "Primer estadio histórico. Llegó a albergar 50.000 personas. Terreno ferroviario alquilado, comprado en 1944. Demolido para construir El Cilindro",
+            "lat": -34.6604,
+            "lng": -58.3672
+        },
+        {
+            "nombre": "Estadio Presidente Perón",
+            "desde": 1950,
+            "hasta": null,
+            "ciudad": "Avellaneda",
+            "obs": "Inaugurado el 3/9/1950 vs Vélez Sársfield (1-0, Simes primer gol). El más curioso: a dos cuadras del estadio de Independiente, su clásico rival. Récord de asistencia: 120.000 espectadores en la Copa Intercontinental 1967 vs Celtic. 1.er estadio argentino con techo translúcido (1997)",
+            "lat": -34.6604,
+            "lng": -58.3672
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1903,
+            "hasta": null,
+            "desc": "Celeste y blanco — bastones verticales iguales, adoptados como homenaje a los colores de la bandera argentina",
+            "c1": "#75AADB",
+            "c2": "#FFFFFF",
+            "dis": "bastones_verticales",
+            "sh": "#0D1B4B",
+            "me": "#75AADB",
+            "ac1": "#0D1B4B",
+            "ash": "#0D1B4B",
+            "ame": "#0D1B4B"
+        }
+    ],
+    "temporadas": [
+        {
+            "anio": 1908,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Debut en Primera División"
+        },
+        {
+            "anio": 1913,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 1er título. Inicio del heptacampeonato. Ohaco goleador con 20 tantos"
+        },
+        {
+            "anio": 1914,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — bicampeón"
+        },
+        {
+            "anio": 1915,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — tricampeón. 23G-2E. 96 GF - 5 GC. Ohaco 31 goles"
+        },
+        {
+            "anio": 1916,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — tetracampeón. Único equipo argentino en lograrlo"
+        },
+        {
+            "anio": 1917,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — pentacampeón"
+        },
+        {
+            "anio": 1918,
+            "torneo": "Campeonato de Primera División (AAF)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — hexacampeón"
+        },
+        {
+            "anio": 1919,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN con puntaje ideal — heptacampeón. Récord mundial de campeonatos consecutivos"
+        },
+        {
+            "anio": 1920,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1921,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 8° título amateur"
+        },
+        {
+            "anio": 1922,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1923,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1924,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1925,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — 9° y último título amateur"
+        },
+        {
+            "anio": 1926,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1927,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1928,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1929,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1930,
+            "torneo": "Campeonato de Primera División (A.Amat.F.)",
+            "div": "1ª"
+        },
+        {
+            "anio": 1931,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón del 1er torneo profesional"
+        },
+        {
+            "anio": 1932,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "River Plate campeón"
+        },
+        {
+            "anio": 1933,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "San Lorenzo campeón"
+        },
+        {
+            "anio": 1934,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors campeón"
+        },
+        {
+            "anio": 1935,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Boca Juniors bicampeón"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa Campeonato / Copa de Oro / Copa de Honor",
+            "div": "1ª"
+        },
+        {
+            "anio": 1937,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "River Plate campeón"
+        },
+        {
+            "anio": 1938,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1939,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1940,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1941,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1942,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1943,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1944,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1945,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1946,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1947,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1948,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1949,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — fin de sequía de 24 años. DT Guillermo Stábile. Inicio del tricampeonato profesional"
+        },
+        {
+            "anio": 1950,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — bicampeón. Inauguración del Cilindro (3/9/1950)"
+        },
+        {
+            "anio": 1951,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — tricampeón profesional. 1er tricampeón del fútbol profesional argentino. Desempate vs Banfield"
+        },
+        {
+            "anio": 1952,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "River Plate campeón"
+        },
+        {
+            "anio": 1953,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1954,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1955,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (River Plate campeón)"
+        },
+        {
+            "anio": 1956,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1957,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1958,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. DT José Della Torre. Corbatta ídolo. Debut de Pizzuti"
+        },
+        {
+            "anio": 1959,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1960,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1961,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN. DT Saúl Ongaro. 3-2 vs San Lorenzo en el Cilindro ante 90.000 espectadores"
+        },
+        {
+            "anio": 1962,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1963,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1964,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1965,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "DT Juan José Pizzuti asume. Comienza a armar el Equipo de José"
+        },
+        {
+            "anio": 1966,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 38,
+            "g": 24,
+            "e": 13,
+            "pp": 1,
+            "pts": 61,
+            "obs": "CAMPEÓN. Solo 1 derrota en 38 partidos. 39 partidos sin perder antes — récord. Copa Libertadores 1967 — CAMPEÓN"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Estudiantes LP campeón). Copa Intercontinental 1967 — CAMPEÓN vs Celtic. 120.000 en el Cilindro — récord histórico del fútbol argentino"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "Metro 1975: 91 goles en contra — campaña catastrófica"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "obs": "El Cilindro cerrado por falta de mantenimiento (17/5/1981). Racing juega en estadios ajenos hasta 1983"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Metropolitano",
+            "div": "1ª"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Nacional",
+            "div": "1ª"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Metropolitano",
+            "div": "1ª",
+            "desc": true,
+            "obs": "DESCENSO a Primera B — 18/12/1983 cayó vs Racing de Córdoba 4-3. 73 años ininterrumpidos en Primera terminaron. DT Pizzuti"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Campeonato de Primera B",
+            "div": "Primera B"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Campeonato de Primera B",
+            "div": "Primera B",
+            "pos": 1,
+            "camp": true,
+            "obs": "ASCENSO — DT Alfio 'Coco' Basile. 27/12/1985: empate vs Atlanta en el Monumental — promovido"
+        },
+        {
+            "anio": 1986,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª",
+            "obs": "Regreso a Primera. Supercopa Sudamericana 1988 — CAMPEÓN"
+        },
+        {
+            "anio": 1987,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1988,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1989,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1990,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "obs": "Crisis total: Daniel Lalín pide la quiebra del club. La ley 25.284 de fideicomiso salva la institución"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "pos": 5,
+            "obs": "Clausura 2001: 5° (San Lorenzo campeón con récord)"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Apertura",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "pj": 19,
+            "g": 12,
+            "e": 6,
+            "pp": 1,
+            "pts": 42,
+            "obs": "CAMPEÓN Apertura 2001 — fin de 35 años de sequía. DT Mostaza Merlo. Diego Milito figura. Vuelta olímpica en Vélez ante 30.000 propios + 30.000 en el Cilindro mirando en pantalla"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Clausura",
+            "div": "1ª",
+            "obs": "Racing jugó la promoción vs Belgrano de Córdoba — salvó la categoría"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Apertura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Clausura",
+            "div": "1ª"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Torneo Inicial",
+            "div": "1ª"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Final",
+            "div": "1ª"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Inicial",
+            "div": "1ª"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Final",
+            "div": "1ª"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Transición",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Transición 2014. DT Diego Cocca. Diego Milito volvió y fue clave. Último torneo con 20 equipos"
+        },
+        {
+            "anio": 2015,
+            "torneo": "Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 2016,
+            "torneo": "Primera División",
+            "div": "1ª"
+        },
+        {
+            "anio": 2017,
+            "torneo": "Superliga Argentina",
+            "div": "1ª"
+        },
+        {
+            "anio": 2018,
+            "torneo": "Superliga Argentina",
+            "div": "1ª"
+        },
+        {
+            "anio": 2019,
+            "torneo": "Superliga Argentina",
+            "div": "1ª",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Superliga 2018/19. Primer equipo líder de inicio a fin. Lautaro Martínez figura antes de irse al Inter"
+        },
+        {
+            "anio": 2020,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2021,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2022,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "pos": 2,
+            "obs": "Subcampeón (Boca Juniors campeón). Copa Sudamericana 2024 — CAMPEÓN vs Cruzeiro 3-1"
+        },
+        {
+            "anio": 2023,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª"
+        },
+        {
+            "anio": 2024,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª",
+            "obs": "Copa Sudamericana 2024 — CAMPEÓN (3-1 vs Cruzeiro en Asunción, 24/11/2024). DT Gustavo Costas"
+        },
+        {
+            "anio": 2025,
+            "torneo": "Liga Profesional — Apertura/Clausura",
+            "div": "1ª",
+            "obs": "Recopa Sudamericana 2025 — CAMPEÓN (4-0 vs Botafogo). Copa Libertadores — semifinalista"
+        }
+    ],
+    "titulos": [
+        {
+            "comp": "Campeonato de Primera División (Amateur)",
+            "n": 9,
+            "anios": [
+                1913,
+                1914,
+                1915,
+                1916,
+                1917,
+                1918,
+                1919,
+                1921,
+                1925
+            ],
+            "obs": "7 consecutivos (récord mundial) + 2 más"
+        },
+        {
+            "comp": "Campeonato de Primera División (Profesional)",
+            "n": 9,
+            "anios": [
+                1949,
+                1950,
+                1951,
+                1958,
+                1961,
+                1966,
+                2001,
+                2014,
+                2019
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera B Nacional",
+            "n": 1,
+            "anios": [
+                1985
+            ]
+        },
+        {
+            "comp": "Copa Libertadores",
+            "n": 1,
+            "anios": [
+                1967
+            ]
+        },
+        {
+            "comp": "Copa Intercontinental",
+            "n": 1,
+            "anios": [
+                1967
+            ]
+        },
+        {
+            "comp": "Copa Sudamericana",
+            "n": 1,
+            "anios": [
+                2024
+            ]
+        },
+        {
+            "comp": "Supercopa Sudamericana",
+            "n": 1,
+            "anios": [
+                1988
+            ]
+        },
+        {
+            "comp": "Recopa Sudamericana",
+            "n": 1,
+            "anios": [
+                2025
+            ]
+        },
+        {
+            "comp": "Copa Aldao",
+            "n": 2,
+            "anios": [
+                1917,
+                1918
+            ]
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "pos": 1,
+            "nombre": "Alberto Ohaco",
+            "goles": 244,
+            "partidos": null,
+            "periodo": "1906–1920",
+            "posicion": "Delantero",
+            "obs": "Máximo goleador histórico. Goleador de campeonato 4 veces consecutivas (1912-1915). Surgido en el barrio de Avellaneda"
+        },
+        {
+            "pos": 2,
+            "nombre": "Alberto Marcovecchio",
+            "goles": 207,
+            "partidos": null,
+            "periodo": "1909–1922",
+            "posicion": "Delantero",
+            "obs": "2° goleador histórico. 9 veces máximo goleador de copas nacionales. Récord de 32 goles en una temporada (1913)"
+        },
+        {
+            "pos": 3,
+            "nombre": "Alberico Zabaleta",
+            "goles": 141,
+            "partidos": null,
+            "periodo": "1910–1923",
+            "posicion": "Delantero",
+            "obs": "3° goleador histórico. Goleador de campeonato en 1918 y 1921"
+        },
+        {
+            "pos": 4,
+            "nombre": "Juan José Pizzuti",
+            "apodo": "El Gitano",
+            "goles": 136,
+            "partidos": null,
+            "periodo": "1952–1962",
+            "posicion": "Delantero",
+            "obs": "Máximo goleador del profesionalismo. Luego DT del Equipo de José y campeón mundial"
+        },
+        {
+            "pos": 5,
+            "nombre": "Norberto Raffo",
+            "apodo": "El Toro",
+            "goles": null,
+            "partidos": null,
+            "periodo": "1964–1972",
+            "posicion": "Delantero",
+            "obs": "Goleador de la Copa Libertadores 1967 con 14 tantos — récord histórico de esa edición"
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "pos": 1,
+            "nombre": "Gustavo Costas",
+            "apodo": "El Toro",
+            "partidos": 337,
+            "posicion": "Defensor central",
+            "periodo": "1981–1995",
+            "obs": "Máximo presencista del profesionalismo con 337 partidos. Vivió el descenso de 1983 y el ascenso de 1985. Luego DT campeón de la Copa Sudamericana 2024"
+        },
+        {
+            "pos": 2,
+            "nombre": "Roberto Perfumo",
+            "apodo": "El Mariscal",
+            "partidos": 232,
+            "posicion": "Defensor central",
+            "periodo": "1960–1971",
+            "obs": "El mejor zaguero de la historia del fútbol argentino según la AFA. Dupla histórica con Basile"
+        },
+        {
+            "pos": 3,
+            "nombre": "Oreste Corbatta",
+            "apodo": "El Loco",
+            "partidos": 195,
+            "posicion": "Extremo derecho",
+            "periodo": "1955–1962",
+            "obs": "Considerado el mejor extremo derecho de la historia argentina. Campeón 1958 y 1961"
+        },
+        {
+            "pos": 4,
+            "nombre": "Alfio Basile",
+            "apodo": "El Coco",
+            "partidos": null,
+            "posicion": "Defensor central",
+            "periodo": "1964–1974",
+            "obs": "Dupla histórica con Perfumo en el Equipo de José. Luego DT del ascenso de 1985 y de la Selección Nacional"
+        },
+        {
+            "pos": 5,
+            "nombre": "Rubén Díaz",
+            "apodo": "El Panadero",
+            "partidos": null,
+            "posicion": "Extremo / Volante",
+            "periodo": "1969–1981 y 1982–1984",
+            "obs": "Dos ciclos en el club. Gran referente de los 70s"
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Juan José Pizzuti",
+            "apodo": "El Gitano",
+            "pos": "Delantero / DT",
+            "periodo": "1952–1962 / DT 1965–1968",
+            "desc": "El ídolo máximo. Campeón como jugador y como DT del primer equipo argentino campeón del mundo (1967)"
+        },
+        {
+            "nombre": "Alberto Ohaco",
+            "pos": "Delantero",
+            "periodo": "1906–1920",
+            "desc": "Máximo goleador histórico con 244 tantos. Alma del heptacampeonato. Goleador 4 años consecutivos"
+        },
+        {
+            "nombre": "Oreste Corbatta",
+            "apodo": "El Loco",
+            "pos": "Extremo derecho",
+            "periodo": "1955–1962",
+            "desc": "El mejor puntero derecho de la historia argentina. Campeón 1958 y 1961. Copa América 1957 y 1959"
+        },
+        {
+            "nombre": "Roberto Perfumo",
+            "apodo": "El Mariscal",
+            "pos": "Defensor central",
+            "periodo": "1960–1971",
+            "desc": "Mejor zaguero de la historia del fútbol argentino según la AFA. Dupla legendaria con Basile en el Equipo de José"
+        },
+        {
+            "nombre": "Alfio Basile",
+            "apodo": "El Coco",
+            "pos": "Defensor central / DT",
+            "periodo": "1964–1974 / DT 1985",
+            "desc": "Defensor del Equipo de José y DT del histórico ascenso de 1985. Luego DT de la Selección Argentina"
+        },
+        {
+            "nombre": "Juan Carlos Cárdenas",
+            "apodo": "El Chango",
+            "pos": "Delantero",
+            "periodo": "1958–1970",
+            "desc": "Autor del gol histórico en la Copa Intercontinental 1967 que definió el tricampeonato mundial ante Celtic"
+        },
+        {
+            "nombre": "Gustavo Costas",
+            "apodo": "El Toro",
+            "pos": "Defensor / DT",
+            "periodo": "1981–1995 / DT 2024–",
+            "desc": "337 partidos — récord del profesionalismo. Vivió el descenso y el ascenso. Como DT ganó la Copa Sudamericana 2024"
+        },
+        {
+            "nombre": "Diego Milito",
+            "apodo": "El Príncipe",
+            "pos": "Delantero / Presidente",
+            "periodo": "1999–2004; 2014–2016",
+            "desc": "Figura del Apertura 2001 (fin de 35 años de sequía) y del Transición 2014. Actual presidente del club"
+        },
+        {
+            "nombre": "Norberto Raffo",
+            "apodo": "El Toro",
+            "pos": "Delantero",
+            "periodo": "1964–1972",
+            "desc": "Goleador histórico de la Copa Libertadores 1967 con 14 goles — récord de una edición"
+        }
+    ],
+    "meta": {
+        "version": "1.0",
+        "datos_completos": true,
+        "ultima_actualizacion": "2026-03-24",
+        "pendientes": [
+            "Posiciones exactas 1931-1948, 1952-1965, 1967-2000 (varios torneos)",
+            "Historial de rivales completo",
+            "Estadísticas detalladas por temporada"
+        ]
+    }
+}

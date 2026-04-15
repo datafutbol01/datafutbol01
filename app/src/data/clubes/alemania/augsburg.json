@@ -1,0 +1,244 @@
+{
+  "id": "augsburg",
+  "meta": {
+    "slug": "augsburg"
+  },
+  "datos": {
+    "nombre_completo": "Fußball-Club Augsburg 1907 e. V.",
+    "nombre_oficial": "FC Augsburg",
+    "nombre_corto": "FC Augsburg",
+    "apodo": "Fuggerstädter (Los Ciudadanos de Fugger)",
+    "fundacion": "1907",
+    "estadio_actual": "WWK Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 30660,
+    "estadio_inauguracion": "2009",
+    "estadio_direccion": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Alemania",
+    "estadio_lat": 48.3225,
+    "estadio_lng": 10.8808,
+    "escudo_actual": "/escudos/augsburg.webp",
+    "sigla": "FCA",
+    "socios": 22000,
+    "descripcion_corta": "Histórico club deportivo fundado en 1969 en la región de Suabia y Baviera.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#D3081E"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#007A3B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Daniel Baier",
+      "mas_presencias": "Daniel Baier",
+      "mayor_goleada": "6-0 vs Stuttgart (2019)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1907",
+      "hito": "Fundación y la Fusión Estratégica",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1969",
+      "hito": "Fusión Definitiva con el TSV Schwaben",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2011",
+      "hito": "Ascenso Histórico a la Élite Nacional",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2015",
+      "hito": "La Increíble Gesta Europea y la Quinta Plaza",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2016",
+      "hito": "Debut Internacional ante el Rey de Anfield",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Rosenaustadion",
+      "capacidad": "32.354",
+      "inauguracion": "1951",
+      "url": "https://www.google.com/maps/search/?api=1&query=Stadionstr.%2021%2C%2086159%20Augsburg%2C%20Alemania",
+      "direccion": "Stadionstr. 21, 86159 Augsburg, Alemania",
+      "descripcion": "El histórico recinto fundacional del FC Augsburg, utilizado sin interrupciones desde la época de posguerra hasta su mudanza en 2009. Fue el estadio atlético de contención para forjar su camino al profesionalismo.",
+      "lat": 48.3582,
+      "lng": 10.8752
+    },
+    {
+      "nombre": "WWK Arena (Schwabenstadion)",
+      "capacidad": "30.660",
+      "inauguracion": "2009",
+      "url": "https://www.google.com/maps/search/?api=1&query=B%C3%BCrgermeister-Ulrich-Stra%C3%9Fe%2090%2C%2086199%20Augsburg%2C%20Alemania",
+      "direccion": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Alemania",
+      "descripcion": "Fortaleza moderna con paneles brillantes entrelazada firmemente en la campiña bávara del sur.",
+      "lat": 48.3225,
+      "lng": 10.8808
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1907,
+      "hasta": 1968,
+      "c1": "#00529b",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#ffffff",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1969,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ba0c2f",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Daniel Baier",
+      "periodo": "2008-2020",
+      "pos": "Mediocampista",
+      "desc": "Histórico mediocampista central del equipo. Disputó una larga trayectoria siendo titular indiscutido y posee el récord de mayor cantidad de presencias en Primera."
+    },
+    {
+      "nombre": "Paul Verhaegh",
+      "periodo": "2010-2017",
+      "pos": "Defensor / Lateral",
+      "desc": "Defensor y capitán neerlandés. Lideró a sus compañeros en la cancha logrando históricas participaciones internacionales y asegurando a la plantilla en la máxima categoría."
+    },
+    {
+      "nombre": "Halil Altıntop",
+      "periodo": "2013-2017",
+      "pos": "Mediocampista",
+      "desc": "Atacante turco de amplia trayectoria en Alemania. Aportó goles decisivos para lograr el establecimiento sólido de la institución en torneos de la Bundesliga."
+    },
+    {
+      "nombre": "Tobias Werner",
+      "periodo": "2008-2016",
+      "pos": "Extremo / Mediocampista",
+      "desc": "Extremo fundamental apoyando el ascenso del club. Se convirtió en el principal asistidor histórico de la institución a lo largo de campañas firmes y estables."
+    },
+    {
+      "nombre": "Jeffrey Gouweleeuw",
+      "periodo": "2016-Act",
+      "pos": "Defensor",
+      "desc": "Capitán firme originario de los Países Bajos. Registró un alto número de titularidades en posiciones defensivas para consolidar un sólido bloque estadístico oficial."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Tobias Werner",
+      "goles": 46,
+      "periodo": "2008-2016",
+      "partidos": 208,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2016."
+    },
+    {
+      "nombre": "Alfred Finnbogason",
+      "goles": 39,
+      "periodo": "2016-2022",
+      "partidos": 122,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 39 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2022."
+    },
+    {
+      "nombre": "André Hahn",
+      "goles": 32,
+      "periodo": "2013-2023",
+      "partidos": 171,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 32 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2023."
+    },
+    {
+      "nombre": "Florian Niederlechner",
+      "goles": 30,
+      "periodo": "2019-2023",
+      "partidos": 107,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 30 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
+    },
+    {
+      "nombre": "Michael Gregoritsch",
+      "goles": 29,
+      "periodo": "2017-2022",
+      "partidos": 129,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 29 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Daniel Baier",
+      "partidos": 355,
+      "periodo": "2008-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 355 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2020."
+    },
+    {
+      "nombre": "Jeffrey Gouweleeuw",
+      "partidos": 228,
+      "periodo": "2016-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 228 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-Act."
+    },
+    {
+      "nombre": "Tobias Werner",
+      "partidos": 208,
+      "periodo": "2008-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 208 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2016."
+    },
+    {
+      "nombre": "Paul Verhaegh",
+      "partidos": 207,
+      "periodo": "2010-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 207 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-2017."
+    },
+    {
+      "nombre": "Jan-Ingwer Callsen-Bracker",
+      "partidos": 142,
+      "periodo": "2011-2019",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 142 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-2019."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/augsburg/FCA-Wappen2.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/augsburg/Augsburg_FC_old.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/augsburg/BC_Augsburg_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/augsburg.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Fuggerstädter",
+      "origen": "Gentilicio natural e identitario impuesto de base para acoplar la magna herencia comercial originaria bátava y germana. Alude honoríficamente rindiendo asimilación masiva a la poderosa dinastía banquera y burguesa de los Fugger, quienes forjaron y moldearon económica y geográficamente la ciudad bávara en todos sus dominios cívicos."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "mainz-05",
+  "meta": {
+    "slug": "mainz-05"
+  },
+  "datos": {
+    "nombre_completo": "1. Fußball- und Sportverein Mainz 05 e. V.",
+    "nombre_oficial": "1. FSV Mainz 05",
+    "nombre_corto": "Mainz 05",
+    "apodo": "Die Nullfünfer (Los del 05) / Karnevalsverein",
+    "fundacion": "1905",
+    "estadio_actual": "Mewa Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 33305,
+    "estadio_inauguracion": "2011",
+    "estadio_direccion": "Eugen-Salomon-Straße 1, 55128 Mainz, Alemania",
+    "estadio_lat": 49.9839,
+    "estadio_lng": 8.2241,
+    "escudo_actual": "/escudos/mainz-05.webp",
+    "sigla": "M05",
+    "socios": 14000,
+    "descripcion_corta": "Equipo de la capital de Renania-Palatinado, conocido por ser cuna de entrenadores europeos modernos.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#D31245"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Michael Thurk (65)",
+      "mas_presencias": "Nikolče Noveski (348)",
+      "mayor_goleada": "5-0 vs SC Paderborn"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Nacimiento y Asentamiento en el Histórico Café Neuf",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1982",
+      "hito": "Abandono Voluntario del Profesionalismo",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2004",
+      "hito": "Ascenso Definitorio Orquestado Por Jürgen Klopp",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2011",
+      "hito": "Arranque Estadístico Récord al Mando de Tuchel",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2016",
+      "hito": "Pase Definido a la Europa League Dirigidos por Schmidt",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadion am Bruchweg",
+      "capacidad": "18.000",
+      "inauguracion": "1929",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr.-Martin-Luther-King-Weg%2C%2055122%20Mainz%2C%20Alemania",
+      "direccion": "Dr.-Martin-Luther-King-Weg, 55122 Mainz, Alemania",
+      "descripcion": "El bastión primario histórico de Maguncia. Fue escenario vital bajo el estratega Klopp durante sus escaladas hasta la muda a la MEWA Arena oficial en el nuevo milenio.",
+      "lat": 49.9997,
+      "lng": 8.2435
+    },
+    {
+      "nombre": "Mewa Arena (Opel Arena)",
+      "capacidad": "33.305",
+      "inauguracion": "2011",
+      "url": "https://www.google.com/maps/search/?api=1&query=Eugen-Salomon-Stra%C3%9Fe%201%2C%2055128%20Mainz%2C%20Alemania",
+      "direccion": "Eugen-Salomon-Straße 1, 55128 Mainz, Alemania",
+      "descripcion": "Iniciando como Coface Arena, las orillas carnavalescas crearon este foso infernal rojo que ha desbaratado con sudor inmensas hazañas y promesas.",
+      "lat": 49.9839,
+      "lng": 8.2241
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": null,
+      "c1": "#ed1c24",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ed1c24",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Nikolce Noveski",
+      "periodo": "2004-2015",
+      "pos": "Defensor",
+      "desc": "Experimentado zaguero balcánico de labor estable. Lideró durante decenas asiduas de campeonatos siendo portador firme sumando marcas inamovibles estables locales."
+    },
+    {
+      "nombre": "Dimo Wache",
+      "periodo": "1995-2010",
+      "pos": "Arquero",
+      "desc": "Guardameta y gran capitán atajador que garantizó constantes ascensos originando estabilizaciones plenas logrando un récord sumamente abultado y continuo protegiendo arquería alemana."
+    },
+    {
+      "nombre": "Jürgen Klopp",
+      "periodo": "1990-2001",
+      "pos": "Defensor / Delantero",
+      "desc": "Delantero reciclado como valioso defensor. Acumuló numerosas cifras asumiendo un cargo y estadía oficial continua previo asertivo inicio oficial originario firme consolidado de dirección estelar."
+    },
+    {
+      "nombre": "Yunus Malli",
+      "periodo": "2011-2016",
+      "pos": "Mediocampista",
+      "desc": "Hábil volante creador y asistidor que apoyó asertivo lograr grandes certámenes alemanes sumando victorias liderando a nivel nacional hasta alcanzar las posiciones superiores formativas continentales absolutas de Europa."
+    },
+    {
+      "nombre": "Elkin Soto",
+      "periodo": "2007-2016",
+      "pos": "Mediocampista",
+      "desc": "Mediocentro sudamericano que ejerció sólidas contiendas. Ostentó y logró un firme récord participativo demostrando incondicional aseveración logrando superar graves linderas contundentes asiduidades físicas absolutas formativas regulares."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Michael Thurk",
+      "goles": 59,
+      "periodo": "1999-2006",
+      "partidos": 192,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2006."
+    },
+    {
+      "nombre": "Jürgen Klopp",
+      "goles": 56,
+      "periodo": "1990-2001",
+      "partidos": 340,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 56 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-2001."
+    },
+    {
+      "nombre": "Karim Onisiwo",
+      "goles": 33,
+      "periodo": "2016-Act",
+      "partidos": 222,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 33 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-Act."
+    },
+    {
+      "nombre": "Yunus Malli",
+      "goles": 32,
+      "periodo": "2011-2016",
+      "partidos": 146,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 32 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2016."
+    },
+    {
+      "nombre": "Yoshinori Muto",
+      "goles": 23,
+      "periodo": "2015-2018",
+      "partidos": 72,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 23 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2018."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Dimo Wache",
+      "partidos": 406,
+      "periodo": "1995-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 406 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2010."
+    },
+    {
+      "nombre": "Nikolce Noveski",
+      "partidos": 348,
+      "periodo": "2004-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 348 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2015."
+    },
+    {
+      "nombre": "Jürgen Klopp",
+      "partidos": 340,
+      "periodo": "1990-2001",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 340 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2001."
+    },
+    {
+      "nombre": "Stefan Bell",
+      "partidos": 304,
+      "periodo": "2010-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 304 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-Act."
+    },
+    {
+      "nombre": "Daniel Brosinski",
+      "partidos": 224,
+      "periodo": "2014-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 224 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2022."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/mainz-05/FSV_Mainz_05.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/mainz-05/Mainz_05_logo_1945.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/mainz-05/Mainz_05_logo_1982.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/mainz-05.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Nullfünfer",
+      "origen": "Adoptado como apelativo puramente estadístico para enarbolar marcas lícitas separando linajes póstumos y afirmar tradición cronológica. La afición unificada en Maguncia rinde ruidosa crónica histórica y orgullo temporal llamándose Los del 05 en franca evocación honorífica popular al clásico año fundacional germano 1905."
+    }
+  ]
+}

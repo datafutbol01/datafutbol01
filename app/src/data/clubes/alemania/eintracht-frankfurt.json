@@ -1,0 +1,281 @@
+{
+  "id": "eintracht-frankfurt",
+  "meta": {
+    "slug": "eintracht-frankfurt"
+  },
+  "datos": {
+    "nombre_completo": "Eintracht Frankfurt e. V.",
+    "nombre_oficial": "Eintracht Frankfurt",
+    "nombre_corto": "Eintracht Frankfurt",
+    "apodo": "Die Adler (Las Águilas)",
+    "fundacion": "1899",
+    "estadio_actual": "Deutsche Bank Park",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 58000,
+    "estadio_inauguracion": "1925",
+    "estadio_direccion": "Mörfelder Landstraße 362, 60528 Frankfurt am Main, Alemania",
+    "estadio_lat": 50.0686,
+    "estadio_lng": 8.6455,
+    "escudo_actual": "/escudos/eintracht-frankfurt.webp",
+    "sigla": "SGE",
+    "socios": 130000,
+    "descripcion_corta": "Equipo tradicional de Hesse, históricamente fuerte en torneos cortos y copas nacionales e internacionales.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E1000F"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Bernd Hölzenbein (201)",
+      "mas_presencias": "Charly Körbel (602)",
+      "mayor_goleada": "9-1 vs Essen (1974)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "La Fusión Capital y el Origen de 'Concordia'",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1959",
+      "hito": "Dominio Incontestable del Campeonato Pre-Bundesliga",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1960",
+      "hito": "La Memorable Exhibición Frente al Soberano Español en Escocia",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1980",
+      "hito": "Guerra Fáctica Alemana en Plena Cita Continental",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2022",
+      "hito": "Emboscada e Invasión Financiera del Nou Camp Para Elevar la Europa League",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Deutsche Bank Park (Waldstadion)",
+      "capacidad": "58.000",
+      "inauguracion": "1925",
+      "url": "https://www.google.com/maps/search/?api=1&query=M%C3%B6rfelder%20Landstra%C3%9Fe%20362%2C%2060528%20Frankfurt%20am%20Main%2C%20Alemania",
+      "direccion": "Mörfelder Landstraße 362, 60528 Frankfurt am Main, Alemania",
+      "descripcion": "Históricamente conocido como el estadio del bosque (Waldstadion), ha coronado las inmensas hazañas coperas del gran escuadrón de las Águilas.",
+      "lat": 50.0686,
+      "lng": 8.6455
+    },
+    {
+      "nombre": "Riederwaldstadion",
+      "capacidad": "30.000",
+      "inauguracion": "1952",
+      "url": "https://www.google.com/maps/search/?api=1&query=Richard-Herrmann-Platz%201%2C%2060386%20Frankfurt%20am%20Main%2C%20Alemania",
+      "direccion": "Richard-Herrmann-Platz 1, 60386 Frankfurt am Main, Alemania",
+      "descripcion": "Instalación base ubicada en los vecindarios que dio lugar a las campañas del Eintracht previo a la concentración en el monumental Waldstadion ampliado.",
+      "lat": 50.1283,
+      "lng": 8.7303
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 1920,
+      "c1": "#000000",
+      "c2": "#e1000f",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1930,
+      "hasta": 1990,
+      "c1": "#e1000f",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#e1000f",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 2000,
+      "hasta": null,
+      "c1": "#000000",
+      "c2": "#e1000f",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jürgen Grabowski",
+      "periodo": "1965-1980",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo histórico de la escuadra. Guió con la capitanía al equipo hacia la conquista de su primera competición europea a fines de la década de 1970."
+    },
+    {
+      "nombre": "Bernd Hölzenbein",
+      "periodo": "1967-1981",
+      "pos": "Delantero",
+      "desc": "Rápido extremo y atacante. Concluyó su etapa profesional siendo indiscutiblemente el mayor goleador de la institución en torneos regulares de liga."
+    },
+    {
+      "nombre": "Karl-Heinz Körbel",
+      "periodo": "1972-1991",
+      "pos": "Defensor",
+      "desc": "Defensor central nacido en el país que desarrolló por entero y de forma ininterrumpida su carrera local, batiendo la marca inalcanzable de cantidad de participaciones de toda la historia de liga."
+    },
+    {
+      "nombre": "Anthony Yeboah",
+      "periodo": "1990-1995",
+      "pos": "Delantero",
+      "desc": "Potente delantero centro ghanés de sobresaliente capacidad física que logró adjudicarse el galardón de primer jugador en coronarse máximo goleador extranjero en torneos consecutivos."
+    },
+    {
+      "nombre": "Alexander Meier",
+      "periodo": "2004-2018",
+      "pos": "Delantero",
+      "desc": "Atacante y mediapunta líder. Consolidó ascensos claves y fue coronado formalmente como goleador en competiciones absolutas portando el rol principal en torneos formales y locales posteriores."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Bernd Hölzenbein",
+      "goles": 201,
+      "periodo": "1967-1981",
+      "partidos": 532,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 201 goles en competiciones oficiales durante su trayectoria en el equipo entre 1967-1981."
+    },
+    {
+      "nombre": "Jürgen Grabowski",
+      "goles": 150,
+      "periodo": "1965-1980",
+      "partidos": 526,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 150 goles en competiciones oficiales durante su trayectoria en el equipo entre 1965-1980."
+    },
+    {
+      "nombre": "Alexander Meier",
+      "goles": 137,
+      "periodo": "2004-2018",
+      "partidos": 379,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 137 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2018."
+    },
+    {
+      "nombre": "Anthony Yeboah",
+      "goles": 89,
+      "periodo": "1990-1995",
+      "partidos": 156,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-1995."
+    },
+    {
+      "nombre": "Wilhelm Huberts",
+      "goles": 67,
+      "periodo": "1961-1970",
+      "partidos": 269,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 67 goles en competiciones oficiales durante su trayectoria en el equipo entre 1961-1970."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Karl-Heinz Körbel",
+      "partidos": 720,
+      "periodo": "1972-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 720 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1991."
+    },
+    {
+      "nombre": "Bernd Hölzenbein",
+      "partidos": 532,
+      "periodo": "1967-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 532 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1981."
+    },
+    {
+      "nombre": "Jürgen Grabowski",
+      "partidos": 526,
+      "periodo": "1965-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 526 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1980."
+    },
+    {
+      "nombre": "Oka Nikolov",
+      "partidos": 414,
+      "periodo": "1994-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 414 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1994-2013."
+    },
+    {
+      "nombre": "Uwe Bindewald",
+      "partidos": 406,
+      "periodo": "1986-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 406 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-2004."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga / Campeonato Alemán",
+      "cantidad": 1,
+      "anios": [
+        "1958-59"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 5,
+      "anios": [
+        "1973-74",
+        "1974-75",
+        "1980-81",
+        "1987-88",
+        "2017-18"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 2,
+      "anios": [
+        "1979-80",
+        "2021-22"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/eintracht-frankfurt/Eintracht_Frankfurt_lovgo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/eintracht-frankfurt/Eintracht_Frankfurt_lodgo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/eintracht-frankfurt/Eintracht_Frankfurt_logo_29.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/eintracht-frankfurt.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Adler",
+      "origen": "Surgido fiel y lícito asilando firmeza dictatorial fundacional al asimilar tributo idéntico al inmenso escudo civil territorial histórico municipal del gobierno base de su ciudad. Oficiales pioneros y directivos insertaron al centro del escudo deportivo alemán a la clásica ave rapaz heráldica, el Águila clásica estampada del Ayuntamiento de Frankfurt."
+    }
+  ]
+}

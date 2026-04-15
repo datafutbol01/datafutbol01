@@ -1,0 +1,386 @@
+{
+  "id": "banfield",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "sur",
+      "taladro",
+      "banfield"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Banfield",
+    "sigla": "CAB",
+    "fundacion": "21 de enero de 1896",
+    "apodo": "El Taladro",
+    "estadio_actual": "Florencio Sola",
+    "estadio_apodo": "El Lencho",
+    "estadio_capacidad": 34900,
+    "estadio_inauguracion": "1940-10-06",
+    "estadio_lat": -34.7438,
+    "estadio_lng": -58.3977,
+    "estadio_direccion": "Arenales y Peña, Banfield, Provincia de Buenos Aires",
+    "socios": 32000,
+    "descripcion_corta": "Institución pionera de la zona sur del conurbano bonaerense fundada por residentes británicos. Conocido tradicionalmente como el 'Taladro', el club logró afianzarse en la era moderna coronándose campeón de la Primera División en 2009.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#008F39"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "13-1 a Puerto Comercial (1974)",
+      "maximo_goleador": "Gustavo Albella (136 goles)",
+      "mas_presencias": "Javier Sanguinetti (493 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1896",
+      "hito": "Fundación británica en los suburbios de la zona sur",
+      "desc": "El 21 de enero de 1896, profesionales mercantiles de origen británico crearon el 'Club Atlético Banfield' en un descampado a orillas del ferrocarril sud. El estanciero e importador ganadero Daniel Kingsland asumió como primer presidente de la institución, la cual en sus comienzos relegó el interés por el fútbol limitándose predominantemente a la práctica del cricket. Sin embargo, en 1899, un nuevo comité directivo impulsó la actividad balompédica, permitiendo que la escuadra se integrara a los torneos de Segunda División del fútbol amateur porteño."
+    },
+    {
+      "ano": "1940",
+      "hito": "El nacimiento del apodo 'El Taladro'",
+      "desc": "Tras sortear décadas combinando el fútbol aficionado e integrando la primera era profesional, el club confeccionó una escuadra altamente ofensiva para recuperar la categoría en 1940. Protagonizando partidos donde derrotaba a los rivales con abultadas goleadas sistemáticas mediante un sistema punzante, la crónica del extinto periódico 'El Pampero' describió que el ataque de Banfield 'taladraba' a los arqueros contrarios. El seudónimo cuajó de inmediato entre la clase obrera y la simpatía general, consolidando la identidad definitiva del club para el resto de su vida institucional."
+    },
+    {
+      "ano": "1951",
+      "hito": "El equipo récord y la polémica definición ante Racing",
+      "desc": "Construyendo la campaña de mayor prestigio durante sus años clásicos en Primera División, el equipo del sur dominó gran parte del Campeonato de Primera División de 1951 igualando en la cima de la tabla al hegemónico Racing Club de Avellaneda, tricampeón nacional. Tras un primer partido definitorio empatado en el Viejo Gasómetro que paralizó la atención gubernamental, Banfield perdió el desempate por 1-0 en un encuentro históricamente controvertido, conformándose con un subcampeonato que consolidó el mayor logro numérico deportivo del club frente al 'Establishment' del fútbol porteño."
+    },
+    {
+      "ano": "2009",
+      "hito": "Consagración de la mano de Julio César Falcioni",
+      "desc": "Consolidado nuevamente en Primera División desde 2001, Banfield estructuró un plantel de máximo rigor táctico y despliegue físico bajo las órdenes del entrenador Julio César Falcioni en el Torneo Apertura 2009. Sustentado en la creatividad del organizador Walter Erviti y los goles del artillero uruguayo Santiago Silva, el conjunto albiverde materializó la mayor proeza de su historia el 13 de diciembre de 2009 en el estadio de Boca Juniors. Pese a sufrir una derrota 0-2 en su última fecha, la sumatoria final de puntos le permitió levantar oficialmente su primera y única liga de la máxima categoría."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha junto al Ferrocarril",
+      "direccion": "Terrenos linderos a la estación, Banfield",
+      "desde": 1896,
+      "hasta": 1910,
+      "estado": "Histórico",
+      "obs": "Primer escenario abierto utilizado en el periodo fundacional por la colectividad inglesa para la práctica de cricket y fútbol incipiente.",
+      "lat": -34.7482,
+      "lng": -58.3942,
+      "url": "https://www.google.com/maps/search/?api=1&query=Terrenos%20linderos%20a%20la%20estaci%C3%B3n%2C%20Banfield"
+    },
+    {
+      "nombre": "Estadio Florencio Sola",
+      "direccion": "Arenales y Peña, Banfield",
+      "desde": 1940,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Construido bajo el mandato dirigencial del emblemático presidente Florencio Sola y establecido en el límite de Lomas de Zamora, oficia ininterrumpidamente como estadio principal del Taladro en competencias AFA y CONMEBOL.",
+      "lat": -34.7438,
+      "lng": -58.3977,
+      "url": "https://www.google.com/maps/search/?api=1&query=Arenales%20y%20Pe%C3%B1a%2C%20Banfield"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1896,
+      "hasta": 1904,
+      "c1": "#000000",
+      "c2": "#cca700",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "mitades",
+      "desc": "Mitades arlequinadas oscuras entre negro y crudo, como reminiscencia de las familias ferroviarias británicas."
+    },
+    {
+      "desde": 1904,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#006600",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "banda-diagonal",
+      "desc": "Vestidura gloriosa poética y con tela de blanco crudo y la emblemática banda diagonal verde cruzando el pecho valeroso desde el hombro que forjaría la estela sagrada formal sureña."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Javier Sanguinetti",
+      "pos": "Defensor",
+      "apodo": "Archu",
+      "periodo": "1989-1993, 1994-2008",
+      "desc": "Posee el récord absoluto de partidos disputados oficiales vistiendo la camiseta del club. Como defensor central, fue una pieza principal de liderazgo en las campañas de consolidación de la década del 2000."
+    },
+    {
+      "nombre": "Garrafa Sánchez",
+      "pos": "Enganche",
+      "apodo": "Garrafa",
+      "periodo": "2000-2005",
+      "desc": "Enganche de sobresaliente habilidad e ídolo muy carismático para los simpatizantes. Lideró futbolísticamente al equipo hacia el anhelado ascenso a la Primera División en la temporada 2001."
+    },
+    {
+      "nombre": "Darío Cvitanich",
+      "pos": "Delantero",
+      "apodo": "Cvita",
+      "periodo": "2003-2008, 2017-2018, 2022",
+      "desc": "Delantero originado en las divisiones inferiores que destacó ampliamente por su capacidad de definición. Retornó al club en múltiples etapas de su carrera, manteniendo siempre un promedio anotador decisivo."
+    },
+    {
+      "nombre": "Santiago Silva",
+      "pos": "Centrodelantero",
+      "apodo": "El Tanque",
+      "periodo": "2009",
+      "desc": "Atacante central de origen uruguayo caracterizado por su temperamento inquebrantable. Fue el máximo goleador del certamen y pilar estructural en la obtención del Torneo Apertura 2009, el primer campeonato de Primera División del club."
+    },
+    {
+      "nombre": "Julio Falcioni",
+      "pos": "Director Técnico",
+      "apodo": "El Emperador",
+      "periodo": "2003-2005, 2009-2010, Múltiples ciclos",
+      "desc": "Reconocido centralmente por su etapa como director técnico. Forjó un equipo rocoso que consiguió el histórico campeonato de 2009, transformándose en una de las máximas referencias de la era moderna de la institución."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gustavo Albella",
+      "goles": 136,
+      "partidos": 221,
+      "periodo": "1945-1951",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 136 goles en competiciones oficiales durante su trayectoria en el equipo entre 1945-1951."
+    },
+    {
+      "nombre": "Emilio Cramer",
+      "goles": 84,
+      "partidos": 164,
+      "periodo": "1960-1965",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1965."
+    },
+    {
+      "nombre": "Fernando Márquez",
+      "goles": 74,
+      "partidos": 150,
+      "periodo": "Histórico amateur",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 74 goles en competiciones oficiales durante su trayectoria en el equipo entre Histórico amateur."
+    },
+    {
+      "nombre": "Darío Cvitanich",
+      "goles": 65,
+      "partidos": 150,
+      "periodo": "2003-2008, 2017-2018",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 65 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2008, 2017-2018."
+    },
+    {
+      "nombre": "Cristian Garcia",
+      "goles": 61,
+      "partidos": 126,
+      "periodo": "Histórico amateur",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre Histórico amateur."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Javier Sanguinetti",
+      "partidos": 493,
+      "periodo": "1989-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 493 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2008."
+    },
+    {
+      "nombre": "Félix Orte",
+      "partidos": 310,
+      "periodo": "1978-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1989."
+    },
+    {
+      "nombre": "Renato Celleti",
+      "partidos": 305,
+      "periodo": "1960s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 305 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960s."
+    },
+    {
+      "nombre": "Roberto Giménez",
+      "partidos": 298,
+      "periodo": "1970s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 298 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970s."
+    },
+    {
+      "nombre": "Edgardo Di Meola",
+      "partidos": 242,
+      "periodo": "1970s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 242 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970s."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 1,
+      "años": [
+        "2009"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 1,
+      "años": [
+        "1920"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 8,
+      "años": [
+        "1899",
+        "1939",
+        "1946",
+        "1962",
+        "1973",
+        "1993",
+        "2001",
+        "2014"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1896",
+      "url": "/escudos_historicos/banfield/banfield_1896_web.png"
+    },
+    {
+      "ano": "1896",
+      "url": "/escudos/historicos/banfield/Banfield_1896.webp"
+    },
+    {
+      "ano": "1900",
+      "url": "/escudos_historicos/banfield/banfield_1900_web.png"
+    },
+    {
+      "ano": "1900",
+      "url": "/escudos/historicos/banfield/Banfield_1900.webp"
+    },
+    {
+      "ano": "1903",
+      "url": "/escudos_historicos/banfield/banfield_1903_web.png"
+    },
+    {
+      "ano": "1903",
+      "url": "/escudos/historicos/banfield/Banfield_1903.webp"
+    },
+    {
+      "ano": "1919",
+      "url": "/escudos_historicos/banfield/banfield_1919_web.png"
+    },
+    {
+      "ano": "1919",
+      "url": "/escudos/historicos/banfield/Banfield_1919.webp"
+    },
+    {
+      "ano": "1936",
+      "url": "/escudos_historicos/banfield/banfield_1936_web.png"
+    },
+    {
+      "ano": "1936",
+      "url": "/escudos/historicos/banfield/Banfield_1936.webp"
+    },
+    {
+      "ano": "1961",
+      "url": "/escudos_historicos/banfield/banfield_1961_web.png"
+    },
+    {
+      "ano": "1961",
+      "url": "/escudos/historicos/banfield/Banfield_1961.webp"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos_historicos/banfield/banfield_1967_web.png"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos/historicos/banfield/Banfield_1967.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/banfield/banfield_1972_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos/historicos/banfield/Banfield_1972.webp"
+    },
+    {
+      "ano": "1986",
+      "url": "/escudos_historicos/banfield/banfield_1986_web.png"
+    },
+    {
+      "ano": "1986",
+      "url": "/escudos/historicos/banfield/Banfield_1986.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/banfield/banfield_1991_web.png"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos/historicos/banfield/Banfield_1991.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos_historicos/banfield/banfield_1993_web.png"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/banfield/Banfield_1993.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos/historicos/banfield/Sarmiento_1999.webp"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/banfield/banfield_2002_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos/historicos/banfield/Banfield_2002.webp"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos_historicos/banfield/banfield_2006_web.png"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos/historicos/banfield/Banfield_2006.webp"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos_historicos/banfield/banfield_2009_web.png"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos/historicos/banfield/Banfield_(2009).svg"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos_historicos/banfield/banfield_2014_web.png"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos/historicos/banfield/CA_Banfield_(2014).svg"
+    },
+    {
+      "ano": "2016",
+      "url": "/escudos_historicos/banfield/banfield_2016_web.jpg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/1280px-CA_Banfield_%282014%29.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Taladro",
+      "origen": "Nace explícitamente el 11 de enero de 1940 a través de la publicación oficial del periodista independiente Emilio Ferrari. El columnista trabajaba editando páginas mediante el popular diario conocido como El Pampero. Tras atestiguar visualmente la racha e interminable catarata de goleadas a favor generada por la potente delantera local en el comienzo de aquel torneo, documentó que los futbolistas lograban literalmente agujerear, derribar y taladrar con extrema facilidad las formaciones contrarias."
+    }
+  ]
+}

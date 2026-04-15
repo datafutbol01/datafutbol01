@@ -1,0 +1,405 @@
+{
+  "id": "san-lorenzo",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "grande",
+      "nuevo gasometro",
+      "ciclon"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético San Lorenzo de Almagro",
+    "sigla": "CASLA",
+    "fundacion": "1 de abril de 1908",
+    "apodo": "El Ciclón, Los Cuervos, Matadores",
+    "estadio_actual": "Pedro Bidegain",
+    "estadio_apodo": "Nuevo Gasómetro",
+    "estadio_capacidad": 47964,
+    "estadio_inauguracion": "1993-12-16",
+    "estadio_lat": -34.6436,
+    "estadio_lng": -58.4402,
+    "estadio_direccion": "Av. Perito Moreno y Varela, CABA",
+    "socios": 75000,
+    "descripcion_corta": "Institución deportiva y cultural originaria del barrio de Almagro y consolidada históricamente en Boedo. Reconocida como uno de los cinco clubes grandes del país, destacada por sus éxitos locales, su campeonato en la Copa Libertadores 2014 y el amplio arraigo popular de sus simpatizantes.",
+    "paleta": [
+      {
+        "tag": "Azul Profundo",
+        "hex": "#0543A8"
+      },
+      {
+        "tag": "Rojo Encendido",
+        "hex": "#C8102E"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-1 a Estudiantes LP (1960)",
+      "maximo_goleador": "José Sanfilippo (205 goles)",
+      "mas_presencias": "Sergio Villar (446 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1908",
+      "hito": "Fundación del Club y rol del Padre Lorenzo Massa",
+      "desc": "El 1 de abril de 1908 se constituyó formalmente el Club Atlético San Lorenzo de Almagro producto de la organización de un grupo de jóvenes que jugaban en la calle bajo el nombre 'Los Forzosos de Almagro'. Ante los peligros del circuito del tranvía urbano, el sacerdote salesiano Lorenzo Massa les ofreció los terrenos del Oratorio San Antonio para desarrollar sus prácticas deportivas. Como retribución, la asamblea asimiló el nombre 'San Lorenzo' en referencia a la Batalla de San Lorenzo de José de San Martín y al padre Massa. Entre los principales miembros fundadores destacan Federico Monti y Antonio Scaramusso."
+    },
+    {
+      "ano": "1946",
+      "hito": "Campeonato Nacional y el 'Terceto de Oro'",
+      "desc": "En la temporada de 1946, San Lorenzo obtuvo el campeonato de Primera División destacándose por la elevada efectividad de su línea ofensiva principal, conformada por los atacantes Armando Farro, René Pontoni y Rinaldo Martino, conocidos periodísticamente como el 'Terceto de Oro'. Tras la conquista local a fin de año, este plantel protagonizó a inicios de 1947 una extensa y exitosa gira internacional de exhibición por España y Portugal, consolidando su reputación internacional."
+    },
+    {
+      "ano": "1968",
+      "hito": "Los Matadores: el primer torneo invicto",
+      "desc": "Bajo la dirección técnica del entrenador brasileño Elba de Pádua Lima, conocido como 'Tim', San Lorenzo se adjudicó el Campeonato Metropolitano de 1968 con el registro estadístico de no haber perdido ningún encuentro durante la competición. Este equipo, integrado por referentes como Sergio Villar y José Albrecht, fue denominado por la prensa bajo el apodo de 'Los Matadores' debido a su eficacia y contundencia durante el certamen."
+    },
+    {
+      "ano": "1979-1993",
+      "hito": "Pérdida del Viejo Gasómetro y la construcción de la nueva cancha",
+      "desc": "Durante la gestión municipal impuesta en la última dictadura militar iniciada en 1976, normativas referidas a la apertura de calles provocaron que el club se viera obligado a vender el predio de la Avenida La Plata. El último partido disputado en el 'Viejo Gasómetro' ocurrió el 2 de diciembre de 1979. Tras afrontar descensos y participar en la Segunda División de 1982 registrando asistencia récord logrando un rápido regreso a la élite, el club transitó 14 años alquilando estadios locales hasta materializarse, en 1993, la construcción de su actual estadio 'Pedro Bidegain' dentro de las inmediaciones del Bajo Flores."
+    },
+    {
+      "ano": "2014",
+      "hito": "Campeones de la Copa Libertadores de América",
+      "desc": "El 13 de agosto de 2014, bajo la conducción técnica de Edgardo Bauza, la institución de Boedo se consagró campeona del continente al obtener su primera Copa Conmebol Libertadores. El proceso, caracterizado por su rigidez defensiva y orden estadístico, certificó la victoria global frente a Nacional de Paraguay en los encuentros de la final, sellando uno de los trofeos internacionales históricos más preponderantes y demandados del club."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "El Viejo Gasómetro",
+      "direccion": "Av. La Plata 1700, Boedo",
+      "desde": 1916,
+      "hasta": 1979,
+      "estado": "Despojado/Demolido",
+      "obs": "Recinto histórico con graderías de madera inaugurado a principios del siglo XX, sirviendo como escenario principal hasta su pérdida y expropiación en el año 1979 tras una regulación impuesta.",
+      "lat": -34.6247,
+      "lng": -58.4114,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20La%20Plata%201700%2C%20Boedo"
+    },
+    {
+      "nombre": "Pedro Bidegain (Nuevo Gasómetro)",
+      "direccion": "Av. Perito Moreno y Varela, Bajo Flores",
+      "desde": 1993,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Construido en las proximidades jurisdiccionales del Bajo Flores y con una ampliación ininterrumpida que le otorga hoy en día las dimensiones de uno de los escenarios de juego más amplios de las categorías oficiales nacionales.",
+      "lat": -34.6436,
+      "lng": -58.4402,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Perito%20Moreno%20y%20Varela%2C%20Bajo%20Flores"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1908,
+      "hasta": 1910,
+      "c1": "#800020",
+      "c2": "#800020",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "La primera indumentaria fue de tonalidad principal borravino liso o rojo oscuro, con cuellos blancos."
+    },
+    {
+      "desde": 1911,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#B22222",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Se establece el uso oficial de la camiseta a bastones verticales azules y rojos, inspirados en tela cedida por la iglesia."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Leandro Romagnoli",
+      "pos": "Enganche",
+      "apodo": "El Pipi",
+      "periodo": "1998-2004, 2009-2018",
+      "desc": "Jugador más ganador en la historia de la institución con seis títulos oficiales. Como conductor clásico, lideró al equipo en la obtención de la Copa Sudamericana 2002 y retornó en su madurez para alzar la inédita Copa Libertadores 2014."
+    },
+    {
+      "nombre": "José Sanfilippo",
+      "pos": "Delantero",
+      "apodo": "El Nene",
+      "periodo": "1953-1962, 1972",
+      "desc": "Goleador histórico supremo del club (205 tantos). Se coronó máximo artillero del certamen nacional de primera división en cuatro años consecutivos durante las décadas del 50 y 60, siendo clave en el título de 1959."
+    },
+    {
+      "nombre": "Héctor Scotta",
+      "pos": "Delantero",
+      "apodo": "El Gringo",
+      "periodo": "1971-1981",
+      "desc": "Marcó un registro imbatible en el profesionalismo argentino al convertir 60 goles en una sola temporada (1975). Delantero de una potencia excepcional y remate feroz que cimentó la ofensiva de los planteles campeones en la década del 70."
+    },
+    {
+      "nombre": "Edgardo Bauza",
+      "pos": "Director Técnico",
+      "apodo": "El Patón",
+      "periodo": "2014-2015",
+      "desc": "Experimentado director técnico que llegó en 2014 para dotar de orden y equilibrio a la plantilla. Estructuró un planteo táctico inteligente y combativo que finalizó con la coronación de la primera Copa Libertadores de América en la historia del club."
+    },
+    {
+      "nombre": "Néstor Ortigoza",
+      "pos": "Mediocampista",
+      "apodo": "El Gordo / El Johnny",
+      "periodo": "2011-2017, 2021-2022",
+      "desc": "Mediocampista central reconocido por su frialdad y precisión tanto en la distribución como en la ejecución de los penales. Fue el encargado de convertir el gol desde los doce pasos en la final de vuelta ante Nacional que le dio la Copa Libertadores al equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "José Sanfilippo",
+      "goles": 205,
+      "partidos": 260,
+      "periodo": "1953-1962",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 205 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1962."
+    },
+    {
+      "nombre": "Martino, Rinaldo",
+      "goles": 142,
+      "partidos": 233,
+      "periodo": "1941-1948",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 142 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1948."
+    },
+    {
+      "nombre": "Héctor Scotta",
+      "goles": 140,
+      "partidos": 226,
+      "periodo": "1971-1981",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1971-1981."
+    },
+    {
+      "nombre": "Diego García",
+      "goles": 140,
+      "partidos": 264,
+      "periodo": "1925-1940",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1940."
+    },
+    {
+      "nombre": "Bernardo Romeo",
+      "goles": 99,
+      "partidos": 207,
+      "periodo": "1998-2012",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 99 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Sergio Villar",
+      "partidos": 446,
+      "periodo": "1968-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 446 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1981."
+    },
+    {
+      "nombre": "Roberto Telch",
+      "partidos": 445,
+      "periodo": "1962-1975",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 445 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1975."
+    },
+    {
+      "nombre": "Leandro Romagnoli",
+      "partidos": 399,
+      "periodo": "1999-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 399 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2018."
+    },
+    {
+      "nombre": "Ángel Zubieta",
+      "partidos": 352,
+      "periodo": "1939-1952",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 352 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1939-1952."
+    },
+    {
+      "nombre": "José Albrecht",
+      "partidos": 229,
+      "periodo": "1963-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 229 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1970."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 15,
+      "años": [
+        "1923",
+        "1924",
+        "1927",
+        "1933",
+        "1936",
+        "1946",
+        "1959",
+        "1968",
+        "1972",
+        "1972",
+        "1974",
+        "1995",
+        "2001",
+        "2007",
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Supercopa Argentina",
+      "cantidad": 1,
+      "años": [
+        "2015"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 1,
+      "años": [
+        "1943"
+      ]
+    },
+    {
+      "nombre": "Copas Rioplatenses Históricas",
+      "cantidad": 1,
+      "años": [
+        "1927"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores de América",
+      "cantidad": 1,
+      "años": [
+        "2014"
+      ]
+    },
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "2002"
+      ]
+    },
+    {
+      "nombre": "Copa Mercosur",
+      "cantidad": 1,
+      "años": [
+        "2001"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 1,
+      "años": [
+        "1982"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1908_web.png"
+    },
+    {
+      "ano": "1908",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1908.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1921_web.png"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1921.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1941_web.png"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1941.webp"
+    },
+    {
+      "ano": "1954",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1954_web.png"
+    },
+    {
+      "ano": "1954",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1954.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1960_web.png"
+    },
+    {
+      "ano": "1968",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1968.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1994_web.png"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1994.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_1996_web.png"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_1996.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_2000_web.png"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_2000.webp"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_2002_web.png"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_2007_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_2012.webp"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_2014.webp"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos_historicos/san-lorenzo/san-lorenzo_2015_web.png"
+    },
+    {
+      "ano": "2021",
+      "url": "/escudos/historicos/san-lorenzo/San_Lorenzo_2021.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/san-lorenzo.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Ciclón",
+      "origen": "Formalizado textualmente en la era inicial del profesionalismo del certamen de 1932 mediante las planas del diario Crítica por autoría del reportero Hugo Marini. La analogía descriptiva graficó la contundente capacidad goleadora y fortaleza del plantel para revertir encuentros en cortos lapsos de tiempo. El redactor argumentó a lo largo de su texto que el once titular lograba revertir situaciones complejas atacando incesantemente hacia el arco contrario asimilándolos a un auténtico ciclón."
+    },
+    {
+      "apodo": "Los Cuervos",
+      "origen": "Heredado y derivado expresamente a raíz de las altas jerarquías y orígenes de corte clerical eclesiástico de sus fundadores. Sus bases populares se constituyeron bajo el Oratorio San Antonio, un establecimiento católico supervisado por el padre salesiano Lorenzo Massa. El hecho de que este sacerdote portara asiduamente la gruesa y larga indumentaria de sotana negra derivó en burlas llanas por parte de hinchas contrarios que lo igualaban al ave oscura."
+    },
+    {
+      "apodo": "Gauchos de Boedo",
+      "origen": "Instaurado popularmente tras repasar en los diarios de época las planillas de las formaciones en la temporada de 1933. El club incorporó activamente pases de jugadores provenientes de clubes afincados enteramente en el centro de las provincias alejadas al interior del país, integrando talentos santafesinos y tucumanos. Al asentar a gran parte de este número de hombres de provincia en el epicentro urbano capitalino de una zona céntrica como lo era Avenida La Plata y el barrio de Boedo, adquirieron la denominación por contraste geográfico."
+    }
+  ]
+}

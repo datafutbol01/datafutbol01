@@ -1,0 +1,262 @@
+{
+  "id": "wolfsburg",
+  "meta": {
+    "slug": "wolfsburg"
+  },
+  "datos": {
+    "nombre_completo": "VfL Wolfsburg-Fußball GmbH",
+    "nombre_oficial": "VfL Wolfsburg",
+    "nombre_corto": "VfL Wolfsburg",
+    "apodo": "Die Wölfe (Los Lobos)",
+    "fundacion": "1945",
+    "estadio_actual": "Volkswagen Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 30000,
+    "estadio_inauguracion": "2002",
+    "estadio_direccion": "In den Allerwiesen 1, 38446 Wolfsburg, Alemania",
+    "estadio_lat": 52.43,
+    "estadio_lng": 10.8037,
+    "escudo_actual": "/escudos/wolfsburg.webp",
+    "sigla": "WOB",
+    "socios": 20000,
+    "descripcion_corta": "Franquicia deportiva fundada y respaldada integralmente de forma histórica por el gigante automotriz Volkswagen.",
+    "paleta": [
+      {
+        "tag": "Verde Claro",
+        "hex": "#65B32E"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#004787"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Edin Džeko (85)",
+      "mas_presencias": "Diego Benaglio (259)",
+      "mayor_goleada": "8-1 vs Augsburg (2019)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1945",
+      "hito": "La Pelota Originaria Patrocinada Entre Motores Burocráticos de Fábricas VSK",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1997",
+      "hito": "Ascenso Definitorio a la Máxima Categoría",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2009",
+      "hito": "Única Liga Ganada en su Historia",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2015",
+      "hito": "Pase a la Final y Conquista de la DFB-Pokal",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2016",
+      "hito": "Participación Histórica en Cuartos de Champions League",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "VfL-Stadion am Elsterweg",
+      "capacidad": "21.600",
+      "inauguracion": "1947",
+      "url": "https://www.google.com/maps/search/?api=1&query=Elsterweg%205%2C%2038446%20Wolfsburg%2C%20Alemania",
+      "direccion": "Elsterweg 5, 38446 Wolfsburg, Alemania",
+      "descripcion": "El fortín de atletismo inicial fundacional desde donde ascendieron formal a su cima deportiva y forjaron al 'VfL' logrando subir hasta el debut nacional de los noventa. Hoy hogar de reservas y estamento filial institucional.",
+      "lat": 52.4285,
+      "lng": 10.8048
+    },
+    {
+      "nombre": "Volkswagen Arena (VfL-Arena)",
+      "capacidad": "30.000",
+      "inauguracion": "2002",
+      "url": "https://www.google.com/maps/search/?api=1&query=In%20den%20Allerwiesen%201%2C%2038446%20Wolfsburg%2C%20Alemania",
+      "direccion": "In den Allerwiesen 1, 38446 Wolfsburg, Alemania",
+      "descripcion": "Custodiada íntima y financieramente del enorme emporio motriz, su grama coronó la hazaña mágica originada en 2009 de los potentes goles brasileños-bosnios.",
+      "lat": 52.43,
+      "lng": 10.8037
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1945,
+      "hasta": 1990,
+      "c1": "#106c36",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#106c36",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1990,
+      "hasta": null,
+      "c1": "#65b32e",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#65b32e",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Diego Benaglio",
+      "periodo": "2008-2017",
+      "pos": "Arquero",
+      "desc": "Guardameta titular inamovible nacido en Suiza. Custodió las redes durante una decena de años logrando sumar la mayor cantidad absoluta de presencias en toda la historia de competición liguera."
+    },
+    {
+      "nombre": "Grafite",
+      "periodo": "2007-2011",
+      "pos": "Delantero",
+      "desc": "Artillero letal ofensivo de Brasil. Alcanzó un rendimiento oficial majestuoso oficiando como máximo goleador indiscutido sumando al equipo durante la vital obtención del título de liga."
+    },
+    {
+      "nombre": "Edin Džeko",
+      "periodo": "2007-2011",
+      "pos": "Delantero",
+      "desc": "Poderoso centrodelantero internacional asiduo goleador de área. Conformó una inolvidable dupla de ataque ofensiva que posibilitó fuertemente el logro indiscutible para salir campeón de la primera."
+    },
+    {
+      "nombre": "Marcel Schäfer",
+      "periodo": "2007-2017",
+      "pos": "Defensor / Lateral",
+      "desc": "Defensor por el carril lateral. Disputó numerosos enfrentamientos asumiendo roles de defensa y liderazgo por más de 250 partidos logrando sumar copas definitivas durante años prósperos."
+    },
+    {
+      "nombre": "Maximilian Arnold",
+      "periodo": "2011-Act",
+      "pos": "Mediocampista",
+      "desc": "Volante central originario enteramente proveniente del vivero oficial. Estableció una contundente trayectoria firme de nivel local rompiendo grandes números estadísticos de fidelidad de presencias."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Edin Džeko",
+      "goles": 85,
+      "periodo": "2007-2011",
+      "partidos": 142,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 85 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2011."
+    },
+    {
+      "nombre": "Grafite",
+      "goles": 75,
+      "periodo": "2007-2011",
+      "partidos": 130,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2011."
+    },
+    {
+      "nombre": "Diego Klimowicz",
+      "goles": 71,
+      "periodo": "2001-2007",
+      "partidos": 186,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2007."
+    },
+    {
+      "nombre": "Wout Weghorst",
+      "goles": 70,
+      "periodo": "2018-2022",
+      "partidos": 144,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 70 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2022."
+    },
+    {
+      "nombre": "Bas Dost",
+      "goles": 48,
+      "periodo": "2012-2015",
+      "partidos": 117,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2015."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Maximilian Arnold",
+      "partidos": 400,
+      "periodo": "2011-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 400 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-Act."
+    },
+    {
+      "nombre": "Koen Casteels",
+      "partidos": 275,
+      "periodo": "2015-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 275 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2024."
+    },
+    {
+      "nombre": "Diego Benaglio",
+      "partidos": 259,
+      "periodo": "2008-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 259 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2017."
+    },
+    {
+      "nombre": "Marcel Schäfer",
+      "partidos": 256,
+      "periodo": "2007-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 256 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2017."
+    },
+    {
+      "nombre": "Robin Knoche",
+      "partidos": 226,
+      "periodo": "2011-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 226 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-2020."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 1,
+      "anios": [
+        "2008-09"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 1,
+      "anios": [
+        "2014-15"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 1,
+      "anios": [
+        "2015"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/wolfsburg/VfL_Wolfsburg.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/wolfsburg/VfL_Wolfsburg_Logo_29.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/wolfsburg.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Wölfe",
+      "origen": "Surgido asilando firmeza visual fundacional al asimilar tributo y homenaje exacto unificando un irrenunciable apelativo natural derivado del mismísimo vocablo y denominación de su cuna territorial y cívica. La afición alude deportivamente acoplando póstumo su devoción a Los Lobos, invocando desprendiendo asiduo el rústico perfil cazador asimilando la traducción directa del nombre de la ciudad industrial de Wolfsburgo."
+    }
+  ]
+}

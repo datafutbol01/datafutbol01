@@ -1,0 +1,244 @@
+{
+  "id": "kilmarnock",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "kilmarnock",
+      "killie",
+      "rugby park"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Kilmarnock Football Club",
+    "sigla": "KIL",
+    "fundacion": "5 de enero de 1869",
+    "apodo": "Killie",
+    "estadio_actual": "Rugby Park",
+    "estadio_apodo": "Rugby Park",
+    "estadio_capacidad": 17889,
+    "estadio_inauguracion": "1899",
+    "estadio_lat": 55.6046,
+    "estadio_lng": -4.5097,
+    "estadio_direccion": "Rugby Rd, Kilmarnock KA1 2DP, Reino Unido",
+    "socios": 5000,
+    "descripcion_corta": "Entidad profesional decana en actividad de la máxima categoría de Escocia. Registra un título de liga histórico en 1965 sustentado a través del diferencial de promedios en el último encuentro.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#00205B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Willy Culley (114 goles)",
+      "mas_presencias": "Alan Robertson (484 partidos)",
+      "mayor_goleada": "13-2 vs Saltcoats Victoria (1896)"
+    },
+    "nombre_oficial": "Kilmarnock Football Club",
+    "nombre_corto": "Kilmarnock",
+    "escudo_actual": "/escudos/kilmarnock.svg"
+  },
+  "historia": [
+    {
+      "ano": "1869",
+      "hito": "Constitución inicial en el Robertson's Temperance Hotel",
+      "desc": "El club se materializó el 5 de enero de 1869 en una asamblea celebrada en el Robertson's Temperance Hotel de Kilmarnock. El impulsor inicial fue un grupo de jugadores de críquet que requerían realizar un deporte grupal de exterior durante el invierno. En los primeros años implementaron el reglamento habitual del rugby con balón ovalado, pero consolidaron el paso hacia fútbol asociación en 1873 participando en la conformación de la incipiente Scottish Football Association. A la fecha, es el equipo profesional activo más antiguo de la Premiership."
+    },
+    {
+      "ano": "1920 y 1929",
+      "hito": "Consagraciones históricas en la Scottish Cup",
+      "desc": "El progreso afianzado a nivel deportivo quedó rubricado de manera formal con su primer trofeo central ganado el año 1920 al retener la Copa de Escocia. Tras derrotar por 3-2 en un duro encuentro al cuadro del Albion Rovers frente a más de noventa mil espectadores, establecieron presencia sólida local. En el transcurso de la temporada 1929 repitieron tal mérito, volviendo a coronarse tras batir 2-0 explícitamente al tradicional Rangers F.C. en Hampden."
+    },
+    {
+      "ano": "1964-1965",
+      "hito": "El Campeonato de Primera División por diferencia de goles",
+      "desc": "El momento más destacado de la institución a nivel doméstico ocurrió en el cierre de la exigente campaña liguera 1964-1965 comandados por el entrenador Willie Waddell. El formato de la tabla presentaba a la entidad obligada a vencer como visitante al puntero Heart of Midlothian por un marcador exacto o superior de 2-0. En la última jornada, Kilmarnock logró exactamente el triunfo necesario de 2-0 y de esta forma conquistó valiéndose del promedio de gol su vital y único campeonato máximo dentro de primera división."
+    },
+    {
+      "ano": "1997",
+      "hito": "Regreso al triunfo copero tras 68 años",
+      "desc": "Transitando sus participaciones tras de la gloria del campeonato en la década del sesenta, la institución aguardó 68 años consecutivos para adjudicarse su siguiente torneo importante de características de eliminación progresiva. Durante la temporada 1997 administrados tácticamente por Bobby Williamson, la escuadra se adentró en una expedición superlativa de copa terminando en la esperada final nacional fijada en Ibrox. El tanto anotado formalmente por Paul Wright decretó la victoria final frente al club de Falkirk firmando el 1-0 para retener el esperado tercer trofeo."
+    },
+    {
+      "ano": "2012",
+      "hito": "Primera acreditación institucional en Copa de Liga Escocesa",
+      "desc": "Bajo las indicaciones formales de Kenny Shiels a principio de su proceso organizativo de gerencia, se formuló la campaña exitosa en torno a engrosar la vitrina durante las instancias de la Scottish League Cup en marzo de 2012. Manteniendo el control disputado sobre las parcelas en Hampden Park, le propinaron al tradicional club de Celtic la respectiva derrota sentenciada en números mediante un solitario gol adjudicado durante el cierre regulatorio proveniente de Dieter van Tornhout que concretaría en cifras formales de un gol a cero la esperada Copa institucional."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Rugby Park (Rugby Park)",
+      "capacidad": "17889",
+      "inauguracion": "1899",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rugby%20Rd%2C%20Kilmarnock%20KA1%202DP%2C%20Reino%20Unido",
+      "direccion": "Rugby Rd, Kilmarnock KA1 2DP, Reino Unido",
+      "lat": 55.6046,
+      "lng": -4.5097,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 1,
+      "anios": [
+        "1964-65"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 3,
+      "anios": [
+        "1919-20",
+        "1928-29",
+        "1996-97"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 1,
+      "anios": [
+        "2011-12"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1869,
+      "hasta": 1890,
+      "c1": "#0000FF",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#0000FF",
+      "tipo": "liso",
+      "desc": "Durante su nacimiento y etapa amateur primitiva el equipo jugaba utilizando camisas rudimentarias llanas confeccionadas ocasionalmente en azul sin texturas ni tramas visibles."
+    },
+    {
+      "desde": 1890,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#0000FF",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Asume de manera oficial la estricta y rítmica formación tradicional que se mantendría inamovible históricamente hasta el presente: una disposición gráfica que intercala franjas y líneas verticales simétricas entrelazando el blanco fondo con el azul oscuro."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ray Montgomerie",
+      "pos": "Leyenda / Referente",
+      "periodo": "1988-1998",
+      "desc": "Defensor central y emblemático capitán que lideró al conjunto hacia el histórico triunfo en la Copa de Escocia de 1997. Marcó una época brindando jerarquía y solvencia organizativa en el fondo.",
+      "apodo": "Monty"
+    },
+    {
+      "nombre": "Kris Boyd",
+      "pos": "Leyenda / Referente",
+      "periodo": "1999-2005, 2013-2015, 2015-2019",
+      "desc": "Uno de los mayores anotadores de la era moderna del fútbol escocés. Sus formidables disparos y colocación aseguraron campañas exitosas durante sus diferentes etapas en el club.",
+      "apodo": "Boydy"
+    },
+    {
+      "nombre": "Tommy McLean",
+      "pos": "Leyenda / Referente",
+      "periodo": "1964-1971",
+      "desc": "Mediocampista creativo de notable técnica, fundamental en la consecución del único campeonato liguero de la institución. Su visión de juego determinó el histórico éxito de 1965.",
+      "apodo": "Tommy"
+    },
+    {
+      "nombre": "Stuart McLean",
+      "pos": "Leyenda / Referente",
+      "periodo": "1974-1989",
+      "desc": "Zaguero polifuncional de destacada trayectoria en las entrañas de Rugby Park. Su indiscutible profesionalismo acompañó al cuadro en múltiples transiciones competitivas marcando récord de apariciones.",
+      "apodo": "Stuart"
+    },
+    {
+      "nombre": "Dieter van Tornhout",
+      "pos": "Leyenda / Referente",
+      "periodo": "2012",
+      "desc": "Atacante de ciclo breve cuyo solitario e histórico tanto en la final frente al Celtic cimentó la heroica obtención de la Copa de la Liga Escocesa en el año 2012.",
+      "apodo": "Dieter"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Willie Culley",
+      "goles": 264,
+      "periodo": "1911-1923",
+      "desc": "Delantero de cifras inigualables durante el inicio del siglo pasado. Registró marcas apabullantes ostentando hasta la fecha el honor de ser el artillero absoluto del equipo."
+    },
+    {
+      "nombre": "Kris Boyd",
+      "goles": 136,
+      "periodo": "1999-2019",
+      "desc": "Reconocido cazador del área cuyas rachas goleadoras catapultaron al elenco. Acumuló 136 conquistas consolidando su inmenso aporte estadístico al campeonato liguero contemporáneo."
+    },
+    {
+      "nombre": "Eddie Morrison",
+      "goles": 121,
+      "periodo": "1966-1976",
+      "desc": "Atacante combativo de la plantilla poscampeona garantizando celebraciones continuas en la élite escocesa con potentes cabezazos y regates."
+    },
+    {
+      "nombre": "Andy Kerr",
+      "goles": 113,
+      "periodo": "1954-1965",
+      "desc": "Definidor nato que lideró el ataque a fines de los cincuenta, superando el centenar de goles para dar cimientos sólidos al competitivo plantel sureño."
+    },
+    {
+      "nombre": "Brien McIlroy",
+      "goles": 108,
+      "periodo": "1960-1971",
+      "desc": "Hábil definidor que formó la medular ofensiva en el decenio más exitoso, aportando cifras determinantes para enriquecer la dorada racha de los sesenta."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alan Robertson",
+      "partidos": 624,
+      "periodo": "1969-1983",
+      "desc": "Símbolo de la zaga que ostenta orgullosamente la cima de duelos disputados. Mostró una fidelidad inquebrantable a lo largo de catorce campañas en primera división."
+    },
+    {
+      "nombre": "Frank Beattie",
+      "partidos": 611,
+      "periodo": "1953-1972",
+      "desc": "Mediocampista perseverante que abrazó la capitanía en el hito liguero de 1965. Una figura estelar que promedió dos décadas completas de entrega indiscutida."
+    },
+    {
+      "nombre": "Stuart McLean",
+      "partidos": 548,
+      "periodo": "1974-1989",
+      "desc": "Defensor aguerrido que respaldó rígidamente todo el progreso táctico de los años ochenta asumiendo medio millar de presentaciones ininterrumpidas."
+    },
+    {
+      "nombre": "Ray Montgomerie",
+      "partidos": 470,
+      "periodo": "1988-1998",
+      "desc": "El histórico líder cimentó su inmenso estatus participando en asiduas contiendas hasta consumar el glorioso levantar del trofeo nacional copero."
+    },
+    {
+      "nombre": "James Fowler",
+      "partidos": 461,
+      "periodo": "1999-2014",
+      "desc": "Volante de extensa carrera moderna; ofreció consistencia y equilibrio al sistema escocés cerrando un ciclo impecable en la actual Premiership."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/kilmarnock.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Killie",
+      "origen": "Configura la tradicional abreviación geográfica del condado y municipio. El periodismo escrito escocés lo implementó a modo de prefijo titular de imprenta durante las primeras ligas, terminando por absorber la identidad absoluta de la institución deportiva activa más antigua del circuito profesional de Escocia."
+    }
+  ]
+}

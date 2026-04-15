@@ -1,0 +1,350 @@
+{
+  "id": "brighton",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "brighton",
+      "the seagulls"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Brighton & Hove Albion Football Club",
+    "sigla": "BHA",
+    "fundacion": "21 de agosto de 1901",
+    "apodo": "The Seagulls",
+    "estadio_actual": "Amex Stadium",
+    "estadio_apodo": "Falmer Stadium",
+    "estadio_capacidad": 31800,
+    "estadio_inauguracion": "2011",
+    "estadio_lat": 50.861822,
+    "estadio_lng": -0.083278,
+    "estadio_direccion": "Village Way, Brighton BN1 9BL",
+    "socios": 35000,
+    "descripcion_corta": "Emblemático club costero del sur de Inglaterra fundado en 1901. Tras rozar la bancarrota y la desaparición absoluta a fines de los años 90, el club renació dramáticamente de sus cenizas impulsado por el empresario Tony Bloom, consolidándose en la Premier League gracias a un revolucionario modelo de scouting global fundamentado en la analítica de datos y algoritmos.",
+    "paleta": [
+      {
+        "tag": "Azul Gaviota",
+        "hex": "#005DAA"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Dorado Acento",
+        "hex": "#FFCD00"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-1 a Newport County (Febrero 1951)",
+      "maximo_goleador": "Tommy Cook (123 goles)",
+      "mas_presencias": "Tug Wilson (566 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1901",
+      "hito": "Fundación oficial en el pub The Seven Stars",
+      "desc": "El 21 de agosto de 1901, miembros vinculados a las diferentes ligas locales de la zona de Sussex se reunieron en el pub 'The Seven Stars', ubicado sobre Ship Street. Liderados por John Jackson, quien fue designado como el primer entrenador, rubricaron legalmente los estatutos del Brighton & Hove Albion, reemplazando al extinto club pionero Brighton Rovers."
+    },
+    {
+      "ano": "1910",
+      "hito": "Ingreso protagónico y campeonato de la Southern League",
+      "desc": "Transitando sus primeras temporadas en el entorno aficionado del sur británico, el club obtuvo su primer lauro competitivo relevante conquistando la Southern League de la temporada 1909-10. Posteriormente, vencieron al campeón en vigencia de la Football League, el Aston Villa, para obtener lo que se conoció extraoficialmente en la época como la Charity Shield."
+    },
+    {
+      "ano": "1983",
+      "hito": "La disputa de la final de FA Cup",
+      "desc": "Desarrollando una destacada labor en las competiciones a eliminación directa, Brighton alcanzó la instancia definitiva de la histórica FA Cup en 1983 bajo el comando del entrenador Jimmy Melia. En el partido final en el Estadio de Wembley emparejaron 2-2 ante el Manchester United gracias a un gol de Gary Stevens, siendo luego ampliamente derrotados 4-0 en el partido obligatorio de desempate."
+    },
+    {
+      "ano": "2017",
+      "hito": "Primer ascenso consolidado a la moderna Premier League",
+      "desc": "Concluyendo una sostenida recuperación tras bordear la inminente caída financiera y deportiva fuera de la estructura profesional durante de la década de 1990 (sorteada en el agónico duelo clave contra el Hereford United en 1997), el plantel dirigido por el irlandés Chris Hughton finalizó segundo en el Championship 2016-17, garantizando a la institución disputar por primera vez el formato de liga reformulado bajo Premier League."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "The Goldstone Ground",
+      "direccion": "Old Shoreham Rd, Hove BN3 7BB",
+      "desde": 1902,
+      "hasta": 1997,
+      "estado": "Histórico",
+      "obs": "Estructura primaria de acoplamiento deportivo y refugio clásico principal por un período ininterrumpido equivalente temporal a noventa y cinco años. Sus fracciones fueron vendidas, liquidadas y reconvertidas comercialmente debido a quiebres impositivos.",
+      "lat": 50.838889,
+      "lng": -0.176389,
+      "url": "https://www.google.com/maps/search/?api=1&query=Old%20Shoreham%20Rd%2C%20Hove%20BN3%207BB"
+    },
+    {
+      "nombre": "Withdean Stadium",
+      "direccion": "Tongdean Ln, Brighton BN1 5JD",
+      "desde": 1999,
+      "hasta": 2011,
+      "estado": "Histórico",
+      "obs": "Complejo municipal formativo orientado a disciplinas y pruebas netamente de atletismo. Arrendado burocráticamente adaptando graderías expuestas efímeras, suplanta el faltante para lograr oficiar fáctica y limitadamente locales.",
+      "lat": 50.8525,
+      "lng": -0.155833,
+      "url": "https://www.google.com/maps/search/?api=1&query=Tongdean%20Ln%2C%20Brighton%20BN1%205JD"
+    },
+    {
+      "nombre": "Amex Stadium (Falmer Stadium)",
+      "direccion": "Village Way, Brighton BN1 9BL",
+      "desde": 2011,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Edificio matriz actual financiado mediante inversiones corporativas de cúpula. Establecido reglamentariamente en áreas universitarias aledañas reordenando el esquema permanente del club.",
+      "lat": 50.861822,
+      "lng": -0.083278,
+      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Way%2C%20Brighton%20BN1%209BL"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1901,
+      "hasta": null,
+      "c1": "#003da5",
+      "c2": "#ffffff",
+      "sh": "#003da5",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Atesorando un manto de rayas verticales estrechas marítimas con blanco nacarado y un profundo inyectado matiz azul gaviota para surcar el salvaje, furioso litoral atlántico."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Lewis Dunk",
+      "pos": "Defensor Central",
+      "apodo": "Dunky",
+      "periodo": "2010-Actualidad",
+      "desc": "Defensor central formado en las divisiones inferiores del club. Transitó desde la tercera división hasta consolidarse como pilar y gran capitán del equipo afianzado en la Premier League."
+    },
+    {
+      "nombre": "Glenn Murray",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "2008-2011, 2016-2020",
+      "desc": "Delantero decisivo con dos etapas excepcionales en el club. Anotó numerosos goles de enorme trascendencia que aseguraron múltiples campeonatos y ascensos fundamentales para llegar a la máxima división."
+    },
+    {
+      "nombre": "Bobby Zamora",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "2000-2003, 2015-2016",
+      "desc": "Extremo explosivo en el inicio de la década de 2000. Lideró al plantel en sucesivos ascensos gracias a su olfato goleador y, tras consolidarse en otras ligas, regresó al club al final de su trayectoria."
+    },
+    {
+      "nombre": "Tug Wilson",
+      "pos": "Mediocampista",
+      "apodo": "Tug",
+      "periodo": "1922-1936",
+      "desc": "Histórico mediocampista que ostenta el récord absoluto de presentaciones en la historia de la institución. Disputó más de 500 encuentros con el plantel mayor durante la difícil época de la posguerra."
+    },
+    {
+      "nombre": "Alexis Mac Allister",
+      "pos": "Mediocampista",
+      "apodo": "",
+      "periodo": "2019-2023",
+      "desc": "Volante central de visión y técnica sudamericana que fue determinante para estructurar el equipo y lograr la histórica y primera clasificación oficial del club a competencias en los torneos de Europa."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Tommy Cook",
+      "goles": 123,
+      "partidos": 209,
+      "periodo": "1922-1929",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 123 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922-1929."
+    },
+    {
+      "nombre": "Glenn Murray",
+      "goles": 111,
+      "partidos": 287,
+      "periodo": "2008-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2020."
+    },
+    {
+      "nombre": "Kit Napier",
+      "goles": 99,
+      "partidos": 291,
+      "periodo": "1966-1972",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 99 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1972."
+    },
+    {
+      "nombre": "Peter Ward",
+      "goles": 95,
+      "partidos": 227,
+      "periodo": "1975-1980",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 95 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1980."
+    },
+    {
+      "nombre": "Bert Stephens",
+      "goles": 86,
+      "partidos": 254,
+      "periodo": "1935-1948",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 1935-1948."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Tug Wilson",
+      "partidos": 566,
+      "periodo": "1922-1936",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 566 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1922-1936."
+    },
+    {
+      "nombre": "Peter O'Sullivan",
+      "partidos": 490,
+      "periodo": "1970-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1981."
+    },
+    {
+      "nombre": "Norman Gall",
+      "partidos": 490,
+      "periodo": "1962-1974",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1974."
+    },
+    {
+      "nombre": "Lewis Dunk",
+      "partidos": 445,
+      "periodo": "2010-Actualidad",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 445 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-Actualidad."
+    },
+    {
+      "nombre": "Kerry Mayo",
+      "partidos": 413,
+      "periodo": "1996-2009",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 413 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2009."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 1,
+      "años": [
+        "1910"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 3,
+      "años": [
+        "1957-58",
+        "2000-01",
+        "2010-11"
+      ]
+    },
+    {
+      "nombre": "EFL League Two / Cuarta División",
+      "cantidad": 2,
+      "años": [
+        "1964-65",
+        "2000-01"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1948",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1948.webp"
+    },
+    {
+      "ano": "1948",
+      "url": "/escudos_historicos/brighton/brighton_1948_web.png"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1956.webp"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos_historicos/brighton/brighton_1956_web.png"
+    },
+    {
+      "ano": "1968",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1968.webp"
+    },
+    {
+      "ano": "1968",
+      "url": "/escudos_historicos/brighton/brighton_1968_web.png"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1970.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/brighton/brighton_1970_web.png"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1974.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/brighton/brighton_1974_web.png"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/brighton/brighton_1977_web.png"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_1980.webp"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/brighton/brighton_1980_web.png"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos/historicos/brighton/Brighton_1998.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/brighton/brighton_1998_web.png"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/brighton/Brighton_&_Hove_Albion_FC_logo_(2000-2011).svg"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/brighton/brighton_2000_web.png"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos/historicos/brighton/BHA100CrestA.webp"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/brighton/brighton_2001_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/brighton/brighton_2002_web.png"
+    },
+    {
+      "ano": "2004",
+      "url": "/escudos/historicos/brighton/Brighton_and_Hove_Albion_2004.webp"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos/historicos/brighton/Brighton_&_Hove_Albion_logo.svg"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos_historicos/brighton/brighton_2011_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/brighton.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Seagulls",
+      "origen": "Dictado en un acto reflejo de contragolpe sociológico forjado tras históricas tensiones acaecidas y entredichos en las plateas durante las navidades hostiles en cruces cívicos del año 1975. Tras tolerar agobiantemente coros cantando de manera denigrante asedios al público bajo la ruidosa fanfarria repetitiva entonada localmente con el insulto originario \\\"Eagles\\\" arrojado desde fanáticos agresores de Crystal Palace que volaban creyéndose majestuosas águilas altaneras rapaces, la resistencia pueblerina costera local de Sussex unida contrarrestó exclamando sus plenos coros para anular con un animal puro de su puerto marítimo y lanchas de pesca exclamando ruidosas Gaviotas que hostigaban."
+    }
+  ]
+}

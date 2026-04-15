@@ -1,0 +1,310 @@
+{
+  "id": "bayer-leverkusen",
+  "meta": {
+    "slug": "bayer-leverkusen",
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "leverkusen",
+      "bayer"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Bayer 04 Leverkusen Fußball GmbH",
+    "nombre_oficial": "Bayer 04 Leverkusen",
+    "nombre_corto": "Bayer Leverkusen",
+    "apodo": "Die Werkself (Los Once de la Compañía)",
+    "fundacion": "1904",
+    "estadio_actual": "BayArena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 30210,
+    "estadio_inauguracion": "1958",
+    "estadio_direccion": "Bismarckstraße 122-124, 51373 Leverkusen, Alemania",
+    "estadio_lat": 51.0383,
+    "estadio_lng": 7.0022,
+    "escudo_actual": "/escudos/bayer-leverkusen.webp",
+    "sigla": "B04",
+    "socios": 40000,
+    "descripcion_corta": "Club obrero fundado en 1904 bajo el amparo logístico y deportivo de la empresa Bayer AG.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E32221"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ulf Kirsten (233)",
+      "mas_presencias": "Rüdiger Vollborn (483)",
+      "mayor_goleada": "9-1 vs Ulm (2000)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1904",
+      "hito": "Base Farmacéutica",
+      "desc": "Nacimiento institucional apoyado explícitamente desde sus primeros estatutos en la fábrica química."
+    },
+    {
+      "ano": "1979",
+      "hito": "Adjudicación Pokal y UEFA",
+      "desc": "Coronación internacional que solidificó al club como protagonista fuera del país local."
+    },
+    {
+      "ano": "1988",
+      "hito": "Liderazgo de Invictos",
+      "desc": "Histórico campeonato invicto de Bundesliga comandado por un fútbol preciso y aplastante en todas sus líneas."
+    },
+    {
+      "ano": "2002",
+      "hito": "La Tragedia Estadística Nombrada Administrativamente 'Neverkusen'",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2024",
+      "hito": "El Invicto Título que Rompió la Dictadura Nacional",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "BayArena (Ulrich-Haberland-Stadion)",
+      "capacidad": "30.210",
+      "inauguracion": "1958",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bismarckstra%C3%9Fe%20122-124%2C%2051373%20Leverkusen%2C%20Alemania",
+      "direccion": "Bismarckstraße 122-124, 51373 Leverkusen, Alemania",
+      "descripcion": "Remodelado a la vanguardia bajo los gigantescos fondos industriales, sigue emplazado en la ciudad química cobijando a las cruces rojas.",
+      "lat": 51.0383,
+      "lng": 7.0022
+    },
+    {
+      "nombre": "Ulrich-Haberland-Stadion",
+      "capacidad": "22.500",
+      "inauguracion": "1958",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bismarckstra%C3%9Fe%20122%2C%2051373%20Leverkusen%2C%20Alemania",
+      "direccion": "Bismarckstraße 122, 51373 Leverkusen, Alemania",
+      "descripcion": "Estadio bautizado en memoria del presidente directivo de la corporación Bayer. Resultó reconstruido sobre su propia ubicación en las décadas recientes para forjar la moderna BayArena a la que rinde cimientos.",
+      "lat": 51.0383,
+      "lng": 7.0022
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1904,
+      "hasta": 1970,
+      "c1": "#000000",
+      "c2": "#e32221",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1970,
+      "hasta": 2002,
+      "c1": "#e32221",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#e32221",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 2003,
+      "hasta": null,
+      "c1": "#e32221",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ulf Kirsten",
+      "periodo": "1990-2003",
+      "pos": "Delantero",
+      "desc": "Histórico goleador nacido en Alemania del Este. Se retiró como el máximo anotador de la historia de la institución con un registro que supera los 200 tantos."
+    },
+    {
+      "nombre": "Stefan Kießling",
+      "periodo": "2006-2018",
+      "pos": "Delantero",
+      "desc": "Centrodelantero que mantuvo una extensa carrera en el club y se impuso como el máximo artillero de la Bundesliga en la temporada 2012-2013."
+    },
+    {
+      "nombre": "Bernd Schneider",
+      "periodo": "1999-2009",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo de gran talento técnico. Fue la principal figura creativa del equipo que logró el subcampeonato en la Liga de Campeones en 2002."
+    },
+    {
+      "nombre": "Carsten Ramelow",
+      "periodo": "1995-2008",
+      "pos": "Mediocampista",
+      "desc": "Sólido zaguero y mediocampista de contención. Durante más de doce temporadas comandó y capitaneó al plantel superando las 300 presencias oficiales."
+    },
+    {
+      "nombre": "Florian Wirtz",
+      "periodo": "2020-Act",
+      "pos": "Mediocampista",
+      "desc": "Joven volante ofensivo surgido en años recientes. Se convirtió en el principal creador de juego guiando al equipo en la obtención invicta de la liga en 2024."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ulf Kirsten",
+      "goles": 233,
+      "periodo": "1990-2003",
+      "partidos": 448,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 233 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-2003."
+    },
+    {
+      "nombre": "Stefan Kießling",
+      "goles": 162,
+      "periodo": "2006-2018",
+      "partidos": 444,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 162 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2018."
+    },
+    {
+      "nombre": "Dimitar Berbatov",
+      "goles": 91,
+      "periodo": "2001-2006",
+      "partidos": 201,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 91 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2006."
+    },
+    {
+      "nombre": "Herbert Waas",
+      "goles": 87,
+      "periodo": "1982-1989",
+      "partidos": 240,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 87 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1989."
+    },
+    {
+      "nombre": "Christian Schreier",
+      "goles": 77,
+      "periodo": "1984-1991",
+      "partidos": 237,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 77 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984-1991."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Rüdiger Vollborn",
+      "partidos": 479,
+      "periodo": "1983-1999",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 479 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1999."
+    },
+    {
+      "nombre": "Thomas Hörster",
+      "partidos": 449,
+      "periodo": "1977-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 449 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1991."
+    },
+    {
+      "nombre": "Ulf Kirsten",
+      "partidos": 448,
+      "periodo": "1990-2003",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 448 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2003."
+    },
+    {
+      "nombre": "Stefan Kießling",
+      "partidos": 444,
+      "periodo": "2006-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 444 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2018."
+    },
+    {
+      "nombre": "Carsten Ramelow",
+      "partidos": 433,
+      "periodo": "1995-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 433 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2008."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 1,
+      "anios": [
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 2,
+      "anios": [
+        "1992-93",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 1,
+      "anios": [
+        "1987-88"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 1,
+      "anios": [
+        "2024"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_locgo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_logog_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Logo_TSV_Bayer_Leverkusen_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_logro_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_logvo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_logfo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Bayer_04_Leverkusen_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayer-leverkusen/Logo_FV_Leverkusen_29.webp"
+    },
+    {
+      "ano": "1928",
+      "url": "/escudos_historicos/bayer-leverkusen/1928.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/bayer-leverkusen.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Werkself",
+      "origen": "Instituido a título oficial para acoplar el sólido arraigo metalúrgico industrial constitutivo originario. Como el dictamen fundacional deportivo fue financiado directamente por los trabajadores civiles linderos de labotarios de la inmensa corporación química Bayer AG, la afición apodó al plantel para siempre como El Once de la Fábrica."
+    }
+  ]
+}

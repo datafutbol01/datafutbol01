@@ -1,0 +1,258 @@
+{
+  "id": "nice",
+  "meta": {
+    "slug": "nice"
+  },
+  "datos": {
+    "nombre_completo": "OGC Nice",
+    "nombre_oficial": "OGC Nice",
+    "nombre_corto": "Nice",
+    "apodo": "Les Aiglons",
+    "fundacion": "9 de Julio de 1904",
+    "estadio_actual": "Allianz Riviera",
+    "presidente": "Jean-Pierre Rivère",
+    "entrenador": "Francesco Farioli",
+    "estadio_capacidad": "36.178",
+    "estadio_inauguracion": "2013",
+    "estadio_direccion": "Bd des Jardiniers, 06200 Nice, Francia",
+    "estadio_lat": 43.7052,
+    "estadio_lng": 7.1927,
+    "sigla": "OGCN",
+    "socios": 22000,
+    "descripcion_corta": "Equipo radicado al sureste de Francia que capitalizó dominio estadístico ganando cuatro ligas y múltiples copas bajo tabulaciones de la década de 1950.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#D61623"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Joaquín Valle (339 goles)",
+      "mas_presencias": "Pancho Gonzales (296 partidos)",
+      "mayor_goleada": "9-1 vs Lyon (1955)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/nice.webp"
+  },
+  "historia": [
+    {
+      "ano": "1904",
+      "hito": "Gimnastas y Obreros Forjan el Águila del Sur",
+      "desc": "El deslumbrante sol y rudo obrero calor extenuante del estival cálido mediterráneo forjaron origines cuando el 9 de julio dictaminado de 1904 deportistas inquebrantables del prestigioso y aristócrata originario aristocrático Club de Gimnasia de Niza el Gymnaste Club de Nice introdujeron de origen fundacional la pelota inyectando purísima sección de fútbol asimilando dictaminada estipulada rígidamente originaria la colosal divisa de rústicos colores rojo y negro estricto absorbiendo fusionadores rudos s formales del Gallia y encumbrando el fiero innegociable e águila inmenso formador del sur."
+    },
+    {
+      "ano": "1951",
+      "hito": "Primer Título Nacional",
+      "desc": "El OGC Nice lideró la temporada 1950-51 amarrando la estadística máxima en la tabla final, adjudicándose su primera liga documentada."
+    },
+    {
+      "ano": "1959",
+      "hito": "Cuarto Título de Ligue 1",
+      "desc": "El equipo se proclamó campeón de liga por cuarta vez (1951, 1952, 1956 y 1959), validando su éxito deportivo en la década de los cincuenta."
+    },
+    {
+      "ano": "1997",
+      "hito": "Ingreso a la Copa de Francia",
+      "desc": "A pesar de finalizar en el último lugar de la liga y descender deportivamente, el club obtuvo el título de la Copa de Francia tras vencer en penaltis al Guingamp."
+    },
+    {
+      "ano": "2016",
+      "hito": "Adquisición por Consorcio Internacional",
+      "desc": "Un consorcio asiático y norteamericano adquirió el 80% de las acciones del club. Bajo la dirección de Lucien Favre, lograron el tercer lugar del torneo en 2017."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade du Ray",
+      "capacidad": "17.415",
+      "inauguracion": "1927",
+      "desde": "1927",
+      "hasta": "2013",
+      "direccion": "Av. du Ray, 06100 Nice, Francia",
+      "lat": 43.7233,
+      "lng": 7.2597,
+      "obs": "Arena modesta rodeada arquitectónicamente dentro la trama urbana del norte de Niza, hogar de los 4 títulos coperos iniciales.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20du%20Ray%2C%2006100%20Nice%2C%20Francia"
+    },
+    {
+      "nombre": "Allianz Riviera",
+      "capacidad": "36.178",
+      "inauguracion": "2013",
+      "desde": "2013",
+      "hasta": "",
+      "direccion": "Bd des Jardiniers, 06200 Nice, Francia",
+      "lat": 43.7052,
+      "lng": 7.1927,
+      "obs": "Recinto moderno y sustentable, nombrado bajo patrocinio de acuerdos comerciales al oeste de la riviera francesa.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bd%20des%20Jardiniers%2C%2006200%20Nice%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1904,
+      "hasta": 1919,
+      "c1": "#0000cc",
+      "c2": "#000000",
+      "sh": "#0000cc",
+      "me": "#0000cc",
+      "tipo": "liso",
+      "desc": "Inicios utilizando camisolas lisas oscuras y netamente de tonalidades predominantemente azules marinos."
+    },
+    {
+      "desde": 1919,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Transición oficial a las inolvidables rayas verticales rojas y negras en honor al escudo y blasón clásico de la antigua fundación regional."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Hugo Lloris",
+      "periodo": "2005-2008",
+      "pos": "Arquero",
+      "desc": "Excepcional guardameta internacional nacido en la propia ciudad formadora absoluta. Demostró una contundente calidad afianzando su posición como titular en el club de su tierra originaria."
+    },
+    {
+      "nombre": "Pancho Gonzales",
+      "periodo": "1951-1961",
+      "pos": "Defensor",
+      "desc": "Defensor central y legendario líder franco-argentino. Disputó numerosos encuentros vistiendo el brazalete de capitán para sostener enormes defensas durante las conquistas cimeras oficiales."
+    },
+    {
+      "nombre": "Charly Loubet",
+      "periodo": "1963-1969",
+      "pos": "Delantero",
+      "desc": "Veloz delantero extremo internacional de origen francés. Tuvo varias etapas en la máxima institución construyendo con su permanencia ofensiva un profundo sentimiento de idolatría entre los asistentes."
+    },
+    {
+      "nombre": "Just Fontaine",
+      "periodo": "1953-1956",
+      "pos": "Delantero",
+      "desc": "Legendario atacante e internacional temible del frente ofensivo. Disputó históricamente temporadas en las que anotó cifras asombrosas alzando consagraciones locales fundamentales previas al mundial."
+    },
+    {
+      "nombre": "Dante",
+      "periodo": "2016-2024",
+      "pos": "Defensor",
+      "desc": "Experimentado defensor central brasileño. Asumió la capitanía oficial en su prolongada etapa moderna en el equipo aportando enorme solidez estructural y disputando asiduos torneos europeos y nacionales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Joaquín Valle",
+      "goles": 99,
+      "periodo": "1937-1948",
+      "partidos": 120,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 99 goles en competiciones oficiales durante su trayectoria en el equipo entre 1937-1948."
+    },
+    {
+      "nombre": "Charly Loubet",
+      "goles": 93,
+      "periodo": "1963-1969",
+      "partidos": 256,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 93 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1969."
+    },
+    {
+      "nombre": "Nenad Bjeković",
+      "goles": 85,
+      "periodo": "1976-1980",
+      "partidos": 143,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 85 goles en competiciones oficiales durante su trayectoria en el equipo entre 1976-1980."
+    },
+    {
+      "nombre": "Just Fontaine",
+      "goles": 52,
+      "periodo": "1953-1956",
+      "partidos": 83,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1956."
+    },
+    {
+      "nombre": "Alassane Pléa",
+      "goles": 44,
+      "periodo": "2014-2018",
+      "partidos": 135,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2018."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Pancho Gonzales",
+      "partidos": 296,
+      "periodo": "1951-1961",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 296 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1951-1961."
+    },
+    {
+      "nombre": "Dominique Baratelli",
+      "partidos": 284,
+      "periodo": "1971-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 284 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1978."
+    },
+    {
+      "nombre": "Dante",
+      "partidos": 270,
+      "periodo": "2016-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 270 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2024."
+    },
+    {
+      "nombre": "Cedric Varrault",
+      "partidos": 229,
+      "periodo": "1999-2007",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 229 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2007."
+    },
+    {
+      "nombre": "Walter Benítez",
+      "partidos": 188,
+      "periodo": "2016-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 188 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2022."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 4,
+      "anios": [
+        "1951",
+        "1952",
+        "1956",
+        "1959"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 3,
+      "anios": [
+        "1952",
+        "1954",
+        "1997"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/nice/OGC-Nice%402.-old-logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/nice/OGC-Nice.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/nice.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Aiglons",
+      "origen": "Nombramiento heráldico rubricado tras absorber herencia de los milenarios estatutos medievos cívicos locales de Niza. La efigie oficial portaba orgullosamente como escudo fundacional un águila imperial militar instalada perennemente al centro de la insignia."
+    }
+  ]
+}

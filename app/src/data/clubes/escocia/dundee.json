@@ -1,0 +1,281 @@
+{
+  "id": "dundee",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "dundee",
+      "the dark blues",
+      "dens park"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Dundee Football Club",
+    "sigla": "DUN",
+    "fundacion": "Agosto de 1893",
+    "apodo": "The Dark Blues, The Dees",
+    "estadio_actual": "Dens Park",
+    "estadio_apodo": "Dens",
+    "estadio_capacidad": 11775,
+    "estadio_inauguracion": "1899",
+    "estadio_lat": 56.4751,
+    "estadio_lng": -2.9734,
+    "estadio_direccion": "Sandeman St, Dundee DD3 7JY, Reino Unido",
+    "socios": 6500,
+    "descripcion_corta": "Histórica institución portuaria fundada tras la unión de clubes locales. Destaca por su Campeonato de Liga en 1962 y su histórica participación en las semifinales de la Copa de Europa del año siguiente.",
+    "paleta": [
+      {
+        "tag": "Azul Oscuro",
+        "hex": "#00205B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Alan Gilzean (169 goles)",
+      "mas_presencias": "Doug Cowie (445 partidos)",
+      "mayor_goleada": "10-0 vs Alloa Athletic (1947)"
+    },
+    "nombre_oficial": "Dundee Football Club",
+    "nombre_corto": "Dundee",
+    "escudo_actual": "/escudos/dundee.webp"
+  },
+  "historia": [
+    {
+      "ano": "1893",
+      "hito": "Fusión institucional e ingreso a la Liga",
+      "desc": "A finales del siglo XIX, con el objetivo de conformar una estructura deportiva capaz de competir a nivel nacional, las directivas de los clubes locales Our Boys y East End acordaron una fusión a finales del verano de 1893. Esta resolución dio origen oficial al Dundee Football Club. La entidad adoptó una indumentaria de color azul marino e ingresó formalmente a The Scottish League ese mismo año. Posteriormente, durante la consolidación de la institución en el cierre de la década (1899), trasladaron definitivamente sus operaciones a las instalaciones de Dens Park."
+    },
+    {
+      "ano": "1910",
+      "hito": "Primera consagración en la Copa de Escocia",
+      "desc": "El primer título de trascendencia nacional para la institución llegó en abril de 1910 durante la disputa de la Copa de Escocia. Tras superar las distintas fases eliminatorias, el equipo capitaneado por John 'Sailor' Hunter accedió a la definición del campeonato ante el Clyde. Dado que los dos primeros encuentros disputados en Ibrox culminaron con sendos empates oficiales (2-2 y 0-0 tras la prórroga), el reglamento estipuló un tercer partido de repetición. En este último cruce definitivo, el extremo John 'Puggy' Robertson anotó para sellar el 2-1 a favor del Dundee, obteniendo de esta forma el trofeo escocés."
+    },
+    {
+      "ano": "1961-1962",
+      "hito": "El Campeonato de Primera División bajo Bob Shankly",
+      "desc": "Bajo la administración técnica de Bob Shankly, la institución alcanzó su punto más alto a nivel doméstico. Durante la temporada 1961-1962, el equipo logró amalgamar una base sólida destacando la participación de Gordon Smith —quien establecería el récord de campeonar la liga con tres instituciones escocesas distintas— y el olfato goleador del delantero Alan Gilzean. El plantel concretó un excelente desempeño regular a lo largo del año que se coronó formalmente en la última jornada de la campaña disputada en Muirton Park ante el St. Johnstone, adjudicándose el primer y único título de la Primera División de Escocia en el historial del club."
+    },
+    {
+      "ano": "1962-1963",
+      "hito": "Semifinales de la Copa de Europa",
+      "desc": "Tras la coronación en liga, el club garantizó su ingreso a la Copa de Campeones de Europa (actual Liga de Campeones). Su recorrido continental constituyó uno de los mejores registros internacionales del fútbol escocés: en la fase inicial eliminaron al FC Köln alemán mediante un contundente global de 8-1 y posteriormente superaron a oponentes de peso como el Sporting CP y el RSC Anderlecht. La campaña los posicionó entre los cuatro mejores agrupaciones de Europa, cerrando la trayectoria tras caer derrotados en la instancia de semifinales frente al AC Milan de Italia, equipo que finalmente obtendría el campeonato en dicho torneo."
+    },
+    {
+      "ano": "2000-2010",
+      "hito": "Fluctuaciones económicas y los procesos de Administración",
+      "desc": "A principios del siglo XXI, bajo la gestión directiva de la familia Marr, el club abordó una política de fichajes de perfil internacional atípica parasus estándares históricos, incorporando a figuras mediáticas como el atacante argentino Claudio Caniggia o el georgiano Temuri Ketsbaia. Sin embargo, dicha inversión generó un profundo desequilibrio financiero que derivó fatalmente en la intervención externa de la institución, cayendo en proceso de Administración en los años 2003 y 2010. Pese a sufrir severos embargos y la drástica penalización estatutaria de 25 puntos en el campeonato, la movilización de patrocinadores locales y aportes directos por la base de aficionados permitió resarcir las deudas salvando al club de la disolución legal corporativa."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Dens Park (Dens)",
+      "capacidad": "11775",
+      "inauguracion": "1899",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sandeman%20St%2C%20Dundee%20DD3%207JY%2C%20Reino%20Unido",
+      "direccion": "Sandeman St, Dundee DD3 7JY, Reino Unido",
+      "lat": 56.4751,
+      "lng": -2.9734,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish League Championship",
+      "cantidad": 1,
+      "anios": [
+        "1961-62"
+      ]
+    },
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 1,
+      "anios": [
+        "1909-10"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 3,
+      "anios": [
+        "1951-52",
+        "1952",
+        "1973-74"
+      ]
+    },
+    {
+      "nombre": "Scottish Challenge Cup",
+      "cantidad": 1,
+      "anios": [
+        "1990"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1893,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Sello distintivo arraigado desde su constitución y amalgama original. Implementan por estatuto un inamovible ropaje donde el diseño impone un austero y muy sobrio azul marino muy oscuro y sumamente liso de cuello simple que solo se permite contrastes rojos en vivos secundarios pero nunca alterando la limpieza de su pechera base."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Alan Gilzean",
+      "pos": "Leyenda / Referente",
+      "periodo": "1957-1964",
+      "desc": "Artillero fulgurante que definió la consagración liguera escocesa de 1962. Sus impresionantes registros goleadores forjaron una leyenda intocable antes de brillar y afianzarse competitivamente en Inglaterra.",
+      "apodo": "Gilly"
+    },
+    {
+      "nombre": "Bobby Cox",
+      "pos": "Leyenda / Referente",
+      "periodo": "1956-1969",
+      "desc": "Capitán indiscutible y símbolo de la solidez táctica de los Dens. Alzó el trofeo mayor defendiendo aguerridamente la retaguardia en el único campeonato absoluto logrado institucionalmente.",
+      "apodo": "Cox"
+    },
+    {
+      "nombre": "Gordon Smith",
+      "pos": "Leyenda / Referente",
+      "periodo": "1961-1964",
+      "desc": "Extremo de maestría indudable en la fase final de su carrera. Resultó ser el engranaje creativo faltante para alcanzar el asombroso título absoluto de primera división consagratorio y directo de la institución.",
+      "apodo": "The Prince of Wingers"
+    },
+    {
+      "nombre": "Julián Speroni",
+      "pos": "Leyenda / Referente",
+      "periodo": "2001-2004",
+      "desc": "Portero de grandes tapadas que cimentó sólidas actuaciones. Se volvió ícono con reflejos felinos ganándose el corazón foráneo e inscribiendo un firme paso de seguridad neta antes de partir al éxito sur.",
+      "apodo": "El Flaco"
+    },
+    {
+      "nombre": "Claudio Caniggia",
+      "pos": "Leyenda / Referente",
+      "periodo": "2000-2001",
+      "desc": "Genio transitorio pero de enorme furor e impacto publicitario y deportivo. Aunque su instancia resultó breve, deslumbró masivamente revitalizando perfiles mediáticos con piques rápidos indescifrables a las defensas locales.",
+      "apodo": "El Pájaro"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Alan Gilzean",
+      "goles": 169,
+      "periodo": "1957-1964",
+      "desc": "Lidera con autoridad los registros modernos, manteniendo una asombrosa efectividad que certificó las coronaciones fundamentales a nivel doméstico logrando un porcentaje supremo resolutivo e inigualable históricamente."
+    },
+    {
+      "nombre": "Jocky Scott",
+      "goles": 120,
+      "periodo": "1964-1975",
+      "desc": "Atacante creativo desequilibrante, firmó ciento veinte conversiones de altísima calidad en una etapa marcada estadísticamente por su constante e inteligente intervención generadora y goleadora definitiva resolutiva."
+    },
+    {
+      "nombre": "Billy Pirie",
+      "goles": 106,
+      "periodo": "1960-1964",
+      "desc": "Infló las redes estableciendo una cota estipulada de cien seis resoluciones. Su puntería contundente fortaleció un equipo emergente aportando rígidamente una cuota vital de gol permanente estricto."
+    },
+    {
+      "nombre": "Andy Penman",
+      "goles": 88,
+      "periodo": "1959-1967",
+      "desc": "Ejecutor tenaz asumiendo registros plenos paramétricos acumulando festejos continuados consolidándose formalmente en un escalafón goleador histórico puro que cimentó el respeto ofensivo escocés y local absoluto constante."
+    },
+    {
+      "nombre": "Tommy Coyne",
+      "goles": 50,
+      "periodo": "1986-1989",
+      "desc": "Delantero letal de paso consistente, totalizando una media centena en competiciones formales estableciendo en su época ochentera cifras contundentes que lo destacaron entre puras bases ofensivas contemporáneas de altísimo nivel."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Doug Cowie",
+      "partidos": 445,
+      "periodo": "1945-1961",
+      "desc": "Defensor veterano estipulado bajo récords absolutos. Sus registros posteriores al conflicto bélico marcaron pautas inamovibles cruzando estipuladas formales burocráticas históricas totales plenas de la defensa inquebrantable de los de Dundee pura."
+    },
+    {
+      "nombre": "Bobby Cox",
+      "partidos": 433,
+      "periodo": "1956-1969",
+      "desc": "Referente absoluto alineándose persistentemente durante las glorias de los decenios fácticos sumando a la estipulada copa titularidades casi obligadas en todos los encuentros de envergadura."
+    },
+    {
+      "nombre": "Barry Smith",
+      "partidos": 400,
+      "periodo": "1995-2007",
+      "desc": "Contención contemporánea registrando parámetros exactos de cuatrocientas lides asiduas. Fiel capitán durante las crisis directivas que supo alzar banderas leales cimentando puros registros constantes frente a situaciones difíciles de permanencia directas plenas."
+    },
+    {
+      "nombre": "Alan Cousin",
+      "partidos": 384,
+      "periodo": "1957-1965",
+      "desc": "Delantero de apoyo actuando de manera prolongada acumulando las participaciones estipuladas garantizando un número alto con dianas valiosas en el gran trofeo aportando constancias comprobadas en casi las cuatrocientas nóminas certeras paramétricas puros dictámenes."
+    },
+    {
+      "nombre": "Alex Stuart",
+      "partidos": 330,
+      "periodo": "1958-1969",
+      "desc": "Jugador riguroso oficializando sus actuaciones defensivas formales en la dorada fase histórica burocrática del plantel asumiendo estática sumas asiduas directas constantes firmes puramente aseguradas reales plenas fácticas escocesas completas y exactas de titular indiscutido titular."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1899-1944",
+      "url": "/escudos_historicos/dundee/1899-1944.webp"
+    },
+    {
+      "ano": "1944-1952",
+      "url": "/escudos_historicos/dundee/1944-1952.webp"
+    },
+    {
+      "ano": "1952-1955",
+      "url": "/escudos_historicos/dundee/1952-1955.webp"
+    },
+    {
+      "ano": "1955-1970",
+      "url": "/escudos_historicos/dundee/1955-1970DFC.webp"
+    },
+    {
+      "ano": "1970-1972",
+      "url": "/escudos_historicos/dundee/1970-1972DFC.webp"
+    },
+    {
+      "ano": "1972-1987",
+      "url": "/escudos_historicos/dundee/1972-1987DFC.webp"
+    },
+    {
+      "ano": "1987-2008",
+      "url": "/escudos_historicos/dundee/Dundee_FC_logo1987-2008.webp"
+    },
+    {
+      "ano": "2008-2016",
+      "url": "/escudos_historicos/dundee/Dundee_FC_logo2008-2016.webp"
+    },
+    {
+      "ano": "2016-2024",
+      "url": "/escudos_historicos/dundee/Dundeefc2016-2024.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/dundee.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Dark Blues",
+      "origen": "El término se estableció orgánicamente en el lenguaje periodístico desde los albores de la fundación del club. Obedece de forma directa y explicativa a la tonalidad azul marino oscuro seleccionada para el uniforme titular original de la plantilla, con la estricta finalidad de evitar cualquier confusión visual con las vestimentas celestes u otros azules de la región."
+    },
+    {
+      "apodo": "The Dees",
+      "origen": "Es un diminutivo sociológico y fonético empleado popularmente por su base de aficionados. Resulta de la abreviación y extracción directa de la sílaba inicial de la ciudad homónima (Dundee), consolidándose como el pronombre de aliento hegemónico utilizado durante los encuentros en el estadio Dens Park."
+    }
+  ]
+}

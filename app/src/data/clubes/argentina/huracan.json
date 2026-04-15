@@ -1,0 +1,320 @@
+{
+  "id": "huracan",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "sexto grande",
+      "parque patricios",
+      "globo"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Huracán",
+    "sigla": "CAH",
+    "fundacion": "1 de noviembre de 1908",
+    "apodo": "El Globo, Los Quemeros",
+    "estadio_actual": "Tomás Adolfo Ducó",
+    "estadio_apodo": "El Palacio",
+    "estadio_capacidad": 48314,
+    "estadio_inauguracion": "1947-09-07",
+    "estadio_lat": -34.6433,
+    "estadio_lng": -58.3975,
+    "estadio_direccion": "Av. Amancio Alcorta 2570, Parque Patricios, CABA",
+    "socios": 35000,
+    "descripcion_corta": "Fundado institucionalmente en 1908 en el barrio de Nueva Pompeya y afincado en Parque Patricios. Conocido como 'El Globo', es una de las instituciones más tradicionales del fútbol argentino, destacándose especialmente en la era amateur y coronando de forma emblemática el Torneo Metropolitano de 1973 con un destacado juego ofensivo.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#ED1C24"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "10-4 a Rosario Central (1945)",
+      "maximo_goleador": "Herminio Masantonio (254 goles)",
+      "mas_presencias": "Miguel Ángel Brindisi (361 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1908",
+      "hito": "El globo indomable en las veredas de Nueva Pompeya",
+      "desc": "La verdadera epopeya barrial germinó originalmente en una callejuela apartada de Nueva Pompeya en mayo de 1903 (fundando 'Verde Esperanza y No Pierde'), aunque su acto bautismal formal e irrepetible acaeció recién el 1 de noviembre de 1908. Sobre la vereda misma y apoyados sobre una columna de alumbrado frente a una vieja maderera de la calle Patagones 2250, jóvenes audaces como Américo Stefanini y José Laguna (primer presidente oficial) suscribieron la creación del Club Atlético Huracán, inspirando directamente su nombre en el globo aerostático del aeronauta argentino Jorge Newbery."
+    },
+    {
+      "ano": "1920-1928",
+      "hito": "La hegemónica y abrumadora máquina del Amateurismo",
+      "desc": "Previo al nacimiento formal y oficial del profesionalismo estructurado, el club encadenó años despóticos en el máximo circuito de la Asociación Amateurs forjando escuadras intocables que derrocharon elegancia. Entrelazadas con una mística legendaria, conquistaron majestuosamente cuatro títulos de liga oficiales absolutamente incuestionables (1921, 1922, 1925, 1928). Guillermo Stábile y Herminio Masantonio cimentaron aquí su reputación feroz y mortífera de red, siendo pilares esenciales de los orígenes de la propia Selección Nacional."
+    },
+    {
+      "ano": "1973",
+      "hito": "El ballet poético y revolucionario de César Luis Menotti",
+      "desc": "Hartos permanentemente de batallas rústicas, el nombramiento del ideólogo rosarino César Luis Menotti transformó a la institución de Parque de los Patricios en la usina principal del 'fútbol bello y ofensivo' continental. Dominando holgadamente y a precisión estética el Campeonato Metropolitano de 1973, erigieron un ballet sincronizado que enloquecía los domingos conducido férreamente desde el gramado por René Houseman en compañía legendaria del letal y talentoso quinteto ofensivo que orquestaban Babington, Brindisi, Larrosa y Avallay."
+    },
+    {
+      "ano": "2009",
+      "hito": "Los 'Ángeles de Cappa' y la polémica resurrección romántica",
+      "desc": "Luchando por reponer prestigio social perdido luego de crudos años de descensos administrativos, la dirigencia delegó en 2009 la responsabilidad deportiva al 'Flaco' Ángel Cappa. Apostando en extremo casi insensato por el monopolio de la pelota y apoyados en una usina generadora implacable comandada por Javier Pastore, Mario Bolatti y Matías De Federico, cautivaron de forma unánime al continente. Su vuelo maravilloso y fue cruelmente interrumpido en los desastrosos fallos de la última fecha liguera final ante Vélez Sarsfield, perdiendo allí la oportunidad insustituible del histórico título liguero."
+    },
+    {
+      "ano": "2014",
+      "hito": "La redención oficial en la Copa Argentina",
+      "desc": "Sofocado en un pozo sinfín desde el año 1973, Huracán extirpó décadas de fracasos mediante su triunfo indiscutible dentro de la Copa Argentina. Bajo la conducción técnica de Néstor Apuzzo, la sufrida plantilla quemera rompió en un desgarrador desahogo emocional tras doblegar al equipo de Rosario Central a fortaleza y definición desde la dramática y agónica lotería penalera en el cruce cumbre consumado en Cuyo. Este suceso coronó a 'Wanchope' Ábila, de enorme tarea lícita, y depositó de inmediato al globo nuevamente compitiendo por la posterior final de Copa Sudamericana 2015."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha de Chiclana",
+      "direccion": "Avenida Chiclana y La Plata, Nueva Pompeya",
+      "desde": 1914,
+      "hasta": 1924,
+      "estado": "Desalojado",
+      "obs": "Fue el terreno deportivo fundamental en la primera etapa de expansión y éxito institucional del club durante los exitosos años del amateurismo, antes de efectuarse el definitivo traslado de sus instalaciones.",
+      "lat": -34.6483,
+      "lng": -58.3961,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Chiclana%20y%20La%20Plata%2C%20Nueva%20Pompeya"
+    },
+    {
+      "nombre": "Estadio Tomás Adolfo Ducó",
+      "direccion": "Avenida Amancio Alcorta 2570, Parque Patricios, CABA",
+      "desde": 1947,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Instalación de gran envergadura conocida popularmente como 'El Palacio'. Ideado, impulsado y construido durante la gestión del Teniente Coronel Tomás Ducó, fue declarado Patrimonio Histórico y Cultural de la Ciudad de Buenos Aires por su valor arquitectónico.",
+      "lat": -34.6433,
+      "lng": -58.3975,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Amancio%20Alcorta%202570%2C%20Parque%20Patricios%2C%20CABA"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1908,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Extremadamente pulcro y monumental manto enteramente liso albo fundacional crudo virginal decorado exclusivamente incrustado al corazón letal con la silueta de un e globo aerostático escarlata imperecedero forjado legendario con hilo de pasión y sangre barrial directa quemera en Patricios."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "René Houseman",
+      "pos": "Extremo Derecho",
+      "apodo": "El Loco",
+      "periodo": "1973-1980",
+      "desc": "Considerado históricamente por la prensa deportiva argentina como uno de los máximos extremos diestros de su época. Figura irremplazable, veloz y dotada de regate indescifrable en aquel imponente plantel consagrado en el año 1973."
+    },
+    {
+      "nombre": "Herminio Masantonio",
+      "pos": "Centrodelantero",
+      "apodo": "Masa / El Mortero de Patricios",
+      "periodo": "1931-1943",
+      "desc": "Corpulento y potente centrodelantero fundamental en la cimentación histórica de la década de 1930. Fue uno de los máximos artilleros del campeonato de primera y el goleador más regular de la selección albiceleste de su era particular."
+    },
+    {
+      "nombre": "Miguel Ángel Brindisi",
+      "pos": "Mediocampista",
+      "apodo": "Miguel",
+      "periodo": "1967-1976",
+      "desc": "Volante excepcional que reunía inteligencia táctica, tranco fluido y asombrosa capacidad de definición. Fue uno de los líderes futbolísticos en las recordadas épocas de César Luis Menotti, integrando un mediocampo altamente vistoso."
+    },
+    {
+      "nombre": "Carlos Babington",
+      "pos": "Enganche",
+      "apodo": "El Inglés",
+      "periodo": "1968-1974, 1979-1982",
+      "desc": "Enganche habilidoso conocido por su excelsa técnica y pierna zurda de galera. Sostén y orquestador natural del equipo que levantó la corona de 1973, completando décadas luego un ciclo histórico como director técnico."
+    },
+    {
+      "nombre": "Emilio Baldonedo",
+      "pos": "Delantero",
+      "apodo": "Milo",
+      "periodo": "1935-1944",
+      "desc": "Atacante de letal capacidad anotadora que brilló conformando emblemáticas asociaciones goleadoras durante la década del 30 y 40 antes y después de su pasaje por el extranjero. Sus cuotas frente al arco superaron abundantemente el centenar."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Herminio Masantonio",
+      "goles": 254,
+      "partidos": 349,
+      "periodo": "1931-1943",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 254 goles en competiciones oficiales durante su trayectoria en el equipo entre 1931-1943."
+    },
+    {
+      "nombre": "Emilio Baldonedo",
+      "goles": 165,
+      "partidos": 257,
+      "periodo": "1935-1944",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 165 goles en competiciones oficiales durante su trayectoria en el equipo entre 1935-1944."
+    },
+    {
+      "nombre": "Norberto Conde",
+      "goles": 112,
+      "partidos": 224,
+      "periodo": "1952-1964",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1964."
+    },
+    {
+      "nombre": "René Houseman",
+      "goles": 109,
+      "partidos": 277,
+      "periodo": "1973-1980",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 109 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1980."
+    },
+    {
+      "nombre": "Cesáreo Onzari",
+      "goles": 68,
+      "partidos": 215,
+      "periodo": "1921-1933",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 68 goles en competiciones oficiales durante su trayectoria en el equipo entre 1921-1933."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Miguel Ángel Brindisi",
+      "partidos": 361,
+      "periodo": "1967-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 361 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1979."
+    },
+    {
+      "nombre": "Carlos Babington",
+      "partidos": 305,
+      "periodo": "1969-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 305 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1982."
+    },
+    {
+      "nombre": "Jorge Carrascosa",
+      "partidos": 287,
+      "periodo": "1973-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 287 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1981."
+    },
+    {
+      "nombre": "René Houseman",
+      "partidos": 277,
+      "periodo": "1973-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 277 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1980."
+    },
+    {
+      "nombre": "Roque Avallay",
+      "partidos": 253,
+      "periodo": "1970-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 253 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1976."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 5,
+      "años": [
+        "1921",
+        "1922",
+        "1925",
+        "1928",
+        "1973"
+      ]
+    },
+    {
+      "nombre": "Copa Argentina / Supercopa Argentina",
+      "cantidad": 2,
+      "años": [
+        "2014",
+        "2014"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 6,
+      "años": [
+        "1920",
+        "1922",
+        "1925",
+        "1942",
+        "1943",
+        "1944"
+      ]
+    },
+    {
+      "nombre": "Primera Nacional / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1990",
+        "2000"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1907",
+      "url": "/escudos_historicos/huracan/huracan_1907_web.png"
+    },
+    {
+      "ano": "1907",
+      "url": "/escudos/historicos/huracan/Hurac-n_1907.webp"
+    },
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/huracan/huracan_1908_web.png"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos_historicos/huracan/huracan_1911_web.png"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos/historicos/huracan/Hurac-n_1911.webp"
+    },
+    {
+      "ano": "1933",
+      "url": "/escudos_historicos/huracan/huracan_1933_web.png"
+    },
+    {
+      "ano": "1933",
+      "url": "/escudos/historicos/huracan/Hurac-n_1933.webp"
+    },
+    {
+      "ano": "1957",
+      "url": "/escudos_historicos/huracan/huracan_1957_web.png"
+    },
+    {
+      "ano": "1957",
+      "url": "/escudos/historicos/huracan/Hurac-n_1957.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/huracan/huracan_1973_web.png"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos/historicos/huracan/Hurac-n_1973.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/huracan/huracan_1988_web.png"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos_historicos/huracan/huracan_2011_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/1280px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Globo",
+      "origen": "Constituido de hecho como un tributo póstumo honrando la figura de un pionero local aerostático en ingeniería. La directiva basó de modo textual la totalidad de la insignia adoptada asimilando una reproducción en ropa y en indumentaria oficial del mítico modelo aeronáutico bautizado Huracán. La famosa embarcación aérea tripulada estaba a exclusivo comando general del ingeniero patrio e ídolo argentino Jorge Newbery. Los socios fundacionales decidieron por estatuto plasmar esta impronta oficial asimilando textualmente el recuerdo de Newbery fallecido heroicamente y dejando en el pecho su memoria perpetua."
+    },
+    {
+      "apodo": "Los Quemeros",
+      "origen": "Adquirió un claro anclaje de referencia de uso popular producto del lugar estricto de origen histórico contiguo de su fundación base barrial sur. Al momento de originarse netamente en el arrabal de Parque y en Patricios su terreno, toda de la y delimitación limitaba céntricamente y del en linderos oficial al textualmente y extenso campo masivo generalizado donde la municipalidad capitalina vertía e incineraba el grueso y la suma la basura de origen a cielo descubierto y libre en terrenos estatales llamados directamente La Quema pública."
+    }
+  ]
+}

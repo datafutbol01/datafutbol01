@@ -1,0 +1,241 @@
+{
+  "id": "heidenheim",
+  "meta": {
+    "slug": "heidenheim"
+  },
+  "datos": {
+    "nombre_completo": "1. Fußballclub Heidenheim 1846 e. V.",
+    "nombre_oficial": "1. FC Heidenheim",
+    "nombre_corto": "Heidenheim",
+    "apodo": "Ninguno",
+    "fundacion": "2007",
+    "estadio_actual": "Voith-Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 15000,
+    "estadio_inauguracion": "1979",
+    "estadio_direccion": "Schloßhaustraße 162, 89522 Heidenheim an der Brenz, Alemania",
+    "estadio_lat": 48.6685,
+    "estadio_lng": 10.1394,
+    "escudo_actual": "/escudos/heidenheim.webp",
+    "sigla": "FCH",
+    "socios": 15000,
+    "descripcion_corta": "Club local ascendido progresivamente desde las ligas regionales hasta la élite moderna del fútbol alemán.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E3001B"
+      },
+      {
+        "tag": "Azul Profundo",
+        "hex": "#002C5F"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Marc Schnatterer (122)",
+      "mas_presencias": "Marc Schnatterer (427)",
+      "mayor_goleada": "4-0 vs múltiple"
+    }
+  },
+  "historia": [
+    {
+      "ano": "2007",
+      "hito": "La Escisión y el Nacimiento del Profesionalismo",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2007",
+      "hito": "Reestructuración y Separación de la Entidad Principal",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2014",
+      "hito": "Contrato a Frank Schmidt y Ascenso a Segunda División",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2020",
+      "hito": "La Frustración en la Eliminatoria de Promoción",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2023",
+      "hito": "Campeonato y Ascenso Histórico de Último Minuto",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Albstadion",
+      "capacidad": "8.000",
+      "inauguracion": "1972",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schlo%C3%9Fhaustra%C3%9Fe%20162%2C%2089522%20Heidenheim%2C%20Alemania",
+      "direccion": "Schloßhaustraße 162, 89522 Heidenheim, Alemania",
+      "descripcion": "Estatus originario y formal nombre previo con instalaciones de pista para lo que gradualmente se reformó, adaptó estructuralmente y cerró dando pie a la poderosa Arena contemporánea.",
+      "lat": 48.6685,
+      "lng": 10.1394
+    },
+    {
+      "nombre": "Voith-Arena (Albstadion)",
+      "capacidad": "15.000",
+      "inauguracion": "1979",
+      "url": "https://www.google.com/maps/search/?api=1&query=Schlo%C3%9Fhaustra%C3%9Fe%20162%2C%2089522%20Heidenheim%20an%20der%20Brenz%2C%20Alemania",
+      "direccion": "Schloßhaustraße 162, 89522 Heidenheim an der Brenz, Alemania",
+      "descripcion": "Un cofre de 15,000 butacas donde un pueblito de bajo presupuesto abate en la cima de la colina escarpada a temibles monstruos gigantes millonarios.",
+      "lat": 48.6685,
+      "lng": 10.1394
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 2007,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#002d6b",
+      "sh": "#002d6b",
+      "me": "#e30613",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Marc Schnatterer",
+      "periodo": "2008-2021",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista emblema e indiscutido capitán del equipo. Integró sostenidamente el plantel que logró múltiples ascensos liderando las estadísticas como el mayor asistidor histórico."
+    },
+    {
+      "nombre": "Tim Kleindienst",
+      "periodo": "2016-2024",
+      "pos": "Delantero",
+      "desc": "Delantero centro contemporáneo de gran presencia física. Aportó una cuota de goles mayoritaria y definitiva para alcanzar el histórico ascenso oficial a la primera categoría."
+    },
+    {
+      "nombre": "Kevin Müller",
+      "periodo": "2015-Act",
+      "pos": "Arquero",
+      "desc": "Guardameta titular de extenso recorrido. Custodió las redes apoyando de forma fundamental a la escuadra durante históricas campañas hasta consolidarse en la máxima liga alemana."
+    },
+    {
+      "nombre": "Patrick Mainka",
+      "periodo": "2018-Act",
+      "pos": "Defensor",
+      "desc": "Sólido zaguero central asiduamente titularizado que asumió la principal defensa y portó la capitanía liderando al equipo debutante de primera división oficial."
+    },
+    {
+      "nombre": "Marnon Busch",
+      "periodo": "2017-Act",
+      "pos": "Defensor",
+      "desc": "Defensor lateral con alta regularidad presencial colaborando a generar bases estables que permitieron la clasificación institucional reciente en competencias ligueras superiores formales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Marc Schnatterer",
+      "goles": 122,
+      "periodo": "2008-2021",
+      "partidos": 427,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 122 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2021."
+    },
+    {
+      "nombre": "Tim Kleindienst",
+      "goles": 83,
+      "periodo": "2016-2024",
+      "partidos": 158,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 83 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2024."
+    },
+    {
+      "nombre": "Andreas Spann",
+      "goles": 43,
+      "periodo": "2004-2012",
+      "partidos": 175,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 43 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2012."
+    },
+    {
+      "nombre": "Christian Gmünder",
+      "goles": 29,
+      "periodo": "2006-2011",
+      "partidos": 150,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 29 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2011."
+    },
+    {
+      "nombre": "Denis Thomalla",
+      "goles": 23,
+      "periodo": "2016-Act",
+      "partidos": 222,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 23 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-Act."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Marc Schnatterer",
+      "partidos": 427,
+      "periodo": "2008-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2021."
+    },
+    {
+      "nombre": "Kevin Müller",
+      "partidos": 315,
+      "periodo": "2015-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 315 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Act."
+    },
+    {
+      "nombre": "Norman Theuerkauf",
+      "partidos": 310,
+      "periodo": "2015-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Act."
+    },
+    {
+      "nombre": "Patrick Mainka",
+      "partidos": 212,
+      "periodo": "2018-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 212 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-Act."
+    },
+    {
+      "nombre": "Marnon Busch",
+      "partidos": 202,
+      "periodo": "2017-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 202 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-Act."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 1,
+      "anios": [
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "3. Liga",
+      "cantidad": 1,
+      "anios": [
+        "2013-14"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/heidenheim/Heidenheim.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/heidenheim.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "FCH",
+      "origen": "Acuñado por la afición en virtud a simplificar ruidosamente de forma veloz su larga y compleja nomenclatura fáctica germana en las canciones populares. Instalaron como himno referir al pequeño conjunto lícito mediante la fuerte unión de letras derivadas de Fußballclub Heidenheim resumiendo todo su nativo linaje obrero del centro local."
+    }
+  ]
+}

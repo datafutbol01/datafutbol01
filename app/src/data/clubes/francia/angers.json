@@ -1,0 +1,218 @@
+{
+  "id": "angers",
+  "meta": {
+    "slug": "angers"
+  },
+  "datos": {
+    "nombre_completo": "Angers SCO",
+    "nombre_oficial": "Angers SCO",
+    "nombre_corto": "Angers",
+    "apodo": "Les Scoïstes",
+    "fundacion": "1919",
+    "estadio_actual": "Stade Raymond Kopa (Anteriormente Jean-Bouin)",
+    "presidente": "Romain Chabane",
+    "entrenador": "Alexandre Dujeux",
+    "estadio_capacidad": "18.752",
+    "estadio_inauguracion": "1912",
+    "estadio_direccion": "73 Bd Jacques Portet, 49000 Angers, Francia",
+    "estadio_lat": 47.4608,
+    "estadio_lng": -0.5305,
+    "sigla": "SCO",
+    "socios": 8500,
+    "descripcion_corta": "Representante geográfico de la región de Países del Loira establecido formativamente en la mesa directiva en 1919, oscilando constantemente la jerarquía central del campeonato.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Stéphane Moulin (41 goles)",
+      "mas_presencias": "Vincent Manceau (324 partidos)",
+      "mayor_goleada": "6-1 vs Ajaccio (2014)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/angers.webp"
+  },
+  "historia": [
+    {
+      "ano": "1919",
+      "hito": "El Nacimiento del SCO Angers Tras la Gran Guerra",
+      "desc": "Con el fin de la Primera Guerra Mundial, las arcas y ánimos de la ciudad de Angers necesitaban resurgir. El 10 de octubre de 1919, bajo el impulso de los hermanos Auguste y Georges Fortin, directores del banco local Crédit de l'Ouest, se fundó el Sporting Club de l'Ouest (SCO) en el recinto del café Le Fresne. La visión original fue consolidar una entidad polideportiva sólida y corporativa que absorbiera el modesto club previo 'Angers Université Club', unificando a los pioneros futbolísticos de la prefectura de Maine-et-Loire bajo un estricto color blanco y negro."
+    },
+    {
+      "ano": "1956",
+      "hito": "Primer Ascenso a Primera División",
+      "desc": "El club logró el subcampeonato en la temporada 1955-56 de la Division 2, asegurando el ascenso para competir en la máxima categoría del fútbol francés por primera vez."
+    },
+    {
+      "ano": "1967",
+      "hito": "Tercer Puesto Histórico en Ligue 1",
+      "desc": "El equipo alcanzó la tercera ubicación del campeonato de liga, consiguiendo la mejor estadística posicional del equipo en la historia de la primera división."
+    },
+    {
+      "ano": "1972",
+      "hito": "Participación en la Copa de la UEFA",
+      "desc": "El club disputó su primer torneo continental oficial enfrentándose al Dynamo de Berlín en la primera ronda eliminatoria de la Copa de la UEFA."
+    },
+    {
+      "ano": "2017",
+      "hito": "Subcampeonato de la Copa de Francia",
+      "desc": "El equipo alcanzó la final de la Copa de Francia en 2017, perdiendo el encuentro decisivo por 1-0 frente al Paris Saint-Germain tras un autogol en tiempo de descuento."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Raymond Kopa (Anteriormente Jean-Bouin)",
+      "capacidad": "18.752",
+      "inauguracion": "1912",
+      "desde": "1912",
+      "hasta": "",
+      "direccion": "73 Bd Jacques Portet, 49000 Angers, Francia",
+      "lat": 47.4608,
+      "lng": -0.5305,
+      "obs": "Hogar centenario del Angers, conocido originalmente como Stade Jean-Bouin hasta su rebautizo en 2017.",
+      "url": "https://www.google.com/maps/search/?api=1&query=73%20Bd%20Jacques%20Portet%2C%2049000%20Angers%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1919,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Clásica indumentaria blanquinegra rayada que ha distinguido al club a lo largo de cien años."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Raymond Kopa",
+      "periodo": "1949-1951",
+      "pos": "Mediocampista",
+      "desc": "Legendario mediocampista ofensivo y ganador posterior del Balón de Oro. Inició su carrera profesional en el club antes de consagrarse a nivel mundial."
+    },
+    {
+      "nombre": "Jean-Marc Guillou",
+      "periodo": "1966-1975",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista creativo. Disputó una extensa etapa en la década de los setenta destacándose como el conductor táctico oficial y principal armador del equipo."
+    },
+    {
+      "nombre": "Vincent Manceau",
+      "periodo": "2008-2022",
+      "pos": "Defensor",
+      "desc": "Defensor lateral surgido enteramente de las academias juveniles. Jugó catorce años en el club y posee el récord absoluto de mayor cantidad de presencias."
+    },
+    {
+      "nombre": "Stéphane Moulin",
+      "periodo": "1984-1990",
+      "pos": "Mediocampista",
+      "desc": "Histórico mediocampista que posteriormente sumó labores como entrenador, dirigiendo permanentemente a la plantilla para batir récord de permanencia en la máxima liga."
+    },
+    {
+      "nombre": "Cheikh N'Doye",
+      "periodo": "2015-2019",
+      "pos": "Mediocampista",
+      "desc": "Fuerte mediocampista senegalés de gran exigencia física. Asumió la capitanía general y comandó al plantel en las posiciones aseguradas durante el regreso a la élite."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jean Deloffre",
+      "goles": 53,
+      "periodo": "1959-1965",
+      "partidos": 152,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 1959-1965."
+    },
+    {
+      "nombre": "Stéphane Bahoken",
+      "goles": 28,
+      "periodo": "2018-2022",
+      "partidos": 135,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2022."
+    },
+    {
+      "nombre": "Pierrick Capelle",
+      "goles": 22,
+      "periodo": "2015-Act",
+      "partidos": 330,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Act."
+    },
+    {
+      "nombre": "Karl Toko Ekambi",
+      "goles": 17,
+      "periodo": "2016-2018",
+      "partidos": 72,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 17 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2018."
+    },
+    {
+      "nombre": "Famara Diédhiou",
+      "goles": 8,
+      "periodo": "2016-2017",
+      "partidos": 31,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 8 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2017."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Pierre Bourdel",
+      "partidos": 471,
+      "periodo": "1963-1975",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 471 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1975."
+    },
+    {
+      "nombre": "Vincent Manceau",
+      "partidos": 389,
+      "periodo": "2008-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 389 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2022."
+    },
+    {
+      "nombre": "Pierrick Capelle",
+      "partidos": 330,
+      "periodo": "2015-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 330 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Act."
+    },
+    {
+      "nombre": "Romain Thomas",
+      "partidos": 327,
+      "periodo": "2013-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2022."
+    },
+    {
+      "nombre": "Ismaël Traoré",
+      "partidos": 228,
+      "periodo": "2015-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 228 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2022."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/angers/Angers_Sco_Before_1994.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/angers/Angers_SCO_1994.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/angers/Angers_SCO.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/angers/Angers_SCO_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/angers.webp"
+    }
+  ]
+}

@@ -1,0 +1,1346 @@
+{
+    "id": "san-lorenzo",
+    "liga_id": "primera-division-argentina",
+    "datos": {
+        "nombre_oficial": "Club Atlético San Lorenzo de Almagro",
+        "nombre_corto": "San Lorenzo",
+        "apodos": [
+            "El Ciclón",
+            "El Cuervo",
+            "El Ciclón de Boedo",
+            "CASLA",
+            "Los Azulgranas"
+        ],
+        "fundacion": "1908-04-01",
+        "ciudad": "Buenos Aires",
+        "barrio": "Bajo Flores / Boedo (histórico)",
+        "pais": "Argentina",
+        "estadio_actual": "Estadio Pedro Bidegain",
+        "estadio_apodo": "Nuevo Gasómetro",
+        "estadio_capacidad": 47964,
+        "estadio_lat": -34.6458,
+        "estadio_lng": -58.4386,
+        "estadio_direccion": "Av. Perito Moreno, Varela y Fco. Fernández de La Cruz, Bajo Flores, CABA",
+        "debut_primera": 1915,
+        "fundadores": [
+            "Federico Monti",
+            "Antonio Scaramusso",
+            "Los Forzosos de Almagro"
+        ],
+        "figura_fundacional": "Padre Lorenzo Bartolomé Massa (sacerdote salesiano)"
+    },
+    "historia": [
+        "A principios de 1907, un grupo de jóvenes apodados 'Los Forzosos de Almagro' jugaban al fútbol en la esquina de México y Treinta y Tres Orientales. El padre salesiano Lorenzo Massa los convenció de abandonar la calle y jugar en el patio de la parroquia, a cambio de asistir a clases de catecismo. El 1° de abril de 1908 compraron un sello y fundaron oficialmente el club.",
+        "En 1915 ascendió a Primera División. El 7 de mayo de 1916 inauguró el Gasómetro de la Av. La Plata, que se convertiría en el segundo estadio más grande de Argentina y sede habitual de la Selección Nacional. Sus tres títulos amateurs (1923, 1924 y 1927) y el primer título profesional (1933) lo consolidaron como uno de los cinco grandes del fútbol argentino.",
+        "El equipo de 1946 fue campeón y realizó una gira europea histórica: 6-1 a España en Madrid y 10-4 a Portugal en Lisboa. En 1968 nació 'Los Matadores', primer campeón invicto del profesionalismo argentino. En 1972 repitió como bicampeón invicto. Ese año Héctor Scotta marcó 60 goles en una temporada, récord mundial vigente hasta hoy.",
+        "La dictadura militar expropió y demolió el Gasómetro en los años 70 para construir un hipermercado. En 1981 San Lorenzo descendió. En 1982 ascendió de inmediato ganando el Campeonato de Primera B, con récord de recaudación. Tras 14 años jugando en canchas ajenas, en diciembre de 1993 inauguró el Nuevo Gasómetro en Bajo Flores.",
+        "El Clausura 2001 fue histórico: 47 puntos, récord absoluto de los torneos cortos, con 13 triunfos consecutivos. En 2014 ganó su primera Copa Libertadores bajo la dirección de Edgardo Bauza. En julio de 2019, 130.000 hinchas celebraron la restitución histórica de los terrenos de Boedo, donde el club proyecta su nuevo estadio."
+    ],
+    "canchas": [
+        {
+            "nombre": "Patio Parroquia Padre Massa",
+            "direccion": "México 4050, Almagro, CABA",
+            "desde": 1908,
+            "hasta": 1910,
+            "obs": "Primera cancha — patio de la iglesia salesiana del padre Massa"
+        },
+        {
+            "nombre": "Cancha de Martínez (GBA)",
+            "direccion": "Martínez, Gran Buenos Aires",
+            "desde": 1914,
+            "hasta": 1914,
+            "obs": "Jugó el campeonato de 2ª División fuera de CABA"
+        },
+        {
+            "nombre": "Estadio Viejo Gasómetro",
+            "direccion": "Av. La Plata 1700, Boedo, CABA",
+            "desde": 1916,
+            "hasta": 1979,
+            "obs": "2° estadio más grande de Argentina. Sede habitual de la Selección Nacional. Expropiado por la dictadura y demolido en 1982 para construir un hipermercado (actual Carrefour)"
+        },
+        {
+            "nombre": "Canchas prestadas (Ferro, Vélez, Atlanta, Boca, Huracán, River)",
+            "desde": 1979,
+            "hasta": 1993,
+            "obs": "14 años sin estadio propio. Pese a ello llenaba cada cancha que usaba"
+        },
+        {
+            "nombre": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
+            "direccion": "Av. Perito Moreno, Varela y Fco. Fernández de La Cruz, Bajo Flores, CABA",
+            "desde": 1993,
+            "hasta": null,
+            "obs": "Inaugurado el 16/12/1993 vs. Universidad Católica de Chile. Capacidad: 47.964",
+            "lat": -34.6458,
+            "lng": -58.4386
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1908,
+            "hasta": 1914,
+            "desc": "Borravino con cuello y mangas blancas",
+            "titular": {
+                "colores": [
+                    "#6B2737"
+                ],
+                "diseno": "unicolor",
+                "short": "#FFFFFF",
+                "medias": "#6B2737"
+            },
+            "alternativa": null
+        },
+        {
+            "desde": 1915,
+            "hasta": null,
+            "desc": "Azulgrana — bastones verticales azules y rojos",
+            "titular": {
+                "colores": [
+                    "#003087",
+                    "#C8102E"
+                ],
+                "diseno": "bastones_verticales",
+                "short": "#001f5e",
+                "medias": "#003087"
+            },
+            "alternativa": {
+                "colores": [
+                    "#FFFFFF"
+                ],
+                "diseno": "unicolor",
+                "short": "#FFFFFF",
+                "medias": "#FFFFFF"
+            }
+        }
+    ],
+    "temporadas": [
+        {
+            "anio": 1915,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 12,
+            "obs": "Debut en Primera — derrota vs Platense 5-1"
+        },
+        {
+            "anio": 1916,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 7,
+            "obs": "Inauguración del Gasómetro (7/5/1916) vs. Estudiantes LP (2-1)"
+        },
+        {
+            "anio": 1917,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 12
+        },
+        {
+            "anio": 1918,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 13
+        },
+        {
+            "anio": 1919,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 9,
+            "obs": "Liga dividida — SL en la Asoc. Amateur disidente"
+        },
+        {
+            "anio": 1920,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 3
+        },
+        {
+            "anio": 1921,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1922,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 3
+        },
+        {
+            "anio": 1923,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 1er título. Copa Río de la Plata 1923"
+        },
+        {
+            "anio": 1924,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Bicampeón amateur"
+        },
+        {
+            "anio": 1925,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón"
+        },
+        {
+            "anio": 1926,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón"
+        },
+        {
+            "anio": 1927,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Copa Aldao 1927"
+        },
+        {
+            "anio": 1928,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1929,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1930,
+            "torneo": "Campeonato de Primera División (Asoc. Amateur)",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1931,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón — inicio del profesionalismo"
+        },
+        {
+            "anio": 1932,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 5
+        },
+        {
+            "anio": 1933,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — 1er título profesional. DT Atilio Giuliano"
+        },
+        {
+            "anio": 1934,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 3
+        },
+        {
+            "anio": 1935,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 3
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa de Honor",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN Copa de Honor 1936 — reconocida por AFA en 2013"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa Campeonato",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón Copa Campeonato (River campeón)"
+        },
+        {
+            "anio": 1936,
+            "torneo": "Copa de Oro",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón Copa de Oro (River campeón)"
+        },
+        {
+            "anio": 1937,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1938,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 3
+        },
+        {
+            "anio": 1939,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1940,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1941,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón (River campeón)"
+        },
+        {
+            "anio": 1942,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón (River campeón)"
+        },
+        {
+            "anio": 1943,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Copa de la República 1943 — CAMPEÓN"
+        },
+        {
+            "anio": 1944,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1945,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1946,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Trío de Oro: Pontoni, Farro y Martino. Gira Europa 1947: 6-1 España, 10-4 Portugal"
+        },
+        {
+            "anio": 1947,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1948,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1949,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1950,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1951,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1952,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1953,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Debut de José Sanfilippo"
+        },
+        {
+            "anio": 1954,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1955,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1956,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1957,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 2,
+            "obs": "Subcampeón (River campeón). Sanfilippo goleador (1° año)"
+        },
+        {
+            "anio": 1958,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Sanfilippo goleador (2° año consecutivo)"
+        },
+        {
+            "anio": 1959,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Sanfilippo 31 goles (3° año goleador consecutivo)"
+        },
+        {
+            "anio": 1960,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "1er club arg. en Copa Libertadores — semifinal vs Peñarol. Sanfilippo goleador (4° año — récord histórico)"
+        },
+        {
+            "anio": 1961,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1962,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1963,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Los Carasucias: Doval, Areán, Veira, Casa y Telch"
+        },
+        {
+            "anio": 1964,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1965,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1966,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "obs": "1er año formato Metro + Nacional"
+        },
+        {
+            "anio": 1967,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 24,
+            "g": 18,
+            "e": 6,
+            "p": 0,
+            "gf": 50,
+            "gc": 12,
+            "pts": 42,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — Los Matadores. 1er campeón invicto del profesionalismo argentino"
+        },
+        {
+            "anio": 1968,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1969,
+            "torneo": "Nacional",
+            "div": "1ª División",
+            "obs": "Copa Interamericana 1969 — CAMPEÓN"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1970,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1971,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — Bicampeón invicto"
+        },
+        {
+            "anio": 1972,
+            "torneo": "Nacional",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN INVICTO — Mejor porcentaje de puntos del profesionalismo: 89,63%"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "obs": "Copa Libertadores 1973 — semifinal vs Independiente"
+        },
+        {
+            "anio": 1973,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1974,
+            "torneo": "Nacional",
+            "div": "1ª División",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Scotta: 60 goles en el año (Metro + Nacional). Récord mundial vigente"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1975,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1976,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1977,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1978,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "obs": "Venta forzada del Gasómetro — dictadura militar"
+        },
+        {
+            "anio": 1979,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "obs": "Demolición del Gasómetro — hipermercado en su lugar"
+        },
+        {
+            "anio": 1980,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "pos": 17,
+            "desc": true,
+            "obs": "DESCENSO a Primera B — peor posición histórica"
+        },
+        {
+            "anio": 1981,
+            "torneo": "Nacional",
+            "div": "1ª División",
+            "desc": true,
+            "obs": "Descenso confirmado"
+        },
+        {
+            "anio": 1982,
+            "torneo": "Campeonato de Primera B",
+            "div": "Primera B",
+            "pos": 1,
+            "camp": true,
+            "obs": "CAMPEÓN — Ascenso inmediato. Récord de recaudación. Camiseta con publicidad de Mu-Mú"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Metropolitano",
+            "div": "1ª División",
+            "obs": "Regreso a Primera. Juega en Ferro"
+        },
+        {
+            "anio": 1983,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1984,
+            "torneo": "Nacional",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Metropolitano",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1985,
+            "torneo": "Nacional",
+            "div": "1ª División",
+            "obs": "Último año con formato Metro + Nacional"
+        },
+        {
+            "anio": 1986,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Vuelta al torneo único"
+        },
+        {
+            "anio": 1987,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1988,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Copa Libertadores 1988 — semifinal vs Newell's"
+        },
+        {
+            "anio": 1989,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1990,
+            "torneo": "Campeonato de Primera División",
+            "div": "1ª División",
+            "obs": "Último torneo anual único"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "obs": "1er año del nuevo formato biannual"
+        },
+        {
+            "anio": 1991,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "pos": 19,
+            "obs": "Peor posición histórica en la era de torneos cortos. Copa Libertadores 1992 — cuartos"
+        },
+        {
+            "anio": 1992,
+            "torneo": "Apertura",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 19,
+            "camp": true,
+            "obs": "CAMPEÓN — Acosta goleador del torneo"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "obs": "Inauguración Nuevo Gasómetro (16/12/1993) vs. U. Católica de Chile"
+        },
+        {
+            "anio": 1993,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1994,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 19,
+            "g": 13,
+            "e": 3,
+            "p": 3,
+            "gf": 35,
+            "gc": 14,
+            "pts": 42,
+            "camp": true,
+            "obs": "CAMPEÓN — Regreso al podio local"
+        },
+        {
+            "anio": 1995,
+            "torneo": "Apertura",
+            "div": "1ª División",
+            "obs": "Copa Libertadores 1996 — cuartos de final"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "pos": 19,
+            "obs": "Peor posición histórica, igualando Clausura 1992"
+        },
+        {
+            "anio": 1996,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1997,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "obs": "Debut de Leandro Romagnoli"
+        },
+        {
+            "anio": 1998,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 1999,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2000,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 19,
+            "g": 15,
+            "e": 2,
+            "p": 2,
+            "gf": 38,
+            "gc": 14,
+            "pts": 47,
+            "camp": true,
+            "obs": "CAMPEÓN — RÉCORD HISTÓRICO 47 pts — 13 victorias consecutivas. Copa Mercosur 2001"
+        },
+        {
+            "anio": 2001,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "obs": "Copa Sudamericana 2002 — CAMPEÓN vs Atlético Nacional (4-0). Mayor goleada en una final de Copa Sudamericana"
+        },
+        {
+            "anio": 2002,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2003,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2004,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2005,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2006,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2007,
+            "torneo": "Clausura",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 19,
+            "g": 12,
+            "e": 4,
+            "p": 3,
+            "gf": 33,
+            "gc": 16,
+            "pts": 40,
+            "camp": true
+        },
+        {
+            "anio": 2007,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2008,
+            "torneo": "Apertura",
+            "div": "1ª División",
+            "obs": "Triple empate con Boca y Tigre (39 pts). San Lorenzo perdió el triangular de desempate"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2009,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2010,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2011,
+            "torneo": "Apertura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Clausura",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2012,
+            "torneo": "Torneo Inicial",
+            "div": "1ª División",
+            "obs": "Nuevo formato: Torneo Inicial + Torneo Final"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Final",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2013,
+            "torneo": "Torneo Inicial",
+            "div": "1ª División",
+            "pos": 1,
+            "pj": 19,
+            "g": 12,
+            "e": 3,
+            "p": 4,
+            "gf": 34,
+            "gc": 18,
+            "pts": 39,
+            "camp": true,
+            "obs": "CAMPEÓN — DT Ramón Díaz. Mínimo puntaje campeón en era de 3 pts: 39"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Final",
+            "div": "1ª División",
+            "obs": "Copa Libertadores 2014 — CAMPEÓN. DT Edgardo Bauza. Romagnoli capitán"
+        },
+        {
+            "anio": 2014,
+            "torneo": "Torneo Transición",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2015,
+            "torneo": "Primera División",
+            "div": "1ª División",
+            "obs": "Supercopa Sudamericana 2015 — CAMPEÓN. Copa Argentina 2015 — CAMPEÓN"
+        },
+        {
+            "anio": 2016,
+            "torneo": "Primera División",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2017,
+            "torneo": "Superliga Argentina",
+            "div": "1ª División",
+            "obs": "Nuevo organismo: Superliga Argentina de Fútbol"
+        },
+        {
+            "anio": 2018,
+            "torneo": "Superliga Argentina",
+            "div": "1ª División",
+            "obs": "Retiro de Leandro Romagnoli (6/6/2018)"
+        },
+        {
+            "anio": 2019,
+            "torneo": "Superliga Argentina",
+            "div": "1ª División",
+            "pos": 23,
+            "obs": "Peor posición histórica absoluta. Restitución terrenos Boedo (1/7/2019) — 130.000 hinchas"
+        },
+        {
+            "anio": 2020,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª División",
+            "obs": "Pandemia COVID-19 — torneo interrumpido. Sin descensos"
+        },
+        {
+            "anio": 2021,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2022,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2023,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª División"
+        },
+        {
+            "anio": 2024,
+            "torneo": "Liga Profesional de Fútbol",
+            "div": "1ª División",
+            "pos": 14,
+            "pj": 27,
+            "g": 8,
+            "e": 7,
+            "p": 12,
+            "gf": 30,
+            "gc": 38,
+            "pts": 31,
+            "obs": "Temporada de reconstrucción"
+        },
+        {
+            "anio": 2025,
+            "torneo": "Liga Profesional — Apertura / Clausura",
+            "div": "1ª División",
+            "obs": "4° en tabla anual — clasifica Copa Sudamericana 2026"
+        }
+    ],
+    "titulos": [
+        {
+            "comp": "Campeonato de Primera División (Amateur)",
+            "n": 3,
+            "anios": [
+                1923,
+                1924,
+                1927
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera División (Profesional)",
+            "n": 12,
+            "anios": [
+                1933,
+                1936,
+                1946,
+                1959,
+                1968,
+                1972,
+                1972,
+                1974,
+                1992,
+                1995,
+                2001,
+                2007,
+                2013
+            ]
+        },
+        {
+            "comp": "Copa Argentina",
+            "n": 1,
+            "anios": [
+                2015
+            ]
+        },
+        {
+            "comp": "Copa Libertadores",
+            "n": 1,
+            "anios": [
+                2014
+            ]
+        },
+        {
+            "comp": "Copa Sudamericana",
+            "n": 1,
+            "anios": [
+                2002
+            ]
+        },
+        {
+            "comp": "Copa Mercosur",
+            "n": 1,
+            "anios": [
+                2001
+            ]
+        },
+        {
+            "comp": "Supercopa Sudamericana",
+            "n": 1,
+            "anios": [
+                2015
+            ]
+        },
+        {
+            "comp": "Copa Interamericana",
+            "n": 1,
+            "anios": [
+                1969
+            ]
+        },
+        {
+            "comp": "Copa Río de la Plata",
+            "n": 1,
+            "anios": [
+                1923
+            ]
+        },
+        {
+            "comp": "Copa Aldao",
+            "n": 1,
+            "anios": [
+                1927
+            ]
+        },
+        {
+            "comp": "Campeonato de Primera B",
+            "n": 1,
+            "anios": [
+                1982
+            ]
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "pos": 1,
+            "nombre": "José Francisco Sanfilippo",
+            "apodo": "El Nene",
+            "goles": 207,
+            "partidos": 265,
+            "periodo": "1953–1972",
+            "posicion": "Delantero"
+        },
+        {
+            "pos": 2,
+            "nombre": "Rinaldo Fioramonte Martino",
+            "goles": 151,
+            "partidos": 230,
+            "periodo": "1941–1948",
+            "posicion": "Delantero"
+        },
+        {
+            "pos": 3,
+            "nombre": "Rodolfo José Fischer",
+            "apodo": "El Lobo",
+            "goles": 145,
+            "partidos": 274,
+            "periodo": "1964–1972",
+            "posicion": "Delantero"
+        },
+        {
+            "pos": 4,
+            "nombre": "Héctor Horacio Scotta",
+            "apodo": "El Gringo",
+            "goles": 139,
+            "partidos": 226,
+            "periodo": "1969–1976",
+            "posicion": "Delantero"
+        },
+        {
+            "pos": 5,
+            "nombre": "Alberto Federico Acosta",
+            "apodo": "El Beto",
+            "goles": 123,
+            "partidos": 276,
+            "periodo": "1988–2002",
+            "posicion": "Delantero"
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "pos": 1,
+            "nombre": "Sergio Villar",
+            "apodo": "El Tano",
+            "partidos": 446,
+            "posicion": "Lateral derecho",
+            "periodo": "1968–1981",
+            "nac": "Uruguay"
+        },
+        {
+            "pos": 2,
+            "nombre": "Roberto Telch",
+            "partidos": 415,
+            "posicion": "Mediocampista",
+            "periodo": "1963–1975",
+            "nac": "Argentina"
+        },
+        {
+            "pos": 3,
+            "nombre": "Leandro Romagnoli",
+            "apodo": "El Pipi",
+            "partidos": 399,
+            "posicion": "Mediocampista",
+            "periodo": "1998–2018",
+            "nac": "Argentina"
+        },
+        {
+            "pos": 4,
+            "nombre": "Ángel Zubieta",
+            "partidos": 352,
+            "posicion": "Mediocampista",
+            "periodo": "1939–1952",
+            "nac": "España"
+        },
+        {
+            "pos": 5,
+            "nombre": "José Fossa",
+            "partidos": 325,
+            "posicion": "Mediocampista",
+            "periodo": "1919–1934",
+            "nac": "Argentina"
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "José Sanfilippo",
+            "apodo": "El Nene",
+            "pos": "Delantero",
+            "periodo": "1953–1972",
+            "desc": "207 goles — máximo goleador histórico. 4 títulos goleador consecutivos (récord histórico)"
+        },
+        {
+            "nombre": "Héctor Scotta",
+            "apodo": "El Gringo",
+            "pos": "Delantero",
+            "periodo": "1969–1976",
+            "desc": "60 goles en 1975 — récord mundial vigente. El 'Scottazo' como marca registrada"
+        },
+        {
+            "nombre": "Sergio Villar",
+            "apodo": "El Tano",
+            "pos": "Lateral derecho",
+            "periodo": "1968–1981",
+            "desc": "446 partidos — récord histórico de presencias. Los Matadores y el bicampeonato invicto 72"
+        },
+        {
+            "nombre": "Leandro Romagnoli",
+            "apodo": "El Pipi",
+            "pos": "Mediocampista",
+            "periodo": "1998–2018",
+            "desc": "6 títulos — jugador más ganador del club. Capitán Copa Libertadores 2014. Surgido en inferiores"
+        },
+        {
+            "nombre": "Héctor Veira",
+            "apodo": "El Bambino / La Oveja",
+            "pos": "Mediocampista / DT",
+            "periodo": "1963–1990",
+            "desc": "Alma de Los Carasucias y Los Matadores. Símbolo de identidad azulgrana como jugador y DT"
+        },
+        {
+            "nombre": "René Pontoni",
+            "pos": "Delantero",
+            "periodo": "1945–1950",
+            "desc": "Trío de Oro con Farro y Martino. Campeón 1946. Ídolo del Papa Francisco"
+        },
+        {
+            "nombre": "Roberto Telch",
+            "pos": "Mediocampista",
+            "periodo": "1963–1975",
+            "desc": "415 partidos. Elegancia y visión excepcionales. Alma de Los Matadores"
+        },
+        {
+            "nombre": "Alberto Acosta",
+            "apodo": "El Beto",
+            "pos": "Delantero",
+            "periodo": "1988–2002",
+            "desc": "123 goles. Ídolo de la era moderna. Campeón 2001 y Copa Sudamericana 2002"
+        },
+        {
+            "nombre": "Sebastián Torrico",
+            "apodo": "El Cóndor",
+            "pos": "Arquero",
+            "periodo": "2013–2021",
+            "desc": "195 partidos. Atajada del título en Liniers y penal en Porto Alegre para ganar la Copa Libertadores 2014"
+        }
+    ],
+    "meta": {
+        "version": "2.0",
+        "ultima_actualizacion": "2025-03-24",
+        "fuentes": [
+            "Wikipedia",
+            "estadisticascasla.com",
+            "sanlorenzo.com.ar",
+            "RSSSF",
+            "El Gráfico",
+            "OneFootball"
+        ],
+        "clubes_primera_2026": [
+            "San Lorenzo",
+            "Boca Juniors",
+            "River Plate",
+            "Racing Club",
+            "Independiente",
+            "Huracán",
+            "Vélez Sársfield",
+            "Estudiantes LP",
+            "Newell's Old Boys",
+            "Rosario Central",
+            "Lanús",
+            "Banfield",
+            "Talleres",
+            "Belgrano",
+            "Atlético Tucumán",
+            "Gimnasia LP",
+            "Argentinos Juniors",
+            "Unión",
+            "Platense",
+            "Defensa y Justicia",
+            "Sarmiento",
+            "Tigre",
+            "Deportivo Riestra",
+            "Instituto",
+            "Central Córdoba (SdE)",
+            "Barracas Central",
+            "Independiente Rivadavia",
+            "Aldosivi",
+            "Gimnasia (Mendoza)",
+            "Estudiantes Río Cuarto"
+        ]
+    }
+}

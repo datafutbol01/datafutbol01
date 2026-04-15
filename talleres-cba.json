@@ -1,0 +1,34 @@
+{
+  "id": "talleres-cba",
+  "datos": {
+    "nombre_oficial": "Club Atlético Talleres",
+    "nombre_corto": "Talleres",
+    "apodos": [
+      "La T",
+      "El Matador"
+    ],
+    "fundacion": "1913-05-20",
+    "ciudad": "Córdoba",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Mario Alberto Kempes",
+    "estadio_capacidad": 57000,
+    "estadio_lat": -31.365,
+    "estadio_lng": -64.232,
+    "debut_primera": 1965
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "unicolor_azul"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "id": "fulham",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "primera division",
+      "londres",
+      "oeste"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Fulham Football Club",
+    "sigla": "ENG",
+    "fundacion": "1879-08-16",
+    "apodo": "The Cottagers, The Whites",
+    "estadio_actual": "Craven Cottage",
+    "estadio_apodo": "The Cottage",
+    "estadio_capacidad": 29600,
+    "estadio_inauguracion": "1896-10-10",
+    "estadio_lat": 51.4749,
+    "estadio_lng": -0.2216,
+    "estadio_direccion": "Stevenage Rd, London SW6 6HH, Reino Unido",
+    "socios": 25000,
+    "descripcion_corta": "Es el equipo profesional en activo más viejo y tradicionalista de la gran ciudad de Londres. Nacidos bajo doctrinas religiosas parroquiales en 1879, han sido grandes testigos del fútbol británico y mantienen inalterablemente viva la magia romántica folclórica del deporte en su histórica, vieja y bucólica cabaña inamovible de Craven Cottage instalada frente al helado río Támesis.",
+    "paleta": [
+      {
+        "tag": "Principal",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Secundario",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Terciario",
+        "hex": "#CC0000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "10-1 a Ipswich Town (1963)",
+      "maximo_goleador": "Gordon Davies (178 goles)",
+      "mas_presencias": "Johnny Haynes (658 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1879",
+      "hito": "Orígenes parroquiales en St Andrew",
+      "desc": "En 1879, parroquianos devotos del distrito londinense originaron el entonces nominado 'Fulham St Andrew's Church Sunday School FC'. Creado por un maestro de escuela y los concurrentes domingueros adyacentes a la modesta congregación presbiteriana localizada sobre Star Road en torno a congregaciones en Fulham, este vínculo se estructuró a largo plazo sobre una posterior profesionalización que consolidó deportivamente el establecimiento actual."
+    },
+    {
+      "ano": "1896",
+      "hito": "Arraigo espacial y mudanza definitiva a Craven Cottage",
+      "desc": "Transitando sus fases originales sobre precarios reducidos comunales mudando en numerosas ocasiones distintas a lo ancho de su barriada perimetral perdiendo bases fijas sociales. Logran adquirir e integrarse formal definitivamente sobre una expropiación natural del espacio lindante situado sobre los antiguos predios campestres y adyacentes a las frondas de la zona de Craven Cottage el año oficial final de 1896 que funcionó logísticamente como sede centralizada posterior."
+    },
+    {
+      "ano": "1975",
+      "hito": "El derbi en la final de la Copa FA",
+      "desc": "Constituyéndose en uno de los antecedentes de mayor connotación urbana para las aficiones de diferentes estratos y divisiones locales vinculada al sector inferior sur ribereño y distritos antagónicos metropolitanos se cruzaron directamente sobre recinto superior al mítico West Ham United en 1975 final de FA. La particularidad técnica táctica del evento tuvo como referencia central a la exclusividad de Bobby Moore actuando activamente defendiendo al Fulham formal frente a su antiguo y consagrado clásico club anterior."
+    },
+    {
+      "ano": "2010",
+      "hito": "Participación sorpresiva de la definición continental de la Europa League",
+      "desc": "De la mano rectora provista desde directivas estipuladas con alto rigor y orden esquemático dictado a cargo total del experimentado mánager Roy Hodgson. Eliminando previamente competidores a potencias consagradas del formato como a Juventus de Italia. Acceden por vez íntegra inaugural primera a un título formal certamen directo internacional finalizando apretadamente superados y perdidosos el partido cumbre formal tras agónico alargue decisivo técnico legalmente frente al valioso Club Atlético de Madrid."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Eel Brook Common",
+      "desde": 1883,
+      "hasta": 1884,
+      "ciudad": "Londres",
+      "barrio": "Fulham",
+      "obs": "Terreno abierto de acceso público utilizado para los primeros ensayos de partidos durante la etapa inicial formativa y amateur.",
+      "direccion": "Eel Brook Common, Fulham, London SW6",
+      "lat": 51.4764,
+      "lng": -0.1983,
+      "url": "https://www.google.com/maps/search/?api=1&query=Eel%20Brook%20Common%2C%20Fulham%2C%20London%20SW6"
+    },
+    {
+      "nombre": "Half Moon",
+      "desde": 1888,
+      "hasta": 1889,
+      "ciudad": "Londres",
+      "barrio": "Putney",
+      "obs": "Predio delimitado en las intermediaciones de la zona suburbana empleado para certámenes provisorios.",
+      "direccion": "Lower Richmond Road, Putney, London",
+      "lat": 51.4678,
+      "lng": -0.2201,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lower%20Richmond%20Road%2C%20Putney%2C%20London"
+    },
+    {
+      "nombre": "Loftus Road",
+      "desde": 2002,
+      "hasta": 2004,
+      "ciudad": "Londres",
+      "barrio": "White City",
+      "obs": "Estadio rentado transitoriamente durante el periodo requerido para efectuar remodelaciones estructurales de capacidad y seguridad en su propia sede.",
+      "direccion": "South Africa Road, White City, London",
+      "lat": 51.5093,
+      "lng": -0.2319,
+      "url": "https://www.google.com/maps/search/?api=1&query=South%20Africa%20Road%2C%20White%20City%2C%20London"
+    },
+    {
+      "nombre": "Craven Cottage",
+      "desde": 1896,
+      "hasta": null,
+      "ciudad": "Londres",
+      "barrio": "Fulham",
+      "obs": "Sede activa permanente cuyas ampliaciones clásicas fueron diseñadas por el constructor Archibald Leitch, ubicada tradicionalmente en las riberas geográficas del río Támesis.",
+      "direccion": "Stevenage Road, Fulham, London SW6 6HH",
+      "lat": 51.4749,
+      "lng": -0.2216,
+      "url": "https://www.google.com/maps/search/?api=1&query=Stevenage%20Road%2C%20Fulham%2C%20London%20SW6%206HH"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1879,
+      "hasta": 1903,
+      "c1": "#111111",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "mitades",
+      "desc": "Arlequinadas oscuras y rústicas con camisas cortadas tajantemente en enérgicas severas dictaminadas formales rudas mitades bicolor poéticas nacaradas crudas y para forjar en el sur metropolitano eclesiástico purista."
+    },
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Ascensión visual purista al portar el más liso e algodón y crudo blanco que bañaría épica todos y cada uno de los bordes náuticos fluviales linderos de casa cuna poética divina."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Johnny Haynes",
+      "pos": "Mediocampista",
+      "apodo": "The Maestro",
+      "periodo": "1952-1970",
+      "desc": "Mediocampista ofensivo que disputó más de 650 encuentros oficiales. Fue el primer jugador del fútbol inglés en ganar cien libras semanales de salario."
+    },
+    {
+      "nombre": "Gordon Davies",
+      "pos": "Delantero",
+      "apodo": "Ivor",
+      "periodo": "1978-1991",
+      "desc": "Delantero galés y máximo goleador histórico del equipo. Sus anotaciones lideraron las campañas de ascenso a fines de la década de 1970 y principios de 1980."
+    },
+    {
+      "nombre": "George Cohen",
+      "pos": "Lateral",
+      "apodo": "",
+      "periodo": "1956-1969",
+      "desc": "Lateral derecho formado en la cantera. Disputó toda su carrera profesional en la institución y formó parte del plantel de la Selección de Inglaterra que ganó el Mundial de 1966."
+    },
+    {
+      "nombre": "Clint Dempsey",
+      "pos": "Mediocampista / Delantero",
+      "apodo": "Deuce",
+      "periodo": "2007-2012, 2014",
+      "desc": "Atacante estadounidense. Fue el máximo goleador del plantel durante múltiples ciclos en la Premier League y figura clave en el subcampeonato de la Europa League de 2010."
+    },
+    {
+      "nombre": "Brian McBride",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "2004-2008",
+      "desc": "Delantero centro estadounidense. Capitaneó al equipo durante su etapa de consolidación, aportando goles decisivos que aseguraron la permanencia del club en la máxima categoría."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gordon Davies",
+      "goles": 178,
+      "partidos": 427,
+      "periodo": "1978-1991",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 178 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1991."
+    },
+    {
+      "nombre": "Johnny Haynes",
+      "goles": 158,
+      "partidos": 658,
+      "periodo": "1952-1970",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 158 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1970."
+    },
+    {
+      "nombre": "Bedford Jezzard",
+      "goles": 154,
+      "partidos": 306,
+      "periodo": "1948-1956",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 154 goles en competiciones oficiales durante su trayectoria en el equipo entre 1948-1956."
+    },
+    {
+      "nombre": "Arthur Stevens",
+      "goles": 124,
+      "partidos": 412,
+      "periodo": "1941-1959",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 124 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1959."
+    },
+    {
+      "nombre": "Steve Earle",
+      "goles": 108,
+      "partidos": 358,
+      "periodo": "1963-1974",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1974."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Johnny Haynes",
+      "partidos": 658,
+      "periodo": "1952-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 658 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1952-1970."
+    },
+    {
+      "nombre": "Eddie Lowe",
+      "partidos": 511,
+      "periodo": "1950-1963",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 511 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1963."
+    },
+    {
+      "nombre": "George Cohen",
+      "partidos": 459,
+      "periodo": "1956-1969",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 459 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1956-1969."
+    },
+    {
+      "nombre": "Gordon Davies",
+      "partidos": 427,
+      "periodo": "1978-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1991."
+    },
+    {
+      "nombre": "Les Strong",
+      "partidos": 427,
+      "periodo": "1973-1983",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1983."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 3,
+      "años": [
+        "1948-49",
+        "2000-01",
+        "2021-22"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 2,
+      "años": [
+        "1931-32",
+        "1998-99"
+      ]
+    },
+    {
+      "nombre": "Copa Intertoto de la UEFA",
+      "cantidad": 1,
+      "años": [
+        "2002"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1898",
+      "url": "/escudos/fulham/Fulham_FC_1898.webp"
+    },
+    {
+      "ano": "1898",
+      "url": "/escudos_historicos/fulham/fulham_1898_web.png"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos/fulham/Fulham_FC_1931.webp"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/fulham/fulham_1931_web.png"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos/fulham/Fulham_FC_1945.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/fulham/fulham_1945_web.png"
+    },
+    {
+      "ano": "1947",
+      "url": "/escudos/fulham/Fulham_FC_1947.webp"
+    },
+    {
+      "ano": "1947",
+      "url": "/escudos_historicos/fulham/fulham_1947_web.png"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos/fulham/Fulham_FC_1951.webp"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos_historicos/fulham/fulham_1951_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos/fulham/Fulham_FC_1972.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/fulham/fulham_1972_web.png"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos/fulham/Fulham_FC_1977.webp"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/fulham/fulham_1977_web.png"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos/fulham/Fulham_logo_82-95.webp"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/fulham/fulham_1982_web.png"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos/fulham/Fulham_FC_logo_(1995-2000).webp"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/fulham/fulham_1995_web.png"
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/fulham/fulham_2001_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/fulham/Fulham_FC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Cottagers",
+      "origen": "Apropiado natural y referenciado visualmente concretando firmemente base e insignia bajo la emblemática y pura infraestructura victoriana de su primer puerto amarradero fijo fundacional. El origen describe e incorpora sociológicamente y cívicamente la clásica figura visual material mítica local instalada incuestionablemente junto en las orillas temporales del mítico recinto oficial bautizado masivamente como el mítico Craven Cottage, enclavando los títulos de habitantes cabañeros rústicos en la memoria general incesante del bando fiel e incuestionable deportivo."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "roma",
+  "meta": {
+    "slug": "roma"
+  },
+  "datos": {
+    "nombre_completo": "Associazione Sportiva Roma S.p.A.",
+    "sigla": "ROM",
+    "fundacion": "1927",
+    "apodo": "Los Amarillos y Rojos, La Loba, Los Capitolinos",
+    "estadio_actual": "Stadio Olimpico di Roma",
+    "estadio_apodo": "Olimpico",
+    "estadio_capacidad": 70634,
+    "estadio_inauguracion": "17 de mayo de 1953",
+    "estadio_lat": 41.9339,
+    "estadio_lng": 12.4547,
+    "estadio_direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
+    "socios": 36000,
+    "descripcion_corta": "Entidad de la capital italiana que participa perennemente en Serie A. Se originó a partir de una integración estructural de diversos combinados menores en el periodo fascista.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#B01E2E"
+      },
+      {
+        "tag": "Amarillo",
+        "hex": "#EAA528"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Francesco Totti (307 goles)",
+      "mas_presencias": "Francesco Totti (786 partidos)",
+      "mayor_goleada": "9-0 vs Cremonese (1929)"
+    },
+    "nombre_oficial": "Associazione Sportiva Roma",
+    "nombre_corto": "Roma",
+    "escudo_actual": "/escudos_historicos/roma/AS_Roma_2025_crest.webp"
+  },
+  "historia": [
+    {
+      "ano": "1927",
+      "hito": "El Mandato Estatal y el Nacimiento Imperial",
+      "desc": "A lo largo de los años 20, la ciudad de Roma contaba administrativamente con un fútbol sumamente fragmentado que era presa fácil del aplastante y rico dominio norteño de Lombardía y Piamonte. Entendiendo la necesidad política y demográfica de construir un titán capaz de rivalizar con la Juventus, el ambicioso secretario del régimen en Roma, Italo Foschi, operó e impulsó activamente un mandato estatal para fusionar y unir administrativamente el 7 de junio de 1927 a tres clubes emblemáticos y endebles de la capital: Alba-Audace, el Roman y la histórica Fortitudo (dejando afuera exclusivamente a la Lazio). Así conformó y estructuró a la majestuosa Associazione Sportiva Roma. Apropiándose rigurosamente del fiero estandarte fundacional de la loba capitolina y de los colores inamovibles ocre y carmín imperial de la ciudad eterna fundadora, la escuadra forjó rápidamente su destino de grandeza pasional."
+    },
+    {
+      "ano": "1942",
+      "hito": "Validación Exitosa del Primer Campeonato",
+      "desc": "Establecidos como local en la infraestructura Campo Testaccio, el club dirigido logísticamente por el entrenador Alfréd Schaffer y contando con los registros logrados estadísticamente por Amedeo Amadei, capitalizó las etapas de liga para aventajar en cifras por primera oportunidad en la tabla de cómputos totales, logrando así su primer Scudetto."
+    },
+    {
+      "ano": "1983",
+      "hito": "Establecimiento del Segundo Entorchado Liguero",
+      "desc": "Operados y regidos fácticamente durante una etapa competitiva a partir del cargo manejado por Nils Liedholm junto con Roberto Pruzzo consolidando registros formales en posiciones adelantadas más aportes foráneos de estilo creativo central (Paulo Roberto Falcão) superaron pautas estadísticas previas logrando a escala oficial un nuevo trofeo título campeonato Serie A."
+    },
+    {
+      "ano": "2001",
+      "hito": "Logro Oficial Tercer Scudetto del Club",
+      "desc": "Al inicio técnico de Fabio Capello, se sumaron a la planilla elementos probados nacionales como el referente Francesco Totti e incorporados de liga Gabriel Batistuta cerrando participaciones efectivas a parámetros locales frente rivales oponentes de la tabla lo que garantizó coronar victoriosos del formato liguero por tercera vez."
+    },
+    {
+      "ano": "2022",
+      "hito": "Final Europeo Regulado de la UEFA Conference",
+      "desc": "Tras sumar tiempos prolongados en participaciones regulares sin alcanzar rondas ganadoras continentales o instancias homólogas europeas conclusivas de torneos, el técnico directivo José Mourinho aseguró fases preclasificatorias que llevaron eventualmente al plantel en fecha final de competencia y formato único derrotar con cifra parcial (1-0) al club neerlandés Feyenoord para integrar trofeo UECL."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Olimpico di Roma",
+      "capacidad": "70.634",
+      "inauguracion": "17 de mayo de 1953",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20dei%20Gladiatori%2C%2000135%20Roma%2C%20Lacio",
+      "direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Olimpico."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1927,
+      "hasta": null,
+      "c1": "#ab0a23",
+      "c2": "#ab0a23",
+      "sh": "#ffffff",
+      "me": "#ab0a23",
+      "tipo": "liso",
+      "desc": "Mapeando sus vínculos históricos documentados e impulsados de conformadores iniciales imperiales, portaron invariablemente el rojo carmín liso o llanamente oscuro formal base con vivos amarillo oscuro resolventes de ribetes secundarios para uniformes plenos oficiales formales giallorossi itálico."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Francesco Totti",
+      "periodo": "1992-2017",
+      "pos": "Delantero",
+      "desc": "La personificación absoluta e incuestionable del escudo romano apodado 'Il Capitano' o formalmente 'L'Ottavo Re di Roma'. Durante colosales 25 sólidas temporadas aportó estruendosos lujos, consagró el ansiado Scudetto local de 2001 e impulsó su récord impoluto total e insuperable como máximo anotador de su historia entera."
+    },
+    {
+      "nombre": "Daniele De Rossi",
+      "periodo": "2001-2019",
+      "pos": "Mediocampista",
+      "desc": "El estricto acompañante e incansable estatus central en el corazón pasional local. Centrocampista asfixiante que dotó al núcleo titular de extremada garra, temple asertivo y potente tranco de ida y vuelta para defender íntegramente la bandera giallorossa durante vastos decenios consecutivos."
+    },
+    {
+      "nombre": "Paulo Roberto Falcão",
+      "periodo": "1980-1985",
+      "pos": "Mediocampista",
+      "desc": "Revolucionario organizador de estilización sudamericana inyectada formalmente en los agresivos estadios del áspero Calcio durante la dorada década de 1980. Bajo el afamado apodo del 'Octavo Rey', devolvió íntegramente una liga centralizada a las anchas arcas capitalinas por segunda vez formal estatutaria."
+    },
+    {
+      "nombre": "Aldair",
+      "periodo": "1990-2003",
+      "pos": "Defensor",
+      "desc": "Defensor central brasileño y bastión histórico de técnica excepcional y envidiable ubicación posicional en zaga. Vistió el uniforme principal durante 13 exigentes años consecutivos asegurando férreamente un título doméstico, induciendo incluso temporal retiro formal de su habitual y portadora camisa 6."
+    },
+    {
+      "nombre": "Giuseppe Giannini",
+      "periodo": "1981-1996",
+      "pos": "Mediocampista",
+      "desc": "Símbolo de extrema jerarquía representativa y portador firme del gafete de capitán anterior al siglo moderno apodado 'Il Principe'. Organizador de talento refinado inquebrantable, liderando al club en complejas rondas copológicas bajo exigencias desbordantes de popularidad en década de los años 80."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Francesco Totti",
+      "goles": 307,
+      "periodo": "1992-2017",
+      "partidos": 786,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 307 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-2017."
+    },
+    {
+      "nombre": "Roberto Pruzzo",
+      "goles": 138,
+      "periodo": "1978-1988",
+      "partidos": 315,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 138 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1988."
+    },
+    {
+      "nombre": "Edin Džeko",
+      "goles": 119,
+      "periodo": "2015-2021",
+      "partidos": 260,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 119 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2021."
+    },
+    {
+      "nombre": "Amedeo Amadei",
+      "goles": 111,
+      "periodo": "1936-1948",
+      "partidos": 234,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1948."
+    },
+    {
+      "nombre": "Rodolfo Volk",
+      "goles": 106,
+      "periodo": "1928-1933",
+      "partidos": 161,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 106 goles en competiciones oficiales durante su trayectoria en el equipo entre 1928-1933."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Francesco Totti",
+      "partidos": 786,
+      "periodo": "1992-2017",
+      "goles": 307,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 786 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2017."
+    },
+    {
+      "nombre": "Daniele De Rossi",
+      "partidos": 616,
+      "periodo": "2001-2019",
+      "goles": 63,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 616 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2019."
+    },
+    {
+      "nombre": "Giacomo Losi",
+      "partidos": 455,
+      "periodo": "1954-1969",
+      "goles": 2,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 455 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1969."
+    },
+    {
+      "nombre": "Giuseppe Giannini",
+      "partidos": 437,
+      "periodo": "1981-1996",
+      "goles": 75,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 437 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1996."
+    },
+    {
+      "nombre": "Aldair",
+      "partidos": 436,
+      "periodo": "1990-2003",
+      "goles": 20,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 436 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2003."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 3,
+      "anios": [
+        "1941-42",
+        "1982-83",
+        "2000-01"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 9,
+      "anios": [
+        "1963-64",
+        "1968-69",
+        "1979-80",
+        "1980-81",
+        "1983-84",
+        "1985-86",
+        "1990-91",
+        "2006-07",
+        "2007-08"
+      ]
+    },
+    {
+      "nombre": "Supercoppa Italiana",
+      "cantidad": 2,
+      "anios": [
+        "2001",
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Conference League",
+      "cantidad": 1,
+      "anios": [
+        "2021-22"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 1,
+      "anios": [
+        "1951-52"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/roma/AS_Roma_logo (1).webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/roma/AS_Roma_logo.webp"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos_historicos/roma/As_Roma_1927-30.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/roma/AS_Roma_logo_29.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/roma/AS_Roma_1930-34.webp"
+    },
+    {
+      "ano": "1937",
+      "url": "/escudos_historicos/roma/AS_ROMA_1937-38.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/roma/AS_Roma_logso_29.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos_historicos/roma/AS_Roma_1942_logo.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/roma/AS-Roma-Logo-1945.webp"
+    },
+    {
+      "ano": "1950s",
+      "url": "/escudos_historicos/roma/AS_Roma_stemma_anni_50.webp"
+    },
+    {
+      "ano": "1950s",
+      "url": "/escudos_historicos/roma/As_Roma_stemma_antico.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/roma/AS_Roma_1960-61_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/roma/AS_Roma_2025_crest.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Giallorossi",
+      "origen": "Referencia puramente unificada impuesta dictatorialmente tras el histórico acuerdo y pacto fundacional que fusionó clubes a principios de 1927 para resistir poderes nórdicos. El reciente club asimiló y adoptó de modo textual en sus estatutos el majestuoso rojo carmesí imperial histórico antiguo originario y sumó el ocre y dorado brillante que caracterizaba milenariamente el legendario e intocable escudo del enorme senado y municipio romano capitalino."
+    },
+    {
+      "apodo": "La Lupa",
+      "origen": "Derivado y adherido sólidamente ante la ancestral memoria por acoplar la rústica fábula clásica y leyenda enclavada en su región con el salvaje mamífero loba originaria y ambarina criadora que asiduamente alimentó en amparo primitivo a Rómulo y Remo. Al ser el club el pilar deportivo, cívico y representativo mayoritario capitalino local romano asimilaron la originaria e idéntica silueta y fiera estatua dorada integrándola definitivamente."
+    }
+  ]
+}

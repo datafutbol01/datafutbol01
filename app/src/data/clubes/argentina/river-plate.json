@@ -1,0 +1,528 @@
+{
+  "id": "river-plate",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "grande",
+      "sudamerica"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético River Plate",
+    "sigla": "CARP",
+    "fundacion": "25 de mayo de 1901",
+    "apodo": "Los Millonarios, La Banda",
+    "estadio_actual": "Mâs Monumental",
+    "estadio_apodo": "El Monumental",
+    "estadio_capacidad": 84567,
+    "estadio_inauguracion": "1938-05-26",
+    "estadio_lat": -34.5453,
+    "estadio_lng": -58.4497,
+    "estadio_direccion": "Av. Pres. Figueroa Alcorta 7597, Buenos Aires",
+    "socios": 350000,
+    "descripcion_corta": "Uno de los denominados 'cinco grandes' del fútbol argentino, reconocido como el club con mayor cantidad de títulos de liga locales. Históricamente caracterizado por un estilo de juego ofensivo y por poseer uno de los principales sistemas formativos de futbolistas en el mundo.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#ED1C24"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "10-1 vs Huracán (SR) (1974)",
+      "maximo_goleador": "Ángel Labruna (317 goles)",
+      "mas_presencias": "Amadeo Carrizo (520 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1901-1904",
+      "hito": "Fundación del Club Atlético River Plate",
+      "desc": "El 25 de mayo de 1901, en el barrio de La Boca, se fundó el Club Atlético River Plate como resultado de la fusión de dos equipos amateurs locales: 'Santa Rosa' y 'La Rosales'. La asamblea designó como primer presidente de la institución a Leopoldo Bard. El nombre del club fue propuesto por Pedro Martínez, inspirado en la inscripción 'The River Plate' que figuraba impresa en los cajones de mercancías desembarcados por navíos escoceses en la Dársena Sur del puerto de Buenos Aires."
+    },
+    {
+      "ano": "1923-1932",
+      "hito": "Mudanza al norte y el origen del apodo 'Los Millonarios'",
+      "desc": "Debido a sucesivas inundaciones provocadas por las sudestadas en La Boca, el club trasladó sus instalaciones hacia el norte de la ciudad en 1923, instalándose provisoriamente en la Avenida Alvear y Tagle (Recoleta). Con el incipiente establecimiento del profesionalismo en 1931, la dirigencia ejecutó importantes transferencias económicas para la época. La resonada compra del delantero Bernabé Ferreyra en 1932 por una cifra récord originó el surgimiento del histórico apodo de 'Los Millonarios', acuñado por la prensa gráfica de aquel entonces."
+    },
+    {
+      "ano": "1940-1949",
+      "hito": "La hegemónica Era de 'La Máquina'",
+      "desc": "Durante la década de 1940, el equipo exhibió un rendimiento superlativo dentro del fútbol argentino, logrando un destacado volumen de juego asociativo y múltiples títulos. Comandada principalmente por la histórica delantera integrada por Juan Carlos Muñoz, José Manuel Moreno, Adolfo Pedernera, Ángel Labruna y Félix Loustau, la formación táctica se caracterizó por su sincronización colectiva y permutas posicionales ofensivas. Este eficaz y vistoso sistema le valió el reconocimiento histórico bajo el célebre seudónimo de 'La Máquina'."
+    },
+    {
+      "ano": "1986",
+      "hito": "Conquista de la Copa Libertadores e Intercontinental",
+      "desc": "En 1986, River Plate consolidó su mayor éxito a nivel internacional hasta ese momento. Bajo la dirección técnica de Héctor 'Bambino' Veira y con actuaciones destacadas de futbolistas como Norberto Alonso, Juan Gilberto Funes y Nery Pumpido, el club se adjudicó su primera Copa Libertadores de América tras vencer al América de Cali en la final. Meses después, en diciembre del mismo año, el equipo venció al Steaua Bucarest de Rumania por 1-0 en Tokio, conquistando la Copa Intercontinental y logrando el título de campeón del mundo."
+    },
+    {
+      "ano": "2014-2018",
+      "hito": "El ciclo Gallardo y la final de Madrid",
+      "desc": "En 2014, el nombramiento de Marcelo Gallardo como entrenador principal dio inicio al ciclo de conquistas internacionales más exitoso de la institución. El equipo se estructuró sobre un modelo de intensidad física, alta concentración y juego ofensivo. El punto culminante de este ciclo se registró en diciembre de 2018 al adjudicarse la Copa Libertadores tras vencer a su tradicional rival, Boca Juniors, en la histórica final trasladada y disputada en el estadio Santiago Bernabéu de la ciudad de Madrid, España."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Dársena Sur",
+      "direccion": "Puerto de Buenos Aires, La Boca",
+      "desde": 1901,
+      "hasta": 1907,
+      "estado": "Desalojado",
+      "obs": "Primer terreno provisorio y precario utilizado por el club en la zona ribereña sur. Escenario de sus primeros partidos durante la etapa estrictamente amateur.",
+      "lat": -34.6288,
+      "lng": -58.3582,
+      "url": "https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Buenos%20Aires%2C%20La%20Boca"
+    },
+    {
+      "nombre": "Estadio de Aristóbulo del Valle y Caboto",
+      "direccion": "A. del Valle y Caboto, La Boca",
+      "desde": 1908,
+      "hasta": 1923,
+      "estado": "Demolido",
+      "obs": "Primera gran estructura deportiva del club construida con tablones de madera. Fue sede del crecimiento originario societario hasta las recurrentes inundaciones del Riachuelo propiciadas por diversas tormentas.",
+      "lat": -34.6331,
+      "lng": -58.361,
+      "url": "https://www.google.com/maps/search/?api=1&query=A.%20del%20Valle%20y%20Caboto%2C%20La%20Boca"
+    },
+    {
+      "nombre": "Avenida Alvear y Tagle",
+      "direccion": "Avenida Alvear y Tagle, Recoleta",
+      "estado": "Demolido",
+      "desde": 1923,
+      "hasta": 1937,
+      "obs": "Estadio emblemático del período intermedio que permitió el traslado hacia el norte de la ciudad y albergó los primeros años profesionales y triunfos de los equipos iniciales.",
+      "lat": -34.5815,
+      "lng": -58.3972,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Alvear%20y%20Tagle%2C%20Recoleta"
+    },
+    {
+      "nombre": "Estadio Mâs Monumental",
+      "direccion": "Avenida Presidente Figueroa Alcorta 7597, Núñez",
+      "estado": "Activo",
+      "desde": 1938,
+      "hasta": null,
+      "obs": "Principal recinto deportivo de la institución y estadio de mayor capacidad actual del país y el continente, siendo a su vez la cancha histórica y recurrente de la Selección Argentina de Fútbol.",
+      "lat": -34.5453,
+      "lng": -58.4497,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Presidente%20Figueroa%20Alcorta%207597%2C%20N%C3%BA%C3%B1ez"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1901,
+      "hasta": 1904,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camisa totalmente blanca con pantalones oscuros tras la fundación original."
+    },
+    {
+      "desde": 1905,
+      "hasta": 1930,
+      "c1": "#ffffff",
+      "c2": "#ED1C24",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "banda-diagonal",
+      "desc": "Incorporación de la franja o banda diagonal roja cruzando el pecho de izquierda a derecha."
+    },
+    {
+      "desde": 1931,
+      "hasta": 1933,
+      "c1": "#ffffff",
+      "c2": "#ED1C24",
+      "sh": "#ffffff",
+      "me": "#333333",
+      "tipo": "rayas-verticales",
+      "desc": "En los primeros años del profesionalismo se utilizó una camiseta tricolor a rayas verticales rojas, blancas y negras."
+    },
+    {
+      "desde": 1934,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ED1C24",
+      "sh": "#111111",
+      "me": "#ffffff",
+      "tipo": "banda-diagonal",
+      "desc": "Retorno definitivo y oficialización de la clásica banda diagonal roja sobre fondo blanco."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ángel Labruna",
+      "pos": "Delantero / Director Técnico",
+      "apodo": "Angelito / El Feo",
+      "periodo": "1939-1959",
+      "desc": "Miembro fundamental de la delantera conocida como 'La Máquina', es el máximo goleador histórico del equipo y del fútbol argentino. Su impacto se extendió a su etapa como director técnico, donde rompió una sequía de 18 años sin títulos de liga en 1975."
+    },
+    {
+      "nombre": "Marcelo Gallardo",
+      "pos": "Mediocampista Ofensivo / Director Técnico",
+      "apodo": "El Muñeco / Napoléon",
+      "periodo": "1993-2008",
+      "desc": "Tras una destacada etapa como mediocampista ofensivo en la década de 1990, asumió la conducción técnica en 2014, forjando el ciclo más exitoso en la historia del club con 14 títulos, incluyendo dos Copas Libertadores de América."
+    },
+    {
+      "nombre": "Norberto Alonso",
+      "pos": "Enganche",
+      "apodo": "El Beto",
+      "periodo": "1971-1987",
+      "desc": "Mediocampista ofensivo de gran técnica y visión, figura clave en la obtención de múltiples torneos locales y de la primera Copa Libertadores y Copa Intercontinental del club en el año 1986."
+    },
+    {
+      "nombre": "Enzo Francescoli",
+      "pos": "Delantero / Mediapunta",
+      "apodo": "El Príncipe",
+      "periodo": "1983-1997",
+      "desc": "Delantero uruguayo de estilo elegante y gran capacidad goleadora. Obtuvo torneos locales en su primera etapa y regresó en los años 90 para capitanear al equipo en la obtención de la Copa Libertadores 1996 y la Supercopa."
+    },
+    {
+      "nombre": "Amadeo Carrizo",
+      "pos": "Arquero",
+      "apodo": "Tarzán / Amadeo",
+      "periodo": "1945-1968",
+      "desc": "Arquero pionero en el uso de los pies y en la salida fuera del área chica. Defendió el arco durante más de dos décadas (1945-1968), redefiniendo la posición en Sudamérica y cosechando siete ligas de primera división."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ángel Labruna",
+      "goles": 317,
+      "partidos": 515,
+      "periodo": "1939-1959",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 317 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1959."
+    },
+    {
+      "nombre": "Oscar Más",
+      "goles": 217,
+      "partidos": 422,
+      "periodo": "1964-1977",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 217 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1977."
+    },
+    {
+      "nombre": "Bernabé Ferreyra",
+      "goles": 202,
+      "partidos": 195,
+      "periodo": "1932-1939",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 202 goles en competiciones oficiales durante su trayectoria en el equipo entre 1932-1939."
+    },
+    {
+      "nombre": "José Manuel Moreno",
+      "goles": 184,
+      "partidos": 320,
+      "periodo": "1935-1948",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 184 goles en competiciones oficiales durante su trayectoria en el equipo entre 1935-1948."
+    },
+    {
+      "nombre": "Norberto Alonso",
+      "goles": 158,
+      "partidos": 422,
+      "periodo": "1971-1987",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 158 goles en competiciones oficiales durante su trayectoria en el equipo entre 1971-1987."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Amadeo Carrizo",
+      "partidos": 520,
+      "periodo": "1945-1968",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 520 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1945-1968."
+    },
+    {
+      "nombre": "Ángel Labruna",
+      "partidos": 515,
+      "periodo": "1939-1959",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 515 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1939-1959."
+    },
+    {
+      "nombre": "Reinaldo Merlo",
+      "partidos": 500,
+      "periodo": "1969-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 500 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1984."
+    },
+    {
+      "nombre": "Juan José López",
+      "partidos": 466,
+      "periodo": "1970-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 466 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1981."
+    },
+    {
+      "nombre": "Norberto Alonso",
+      "partidos": 422,
+      "periodo": "1971-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 422 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1987."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 38,
+      "años": [
+        "1920",
+        "1932",
+        "1936",
+        "1936",
+        "1937",
+        "1941",
+        "1942",
+        "1945",
+        "1947",
+        "1952",
+        "1953",
+        "1955",
+        "1956",
+        "1957",
+        "1975",
+        "1975",
+        "1977",
+        "1979",
+        "1979",
+        "1980",
+        "1981",
+        "1986",
+        "1990",
+        "1991",
+        "1993",
+        "1994",
+        "1996",
+        "1997",
+        "1997",
+        "1999",
+        "2000",
+        "2002",
+        "2003",
+        "2004",
+        "2008",
+        "2014",
+        "2021",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Copa Argentina",
+      "cantidad": 3,
+      "años": [
+        "2016",
+        "2017",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Supercopa / Trofeo de Campeones",
+      "cantidad": 5,
+      "años": [
+        "2014",
+        "2017",
+        "2019",
+        "2021",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 8,
+      "años": [
+        "1914",
+        "1932",
+        "1932",
+        "1937",
+        "1941",
+        "1942",
+        "1952",
+        "1968"
+      ]
+    },
+    {
+      "nombre": "Copas Rioplatenses Históricas",
+      "cantidad": 6,
+      "años": [
+        "1914",
+        "1936",
+        "1937",
+        "1941",
+        "1945",
+        "1947"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores de América",
+      "cantidad": 4,
+      "años": [
+        "1986",
+        "1996",
+        "2015",
+        "2018"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 1,
+      "años": [
+        "1986"
+      ]
+    },
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "2014"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 3,
+      "años": [
+        "2015",
+        "2016",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "Supercopa Sudamericana / Interamericana / Suruga",
+      "cantidad": 3,
+      "años": [
+        "1987",
+        "1997",
+        "2015"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1918",
+      "url": "/escudos/historicos/river-plate/River_Plate_1918.svg"
+    },
+    {
+      "ano": "1928",
+      "url": "/escudos/historicos/river-plate/River_Plate_1928.svg"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos/historicos/river-plate/River_Plate_1930.svg"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos/historicos/river-plate/River_Plate_1931.2.svg"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos/historicos/river-plate/River_Plate_1931.svg"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1932-1.webp"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1932-2.webp"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1932.webp"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/river-plate/River-Plate-1932.webp"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1935.webp"
+    },
+    {
+      "ano": "1938",
+      "url": "/escudos/historicos/river-plate/River-Plate-1938.webp"
+    },
+    {
+      "ano": "1938",
+      "url": "/escudos/historicos/river-plate/River_Plate_escudo_1938.svg"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1940.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos/historicos/river-plate/River_Plate_1941.svg"
+    },
+    {
+      "ano": "1949",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1949.webp"
+    },
+    {
+      "ano": "1952",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1952.webp"
+    },
+    {
+      "ano": "1958",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1958.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1960-1.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1960-2.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1960-3.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1960-4.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1960-5.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1970-1.webp"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/historicos/river-plate/River-Escudo-1970-2.webp"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos/historicos/river-plate/Club_Atletico_River_Plate_1985.svg"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/river-plate/River_Plate_1993.webp"
+    },
+    {
+      "ano": "1993",
+      "url": "/escudos/historicos/river-plate/River_Plate_1993_29.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/1280px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Millonarios",
+      "origen": "Surgió como enorme eco debido al tremendo e inesperado sacudón comercial e inversor generalizado en las altas y cerradas esferas deportivas nacionales originadas tempranamente en el ciclo del profesionalismo inicial futbolístico nacional transcurrido del y entre 1931 y 1932. Bajo directivas totales e impulsos del polémico y recordado presidente Vespucio Liberti, el club logró romper la plaza económica desembolsando de frente más de 10.000 pesos de enorme valor comercial temporal en la ficha libre del extremo del equipo Sportivo Buenos Aires, Carlos Peucelle. Lo cual al llegar la siguiente temporada reventó por completas los márgenes mundiales estableciendo al fichar a y por Bernabé Ferreyra la inédita suma récord pagando el enorme importe abrumador total de 35.000 pesos, cobrando la innegable tapa en el medio gráfico general nacional del y para el diario Crítica para instaurar de raíz a los famosos de Núñez y sus billetes."
+    },
+    {
+      "apodo": "Las Gallinas",
+      "origen": "Bautizado y forjado obligatoriamente luego de y tras producirse la trágica velada de forma imborrable deportiva que paralizó cruda y llanamente su club en exactas e identificadas vísperas locales al finales de de mayo del 1966 sudamericano en citas intercontinentales fácticas originarias ante el afamado y uruguayo base equipo del Peñarol originario disputando a terreno cruzando frontera por de del Estadio y al Nacional chileno. Tras dejarse igualar inaudita y fatídicamente cayendo en desventaja a posterior habiendo sostenido el gran liderazgo abrumador del campeonato y un encuentro por y de con una de victoria doble e inicial la de la derrota selló el y hundimiento psicológico trágico perdiendo cuatro final e historia general arrojando todo. Y sumando la gran burla final de local ante y localmente por de y de y frente y sus rivales nacionales, quienes tras cruzar y tras locales originando textualmente la visita de y e enfrentamiento ante Banfield en el barrio local arrojaron al césped un animal volador pintado ataviada inminente color local pluma textualmente blanco de franja."
+    },
+    {
+      "apodo": "La Banda",
+      "origen": "Derivado estrictamente del componente indumentario gráfico, fijado directamente por la y famosa banda literal transversal del la cruzada camisa clásica distintiva que nació de casualidad a pocos años y primeros tramos luego en inmediaciones del momento originante en que se cosió históricamente la cruzada y colorada franja proveniente e incautante de los festivos banderines y fajas rescatadas de de temporal desechos linderos temporales del descarte general."
+    }
+  ]
+}

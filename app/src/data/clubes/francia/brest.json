@@ -1,0 +1,226 @@
+{
+  "id": "brest",
+  "meta": {
+    "slug": "brest"
+  },
+  "datos": {
+    "nombre_completo": "Stade Brestois 29",
+    "nombre_oficial": "Stade Brestois 29",
+    "nombre_corto": "Brest",
+    "apodo": "Les Pirates",
+    "fundacion": "1950",
+    "estadio_actual": "Stade Francis-Le Blé",
+    "presidente": "Denis Le Saint",
+    "entrenador": "Éric Roy",
+    "estadio_capacidad": "15.220",
+    "estadio_inauguracion": "1922",
+    "estadio_direccion": "Rte de Quimper, 29200 Brest, Francia",
+    "estadio_lat": 48.4038,
+    "estadio_lng": -4.4616,
+    "sigla": "SB29",
+    "socios": 10500,
+    "descripcion_corta": "Representativo táctico del departamento de Finisterre caracterizado estadísticamente por su liquidación administrativa originada en tribunales y quita de plazas por bancarrotas dictaminadas.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E11B22"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Bernard Pardo (38 goles)",
+      "mas_presencias": "Bruno Grougi (300 partidos)",
+      "mayor_goleada": "5-0 vs Estrasburgo (2020)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/brest.svg"
+  },
+  "historia": [
+    {
+      "ano": "1950",
+      "hito": "El Nacimiento y la Fusión Armórica Brestoise",
+      "desc": "Ubicado cimentado rígidamente en la costa portuaria fortificada naval de Bretaña, el club surgió el 26 de junio de 1950 bajo el nombre matriz Stade Brestois gracias a la colosal e imperativa fusión barrial de uniones católicas: Amicale de Saint-Denis, Lavenir de Saint-Martin y La Flamme. Con la férrea influencia oficial originada por el Padre obispo de época rector local y la dictaminada de su presidente Jean Offret, forjaron inmensos vínculos portando escudo color blanco."
+    },
+    {
+      "ano": "1979",
+      "hito": "Estreno Oficial en Primera División",
+      "desc": "El Stade Brestois ganó el ascenso del fútbol francés a la máxima categoría, disputando su temporada inaugural en la élite durante el ciclo 1979-80."
+    },
+    {
+      "ano": "1983",
+      "hito": "Adicción de Inversionistas",
+      "desc": "El presidente François Yvinec asumió el control e inyectó recursos que le permitieron al club fichar jugadores internacionales sudamericanos de forma regular."
+    },
+    {
+      "ano": "1991",
+      "hito": "Quiebra Financiera y Descenso Administrativo",
+      "desc": "Acumulando abultadas deudas con Hacienda y salarios impagos, la junta rectora de la liga dictaminó la quiebra oficial del club, condenándolo a descender administrativamente a la tercera categoría."
+    },
+    {
+      "ano": "2024",
+      "hito": "Mejor Clasificación Histórica y Fase de Liga Europea",
+      "desc": "El equipo alcanzó por primera vez la tercera posición final en la Ligue 1, asegurando su presencia en la fase de grupos de la Liga de Campeones."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade Francis-Le Blé",
+      "capacidad": "15.220",
+      "inauguracion": "1922",
+      "desde": "1922",
+      "hasta": "",
+      "direccion": "Rte de Quimper, 29200 Brest, Francia",
+      "lat": 48.4038,
+      "lng": -4.4616,
+      "obs": "Recinto originalmente llamado Stade de l'Armoricaine, fue renombrado en homenaje a un ex alcalde.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rte%20de%20Quimper%2C%2029200%20Brest%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1950,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#e30613",
+      "tipo": "liso",
+      "desc": "La histórica escuadra bretona se viste tradicionalmente de rojo liso con pantalones blancos."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Roberto Cabañas",
+      "periodo": "1984-1987",
+      "pos": "Delantero",
+      "desc": "Atacante internacional paraguayo de extensa repercusión. Defendió exitosamente la ofensiva del equipo logrando altos registros goleadores a mediados de los ochenta."
+    },
+    {
+      "nombre": "Paul Le Guen",
+      "periodo": "1983-1989",
+      "pos": "Mediocampista",
+      "desc": "Volante central originario de la región local. Resultó titular asiduo disputando numerosos encuentros para sostener la participación oficial en la división mayor."
+    },
+    {
+      "nombre": "Bruno Grougi",
+      "periodo": "2009-2018",
+      "pos": "Mediocampista",
+      "desc": "Mediocentro y emblema formativo inamovible de la época moderna. Capitaneó a las formaciones por cerca de una década logrando ascensos estables."
+    },
+    {
+      "nombre": "David Ginola",
+      "periodo": "1990-1992",
+      "pos": "Delantero",
+      "desc": "Acusado extremo desequilibrante veloz. Integró un sólido conjunto que fue clave en el progreso oficial demostrando firmes desempeños linderos de máximo nivel."
+    },
+    {
+      "nombre": "Steve Elana",
+      "periodo": "2005-2012",
+      "pos": "Arquero",
+      "desc": "Sólido portero titular asiduo. Custodió firmemente la valla registrando amplias sumatorias formales siendo factor indiscutible para ascender al club al torneo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gaëtan Charbonnier",
+      "goles": 51,
+      "periodo": "2018-2021",
+      "partidos": 133,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 51 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2021."
+    },
+    {
+      "nombre": "Drago Vabec",
+      "goles": 46,
+      "periodo": "1979-1983",
+      "partidos": 112,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 46 goles en competiciones oficiales durante su trayectoria en el equipo entre 1979-1983."
+    },
+    {
+      "nombre": "Bruno Grougi",
+      "goles": 35,
+      "periodo": "2009-2018",
+      "partidos": 288,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2018."
+    },
+    {
+      "nombre": "Nolan Roux",
+      "goles": 29,
+      "periodo": "2009-2012",
+      "partidos": 84,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 29 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2012."
+    },
+    {
+      "nombre": "Roberto Cabañas",
+      "goles": 27,
+      "periodo": "1985-1987",
+      "partidos": 60,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 27 goles en competiciones oficiales durante su trayectoria en el equipo entre 1985-1987."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Bruno Grougi",
+      "partidos": 288,
+      "periodo": "2009-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 288 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2018."
+    },
+    {
+      "nombre": "Brendan Chardonnet",
+      "partidos": 272,
+      "periodo": "2013-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 272 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-Act."
+    },
+    {
+      "nombre": "Maurice Boutet",
+      "partidos": 210,
+      "periodo": "1975-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 210 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1980."
+    },
+    {
+      "nombre": "Steeve Elana",
+      "partidos": 119,
+      "periodo": "2005-2012",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 119 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2012."
+    },
+    {
+      "nombre": "Hugo Magnetti",
+      "partidos": 114,
+      "periodo": "2018-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 114 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-Act."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/brest/Stade_Brestois_Logo_avant_1985.svg.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/brest/Logo_Stade_Brestois_29.svg.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/brest/Brest_Armorique_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/brest/Stade_Brestois_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/brest/Stade_Brestois.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/brest/Stade_Brestois_29.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/brest.svg"
+    }
+  ]
+}

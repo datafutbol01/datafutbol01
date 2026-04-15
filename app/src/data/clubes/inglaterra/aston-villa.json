@@ -1,0 +1,411 @@
+{
+  "id": "aston-villa",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "villans",
+      "villa park",
+      "birmingham"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Aston Villa Football Club",
+    "sigla": "AVL",
+    "fundacion": "21 de noviembre de 1874",
+    "apodo": "The Villans",
+    "estadio_actual": "Villa Park",
+    "estadio_apodo": "",
+    "estadio_capacidad": 42682,
+    "estadio_inauguracion": "1897",
+    "estadio_lat": 52.50909,
+    "estadio_lng": -1.884766,
+    "estadio_direccion": "Trinity Rd, Birmingham B6 6HE",
+    "socios": 50000,
+    "descripcion_corta": "Fundado en noviembre de 1874 por cuatro miembros de una congregación local en Birmingham, el club pasó de jugar sus primeros amistosos bajo reglas de rugby a convertirse en una piedra fundacional del deporte. Fueron pioneros absolutos gracias al impulso de su directivo William McGregor, creador de la Football League en 1888. Alcanzaron su mayor y eterna coronación histórica levantando la Copa de Europa en 1982.",
+    "paleta": [
+      {
+        "tag": "Claret",
+        "hex": "#670E36"
+      },
+      {
+        "tag": "Azure Blue",
+        "hex": "#95BFE5"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "12-2 a Accrington (Marzo 1892)",
+      "maximo_goleador": "Billy Walker (244 goles)",
+      "mas_presencias": "Charlie Aitken (660 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1874",
+      "hito": "Fundación en la Capilla Wesleyana",
+      "desc": "El 21 de noviembre de 1874, cuatro miembros devotos de la Capilla Wesleyana de Villa Cross en Handsworth (un área de Birmingham) decidieron fundar el Aston Villa Football Club. Los fundadores originales fueron Jack Hughes, Frederick Matthews, Walter Price y William Scattergood. Su objetivo principal era encontrar una actividad física estructurada para mantenerse en forma durante los duros y grises meses de invierno, ya que todos ellos integraban el modesto equipo de críquet parroquial. Durante sus primeras semanas de existencia experimentaron jugando extraños amistosos que mezclaban reglas de fútbol y rugby, hasta que acordaron adoptar el reglamento tradicional para competir contra otros equipos obreros."
+    },
+    {
+      "ano": "1888-1920",
+      "hito": "William McGregor y el dominio victoriano de Ramsay",
+      "desc": "Durante la etapa formativa del club se incorporaron figuras que cambiarían la historia del fútbol. William McGregor, directivo escocés del Villa, fue el cerebro absoluto detrás de la creación institucional de la 'Football League' en 1888, logrando convencer al resto de los equipos grandes del país para formalizar el primer torneo de liga del mundo. Ya en la cancha, bajo la magistral dirección táctica del mánager George Ramsay, el Aston Villa dominó masivamente la era victoriana ganando seis First Division y seis FA Cups, completando el legendario 'Doblete' liguero y copero en el mismo año que inauguraron Villa Park (1897)."
+    },
+    {
+      "ano": "1960-1975",
+      "hito": "Gran declive deportivo y estrepitosa caída a Tercera",
+      "desc": "El periodo posterior a la Segunda Guerra Mundial estuvo marcado por la nula modernización de instalaciones, la falta de visión comercial de sus anticuados dirigentes y recurrentes crisis financieras. Aunque lograron conquistar heroicamente la primera edición de la League Cup en 1961, el rendimiento regular del equipo se desmoronó por completo en los años posteriores, cayendo al foso de la Segunda División en 1967. El calvario deportivo tocó fondo de manera dramática solo tres años después, consumando un triste e inédito descenso que los relegó a sobrevivir en las catacumbas de la Tercera División durante la temporada 1969-70."
+    },
+    {
+      "ano": "1980-1982",
+      "hito": "La heroica conquista de la Copa de Europa",
+      "desc": "La espectacular e inesperada resurrección institucional llegó a principios de los ochenta de la mano del estricto mánager Ron Saunders, quien forjó un equipo compacto e indomable capaz de coronarse campeón de Inglaterra en 1981 usando únicamente a 14 jugadores. Sin embargo, el momento de gloria deportiva eterna del Villa se registró el 26 de mayo de 1982 en Róterdam. Tras la sorpresiva renuncia de Saunders, el interinato de Tony Barton condujo a la escuadra a la final de la Copa de Europa. Con una actuación milagrosa del inexperto arquero suplente Nigel Spink y el agónico gol de Peter Withe, los 'villanos' derrotaron 1-0 al formidable Bayern Múnich para reinar en el continente."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Wellington Road",
+      "direccion": "20 Wellington Rd, Perry Barr, Birmingham B20 2SP",
+      "desde": 1876,
+      "hasta": 1897,
+      "estado": "Histórico",
+      "obs": "Primer estadio propio del club con instalaciones formales. Contaba con dos tribunas de madera. Fue abandonado permanentemente en 1897 debido a que los problemas crónicos con los desniveles del campo dificultaban el juego y la capacidad de las gradas había quedado insuficiente.",
+      "lat": 52.518,
+      "lng": -1.905,
+      "url": "https://www.google.com/maps/search/?api=1&query=20%20Wellington%20Rd%2C%20Perry%20Barr%2C%20Birmingham%20B20%202SP"
+    },
+    {
+      "nombre": "Villa Park",
+      "direccion": "Trinity Rd, Birmingham B6 6HE",
+      "desde": 1897,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estadio principal del club desde su inauguración. Erigido originalmente en un antiguo recinto recreativo victoriano. Ha sido históricamente la sede neutral más usada en la historia de Inglaterra para los partidos de semifinales de la FA Cup (albergó 55 encuentros).",
+      "lat": 52.50909,
+      "lng": -1.884766,
+      "url": "https://www.google.com/maps/search/?api=1&query=Trinity%20Rd%2C%20Birmingham%20B6%206HE"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1874,
+      "hasta": 1887,
+      "c1": "#111111",
+      "c2": "#cc0000",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "franja-horizontal",
+      "desc": "La era primigenia mítica experimentó múltiples e inexactas mutaciones hasta cruzar puramente a y robustas rayas horizontales bicolores en sus suéteres escoceses de duro tejido."
+    },
+    {
+      "desde": 1887,
+      "hasta": null,
+      "c1": "#7a003c",
+      "c2": "#6CABDD",
+      "sh": "#ffffff",
+      "me": "#6CABDD",
+      "tipo": "liso",
+      "desc": "Acuerdo victoriano monumental de cimentar purista e históricamente el noble tejido liso granate poético letal en el pecho contrapuesto gloriosamente a perfectas mangas de color marino en honor escocés."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Peter Withe",
+      "pos": "Delantero",
+      "apodo": "Peter",
+      "periodo": "1980-1985",
+      "desc": "Centrodelantero histórico. Inmortalizó su nombre en 1982 al anotar el único gol de la final frente al Bayern de Múnich, otorgándole al club la Copa de Europa."
+    },
+    {
+      "nombre": "Gordon Cowans",
+      "pos": "Mediocampista",
+      "apodo": "Sid",
+      "periodo": "1976-1994",
+      "desc": "Mediocampista organizador de excelente control. Disputó más de 400 partidos en diversas etapas, siendo el cerebro del equipo campeón de Primera División en 1981."
+    },
+    {
+      "nombre": "Paul McGrath",
+      "pos": "Defensor",
+      "apodo": "God",
+      "periodo": "1989-1996",
+      "desc": "Defensor central nacido en Irlanda. Se consolidó como líder titular de la zaga durante los primeros años fundacionales de la moderna Premier League en la década de 1990."
+    },
+    {
+      "nombre": "Dennis Mortimer",
+      "pos": "Mediocampista",
+      "apodo": "Dennis",
+      "periodo": "1975-1985",
+      "desc": "Emblemático capitán del equipo a comienzos de la década de 1980. Levantó los trofeos de campeonato de Primera División y la Copa de Europa bajo su liderazgo en el campo de juego."
+    },
+    {
+      "nombre": "Charlie Aitken",
+      "pos": "Defensor",
+      "apodo": "Charlie",
+      "periodo": "1959-1976",
+      "desc": "Lateral izquierdo de origen escocés. Posee el récord absoluto inalcanzable de mayor cantidad de presencias vistiendo la camiseta del club con un total que supera las 650 apariciones."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Billy Walker",
+      "goles": 244,
+      "partidos": 531,
+      "periodo": "1919-1933",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 244 goles en competiciones oficiales durante su trayectoria en el equipo entre 1919-1933."
+    },
+    {
+      "nombre": "Harry Hampton",
+      "goles": 242,
+      "partidos": 376,
+      "periodo": "1904-1920",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 242 goles en competiciones oficiales durante su trayectoria en el equipo entre 1904-1920."
+    },
+    {
+      "nombre": "John Devey",
+      "goles": 187,
+      "partidos": 308,
+      "periodo": "1891-1902",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 187 goles en competiciones oficiales durante su trayectoria en el equipo entre 1891-1902."
+    },
+    {
+      "nombre": "Joe Bache",
+      "goles": 185,
+      "partidos": 474,
+      "periodo": "1900-1914",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 185 goles en competiciones oficiales durante su trayectoria en el equipo entre 1900-1914."
+    },
+    {
+      "nombre": "Eric Houghton",
+      "goles": 170,
+      "partidos": 392,
+      "periodo": "1927-1946",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 170 goles en competiciones oficiales durante su trayectoria en el equipo entre 1927-1946."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Charlie Aitken",
+      "partidos": 660,
+      "periodo": "1959-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 660 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1976."
+    },
+    {
+      "nombre": "Billy Walker",
+      "partidos": 531,
+      "periodo": "1919-1933",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 531 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1919-1933."
+    },
+    {
+      "nombre": "Gordon Cowans",
+      "partidos": 527,
+      "periodo": "1976-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 527 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1994."
+    },
+    {
+      "nombre": "Joe Bache",
+      "partidos": 474,
+      "periodo": "1900-1914",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 474 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1900-1914."
+    },
+    {
+      "nombre": "Allan Evans",
+      "partidos": 473,
+      "periodo": "1977-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 473 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1989."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division (Inglaterra)",
+      "cantidad": 7,
+      "años": [
+        "1893-94",
+        "1895-96",
+        "1896-97",
+        "1898-99",
+        "1899-00",
+        "1909-10",
+        "1980-81"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 7,
+      "años": [
+        "1886-87",
+        "1894-95",
+        "1896-97",
+        "1904-05",
+        "1912-13",
+        "1919-20",
+        "1956-57"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 5,
+      "años": [
+        "1960-61",
+        "1974-75",
+        "1976-77",
+        "1993-94",
+        "1995-96"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 1,
+      "años": [
+        "1981"
+      ]
+    },
+    {
+      "nombre": "European Cup / Champions League",
+      "cantidad": 1,
+      "años": [
+        "1981-82"
+      ]
+    },
+    {
+      "nombre": "UEFA Super Cup",
+      "cantidad": 1,
+      "años": [
+        "1982"
+      ]
+    },
+    {
+      "nombre": "Copa Intertoto de la UEFA",
+      "cantidad": 2,
+      "años": [
+        "2001",
+        "2008"
+      ]
+    },
+    {
+      "nombre": "Second Division",
+      "cantidad": 2,
+      "años": [
+        "1937-38",
+        "1959-60"
+      ]
+    },
+    {
+      "nombre": "Third Division",
+      "cantidad": 1,
+      "años": [
+        "1971-72"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1878",
+      "url": "/escudos/historicos/aston-villa/Crest-1878.webp"
+    },
+    {
+      "ano": "1880",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1880_web.png"
+    },
+    {
+      "ano": "1886",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_1886.webp"
+    },
+    {
+      "ano": "1886",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1886_web.png"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos/historicos/aston-villa/Aston-Villa-FC-1956-1969.webp"
+    },
+    {
+      "ano": "1956",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1956_web.png"
+    },
+    {
+      "ano": "1969",
+      "url": "/escudos/historicos/aston-villa/Crest-1969.webp"
+    },
+    {
+      "ano": "1969",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1969_web.png"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_FC_logo_29.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1973_web.png"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos/historicos/aston-villa/Aston-villa-pre-2000.webp"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1987_web.png"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_FC_logo_(1992-2007).svg"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/aston-villa/aston-villa_1992_web.png"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2000_web.png"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_FC_logo.svg"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2007_web.png"
+    },
+    {
+      "ano": "2008",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2008_web.png"
+    },
+    {
+      "ano": "2015",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_FC_2015.svg"
+    },
+    {
+      "ano": "2016",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2016_web.png"
+    },
+    {
+      "ano": "2023",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_2023.svg"
+    },
+    {
+      "ano": "2023",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2023_web.png"
+    },
+    {
+      "ano": "2024",
+      "url": "/escudos/historicos/aston-villa/Aston_Villa_2024.svg"
+    },
+    {
+      "ano": "2024",
+      "url": "/escudos_historicos/aston-villa/aston-villa_2024_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/aston-villa.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Villans",
+      "origen": "Aplicado como gentilicio natural inamovible heredado fielmente por su conformación en la densa urbe de época victoriana en los orígenes. El bautismo social nació al agruparse cívicamente asumiendo los liderazgos bajo su histórica primera sede ubicada territorialmente congregados en la modesta y local capilla metodista homónima céntrica anclada sobre los confines urbanos y fronteras de la calle Aston Villa, apropiándose puramente del epíteto urbano de su primer barrio de los fundadores cívicos."
+    },
+    {
+      "apodo": "The Lions",
+      "origen": "Bautizado por la férrea labor ejercida administrativamente aportando a nivel histórico bajo la enorme autoridad moral del exdirector dirigente pionero, el respetado escocés norteño William McGregor. El ejecutivo fue el principal mandamás para bocetar de manera ilustrada su insignia oficial inamovible forjada con pliego al decidir estampar una heráldica un león rústico rampante parado, el histórico sello cívico intocable de estandarte noble empleado por todos los reyes y poblados antiguos de Escocia."
+    }
+  ]
+}

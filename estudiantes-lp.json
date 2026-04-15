@@ -1,0 +1,34 @@
+{
+  "id": "estudiantes-lp",
+  "datos": {
+    "nombre_oficial": "Club Estudiantes de La Plata",
+    "nombre_corto": "Estudiantes LP",
+    "apodos": [
+      "El Pincha",
+      "Los Pincharratas"
+    ],
+    "fundacion": "1905-08-04",
+    "ciudad": "La Plata",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Jorge Luis Hirschi",
+    "estadio_capacidad": 30000,
+    "estadio_lat": -34.9024,
+    "estadio_lng": -57.9454,
+    "debut_primera": 1914
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#FFFFFF",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 4,
+  "meta": {
+    "datos_completos": false
+  }
+}

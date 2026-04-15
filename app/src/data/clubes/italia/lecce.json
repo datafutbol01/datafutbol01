@@ -1,0 +1,238 @@
+{
+  "id": "lecce",
+  "meta": {
+    "slug": "lecce"
+  },
+  "datos": {
+    "nombre_completo": "Unione Sportiva Lecce S.p.A.",
+    "sigla": "LEC",
+    "fundacion": "1908",
+    "apodo": "Los Salentinos, Los Amarillos y Rojos, Los Lobos del Sur",
+    "estadio_actual": "Stadio Via del Mare",
+    "estadio_apodo": "",
+    "estadio_capacidad": 31533,
+    "estadio_inauguracion": "2 de octubre de 1966",
+    "estadio_lat": 40.3582,
+    "estadio_lng": 18.2081,
+    "estadio_direccion": "Viale della Libertà, 73100 Lecce, Apulia",
+    "socios": 20000,
+    "descripcion_corta": "Institución representante de la región peninsular sureña de Apulia, compitiendo frecuentemente en Serie A como el club más exitoso estadísticamente de dicho sector geográfico meridional local.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#fad201"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#e32219"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Anselmo Bislenghi (87 goles)",
+      "mas_presencias": "Michele Lorusso (418 partidos)",
+      "mayor_goleada": "10-0 vs Liberty Bari (1946)"
+    },
+    "nombre_oficial": "Unione Sportiva Lecce",
+    "nombre_corto": "Lecce",
+    "escudo_actual": "/escudos_historicos/lecce/600px-Leccestemma.webp"
+  },
+  "historia": [
+    {
+      "ano": "1908",
+      "hito": "Génesis del Balompié en el Sur de Apulia",
+      "desc": "El arraigo y desembarco del balompié en la alejada zona del talón meridional de la bota italiana se oficializó de manera formal el 15 de marzo de 1908, cuando varios entusiastas deportivos y aristócratas locales fundaron oficialmente el Sporting Club Lecce. Atravesando las penurias operativas propias de clubes sureños en competencia con el próspero y avanzado norte, la estructura inicial sobrevivió esporádicamente fusionándose con otras asociaciones cívicas menores de la ciudad. Sería finalmente en septiembre de 1927 cuando los directivos resolvieron reagrupar estatutariamente a todas las facciones futbolísticas locales en la nueva y definitiva Unione Sportiva Lecce, adoptando oficialmente los tonos cívicos amarillos y rojos identificatorios formales de la loba y la encina."
+    },
+    {
+      "ano": "1985",
+      "hito": "Obtención del Ascenso Inicial a la Serie A",
+      "desc": "Operando la mayor parte en categorías medias, el esquema consolidado por directivos en la década del ochenta llevó al club a lograr los puntos regulares requeridos en Serie B para integrarse en la nómina élite de la temporada italiana oficial de manera histórica."
+    },
+    {
+      "ano": "1986",
+      "hito": "Clausura Puntual a un Paso de Roma",
+      "desc": "Con su posición de relegamiento asegurada tempranamente por rendimiento final frente al nivel superior, Lecce acudió como visitante frente a Roma en la penúltima etapa. Ganaron con un margen desfavorable en el cierre y este partido terminó apartando directamente de las chances campeonas a la AS Roma."
+    },
+    {
+      "ano": "2004",
+      "hito": "Esquemas de Transición Ofensiva y Goleadores Extranjeros",
+      "desc": "Manejados durante ese período con un perfil característico ofensivo dispuesto en la formación táctica de Zdeněk Zeman. Destacaron por su saldo final de goleo comparado con otros clubes intermedios, cimentado por la contribución particular aportada por el delantero atacante extranjero Javier Chevantón."
+    },
+    {
+      "ano": "2022",
+      "hito": "Estructuras Modulares Definitivas a Primera",
+      "desc": "En medio del decaimiento previo documentado y su tránsito deportivo en Serie C1, Pantaleo Corvino dirigió sus políticas hacia divisiones menores integradas lo que dio frutos obteniendo por vía deportiva retornos continuos directos coronados con la clasificación definitiva final al retornar en la cumbre a Serie A."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Via del Mare",
+      "capacidad": "31.533",
+      "inauguracion": "2 de octubre de 1966",
+      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20della%20Libert%C3%A0%2C%2073100%20Lecce%2C%20Apulia",
+      "direccion": "Viale della Libertà, 73100 Lecce, Apulia",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1908,
+      "hasta": 1927,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "A lo largo de sus registros más tempranos interregionales, la primera asociación deportiva de base apuliana compitió formalmente vistiendo de líneas blanquinegras o bianconeri a modo utilitario."
+    },
+    {
+      "desde": 1927,
+      "hasta": null,
+      "c1": "#d1000b",
+      "c2": "#ebbc00",
+      "sh": "#001e4a",
+      "me": "#d1000b",
+      "tipo": "rayas-verticales",
+      "desc": "Asumiendo e integrando las afiliaciones cromáticas cívicas correspondientes al estandarte oficial documentado regional la escuadra optó formalizando definitivamente franjas y rayas de forma siempre formales verticales incorporando el amarillo intenso oro y la franja roja o sangre."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Javier Ernesto Chevantón",
+      "periodo": "2001-2013",
+      "pos": "Delantero",
+      "desc": "Goleador uruguayo que consolidó un gran registro en diversas etapas y se retiró como máximo anotador en la historia del club en Primera División."
+    },
+    {
+      "nombre": "Pedro Pasculli",
+      "periodo": "1985-1992",
+      "pos": "Delantero",
+      "desc": "Delantero atacante argentino. Resultó campeón del mundo a mediados de la década de 1980 mientras militaba activamente como titular del plantel italiano."
+    },
+    {
+      "nombre": "Guillermo Giacomazzi",
+      "periodo": "2001-2013",
+      "pos": "Mediocampista",
+      "desc": "Volante de contención uruguayo con extensa carrera. Es reconocido estadísticamente como el jugador con el número absoluto de presencias máximas portando el uniforme."
+    },
+    {
+      "nombre": "Rubén Olivera",
+      "periodo": "2010-2012",
+      "pos": "Mediocampista",
+      "desc": "Habilidoso mediocampista y centrocampista táctico. Aportó con talento para asentar y garantizar largas posiciones logradas establemente por el cuadro a nivel liguero."
+    },
+    {
+      "nombre": "Anselmo Bislenghi",
+      "periodo": "1946-1955",
+      "pos": "Delantero",
+      "desc": "Artillero indiscutido durante décadas añejas que logró posicionarse formalmente entre la línea inicial de goleadores locales en las ligas primeras de 1950."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Anselmo Bislenghi",
+      "goles": 87,
+      "periodo": "1946-1955",
+      "partidos": 246,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 87 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1955."
+    },
+    {
+      "nombre": "Javier Ernesto Chevantón",
+      "goles": 59,
+      "periodo": "2001-2013",
+      "partidos": 125,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2013."
+    },
+    {
+      "nombre": "Pedro Pasculli",
+      "goles": 53,
+      "periodo": "1985-1992",
+      "partidos": 214,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 1985-1992."
+    },
+    {
+      "nombre": "Aurelio De Marco",
+      "goles": 50,
+      "periodo": "1945-1953",
+      "partidos": 160,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre 1945-1953."
+    },
+    {
+      "nombre": "Guillermo Giacomazzi",
+      "goles": 44,
+      "periodo": "2001-2013",
+      "partidos": 312,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2013."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Guillermo Giacomazzi",
+      "partidos": 312,
+      "periodo": "2001-2013",
+      "goles": 44,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 312 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2013."
+    },
+    {
+      "nombre": "Carmelo Miceli",
+      "partidos": 291,
+      "periodo": "1977-1987",
+      "goles": 5,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 291 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1987."
+    },
+    {
+      "nombre": "Gino Lorusso",
+      "partidos": 276,
+      "periodo": "1973-1982",
+      "goles": 2,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 276 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1982."
+    },
+    {
+      "nombre": "Giuseppe Materazzi",
+      "partidos": 256,
+      "periodo": "1968-1975",
+      "goles": 6,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 256 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1975."
+    },
+    {
+      "nombre": "Anselmo Bislenghi",
+      "partidos": 246,
+      "periodo": "1946-1955",
+      "goles": 87,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 246 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1946-1955."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie B",
+      "cantidad": 2,
+      "anios": [
+        "1984-85",
+        "2009-10"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/lecce/Us_lecce_1940_1980.webp"
+    },
+    {
+      "ano": "1981-2001",
+      "url": "/escudos_historicos/lecce/Uslecce1981-2001.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/lecce/600px-Leccestemma.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Lupi",
+      "origen": "Surge legendariamente de los mitos fundadores. La insignia adopta a la fiera loba cazadora emplazada en sus bosques vecinos asimilados permanentemente al municipio de Salento."
+    },
+    {
+      "apodo": "I Giallorossi",
+      "origen": "Atribuido cromáticamente por los vibrantes colores calcados visualmente del histórico e inamovible blasón de la provincia originaria e imponente de la ciudad capital."
+    }
+  ]
+}

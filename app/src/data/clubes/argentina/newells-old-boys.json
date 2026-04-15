@@ -1,0 +1,335 @@
+{
+  "id": "newells-old-boys",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "rosario",
+      "lepra",
+      "interior"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Newell's Old Boys",
+    "sigla": "CANOB",
+    "fundacion": "3 de noviembre de 1903",
+    "apodo": "La Lepra, Los Rojinegros",
+    "estadio_actual": "Marcelo Bielsa",
+    "estadio_apodo": "El Coloso del Parque",
+    "estadio_capacidad": 42000,
+    "estadio_inauguracion": "1911-07-23",
+    "estadio_lat": -32.9547,
+    "estadio_lng": -60.6582,
+    "estadio_direccion": "Parque Independencia S/N, Rosario, Santa Fe",
+    "socios": 65000,
+    "descripcion_corta": "Institución legendaria de la ciudad de Rosario con fuerte arraigo social. Reconocida por su prolífica escuela de formación futbolística, de la cual han surgido directores técnicos y jugadores de prestigio internacional como Marcelo Bielsa, Gerardo Martino y Lionel Messi.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E2001A"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-0 a Huracán de Comodoro Rivadavia (1971)",
+      "maximo_goleador": "Víctor Ramos (104 goles)",
+      "mas_presencias": "Gerardo Martino (505 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Nacimiento rojinegro en el patio del Colegio Comercial",
+      "desc": "La semilla leprosa fue esparcida por el inmigrante británico Isaac Newell, pionero rector de la educación rosarina. El 3 de noviembre de 1903, su visionario hijo Claudio Newell congregó a exalumnos e instructores del Colegio Comercial Anglicano Argentino en el patio central del mismo establecimiento escolar. En honor absoluto al legado de su padre, fundaron el 'Club Atlético Newell's Old Boys'. Decidieron que su indumentaria entrecruzara mágicamente los colores patrios de Isaac (blanco y rojo de Inglaterra) y el escudero negro germano perteneciente a su esposa, Anna Margareth Jockinsen."
+    },
+    {
+      "ano": "1974",
+      "hito": "El zurdazo antológico de Mario Zanabria",
+      "desc": "El Torneo Metropolitano de 1974 materializó la primera estrella liguera de máxima categoría bajo el rigor táctico de Juan Carlos Montes. La consagración adquirió tintes legendarios por ocurrir exactamente el 2 de junio en la mismísima cancha de su acérrimo rival, Rosario Central. Consumiendo el tiempo de juego y perdiendo 0-2 en contra, una ráfaga rebelde empujó al descuento. El milagro se consumó con un zurdazo sideral de Mario Zanabria de volea al ángulo desde fuera del área, que firmó el 2-2 decisivo desatando una euforia incontrolable."
+    },
+    {
+      "ano": "1988-1992",
+      "hito": "La revolución táctica y el semillero asfixiante de Marcelo Bielsa",
+      "desc": "Liderados por el minucioso esquema cerebral de Marcelo Bielsa, Newell's reconfiguró el establishment del fútbol rioplatense. Presentando un ecosistema donde el 100% de la plantilla era fruto genuino de sus divisiones inferiores, forjaron un estilo de presión ultra asfixiante. Tras alzar el campeonato en 1987/88 (con José Yudica), Bielsa les devolvió la gloria ganando el Campeonato 1990/91 tras una histórica definición por penales en La Bombonera sostenida por el arquero Norberto Scoponi, coronando luego el torneo de 1992 y alcanzando la final de la Libertadores."
+    },
+    {
+      "ano": "2004",
+      "hito": "El regreso triunfal de la mano de Américo Gallego",
+      "desc": "Borrando más de una década de amargas sequías que azotaban al Parque de la Independencia, 'El Tolo' Américo Rubén Gallego instrumentó un equipo sólidamente rocoso sustentado en el talento creativo y goleador letal del delantero Ignacio Scocco y Fernando Belluschi. En un accidentado y sufrido epílogo en el Torneo Apertura 2004, tras tropezar ante Independiente en la última fecha 0-2, Newell's igual celebró el título gracias a un valiosísimo y empate logrado en simultáneo por su principal perseguidor, Vélez Sarsfield."
+    },
+    {
+      "ano": "2013",
+      "hito": "El ballet romántico de Gerardo Martino y Maxi Rodríguez",
+      "desc": "En medio del peligro descarnado de un letal riesgo de pérdida de categoría, sus máximos ídolos regresaron espontáneamente desde Europa acudiendo desesperados al rescate de la institución. Comandados por la batuta táctica preciosista de Gerardo 'Tata' Martino, e integrando futbolistas letales como 'La Fiera' Maximiliano Rodríguez, Gabriel Heinze y Lucas Bernardi, el club no solo evitó el descenso, sino que bordó un fútbol ofensivo sublime y conquistando legítimamente el Torneo Final 2013 ante una devota parcialidad rojinegra."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Plaza Jewell",
+      "direccion": "Pasaje Gould, Ciudad de Rosario",
+      "desde": 1903,
+      "hasta": 1905,
+      "estado": "Desalojado",
+      "obs": "Primer escenario deportivo transitorio brindado en condición de préstamo en los inicios competitivos formales del club.",
+      "lat": -32.935,
+      "lng": -60.665,
+      "url": "https://www.google.com/maps/search/?api=1&query=Pasaje%20Gould%2C%20Ciudad%20de%20Rosario"
+    },
+    {
+      "nombre": "Cancha de la Avenida",
+      "direccion": "Humberto Primero y Avellaneda, Rosario",
+      "desde": 1905,
+      "hasta": 1911,
+      "estado": "Desalojado",
+      "obs": "Recinto en el cual la asociación afianzó y disputó sus primeros torneos liguistas oficiales de la ciudad.",
+      "lat": -32.925,
+      "lng": -60.675,
+      "url": "https://www.google.com/maps/search/?api=1&query=Humberto%20Primero%20y%20Avellaneda%2C%20Rosario"
+    },
+    {
+      "nombre": "Estadio Marcelo Bielsa (Coloso del Parque)",
+      "direccion": "Parque de la Independencia S/N, Rosario",
+      "desde": 1911,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Epicentro futbolístico afincado permanentemente en los terrenos del Parque de la Independencia. Las instalaciones, compuestas originalmente de gradas de madera, fueron reconstruyéndose gradualmente. Se renombró oficialmente como Marcelo Bielsa a fines de 2009 en reconocimiento al entrenador homónimo.",
+      "lat": -32.9547,
+      "lng": -60.662,
+      "url": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20la%20Independencia%20S%2FN%2C%20Rosario"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": 1904,
+      "c1": "#ffffff",
+      "c2": "#87CEEB",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Camisa inicial de bastones blancos y celestes."
+    },
+    {
+      "desde": 1905,
+      "hasta": null,
+      "c1": "#E2001A",
+      "c2": "#000000",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "mitad-vertical",
+      "desc": "Diseño clásico dividido a mitades verticales roja y negra."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Gerardo Martino",
+      "pos": "Mediocampista / Enganche",
+      "apodo": "El Tata",
+      "periodo": "1980-1990, 1991-1994, 1995",
+      "desc": "Mediocampista cerebral exquisito y el jugador con mayor cantidad de partidos en la historia del club. Como director técnico repitió su rol protagónico guiando al equipo a la obtención del Torneo Final 2013 y semifinales de la Copa Libertadores."
+    },
+    {
+      "nombre": "Marcelo Bielsa",
+      "pos": "Director Técnico / Defensor",
+      "apodo": "El Loco",
+      "periodo": "1976-1978 (Jug), 1990-1992 (DT)",
+      "desc": "Estratega minucioso y máximo exponente filosófico de la cantera rojinegra. En la década de 1990 formó un plantel dinámico que obtuvo dos campeonatos de Primera División, siendo homenajeado al ceder su nombre al recinto deportivo principal."
+    },
+    {
+      "nombre": "Maximiliano Rodríguez",
+      "pos": "Mediocampista / Extremo",
+      "apodo": "La Fiera",
+      "periodo": "1999-2002, 2012-2017, 2019-2021",
+      "desc": "Extremo internacional que regresó al primer equipo en 2012 para sortear los grandes apremios promediales. Su liderazgo ofensivo junto a Gabriel Heinze fue determinante para estabilizar al equipo hasta finalmente consagrarse campeones en 2013."
+    },
+    {
+      "nombre": "Ignacio Scocco",
+      "pos": "Centrodelantero",
+      "apodo": "Nacho",
+      "periodo": "2004-2006, 2012-2013, 2014-2017, 2020-2021",
+      "desc": "Destacado delantero multicampeón con participaciones gravitantes. Sus goles de excepcional factura resultaron cruciales durante las campañas ganadoras de 2004 y 2013, siendo uno de los máximos anotadores modernos en la historia plena del campeonato."
+    },
+    {
+      "nombre": "Víctor Ramos",
+      "pos": "Delantero",
+      "apodo": "Condorito",
+      "periodo": "1978-1984, 1987-1989",
+      "desc": "Centrodelantero clásico que sostiene el récord vigente de máximo artillero en la historia moderna del club en divisiones oficiales. Se formó íntegramente en las juveniles rosarinas y comandó la línea de fuego durante toda la década del 80."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Víctor Ramos",
+      "goles": 104,
+      "partidos": 253,
+      "periodo": "1978-1989",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 104 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1989."
+    },
+    {
+      "nombre": "Santiago Santamaría",
+      "goles": 90,
+      "partidos": 293,
+      "periodo": "1971-1985",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 90 goles en competiciones oficiales durante su trayectoria en el equipo entre 1971-1985."
+    },
+    {
+      "nombre": "Maximiliano Rodríguez",
+      "goles": 76,
+      "partidos": 235,
+      "periodo": "1999-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 76 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2021."
+    },
+    {
+      "nombre": "Rene Pontoni",
+      "goles": 67,
+      "partidos": 110,
+      "periodo": "1941-1944",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 67 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1944."
+    },
+    {
+      "nombre": "Ignacio Scocco",
+      "goles": 62,
+      "partidos": 169,
+      "periodo": "2004-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 62 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2021."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Gerardo Martino",
+      "partidos": 505,
+      "periodo": "1980-1995",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 505 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1995."
+    },
+    {
+      "nombre": "Norberto Scoponi",
+      "partidos": 393,
+      "periodo": "1982-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 393 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1994."
+    },
+    {
+      "nombre": "Juan Manuel Llop",
+      "partidos": 391,
+      "periodo": "1981-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 391 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1994."
+    },
+    {
+      "nombre": "Fabián Basualdo",
+      "partidos": 299,
+      "periodo": "1982-1996",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 299 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1996."
+    },
+    {
+      "nombre": "Santiago Santamaría",
+      "partidos": 293,
+      "periodo": "1971-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 293 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1985."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 6,
+      "años": [
+        "1974",
+        "1988",
+        "1991",
+        "1992",
+        "2004",
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 3,
+      "años": [
+        "1911",
+        "1921",
+        "1925"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1905",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1905.webp"
+    },
+    {
+      "ano": "1926",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-de-Newells-1926.webp"
+    },
+    {
+      "ano": "1934",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1934.webp"
+    },
+    {
+      "ano": "1942",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-de-Newells-1942.webp"
+    },
+    {
+      "ano": "1952",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1952.webp"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1955.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-de-Newells-1988.webp"
+    },
+    {
+      "ano": "1989",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1989.webp"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1990.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-de-Newells-1991.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-de-Newells-1992.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-1997.webp"
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-2000.webp"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-2002.webp"
+    },
+    {
+      "ano": "2005",
+      "url": "/escudos/historicos/newells-old-boys/Escudo-Newells-2005.webp"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos/historicos/newells-old-boys/Newells_Old_Boys_2006.svg"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos/historicos/newells-old-boys/Newells_Old_Boys_2011.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg/1280px-Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Lepra",
+      "origen": "Bautizado a partir del mismo incidente cívico solidario que dio nombre a su contrincante en la década de 1920. Al recibir la propuesta de participar en diversos campeonatos o partidos a total beneficio de los pacientes asilados en el Hospital de enfermos de Rosario, la directiva del club aceptó la invitación prestando servicios incondicionales. Esto llevó a los rivales a tildarlos peyorativamente como amigos de la enfermedad de lepra, bautismo adosado a su identidad orgullosa por décadas."
+    }
+  ]
+}

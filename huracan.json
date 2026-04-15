@@ -1,0 +1,37 @@
+{
+  "id": "huracan",
+  "datos": {
+    "nombre_oficial": "Club Atlético Huracán",
+    "nombre_corto": "Huracán",
+    "apodos": [
+      "El Globo",
+      "El Quemero"
+    ],
+    "fundacion": "1908-11-01",
+    "ciudad": "Buenos Aires",
+    "barrio": "Parque Patricios",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Tomás Adolfo Ducó",
+    "estadio_apodo": "El Palacio",
+    "estadio_capacidad": 48314,
+    "estadio_inauguracion": "1949-03-27",
+    "estadio_lat": -34.6388,
+    "estadio_lng": -58.3978,
+    "debut_primera": 1908
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#FFFFFF",
+        "#CC0000"
+      ],
+      "diseno": "mitades_verticales"
+    },
+    "short": "#FFFFFF",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 4,
+  "meta": {
+    "datos_completos": false
+  }
+}

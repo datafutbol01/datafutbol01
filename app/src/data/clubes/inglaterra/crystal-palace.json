@@ -1,0 +1,371 @@
+{
+  "id": "crystal-palace",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "primera division",
+      "londres",
+      "sur"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Crystal Palace Football Club",
+    "sigla": "ENG",
+    "fundacion": "1861-09-10",
+    "apodo": "The Eagles",
+    "estadio_actual": "Selhurst Park",
+    "estadio_apodo": "El Nido",
+    "estadio_capacidad": 25486,
+    "estadio_inauguracion": "1924-08-30",
+    "estadio_lat": 51.398333,
+    "estadio_lng": -0.085556,
+    "estadio_direccion": "Holmesdale Rd, London SE25 6PU, Reino Unido",
+    "socios": 35000,
+    "descripcion_corta": "Histórico club del sur de Londres con raíces asombrosas: fue gestado y creado por los mismísimos trabajadores obreros que mantenían el mítico Palacio de Cristal en 1861. A partir de 1973, la directiva borró para siempre su vieja y amable identidad ('Los Nobles Vidrieros') para adoptar una imponente y agresiva ave de presa dorada como estandarte definitivo, ganándose el icónico apodo oficial de Las Águilas para competir al máximo nivel en Premier League.",
+    "paleta": [
+      {
+        "tag": "Principal",
+        "hex": "#1B4398"
+      },
+      {
+        "tag": "Secundario",
+        "hex": "#E62333"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "9-0 al Barrow (1959)",
+      "maximo_goleador": "Peter Simpson (165 goles)",
+      "mas_presencias": "Jim Cannon (660 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "El nacimiento en The Crystal Palace Company",
+      "desc": "Al albor de 1905, los propietarios del enorme predio de exposiciones The Crystal Palace Company (originalmente concebido para espectáculos arquitectónicos vitorianos amateurs en 1861) crearon una versión enteramente profesional del club. Apoyados formalmente sobre la dirección de Sydney Bourne, y bajo fuertes vínculos con representantes de Aston Villa, el club utilizó originalmente uniformes similares adoptando camiseta color claret y pantalones celestes."
+    },
+    {
+      "ano": "1969",
+      "hito": "Primer acceso a la principal categoría nacional",
+      "desc": "Después de atravesar varias conformaciones orgánicas durante sesenta temporadas estancados entre el último y segundo escalón del fútbol del país, el equipo dirigido operativamente y tácticamente por Bert Head diagramó en la temporada 1968-69 una consistente serie de partidos exitosos que otorgó legalmente al Palace su acceso histórico por primera vez a la exclusiva First Division local."
+    },
+    {
+      "ano": "1990",
+      "hito": "El cruce por definición en la final de FA Cup",
+      "desc": "Desplazándose y apoyándose fuertemente sobre las notables virtudes ofensivas en la formación liderada por los atacantes Ian Wright y Mark Bright, el Crystal Palace instruido tácticamente por Steve Coppell arribó a la final de FA Cup derrotando el camino en la semifinal a Liverpool. Ya en 1990, empataron apretadamente la final 3-3 ante el Manchester United pero cedieron la definición (0-1) luego en la revancha reglamentaria transcurrida en estadio neutral."
+    },
+    {
+      "ano": "2013",
+      "hito": "Consolidación victoriosa regresando por los Playoffs",
+      "desc": "Acumulando participaciones frustradamente oscilantes de intermitencia continua frente descensos recurrentes, logran el estatus superior estable del moderno fútbol actual superando la extensa fase de liguillas regulares logrando ingresar a la reñida definición reducida final (Playoffs) en el estadio de Wembley ante el Watford en 2013, sentenciada legalmente hacia la victoria unánime del ascenso gracias al definitorio tiro del punto del veterano Kevin Phillips."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "The Crystal Palace",
+      "desde": 1905,
+      "hasta": 1915,
+      "ciudad": "Londres",
+      "barrio": "Sydenham",
+      "obs": "Recinto originario aledaño al palacio ferial. Fue abandonado forzosamente dadas las expropiaciones militares causadas por la guerra.",
+      "direccion": "Anerley Hill, London SE19",
+      "lat": 51.4239,
+      "lng": -0.0717,
+      "url": "https://www.google.com/maps/search/?api=1&query=Anerley%20Hill%2C%20London%20SE19"
+    },
+    {
+      "nombre": "Herne Hill Velodrome",
+      "desde": 1915,
+      "hasta": 1918,
+      "ciudad": "Londres",
+      "barrio": "Herne Hill",
+      "obs": "Una pista de ciclismo veloz londinense alquilada transitoriamente para completar temporadas truncadas por eventos de conflictos armados en el territorio europeo.",
+      "direccion": "Burbage Rd, Herne Hill, London",
+      "lat": 51.4485,
+      "lng": -0.0931,
+      "url": "https://www.google.com/maps/search/?api=1&query=Burbage%20Rd%2C%20Herne%20Hill%2C%20London"
+    },
+    {
+      "nombre": "The Nest",
+      "desde": 1918,
+      "hasta": 1924,
+      "ciudad": "Londres",
+      "barrio": "Selhurst",
+      "obs": "Predio funcional temporal que brindó servicio de localía por seis años directos mientras el club conseguía estructurar por completo la compra masiva de los grandes terrenos aledaños definitivos del suroeste metropolitano.",
+      "direccion": "Selhurst Rd / Selhurst Depot, London SE25",
+      "lat": 51.3965,
+      "lng": -0.0932,
+      "url": "https://www.google.com/maps/search/?api=1&query=Selhurst%20Rd%20%2F%20Selhurst%20Depot%2C%20London%20SE25"
+    },
+    {
+      "nombre": "Selhurst Park",
+      "desde": 1924,
+      "hasta": null,
+      "ciudad": "Londres",
+      "barrio": "South Norwood",
+      "obs": "Inaugurado estructuralmente tras una fuerte inversión directiva con diseños de ingeniería clásica del célebre constructor Archibald Leitch. Aloja firmemente todo encuentro como equipo sede oficial hasta la época actual contemporánea ininterrumpidamente.",
+      "direccion": "Holmesdale Rd, London SE25 6PU, Reino Unido",
+      "lat": 51.398333,
+      "lng": -0.085556,
+      "url": "https://www.google.com/maps/search/?api=1&query=Holmesdale%20Rd%2C%20London%20SE25%206PU%2C%20Reino%20Unido"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": 1973,
+      "c1": "#7a003c",
+      "c2": "#6CABDD",
+      "sh": "#ffffff",
+      "me": "#7a003c",
+      "tipo": "liso",
+      "desc": "Originariamente replicando férrea purista la camisa lisa con mangas claretes de los colosales padrinos de la Villa, dictaminando respeto poético monárquico a las jerarquías británicas rectoras victorinas de palacio."
+    },
+    {
+      "desde": 1973,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#003da5",
+      "sh": "#003da5",
+      "me": "#003da5",
+      "tipo": "rayas-verticales",
+      "desc": "Metamorfosis drástica y punzante gloriosa, influida revolucionaria por tácticos visionarios para calzar y y crudas rayas verticales intercaladas lícitas en vibrantes sangrientos carmesíes y profundos zafiros que reencarnan la forma legendaria barrial de águilas inglesas y puristas emulaciones sudamericanas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Wilfried Zaha",
+      "pos": "Extremo",
+      "apodo": "Wilf",
+      "periodo": "2010-2013, 2014-2023",
+      "desc": "Veloz delantero extremo formado directamente de las categorías juveniles del club. Retornó como veterano demostrando gran destreza local en Inglaterra asumiendo liderazgo durante larguísimas campañas consecutivas de Primera División."
+    },
+    {
+      "nombre": "Jim Cannon",
+      "pos": "Defensor",
+      "apodo": "Big Jim",
+      "periodo": "1972-1988",
+      "desc": "Zaguero central inamovible de los años setentas que sustenta el asombroso hito y logro estadístico máximo sumando más de seiscientas actuaciones de torneo estables a nivel mayor sin interrupción oficial general en el campo titular."
+    },
+    {
+      "nombre": "Julian Speroni",
+      "pos": "Arquero",
+      "apodo": "Jules",
+      "periodo": "2004-2019",
+      "desc": "Arquero nacido en Argentina que alcanzó notable reverencia local ganándose férreamente confianza bajo palos atajando por un transcurso estable superior de once diversas competitivas campañas sumando inolvidables heroicos años estables de ascensos de Liga."
+    },
+    {
+      "nombre": "Ian Wright",
+      "pos": "Delantero",
+      "apodo": "Wrighty",
+      "periodo": "1985-1991",
+      "desc": "Arquero nacido en Argentina que alcanzó notable reverencia local ganándose férreamente confianza bajo palos atajando por un transcurso estable superior de once diversas competitivas campañas sumando inolvidables heroicos años estables de ascensos de Liga."
+    },
+    {
+      "nombre": "Geoff Thomas",
+      "pos": "Mediocampista",
+      "apodo": "Geoff",
+      "periodo": "1987-1993",
+      "desc": "Mediocentro asertivo originado al finalizar la época mundialista. Asumió formales riendas y funciones de capitular estable promoviendo resolutivos torneos eliminatorios asombrosos originando inolvidable hazaña y recordada subclasificación."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Peter Simpson",
+      "goles": 165,
+      "partidos": 195,
+      "periodo": "1929-1935",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 165 goles en competiciones oficiales durante su trayectoria en el equipo entre 1929-1935."
+    },
+    {
+      "nombre": "Edwin Smith",
+      "goles": 124,
+      "partidos": 240,
+      "periodo": "1911-1920",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 124 goles en competiciones oficiales durante su trayectoria en el equipo entre 1911-1920."
+    },
+    {
+      "nombre": "Ian Wright",
+      "goles": 117,
+      "partidos": 277,
+      "periodo": "1985-1991",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 117 goles en competiciones oficiales durante su trayectoria en el equipo entre 1985-1991."
+    },
+    {
+      "nombre": "Mark Bright",
+      "goles": 113,
+      "partidos": 286,
+      "periodo": "1986-1992",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 113 goles en competiciones oficiales durante su trayectoria en el equipo entre 1986-1992."
+    },
+    {
+      "nombre": "Clinton Morrison",
+      "goles": 112,
+      "partidos": 318,
+      "periodo": "1998-2002, 2005-2008",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2002, 2005-2008."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jim Cannon",
+      "partidos": 660,
+      "periodo": "1972-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 660 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1988."
+    },
+    {
+      "nombre": "Terry Long",
+      "partidos": 480,
+      "periodo": "1955-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 480 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1955-1970."
+    },
+    {
+      "nombre": "Wilfried Zaha",
+      "partidos": 458,
+      "periodo": "2010-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 458 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-2023."
+    },
+    {
+      "nombre": "Julian Speroni",
+      "partidos": 405,
+      "periodo": "2004-2019",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 405 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2019."
+    },
+    {
+      "nombre": "John Jackson",
+      "partidos": 346,
+      "periodo": "1964-1973",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 346 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1973."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1978-79",
+        "1993-94"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 1,
+      "años": [
+        "1920-21"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 1,
+      "años": [
+        "2024-25"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 1,
+      "años": [
+        "2025"
+      ]
+    },
+    {
+      "nombre": "Full Members' Cup",
+      "cantidad": 1,
+      "años": [
+        "1990-91"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 1,
+      "anios": [
+        "2024-25"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1935",
+      "url": "/escudos/crystal-palace/CrystalpalaceCP.webp"
+    },
+    {
+      "ano": "1935",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1935_web.png"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos/crystal-palace/Crystal_Palace_FC_logo_(1960s,_colourised).svg"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1955_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1960_web.png"
+    },
+    {
+      "ano": "1964",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1964_web.png"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1967_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1972_web.png"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos/crystal-palace/Crystal_Palace_1973.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1973_web.png"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos/crystal-palace/CyrstalPalace_logo_4.webp"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1987_web.png"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos/crystal-palace/Crystal_Palace_FC_logo.svg"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_1994_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos/crystal-palace/Crystal_Palace_FC_logo_(introduced_2013).svg"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_2013_web.png"
+    },
+    {
+      "ano": "2022-Actualidad",
+      "url": "/escudos/crystal-palace/Crystal_Palace_FC_logo_(2022).svg"
+    },
+    {
+      "ano": "2022",
+      "url": "/escudos_historicos/crystal-palace/crystal-palace_2022_web.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Eagles",
+      "origen": "Instalado para imponer fiereza competitiva borrando pacíficos apodos originarios como inamovible directriz temporal de escudo durante mandatos del recordado y controvertido manager visionario Malcolm Allison avanzado 1973. Evaluando que la vieja costumbre de llamarlos pálidos vidrieros era demasiado humilde comparando clubes feroces extranjeros, forzó modernizar radicalmente el estatuto apropiando estampando en tela y pecho gráficas la insignia indiscutible y de vuelo de colosos imponiendo un temible depredador rapaz al ataque."
+    },
+    {
+      "apodo": "The Glaziers",
+      "origen": "Heredado sociológicamente en asimilación unánime local del masivo palacio exótico o salón de convenciones histórico victoriano levantado geográficamente emplazado en el barrio sur de la inmensa urbe en Londres. Debido a las inmensas infraestructuras o vigas colosales entrelazadas plagadas visualmente de infinitos ventanales de puro cristal que caracterizaban a los muros de esta legendaria sede, comenzaron popular y vecinalmente a nombrarlos rindiendo tributos cívicos y obreros puros refiriéndolos como rudos pioneros o vidrieros."
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "genoa",
+  "meta": {
+    "slug": "genoa"
+  },
+  "datos": {
+    "nombre_completo": "Genoa Cricket and Football Club S.p.A.",
+    "sigla": "GEN",
+    "fundacion": "1893",
+    "apodo": "El Grifo, Los Rojiazules, El Viejo Bribón",
+    "estadio_actual": "Stadio Luigi Ferraris",
+    "estadio_apodo": "Marassi",
+    "estadio_capacidad": 33205,
+    "estadio_inauguracion": "22 de enero de 1911",
+    "estadio_lat": 44.4168,
+    "estadio_lng": 8.9525,
+    "estadio_direccion": "Via Giovanni de Prà 1, 16139 Genova, Liguria",
+    "socios": 28000,
+    "descripcion_corta": "La institución civil de fútbol más antigua en actividad en Italia, poseedora de nueve campeonatos ligueros obtenidos durante las primeras décadas del siglo XX.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#a3172e"
+      },
+      {
+        "tag": "Azul Oscuro",
+        "hex": "#001b3a"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Edoardo Catto (92 goles)",
+      "mas_presencias": "Gennaro Ruotolo (444 partidos)",
+      "mayor_goleada": "16-0 vs Acqui (1914)"
+    },
+    "nombre_oficial": "Genoa Cricket and Football Club",
+    "nombre_corto": "Genoa",
+    "escudo_actual": "/escudos_historicos/genoa/Genoa_CFC_logo_(2022).svg"
+  },
+  "historia": [
+    {
+      "ano": "1893",
+      "hito": "Ingleses, Puertos y el Alba del Fútbol",
+      "desc": "Considerada la institución futbolística en actividad más antigua del país, sus orígenes brotan puramente de la colonización deportiva británica. El intenso tráfico marítimo comercial y mercantil internacional del puerto de Génova atraía constantes oleadas de marineros ingleses. El 7 de septiembre de 1893, un grupo de comerciantes, expatriados diplomáticos y agentes británicos liderados por Charles De Grave Sells acudieron a una asamblea formal en los salones de reuniones del prestigioso Hotel Trattoria Nazionale, fundando el Genoa Cricket and Athletic Club de manera exclusiva e inaccesible para ciudadanos itálicos. No fue hasta que el revolucionario médico inglés filántropo James Richardson Spensley asumió la sección futbolística, que el club relajó sus severos estatutos puristas en 1897. Abriendo y franqueando la admisión deportiva a ciudadanos locales, el Genoa instauró institucionalmente la verdadera cuna estructural del balompié trasalpino."
+    },
+    {
+      "ano": "1898",
+      "hito": "Primer Título Reconocido Oficialmente",
+      "desc": "En la fecha inaugural del Campeonato Nacional de Italia, disputada de forma íntegra el 8 de mayo en la ciudad de Turín, el Genoa enfrentó a otros tres clubes en un torneo eliminatorio, venció sus partidos y conquistó la edición inaugural."
+    },
+    {
+      "ano": "1924",
+      "hito": "Obtención del Noveno Scudetto",
+      "desc": "William Garbutt ejercía su cargo de entrenador cuando se obtuvo el noveno campeonato de la liga. Después de esta victoria, se diseñó e implementó normativamente el parche italiano en los clubes campeones, pero la entidad genovesa no sumaría nuevos títulos nacionales post-1924."
+    },
+    {
+      "ano": "1992",
+      "hito": "Campaña Europea y la Eliminación del Liverpool",
+      "desc": "Bajo las directrices operativas de Osvaldo Bagnoli, el Genoa progresó hasta etapas determinantes en la Copa de la UEFA 1991-92. En Anfield, se convirtieron administrativamente en el primer equipo del circuito italiano en ganar un partido oficial frente al Liverpool como visitante."
+    },
+    {
+      "ano": "2005",
+      "hito": "Litigio Administrativo y Recuperación",
+      "desc": "Al finalizar el certamen regular de la Serie B con la puntuación necesaria para ascender, la FIGC documentó un caso de fraude que anuló el éxito logrado en cancha e impuso el descenso punitivo a Serie C1. Institucionalmente, el Genoa debió organizar dos plantillas para ganar ascensos continuos posteriores."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Luigi Ferraris",
+      "capacidad": "33.205",
+      "inauguracion": "22 de enero de 1911",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Giovanni%20de%20Pr%C3%A0%201%2C%2016139%20Genova%2C%20Liguria",
+      "direccion": "Via Giovanni de Prà 1, 16139 Genova, Liguria",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Marassi."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1893,
+      "hasta": 1901,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Los primeros atuendos aprobados para la práctica liguera consistieron temporalmente de camisas planas albas o blancas, seguido por uniformes a líneas azules oscuras en el final de siglo XIX."
+    },
+    {
+      "desde": 1901,
+      "hasta": null,
+      "c1": "#001e4a",
+      "c2": "#87041a",
+      "sh": "#001e4a",
+      "me": "#001e4a",
+      "tipo": "mitades",
+      "desc": "Adoptando las indicaciones visuales, su escudo formó definitivamente la estructura de mitades cuarteladas, combinando la mitad de la sección tonalidad oscura granate u oscura o roja con el sector azul cobalto portuario marítimo histórico."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Diego Milito",
+      "periodo": "2004-2009",
+      "pos": "Delantero",
+      "desc": "Delantero centro argentino que aportó numerosos goles durante dos etapas diferentes, liderando al equipo a altas posiciones en la Serie A."
+    },
+    {
+      "nombre": "Gianluca Signorini",
+      "periodo": "1988-1995",
+      "pos": "Defensor",
+      "desc": "Defensor central y gran capitán del club. Lideró a la plantilla que alcanzó las semifinales de la Copa de la UEFA en la década de 1990."
+    },
+    {
+      "nombre": "Tomas Skuhravy",
+      "periodo": "1990-1995",
+      "pos": "Delantero",
+      "desc": "Atacante internacional checoslovaco. Formó la principal dupla ofensiva de los 90, logrando un destacado registro de goles en competiciones locales e internacionales."
+    },
+    {
+      "nombre": "Gennaro Ruotolo",
+      "periodo": "1988-2002",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista titular que mantiene el récord oficial y absoluto como el jugador con un mayor número de partidos oficiales en el club."
+    },
+    {
+      "nombre": "James Richardson Spensley",
+      "periodo": "1897-1906",
+      "pos": "Defensor",
+      "desc": "Pionero británico que participó en la fundación del club a fines del siglo XIX. Oficializó como el histórico primer entrenador y guardameta."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Edoardo Cavasin",
+      "goles": 97,
+      "periodo": "1920-1925",
+      "partidos": 210,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 97 goles en competiciones oficiales durante su trayectoria en el equipo entre 1920-1925."
+    },
+    {
+      "nombre": "Virgilio Levratto",
+      "goles": 84,
+      "periodo": "1925-1932",
+      "partidos": 188,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1932."
+    },
+    {
+      "nombre": "Tomas Skuhravy",
+      "goles": 59,
+      "periodo": "1990-1995",
+      "partidos": 164,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-1995."
+    },
+    {
+      "nombre": "Diego Milito",
+      "goles": 59,
+      "periodo": "2004-2009",
+      "partidos": 94,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2009."
+    },
+    {
+      "nombre": "Roberto Pruzzo",
+      "goles": 57,
+      "periodo": "1973-1978",
+      "partidos": 143,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 57 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1978."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Gennaro Ruotolo",
+      "partidos": 444,
+      "periodo": "1988-2002",
+      "goles": 35,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 444 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-2002."
+    },
+    {
+      "nombre": "Fosco Becattini",
+      "partidos": 425,
+      "periodo": "1945-1961",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 425 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1945-1961."
+    },
+    {
+      "nombre": "Vincenzo Torrente",
+      "partidos": 412,
+      "periodo": "1985-2000",
+      "goles": 5,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 412 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-2000."
+    },
+    {
+      "nombre": "Marco Rossi",
+      "partidos": 298,
+      "periodo": "2003-2013",
+      "goles": 24,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 298 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2013."
+    },
+    {
+      "nombre": "Gianluca Signorini",
+      "partidos": 234,
+      "periodo": "1988-1995",
+      "goles": 5,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 234 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-1995."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A / Campeonato",
+      "cantidad": 9,
+      "anios": [
+        "1898",
+        "1899",
+        "1900",
+        "1902",
+        "1903",
+        "1904",
+        "1914-15",
+        "1922-23",
+        "1923-24"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 1,
+      "anios": [
+        "1936-37"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 6,
+      "anios": [
+        "1934-35",
+        "1952-53",
+        "1961-62",
+        "1972-73",
+        "1975-76",
+        "1988-89"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/genoa/Coat_of_arms_of_Genoa.svg"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/genoa/Genoa-old-logo.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/genoa/Genoa.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/genoa/Logo_Genoa_30.webp"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/genoa/Genoa_1930.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/genoa/Genoa_mid_80s_logo.webp"
+    },
+    {
+      "ano": "1973",
+      "url": "/escudos_historicos/genoa/Genoa_1973_logo.webp"
+    },
+    {
+      "ano": "1980",
+      "url": "/escudos_historicos/genoa/Logo_genoa_1980.svg"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/genoa/Genoa_1982_logo.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/genoa/Genoa_1991_logo.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/genoa/Genoa_CFC_logo_(2022).svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Il Grifone",
+      "origen": "Acogido de las reliquias feudales e insertado estatutariamente imitando a la figura guardiana mitológica alada de la antigua República de Génova."
+    },
+    {
+      "apodo": "I Rossoblù",
+      "origen": "Asignación visual bautizada copiando combinaciones nativas de los estandartes monárquicos y el pabellón comercial portuario genovés predominante."
+    }
+  ]
+}

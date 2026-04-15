@@ -1,0 +1,346 @@
+{
+  "id": "inter",
+  "meta": {
+    "slug": "inter"
+  },
+  "datos": {
+    "nombre_completo": "F.C. Internazionale Milano S.p.A.",
+    "sigla": "INT",
+    "fundacion": "1908",
+    "apodo": "Los Negriazules, La Bienamada, La Gran Serpiente",
+    "estadio_actual": "Stadio Giuseppe Meazza",
+    "estadio_apodo": "San Siro",
+    "estadio_capacidad": 75817,
+    "estadio_inauguracion": "19 de septiembre de 1926",
+    "estadio_lat": 45.4781,
+    "estadio_lng": 9.1239,
+    "estadio_direccion": "Piazzale Angelo Moratti, 20151 Milano, Lombardia",
+    "socios": 45000,
+    "descripcion_corta": "Uno de los tres miembros de los equipos grandes del país, único en la península sin descensos, avalado por haber completado tres campeonatos de Europa.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#001E60"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Giuseppe Meazza (284 goles)",
+      "mas_presencias": "Javier Zanetti (858 partidos)",
+      "mayor_goleada": "9-0 vs Casale (1933)"
+    },
+    "nombre_oficial": "Football Club Internazionale Milano",
+    "nombre_corto": "Inter",
+    "escudo_actual": "/escudos_historicos/inter/FC_Internazionale_Milano_2021.webp"
+  },
+  "historia": [
+    {
+      "ano": "1908",
+      "hito": "Rebelión Histórica en L'Orologio",
+      "desc": "A principios de 1908, el poderoso Milan Foot-Ball and Cricket Club se sumió en una profunda crisis directiva al dictaminar mediante normativas internas la estricta prohibición y el veto absoluto de alinear y firmar nóminas de jugadores extranjeros en el campo. Indignados por esta medida marcadamente xenófoba, la noche del 9 de marzo de 1908, 44 miembros y exdeportistas disidentes de dicho club se separaron definitivamente de la asamblea reuniéndose de forma clandestina y revolucionaria entre las mesas cubiertas de humo del restaurante Ristorante dell'Orologio de Milán. Bajo la ideología de ser 'hermanos del mundo', fundaron el Foot-Ball Club Internazionale. Esa misma noche formal, el artista y pintor Giorgio Muggiani, uno de los líderes disidentes fundadores, trazó a mano alzada un bellísimo y definitivo emblema institucional eligiendo expresamente en rebeldía cromática pintar los colores azul, negro y para oponerse y distinguirse visualmente de las bases rojinegras que los marginaron."
+    },
+    {
+      "ano": "1964",
+      "hito": "Sucesión Bi-Campeona Continental",
+      "desc": "Liderados en el esquema táctico y administrativo por Helenio Herrera utilizando el sistema funcional (Catenaccio), el Inter conquistó simultáneamente los títulos ligueros nacionales e incursionó ganando las Copas de Europa de 1964 y 1965 venciendo al Real Madrid y Benfica correspondientemente, logrando también las Copas Intercontinentales respectivas."
+    },
+    {
+      "ano": "1989",
+      "hito": "Obtención del Campeonato Regular de Trapattoni",
+      "desc": "En medio del protagonismo del AC Milan internacional y el SSC Napoli local, Giovanni Trapattoni planificó una formación que contó con los jugadores alemanes (Lothar Matthäus y Andreas Brehme, seguidos luego por Klinsmann). Finalizaron con récord de puntuación, en sistema de dos puntos, en ese formato italiano para obtener el decimotercer campeonato."
+    },
+    {
+      "ano": "2010",
+      "hito": "Triunfo en Competencias Nacionales e Internacionales (Triplete)",
+      "desc": "La gestión bajo José Mourinho posicionó a la sociedad Inter en un hito récord para un equipo italiano: conquistar las tres competiciones importantes de la temporada. Con Diego Milito en el frente de ataque y Javier Zanetti en la línea posterior, ganaron la Serie A, la Coppa Italia y la UEFA Champions League enfrentando al Bayern Múnich."
+    },
+    {
+      "ano": "2024",
+      "hito": "Gancho de la Vigésima Liga Nacional (La Segunda Estrella)",
+      "desc": "El Inter adquirió normativamente la validación para bordar de forma física la segunda estrella sobre su logo, premio entregado a los equipos que obtienen veinte reconocimientos de Serie A. El equipo operado por el director técnico Simone Inzaghi sumó su trofeo anticipando fechas sobre su competidor."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Giuseppe Meazza",
+      "capacidad": "75.817",
+      "inauguracion": "19 de septiembre de 1926",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piazzale%20Angelo%20Moratti%2C%2020151%20Milano%2C%20Lombardia",
+      "direccion": "Piazzale Angelo Moratti, 20151 Milano, Lombardia",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de San Siro."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1908,
+      "hasta": null,
+      "c1": "#00298a",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Formalizando las actas y desprendimientos iniciales de los registros normativos turineses conformaron opuestamente unas líneas visuales y formales continuas de finas y grandes franjas y rayas verticales interconectando el cielo azul contra el color fúnebre negro formalizando su patronímico clásico institucional mundial nerazzurro."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Javier Zanetti",
+      "periodo": "1995-2014",
+      "pos": "Defensor",
+      "desc": "Etiqueta ineludible de la institución al sostener férreamente el récord máximo e incontestable total de presencias con el club (858 partidos). El histórico capitán sudamericano lideró desde su incansable e inamovible lateral derecho la gloriosa obtención del histórico triplete en 2010 bajo la dirección de José Mourinho."
+    },
+    {
+      "nombre": "Giuseppe Meazza",
+      "periodo": "1927-1940",
+      "pos": "Delantero",
+      "desc": "Histórico genio creativo y atacante fenomenal de enorme técnica individual que propulsó la primera era dorada interista hacia la década de 1930, aportando cuotas desorbitantes frente a la red contraria. El principal recinto deportivo con base en el barrio de San Siro ostenta de manera inamovible hoy su nombre."
+    },
+    {
+      "nombre": "Ronaldo Nazário",
+      "periodo": "1997-2002",
+      "pos": "Delantero",
+      "desc": "Apodado 'El Fenómeno'. Irrumpió rutilantemente en la dura y rigurosa liga italiana destrozando redes a finales del último siglo combinando potencia explosiva con regate estético absoluto. Consagró en gran solitaria figura la obtención inigualable internacional de la Copa de la UEFA lograda en 1998."
+    },
+    {
+      "nombre": "Giacinto Facchetti",
+      "periodo": "1960-1978",
+      "pos": "Defensor",
+      "desc": "Pionero europeo indiscutible y uno de los primeros zagueros laterales netamente ofensivos con asertividad anotadora estricta. Capitán estelar en la implacable estructura matriz del inigualable y afamado 'Grande Inter' comandado formalmente por el místico Helenio Herrera en los turbulentos años 60."
+    },
+    {
+      "nombre": "Diego Milito",
+      "periodo": "2009-2014",
+      "pos": "Delantero",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2009-2014, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Giuseppe Meazza",
+      "goles": 284,
+      "periodo": "1927-1940",
+      "partidos": 408,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 284 goles en competiciones oficiales durante su trayectoria en el equipo entre 1927-1940."
+    },
+    {
+      "nombre": "Alessandro Altobelli",
+      "goles": 209,
+      "periodo": "1977-1988",
+      "partidos": 466,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 209 goles en competiciones oficiales durante su trayectoria en el equipo entre 1977-1988."
+    },
+    {
+      "nombre": "Roberto Boninsegna",
+      "goles": 171,
+      "periodo": "1969-1976",
+      "partidos": 281,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 171 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1976."
+    },
+    {
+      "nombre": "Sandro Mazzola",
+      "goles": 160,
+      "periodo": "1960-1977",
+      "partidos": 565,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 160 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1977."
+    },
+    {
+      "nombre": "Lautaro Martínez",
+      "goles": 129,
+      "periodo": "2018-presente",
+      "partidos": 280,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-presente."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Javier Zanetti",
+      "partidos": 858,
+      "periodo": "1995-2014",
+      "goles": 21,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 858 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2014."
+    },
+    {
+      "nombre": "Giuseppe Bergomi",
+      "partidos": 756,
+      "periodo": "1979-1999",
+      "goles": 28,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 756 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1999."
+    },
+    {
+      "nombre": "Giacinto Facchetti",
+      "partidos": 634,
+      "periodo": "1960-1978",
+      "goles": 75,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 634 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1978."
+    },
+    {
+      "nombre": "Sandro Mazzola",
+      "partidos": 565,
+      "periodo": "1960-1977",
+      "goles": 160,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 565 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1977."
+    },
+    {
+      "nombre": "Giuseppe Baresi",
+      "partidos": 559,
+      "periodo": "1976-1992",
+      "goles": 13,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 559 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1992."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 20,
+      "anios": [
+        "1909-10",
+        "1919-20",
+        "1929-30",
+        "1937-38",
+        "1939-40",
+        "1952-53",
+        "1953-54",
+        "1962-63",
+        "1964-65",
+        "1965-66",
+        "1970-71",
+        "1979-80",
+        "1988-89",
+        "2005-06",
+        "2006-07",
+        "2007-08",
+        "2008-09",
+        "2009-10",
+        "2020-21",
+        "2023-24"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 9,
+      "anios": [
+        "1938-39",
+        "1977-78",
+        "1981-82",
+        "2004-05",
+        "2005-06",
+        "2009-10",
+        "2010-11",
+        "2021-22",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "Supercoppa Italiana",
+      "cantidad": 8,
+      "anios": [
+        "1989",
+        "2005",
+        "2006",
+        "2008",
+        "2010",
+        "2021",
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 3,
+      "anios": [
+        "1963-64",
+        "1964-65",
+        "2009-10"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 3,
+      "anios": [
+        "1990-91",
+        "1993-94",
+        "1997-98"
+      ]
+    },
+    {
+      "nombre": "Mundial de Clubes / Intercontinental",
+      "cantidad": 3,
+      "anios": [
+        "1964",
+        "1965",
+        "2010"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/inter/Fc-internazionale-milano_old_logo.webp"
+    },
+    {
+      "ano": "1908",
+      "url": "/escudos_historicos/inter/Stemma_Inter_1908_a_Colori.webp"
+    },
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/inter/Inte_Milan_logo.webp"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/inter/Stemma_Inter_29.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/inter/8_Old_Ambrosiana_Inter_AS_1935-1945_.webp"
+    },
+    {
+      "ano": "1945",
+      "url": "/escudos_historicos/inter/Stemma_Inter_1945.webp"
+    },
+    {
+      "ano": "1965",
+      "url": "/escudos_historicos/inter/Inter_1955-1965.webp"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos_historicos/inter/Logo_Inter_Biscione_Stella.webp"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos_historicos/inter/FC_Internazionale_Milano_1979.webp"
+    },
+    {
+      "ano": "1979",
+      "url": "/escudos_historicos/inter/FC_Inter_1963-1979.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/inter/FC_Internazionale_Milano_1999.webp"
+    },
+    {
+      "ano": "2014",
+      "url": "/escudos_historicos/inter/FC_Internazionale_Milano_2014.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/inter/FC_Internazionale_Milano_2021.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Nerazzurri",
+      "origen": "Instituido en honor y homenaje a las decisiones románticas establecidas velozmente y en la cruda medianoche de su cisma originario de 1908. Giorgio Muggiani, ilustrador y pintor fundador de origen, delineó a pulso los colores oficiales asegurando unificar estéticamente el resplandeciente tono azul de un inmenso cielo estrellado nocturno contrapuesto por el fondo negro temporal cobijador que rodeaba el nacimiento civil de puertas abiertas mundial."
+    },
+    {
+      "apodo": "La Beneamata",
+      "origen": "Bautizado de esta tierna y firme manera gracias exclusivamente al prolífico y literario talento narrativo del más ilustre periodista deportivo local en Italia, Gianni Brera. A lo largo del siglo XX introdujo e impuso este clásico apelativo literario amado (la bien amada) en sus masivas crónicas para justificar el inmenso idilio y cariño afectuoso incondicional emanado abrumadoramente por las enormes clases obreras populares hacia su club."
+    },
+    {
+      "apodo": "Il Biscione",
+      "origen": "Acogido incesantemente por absorber e incorporar la ancestral identidad de sangre y monarquía de todo el centro histórico legendario del medio perimetral céntrico milanés. La inmensa y colosal culebra devoradora es un antiguo blasón heráldico protector perteneciente originalmente a la legendaria Familia Visconti, que el propio club usurpó e estampó orgullosamente y para la posteridad en todos sus ropajes locales."
+    }
+  ]
+}

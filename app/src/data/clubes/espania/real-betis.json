@@ -1,0 +1,329 @@
+{
+  "id": "real-betis",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "real betis",
+      "beticos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Real Betis Balompié",
+    "sigla": "BET",
+    "fundacion": "12 de septiembre de 1907",
+    "apodo": "Béticos, Verdiblancos, Heliopolitanos",
+    "estadio_actual": "Benito Villamarín",
+    "estadio_apodo": "El Villamarín",
+    "estadio_capacidad": 60721,
+    "estadio_inauguracion": "17 de marzo de 1929",
+    "estadio_lat": 37.3565,
+    "estadio_lng": -5.9818,
+    "estadio_direccion": "Av. de Heliópolis, s/n, Bellavista-La Palmera, 41012 Sevilla, España",
+    "socios": 61000,
+    "descripcion_corta": "Entidad futbolística de la ciudad de Sevilla y la comunidad de Andalucía.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#008000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Rubén Castro (148)",
+      "mas_presencias": "Joaquín Sánchez (528)"
+    },
+    "nombre_oficial": "Real Betis Balompié S.A.D.",
+    "nombre_corto": "Real Betis"
+  },
+  "historia": [
+    {
+      "ano": "1907",
+      "hito": "Nacimiento en nombre del Río",
+      "desc": "Los restrictivos vientos universitarios de minorías élites que corrían por los cerrados salones de Sevilla sembraron indirectamente la más romántica rebelión del balompié popular. En 1907, asfixiados de la opresión local selecta, un cúmulo de alumnos apartados y excluidos fundaron el incipiente 'Sevilla Balompié' forjado a fuego lento en el crisol libre de la Academia Politécnica. A la par nacería el indomable Betis Football Club impulsado por el romanticismo incansable de la familia Alarcón de la Lastra. Fue la colosal ingeniería comunitaria bajo el ala protectora de Eladio García de la Borbolla, sumado al aporte pionero de José Gutiérrez y Hermosa, la que terminó uniendo ambas pasiones marginadas conformando el masivo Real Betis Balompié. Asumiendo orgullosamente la imponente palabra romana antigua 'Baetis', herencia sagrada natural del paso del río Guadalquivir, se envolvieron en místicas líneas verticales verdes y blancas. Rubricaron una idiosincrasia tribal, obrera, andaluza, sufriente pero de amor absoluto resumida para la eternidad planetaria en su estruendo oficial de '¡Viva el Betis manque pierda!'."
+    },
+    {
+      "ano": "1935",
+      "hito": "La Primera y Única Estrella de Ligera (Liga)",
+      "desc": "El irlandés Patrick O'Connell esculpió la joya bética suprema, un milagro inmenso dominador de tácticas que masacró a España y llevó al Betis a ser estandarte y proclamarse Campeón Histórico Nacional."
+    },
+    {
+      "ano": "1977",
+      "hito": "La Primera Copa con Sabor Amargo",
+      "desc": "En medio del vaivén entre gloria y llanto, una noche sellaron la añorada Copa del Rey infartante con tanda de penales incluida, escribiendo al año próximo una oscura página descendiendo."
+    },
+    {
+      "ano": "2005",
+      "hito": "Joaquín, Oliveira y la Perfección",
+      "desc": "Campaña letal para llevar la Copa del Rey de la mano de un intratable Dani con gol en el alargue y alcanzar brillantemente el boleto místico de pasaje por la Champions League por majestuosidad andaluza."
+    },
+    {
+      "ano": "2022",
+      "hito": "La Final del Panda",
+      "desc": "Tras acariciar a lo bestia cada partido y envenenar tácticas al ritmo de Manuel Pellegrini y la calidad excelsa de Fekir y Canales, se trajo a las vitrinas la hermosa e iluminadora tercera Copa del Rey bética."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Benito Villamarín",
+      "capacidad": "60.721",
+      "inauguracion": "1929",
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Heli%C3%B3polis%2C%20s%2Fn%2C%2041012%20Sevilla",
+      "direccion": "Av. de Heliópolis, s/n, 41012 Sevilla",
+      "descripcion": "Gigante verdiblanco hirviente de pasiones donde estallan las almas andaluzas exclamando el '¡Viva el Betis, manque pierda!'."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1907,
+      "hasta": 1911,
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Uniformes rígidos lisos con rústicos tonos azulados formales primigenios cívicos y navales."
+    },
+    {
+      "desde": 1911,
+      "hasta": null,
+      "c1": "#006600",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#006600",
+      "tipo": "rayas-verticales",
+      "desc": "El donativo importado de los campos de Escocia teñiría ciego de devoción poética fáctica a los villanos para sellar a fuego bético eternas letales y inamovibles puristas legendarias lícitas 13 sagradas y gruesas rayas verticales andaluces verdiblancas inmortales."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Joaquín Sánchez",
+      "periodo": "2000-2006 / 2015-2023",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista extremo y gran capitán. Terminó su carrera ostentando el récord de mayor cantidad de partidos jugados en la historia del club."
+    },
+    {
+      "nombre": "Rafael Gordillo",
+      "periodo": "1976-1985 / 1992-1995",
+      "pos": "Defensa",
+      "desc": "Veloz lateral izquierdo que destacó a lo largo de campañas nacionales para convertirse luego en titular del seleccionado nacional."
+    },
+    {
+      "nombre": "Rubén Castro",
+      "periodo": "2010-2018",
+      "pos": "Delantero",
+      "desc": "Delantero español que ostenta el título de máximo goleador oficial de la historia del club en diferentes categorías."
+    },
+    {
+      "nombre": "Julio Cardeñosa",
+      "periodo": "1974-1985",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista distribuidor de la histórica plantilla campeona de la primera Copa del Rey que el club conquistó en 1977."
+    },
+    {
+      "nombre": "Nabil Fekir",
+      "periodo": "2019-2024",
+      "pos": "Mediocampista",
+      "desc": "Volante ofensivo internacional que capitaneó y armó las ofensivas en el plantel victorioso que consiguió la Copa del Rey de 2022."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Rubén Castro",
+      "goles": 147,
+      "periodo": "2010-2018",
+      "partidos": 290,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 147 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2018."
+    },
+    {
+      "nombre": "Borja Iglesias",
+      "goles": 52,
+      "periodo": "2019-2024",
+      "partidos": 181,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2024."
+    },
+    {
+      "nombre": "Poli Rincón",
+      "goles": 78,
+      "periodo": "1981-1989",
+      "partidos": 223,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 78 goles en competiciones oficiales durante su trayectoria en el equipo entre 1981-1989."
+    },
+    {
+      "nombre": "Rogelio Sosa",
+      "goles": 75,
+      "periodo": "1962-1978",
+      "partidos": 357,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1978."
+    },
+    {
+      "nombre": "Alfonso Pérez",
+      "goles": 69,
+      "periodo": "1995-2000",
+      "partidos": 212,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 69 goles en competiciones oficiales durante su trayectoria en el equipo entre 1995-2000."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Joaquín Sánchez",
+      "partidos": 528,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 528 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Rafael Gordillo",
+      "partidos": 411,
+      "periodo": "Varios",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 411 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+    },
+    {
+      "nombre": "Esnaola",
+      "partidos": 460,
+      "periodo": "1973-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 460 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1985."
+    },
+    {
+      "nombre": "Julio Cardeñosa",
+      "partidos": 412,
+      "periodo": "1974-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 412 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1985."
+    },
+    {
+      "nombre": "Rogelio Sosa",
+      "partidos": 357,
+      "periodo": "1962-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 357 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1978."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 1,
+      "anios": [
+        "1934-35"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 3,
+      "anios": [
+        "1977",
+        "2005",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 7,
+      "anios": [
+        "1931-32",
+        "1941-42",
+        "1957-58",
+        "1970-71",
+        "1973-74",
+        "2010-11",
+        "2014-15"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1909",
+      "url": "/escudos_historicos/real-betis/real-betis_1909_web.png"
+    },
+    {
+      "ano": "1913",
+      "url": "/escudos_historicos/real-betis/real-betis_1913_web.png"
+    },
+    {
+      "ano": "1914",
+      "url": "/escudos_historicos/real-betis/real-betis_1914_web.png"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos_historicos/real-betis/real-betis_1915_web.png"
+    },
+    {
+      "ano": "1919",
+      "url": "/escudos_historicos/real-betis/real-betis_1919_web.png"
+    },
+    {
+      "ano": "1922",
+      "url": "/escudos_historicos/real-betis/real-betis_1922_web.png"
+    },
+    {
+      "ano": "1925",
+      "url": "/escudos_historicos/real-betis/real-betis_1925_web.png"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/real-betis/real-betis_1931_web.png"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/real-betis/real-betis_1932_web.png"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/real-betis/real-betis_1941_web.png"
+    },
+    {
+      "ano": "1957",
+      "url": "/escudos_historicos/real-betis/real-betis_1957_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/real-betis/real-betis_1960_web.png"
+    },
+    {
+      "ano": "1963",
+      "url": "/escudos_historicos/real-betis/real-betis_1963_web.png"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/real-betis/real-betis_1972_web.png"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/real-betis/real-betis_1982_web.png"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/real-betis/real-betis_1994_web.png"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/real-betis/real-betis_2002_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/real-betis/real-betis_2012_web.png"
+    },
+    {
+      "ano": "2022",
+      "url": "/escudos_historicos/real-betis/real-betis_2022_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/real-betis.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Béticos",
+      "origen": "Instalado popularmente adquiriendo origen de la geografía del territorio local andaluz. El uso procede del vocablo originario en lengua romana Baetis, nombre del período antiguo para referenciar al sur e instituir históricamente la vía navegable sobre el margen del ancho y bautizado llanamente en tiempos modernos como río Guadalquivir."
+    },
+    {
+      "apodo": "Los Verdiblancos",
+      "origen": "Apelativo originado de modo descriptivo basado en la combinación de los listones adoptados en su camiseta. La idea de fijar franjas y unificar el color bi-tono derivó en 1912 tras importar las camisetas inglesas tradicionales idénticas a las empleadas por el equipo Celtic Glasgow."
+    },
+    {
+      "apodo": "Los Heliopolitanos",
+      "origen": "Bautizado geográficamente en sintonía con el barrio originario sureño que cobijó su principal estadio deportivo céntrico en Sevilla. Apunta directamente a su anclaje territorial de ladrillos en el popular cuadrante conocido formal y permanentemente como el barrio histórico urbanizado de Heliópolis para erigir sus dominios."
+    }
+  ]
+}

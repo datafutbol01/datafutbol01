@@ -1,0 +1,342 @@
+{
+  "id": "athletic-club",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "athletic",
+      "leones",
+      "bilbao"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Athletic Club",
+    "sigla": "ATH",
+    "fundacion": "1898",
+    "apodo": "Los Leones, Rojiblancos",
+    "estadio_actual": "San Mamés",
+    "estadio_apodo": "La Catedral",
+    "estadio_capacidad": 53331,
+    "estadio_inauguracion": "16 de septiembre de 2013",
+    "estadio_lat": 43.2641,
+    "estadio_lng": -2.9493,
+    "estadio_direccion": "Rafael Moreno Pitxitxi, s/n, 48013 Bilbao, Vizcaya",
+    "socios": 43000,
+    "descripcion_corta": "Entidad de la ciudad de Bilbao que mantiene el criterio histórico estatutario de usar exclusivamente jugadores navarros y vascos y nunca descendió.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Telmo Zarra (294 goles)",
+      "mas_presencias": "José Ángel Iribar (614 partidos)",
+      "mayor_goleada": "12-1 vs Barcelona (1931)"
+    },
+    "nombre_oficial": "Athletic Club",
+    "nombre_corto": "Athletic Bilbao"
+  },
+  "historia": [
+    {
+      "ano": "1898",
+      "hito": "Fundación del Athletic Club",
+      "desc": "A finales de la década de 1890, el puerto de Bilbao hervía de actividad gracias a los astilleros e industrias británicas. Esa conexión cultural directa con los marineros e ingenieros ingleses de Southampton y Portsmouth introdujo un rústico balón de cuero en los descampados de Lamiako. En 1898, un grupo de valientes estudiantes vascos del Gimnasio Zamacois, fascinados por el nuevo 'foot-ball', decidieron formalizar su pasión. Entre los fundadores históricos e inmortales del Athletic Club destacan Juan Astorquia, Alejandro Acha, Fernando Iraolagoitia, Eduardo Montejo y Enrique Goiri. Juntos se atrevieron a desafiar a los fornidos trabajadores británicos. En 1901 se formalizaron los estatutos en las mesas del mítico Café García, conformando una escuadra sin igual. Absorbiendo poco después a su rival vecinal, el Bilbao Football Club (presidido por Carlos Castellanos), el Athletic forjó la política suprema que lo haría legendario universalmente a lo largo de un siglo: jugar exclusivamente con futbolistas de sangre vasca y criados en Euskal Herria, convirtiéndose más que en un club, en una religión innegociable de la ciudad."
+    },
+    {
+      "ano": "1903",
+      "hito": "Primera Coronación en el Campeonato de España",
+      "desc": "El Athletic levantó su primera Copa del Rey, marcando el inicio de su dinastía coperas y erigiéndose como el primer gigante indiscutido de las primeras décadas del fútbol en la península."
+    },
+    {
+      "ano": "1913",
+      "hito": "Inauguración de La Catedral",
+      "desc": "Abre sus puertas el estadio de San Mamés. Bautizado como 'La Catedral', este templo sagrado abrazó el misticismo del club y se convirtió en la caldera donde se escribieron las gestas más brutales de su historia."
+    },
+    {
+      "ano": "1983-1984",
+      "hito": "El Doblete de Clemente",
+      "desc": "Con Javier Clemente en el banquillo, un plantel legendario levantó dos Ligas consecutivas y una Copa del Rey, fletando la famosa Gabarra por la Ría de Bilbao ante más de un millón de almas eufóricas."
+    },
+    {
+      "ano": "2024",
+      "hito": "La Regla de los 40 Años y la Nueva Copa",
+      "desc": "Tras cuatro décadas exactas y decenas de finales perdidas, los 'Leones' conquistaron la ansiada Copa del Rey, desatando la locura generacional y volviendo a sacar La Gabarra al agua."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de San Mamés (La Catedral)",
+      "capacidad": "53.289",
+      "inauguracion": "2013 (Original en 1913)",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rafael%20Moreno%20Pitxitxi%20Kalea%2C%20s%2Fn%2C%2048013%20Bilbo%2C%20Bizkaia",
+      "direccion": "Rafael Moreno Pitxitxi Kalea, s/n, 48013 Bilbo, Bizkaia",
+      "descripcion": "El mítico templo donde ruge el león vasco, erigido casi en la misma parcela de la vieja y mítica Catedral."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1898,
+      "hasta": 1910,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "mitades",
+      "desc": "Primigenia influencia estricta naviera y ferroviaria asimilando importada la oscura camisa arlequinada a mitades puristas azules y blancas emulando a puristas blakburnianos."
+    },
+    {
+      "desde": 1910,
+      "hasta": null,
+      "c1": "#e3001b",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "El legendario salto dictaminado importando camisetas náuticas Southampton para forjar de rojo y crudo blanco la eterna piel a rayas verticales rojiblancas indomables míticas de los leones de la romántica divina catedral poética de San Mamés."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Pichichi / Rafael Moreno",
+      "periodo": "1911-1921",
+      "pos": "Delantero",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1911-1921, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "José Ángel Iribar",
+      "periodo": "1962-1980",
+      "pos": "Arquero",
+      "desc": "Apodado 'El Txopo', el legendario portero es quien ostenta el récord hegemónico y máximo de partidos oficiales disputados cuidando incansablemente el arco rojiblanco, forjando un prestigio incontestable en suelo español a lo largo de 18 exitosas campañas ininterrumpidas."
+    },
+    {
+      "nombre": "Julen Guerrero",
+      "periodo": "1992-2006",
+      "pos": "Mediocampista",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1992-2006, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Dani Ruiz-Bazán",
+      "periodo": "1974-1986",
+      "pos": "Delantero",
+      "desc": "Extraordinario delantero y especialista máximo desde los doces pasos que destacó inmensamente durante la heroica y prolífica década de 1980. Como gran capitán resolutivo, su instinto aportó firmemente al recordado y triunfante proceso que originó el doble título de liga."
+    },
+    {
+      "nombre": "Aritz Aduriz",
+      "periodo": "2002-2020",
+      "pos": "Delantero",
+      "desc": "Incombustible artillero de resolución soberbia que brilló esplendorosamente en su edad madura. Artífice exclusivo en varias recordadas goleadas y referente letal en competiciones europeas al coronar la conquista contemporánea de la Supercopa de España en 2015."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Telmo Zarra",
+      "goles": 335,
+      "periodo": "1940-1955",
+      "partidos": 354,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 335 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940-1955."
+    },
+    {
+      "nombre": "Bata",
+      "goles": 208,
+      "periodo": "1929-1936",
+      "partidos": 208,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1929-1936."
+    },
+    {
+      "nombre": "Dani",
+      "goles": 199,
+      "periodo": "1974-1986",
+      "partidos": 402,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 199 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1986."
+    },
+    {
+      "nombre": "Guillermo Gorostiza",
+      "goles": 196,
+      "periodo": "1929-1940",
+      "partidos": 256,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 196 goles en competiciones oficiales durante su trayectoria en el equipo entre 1929-1940."
+    },
+    {
+      "nombre": "José Iraragorri",
+      "goles": 179,
+      "periodo": "1929-1949",
+      "partidos": 240,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 179 goles en competiciones oficiales durante su trayectoria en el equipo entre 1929-1949."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "José Ángel Iribar",
+      "partidos": 614,
+      "periodo": "1962-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 614 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1980."
+    },
+    {
+      "nombre": "Iker Muniain",
+      "partidos": 560,
+      "periodo": "2009-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 560 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2024."
+    },
+    {
+      "nombre": "Txetxu Rojo",
+      "partidos": 541,
+      "periodo": "1965-1982",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 541 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1982."
+    },
+    {
+      "nombre": "Óscar de Marcos",
+      "partidos": 532,
+      "periodo": "2009-2024",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 532 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-2024."
+    },
+    {
+      "nombre": "Joseba Etxeberria",
+      "partidos": 514,
+      "periodo": "1995-2010",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 514 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2010."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "La Liga",
+      "cantidad": 8,
+      "anios": [
+        "1929-30",
+        "1930-31",
+        "1933-34",
+        "1935-36",
+        "1942-43",
+        "1955-56",
+        "1982-83",
+        "1983-84"
+      ]
+    },
+    {
+      "nombre": "Copa del Rey",
+      "cantidad": 24,
+      "anios": [
+        "1903",
+        "1904",
+        "1910",
+        "1911",
+        "1914",
+        "1915",
+        "1916",
+        "1921",
+        "1923",
+        "1930",
+        "1931",
+        "1932",
+        "1933",
+        "1943",
+        "1944",
+        "1945",
+        "1950",
+        "1955",
+        "1956",
+        "1958",
+        "1969",
+        "1973",
+        "1984",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Supercopa de España",
+      "cantidad": 3,
+      "anios": [
+        "1984",
+        "2015",
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Copa Eva Duarte",
+      "cantidad": 1,
+      "anios": [
+        "1950"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1903",
+      "url": "/escudos_historicos/athletic-club/Atmadrid1903.webp"
+    },
+    {
+      "ano": "1910",
+      "url": "/escudos_historicos/athletic-club/Escudo-athletic-club-1910-1912.webp"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_Bilbao__1911-1941_.svg"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1901.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1913-Shirt.webp"
+    },
+    {
+      "ano": "1991",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1917.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1922-Shirt.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_crest_1922.webp"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_1941_logo.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1973.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/athletic-club/Athletic_Bilbao_1983_logo.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_1980_logo.webp"
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_1983_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_Bilbao__1_.htm"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/athletic-club/Athletic_Club_Bilbao.htm"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/athletic-club.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Leones",
+      "origen": "Nace estrechamente ligado al primer emplazamiento físico del estadio primitivo y su geolocalización fundacional en Bilbao a inicios del siglo XX. El terreno de juego fue construido por los directivos vecinales literalmente pegado al lado del antiguo asilo y de la parroquia de San Mamés. Dentro de la leyenda martirológica cristiana, Mamés de Capadocia fue un niño arrojado por los romanos hacia los felinos, quienes decidieron amansarse y se rehusaron a atacarlo. De allí, la prensa local dictaminó que los once jugadores del campo, al amparar y jugar junto a San Mamés, se estaban comportando heráldicamente como sus guardianes y fieles leones."
+    },
+    {
+      "apodo": "Los Rojiblancos (Zuri-gorriak)",
+      "origen": "Adoptado a principios del 1910 como consecuencia directa de un error logístico o de abastecimiento. Hasta diciembre de 1909, la institución vizcaína poseía estatutos donde debían jugar exclusivamente con colores azules. Luego de enviar a Juan Elorduy a Inglaterra a adquirir dichos lotes de camisetas para el inicio del campeonato, comprobó que estaban agotadas en Londres, optando por comprar como reemplazo a último minuto la indumentaria con tiras y coloraciones rojiblancas tradicionales utilizadas históricamente por el club Southampton de Inglaterra, implantándolo al regresar como patrón permanente oficial del Athletic."
+    }
+  ]
+}

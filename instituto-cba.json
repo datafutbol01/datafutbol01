@@ -1,0 +1,35 @@
+{
+  "id": "instituto-cba",
+  "datos": {
+    "nombre_oficial": "Instituto Atlético Central Córdoba",
+    "nombre_corto": "Instituto",
+    "apodos": [
+      "La Gloria",
+      "El Albi"
+    ],
+    "fundacion": "1918-08-08",
+    "ciudad": "Córdoba",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Juan Domingo Perón",
+    "estadio_apodo": "El Monumental de Alta Córdoba",
+    "estadio_capacidad": 30000,
+    "estadio_lat": -31.406,
+    "estadio_lng": -64.175,
+    "debut_primera": 1969
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#000000"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#000000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

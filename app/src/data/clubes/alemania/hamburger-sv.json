@@ -1,0 +1,280 @@
+{
+  "id": "hamburger-sv",
+  "meta": {
+    "slug": "hamburger-sv"
+  },
+  "datos": {
+    "nombre_completo": "Hamburger Sport-Verein e. V.",
+    "nombre_oficial": "Hamburger SV",
+    "nombre_corto": "Hamburger SV",
+    "apodo": "Der Dino (El Dinosaurio) / Rothosen (Pantalones Rojos)",
+    "fundacion": "1887",
+    "estadio_actual": "Volksparkstadion",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 57000,
+    "estadio_inauguracion": "1953",
+    "estadio_direccion": "Sylvesterallee 7, 22525 Hamburg, Alemania",
+    "estadio_lat": 53.5872,
+    "estadio_lng": 9.9,
+    "escudo_actual": "/escudos/hamburger-sv.svg",
+    "sigla": "HSV",
+    "socios": 90000,
+    "descripcion_corta": "Equipo histórico de Hamburgo, fundador de la Bundesliga y campeón europeo antes de su declive en el siglo actual.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#003A79"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Uwe Seeler (507)",
+      "mas_presencias": "Manfred Kaltz (744)",
+      "mayor_goleada": "8-0 vs Kalsruher (1966)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1887",
+      "hito": "Las Raíces Portuarias y el SC Germania",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1960",
+      "hito": "Tercer Campeonato Nacional Guiado por Uwe Seeler",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1977",
+      "hito": "Conquista de la Recopa de Europa de la UEFA",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1983",
+      "hito": "La Victoria en la Copa de Europa ante la Juventus",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2018",
+      "hito": "El Primer Descenso de la Historia Tras 55 Años",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Sportplatz am Rothenbaum",
+      "capacidad": "27.000",
+      "inauguracion": "1910",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rothenbaumchaussee%20119%2C%20Hamburg%2C%20Alemania",
+      "direccion": "Rothenbaumchaussee 119, Hamburg, Alemania",
+      "descripcion": "Mítico polideportivo destruido tras cerca de una centuria activa de partidos e inauguración en céntricas zonas donde el hamburgo generaba su fervor masivo local.",
+      "lat": 53.5683,
+      "lng": 9.988
+    },
+    {
+      "nombre": "Volksparkstadion (Volkspark)",
+      "capacidad": "57.000",
+      "inauguracion": "1953",
+      "url": "https://www.google.com/maps/search/?api=1&query=Sylvesterallee%207%2C%2022525%20Hamburg%2C%20Alemania",
+      "direccion": "Sylvesterallee 7, 22525 Hamburg, Alemania",
+      "descripcion": "Sede de la final de 1974 y guardián doloroso del histórico 'reloj del tiempo' que certificaba su longeva duración pura en la máxima categoría.",
+      "lat": 53.5872,
+      "lng": 9.9
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1887,
+      "hasta": 1919,
+      "c1": "#0000ff",
+      "c2": "#000000",
+      "sh": "#0000ff",
+      "me": "#000000",
+      "tipo": "mitades",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#e1000f",
+      "me": "#0000ff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Uwe Seeler",
+      "periodo": "1953-1972",
+      "pos": "Delantero",
+      "desc": "Histórico centrodelantero alemán. Desarrolló toda su legendaria carrera goleadora en el club y es reconocido como uno de los atacantes más grandes de la historia nacional."
+    },
+    {
+      "nombre": "Manfred Kaltz",
+      "periodo": "1971-1989",
+      "pos": "Defensor / Lateral",
+      "desc": "Defensor lateral derecho y eximio lanzador. Disputó cientos de partidos superando la marca oficial de encuentros disputados en toda la historia de la liga local."
+    },
+    {
+      "nombre": "Horst Hrubesch",
+      "periodo": "1978-1983",
+      "pos": "Delantero",
+      "desc": "Fuerte cabeceador y letal goleador de área. Lideró ofensivamente la conquista del torneo continental oficial anotando decisivamente para el club y su selección nacional."
+    },
+    {
+      "nombre": "Felix Magath",
+      "periodo": "1976-1986",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista organizador de enorme calidad. Guió el triunfo táctico en la consagración europea y posteriormente se convirtió en uno de los entrenadores más laureados de Alemania."
+    },
+    {
+      "nombre": "Rafael van der Vaart",
+      "periodo": "2005-2015",
+      "pos": "Mediocampista",
+      "desc": "Volante creativo neerlandés que militó en dos etapas en el club, asumiendo la capitanía oficial y liderando la clasificación a diversas asiduas competencias continentales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Uwe Seeler",
+      "goles": 507,
+      "periodo": "1953-1972",
+      "partidos": 587,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 507 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1972."
+    },
+    {
+      "nombre": "Horst Hrubesch",
+      "goles": 121,
+      "periodo": "1978-1983",
+      "partidos": 200,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 121 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1983."
+    },
+    {
+      "nombre": "Klaus Stürmer",
+      "goles": 114,
+      "periodo": "1953-1961",
+      "partidos": 158,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 114 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1961."
+    },
+    {
+      "nombre": "Rafael van der Vaart",
+      "goles": 66,
+      "periodo": "2005-2015",
+      "partidos": 199,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 66 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2015."
+    },
+    {
+      "nombre": "Thomas Doll",
+      "goles": 53,
+      "periodo": "1990-2001",
+      "partidos": 233,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-2001."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Manfred Kaltz",
+      "partidos": 744,
+      "periodo": "1971-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 744 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1989."
+    },
+    {
+      "nombre": "Uwe Seeler",
+      "partidos": 587,
+      "periodo": "1953-1972",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 587 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1953-1972."
+    },
+    {
+      "nombre": "Thomas von Heesen",
+      "partidos": 399,
+      "periodo": "1980-1994",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 399 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1994."
+    },
+    {
+      "nombre": "Felix Magath",
+      "partidos": 388,
+      "periodo": "1976-1986",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 388 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1986."
+    },
+    {
+      "nombre": "Ditmar Jakobs",
+      "partidos": 323,
+      "periodo": "1979-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 323 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1989."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga / Campeonato Alemán",
+      "cantidad": 6,
+      "anios": [
+        "1922-23",
+        "1927-28",
+        "1959-60",
+        "1978-79",
+        "1981-82",
+        "1982-83"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 3,
+      "anios": [
+        "1962-63",
+        "1975-76",
+        "1986-87"
+      ]
+    },
+    {
+      "nombre": "Copa de la Liga (Ligapokal)",
+      "cantidad": 2,
+      "anios": [
+        "1973",
+        "2003"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 1,
+      "anios": [
+        "1982-83"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1976-77"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1919",
+      "url": "/escudos_historicos/hamburger-sv/1919.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/hamburger-sv.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Rothosen",
+      "origen": "Consecuencia visual irrenunciable e histórica para asimilar la adopción firme y definitiva de sus uniformes pioneros base portuarios en el norte clásico germano. Refiere directa y textualmente en lengua sajona la utilización constante e inamovible para portar Los Pantalones Rojos, estampa que diferenció y marcó masivamente su identidad obrera frente a sus linderas medias nórdicas."
+    }
+  ]
+}

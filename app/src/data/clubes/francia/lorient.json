@@ -1,0 +1,222 @@
+{
+  "id": "lorient",
+  "meta": {
+    "slug": "lorient"
+  },
+  "datos": {
+    "nombre_completo": "FC Lorient",
+    "nombre_oficial": "FC Lorient",
+    "nombre_corto": "Lorient",
+    "apodo": "Les Merlus",
+    "fundacion": "2 de Abril de 1926",
+    "estadio_actual": "Stade du Moustoir (Yves Allainmat)",
+    "presidente": "Loïc Féry",
+    "entrenador": "Régis Le Bris",
+    "estadio_capacidad": "18.110",
+    "estadio_inauguracion": "1959",
+    "estadio_direccion": "Rue Jean Le Coutaller, 56100 Lorient, Francia",
+    "estadio_lat": 47.7487,
+    "estadio_lng": -3.3697,
+    "sigla": "FCL",
+    "socios": 9000,
+    "descripcion_corta": "Entidad formal asentada en la ciudad del departamento de Morbihan, distinguida por instalar en la cronología recintos equipados tácticamente con campos sintéticos puros.",
+    "paleta": [
+      {
+        "tag": "Naranja",
+        "hex": "#FF6600"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Kévin Gameiro (58 goles)",
+      "mas_presencias": "Yann Jouffre (202 partidos)",
+      "mayor_goleada": "7-0 vs Bastia (2002)"
+    },
+    "estadio_apodo": "",
+    "escudo_actual": "/escudos/lorient.svg"
+  },
+  "historia": [
+    {
+      "ano": "1926",
+      "hito": "De las Pesquerías de Morbihan Emerge la Pasión Merluza",
+      "desc": "Anclados rígidamente e históricos bajo la niebla perpetua oceánica y pesquera costera naval del golfo de Morbihan, el Football Club Lorient nació firmemente el lejano 2 de abril de 1926 auspiciado asombrosamente de forma innegociable bajo tutela del rígido comerciante y pesquero matriarcal líder 'Joseph Cuissard'. En reconocimiento formal estipulado a las grandes gigantes agrupaciones económicas marineras sostenedoras corporativas del rígido emprendimiento adoptaron originarias el emblemático apodo sagrado estipulado de sangre de época y región como eternos y purísimos locales formadores 'Les Merlus' portando fiera túnica de estricto anaranjado fuego."
+    },
+    {
+      "ano": "1998",
+      "hito": "Estreno Oficial en la Primera División",
+      "desc": "Tras la reestructuración del club en décadas anteriores, el FC Lorient alcanzó matemáticamente los puntos necesarios para el ascenso y disputar el torneo 1998-99 de la Ligue 1."
+    },
+    {
+      "ano": "2002",
+      "hito": "Obtención Inédita de Copa de Francia",
+      "desc": "El club superó en la final nacional al SC Bastia por 1-0 obteniendo oficialmente su primera Copa de Francia. El mismo año el club disputó la final de la Coupe de la Ligue y la perdió."
+    },
+    {
+      "ano": "2006",
+      "hito": "Ascenso Sostenido Bajo Liderazgo Gourcuff",
+      "desc": "Comandados tácticamente por el técnico Christian Gourcuff aseguraron el tercer puesto de Ligue 2 y concretaron un ascenso, permaneciendo compitiendo en la máxima categoría por una década seguida."
+    },
+    {
+      "ano": "2020",
+      "hito": "Certificación del Ascenso Tras Cuarentenas",
+      "desc": "Al dictaminarse el final temporal local del certamen 2019-20 por salubridad gubernamental, el dictamen oficial validó que la entidad FC Lorient fuera certificada como campeona ascendiendo directamente a Ligue 1."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade du Moustoir (Yves Allainmat)",
+      "capacidad": "18.110",
+      "inauguracion": "1959",
+      "desde": "1959",
+      "hasta": "",
+      "direccion": "Rue Jean Le Coutaller, 56100 Lorient, Francia",
+      "lat": 47.7487,
+      "lng": -3.3697,
+      "obs": "Recinto en el centro de Lorient y conocido por instalar un terreno pionero de césped artificial.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20Jean%20Le%20Coutaller%2C%2056100%20Lorient%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1926,
+      "hasta": null,
+      "c1": "#ff6600",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ff6600",
+      "tipo": "liso",
+      "desc": "Color naranja predominante histórico rindiendo honor a los famosos pescadores del puerto noroccidental bretón."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Fabien Audard",
+      "periodo": "2003-2014",
+      "pos": "Arquero",
+      "desc": "Histórico arquero de la escuadra y eterno capitán. Mantuvo su puesto asegurando el nivel bajo los palos y se estableció estadísticamente como el jugador con mayor cantidad de partidos jugados."
+    },
+    {
+      "nombre": "Kévin Gameiro",
+      "periodo": "2008-2011",
+      "pos": "Delantero",
+      "desc": "Delantero y centroatacante francés de remate letal. Durante su etapa en el club logró rendimientos goleadores muy altos asegurando posiciones cimeras a la institución en la liga absoluta francesa."
+    },
+    {
+      "nombre": "Jérémie Aliadière",
+      "periodo": "2011-2014",
+      "pos": "Delantero",
+      "desc": "Experimentado delantero y atacante. Logró sus mejores estadísticas consolidando su titularidad en la primera división logrando firmar decenas de goles oficiales para el equipo."
+    },
+    {
+      "nombre": "Sylvain Ripoll",
+      "periodo": "1995-2003",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista defensivo originario de la región local. Fue el comandante táctico titular consolidado antes de convertirse posteriormente en entrenador formativo de gran relevancia en el mismo."
+    },
+    {
+      "nombre": "Laurent Koscielny",
+      "periodo": "2009-2010",
+      "pos": "Defensor",
+      "desc": "Sólido zaguero central nacional. Brindó enormes labores asegurando solidez defensiva a nivel general en su participación temprana antes de convertirse en un estandarte continental indiscutido."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Kévin Gameiro",
+      "goles": 56,
+      "periodo": "2008-2011",
+      "partidos": 120,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 56 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2011."
+    },
+    {
+      "nombre": "Terem Moffi",
+      "goles": 35,
+      "periodo": "2020-2023",
+      "partidos": 90,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2023."
+    },
+    {
+      "nombre": "Jérémie Aliadière",
+      "goles": 26,
+      "periodo": "2011-2014",
+      "partidos": 84,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 26 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2014."
+    },
+    {
+      "nombre": "Benjamin Moukandjo",
+      "goles": 26,
+      "periodo": "2015-2017",
+      "partidos": 56,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 26 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2017."
+    },
+    {
+      "nombre": "Vincent Aboubakar",
+      "goles": 16,
+      "periodo": "2013-2014",
+      "partidos": 36,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 16 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2014."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fabien Audard",
+      "partidos": 352,
+      "periodo": "2003-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 352 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2014."
+    },
+    {
+      "nombre": "Vincent Le Goff",
+      "partidos": 316,
+      "periodo": "2014-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 316 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-Act."
+    },
+    {
+      "nombre": "Jérémy Morel",
+      "partidos": 227,
+      "periodo": "2002-2011",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 227 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2011."
+    },
+    {
+      "nombre": "Sylvain Ripoll",
+      "partidos": 219,
+      "periodo": "1995-2003",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 219 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2003."
+    },
+    {
+      "nombre": "Laurent Abergel",
+      "partidos": 170,
+      "periodo": "2019-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 170 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-Act."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 1,
+      "anios": [
+        "2002"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1926",
+      "url": "/escudos_historicos/lorient/Logo_FC_Lorient_1926.svg.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/lorient/FC_Lorient_logo_29.webp"
+    },
+    {
+      "ano": "2002-2010",
+      "url": "/escudos_historicos/lorient/FC_Lorient_logo_(2002-2010).svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/lorient.svg"
+    }
+  ]
+}

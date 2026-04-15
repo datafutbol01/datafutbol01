@@ -1,0 +1,426 @@
+{
+  "id": "independiente",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "grande",
+      "avellaneda",
+      "rey de copas"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Independiente",
+    "sigla": "CAI",
+    "fundacion": "1 de enero de 1905",
+    "apodo": "El Rojo, El Rey de Copas, Diablos Rojos",
+    "estadio_actual": "Libertadores de América - Ricardo Enrique Bochini",
+    "estadio_apodo": "La Doble Visera",
+    "estadio_capacidad": 42069,
+    "estadio_inauguracion": "1928-03-04 (renovado 2009)",
+    "estadio_lat": -34.6702,
+    "estadio_lng": -58.3709,
+    "estadio_direccion": "Ricardo Bochini 751, Avellaneda",
+    "socios": 135000,
+    "descripcion_corta": "Máximo ganador en la historia de la Copa Libertadores con 7 consagraciones. Referente histórico del fútbol argentino caracterizado por su identidad de juego ofensivo y su extensa trayectoria de éxitos a nivel internacional.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#DA291C"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#0F1A2C"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "11-1 a Platense (1971)",
+      "maximo_goleador": "Arsenio Erico (295 goles)",
+      "mas_presencias": "Ricardo Bochini (714 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1904-1905",
+      "hito": "Fundación por los empleados de 'A la Ciudad de Londres'",
+      "desc": "El origen de la institución se gestó a mediados de 1904 cuando un grupo de jóvenes trabajadores de la tienda porteña 'A la Ciudad de Londres' decidió escindirse del equipo oficial de la empresa (denominado Maipú Banfield) motivado por la negativa de los directivos a permitirles disputar minutos en el primer equipo. En una reunión liderada el 4 de agosto por Rosendo Degiorgi se impuso la voluntad de construir un club estrictamente 'independiente'. Si bien la primera asamblea formal se programó para el 1 de enero de 1905, problemas de quórum postergaron su rúbrica definitiva para marzo, estableciendo sin embargo la fecha original de enero como efeméride oficial. El color rojo se adoptó formalmente años posteriores tras el paso del Nottingham Forest por el país."
+    },
+    {
+      "ano": "1930s",
+      "hito": "Aparición de Erico y potencia ofensiva",
+      "desc": "Durante la década del treinta, Independiente conformó importantes alineaciones ofensivas en los torneos profesionales de AFA impulsadas por la llegada del delantero paraguayo Arsenio Erico. Erico consolidó una marca histórica vigente, convirtiéndose en el máximo goleador histórico del fútbol argentino superando los 290 tantos y llevando al club a obtener sus primeros campeonatos formales de Primera División."
+    },
+    {
+      "ano": "1964-1965",
+      "hito": "Primeros campeonatos en la Copa Libertadores",
+      "desc": "La década de 1960 sentó las bases del predominio del club en el continente sudamericano. En 1964, Independiente se convirtió en el primer equipo argentino de la historia en conquistar la Copa Libertadores de América, apoyándose en un sólido esquema táctico defensivo. Al año siguiente reeditó el título, logrando el primer bicampeonato internacional de su historia y estableciendo su fama copera."
+    },
+    {
+      "ano": "1972-1975",
+      "hito": "El récord del tetracampeonato continental",
+      "desc": "Entre las ediciones de 1972 y 1975 de la Libertadores, el club de Avellaneda logró una marca estadísticamente superlativa obteniendo el certamen sudamericano cuatro veces consecutivas. Con figuras emblemáticas como Ricardo Bochini y Ricardo Pavoni, el plantel demostró absoluta superioridad en instancias definitorias del torneo consolidando el famoso mote institucional de 'Rey de Copas'."
+    },
+    {
+      "ano": "1984",
+      "hito": "Séptima Libertadores y Copa Intercontinental",
+      "desc": "Bajo la dirección técnica de José Pastoriza, Independiente amplió su récord al conquistar su séptima Copa Libertadores frente a Grêmio de Porto Alegre en 1984. En el mismo año, el plantel viajó a Japón para disputar la Copa Intercontinental, donde se alzó con la victoria máxima ante el Liverpool inglés por 1-0 con gol de José Percudani, coronándose por segunda vez campeón a nivel mundial."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha de Flores",
+      "direccion": "Av. Boyacá y Camarones, CABA",
+      "desde": 1905,
+      "hasta": 1906,
+      "estado": "Desalojado",
+      "obs": "Terrenos cedidos y alquilados temporalmente durante las primeras competiciones deportivas amateurs del club dentro del trazado urbano de la capital federal.",
+      "lat": -34.6186,
+      "lng": -58.4688,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Boyac%C3%A1%20y%20Camarones%2C%20CABA"
+    },
+    {
+      "nombre": "Estadio de Manuel Ocantos",
+      "direccion": "Manuel Ocantos y Saavedra, Avellaneda",
+      "desde": 1907,
+      "hasta": 1910,
+      "estado": "Desalojado",
+      "obs": "Primer establecimiento oficial donde la institución se radicó geográficamente tras abandonar sus terrenos originales, uniendo sus lazos cívicos con la localidad de Avellaneda de forma definitiva.",
+      "lat": -34.6644,
+      "lng": -58.3524,
+      "url": "https://www.google.com/maps/search/?api=1&query=Manuel%20Ocantos%20y%20Saavedra%2C%20Avellaneda"
+    },
+    {
+      "nombre": "Estadio de La Crucecita",
+      "direccion": "Avenida Mitre y Lacarra, Avellaneda",
+      "desde": 1911,
+      "hasta": 1928,
+      "estado": "Destruido por incendio",
+      "obs": "Histórico recinto de gradas enteramente compuestas en madera, escenario fundamental de su etapa amateur hasta que quedó inutilizado a raíz de un severo incendio estructural.",
+      "lat": -34.6644,
+      "lng": -58.3524,
+      "url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Mitre%20y%20Lacarra%2C%20Avellaneda"
+    },
+    {
+      "nombre": "Libertadores de América - Ricardo E. Bochini (La Doble Visera)",
+      "direccion": "Ricardo Bochini 751, Avellaneda",
+      "desde": 1928,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Inaugurado en 1928 bajo diseño monumental para su época, constituyó la primera estructura estadiaria compuesta enteramente en cemento techado en el fútbol local. Sede de incontables vueltas coperas, fue reconstruido conceptualmente sobre el mismo predio en 2009.",
+      "lat": -34.6702,
+      "lng": -58.3711,
+      "url": "https://www.google.com/maps/search/?api=1&query=Ricardo%20Bochini%20751%2C%20Avellaneda"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": 1907,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Primer uniforme histórico: camisa blanca con un bolsillo azul en el lado izquierdo del pecho."
+    },
+    {
+      "desde": 1908,
+      "hasta": null,
+      "c1": "#E2001A",
+      "c2": "#E2001A",
+      "sh": "#000080",
+      "me": "#E2001A",
+      "tipo": "liso",
+      "desc": "Adopción de la camiseta íntegramente roja, en homenaje al equipo inglés Nottingham Forest."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ricardo Bochini",
+      "pos": "Enganche",
+      "apodo": "El Bocha / El Maestro",
+      "periodo": "1972-1991",
+      "desc": "Símbolo absoluto de la institución y catalogado como el máximo exponente del equipo en su historia. Como 'One Club Man', lideró al plantel en la obtención de cuatro de las siete Copas Libertadores y dos Intercontinentales, destacando por su precisión en las asistencias."
+    },
+    {
+      "nombre": "Arsenio Erico",
+      "pos": "Delantero",
+      "apodo": "El Saltarín Rojo",
+      "periodo": "1934-1946",
+      "desc": "Legendario delantero paraguayo y el máximo artillero en toda la historia de la primera división de Argentina continental, con asombrosos registros goleadores durante la década de 1930 que forjaron la grandeza inicial del club."
+    },
+    {
+      "nombre": "Sergio Agüero",
+      "pos": "Delantero",
+      "apodo": "Kun",
+      "periodo": "2003-2006",
+      "desc": "Debutó profesionalmente a los 15 años de edad, convirtiéndose en el jugador más joven en lograrlo en la liga argentina. Deslumbró rápidamente por su potencia y desequilibrio individual antes de protagonizar la transferencia más grande del club hacia Europa."
+    },
+    {
+      "nombre": "José Omar Pastoriza",
+      "pos": "Mediocampista / Director Técnico",
+      "apodo": "El Pato",
+      "periodo": "1966-1972",
+      "desc": "Mediocampista de temperamento y jerarquía que luego se consolidó como uno de los entrenadores más laureados de la institución, dirigiendo al equipo en la consagración de la Copa Libertadores y la Intercontinental de 1984."
+    },
+    {
+      "nombre": "Daniel Bertoni",
+      "pos": "Delantero",
+      "apodo": "El Puntero",
+      "periodo": "1973-1977",
+      "desc": "Extremo fundamental de la década de 1970, socio ideal de Ricardo Bochini en la ofensiva. Fue determinante con sus goles y desbordes para la consecución de múltiples títulos locales y copas internacionales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Arsenio Erico",
+      "goles": 295,
+      "partidos": 325,
+      "periodo": "1934-1946",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 295 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1946."
+    },
+    {
+      "nombre": "Manuel Seoane",
+      "goles": 241,
+      "partidos": 264,
+      "periodo": "1921-1932",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 241 goles en competiciones oficiales durante su trayectoria en el equipo entre 1921-1932."
+    },
+    {
+      "nombre": "Vicente de la Mata",
+      "goles": 152,
+      "partidos": 362,
+      "periodo": "1937-1950",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 152 goles en competiciones oficiales durante su trayectoria en el equipo entre 1937-1950."
+    },
+    {
+      "nombre": "Luis Artime",
+      "goles": 141,
+      "partidos": 196,
+      "periodo": "1966-1968",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 141 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1968."
+    },
+    {
+      "nombre": "Ricardo Bochini",
+      "goles": 108,
+      "partidos": 714,
+      "periodo": "1972-1991",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1972-1991."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Ricardo Bochini",
+      "partidos": 714,
+      "periodo": "1972-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 714 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1991."
+    },
+    {
+      "nombre": "Ricardo Pavoni",
+      "partidos": 495,
+      "periodo": "1965-1976",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 495 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1976."
+    },
+    {
+      "nombre": "Hugo Villaverde",
+      "partidos": 423,
+      "periodo": "1976-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 423 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1989."
+    },
+    {
+      "nombre": "Miguel Ángel Santoro",
+      "partidos": 394,
+      "periodo": "1962-1974",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1974."
+    },
+    {
+      "nombre": "Vicente de la Mata",
+      "partidos": 362,
+      "periodo": "1937-1950",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1937-1950."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 16,
+      "años": [
+        "1922",
+        "1926",
+        "1938",
+        "1939",
+        "1948",
+        "1960",
+        "1963",
+        "1967",
+        "1970",
+        "1971",
+        "1977",
+        "1978",
+        "1983",
+        "1989",
+        "1994",
+        "2002"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 9,
+      "años": [
+        "1914",
+        "1917",
+        "1924",
+        "1925",
+        "1926",
+        "1938",
+        "1939",
+        "1939",
+        "1939"
+      ]
+    },
+    {
+      "nombre": "Copas Rioplatenses Históricas",
+      "cantidad": 2,
+      "años": [
+        "1938",
+        "1939"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores de América",
+      "cantidad": 7,
+      "años": [
+        "1964",
+        "1965",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1984"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 2,
+      "años": [
+        "1973",
+        "1984"
+      ]
+    },
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 2,
+      "años": [
+        "2010",
+        "2017"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "1995"
+      ]
+    },
+    {
+      "nombre": "Supercopa Sudamericana",
+      "cantidad": 2,
+      "años": [
+        "1994",
+        "1995"
+      ]
+    },
+    {
+      "nombre": "Copa Interamericana",
+      "cantidad": 3,
+      "años": [
+        "1973",
+        "1974",
+        "1976"
+      ]
+    },
+    {
+      "nombre": "Copa Suruga Bank",
+      "cantidad": 1,
+      "años": [
+        "2018"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1905",
+      "url": "/escudos_historicos/independiente/independiente_1905_web.png"
+    },
+    {
+      "ano": "1905",
+      "url": "/escudos/historicos/independiente/Escudo-alt-IFC-azul1905-1907.png"
+    },
+    {
+      "ano": "1907",
+      "url": "/escudos_historicos/independiente/independiente_1907_web.png"
+    },
+    {
+      "ano": "1907",
+      "url": "/escudos/historicos/independiente/Escudo-alt-INDEPENDIENTE-1907-1914.jpg"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos_historicos/independiente/independiente_1911_web.png"
+    },
+    {
+      "ano": "1912",
+      "url": "/escudos_historicos/independiente/independiente_1912_web.png"
+    },
+    {
+      "ano": "1920",
+      "url": "/escudos_historicos/independiente/independiente_1920_web.png"
+    },
+    {
+      "ano": "1930",
+      "url": "/escudos_historicos/independiente/independiente_1930_web.png"
+    },
+    {
+      "ano": "1940",
+      "url": "/escudos_historicos/independiente/independiente_1940_web.png"
+    },
+    {
+      "ano": "1950",
+      "url": "/escudos_historicos/independiente/independiente_1950_web.png"
+    },
+    {
+      "ano": "1977",
+      "url": "/escudos_historicos/independiente/independiente_1977_web.png"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos_historicos/independiente/independiente_1983_web.png"
+    },
+    {
+      "ano": "1985",
+      "url": "/escudos_historicos/independiente/independiente_1985_web.png"
+    },
+    {
+      "ano": "1987",
+      "url": "/escudos_historicos/independiente/independiente_1987_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/1280px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Diablos Rojos",
+      "origen": "El bautismo se forjó en el transcurso mediático de 1926. En aquel campeonato, la institución conformó una línea de ataque compuesta por Canaveri, Lalín, Ravaschino, Seoane y Orsi, los cuales asestaron diversas goleadas con un sistema veloz. El reportero Hugo Marini en el diario Crítica, sumando el histórico color rojo de las camisetas utilizadas desde inicios de siglo, los denominó 'Diablos Rojos' para homologarlos en sus crónicas."
+    },
+    {
+      "apodo": "El Rey de Copas",
+      "origen": "Consolidado oficialmente en base al ámbito deportivo y los récords continentales en la segunda mitad del siglo XX. El apodo ingresó llanamente gracias a la sumatoria abrumadora de trofeos trasnacionales logrados por el club, fundamentalmente en el cierre de los años 60 y durante la década del 70. Su afirmación indiscutible como término oficial se produjo al conquistar un suceso estadístico imbatido: conseguir la Copa Libertadores de América por cuatro certámenes consecutivos (ediciones de 1972, 1973, 1974 y 1975)."
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "psg",
+  "meta": {
+    "slug": "psg"
+  },
+  "datos": {
+    "nombre_completo": "Paris Saint-Germain FC",
+    "nombre_oficial": "Paris Saint-Germain FC",
+    "nombre_corto": "PSG",
+    "apodo": "Les Rouge-et-Bleu, Les Parisiens",
+    "fundacion": "12 de Agosto de 1970",
+    "estadio_actual": "Parc des Princes",
+    "presidente": "Nasser Al-Khelaïfi",
+    "entrenador": "Luis Enrique",
+    "estadio_capacidad": "47.929",
+    "estadio_inauguracion": "1972",
+    "estadio_direccion": "24 Rue du Commandant Guilbaud, 75016 Paris, Francia",
+    "estadio_lat": 48.8414,
+    "estadio_lng": 2.253,
+    "sigla": "PSG",
+    "socios": 154000,
+    "descripcion_corta": "Institución deportiva de París adquirida mayoritariamente por Qatar Sports Investments en 2011, hito financiero que cimentó su récord estadístico sobre la Ligue 1 contemporánea.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#004170"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#DA291C"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Kylian Mbappé (256 goles)",
+      "mas_presencias": "Marquinhos (436 partidos)",
+      "mayor_goleada": "9-0 vs Guingamp (2019)"
+    },
+    "estadio_apodo": "Le Parc",
+    "escudo_actual": "/escudos/psg.webp"
+  },
+  "historia": [
+    {
+      "ano": "1970",
+      "hito": "La Obligación Capitalina y Fusión Corporativa que Cimentó el Nacimiento del Gigante",
+      "desc": "Acorralada burocráticamente y humillada social y asombrosamente por no poseer férrea ninguna colosal gran escuadra purísima originaria y titánica letal de estatus élite representativa estival y pesada innegociable para la colosal ciudad estipulada y colosal majestuosa de gloria eterna París un grupo colosal rígidamente aristócrata de caudillos como Guy Crescent, el e inmenso Pierre-Étienne Guyot junto al gran Henri Patrelle ejecutaron dictaminados la magistral épica corporativa absorbiendo e inventando la colosal fusión del incipiente Paris FC con la fiera de campo viejo e histórica de cuna gloriosa fáctica Stade Saint-Germain el 12 de agosto histórico de 1970 fundando asombrosamente al monumental y grandioso gigante colosal devorador Paris Saint-Germain vistiendo formales dictámenes azules con grandes y purísimas torres inmensas y grandes bandas rojas de origen capitalino innegociable."
+    },
+    {
+      "ano": "1974",
+      "hito": "Ascenso Oficial a Primera División",
+      "desc": "Tras su escisión legal, el equipo reconstruyó su base desde tercera división, logrando ascensos consecutivos hasta vencer al Valenciennes y adjudicarse un lugar en la Ligue 1."
+    },
+    {
+      "ano": "1986",
+      "hito": "Primera Consagración en Ligue 1",
+      "desc": "Bajo la gestión administrativa de Francis Borelli y con Gérard Houllier como director técnico, el equipo adquirió los puntos necesarios para ganar por primera vez el certamen nacional."
+    },
+    {
+      "ano": "1996",
+      "hito": "Obtención de la Recopa de la UEFA",
+      "desc": "Con el respaldo financiero del canal de televisión Canal+, el club venció por 1-0 al Rapid de Viena, conquistando oficialmente la Recopa de la UEFA."
+    },
+    {
+      "ano": "2011",
+      "hito": "Adquisición por Qatar Sports Investments",
+      "desc": "El fondo de inversión QSI adquirió la totalidad de las acciones del club, inyectando un capital accionario récord en transferencias que derivó en continuos campeonatos de liga."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Parc des Princes",
+      "capacidad": "47.929",
+      "inauguracion": "1972",
+      "desde": "1974",
+      "hasta": "",
+      "direccion": "24 Rue du Commandant Guilbaud, 75016 Paris, Francia",
+      "lat": 48.8414,
+      "lng": 2.253,
+      "obs": "Levantado sobre las bases de antiguos recintos de caza real. Es la casa incondicional en el sudoeste parisino y cuartel de la era QSI.",
+      "url": "https://www.google.com/maps/search/?api=1&query=24%20Rue%20du%20Commandant%20Guilbaud%2C%2075016%20Paris%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1970,
+      "hasta": 1973,
+      "c1": "#e30613",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#e30613",
+      "tipo": "liso",
+      "desc": "Utilización de indumentarias rojas unicolores en honor y tributo directo a las insignias originales formativas y unificadoras de época."
+    },
+    {
+      "desde": 1973,
+      "hasta": null,
+      "c1": "#001a40",
+      "c2": "#e30613",
+      "sh": "#001a40",
+      "me": "#001a40",
+      "tipo": "franja-vertical",
+      "desc": "Introducción eterna y magistral del legendario diseñador y presidente del momento, delineando una ancha banda vertical roja conteniendo base y bordes predominantemente azules marinos."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Edinson Cavani",
+      "periodo": "2013-2020",
+      "pos": "Delantero",
+      "desc": "Centrodelantero internacional uruguayo oficial. Su enorme perseverancia ofensiva le permitió establecer formidables estadísticas consagrándose logrando afianzarse como el máximo récord histórico del club formal anotador oficial."
+    },
+    {
+      "nombre": "Zlatan Ibrahimovic",
+      "periodo": "2012-2016",
+      "pos": "Delantero",
+      "desc": "Potente centroatacante acrobático de Suecia. El aporte de la figura mundial consolidó el proyecto institucional aportando una vasta serie de goles decisivos para iniciar la actual historia reinante en campeonatos."
+    },
+    {
+      "nombre": "Rai",
+      "periodo": "1993-1998",
+      "pos": "Mediocampista",
+      "desc": "Talentoso y elegante creador y clásico capitán de procedencia originaria de Brasil. Lideró impecable y asiduamente la base central del exitoso escudo que conquistó formidables victorias oficiales europeas noventosas."
+    },
+    {
+      "nombre": "Marquinhos",
+      "periodo": "2013-2024",
+      "pos": "Defensor",
+      "desc": "Defensor central contemporáneo brasileño firme y seguro capitán local. Ha custodiado repetidas ligas afianzándose estadísticamente como acreedor asiduo de copas y trofeos en el plano liguero formal disputando miles de cortes."
+    },
+    {
+      "nombre": "Kylian Mbappé",
+      "periodo": "2017-2024",
+      "pos": "Delantero",
+      "desc": "Velocísimo delantero y atacante histórico contemporáneo de orígenes franceses insuperables e innegables. Oficializa y corona la lista mayor asegurando la principal posición como el mejor artillero total y absoluto de toda la escuadra consolidada."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Kylian Mbappé",
+      "goles": 256,
+      "periodo": "2017-2024",
+      "partidos": 308,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 256 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2024."
+    },
+    {
+      "nombre": "Edinson Cavani",
+      "goles": 200,
+      "periodo": "2013-2020",
+      "partidos": 301,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 200 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2020."
+    },
+    {
+      "nombre": "Zlatan Ibrahimović",
+      "goles": 156,
+      "periodo": "2012-2016",
+      "partidos": 180,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 156 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2016."
+    },
+    {
+      "nombre": "Neymar",
+      "goles": 118,
+      "periodo": "2017-2023",
+      "partidos": 173,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 118 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2023."
+    },
+    {
+      "nombre": "Pauleta",
+      "goles": 109,
+      "periodo": "2003-2008",
+      "partidos": 211,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 109 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2008."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jean-Marc Pilorget",
+      "partidos": 435,
+      "periodo": "1975-1989",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 435 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1989."
+    },
+    {
+      "nombre": "Marquinhos",
+      "partidos": 427,
+      "periodo": "2013-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-Act."
+    },
+    {
+      "nombre": "Marco Verratti",
+      "partidos": 416,
+      "periodo": "2012-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 416 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2023."
+    },
+    {
+      "nombre": "Sylvain Armand",
+      "partidos": 380,
+      "periodo": "2004-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 380 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2013."
+    },
+    {
+      "nombre": "Safet Sušić",
+      "partidos": 344,
+      "periodo": "1982-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 344 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1991."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 12,
+      "anios": [
+        "1986",
+        "1994",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 15,
+      "anios": [
+        "1982",
+        "1983",
+        "1993",
+        "1995",
+        "1998",
+        "2004",
+        "2006",
+        "2010",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2020",
+        "2021",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Recopa de la UEFA",
+      "cantidad": 1,
+      "anios": [
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Coupe de la Ligue",
+      "cantidad": 9,
+      "anios": [
+        "1995",
+        "1998",
+        "2008",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2020"
+      ]
+    },
+    {
+      "nombre": "Trophée des Champions",
+      "cantidad": 12,
+      "anios": [
+        "1995",
+        "1998",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2022",
+        "2023"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_72-90.webp"
+    },
+    {
+      "ano": "1982",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_1982.webp"
+    },
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_1992.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_1996.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_FC_logo.webp"
+    },
+    {
+      "ano": "2010",
+      "url": "/escudos_historicos/psg/Paris_Saint-Germain_aniversario2010.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/psg.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Les Parisiens",
+      "origen": "Adoptado como firme y estricto apelativo hegemónico absoluto luego de centralizar e ir unificando fusionados clubes distritales afines en la capital urbana fáctica. Afianzaron honores estricto refiriéndose masivamente referenciando unidos a todos pobladores de París."
+    }
+  ]
+}

@@ -1,0 +1,3342 @@
+{
+  "year": 1958,
+  "host": "Suecia",
+  "participants": [
+    {
+      "id": "suecia",
+      "name": "Suecia",
+      "flag": "se",
+      "dt": "George Raynor",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Kalle Svensson",
+          "clubName": "Helsingborg",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Orvar Bergmark",
+          "clubName": "Örebro",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Sven Axbom",
+          "clubName": "Norrköping",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Nils Liedholm",
+          "clubName": "Milan",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Åke Johansson",
+          "clubName": "Norrköping",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Sigge Parling",
+          "clubName": "Djurgården",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Kurt Hamrin",
+          "clubName": "Padova",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Gunnar Gren",
+          "clubName": "Örgryte",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Agne Simonsson",
+          "clubName": "Örgryte",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Arne Selmosson",
+          "clubName": "Lazio",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Lennart Skoglund",
+          "clubName": "Inter Milan",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Tore Svensson",
+          "clubName": "Malmö",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Prawitz Öberg",
+          "clubName": "Malmö",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Bengt Gustavsson",
+          "clubName": "Atalanta",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Reino Börjesson",
+          "clubName": "Norrby",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Portero",
+          "name": "Ingemar Haraldsson",
+          "clubName": "Elfsborg",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Olle Håkansson",
+          "clubName": "Norrköping",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Gösta Löfgren",
+          "clubName": "Motala",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Henry Källgren",
+          "clubName": "Norrköping",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Bror Mellberg",
+          "clubName": "AIK",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Centrocampista",
+          "name": "Bengt Berndtsson",
+          "clubName": "Göteborg",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Owe Ohlsson",
+          "clubName": "Göteborg",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "alemania_federal",
+      "name": "Alemania Federal",
+      "flag": "de",
+      "dt": "Sepp Herberger",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Fritz Herkenrath",
+          "clubName": "Rot-Weiss Essen",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Herbert Erhardt",
+          "clubName": "SpVgg Fürth",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Erich Juskowiak",
+          "clubName": "Fortuna Düsseldorf",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Horst Eckel",
+          "clubName": "1. FC Kaiserslautern",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Heinz Wewers",
+          "clubName": "Rot-Weiss Essen",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Horst Szymaniak",
+          "clubName": "Wuppertaler SV",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Georg Stollenwerk",
+          "clubName": "1. FC Köln",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Helmut Rahn",
+          "clubName": "Rot-Weiss Essen",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Fritz Walter",
+          "clubName": "1. FC Kaiserslautern",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Aki Schmidt",
+          "clubName": "Borussia Dortmund",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Hans Schäfer",
+          "clubName": "1. FC Köln",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Uwe Seeler",
+          "clubName": "Hamburger SV",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Bernhard Klodt",
+          "clubName": "Schalke 04",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Hans Cieslarczyk",
+          "clubName": "SV Sodingen",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Alfred Kelbassa",
+          "clubName": "Borussia Dortmund",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Hans Sturm",
+          "clubName": "1. FC Köln",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Karl-Heinz Schnellinger",
+          "clubName": "SG Düren 99",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Rudi Hoffmann",
+          "clubName": "VfB Stuttgart",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Wolfgang Peters",
+          "clubName": "Borussia Dortmund",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Defensa",
+          "name": "Hermann Nuber",
+          "clubName": "Kickers Offenbach",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Portero",
+          "name": "Günter Sawitzki",
+          "clubName": "VfB Stuttgart",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Heinz Kwiatkowski",
+          "clubName": "Borussia Dortmund",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "irlanda_del_norte",
+      "name": "Irlanda del Norte",
+      "flag": "gb-nir",
+      "dt": "Peter Doherty",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Harry Gregg",
+          "clubName": "Manchester United",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Willie Cunningham",
+          "clubName": "Leicester City",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Alf McMichael",
+          "clubName": "Newcastle United",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Danny Blanchflower",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Dick Keith",
+          "clubName": "Newcastle United",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Bertie Peacock",
+          "clubName": "Celtic",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Billy Bingham",
+          "clubName": "Sunderland",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Wilbur Cush",
+          "clubName": "Leeds United",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Billy Simpson",
+          "clubName": "Rangers",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Jimmy McIlroy",
+          "clubName": "Burnley",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Peter McParland",
+          "clubName": "Aston Villa",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Norman Uprichard",
+          "clubName": "Portsmouth",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Tommy Casey",
+          "clubName": "Newcastle United",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Jackie Scott",
+          "clubName": "Grimsby Town",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Sammy McCrory",
+          "clubName": "Southend United",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Derek Dougan",
+          "clubName": "Portsmouth",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Fay Coyle",
+          "clubName": "Nottingham Forest",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Portero",
+          "name": "Roy Rea",
+          "clubName": "Glenavon",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Defensa",
+          "name": "Len Graham",
+          "clubName": "Doncaster Rovers",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "Sammy Chapman",
+          "clubName": "Portsmouth",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Tommy Hamill",
+          "clubName": "Linfield",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Bobby Trainor",
+          "clubName": "Coleraine",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "checoslovaquia",
+      "name": "Checoslovaquia",
+      "flag": "cz",
+      "dt": "Karel Kolský",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Imrich Stacho",
+          "clubName": "Spartak Trnava",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Gustav Mráz",
+          "clubName": "CH Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Jiří Čadek",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ladislav Novák",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Josef Masopust",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Svatopluk Pluskal",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Kazimír Gajdoš",
+          "clubName": "CH Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Milan Dvořák",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Pavol Molnár",
+          "clubName": "CH Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Jaroslav Borovička",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Tadeáš Kraus",
+          "clubName": "Spartak Praha Sokolovo",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Zdeněk Zikán",
+          "clubName": "Dukla Pardubice",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Václav Hovorka",
+          "clubName": "Dynamo Praha",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Jiří Feureisl",
+          "clubName": "Slavia Karlovy Vary",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Jan Hertl",
+          "clubName": "Spartak Praha Sokolovo",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Ján Popluhár",
+          "clubName": "Slovan Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Titus Buberník",
+          "clubName": "CH Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Adolf Scherer",
+          "clubName": "CH Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Portero",
+          "name": "Břetislav Dolejší",
+          "clubName": "Dynamo Praha",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "Anton Moravčík",
+          "clubName": "Slovan Bratislava",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "František Šafránek",
+          "clubName": "Dukla Prague",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Viliam Schrojf",
+          "clubName": "Slovan Bratislava",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "flag": "ar",
+      "dt": "Guillermo Stábile",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Amadeo Carrizo",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Pedro Dellacha",
+          "clubName": "Racing",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Federico Vairo",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Juan Francisco Lombardo",
+          "clubName": "Boca Juniors",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Néstor Rossi",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "José Varacka",
+          "clubName": "Independiente",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Oreste Corbatta",
+          "clubName": "Racing",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Eliseo Prado",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Norberto Menéndez",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Alfredo Rojas",
+          "clubName": "Lanús",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Ángel Labruna",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Julio Musimessi",
+          "clubName": "Boca Juniors",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Alfredo Pérez",
+          "clubName": "River Plate",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Federico Edwards",
+          "clubName": "Boca Juniors",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "David Acevedo",
+          "clubName": "Independiente",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Eliseo Mouriño",
+          "clubName": "Boca Juniors",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "José Ramos Delgado",
+          "clubName": "Lanús",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Norberto Boggio",
+          "clubName": "San Lorenzo",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Ludovico Avio",
+          "clubName": "Vélez Sarsfield",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Ricardo Infante",
+          "clubName": "Estudiantes (LP)",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "José Sanfilippo",
+          "clubName": "San Lorenzo",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Osvaldo Cruz",
+          "clubName": "Independiente",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "francia",
+      "name": "Francia",
+      "flag": "fr",
+      "dt": "Albert Batteux",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Claude Abbes",
+          "clubName": "Saint-Ètienne",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Dominique Colonna",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Portero",
+          "name": "François Remetter",
+          "clubName": "Bordeaux",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Raymond Kaelbel",
+          "clubName": "Monaco",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "André Lerond",
+          "clubName": "Lyon",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Roger Marche",
+          "clubName": "RC Paris",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Robert Mouynet",
+          "clubName": "Lyon",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Bernard Chiarelli",
+          "clubName": "Valenciennes",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Kazimir Hnatow",
+          "clubName": "Angers",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Robert Jonquet",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Maurice Lafont",
+          "clubName": "Nîmes",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Jean-Jacques Marcel",
+          "clubName": "Marseille",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Armand Penverne",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Raymond Bellot",
+          "clubName": "Monaco",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Stéphane Bruey",
+          "clubName": "Angers",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Yvon Douis",
+          "clubName": "Lille",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Just Fontaine",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Raymond Kopa",
+          "clubName": "Real Madrid",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Célestin Oliver",
+          "clubName": "Sedan",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Roger Piantoni",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Jean Vincent",
+          "clubName": "Reims",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Maryan Wisnieski",
+          "clubName": "Lens",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "yugoslavia",
+      "name": "Yugoslavia",
+      "flag": "yu",
+      "dt": "Aleksandar Tirnanić",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Vladimir Beara",
+          "clubName": "Red Star Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Srboljub Krivokuća",
+          "clubName": "Vojvodina Novi Sad",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Vasilije Šijaković",
+          "clubName": "OFK Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Tomislav Crnković",
+          "clubName": "Dinamo Zagreb",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Novak Tomić",
+          "clubName": "Red Star Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Branko Zebec",
+          "clubName": "Partizan Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Miloš Milutinović",
+          "clubName": "Partizan Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Dobrosav Krstić",
+          "clubName": "Vojvodina Novi Sad",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Vujadin Boškov",
+          "clubName": "Vojvodina Novi Sad",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ivan Šantek",
+          "clubName": "Dinamo Zagreb",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Defensa",
+          "name": "Vladimir Popović",
+          "clubName": "Red Star Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Aleksandar Petaković",
+          "clubName": "Radnički Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Todor Veselinović",
+          "clubName": "Vojvodina Novi Sad",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Milorad Milutinović",
+          "clubName": "Partizan Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Dragoslav Šekularac",
+          "clubName": "Red Star Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Ilijas Pašić",
+          "clubName": "Željezničar Sarajevo",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Zdravko Rajkov",
+          "clubName": "Vojvodina Novi Sad",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Luka Lipošinović",
+          "clubName": "Dinamo Zagreb",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Radivoje Ognjanović",
+          "clubName": "Radnički Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Portero",
+          "name": "Gordan Irović",
+          "clubName": "Dinamo Zagreb",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Nikola Radović",
+          "clubName": "Red Star Belgrade",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Dražan Jerković",
+          "clubName": "Dinamo Zagreb",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "flag": "py",
+      "dt": "Aurelio González",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ramón Mayeregger",
+          "clubName": "Nacional",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Edelmiro Arévalo",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Juan Vicente Lezcano",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ignacio Achúcarro",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Salvador Villalba",
+          "clubName": "Libertad",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Eligio Echagüe",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Juan Bautista Agüero",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "José Parodi",
+          "clubName": "Sportivo Luqueño",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Jorge Lino Romero",
+          "clubName": "Sol de América",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Oscar Aguilera",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Florencio Amarilla",
+          "clubName": "Nacional",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Samuel Aguilar",
+          "clubName": "Libertad",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Luis Gini",
+          "clubName": "Sol de América",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Darío Segovia",
+          "clubName": "Sol de América",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Luis Santos Silva",
+          "clubName": "Cerro Porteño",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Claudio Lezcano",
+          "clubName": "Olimpia",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Agustín Miranda",
+          "clubName": "Cerro Porteño",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Gilberto Penayo",
+          "clubName": "Sol de América",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Eliseo Insfrán",
+          "clubName": "Guaraní",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "José Raúl Aveiro",
+          "clubName": "Sportivo Luqueño",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Cayetano Ré",
+          "clubName": "Cerro Porteño",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Eligio Insfrán",
+          "clubName": "Guaraní",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "escocia",
+      "name": "Escocia",
+      "flag": "gb-sct",
+      "dt": "Dawson Walker",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Tommy Younger",
+          "clubName": "Liverpool",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Bill Brown",
+          "clubName": "Dundee",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Alex Parker",
+          "clubName": "Everton",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Eric Caldow",
+          "clubName": "Rangers",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "John Hewie",
+          "clubName": "Charlton Athletic",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Harry Haddock",
+          "clubName": "Clyde",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Ian McColl",
+          "clubName": "Rangers",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Eddie Turnbull",
+          "clubName": "Hibernian",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Defensa",
+          "name": "Bobby Evans",
+          "clubName": "Celtic",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Tommy Docherty",
+          "clubName": "Preston North End",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Dave Mackay",
+          "clubName": "Heart of Midlothian",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Doug Cowie",
+          "clubName": "Dundee",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Sammy Baird",
+          "clubName": "Rangers",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Graham Leggat",
+          "clubName": "Aberdeen",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Alex Scott",
+          "clubName": "Rangers",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Jimmy Murray",
+          "clubName": "Heart of Midlothian",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Jackie Mudie",
+          "clubName": "Blackpool",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "John Coyle",
+          "clubName": "Clyde",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Bobby Collins",
+          "clubName": "Celtic",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Archie Robertson",
+          "clubName": "Clyde",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Stewart Imlach",
+          "clubName": "Nottingham Forest",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Willie Fernie",
+          "clubName": "Celtic",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "gales",
+      "name": "Gales",
+      "flag": "gb-wls",
+      "dt": "Jimmy Murphy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Jack Kelsey",
+          "clubName": "Arsenal",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Stuart Williams",
+          "clubName": "West Bromwich Albion",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Mel Hopkins",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Derrick Sullivan",
+          "clubName": "Cardiff City",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Mel Charles",
+          "clubName": "Swansea Town",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Dave Bowen",
+          "clubName": "Arsenal",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Terry Medwin",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Ron Hewitt",
+          "clubName": "Cardiff City",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "John Charles",
+          "clubName": "Juventus",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Ivor Allchurch",
+          "clubName": "Swansea Town",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Cliff Jones",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Ken Jones",
+          "clubName": "Cardiff City",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Graham Vearncombe",
+          "clubName": "Cardiff City",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Trevor Edwards",
+          "clubName": "Charlton Athletic",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Colin Baker",
+          "clubName": "Cardiff City",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Vic Crowe",
+          "clubName": "Aston Villa",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Ken Leek",
+          "clubName": "Leicester City",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Roy Vernon",
+          "clubName": "Blackburn Rovers",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Colin Webster",
+          "clubName": "Manchester United",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "John Elsworthy",
+          "clubName": "Ipswich Town",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Centrocampista",
+          "name": "Len Allchurch",
+          "clubName": "Swansea Town",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "George Baker",
+          "clubName": "Plymouth Argyle",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "hungria",
+      "name": "Hungría",
+      "flag": "hu",
+      "dt": "Lajos Baróti",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Gyula Grosics",
+          "clubName": "Tatabányai Bányász SE",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Sándor Mátrai",
+          "clubName": "Ferencvárosi TC",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ferenc Sipos",
+          "clubName": "MTK FC",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "László Sárosi",
+          "clubName": "Vasas SC",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "József Bozsik",
+          "clubName": "Budapest Honvéd FC",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Pál Berendy",
+          "clubName": "Vasas SC",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "László Budai",
+          "clubName": "Budapest Honvéd FC",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Lajos Tichy",
+          "clubName": "Budapest Honvéd FC",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Nándor Hidegkuti",
+          "clubName": "MTK FC",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Dezső Bundzsák",
+          "clubName": "Vasas SC",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Károly Sándor",
+          "clubName": "MTK FC",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Béla Kárpáti",
+          "clubName": "Vasas SC",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Oszkár Szigeti",
+          "clubName": "Diósgyőri VTK",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Ferenc Szojka",
+          "clubName": "Salgótarjáni BTC",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Antal Kotász",
+          "clubName": "Budapest Honvéd FC",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "László Lachos",
+          "clubName": "Tatabányai Bányász SE",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Mihály Vasas",
+          "clubName": "Salgótarjáni BTC",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Tivadar Monostori",
+          "clubName": "Dorogi Bányász",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Zoltán Friedmanszky",
+          "clubName": "Ferencvárosi TC",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "József Bencsics",
+          "clubName": "Újpesti Dózsa",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Máté Fenyvesi",
+          "clubName": "Ferencvárosi TC",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "István Ilku",
+          "clubName": "Dorogi Bányász",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "mexico",
+      "name": "México",
+      "flag": "mx",
+      "dt": "Antonio López Herranz",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Antonio Carbajal",
+          "clubName": "León",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jesús del Muro",
+          "clubName": "Atlas",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Jorge Romo",
+          "clubName": "Toluca",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "José Villegas",
+          "clubName": "Guadalajara",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Alfonso Portugal",
+          "clubName": "Necaxa",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Francisco Flores",
+          "clubName": "Guadalajara",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Alfredo Hernández",
+          "clubName": "León",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Salvador Reyes",
+          "clubName": "Guadalajara",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Carlos Calderón de la Barca",
+          "clubName": "Atlante",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Crescencio Gutiérrez",
+          "clubName": "Guadalajara[1]",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Enrique Sesma",
+          "clubName": "Toluca",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Manuel Camacho",
+          "clubName": "Toluca",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Jaime Gómez",
+          "clubName": "Guadalajara",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Miguel Gutiérrez",
+          "clubName": "Atlas",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Guillermo Sepúlveda",
+          "clubName": "Guadalajara",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "José Antonio Roca",
+          "clubName": "Zacatepec",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Raúl Cárdenas",
+          "clubName": "Zacatepec",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Jaime Salazar",
+          "clubName": "Necaxa",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Defensa",
+          "name": "Jaime Belmonte",
+          "clubName": "Cuautla",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Carlos Blanco",
+          "clubName": "Toluca",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Ligorio López",
+          "clubName": "Irapuato",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Carlos González",
+          "clubName": "Atlas",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "name": "Brasil",
+      "flag": "br",
+      "dt": "Vicente Feola",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Castilho",
+          "clubName": "Fluminense",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Hilderaldo Bellini",
+          "clubName": "Vasco da Gama",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Portero",
+          "name": "Gilmar",
+          "clubName": "Corinthians",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Djalma Santos",
+          "clubName": "Portuguesa",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Dino Sani",
+          "clubName": "São Paulo",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Didi",
+          "clubName": "Botafogo",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Mário Zagallo",
+          "clubName": "Flamengo",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Oreco",
+          "clubName": "Corinthians",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Zózimo",
+          "clubName": "Bangu",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Pelé",
+          "clubName": "Santos",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Garrincha",
+          "clubName": "Botafogo",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Nílton Santos",
+          "clubName": "Botafogo",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Centrocampista",
+          "name": "Moacir",
+          "clubName": "Flamengo",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "De Sordi",
+          "clubName": "São Paulo",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Orlando",
+          "clubName": "Vasco da Gama",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Mauro Ramos",
+          "clubName": "São Paulo",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Joel Antônio Martins",
+          "clubName": "Flamengo",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "José Altafini",
+          "clubName": "Palmeiras",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Zito",
+          "clubName": "Santos",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Vavá",
+          "clubName": "Vasco da Gama",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Dida",
+          "clubName": "Flamengo",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Delantero",
+          "name": "Pepe",
+          "clubName": "Santos",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "urs",
+      "name": "Unión Soviética",
+      "flag": "su",
+      "dt": "Gavril Kachalin",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Lev Yashin",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Vladimir Kesarev",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Konstantin Krizhevsky",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Boris Kuznetsov",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Yuri Voinov",
+          "clubName": "Dynamo Kyiv",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Igor Netto",
+          "clubName": "Spartak Moscow",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "German Apukhtin",
+          "clubName": "CSKA Moscow",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Valentin Ivanov",
+          "clubName": "Torpedo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Nikita Simonyan",
+          "clubName": "Spartak Moscow",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Sergei Salnikov",
+          "clubName": "Spartak Moscow",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Anatoli Ilyin",
+          "clubName": "Spartak Moscow",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Vladimir Maslachenko",
+          "clubName": "Lokomotiv Moscow",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Vladimir Belyayev",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Leonid Ostrovskiy",
+          "clubName": "Torpedo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Anatoli Maslyonkin",
+          "clubName": "Spartak Moscow",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Viktor Tsarev",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Aleksandr Ivanov",
+          "clubName": "Zenit Leningrad",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Valentin Bubukin",
+          "clubName": "Lokomotiv Moscow",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Gennadi Gusarov",
+          "clubName": "Torpedo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Yuri Falin",
+          "clubName": "Torpedo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Genrich Fedosov",
+          "clubName": "Dynamo Moscow",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Defensa",
+          "name": "Vladimir Yerokhin",
+          "clubName": "Dynamo Kyiv",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "inglaterra",
+      "name": "Inglaterra",
+      "flag": "gb-eng",
+      "dt": "Walter Winterbottom",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Colin McDonald",
+          "clubName": "Burnley",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Don Howe",
+          "clubName": "West Bromwich Albion",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Tommy Banks",
+          "clubName": "Bolton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Eddie Clamp",
+          "clubName": "Wolverhampton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Billy Wright",
+          "clubName": "Wolverhampton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Bill Slater",
+          "clubName": "Wolverhampton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Bryan Douglas",
+          "clubName": "Blackburn Rovers",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Bobby Robson",
+          "clubName": "West Bromwich Albion",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Derek Kevan",
+          "clubName": "West Bromwich Albion",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Johnny Haynes",
+          "clubName": "Fulham",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Tom Finney",
+          "clubName": "Preston North End",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Eddie Hopkinson",
+          "clubName": "Bolton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Alan Hodgkinson",
+          "clubName": "Sheffield United",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Peter Sillett",
+          "clubName": "Chelsea",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Ronnie Clayton",
+          "clubName": "Blackburn Rovers",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Maurice Norman",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Peter Brabrook",
+          "clubName": "Chelsea",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Peter Broadbent",
+          "clubName": "Wolverhampton Wanderers",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Bobby Smith",
+          "clubName": "Tottenham Hotspur",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Bobby Charlton",
+          "clubName": "Manchester United",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Alan A'Court",
+          "clubName": "Liverpool",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Maurice Setters",
+          "clubName": "West Bromwich Albion",
+          "club": "default"
+        }
+      ]
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "flag": "at",
+      "dt": "Josef Argauer",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Rudolf Szanwald",
+          "clubName": "Wiener SC",
+          "club": "default"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Paul Halla",
+          "clubName": "SK Rapid Wien",
+          "club": "default"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ernst Happel",
+          "clubName": "SK Rapid Wien",
+          "club": "default"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Franz Swoboda",
+          "clubName": "Austria Wien",
+          "club": "default"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Gerhard Hanappi",
+          "clubName": "SK Rapid Wien",
+          "club": "default"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Karl Koller",
+          "clubName": "First Vienna FC",
+          "club": "default"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Walter Horak",
+          "clubName": "Wiener SC",
+          "club": "default"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Paul Kozlicek",
+          "clubName": "Wacker Wien",
+          "club": "default"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hans Buzek",
+          "clubName": "First Vienna FC",
+          "club": "default"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Alfred Körner",
+          "clubName": "SK Rapid Wien",
+          "club": "default"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Helmut Senekowitsch",
+          "clubName": "SK Sturm Graz",
+          "club": "default"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Kurt Schmied",
+          "clubName": "First Vienna FC",
+          "club": "default"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Walter Schleger",
+          "clubName": "Austria Wien",
+          "club": "default"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Josef Hamerl",
+          "clubName": "Wiener SC",
+          "club": "default"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Walter Kollmann",
+          "clubName": "Wacker Wien",
+          "club": "default"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Karl Stotz",
+          "clubName": "Austria Wien",
+          "club": "default"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Ernst Kozlicek",
+          "clubName": "Wacker Wien",
+          "club": "default"
+        },
+        {
+          "no": 18,
+          "pos": "Defensa",
+          "name": "Leopold Barschandt",
+          "clubName": "Wiener SC",
+          "club": "default"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Robert Dienst",
+          "clubName": "SK Rapid Wien",
+          "club": "default"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Herbert Ninaus",
+          "clubName": "Grazer AK",
+          "club": "default"
+        },
+        {
+          "no": 21,
+          "pos": "Centrocampista",
+          "name": "Ignaz Puschnik",
+          "clubName": "Kapfenberger SV",
+          "club": "default"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Bruno Engelmeier",
+          "clubName": "1. Simmeringer SC",
+          "club": "default"
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "1": {
+      "standings": [
+        {
+          "id": "alemania_federal",
+          "team": "Alemania Federal",
+          "flag": "de",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 2,
+          "pp": 0,
+          "gf": 7,
+          "gc": 5
+        },
+        {
+          "id": "irlanda_del_norte",
+          "team": "Irlanda del Norte",
+          "flag": "gb-nir",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 4,
+          "gc": 5
+        },
+        {
+          "id": "checoslovaquia",
+          "team": "Checoslovaquia",
+          "flag": "cz",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 8,
+          "gc": 4
+        },
+        {
+          "id": "argentina",
+          "team": "Argentina",
+          "flag": "ar",
+          "pts": 2,
+          "pj": 3,
+          "pg": 1,
+          "pe": 0,
+          "pp": 2,
+          "gf": 5,
+          "gc": 10
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Alemania Federal",
+          "team2": "Argentina",
+          "score": "3-1",
+          "flag1": "de",
+          "flag2": "ar",
+          "goals1": [
+            "Rahn 32', 79'",
+            "Seeler 42'"
+          ],
+          "goals2": [
+            "Corbatta 3'"
+          ]
+        },
+        {
+          "team1": "Irlanda del Norte",
+          "team2": "Checoslovaquia",
+          "score": "1-0",
+          "flag1": "gb-nir",
+          "flag2": "cz",
+          "goals1": [
+            "Cush 21'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Argentina",
+          "team2": "Irlanda del Norte",
+          "score": "3-1",
+          "flag1": "ar",
+          "flag2": "gb-nir",
+          "goals1": [
+            "Corbatta 37' (p)",
+            "Menéndez 56'",
+            "Avio 60'"
+          ],
+          "goals2": [
+            "McParland 4'"
+          ]
+        },
+        {
+          "team1": "Alemania Federal",
+          "team2": "Checoslovaquia",
+          "score": "2-2",
+          "flag1": "de",
+          "flag2": "cz",
+          "goals1": [
+            "Schäfer 60'",
+            "Rahn 71'"
+          ],
+          "goals2": [
+            "Dvořák 24'",
+            "Zikán 42'"
+          ]
+        },
+        {
+          "team1": "Alemania Federal",
+          "team2": "Irlanda del Norte",
+          "score": "2-2",
+          "flag1": "de",
+          "flag2": "gb-nir",
+          "goals1": [
+            "Rahn 20'",
+            "Seeler 78'"
+          ],
+          "goals2": [
+            "McParland 18', 60'"
+          ]
+        },
+        {
+          "team1": "Checoslovaquia",
+          "team2": "Argentina",
+          "score": "6-1",
+          "flag1": "cz",
+          "flag2": "ar",
+          "goals1": [
+            "Dvořák 8'",
+            "Zikán 17', 39'",
+            "Feureisl 68'",
+            "Hovorka 81', 89'"
+          ],
+          "goals2": [
+            "Corbatta 64' (p)"
+          ]
+        },
+        {
+          "team1": "Irlanda del Norte",
+          "team2": "Checoslovaquia",
+          "score": "2-1",
+          "extraTime": "true",
+          "notes": "Desempate",
+          "flag1": "gb-nir",
+          "flag2": "cz",
+          "goals1": [
+            "McParland 44', 97'"
+          ],
+          "goals2": [
+            "Zikán 18'"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "standings": [
+        {
+          "id": "francia",
+          "team": "Francia",
+          "flag": "fr",
+          "pts": 4,
+          "pj": 3,
+          "pg": 2,
+          "pe": 0,
+          "pp": 1,
+          "gf": 11,
+          "gc": 7
+        },
+        {
+          "id": "yugoslavia",
+          "team": "Yugoslavia",
+          "flag": "yu",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 2,
+          "pp": 0,
+          "gf": 7,
+          "gc": 6
+        },
+        {
+          "id": "paraguay",
+          "team": "Paraguay",
+          "flag": "py",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 9,
+          "gc": 12
+        },
+        {
+          "id": "escocia",
+          "team": "Escocia",
+          "flag": "gb-sct",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 4,
+          "gc": 6
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Francia",
+          "team2": "Paraguay",
+          "score": "7-3",
+          "flag1": "fr",
+          "flag2": "py",
+          "goals1": [
+            "Fontaine 24', 30', 67'",
+            "Piantoni 52'",
+            "Wisnieski 61'",
+            "Kopa 70'",
+            "Vincent 83'"
+          ],
+          "goals2": [
+            "Amarilla 20', 44' (p)",
+            "Romero 50'"
+          ]
+        },
+        {
+          "team1": "Yugoslavia",
+          "team2": "Escocia",
+          "score": "1-1",
+          "flag1": "yu",
+          "flag2": "gb-sct",
+          "goals1": [
+            "Petaković 6'"
+          ],
+          "goals2": [
+            "Murray 49'"
+          ]
+        },
+        {
+          "team1": "Yugoslavia",
+          "team2": "Francia",
+          "score": "3-2",
+          "flag1": "yu",
+          "flag2": "fr",
+          "goals1": [
+            "Petaković 16'",
+            "Veselinović 63', 88'"
+          ],
+          "goals2": [
+            "Fontaine 4', 85'"
+          ]
+        },
+        {
+          "team1": "Paraguay",
+          "team2": "Escocia",
+          "score": "3-2",
+          "flag1": "py",
+          "flag2": "gb-sct",
+          "goals1": [
+            "Agüero 4'",
+            "Ré 45'",
+            "Parodi 73'"
+          ],
+          "goals2": [
+            "Mudie 24'",
+            "Collins 74'"
+          ]
+        },
+        {
+          "team1": "Francia",
+          "team2": "Escocia",
+          "score": "2-1",
+          "flag1": "fr",
+          "flag2": "gb-sct",
+          "goals1": [
+            "Kopa 22'",
+            "Fontaine 44'"
+          ],
+          "goals2": [
+            "Baird 58'"
+          ]
+        },
+        {
+          "team1": "Paraguay",
+          "team2": "Yugoslavia",
+          "score": "3-3",
+          "flag1": "py",
+          "flag2": "yu",
+          "goals1": [
+            "Parodi 20'",
+            "Agüero 52'",
+            "Romero 80'"
+          ],
+          "goals2": [
+            "Ognjanović 18'",
+            "Veselinović 21'",
+            "Rajkov 73'"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "standings": [
+        {
+          "id": "suecia",
+          "team": "Suecia",
+          "flag": "se",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 5,
+          "gc": 1
+        },
+        {
+          "id": "gales",
+          "team": "Gales",
+          "flag": "gb-wls",
+          "pts": 3,
+          "pj": 3,
+          "pg": 0,
+          "pe": 3,
+          "pp": 0,
+          "gf": 2,
+          "gc": 2
+        },
+        {
+          "id": "hungria",
+          "team": "Hungría",
+          "flag": "hu",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 6,
+          "gc": 3
+        },
+        {
+          "id": "mexico",
+          "team": "México",
+          "flag": "mx",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 1,
+          "gc": 8
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Suecia",
+          "team2": "México",
+          "score": "3-0",
+          "flag1": "se",
+          "flag2": "mx",
+          "goals1": [
+            "Simonsson 17', 64'",
+            "Liedholm 57' (p)"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Hungría",
+          "team2": "Gales",
+          "score": "1-1",
+          "flag1": "hu",
+          "flag2": "gb-wls",
+          "goals1": [
+            "Bozsik 5'"
+          ],
+          "goals2": [
+            "J. Charles 27'"
+          ]
+        },
+        {
+          "team1": "México",
+          "team2": "Gales",
+          "score": "1-1",
+          "flag1": "mx",
+          "flag2": "gb-wls",
+          "goals1": [
+            "Belmonte 89'"
+          ],
+          "goals2": [
+            "I. Allchurch 32'"
+          ]
+        },
+        {
+          "team1": "Suecia",
+          "team2": "Hungría",
+          "score": "2-1",
+          "flag1": "se",
+          "flag2": "hu",
+          "goals1": [
+            "Hamrin 34', 55'"
+          ],
+          "goals2": [
+            "Tichy 77'"
+          ]
+        },
+        {
+          "team1": "Suecia",
+          "team2": "Gales",
+          "score": "0-0",
+          "flag1": "se",
+          "flag2": "gb-wls",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "Hungría",
+          "team2": "México",
+          "score": "4-0",
+          "flag1": "hu",
+          "flag2": "mx",
+          "goals1": [
+            "Tichy 19', 46'",
+            "Sándor 54'",
+            "Bencsics 69'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Gales",
+          "team2": "Hungría",
+          "score": "2-1",
+          "notes": "Desempate",
+          "flag1": "gb-wls",
+          "flag2": "hu",
+          "goals1": [
+            "I. Allchurch 55'",
+            "Medwin 76'"
+          ],
+          "goals2": [
+            "Tichy 33'"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "standings": [
+        {
+          "id": "brasil",
+          "team": "Brasil",
+          "flag": "br",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 5,
+          "gc": 0
+        },
+        {
+          "id": "urs",
+          "team": "Unión Soviética",
+          "flag": "su",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 4,
+          "gc": 4
+        },
+        {
+          "id": "inglaterra",
+          "team": "Inglaterra",
+          "flag": "gb-eng",
+          "pts": 3,
+          "pj": 3,
+          "pg": 0,
+          "pe": 3,
+          "pp": 0,
+          "gf": 4,
+          "gc": 4
+        },
+        {
+          "id": "austria",
+          "team": "Austria",
+          "flag": "at",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 2,
+          "gc": 7
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Brasil",
+          "team2": "Austria",
+          "score": "3-0",
+          "flag1": "br",
+          "flag2": "at",
+          "goals1": [
+            "Mazzola 37', 85'",
+            "Nílton Santos 50'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Unión Soviética",
+          "team2": "Inglaterra",
+          "score": "2-2",
+          "flag1": "su",
+          "flag2": "gb-eng",
+          "goals1": [
+            "Simonyan 13'",
+            "A. Ivanov 56'"
+          ],
+          "goals2": [
+            "Kevan 66'",
+            "Finney 85' (p)"
+          ]
+        },
+        {
+          "team1": "Brasil",
+          "team2": "Inglaterra",
+          "score": "0-0",
+          "flag1": "br",
+          "flag2": "gb-eng",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "Unión Soviética",
+          "team2": "Austria",
+          "score": "2-0",
+          "flag1": "su",
+          "flag2": "at",
+          "goals1": [
+            "Ilyin 15'",
+            "V. Ivanov 62'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Brasil",
+          "team2": "Unión Soviética",
+          "score": "2-0",
+          "flag1": "br",
+          "flag2": "su",
+          "goals1": [
+            "Vavá 3', 77'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Inglaterra",
+          "team2": "Austria",
+          "score": "2-2",
+          "flag1": "gb-eng",
+          "flag2": "at",
+          "goals1": [
+            "Haynes 56'",
+            "Kevan 74'"
+          ],
+          "goals2": [
+            "Koller 15'",
+            "Körner 71'"
+          ]
+        },
+        {
+          "team1": "Unión Soviética",
+          "team2": "Inglaterra",
+          "score": "1-0",
+          "notes": "Desempate",
+          "flag1": "su",
+          "flag2": "gb-eng",
+          "goals1": [
+            "Ilyin 69'"
+          ],
+          "goals2": []
+        }
+      ]
+    }
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "team1": "Francia",
+        "team2": "Irlanda del Norte",
+        "score": "4 - 0",
+        "flag1": "fr",
+        "flag2": "gb-nir",
+        "goals1": [
+          "Wisnieski 44'",
+          "Fontaine 55', 63'",
+          "Piantoni 68'"
+        ],
+        "goals2": []
+      },
+      {
+        "team1": "Suecia",
+        "team2": "Unión Soviética",
+        "score": "2 - 0",
+        "flag1": "se",
+        "flag2": "su",
+        "goals1": [
+          "Hamrin 49'",
+          "Simonsson 88'"
+        ],
+        "goals2": []
+      },
+      {
+        "team1": "Brasil",
+        "team2": "Gales",
+        "score": "1 - 0",
+        "flag1": "br",
+        "flag2": "gb-wls",
+        "goals1": [
+          "Pelé 66'"
+        ],
+        "goals2": []
+      },
+      {
+        "team1": "Alemania Federal",
+        "team2": "Yugoslavia",
+        "score": "1 - 0",
+        "flag1": "de",
+        "flag2": "yu",
+        "goals1": [
+          "Rahn 12'"
+        ],
+        "goals2": []
+      }
+    ],
+    "semiFinals": [
+      {
+        "team1": "Brasil",
+        "team2": "Francia",
+        "score": "5 - 2",
+        "flag1": "br",
+        "flag2": "fr",
+        "goals1": [
+          "Vavá 2'",
+          "Didi 39'",
+          "Pelé 52', 64', 75'"
+        ],
+        "goals2": [
+          "Fontaine 9'",
+          "Piantoni 83'"
+        ]
+      },
+      {
+        "team1": "Suecia",
+        "team2": "Alemania Federal",
+        "score": "3 - 1",
+        "flag1": "se",
+        "flag2": "de",
+        "goals1": [
+          "Skoglund 32'",
+          "Gren 81'",
+          "Hamrin 88'"
+        ],
+        "goals2": [
+          "Schäfer 24'"
+        ]
+      }
+    ],
+    "thirdPlace": {
+      "team1": "Francia",
+      "team2": "Alemania Federal",
+      "score": "6 - 3",
+      "flag1": "fr",
+      "flag2": "de",
+      "goals1": [
+        "Fontaine 16', 36', 78', 89'",
+        "Kopa 27' (p)",
+        "Douis 50'"
+      ],
+      "goals2": [
+        "Cieslarczyk 18'",
+        "Rahn 52'",
+        "Schäfer 84'"
+      ]
+    },
+    "final": {
+      "team1": "Brasil",
+      "team2": "Suecia",
+      "score": "5 - 2",
+      "flag1": "br",
+      "flag2": "se",
+      "goals1": [
+        "Vavá 9', 32'",
+        "Pelé 55', 90'",
+        "Zagallo 68'"
+      ],
+      "goals2": [
+        "Liedholm 4'",
+        "Simonsson 80'"
+      ]
+    }
+  },
+  "stats": {
+    "awards": {
+      "goldenBall": {
+        "name": "Didi",
+        "flag": "br"
+      },
+      "silverBall": {
+        "name": "Pelé",
+        "flag": "br"
+      },
+      "bronzeBall": {
+        "name": "Just Fontaine",
+        "flag": "fr"
+      }
+    },
+    "topScorers": [
+      {
+        "name": "Just Fontaine",
+        "flag": "fr",
+        "value": "13 goles"
+      },
+      {
+        "name": "Pelé",
+        "flag": "br",
+        "value": "6 goles"
+      },
+      {
+        "name": "Helmut Rahn",
+        "flag": "de",
+        "value": "6 goles"
+      },
+      {
+        "name": "Vavá",
+        "flag": "br",
+        "value": "5 goles"
+      },
+      {
+        "name": "Peter McParland",
+        "flag": "gb-nir",
+        "value": "5 goles"
+      }
+    ]
+  }
+}

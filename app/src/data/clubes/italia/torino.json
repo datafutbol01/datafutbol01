@@ -1,0 +1,269 @@
+{
+  "id": "torino",
+  "meta": {
+    "slug": "torino"
+  },
+  "datos": {
+    "nombre_completo": "Torino Football Club S.p.A.",
+    "sigla": "TOR",
+    "fundacion": "1906",
+    "apodo": "El Toro, Los Granates",
+    "estadio_actual": "Stadio Olimpico Grande Torino",
+    "estadio_apodo": "Comunale",
+    "estadio_capacidad": 28177,
+    "estadio_inauguracion": "14 de mayo de 1933",
+    "estadio_lat": 45.0433,
+    "estadio_lng": 7.6539,
+    "estadio_direccion": "Via Filadelfia 96/b, 10134 Torino, Piamonte",
+    "socios": 20000,
+    "descripcion_corta": "Entidad de raigambre trabajadora situada en Turín, fundacionalmente ligada a una escisión y recordada por su equipo campeón en los años cuarenta.",
+    "paleta": [
+      {
+        "tag": "Granate",
+        "hex": "#8a1538"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Paolo Pulici (172 goles)",
+      "mas_presencias": "Giorgio Ferrini (566 partidos)",
+      "mayor_goleada": "10-0 vs Alessandria (1948)"
+    },
+    "nombre_oficial": "Torino Football Club",
+    "nombre_corto": "Torino",
+    "escudo_actual": "/escudos_historicos/torino/Torino_FC_logo.svg"
+  },
+  "historia": [
+    {
+      "ano": "1906",
+      "hito": "Alfred Dick y la Gran Escisión en la Voigt",
+      "desc": "Las calles gélidas invernales de Turín y el monopolio administrativo absoluto albergaban tensas rencillas. A fines de 1906, el iracundo magnate y ex presidente de la Juventus, el empresario suizo Alfred Dick, no toleró y se reveló ferozmente al ser derrocado normativamente del control oficial del club piamontés. Arrastrando y llevándose logísticamente a varios jugadores disidentes y uniéndose e instalándose a los ya formados delegados del Football Club Torinese, la gélida y oscura noche fundacional del 3 de diciembre se congregaron de forma clandestina en las atestadas y ruidosas mesas y bancos de madera de la mítica Cervecería Voigt sobre Via Pietro Micca. Allí fundaron orgánicamente de modo oficial el FBC Torino, juramentándose constituir al némesis rebelde cívico y adoptando oficialmente el oscuro color rojo granate extraído ceremonialmente del escudo ducal pasional piamontés."
+    },
+    {
+      "ano": "1928",
+      "hito": "Compilación Primer Logro y Campeo Nato Absoluto Oficial",
+      "desc": "Constituidos orgánicamente mediante acciones y soporte provisto a presidencia de Enrico Marone conformaron línea atacante consolidada internamente base tripartita (Julio Libonatti junto los correspondientes adjuntos) adjudicándose el registro de liga estipulado superando deficiencias normativas pasadas de revocatoria estricta reglamentaria y así convalidar el título histórico primero de la lista local general nacional de su competencia y vitrina."
+    },
+    {
+      "ano": "1949",
+      "hito": "Eventualidad Fatal Directa y Reconocimiento Quíntuple Regular Oficial",
+      "desc": "La obtención documentada y en forma continuada estableciendo periodos con un total cinco marcas logradas continuas ligueras Serie A avalaron registro denominado local el 'Grande Torino'. En circunstancias aéreas del traslado de base oficial retornando por labores en mayo acaeció siniestro documentado conocido técnicamente con un accidente en zona geográfica Superga. La liga documentó la adjudicación final respetiva."
+    },
+    {
+      "ano": "1976",
+      "hito": "Resolución Posterior al Periodo Reestructurativo Tras Perida Larga Nacional",
+      "desc": "Desarrollando normativas tras tres décadas post operativas reorganizadas bajo técnica impuesta interna al mando central a campo del entrenador táctico Luigi Radice junto con el sistema funcional en delanteros Paolo Pulici obtuvieron puntos computados generales válidos suficientes durante campaña oficial ligada restando posición última a su competidor garantizando al listado final su validación formal oficial campeonato ligueros séptimo sumatorio liguero Serie A."
+    },
+    {
+      "ano": "1992",
+      "hito": "Operador Competidor Finalista Regular A Torneo Europa Ámsterdam Regulado",
+      "desc": "Efectuando sumatorias a escala competición dispuesta en Copa organizada nivel normado continente Europa, la alineación operada tácticamente y reglada formal accedió como representante liguera calificada a partido definitivo resolutivo con serie emparejada finalizando contienda oficial de trámite versus sociedad de la región holandes Ajax siendo eliminados de cupo campeonato reglamentado internacional a contienda resolutiva sin adjudicación ganadora resolviendo finalista subcampeón histórico regular oficial europeo estatuario estipulado UEFA regular normado."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadio Olimpico Grande Torino",
+      "capacidad": "28.177",
+      "inauguracion": "14 de mayo de 1933",
+      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Filadelfia%2096%2Fb%2C%2010134%20Torino%2C%20Piamonte",
+      "direccion": "Via Filadelfia 96/b, 10134 Torino, Piamonte",
+      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Comunale."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1906,
+      "hasta": null,
+      "c1": "#870423",
+      "c2": "#870423",
+      "sh": "#ffffff",
+      "me": "#870423",
+      "tipo": "liso",
+      "desc": "Basado y fundamentado logísticamente sobre las asambleas desprendidas de la original turinesa, y como estandarte a banderas suízas o duques históricos emplearon de forma perenne plana una camisa llanamente de textura base granate roja oscura o bordó."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Valentino Mazzola",
+      "periodo": "1942-1949",
+      "pos": "Mediocampista",
+      "desc": "Histórico mediocampista ofensivo y capitán que lideró al fantástico equipo que dominó la liga italiana en la década de 1940."
+    },
+    {
+      "nombre": "Paolo Pulici",
+      "periodo": "1967-1982",
+      "pos": "Delantero",
+      "desc": "Reconocido atacante del elenco. Se estableció como titular indiscutido para convertirse en el máximo artillero de la historia del club."
+    },
+    {
+      "nombre": "Giorgio Ferrini",
+      "periodo": "1959-1975",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista de quite defensivo que disputó toda su extensa carrera profesional en el club. Posee el récord de mayor cantidad absoluta de presencias."
+    },
+    {
+      "nombre": "Claudio Sala",
+      "periodo": "1969-1980",
+      "pos": "Mediocampista",
+      "desc": "Creativo delantero asistente que garantizó certeros pases para los delanteros estrellas del club obteniendo el campeonato inicial de los años 70."
+    },
+    {
+      "nombre": "Andrea Belotti",
+      "periodo": "2015-2022",
+      "pos": "Delantero",
+      "desc": "Vigoroso delantero centro de la era moderna. Superó tranquilamente la línea de cien tantos en el equipo asumiendo capitanías a lo largo de torneos recientes."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Paolo Pulici",
+      "goles": 172,
+      "periodo": "1967-1982",
+      "partidos": 437,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 172 goles en competiciones oficiales durante su trayectoria en el equipo entre 1967-1982."
+    },
+    {
+      "nombre": "Julio Libonatti",
+      "goles": 150,
+      "periodo": "1925-1934",
+      "partidos": 241,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 150 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1934."
+    },
+    {
+      "nombre": "Gino Rossetti",
+      "goles": 144,
+      "periodo": "1926-1933",
+      "partidos": 219,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 144 goles en competiciones oficiales durante su trayectoria en el equipo entre 1926-1933."
+    },
+    {
+      "nombre": "Guglielmo Gabetto",
+      "goles": 127,
+      "periodo": "1941-1949",
+      "partidos": 219,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 127 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1949."
+    },
+    {
+      "nombre": "Marco Ferrante",
+      "goles": 125,
+      "periodo": "1996-2004",
+      "partidos": 251,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 125 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2004."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Giorgio Ferrini",
+      "partidos": 566,
+      "periodo": "1959-1975",
+      "goles": 56,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 566 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1975."
+    },
+    {
+      "nombre": "Paolo Pulici",
+      "partidos": 437,
+      "periodo": "1967-1982",
+      "goles": 172,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 437 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1982."
+    },
+    {
+      "nombre": "Renato Zaccarelli",
+      "partidos": 413,
+      "periodo": "1974-1987",
+      "goles": 22,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 413 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1987."
+    },
+    {
+      "nombre": "Claudio Sala",
+      "partidos": 360,
+      "periodo": "1969-1980",
+      "goles": 33,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 360 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1980."
+    },
+    {
+      "nombre": "Lido Vieri",
+      "partidos": 357,
+      "periodo": "1958-1969",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 357 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1958-1969."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie A",
+      "cantidad": 7,
+      "anios": [
+        "1927-28",
+        "1942-43",
+        "1945-46",
+        "1946-47",
+        "1947-48",
+        "1948-49",
+        "1975-76"
+      ]
+    },
+    {
+      "nombre": "Coppa Italia",
+      "cantidad": 5,
+      "anios": [
+        "1935-36",
+        "1942-43",
+        "1967-68",
+        "1970-71",
+        "1992-93"
+      ]
+    },
+    {
+      "nombre": "Serie B",
+      "cantidad": 3,
+      "anios": [
+        "1959-60",
+        "1989-90",
+        "2000-01"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1910s",
+      "url": "/escudos_historicos/torino/D20f5e054b7d238c85dd8e705aaf6ba5.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/torino/Ac-torino-old-1.webp"
+    },
+    {
+      "ano": "1920s",
+      "url": "/escudos_historicos/torino/Torino_Calcio.webp"
+    },
+    {
+      "ano": "1930s",
+      "url": "/escudos_historicos/torino/Ac-torino-old-3-alt.webp"
+    },
+    {
+      "ano": "1940s",
+      "url": "/escudos_historicos/torino/Ac-torino-old-4.webp"
+    },
+    {
+      "ano": "1983-1990",
+      "url": "/escudos_historicos/torino/Torino_FC_1906_1983-1990.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/torino/Torino_FC_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Il Toro",
+      "origen": "Apuntado como fiera efigie deportiva identitaria oficializando llanamente los firmes anclajes heráldicos dictaminados para acoplarse y emular textualmente por medio civil fáctico los escudos históricos propios propios e inamovibles estipulados y registrados en el corazón civil e institucional de los estatutos del municipio decimonónico local e imperecedero de la propia urbe capitalina de Turín."
+    },
+    {
+      "apodo": "I Granata",
+      "origen": "Asignación visual inquebrantable instituida según referidas y masivas leyendas crónicas linderas piamontesas estipuladas con el único de los e rigurosos propósitos de unificar cívica y estatutariamente a sus precursores iniciales. Adjudicaron como lícito honor inamovible fáctico adoptar por uniforme el color liso carmesí e imitando a los estandartes manchados valientemente en sangre tras rudas contiendas locales piemontesas del ducado y monarquías históricas de la noble Saboya."
+    }
+  ]
+}

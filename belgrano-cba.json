@@ -1,0 +1,34 @@
+{
+  "id": "belgrano-cba",
+  "datos": {
+    "nombre_oficial": "Club Atlético Belgrano",
+    "nombre_corto": "Belgrano",
+    "apodos": [
+      "El Pirata",
+      "El Pirata Corsario"
+    ],
+    "fundacion": "1905-09-04",
+    "ciudad": "Córdoba",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Julio César Villagra",
+    "estadio_capacidad": 32000,
+    "estadio_lat": -31.3987,
+    "estadio_lng": -64.1823,
+    "debut_primera": 1941
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#003DA5",
+        "#FFFFFF"
+      ],
+      "diseno": "mitades_verticales"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

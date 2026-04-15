@@ -1,0 +1,5122 @@
+{
+  "year": 1994,
+  "cup": "Champions League",
+  "participants": [
+    {
+      "id": "milan",
+      "name": "AC Milan",
+      "country": "it",
+      "dt": "Fabio Capello",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Sebastiano Rossi",
+          "flag": "it"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Mauro Tassotti",
+          "flag": "it"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Christian Panucci",
+          "flag": "it"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Demetrio Albertini",
+          "flag": "it"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Filippo Galli",
+          "flag": "it"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Paolo Maldini",
+          "flag": "it"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Roberto Donadoni",
+          "flag": "it"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Marcel Desailly",
+          "flag": "fr"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Zvonimir Boban",
+          "flag": "hr"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Dejan Savićević",
+          "flag": "yu"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Daniele Massaro",
+          "flag": "it"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Mario Ielpo",
+          "flag": "it"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Stefano Nava",
+          "flag": "it"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Angelo Carbone",
+          "flag": "it"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Gianluigi Lentini",
+          "flag": "it"
+        },
+        {
+          "no": 24,
+          "pos": "Centrocampista",
+          "name": "Stefano Eranio",
+          "flag": "it"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Franco Baresi",
+          "flag": "it"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Alessandro Costacurta",
+          "flag": "it"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Jean-Pierre Papin",
+          "flag": "fr"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Marco van Basten",
+          "flag": "nl"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Brian Laudrup",
+          "flag": "dk"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Florin Răducioiu",
+          "flag": "ro"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Fernando De Napoli",
+          "flag": "it"
+        },
+        {
+          "no": 23,
+          "pos": "Defensa",
+          "name": "Alessandro Orlando",
+          "flag": "it"
+        },
+        {
+          "no": 25,
+          "pos": "Portero",
+          "name": "Francesco Antonioli",
+          "flag": "it"
+        }
+      ]
+    },
+    {
+      "id": "barcelona",
+      "name": "FC Barcelona",
+      "country": "es",
+      "dt": "Johan Cruyff",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Andoni Zubizarreta",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Albert Ferrer",
+          "flag": "es"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Pep Guardiola",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ronald Koeman",
+          "flag": "nl"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Miguel Ángel Nadal",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "José Mari Bakero",
+          "flag": "es"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Sergi Barjuán",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Hristo Stoichkov",
+          "flag": "bg"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Guillermo Amor",
+          "flag": "es"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Romário",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Txiki Begiristain",
+          "flag": "es"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Juan Carlos Rodríguez",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Carles Busquets",
+          "flag": "es"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Eusebio Sacristán",
+          "flag": "es"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Jon Andoni Goikoetxea",
+          "flag": "es"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Iván Iglesias",
+          "flag": "es"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Michael Laudrup",
+          "flag": "dk"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Julio Salinas",
+          "flag": "es"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Óscar García",
+          "flag": "es"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Quique Estebaranz",
+          "flag": "es"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Lluís Carreras",
+          "flag": "es"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Goran Vučević",
+          "flag": "hr"
+        },
+        {
+          "no": 23,
+          "pos": "Portero",
+          "name": "Jesús Angoy",
+          "flag": "es"
+        }
+      ]
+    },
+    {
+      "id": "porto",
+      "name": "FC Porto",
+      "country": "pt",
+      "dt": "Bobby Robson",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Vítor Baía",
+          "flag": "pt"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "João Pinto",
+          "flag": "pt"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Rui Jorge",
+          "flag": "pt"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Aloísio",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Fernando Couto",
+          "flag": "pt"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Carlos Secretário",
+          "flag": "pt"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Ljubinko Drulović",
+          "flag": "yu"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Rui Barros",
+          "flag": "pt"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Domingos Paciência",
+          "flag": "pt"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "António André",
+          "flag": "pt"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Emil Kostadinov",
+          "flag": "bg"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Cândido Rego",
+          "flag": "pt"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Jorge Costa",
+          "flag": "pt"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Paulinho Santos",
+          "flag": "pt"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Vítor Paneira",
+          "flag": "pt"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "António Folha",
+          "flag": "pt"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Rui Filipe",
+          "flag": "pt"
+        },
+        {
+          "no": 18,
+          "pos": "Defensa",
+          "name": "Bandeirinha",
+          "flag": "pt"
+        },
+        {
+          "no": 19,
+          "pos": "Defensa",
+          "name": "Zé Carlos",
+          "flag": "pt"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "Ion Timofte",
+          "flag": "ro"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Vinha",
+          "flag": "pt"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Jorge Couto",
+          "flag": "pt"
+        }
+      ]
+    },
+    {
+      "id": "monaco",
+      "name": "AS Monaco",
+      "country": "fr",
+      "dt": "Arsène Wenger",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Jean-Luc Ettori",
+          "flag": "fr"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Patrick Valéry",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Luc Sonor",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Emmanuel Petit",
+          "flag": "fr"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Franck Dumas",
+          "flag": "fr"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Claude Puel",
+          "flag": "fr"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Jérôme Gnako",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Enzo Scifo",
+          "flag": "be"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Jürgen Klinsmann",
+          "flag": "de"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Youri Djorkaeff",
+          "flag": "fr"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Victor Ikpeba",
+          "flag": "ng"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Stéphane Porato",
+          "flag": "fr"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Lilian Thuram",
+          "flag": "fr"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Sylvain Legwinski",
+          "flag": "fr"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Gilles Grimandi",
+          "flag": "fr"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Mickaël Madar",
+          "flag": "fr"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Manuel Dos Santos",
+          "flag": "fr"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Laurent Viaud",
+          "flag": "fr"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Amara Simba",
+          "flag": "fr"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Dan Petersen",
+          "flag": "dk"
+        }
+      ]
+    },
+    {
+      "id": "werder-bremen",
+      "name": "Werder Bremen",
+      "country": "de",
+      "dt": "Otto Rehhagel",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Oliver Reck",
+          "flag": "de"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Thomas Wolter",
+          "flag": "de"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Rune Bratseth",
+          "flag": "no"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Dietmar Beiersdorfer",
+          "flag": "de"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Mirko Votava",
+          "flag": "de"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Dieter Eilts",
+          "flag": "de"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Marco Bode",
+          "flag": "de"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Mario Basler",
+          "flag": "de"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Bernd Hobsch",
+          "flag": "de"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Andi Herzog",
+          "flag": "at"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Wynton Rufer",
+          "flag": "nz"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Hans-Jürgen Gundelach",
+          "flag": "de"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Uli Borowka",
+          "flag": "de"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Thorsten Legat",
+          "flag": "de"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Frank Neubarth",
+          "flag": "de"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Frank Rufer",
+          "flag": "de"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Thomas Schaaf",
+          "flag": "de"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Frank Ordenewitz",
+          "flag": "de"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Lars Unger",
+          "flag": "de"
+        }
+      ]
+    },
+    {
+      "id": "anderlecht",
+      "name": "Anderlecht",
+      "country": "be",
+      "dt": "Johan Boskamp",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Filip De Wilde",
+          "flag": "be"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Bertrand Crasson",
+          "flag": "be"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Graeme Rutjes",
+          "flag": "nl"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Philippe Albert",
+          "flag": "be"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Michel De Wolf",
+          "flag": "be"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Pär Zetterberg",
+          "flag": "se"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Bruno Versavel",
+          "flag": "be"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Johan Walem",
+          "flag": "be"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Luc Nilis",
+          "flag": "be"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Danny Boffin",
+          "flag": "be"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "John Bosman",
+          "flag": "nl"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Marc Degryse",
+          "flag": "be"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Charly Musonda",
+          "flag": "zm"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Yaw Preko",
+          "flag": "gh"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Philip Osondu",
+          "flag": "ng"
+        }
+      ]
+    },
+    {
+      "id": "spartak_moscow",
+      "name": "Spartak Moscow",
+      "country": "ru",
+      "dt": "Oleg Romantsev",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Gintaras Staučė",
+          "flag": "lt"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Dmitri Khlestov",
+          "flag": "ru"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Yuriy Nikiforov",
+          "flag": "ru"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Ilya Tsymbalar",
+          "flag": "ru"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Ramiz Mamedov",
+          "flag": "ru"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Valery Karpin",
+          "flag": "ru"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Viktor Onopko",
+          "flag": "ru"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Andrey Pyatnitsky",
+          "flag": "ru"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Nikolai Pisarev",
+          "flag": "ru"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Vladimir Beschastnykh",
+          "flag": "ru"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Dmitri Alenichev",
+          "flag": "ru"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Andrey Tikhonov",
+          "flag": "ru"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Mukhsin Mukhamadiev",
+          "flag": "tj"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Igor Lediakhov",
+          "flag": "ru"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Valery Kechinov",
+          "flag": "ru"
+        }
+      ]
+    },
+    {
+      "id": "galatasaray",
+      "name": "Galatasaray",
+      "country": "tr",
+      "dt": "Reiner Hollmann",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Hayrettin Demirbaş",
+          "flag": "tr"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Bülent Korkmaz",
+          "flag": "tr"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Hakan Ünsal",
+          "flag": "tr"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Falko Götz",
+          "flag": "de"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Mert Korkmaz",
+          "flag": "tr"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Tugay Kerimoğlu",
+          "flag": "tr"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Uğur Tütüneker",
+          "flag": "tr"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Hamza Hamzaoğlu",
+          "flag": "tr"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hakan Şükür",
+          "flag": "tr"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Suat Kaya",
+          "flag": "tr"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Arif Erdem",
+          "flag": "tr"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Okan Buruk",
+          "flag": "tr"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Kubilay Türkyılmaz",
+          "flag": "ch"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Yusuf Altıntaş",
+          "flag": "tr"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Ergün Penbe",
+          "flag": "tr"
+        }
+      ]
+    },
+    {
+      "id": "manchester-united",
+      "name": "Manchester United",
+      "country": "gb-eng",
+      "flag": "gb-eng",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Peter Schmeichel",
+          "flag": "dk"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Gary Walsh",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 25,
+          "pos": "Portero",
+          "name": "Les Sealey",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Paul Parker",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Denis Irwin",
+          "flag": "ie"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Steve Bruce",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Gary Pallister",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Lee Martin",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Clayton Blackmore",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Paul Ince",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Brian McClair",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Ryan Giggs",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Bryan Robson",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Andrei Kanchelskis",
+          "flag": "ru"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Roy Keane",
+          "flag": "ie"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Darren Ferguson",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Nicky Butt",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Eric Cantona",
+          "flag": "fr"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Mark Hughes",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Lee Sharpe",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Dion Dublin",
+          "flag": "gb-eng"
+        }
+      ]
+    },
+    {
+      "id": "rangers",
+      "name": "Rangers FC",
+      "escudo": "/escudos/rangers.png",
+      "country": "gb-sct",
+      "flag": "gb-sct",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Andy Goram",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Ally Maxwell",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Colin Scott",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Richard Gough",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Dave McPherson",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "John Brown",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Oleh Kuznetsov",
+          "flag": "ua"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Craig Moore",
+          "flag": "au"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Steven Pressley",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "David Robertson",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Gary Stevens",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Chris Vinnicombe",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 18,
+          "pos": "Defensa",
+          "name": "Fraser Wishart",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Ian Durrant",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Ian Ferguson",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "David Hagen",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Pieter Huistra",
+          "flag": "nl"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Stuart McCall",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "Charlie Miller",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 21,
+          "pos": "Centrocampista",
+          "name": "Neil Murray",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Oleksiy Mykhaylychenko",
+          "flag": "ua"
+        },
+        {
+          "no": 23,
+          "pos": "Centrocampista",
+          "name": "Trevor Steven",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Mark Hateley",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 24,
+          "pos": "Delantero",
+          "name": "Ally McCoist",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 25,
+          "pos": "Delantero",
+          "name": "Gordon Durie",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 26,
+          "pos": "Delantero",
+          "name": "Duncan Ferguson",
+          "flag": "gb-sct"
+        }
+      ]
+    },
+    {
+      "id": "dynamo_kyiv",
+      "name": "Dynamo Kyiv",
+      "country": "ua",
+      "flag": "ua",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ihor Kutepov",
+          "flag": "ua"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Oleksandr Shovkovskyi",
+          "flag": "ua"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Oleh Luzhnyi",
+          "flag": "ua"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Serhiy Shmatovalenko",
+          "flag": "ua"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Vladyslav Vashchuk",
+          "flag": "ua"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Andriy Khomyn",
+          "flag": "ua"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Yuriy Dmytrulin",
+          "flag": "ua"
+        },
+        {
+          "no": 8,
+          "pos": "Defensa",
+          "name": "Anatoliy Bezsmertnyi",
+          "flag": "ua"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Serhiy Mizin",
+          "flag": "ua"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Yuriy Maksymov",
+          "flag": "ua"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Vitaliy Kosovskyi",
+          "flag": "ua"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Pavel Shkapenko",
+          "flag": "ua"
+        },
+        {
+          "no": 13,
+          "pos": "Centrocampista",
+          "name": "Dmytro Topchiyev",
+          "flag": "ua"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Andriy Zavialov",
+          "flag": "ua"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Serhiy Kovalets",
+          "flag": "ua"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Viktor Leonenko",
+          "flag": "ua"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Serhiy Rebrov",
+          "flag": "ua"
+        }
+      ]
+    },
+    {
+      "id": "feyenoord",
+      "name": "Feyenoord",
+      "country": "nl",
+      "flag": "nl",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ed de Goey",
+          "flag": "nl"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Rob van Dijk",
+          "flag": "nl"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "John de Wolf",
+          "flag": "nl"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ulrich van Gobbel",
+          "flag": "nl"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Ruud Heus",
+          "flag": "nl"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Errol Refos",
+          "flag": "sr"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Henk Fraser",
+          "flag": "nl"
+        },
+        {
+          "no": 8,
+          "pos": "Defensa",
+          "name": "Harvey Esajas",
+          "flag": "nl"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Peter Bosz",
+          "flag": "nl"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Rob Witschge",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Gaston Taument",
+          "flag": "nl"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Arnold Scholten",
+          "flag": "nl"
+        },
+        {
+          "no": 13,
+          "pos": "Centrocampista",
+          "name": "Dean Gorre",
+          "flag": "sr"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Orlando Trustfull",
+          "flag": "nl"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Regi Blinker",
+          "flag": "sr"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "John van Loen",
+          "flag": "nl"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Mike Obiku",
+          "flag": "ng"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Henrik Larsson",
+          "flag": "se"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Jozsef Kiprich",
+          "flag": "hu"
+        }
+      ]
+    },
+    {
+      "id": "sparta_praha",
+      "name": "Sparta Praha",
+      "country": "cz",
+      "flag": "cz",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Petr Kouba",
+          "flag": "cz"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Milan Sova",
+          "flag": "cz"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Michal Horňák",
+          "flag": "cz"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jiří Novotný",
+          "flag": "cz"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Tomáš Votava",
+          "flag": "cz"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Jan Sopko",
+          "flag": "cz"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Pavel Nedvěd",
+          "flag": "cz"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Martin Frýdek",
+          "flag": "cz"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Zdeněk Svoboda",
+          "flag": "cz"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Lumír Mistr",
+          "flag": "cz"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Roman Vonášek",
+          "flag": "cz"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Horst Siegl",
+          "flag": "cz"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Viktor Dvirnyk",
+          "flag": "ua"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Josef Obajdin",
+          "flag": "cz"
+        }
+      ]
+    },
+    {
+      "id": "levski_sofia",
+      "name": "Levski Sofia",
+      "country": "bg",
+      "flag": "bg",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Plamen Nikolov",
+          "flag": "bg"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Emil Kremenliev",
+          "flag": "bg"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Tsanko Tsvetanov",
+          "flag": "bg"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Gosho Ginchev",
+          "flag": "bg"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Valentin Dartilov",
+          "flag": "bg"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Zlatko Yankov",
+          "flag": "bg"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Daniel Borimirov",
+          "flag": "bg"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Ilian Iliev",
+          "flag": "bg"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Georgi Slavchev",
+          "flag": "bg"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Nasko Sirakov",
+          "flag": "bg"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Petar Aleksandrov",
+          "flag": "bg"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Velko Yotov",
+          "flag": "bg"
+        }
+      ]
+    },
+    {
+      "id": "steaua",
+      "name": "Steaua București",
+      "country": "ro",
+      "flag": "ro",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Dumitru Stângaciu",
+          "flag": "ro"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Daniel Gherasim",
+          "flag": "ro"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Dan Petrescu",
+          "flag": "ro"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Daniel Prodan",
+          "flag": "ro"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Anton Doboș",
+          "flag": "ro"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Iulian Filipescu",
+          "flag": "ro"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Cornel Mirea",
+          "flag": "ro"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Constantin Gâlcă",
+          "flag": "ro"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Basarab Panduru",
+          "flag": "ro"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ilie Dumitrescu",
+          "flag": "ro"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Ion Vlădoiu",
+          "flag": "ro"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Ilie Stan",
+          "flag": "ro"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Marius Lăcătuș",
+          "flag": "ro"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Adrian Ilie",
+          "flag": "ro"
+        }
+      ]
+    },
+    {
+      "id": "dinamo_zagreb",
+      "name": "Croatia Zagreb",
+      "country": "hr",
+      "flag": "hr",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Dražen Ladić",
+          "flag": "hr"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Miralem Ibrahimović",
+          "flag": "ba"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Goran Jurić",
+          "flag": "hr"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Zoran Mamić",
+          "flag": "hr"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Damir Lesjak",
+          "flag": "hr"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Dario Šimić",
+          "flag": "hr"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Sejad Halilović",
+          "flag": "ba"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Josip Gašpar",
+          "flag": "hr"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Edin Mujčin",
+          "flag": "ba"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Mario Stanić",
+          "flag": "hr"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Igor Cvitanović",
+          "flag": "hr"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Goran Vlaović",
+          "flag": "hr"
+        }
+      ]
+    },
+    {
+      "id": "aarau",
+      "name": "FC Aarau",
+      "country": "ch",
+      "flag": "ch",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Andreas Hilfiker",
+          "flag": "ch"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Mirco Pavlicevic",
+          "flag": "ch"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Bernd Kilian",
+          "flag": "de"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Thomas Wyss",
+          "flag": "ch"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Roberto Di Matteo",
+          "flag": "it"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "René Weiler",
+          "flag": "ch"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Ratinho",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Alain Sutter",
+          "flag": "ch"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Petar Aleksandrov",
+          "flag": "bg"
+        }
+      ]
+    },
+    {
+      "id": "aek",
+      "name": "AEK Athens",
+      "country": "gr",
+      "flag": "gr",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ilias Atmatsidis",
+          "flag": "gr"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Michalis Kasapis",
+          "flag": "gr"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Vaios Karagiannis",
+          "flag": "gr"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Stelios Manolas",
+          "flag": "gr"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Refik Šabanadžović",
+          "flag": "ba"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Toni Savevski",
+          "flag": "mk"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Vassilis Tsiartas",
+          "flag": "gr"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Alexis Alexandris",
+          "flag": "gr"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Christos Kostis",
+          "flag": "gr"
+        }
+      ]
+    },
+    {
+      "id": "aik",
+      "name": "AIK",
+      "country": "se",
+      "flag": "se",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Magnus Hedman",
+          "flag": "se"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Gary Sundgren",
+          "flag": "se"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Johan Mjällby",
+          "flag": "se"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Peter Larsson",
+          "flag": "se"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Krister Nordin",
+          "flag": "se"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Thomas Lagerlöf",
+          "flag": "se"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Vadym Yevtushenko",
+          "flag": "ua"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Jesper Jansson",
+          "flag": "se"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Dick Lidman",
+          "flag": "se"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Pascal Simpson",
+          "flag": "se"
+        }
+      ]
+    },
+    {
+      "id": "austria_wien",
+      "name": "Austria Wien",
+      "country": "at",
+      "flag": "at",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Franz Wohlfahrt",
+          "flag": "at"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Anton Pfeffer",
+          "flag": "at"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Manfred Zsak",
+          "flag": "at"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Michael Baur",
+          "flag": "at"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Christian Prosenik",
+          "flag": "at"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Peter Stöger",
+          "flag": "at"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Thomas Flögel",
+          "flag": "at"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Arminas Narbekovas",
+          "flag": "lt"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Valdas Ivanauskas",
+          "flag": "lt"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Ralph Hasenhüttl",
+          "flag": "at"
+        }
+      ]
+    },
+    {
+      "id": "beitar_jerusalem",
+      "name": "Beitar Jerusalem",
+      "country": "il",
+      "flag": "il",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Defensa",
+          "name": "Sergey Tretyak",
+          "flag": "ua"
+        },
+        {
+          "no": 2,
+          "pos": "Centrocampista",
+          "name": "Yaakov Schwartz",
+          "flag": "il"
+        },
+        {
+          "no": 3,
+          "pos": "Centrocampista",
+          "name": "Vladimir Grechnyov",
+          "flag": "ru"
+        },
+        {
+          "no": 4,
+          "pos": "Delantero",
+          "name": "Eli Ohana",
+          "flag": "il"
+        },
+        {
+          "no": 5,
+          "pos": "Delantero",
+          "name": "Ronen Harazi",
+          "flag": "il"
+        }
+      ]
+    },
+    {
+      "id": "copenhagen",
+      "name": "F.C. Copenhagen",
+      "country": "dk",
+      "flag": "dk",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Palle Petersen",
+          "flag": "dk"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Kenneth Wegner",
+          "flag": "dk"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Diego Tur",
+          "flag": "dk"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Henrik Lykke",
+          "flag": "dk"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Lars Højer Nielsen",
+          "flag": "dk"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Christian Falch",
+          "flag": "dk"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Jørgen Juul Jensen",
+          "flag": "dk"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Iørn Uldbjerg",
+          "flag": "dk"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Michael Mio Nielsen",
+          "flag": "dk"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Michael Manniche",
+          "flag": "dk"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Martin Johansen",
+          "flag": "dk"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Brian Kaus",
+          "flag": "dk"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Peter Møller",
+          "flag": "dk"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Michael Johansen",
+          "flag": "dk"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Kim Mikkelsen",
+          "flag": "dk"
+        }
+      ]
+    },
+    {
+      "id": "hjk",
+      "name": "HJK Helsinki",
+      "country": "fi",
+      "flag": "fi",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Antti Niemi",
+          "flag": "fi"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Aki Hyryläinen",
+          "flag": "fi"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Markku Kanerva",
+          "flag": "fi"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Rami Nieminen",
+          "flag": "fi"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Sami Ylä-Jussila",
+          "flag": "fi"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Tommi Grönlund",
+          "flag": "fi"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Ismo Lius",
+          "flag": "fi"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Jari Vanhala",
+          "flag": "fi"
+        }
+      ]
+    },
+    {
+      "id": "rosenborg",
+      "name": "Rosenborg",
+      "country": "no",
+      "flag": "no",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ola By Rise",
+          "flag": "no"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Jørn Jamtfall",
+          "flag": "no"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Bjørn Otto Bragstad",
+          "flag": "no"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Stig Inge Bjørnebye",
+          "flag": "no"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Rune Tangen",
+          "flag": "no"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Roar Strand",
+          "flag": "no"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Kåre Ingebrigtsen",
+          "flag": "no"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Bent Skammelsrud",
+          "flag": "no"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Karl Petter Løken",
+          "flag": "no"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Øyvind Leonhardsen",
+          "flag": "no"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Trond Egil Soltvedt",
+          "flag": "no"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Tore André Dahlum",
+          "flag": "no"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Gøran Sørloth",
+          "flag": "no"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Vidar Riseth",
+          "flag": "no"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Tom Kåre Staurvik",
+          "flag": "no"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Tormod Henriksen",
+          "flag": "no"
+        }
+      ]
+    },
+    {
+      "id": "skonto",
+      "name": "Skonto FC",
+      "country": "lv",
+      "flag": "lv",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Oļegs Karavajevs",
+          "flag": "lv"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Mihails Zemļinskis",
+          "flag": "lv"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Igors Stepanovs",
+          "flag": "lv"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Vitālijs Astafjevs",
+          "flag": "lv"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Vladimirs Babičevs",
+          "flag": "lv"
+        },
+        {
+          "no": 6,
+          "pos": "Delantero",
+          "name": "Marians Pahars",
+          "flag": "lv"
+        }
+      ]
+    },
+    {
+      "id": "honved",
+      "name": "Budapest Honvéd",
+      "country": "hu",
+      "flag": "hu",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Centrocampista",
+          "name": "István Kozma",
+          "flag": "hu"
+        },
+        {
+          "no": 2,
+          "pos": "Centrocampista",
+          "name": "István Pisont",
+          "flag": "hu"
+        }
+      ]
+    },
+    {
+      "id": "dinamo_minsk",
+      "name": "Dinamo-Minsk",
+      "country": "by",
+      "flag": "by",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Andrei Satsunkevich",
+          "flag": "by"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Gennady Tumilovich",
+          "flag": "by"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Aleksandr Lukhvich",
+          "flag": "by"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Sergei Kashentsev",
+          "flag": "by"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Sergey Yakhimovich",
+          "flag": "by"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Aleksandr Taikov",
+          "flag": "by"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Andrei Ostrovski",
+          "flag": "by"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Yuri Zhuravel",
+          "flag": "by"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Mikhail Smirnov",
+          "flag": "by"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Sergey Gerasimets",
+          "flag": "by"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Aleksandr Khatskevich",
+          "flag": "by"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Valyantsin Byalkevich",
+          "flag": "by"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Oleg Chernyavski",
+          "flag": "by"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Valery Velichko",
+          "flag": "by"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Yuriy Shukanov",
+          "flag": "by"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Oleg Putilo",
+          "flag": "by"
+        }
+      ]
+    },
+    {
+      "id": "dinamo_tbilisi",
+      "name": "Dinamo Tbilisi",
+      "country": "ge",
+      "flag": "ge",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Irakli Zoidze",
+          "flag": "ge"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Kakhaber Tskhadadze",
+          "flag": "ge"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Levan Kobiashvili",
+          "flag": "ge"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Gela Inalishvili",
+          "flag": "ge"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Giorgi Nemsadze",
+          "flag": "ge"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Gocha Jamarauli",
+          "flag": "ge"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Georgi Kinkladze",
+          "flag": "ge"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Mikhail Kavelashvili",
+          "flag": "ge"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Shota Arveladze",
+          "flag": "ge"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Revaz Arveladze",
+          "flag": "ge"
+        }
+      ]
+    },
+    {
+      "id": "olimpija_ljubljana",
+      "name": "Olimpija Ljubljana",
+      "country": "si",
+      "flag": "si",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Centrocampista",
+          "name": "Džoni Novak",
+          "flag": "si"
+        },
+        {
+          "no": 2,
+          "pos": "Delantero",
+          "name": "Ermin Šiljak",
+          "flag": "si"
+        }
+      ]
+    },
+    {
+      "id": "ia_akranes",
+      "name": "ÍA",
+      "country": "is",
+      "flag": "is",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Kristján Finnbogi Finnbogason",
+          "flag": "is"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Sturlaugur Haraldsson",
+          "flag": "is"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ólafur Thórdarson",
+          "flag": "is"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Luca Lúkas Kostić",
+          "flag": "rs"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Ólafur Adolfsson",
+          "flag": "is"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Sigursteinn Gíslason",
+          "flag": "is"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Alexander Högnason",
+          "flag": "is"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Haraldur Ingólfsson",
+          "flag": "is"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Sigurdur Jónsson",
+          "flag": "is"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Thórdur Gudjónsson",
+          "flag": "is"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Mihajlo Bibercic",
+          "flag": "rs"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Theodór Hervarsson",
+          "flag": "is"
+        }
+      ]
+    },
+    {
+      "id": "ekranas",
+      "name": "Ekranas",
+      "country": "lt",
+      "flag": "lt",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Arvydas Skrupskis",
+          "flag": "lt"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Audrius Banevičius",
+          "flag": "lt"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Andrius Staliūnas",
+          "flag": "lt"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Raimondas Petrukaitis",
+          "flag": "lt"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Darius Butkus",
+          "flag": "lt"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Kęstutis Aleksandravičius",
+          "flag": "lt"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Albertas Klimavičius",
+          "flag": "lt"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Linas Niurka",
+          "flag": "lt"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Irmantas Stumbrys",
+          "flag": "lt"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Vytautas Apanavičius",
+          "flag": "lt"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Vaidotas Šlekys",
+          "flag": "lt"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Egidijus Juzėnas",
+          "flag": "lt"
+        }
+      ]
+    },
+    {
+      "id": "omonia",
+      "name": "Omonia",
+      "country": "cy",
+      "flag": "cy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Andreas Charitou",
+          "flag": "cy"
+        },
+        {
+          "no": 2,
+          "pos": "Portero",
+          "name": "Christos Christou",
+          "flag": "cy"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Kostakis Konstantinou",
+          "flag": "cy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Evagoras Christofi",
+          "flag": "cy"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Georgios Christodoulou",
+          "flag": "cy"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Panikos Xiouroupas",
+          "flag": "cy"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Davit Kizilashvili",
+          "flag": "ge"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Nedim Tutic",
+          "flag": "ba"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Gocha Gogrichiani",
+          "flag": "ge"
+        },
+        {
+          "no": 10,
+          "pos": "Defensa",
+          "name": "Yiannos Kalotheou",
+          "flag": "cy"
+        },
+        {
+          "no": 11,
+          "pos": "Defensa",
+          "name": "Costas Petsas",
+          "flag": "cy"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Kostas Malekkos",
+          "flag": "cy"
+        },
+        {
+          "no": 13,
+          "pos": "Centrocampista",
+          "name": "Sakis Andreou",
+          "flag": "cy"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Andreas Yiatrou",
+          "flag": "cy"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Chrisanthos Chrysanthou",
+          "flag": "cy"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "George Savvides",
+          "flag": "cy"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Costas Kaiafas",
+          "flag": "cy"
+        }
+      ]
+    },
+    {
+      "id": "partizani",
+      "name": "Partizani Tirana",
+      "country": "al",
+      "flag": "al",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Avenir Dani",
+          "flag": "al"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Afrim Myftari",
+          "flag": "al"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Nordik Ruhi",
+          "flag": "al"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ilir Sillo",
+          "flag": "al"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Ilir Shulku",
+          "flag": "al"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Gentian Lico",
+          "flag": "al"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Andon Nikolla",
+          "flag": "al"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Altin Satko",
+          "flag": "al"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Nikolin Coclli",
+          "flag": "al"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Artan Bano",
+          "flag": "al"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Edmond Dosti",
+          "flag": "al"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Shahin Berberi",
+          "flag": "al"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Dritan Hoxha",
+          "flag": "al"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Ylli Cekici",
+          "flag": "al"
+        }
+      ]
+    },
+    {
+      "id": "b68_toftir",
+      "name": "B68 Toftir",
+      "country": "fo",
+      "flag": "fo",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Olaf Magnussen",
+          "flag": "fo"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Ingolf Petersen",
+          "flag": "fo"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Jóhannus Danielsen",
+          "flag": "fo"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Oleif Joensen",
+          "flag": "fo"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Eydfinn Olsen",
+          "flag": "fo"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Jógvan Martin Olsen",
+          "flag": "fo"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Signar Johannesen",
+          "flag": "fo"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Aksel Højgaard",
+          "flag": "fo"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Øssur Hansen",
+          "flag": "fo"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Hans Hansen",
+          "flag": "fo"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "John Petersen",
+          "flag": "fo"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Jákup Djurhuus",
+          "flag": "fo"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Páll Didriksen",
+          "flag": "fo"
+        }
+      ]
+    },
+    {
+      "id": "floriana",
+      "name": "Floriana",
+      "country": "mt",
+      "flag": "mt",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "David Cluett",
+          "flag": "mt"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Pierre Brincat",
+          "flag": "mt"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Richard Buhagiar",
+          "flag": "mt"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jesmond Delia",
+          "flag": "mt"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Kim Wright",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "John Buttigieg",
+          "flag": "mt"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Albert Busuttil",
+          "flag": "mt"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Charles Sciberras",
+          "flag": "mt"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Zoran Popović",
+          "flag": "rs"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Mark Miller",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Denis Cauchi",
+          "flag": "mt"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Brian Crawley",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Alan Marlow",
+          "flag": "mt"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Colin Caruana",
+          "flag": "mt"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "James Briscoe",
+          "flag": "mt"
+        }
+      ]
+    },
+    {
+      "id": "cork_city",
+      "name": "Cork City",
+      "country": "ie",
+      "flag": "ie",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Phil Harrington",
+          "flag": "ie"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Declan Daly",
+          "flag": "ie"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Stephen Napier",
+          "flag": "ie"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Fergus O-Donoghue",
+          "flag": "ie"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Paul Hague",
+          "flag": "ie"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Dave Barry",
+          "flag": "ie"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Declan Hyde",
+          "flag": "ie"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Cormac Cotter",
+          "flag": "ie"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Anthony Buckley",
+          "flag": "ie"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Declan Roche",
+          "flag": "ie"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Pat Morley",
+          "flag": "ie"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "John Caulfield",
+          "flag": "ie"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "John Glynn",
+          "flag": "ie"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Tommy Gaynor",
+          "flag": "ie"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Liam Murphy",
+          "flag": "ie"
+        }
+      ]
+    },
+    {
+      "id": "cwmbran_town",
+      "name": "Cwmbrân Town",
+      "country": "gb-wls",
+      "flag": "gb-wls",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Pat O'Hagan",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "David Burrows",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Simon King",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Michael Dicks",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Jimmy Blackie",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Michael Copeman",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 7,
+          "pos": "Defensa",
+          "name": "Philip McNeil",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 8,
+          "pos": "Defensa",
+          "name": "Norman Parselle",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Kevin Payne",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Sean Wharton",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "John Powell",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 12,
+          "pos": "Centrocampista",
+          "name": "Thomas John Powell",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Wayne Goodridge",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Francis Ford",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Andrew Clissold",
+          "flag": "gb-wls"
+        }
+      ]
+    },
+    {
+      "id": "linfield",
+      "name": "Linfield",
+      "country": "gb-nir",
+      "flag": "gb-nir",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Wesley Lamont",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Alan Dornan",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "John McConnell",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Noel Bailie",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "John Easton",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Lee Doherty",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Gary Peebles",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Stephen Beatty",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Philip Knell",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Dessie Gorman",
+          "flag": "ie"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Ritchie Johnston",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Garry Haylock",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Jeff Spiers",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Robert Campbell",
+          "flag": "gb-nir"
+        }
+      ]
+    },
+    {
+      "id": "venir_beggen",
+      "name": "Avenir Beggen",
+      "country": "lu",
+      "flag": "lu",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Paul Koch",
+          "flag": "lu"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jean-Pierre Ferron",
+          "flag": "lu"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Moreira De Carvalho",
+          "flag": "pt"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jean Vanek",
+          "flag": "lu"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Mikhail Marchal",
+          "flag": "lu"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Alex Wilhelm",
+          "flag": "lu"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Dos Santos Lopes",
+          "flag": "lu"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Krahen",
+          "flag": "lu"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Théo Scholten",
+          "flag": "lu"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "René Peters",
+          "flag": "lu"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Serge Jentgen",
+          "flag": "lu"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Armin Krings",
+          "flag": "de"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Luc Holtz",
+          "flag": "lu"
+        },
+        {
+          "no": 14,
+          "pos": "Delantero",
+          "name": "Santos Pinto",
+          "flag": "lu"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Gomes",
+          "flag": "lu"
+        }
+      ]
+    },
+    {
+      "id": "norma_tallinn",
+      "name": "Norma Tallinn",
+      "country": "ee",
+      "flag": "ee",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Tõnu Vanakesa",
+          "flag": "ee"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Leonid Kurilov",
+          "flag": "ee"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Eduard Vinogradov",
+          "flag": "ee"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Vladimir Uryupin",
+          "flag": "ee"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Andrei Borissov",
+          "flag": "ee"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Valeri Chmil",
+          "flag": "ee"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Andrei Šapovalov",
+          "flag": "ee"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Andrei Belokhvostov",
+          "flag": "ee"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Maksim Rõtškov",
+          "flag": "ee"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Seppo Vilderson",
+          "flag": "ee"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Aleksandr Zhurkin",
+          "flag": "ee"
+        }
+      ]
+    },
+    {
+      "id": "zimbru",
+      "name": "Zimbru",
+      "country": "md",
+      "flag": "md",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Serghei Botnaraș",
+          "flag": "md"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Emilian Caras",
+          "flag": "md"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ion Testemițanu",
+          "flag": "md"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Radu Rebeja",
+          "flag": "md"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Boris Cebotari",
+          "flag": "md"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Sergiu Nani",
+          "flag": "md"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Alexandru Curtianu",
+          "flag": "md"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Vasile Uzun",
+          "flag": "md"
+        },
+        {
+          "no": 9,
+          "pos": "Centrocampista",
+          "name": "Vitalie Culibaba",
+          "flag": "md"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Alexandru Spiridon",
+          "flag": "md"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Iurie Miterev",
+          "flag": "md"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Serghei Cleșcenco",
+          "flag": "md"
+        }
+      ]
+    },
+    {
+      "id": "lech_poznan",
+      "name": "Lech Poznań",
+      "country": "pl",
+      "flag": "pl",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Defensa",
+          "name": "Jacek Bąk",
+          "flag": "pl"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Marek Rzepka",
+          "flag": "pl"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Paweł Wojtala",
+          "flag": "pl"
+        },
+        {
+          "no": 4,
+          "pos": "Delantero",
+          "name": "Jerzy Podbrożny",
+          "flag": "pl"
+        }
+      ]
+    }
+  ],
+  "bracket": {
+    "semiFinals": [
+      {
+        "team1": "AC Milan",
+        "team2": "AS Monaco",
+        "id1": "milan",
+        "id2": "monaco",
+        "score": "3 - 0",
+        "goals1": [
+          "Desailly 14'",
+          "Albertini 48'",
+          "Massaro 66'"
+        ],
+        "goals2": []
+      },
+      {
+        "team1": "FC Barcelona",
+        "team2": "FC Porto",
+        "id1": "barcelona",
+        "id2": "porto",
+        "score": "3 - 0",
+        "goals1": [
+          "Stoichkov 10', 35'",
+          "Koeman 72'"
+        ],
+        "goals2": []
+      }
+    ],
+    "final": {
+      "team1": "AC Milan",
+      "team2": "FC Barcelona",
+      "id1": "milan",
+      "id2": "barcelona",
+      "score": "4 - 0",
+      "goals1": [
+        "Massaro 22', 45+2'",
+        "Savićević 47'",
+        "Desailly 58'"
+      ],
+      "goals2": []
+    },
+    "preliminary": [
+      {
+        "team1": "Skonto FC",
+        "team2": "Olimpija Ljubljana",
+        "id1": "skonto",
+        "id2": "olimpija_ljubljana",
+        "agg": "1 - 1",
+        "note": "Skonto gana 11-10 en penales",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 1",
+            "goals": [
+              "Samir Žulić 32` (OLI)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 0",
+            "goals": [
+              "Igors Trofimovs 65` (SKO)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Cwmbrân Town",
+        "team2": "Cork City",
+        "id1": "cwmbran_town",
+        "id2": "cork_city",
+        "agg": "4 - 4",
+        "note": "Cork City avanza por gol de visitante",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 2",
+            "goals": [
+              "Francis Ford 26`, 27` (CWM)",
+              "Simon King 60` (pen.) (CWM)",
+              "Pat Morley 62` (COR)",
+              "John Glynn 73` (COR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 2",
+            "goals": [
+              "Pat Morley 77`, 85` (COR)",
+              "Francis Ford 5` (CWM)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "HJK Helsinki",
+        "team2": "Norma Tallinn",
+        "id1": "hjk",
+        "id2": "norma_tallinn",
+        "agg": "2 - 1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 1",
+            "goals": [
+              "Antti Heinola 16` (HJK)",
+              "Andrei Borissov 16` (NOR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 0",
+            "goals": [
+              "Sami Ylä-Jussila 81` (HJK)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "B68 Toftir",
+        "team2": "Croatia Zagreb",
+        "id1": "b68_toftir",
+        "id2": "dinamo_zagreb",
+        "agg": "0 - 11",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 5",
+            "goals": [
+              "Igor Cvitanović 14` (CRO)",
+              "Goran Vlaović 41` (CRO)",
+              "Željko Adžić 43`, 75` (CRO)",
+              "Zoran Živković 87` (CRO)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 6",
+            "goals": [
+              "Zoran Živković 18`, 58` (CRO)",
+              "Joško Jeličić 23`, 50`, 54` (CRO)",
+              "Željko Adžić 88` (CRO)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Avenir Beggen",
+        "team2": "Rosenborg",
+        "id1": "venir_beggen",
+        "id2": "rosenborg",
+        "agg": "0 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 2",
+            "goals": [
+              "Bjørn Otto Bragstad 8` (ROS)",
+              "Kalle Løken 54` (ROS)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "Bent Skammelsrud 69` (ROS)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Partizani Tirana",
+        "team2": "ÍA",
+        "id1": "partizani",
+        "id2": "ia_akranes",
+        "agg": "0 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 3",
+            "goals": [
+              "Alexander Högnason 70` (ÍA)",
+              "Þórður Guðjónsson 72`, 80` (ÍA)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Omonia",
+        "team2": "FC Aarau",
+        "id1": "omonia",
+        "id2": "aarau",
+        "agg": "2 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2 - 1",
+            "goals": [
+              "Davit Kizilashvili 15`, 61` (OMO)",
+              "Ratinho 62` (AAR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 2",
+            "goals": [
+              "Martin Rössli 50` (AAR)",
+              "Ratinho 74` (AAR)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Zimbru",
+        "team2": "Beitar Jerusalem",
+        "id1": "zimbru",
+        "id2": "beitar_jerusalem",
+        "agg": "1 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 1",
+            "goals": [
+              "Radu Rebeja 52` (ZIM)",
+              "Ronen Harazi 69` (BEI)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 2",
+            "goals": [
+              "Ronen Harazi 37` (BEI)",
+              "Eli Ohana 55` (pen.) (BEI)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Ekranas",
+        "team2": "Floriana",
+        "id1": "ekranas",
+        "id2": "floriana",
+        "agg": "0 - 2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 1",
+            "goals": [
+              "John Buttigieg 42` (FLO)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "John Buttigieg 51` (FLO)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Dinamo Tbilisi",
+        "team2": "Linfield",
+        "id1": "dinamo_tbilisi",
+        "id2": "linfield",
+        "agg": "3 - 2",
+        "note": "Linfield avanza por descalificación de Dinamo",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2 - 1",
+            "goals": [
+              "Shota Arveladze 10` (DTB)",
+              "Mikheil Kavelashvili 60` (DTB)",
+              "Garry Haylock 50` (LIN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 1",
+            "goals": [
+              "Garry Haylock 69` (LIN)",
+              "Shota Arveladze 30` (DTB)"
+            ]
+          }
+        ]
+      }
+    ],
+    "firstRound": [
+      {
+        "team1": "Werder Bremen",
+        "team2": "Dinamo-Minsk",
+        "id1": "werder-bremen",
+        "id2": "dinamo_minsk",
+        "agg": "6 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "5 - 2",
+            "goals": [
+              "B. Hobsch 26, 32, 60 (BRE)",
+              "W. Rufer 55, 90 (BRE)",
+              "S. Gerasimets 51 (MIN)",
+              "V. Makovsky 76 (MIN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 1",
+            "goals": [
+              "V. Belkevich 40 (MIN)",
+              "W. Rufer 81 (pen.) (BRE)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "F.C. Copenhagen",
+        "team2": "Linfield",
+        "id1": "copenhagen",
+        "id2": "linfield",
+        "agg": "4 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 3",
+            "goals": [
+              "G. Haylock 38 (LIN)",
+              "S. McConville 42 (LIN)",
+              "J. Johnston 60 (LIN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4 - 0",
+            "goals": [
+              "M. Johansen 7, 26 (FCK)",
+              "M. Johansen 54 (FCK)",
+              "A. Nielsen 89 (FCK)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "FC Aarau",
+        "team2": "AC Milan",
+        "id1": "aarau",
+        "id2": "milan",
+        "agg": "0 - 1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 1",
+            "goals": [
+              "J.P. Papin 54 (MIL)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 0",
+            "goals": []
+          }
+        ]
+      },
+      {
+        "team1": "AIK",
+        "team2": "Sparta Praha",
+        "id1": "aik",
+        "id2": "sparta_praha",
+        "agg": "1 - 2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 0",
+            "goals": [
+              "D. Lidman 36 (AIK)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 2",
+            "goals": [
+              "P. Nedvěd 12, 81 (SPA)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "HJK Helsinki",
+        "team2": "Anderlecht",
+        "id1": "hjk",
+        "id2": "anderlecht",
+        "agg": "0 - 6",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 3",
+            "goals": [
+              "J. Boskamp 50 (AND)",
+              "L. Nilis 73 (AND)",
+              "D. Boffin 82 (AND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 3",
+            "goals": [
+              "L. Nilis 16, 21 (AND)",
+              "D. Boffin 88 (AND)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Budapest Honvéd",
+        "team2": "Manchester United",
+        "id1": "honved",
+        "id2": "manchester_united",
+        "agg": "3 - 5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2 - 3",
+            "goals": [
+              "O. Szabados 40 (HON)",
+              "I. Stefanov 69 (HON)",
+              "R. Keane 9, 43 (MAN)",
+              "E. Cantona 44 (MAN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 2",
+            "goals": [
+              "S. Bruce 55, 64 (MAN)",
+              "I. Sallói 78 (HON)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Floriana",
+        "team2": "FC Porto",
+        "id1": "floriana",
+        "id2": "porto",
+        "agg": "0 - 2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 2",
+            "goals": [
+              "L. Drulović 13 (POR)",
+              "E. Kostadinov 77 (POR)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "ÍA",
+        "team2": "Feyenoord",
+        "id1": "ia_akranes",
+        "id2": "feyenoord",
+        "agg": "1 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 0",
+            "goals": [
+              "Ó. Þórðarson 75 (ÍA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 3",
+            "goals": [
+              "R. Blinker 16 (FEY)",
+              "R. Heus 47 (FEY)",
+              "P. Bosz 58 (FEY)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Cork City",
+        "team2": "Galatasaray",
+        "id1": "cork_city",
+        "id2": "galatasaray",
+        "agg": "1 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 2",
+            "goals": [
+              "B. Barry 67 (COR)",
+              "K. Türkyilmaz 58 (GAL)",
+              "A. Erdem 72 (GAL)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "K. Türkyilmaz 76 (GAL)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Lech Poznań",
+        "team2": "Beitar Jerusalem",
+        "id1": "lech_poznan",
+        "id2": "beitar_jerusalem",
+        "agg": "7 - 2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 0",
+            "goals": [
+              "J. Podbrożny 54, 60 (LEC)",
+              "M. Trzeciak 60 (LEC)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4 - 2",
+            "goals": [
+              "T. Łukasik 4 (LEC)",
+              "M. Trzeciak 24 (LEC)",
+              "J. Podbrożny 31 (LEC)",
+              "J. Dembiński 70 (LEC)",
+              "R. Harazi 21, 71 (BEI)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Croatia Zagreb",
+        "team2": "Steaua București",
+        "id1": "dinamo_zagreb",
+        "id2": "steaua",
+        "agg": "4 - 4",
+        "note": "Steaua avanza por gol de visitante",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 2",
+            "goals": [
+              "G. Vlaović 8 (CRO)",
+              "I. Dumitrescu 34 (STE)",
+              "B. Panduru 80 (STE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "3 - 2",
+            "goals": [
+              "I. Dumitrescu 14 (STE)",
+              "I. Vlădoiu 53 (STE)",
+              "G. Vlaović 73, 76 (CRO)",
+              "I. Cvitanović 79 (CRO)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Skonto FC",
+        "team2": "Spartak Moscow",
+        "id1": "skonto",
+        "id2": "spartak_moscow",
+        "agg": "0 - 9",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 5",
+            "goals": [
+              "A. Piatnitski 7 (SPA)",
+              "V. Beschastnykh 11, 34 (SPA)",
+              "I. Tsymbalar 43 (SPA)",
+              "A. Shirko 89 (SPA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 4",
+            "goals": [
+              "I. Tsymbalar 1, 74 (SPA)",
+              "V. Beschastnykh 15 (SPA)",
+              "V. Onopko 87 (SPA)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Rosenborg",
+        "team2": "Austria Wien",
+        "id1": "rosenborg",
+        "id2": "austria_wien",
+        "agg": "4 - 5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 1",
+            "goals": [
+              "T. Andreassen 16 (ROS)",
+              "K. Løken 50 (ROS)",
+              "K. Bergesen 71 (ROS)",
+              "C. Prosenik 33 (AUS)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 4",
+            "goals": [
+              "C. Prosenik 12 (AUS)",
+              "P. Stöger 50 (AUS)",
+              "A. Ogris 62 (AUS)",
+              "Z. Radović 90 (AUS)",
+              "K. Løken 32 (ROS)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "AS Monaco",
+        "team2": "AEK Athens",
+        "id1": "monaco",
+        "id2": "aek_athens",
+        "agg": "2 - 1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 0",
+            "goals": [
+              "V. Ikpeba 79 (MON)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 1",
+            "goals": [
+              "V. Tsartas 12 (AEK)",
+              "F. Dumas 5 (MON)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Dynamo Kyiv",
+        "team2": "FC Barcelona",
+        "id1": "dynamo_kyiv",
+        "id2": "barcelona",
+        "agg": "4 - 5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 1",
+            "goals": [
+              "P. Shkapenko 5 (DK)",
+              "V. Leonenko 45, 56 (DK)",
+              "R. Koeman 28 (BAR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 4",
+            "goals": [
+              "M. Laudrup 9 (BAR)",
+              "J.M. Bakero 17, 47 (BAR)",
+              "R. Koeman 67 (BAR)",
+              "S. Rebrov 28 (DK)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Rangers FC",
+        "team2": "Levski Sofia",
+        "id1": "rangers",
+        "id2": "levski_sofia",
+        "agg": "4 - 4",
+        "note": "Levski avanza por gol de visitante",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 2",
+            "goals": [
+              "C. McPherson 45 (RAN)",
+              "M. Hateley 57, 78 (RAN)",
+              "N. Sirakov 76 (LEV)",
+              "Todorov 82 (LEV)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 2",
+            "goals": [
+              "N. Sirakov 36 (LEV)",
+              "Todorov 90 (LEV)",
+              "I. Durrant 43 (RAN)"
+            ]
+          }
+        ]
+      }
+    ],
+    "secondRound": [
+      {
+        "team1": "FC Porto",
+        "team2": "Feyenoord",
+        "id1": "porto",
+        "id2": "feyenoord",
+        "agg": "1 - 0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 0",
+            "goals": [
+              "Domingos 90 (POR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 0",
+            "goals": []
+          }
+        ]
+      },
+      {
+        "team1": "AS Monaco",
+        "team2": "Steaua București",
+        "id1": "monaco",
+        "id2": "steaua",
+        "agg": "4 - 2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "4 - 1",
+            "goals": [
+              "V. Ikpeba 50, 75 (MON)",
+              "J. Klinsmann 52, 64 (MON)",
+              "I. Dumitrescu 22 (pen.) (STE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "I. Dumitrescu 85 (STE)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Levski Sofia",
+        "team2": "Werder Bremen",
+        "id1": "levski_sofia",
+        "id2": "werder-bremen",
+        "agg": "2 - 3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2 - 2",
+            "goals": [
+              "Z. Yankov 75 (LEV)",
+              "G. Ginchev 90 (LEV)",
+              "M. Bode 50 (BRE)",
+              "W. Rufer 52 (BRE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "M. Basler 73 (BRE)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "F.C. Copenhagen",
+        "team2": "AC Milan",
+        "id1": "copenhagen",
+        "id2": "milan",
+        "agg": "0 - 7",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 6",
+            "goals": [
+              "J.P. Papin 1, 72 (MIL)",
+              "M. Simone 6, 16 (MIL)",
+              "M. Laudrup 44 (MIL)",
+              "A. Orlando 61 (MIL)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 1",
+            "goals": [
+              "J.P. Papin 45 (MIL)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Sparta Praha",
+        "team2": "Anderlecht",
+        "id1": "sparta_praha",
+        "id2": "anderlecht",
+        "agg": "2 - 5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0 - 1",
+            "goals": [
+              "L. Nilis 74 (AND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2 - 4",
+            "goals": [
+              "J. Boskamp 2 (AND)",
+              "L. Nilis 47, 73 (AND)",
+              "B. Versavel 87 (AND)",
+              "V. Dvirnyk 17, 69 (SPA)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "Manchester United",
+        "team2": "Galatasaray",
+        "id1": "manchester_united",
+        "id2": "galatasaray",
+        "agg": "3 - 3",
+        "note": "Galatasaray avanza por gol de visitante",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 3",
+            "goals": [
+              "B. Robson 3 (MAN)",
+              "A. Kanchelskis 14 (MAN)",
+              "E. Cantona 80 (MAN)",
+              "A. Erdem 16 (GAL)",
+              "K. Türkyılmaz 32, 64 (GAL)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0 - 0",
+            "goals": []
+          }
+        ]
+      },
+      {
+        "team1": "Lech Poznań",
+        "team2": "Spartak Moscow",
+        "id1": "lech_poznan",
+        "id2": "spartak_moscow",
+        "agg": "2 - 7",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1 - 5",
+            "goals": [
+              "J. Podbrożny 44 (pen.) (LEC)",
+              "N. Pisarev 8, 62 (SPA)",
+              "V. Karpin 10 (SPA)",
+              "V. Onopko 30, 53 (SPA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1 - 2",
+            "goals": [
+              "V. Karpin 7 (SPA)",
+              "D. Khlestov 81 (SPA)",
+              "J. Dembiński 29 (LEC)"
+            ]
+          }
+        ]
+      },
+      {
+        "team1": "FC Barcelona",
+        "team2": "Austria Wien",
+        "id1": "barcelona",
+        "id2": "austria_wien",
+        "agg": "5 - 1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3 - 0",
+            "goals": [
+              "R. Koeman 37 (pen.), 73 (BAR)",
+              "Q. Estebaranz 89 (BAR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2 - 1",
+            "goals": [
+              "H. Stoichkov 5, 17 (BAR)",
+              "A. Ogris 39 (AUS)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "groups": {
+    "A": {
+      "standings": [
+        {
+          "team": "FC Barcelona",
+          "id": "barcelona",
+          "pts": 10,
+          "pj": 6,
+          "pg": 4,
+          "pe": 2,
+          "pp": 0,
+          "gf": 13,
+          "gc": 3
+        },
+        {
+          "team": "AS Monaco",
+          "id": "monaco",
+          "pts": 7,
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 9,
+          "gc": 4
+        },
+        {
+          "team": "Spartak Moscow",
+          "id": "spartak_moscow",
+          "pts": 5,
+          "pj": 6,
+          "pg": 1,
+          "pe": 3,
+          "pp": 2,
+          "gf": 6,
+          "gc": 12
+        },
+        {
+          "team": "Galatasaray",
+          "id": "galatasaray",
+          "pts": 2,
+          "pj": 6,
+          "pg": 0,
+          "pe": 2,
+          "pp": 4,
+          "gf": 1,
+          "gc": 10
+        }
+      ],
+      "matches": [
+        {
+          "team1": "AS Monaco",
+          "id1": "monaco",
+          "score": "4 - 1",
+          "team2": "Spartak Moscow",
+          "id2": "spartak_moscow",
+          "goals1": [
+            "J. Klinsmann 17'",
+            "V. Ikpeba 18'",
+            "Y. Djorkaeff 62'",
+            "L. Thuram 89'"
+          ],
+          "goals2": [
+            "N. Pisarev 49'"
+          ]
+        },
+        {
+          "team1": "Galatasaray",
+          "id1": "galatasaray",
+          "score": "0 - 0",
+          "team2": "FC Barcelona",
+          "id2": "barcelona",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "FC Barcelona",
+          "id1": "barcelona",
+          "score": "2 - 0",
+          "team2": "AS Monaco",
+          "id2": "monaco",
+          "goals1": [
+            "Txiki Begiristain 16'",
+            "H. Stoichkov 23'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Spartak Moscow",
+          "id1": "spartak_moscow",
+          "score": "0 - 0",
+          "team2": "Galatasaray",
+          "id2": "galatasaray",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "AS Monaco",
+          "id1": "monaco",
+          "score": "3 - 0",
+          "team2": "Galatasaray",
+          "id2": "galatasaray",
+          "goals1": [
+            "V. Scifo 36'",
+            "Y. Djorkaeff 41'",
+            "J. Klinsmann 52'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Spartak Moscow",
+          "id1": "spartak_moscow",
+          "score": "2 - 2",
+          "team2": "FC Barcelona",
+          "id2": "barcelona",
+          "goals1": [
+            "S. Rodionov 77'",
+            "V. Karpin 88'"
+          ],
+          "goals2": [
+            "H. Stoichkov 11'",
+            "Romário 67'"
+          ]
+        },
+        {
+          "team1": "Galatasaray",
+          "id1": "galatasaray",
+          "score": "0 - 2",
+          "team2": "AS Monaco",
+          "id2": "monaco",
+          "goals1": [],
+          "goals2": [
+            "V. Scifo 54'",
+            "J. Klinsmann 90'"
+          ]
+        },
+        {
+          "team1": "FC Barcelona",
+          "id1": "barcelona",
+          "score": "5 - 1",
+          "team2": "Spartak Moscow",
+          "id2": "spartak_moscow",
+          "goals1": [
+            "H. Stoichkov 33'",
+            "G. Amor 75'",
+            "R. Koeman 77', 80'",
+            "Romário 86'"
+          ],
+          "goals2": [
+            "V. Karpin 3'"
+          ]
+        },
+        {
+          "team1": "Spartak Moscow",
+          "id1": "spartak_moscow",
+          "score": "0 - 0",
+          "team2": "AS Monaco",
+          "id2": "monaco",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "FC Barcelona",
+          "id1": "barcelona",
+          "score": "3 - 0",
+          "team2": "Galatasaray",
+          "id2": "galatasaray",
+          "goals1": [
+            "G. Amor 21'",
+            "R. Koeman 70' (pen.)",
+            "Eusebio 77'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "AS Monaco",
+          "id1": "monaco",
+          "score": "0 - 1",
+          "team2": "FC Barcelona",
+          "id2": "barcelona",
+          "goals1": [],
+          "goals2": [
+            "H. Stoichkov 13'"
+          ]
+        },
+        {
+          "team1": "Galatasaray",
+          "id1": "galatasaray",
+          "score": "1 - 2",
+          "team2": "Spartak Moscow",
+          "id2": "spartak_moscow",
+          "goals1": [
+            "C. Arslan 86'"
+          ],
+          "goals2": [
+            "V. Onopko 55'",
+            "V. Karpin 83'"
+          ]
+        }
+      ]
+    },
+    "B": {
+      "standings": [
+        {
+          "team": "AC Milan",
+          "id": "milan",
+          "pts": 8,
+          "pj": 6,
+          "pg": 2,
+          "pe": 4,
+          "pp": 0,
+          "gf": 6,
+          "gc": 2
+        },
+        {
+          "team": "FC Porto",
+          "id": "porto",
+          "pts": 5,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 10,
+          "gc": 11
+        },
+        {
+          "team": "Werder Bremen",
+          "id": "werder-bremen",
+          "pts": 5,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 11,
+          "gc": 15
+        },
+        {
+          "team": "Anderlecht",
+          "id": "anderlecht",
+          "pts": 4,
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 5,
+          "gc": 9
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Anderlecht",
+          "id1": "anderlecht",
+          "score": "0 - 0",
+          "team2": "AC Milan",
+          "id2": "milan",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "Werder Bremen",
+          "id1": "werder-bremen",
+          "score": "3 - 2",
+          "team2": "FC Porto",
+          "id2": "porto",
+          "goals1": [
+            "W. Rufer 38'",
+            "M. Bode 74'",
+            "B. Hobsch 81'"
+          ],
+          "goals2": [
+            "Rui Barros 31'",
+            "Gilmar 35'"
+          ]
+        },
+        {
+          "team1": "AC Milan",
+          "id1": "milan",
+          "score": "2 - 1",
+          "team2": "Werder Bremen",
+          "id2": "werder-bremen",
+          "goals1": [
+            "P. Maldini 48'",
+            "F. Răducioiu 68'"
+          ],
+          "goals2": [
+            "M. Basler 54'"
+          ]
+        },
+        {
+          "team1": "FC Porto",
+          "id1": "porto",
+          "score": "2 - 0",
+          "team2": "Anderlecht",
+          "id2": "anderlecht",
+          "goals1": [
+            "L. Drulović 10'",
+            "C. Secretário 54'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Anderlecht",
+          "id1": "anderlecht",
+          "score": "1 - 2",
+          "team2": "Werder Bremen",
+          "id2": "werder-bremen",
+          "goals1": [
+            "P. Albert 45'"
+          ],
+          "goals2": [
+            "M. Bode 33', 65'"
+          ]
+        },
+        {
+          "team1": "AC Milan",
+          "id1": "milan",
+          "score": "3 - 0",
+          "team2": "FC Porto",
+          "id2": "porto",
+          "goals1": [
+            "F. Răducioiu 18'",
+            "C. Panucci 39'",
+            "D. Massaro 63'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Werder Bremen",
+          "id1": "werder-bremen",
+          "score": "5 - 3",
+          "team2": "Anderlecht",
+          "id2": "anderlecht",
+          "goals1": [
+            "W. Rufer 66', 89'",
+            "R. Bratseth 72'",
+            "B. Hobsch 81'",
+            "M. Bode 83'"
+          ],
+          "goals2": [
+            "P. Albert 16'",
+            "D. Boffin 21', 33'"
+          ]
+        },
+        {
+          "team1": "FC Porto",
+          "id1": "porto",
+          "score": "0 - 0",
+          "team2": "AC Milan",
+          "id2": "milan",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "AC Milan",
+          "id1": "milan",
+          "score": "0 - 0",
+          "team2": "Anderlecht",
+          "id2": "anderlecht",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "FC Porto",
+          "id1": "porto",
+          "score": "3 - 2",
+          "team2": "Werder Bremen",
+          "id2": "werder-bremen",
+          "goals1": [
+            "Domingos 7'",
+            "Rui Barros 34'",
+            "J. Magalhães 82'"
+          ],
+          "goals2": [
+            "B. Hobsch 47'",
+            "W. Rufer 86'"
+          ]
+        },
+        {
+          "team1": "Anderlecht",
+          "id1": "anderlecht",
+          "score": "1 - 0",
+          "team2": "FC Porto",
+          "id2": "porto",
+          "goals1": [
+            "L. Nilis 88'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Werder Bremen",
+          "id1": "werder-bremen",
+          "score": "1 - 1",
+          "team2": "AC Milan",
+          "id2": "milan",
+          "goals1": [
+            "W. Rufer 52' (pen.)"
+          ],
+          "goals2": [
+            "D. Savićević 74'"
+          ]
+        }
+      ]
+    }
+  }
+}

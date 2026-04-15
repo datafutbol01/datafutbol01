@@ -1,0 +1,286 @@
+{
+  "id": "levante",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "levante",
+      "granotas"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Levante Unión Deportiva",
+    "sigla": "LEV",
+    "fundacion": "9 de septiembre de 1909",
+    "apodo": "Granotas",
+    "estadio_actual": "Ciutat de València",
+    "estadio_apodo": "El Ciutat",
+    "estadio_capacidad": 26354,
+    "estadio_inauguracion": "9 de septiembre de 1969",
+    "estadio_lat": 39.4947,
+    "estadio_lng": -0.3639,
+    "estadio_direccion": "C/ San Vicente de Paúl, 44, 46019 Valencia, España",
+    "socios": 22000,
+    "descripcion_corta": "El club decano de la ciudad de Valencia, forjado en la fusión posguerra y caracterizado por su irrenunciable orgullo granota.",
+    "paleta": [
+      {
+        "tag": "Azulgrana",
+        "hex": "#002E6D"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#A10D16"
+      }
+    ],
+    "nombre_oficial": "Levante Unión Deportiva, S.A.D.",
+    "nombre_corto": "Levante UD",
+    "escudo_actual": "/escudos/levante.png"
+  },
+  "historia": [
+    {
+      "ano": "1909",
+      "hito": "El Nacimiento del Decano Valenciano",
+      "desc": "Décadas antes de que el fútbol paralizara pasiones masivas, nacieron en simultáneo dos potencias pioneras en la ciudad a orillas del Turia. El 9 de septiembre de 1909, bajo la dirección y audacia del educador Vicente Cabanes, vio la luz el Levante Foot-ball Club, erigiéndose temporalmente como el club decano de Valencia con su indumentaria blanquinegra. A escasas manzanas de distancia, al abrigo del Patronato de la Juventud Obrera, se forjó casi en paralelo el aguerrido Gimnástico Foot-ball Club de los hermanos trinitarios (que aportaría la sagrada identidad azulgrana). Ambas entidades, divididas por el orgullo local pero unidas por el amor al deporte, gestaron el embrión de lo que años después, gracias a una inevitable fusión impuesta por los estragos de la posguerra, terminaría conformando la mítica e estructura del actual Levante Unión Deportiva."
+    },
+    {
+      "ano": "1937",
+      "hito": "La Heroica Copa de la España Libre",
+      "desc": "Durante la convulsa Guerra Civil Española, el Levante logró conquistar la Copa de la España Libre tras vencer al Valencia en una épica final en el estadio de Sarrià (Barcelona) por 1-0. Aunque la oficialización de este título por parte de la Real Federación Española de Fútbol sería objeto de un debate que duraría décadas, finalmente se les reconoció el heroísmo."
+    },
+    {
+      "ano": "1939",
+      "hito": "La Gran Fusión Granota",
+      "desc": "Con el país destrozado por la guerra civil, el Levante FC (que tenía grandes jugadores pero su estadio había sido destruido) y el Gimnástico FC (que conservaba su estadio pero carecía de plantilla) decidieron aunar fuerzas y firmar la histórica fusión que daría vida a la actual, y combativa estructura del Levante Unión Deportiva."
+    },
+    {
+      "ano": "2012-2013",
+      "hito": "El EuroLevante Rompe Esquemas",
+      "desc": "Bajo la espectacular dirección de Juan Ignacio Martínez y con un vestuario repleto de veteranos como Ballesteros y Juanlu, el Levante desafió toda lógica económica alcanzando unos impresionantes octavos de final de la UEFA Europa League, cayendo de pie ante potencias continentales."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Ciutat de València",
+      "capacidad": "26.354",
+      "inauguracion": "1969",
+      "url": "https://www.google.com/maps/search/?api=1&query=C%2F%20San%20Vicente%20de%20Pa%C3%BAl%2C%2044%2C%2046019%20Valencia",
+      "direccion": "C/ San Vicente de Paúl, 44, 46019 Valencia",
+      "descripcion": "El histórico coliseo granota, inaugurado para dejar atrás Vallejo y que en los últimos años atravesó una colosal remodelación moderna que lo blindó de una mística innegable."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1909,
+      "hasta": 1939,
+      "c1": "#111111",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Vistieron fundacionales rigurosas oscuras legendarias puristas míticas rayas verticales albinegras formales heredadas por donaciones."
+    },
+    {
+      "desde": 1939,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#7a003c",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "rayas-verticales",
+      "desc": "Tras la dolorosa y poética fusión cívica purista cruda y fáctica de posguerra asimilan el color blaugrana del Gimnástico forjando el purista estriado colosal levantino de rayas verticales eternas granas y azules asfáltico."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "José Luis Morales",
+      "periodo": "2014-2022",
+      "pos": "Delantero",
+      "desc": "Apodado El Comandante. Es el capitán y máximo goleador acumulado del club en torneos de Primera División."
+    },
+    {
+      "nombre": "Sergio Ballesteros",
+      "periodo": "2008-2013",
+      "pos": "Defensa",
+      "desc": "Defensor central que lideró como capitán al histórico plantel que logró clasificar a torneos continentales en 2012."
+    },
+    {
+      "nombre": "Paco Salillas",
+      "periodo": "1999-2001",
+      "pos": "Delantero",
+      "desc": "Delantero centro que resultó goleador indiscutido para obtener ascensos decisivos a fines del siglo veinte."
+    },
+    {
+      "nombre": "Vicente Iborra",
+      "periodo": "2008-2013",
+      "pos": "Mediocampista",
+      "desc": "Centrocampista formado en la cantera aportando destacadas campañas en el ciclo inicial hacia torneos europeos."
+    },
+    {
+      "nombre": "Félix Ettien",
+      "periodo": "1997-2008",
+      "pos": "Mediocampista",
+      "desc": "Extremo africano de origen marfileño que vistió ininterrumpidamente la camiseta del club por más de un decenio en múltiples divisiones."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "José Luis Morales",
+      "goles": 63,
+      "periodo": "2014-2022",
+      "partidos": 277,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2022."
+    },
+    {
+      "nombre": "Paco Salillas",
+      "goles": 52,
+      "periodo": "1999-2001",
+      "partidos": 88,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 52 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2001."
+    },
+    {
+      "nombre": "Roger Martí",
+      "goles": 47,
+      "periodo": "2011-2022",
+      "partidos": 165,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 47 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2022."
+    },
+    {
+      "nombre": "Wanderley Machado",
+      "goles": 48,
+      "periodo": "1962-1967",
+      "partidos": 107,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 1962-1967."
+    },
+    {
+      "nombre": "Arouna Koné",
+      "goles": 15,
+      "periodo": "2011-2012",
+      "partidos": 39,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2012."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "José Luis Morales",
+      "partidos": 277,
+      "periodo": "2014-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 277 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2022."
+    },
+    {
+      "nombre": "Félix Ettien",
+      "partidos": 324,
+      "periodo": "1997-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2008."
+    },
+    {
+      "nombre": "Pepe Campaña",
+      "partidos": 175,
+      "periodo": "2016-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 175 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2023."
+    },
+    {
+      "nombre": "David Navarro",
+      "partidos": 154,
+      "periodo": "2012-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 154 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2016."
+    },
+    {
+      "nombre": "Sergio Ballesteros",
+      "partidos": 110,
+      "periodo": "2008-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 110 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2013."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa de la España Libre",
+      "cantidad": 1,
+      "anios": [
+        "1937"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 2,
+      "anios": [
+        "2003-04",
+        "2016-17"
+      ]
+    },
+    {
+      "nombre": "Segunda División B",
+      "cantidad": 5,
+      "anios": [
+        "1978-79",
+        "1988-89",
+        "1994-95",
+        "1995-96",
+        "1998-99"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/levante/Levante.webp"
+    },
+    {
+      "ano": "1912",
+      "url": "/escudos_historicos/levante/Levante_FC_1912.webp"
+    },
+    {
+      "ano": "1919",
+      "url": "/escudos_historicos/levante/Levante_FC_1919.webp"
+    },
+    {
+      "ano": "1922",
+      "url": "/escudos_historicos/levante/Levante_FC_1922.webp"
+    },
+    {
+      "ano": "1923",
+      "url": "/escudos_historicos/levante/Levante_FC_1923.webp"
+    },
+    {
+      "ano": "1928",
+      "url": "/escudos_historicos/levante/Levante_FC_1928.webp"
+    },
+    {
+      "ano": "1931",
+      "url": "/escudos_historicos/levante/Levante_FC_1931.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/levante/Levante_UD_1941.webp"
+    },
+    {
+      "ano": "1943",
+      "url": "/escudos_historicos/levante/Levante_UD_1943.webp"
+    },
+    {
+      "ano": "1953",
+      "url": "/escudos_historicos/levante/Levante_UD_1953.webp"
+    },
+    {
+      "ano": "1986",
+      "url": "/escudos_historicos/levante/Levante_UD_1986.webp"
+    },
+    {
+      "ano": "1939",
+      "url": "/escudos_historicos/levante/UD_LG_1939.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/levante.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Granotas",
+      "origen": "Otorgado oficialmente tras consumarse los estragos de la posguerra española hacia 1939. Tras quedarse directamente sin estadios por la fusión obligada por decreto y perder el terreno deportivo inicial, recalaron obligados en un recinto a orillas del antiguo cauce del río Turia. Al estar tan cercano a las riberas fluviales, las áreas del estadio estaban permanentemente pobladas por una asombrosa y salvaje proliferación de ranas locales, a las cuales el dialecto valenciano denomina históricamente como granotas."
+    },
+    {
+      "apodo": "Los Blaugranas",
+      "origen": "Adjudicado gracias a las directrices de confección oficial de su equipo co-fundador. A pesar de que en España el término corresponde estadísticamente como exclusividad popular adoptada mundialmente ante el Fútbol Club Barcelona, el originario Gimnástico Fútbol Club (institución base que forjó la fusión levantina) fue históricamente el primer conjunto de España fundado en 1909 que utilizó y patentó las franjas rojo oscuro y azul marino para sus indumentarias oficiales."
+    }
+  ]
+}

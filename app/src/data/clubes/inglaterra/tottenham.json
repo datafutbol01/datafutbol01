@@ -1,0 +1,402 @@
+{
+  "id": "tottenham",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "spurs",
+      "lilywhites",
+      "londres"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Tottenham Hotspur Football Club",
+    "sigla": "TOT",
+    "fundacion": "5 de septiembre de 1882",
+    "apodo": "Spurs, The Lilywhites",
+    "estadio_actual": "Tottenham Hotspur Stadium",
+    "estadio_apodo": "",
+    "estadio_capacidad": 62850,
+    "estadio_inauguracion": "2019",
+    "estadio_lat": 51.6047,
+    "estadio_lng": -0.0664,
+    "estadio_direccion": "782 High Rd, Tottenham, London N17 0BX",
+    "socios": 48000,
+    "descripcion_corta": "Los puristas blancos de traje y galera del norte londinense. Nacidos mágicamente de apasionados chiquillos de iglesia en 1882 jugando a patear en el crudo invierno, los eternos Spurs (Lilywhites) construyeron un fútbol de inmaculado paladar negro forjando un majestuoso y legendario doblete histórico celestial en 1961 asolando divinamente la era antigua hasta erigir hoy en sus cenizas la asombrosa y gigantesca catedral más hermosa y ruidosa de Europa con su purista estadio moderno.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul Marino",
+        "hex": "#132257"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "13-2 a Crewe Alexandra (Febrero 1960)",
+      "maximo_goleador": "Harry Kane (280 goles)",
+      "mas_presencias": "Steve Perryman (866 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1882",
+      "hito": "Fundación y el club de críquet barrial",
+      "desc": "El 5 de septiembre de 1882, en el distrito de Tottenham, un grupo de escolares y miembros del antiguo Hotspur Cricket Club se unió con alumnos de la escuela eclesiástica St John's Presbyterian. Liderados formalmente por Bobby Buckle, fundaron el Hotspur Football Club para poder practicar deportes durante los meses de invierno. Años más tarde, agregarían el prefijo Tottenham para distinguirse de un club londinense homónimo."
+    },
+    {
+      "ano": "1901",
+      "hito": "La proeza en la FA Cup desde ligas regionales",
+      "desc": "Antes de lograr su ansiado ascenso y participación en los certámenes divisionales nacionales principales, el club obtuvo su primera gran coronación. Tottenham se convirtió en el único equipo, desde la conformación estructural reglamentaria de la Football League en 1888, en conquistar la FA Cup siendo un club netamente extra-liga o no vinculado a la estructura divisional superior, tras derrotar a Sheffield United en el desempate."
+    },
+    {
+      "ano": "1960-1961",
+      "hito": "El Doblete histórico de liga y FA Cup",
+      "desc": "Imponiendo el clásico estilo de juego dinámico ofensivo impulsado por el entrenador Bill Nicholson y el estratega Danny Blanchflower, Tottenham escribió la página más gloriosa del club. En la temporada 1960-1961, el equipo aseguró el campeonato de Primera División y posteriormente se alzó con la FA Cup venciendo a Leicester City en Wembley, convirtiéndose en el primer club del siglo XX en completar oficialmente este anhelado Doblete."
+    },
+    {
+      "ano": "1963",
+      "hito": "Primer éxito europeo con la Recopa",
+      "desc": "Expandiendo su dominio a nivel continental, el equipo de Bill Nicholson continuó sumando historia en mayo de 1963. Luego de una aplastante actuación colectiva e individual de Jimmy Greaves en Róterdam frente al Atlético de Madrid, al que superaron contundentemente con una victoria de 5-1, los Spurs se consagraron ganadores de la Recopa, convirtiéndose en el primer club británico en alzar una competencia oficial orquestada por la UEFA."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "White Hart Lane",
+      "direccion": "748 High Rd, Tottenham, London",
+      "desde": 1899,
+      "hasta": 2017,
+      "estado": "Histórico",
+      "obs": "Recinto capital de origen vivero cervecero y bastión histórico durante todo el siglo veinte y veintiuno transcurrido. Albergo picos estadísticamente computados de 75,038 espectadores (vs Sunderland en el año 1938); completamente demolido sistemáticamente en 2017.",
+      "lat": 51.6033,
+      "lng": -0.0658,
+      "url": "https://www.google.com/maps/search/?api=1&query=748%20High%20Rd%2C%20Tottenham%2C%20London"
+    },
+    {
+      "nombre": "Tottenham Hotspur Stadium",
+      "direccion": "782 High Rd, Tottenham, London",
+      "desde": 2019,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estructura arquitectónica integral hipervanguardista montada físicamente de modo parcial sobre su predecesora; posee parametrización modular con una base de pasto sintética inferior extraíble y aptitud homologada para franquiciar a la NFL.",
+      "lat": 51.6047,
+      "lng": -0.0664,
+      "url": "https://www.google.com/maps/search/?api=1&query=782%20High%20Rd%2C%20Tottenham%2C%20London"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1882,
+      "hasta": 1898,
+      "c1": "#000080",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Diversos e inestables cruces incluyendo formales azul marino y oscuras mitades crudas experimentales."
+    },
+    {
+      "desde": 1898,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#000080",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Definitivo legendario ropaje norteño liso radiante blanco lirio y crudo emulando colosales letales poéticos a campeones invencibles formales dictaminados presuntamente honrosos estatuarios victoriosos cívicos y puristas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Harry Kane",
+      "pos": "Delantero",
+      "apodo": "Hurricane",
+      "periodo": "2009-2023",
+      "desc": "El gran referente surgido de la academia y máximo histórico del club en anotaciones. Consolidó una era dorada individual a base de definición exquisita y técnica asociativa, convirtiéndose en el gran estandarte internacional, pese a no refrendarlo en vitrinas absolutas."
+    },
+    {
+      "nombre": "Jimmy Greaves",
+      "pos": "Delantero",
+      "apodo": "Greavsie",
+      "periodo": "1961-1970",
+      "desc": "Instinto goleador único, letal y rápido, figura suprema del inicio de los años 60 y considerado uno de los mayores exponentes ofensivos de la historia británica completa. Ayudó a cimentar la obtención de diversas FA Cups antes de culminar su gigantesca campaña artillera."
+    },
+    {
+      "nombre": "Steve Perryman",
+      "pos": "Defensor Central / Mediocampista",
+      "apodo": "",
+      "periodo": "1969-1986",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central / mediocampista durante el período 1969-1986, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Bobby Smith",
+      "pos": "Delantero",
+      "apodo": "",
+      "periodo": "1955-1964",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1955-1964, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Gary Mabbutt",
+      "pos": "Defensor",
+      "apodo": "",
+      "periodo": "1982-1998",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor durante el período 1982-1998, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Harry Kane",
+      "goles": 280,
+      "partidos": 435,
+      "periodo": "2009-2023",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 280 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2023."
+    },
+    {
+      "nombre": "Jimmy Greaves",
+      "goles": 266,
+      "partidos": 379,
+      "periodo": "1961-1970",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 266 goles en competiciones oficiales durante su trayectoria en el equipo entre 1961-1970."
+    },
+    {
+      "nombre": "Bobby Smith",
+      "goles": 208,
+      "partidos": 317,
+      "periodo": "1955-1964",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1964."
+    },
+    {
+      "nombre": "Martin Chivers",
+      "goles": 174,
+      "partidos": 367,
+      "periodo": "1968-1976",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 174 goles en competiciones oficiales durante su trayectoria en el equipo entre 1968-1976."
+    },
+    {
+      "nombre": "Son Heung-min",
+      "goles": 162,
+      "partidos": 408,
+      "periodo": "2015-Actualidad",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 162 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Actualidad."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Steve Perryman",
+      "partidos": 866,
+      "periodo": "1969-1986",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 866 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1986."
+    },
+    {
+      "nombre": "Gary Mabbutt",
+      "partidos": 611,
+      "periodo": "1982-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 611 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1998."
+    },
+    {
+      "nombre": "Pat Jennings",
+      "partidos": 590,
+      "periodo": "1964-1977",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 590 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1977."
+    },
+    {
+      "nombre": "Cyril Knowles",
+      "partidos": 506,
+      "periodo": "1964-1975",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 506 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1975."
+    },
+    {
+      "nombre": "Glenn Hoddle",
+      "partidos": 490,
+      "periodo": "1975-1987",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1987."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "First Division (Inglaterra)",
+      "cantidad": 2,
+      "años": [
+        "1950-51",
+        "1960-61"
+      ]
+    },
+    {
+      "nombre": "FA Cup",
+      "cantidad": 8,
+      "años": [
+        "1900-01",
+        "1920-21",
+        "1960-61",
+        "1961-62",
+        "1966-67",
+        "1980-81",
+        "1981-82",
+        "1990-91"
+      ]
+    },
+    {
+      "nombre": "EFL Cup (League Cup)",
+      "cantidad": 4,
+      "años": [
+        "1970-71",
+        "1972-73",
+        "1998-99",
+        "2007-08"
+      ]
+    },
+    {
+      "nombre": "FA Community Shield",
+      "cantidad": 7,
+      "años": [
+        "1921",
+        "1951",
+        "1961",
+        "1962",
+        "1967",
+        "1981",
+        "1991"
+      ]
+    },
+    {
+      "nombre": "UEFA Europa League / UEFA Cup",
+      "cantidad": 2,
+      "años": [
+        "1971-72",
+        "1983-84"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa UEFA",
+      "cantidad": 1,
+      "años": [
+        "1962-63"
+      ]
+    },
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 2,
+      "años": [
+        "1919-20",
+        "1949-50"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1921",
+      "url": "/escudos/tottenham/Crest-1921b.webp"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1921_web.png"
+    },
+    {
+      "ano": "1921",
+      "url": "/escudos_historicos/tottenham/tottenham_1921_web.png"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos/tottenham/Crest-1951.webp"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1951_web.png"
+    },
+    {
+      "ano": "1951",
+      "url": "/escudos_historicos/tottenham/tottenham_1951_web.png"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos/tottenham/Crest-1967.webp"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1967_web.png"
+    },
+    {
+      "ano": "1967",
+      "url": "/escudos_historicos/tottenham/tottenham_1967_web.png"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos/tottenham/Tottenham_70s.webp"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos/tottenham/Tottenham_with_shield.webp"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1983_web.png"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos_historicos/tottenham/tottenham_1983_web.png"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1995_web.png"
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/tottenham/tottenham_1995_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos/tottenham/Tottenham_1999.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1997_web.png"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/tottenham/tottenham_1997_web.png"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_1999_web.png"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/tottenham/tottenham_1999_web.png"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_2006_web.png"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos_historicos/tottenham/tottenham_2006_web.png"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_2007_web.png"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/tottenham/tottenham_2007_web.png"
+    },
+    {
+      "ano": "2008",
+      "url": "/escudos_historicos/tottenham-hotspur/tottenham-hotspur_2008_web.png"
+    },
+    {
+      "ano": "2008",
+      "url": "/escudos_historicos/tottenham/tottenham_2008_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/tottenham/Tottenham_Hotspur_FC_logo.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Spurs",
+      "origen": "Elegido masivamente desde las cúpulas directivas a fines del sXIX para homologar su linaje adoptando una filiación feudal. Rinde estricto honor refiriéndose al apodo corto que llevaba el militar batallador Sir Henry Percy, llamado Hotspur, quien portaba ruidosas espuelas e impulsó la posesión territorial histórica en todo el recinto actual del norte de Londres."
+    }
+  ]
+}

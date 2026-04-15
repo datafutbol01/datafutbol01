@@ -1,0 +1,292 @@
+{
+  "id": "vfb-stuttgart",
+  "meta": {
+    "slug": "vfb-stuttgart"
+  },
+  "datos": {
+    "nombre_completo": "Verein für Bewegungsspiele Stuttgart 1893 e. V.",
+    "nombre_oficial": "VfB Stuttgart",
+    "nombre_corto": "VfB Stuttgart",
+    "apodo": "Die Schwaben (Los Suabos)",
+    "fundacion": "1893",
+    "estadio_actual": "MHPArena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 60449,
+    "estadio_inauguracion": "1933",
+    "estadio_direccion": "Mercedesstraße 87, 70372 Stuttgart, Alemania",
+    "estadio_lat": 48.7922,
+    "estadio_lng": 9.232,
+    "escudo_actual": "/escudos/vfb-stuttgart.webp",
+    "sigla": "VFB",
+    "socios": 80000,
+    "descripcion_corta": "Uno de los referentes históricos de la región sur de Alemania, poseedor de múltiples títulos de liga a lo largo de décadas cíclicas.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#E32221"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Karl Allgöwer (164)",
+      "mas_presencias": "Hermann Ohlicher (460)",
+      "mayor_goleada": "7-0 vs Dortmund, Hannover"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1893",
+      "hito": "Nacimiento del Escudo Suabo y la Franja Roja",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1950",
+      "hito": "Obtención del Primer Campeonato Alemán",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1992",
+      "hito": "Victoria en el Primer Torneo Unificado",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2007",
+      "hito": "El Quinto Campeonato Asegurado",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2016",
+      "hito": "El Triste Primer Descenso Moderno",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "MHPArena (Neckarstadion)",
+      "capacidad": "60.449",
+      "inauguracion": "1933",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercedesstra%C3%9Fe%2087%2C%2070372%20Stuttgart%2C%20Alemania",
+      "direccion": "Mercedesstraße 87, 70372 Stuttgart, Alemania",
+      "descripcion": "Mítico coliseo envuelto entre los motores de Swabia. Remodelado repetidas veces despojándose de pistas atléticas para acoger puro calor suabo.",
+      "lat": 48.7922,
+      "lng": 9.232
+    },
+    {
+      "nombre": "Neckarstadion (Diseño Clásico)",
+      "capacidad": "73.000",
+      "inauguracion": "1933",
+      "url": "https://www.google.com/maps/search/?api=1&query=Mercedesstra%C3%9Fe%2087%2C%2070372%20Stuttgart%2C%20Alemania",
+      "direccion": "Mercedesstraße 87, 70372 Stuttgart, Alemania",
+      "descripcion": "Nombrado popularmente así en alusión al firme río lindante del territorio alemán. Fue escenario histórico del Stuttgart, sede de mundiales teutones antes de ser destechado y reformado de raíz a la estructura autormotriz corporativa de recambio actual.",
+      "lat": 48.7922,
+      "lng": 9.232
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1893,
+      "hasta": 1924,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1925,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#e32221",
+      "sh": "#000000",
+      "me": "#ffffff",
+      "tipo": "franja-horizontal",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Karl Allgöwer",
+      "periodo": "1980-1991",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo de gran despliegue y principal referente. Finalizó su carrera oficial siendo el jugador indiscutido con la mayor artillería goleadora en la historia del club."
+    },
+    {
+      "nombre": "Guido Buchwald",
+      "periodo": "1983-1994",
+      "pos": "Defensor",
+      "desc": "Sólido zaguero central nacional. Aseguró firmemente sus labores defensivas convirtiéndose en constante pilar participativo y alzando el certamen logrando el campeonato local en 1992."
+    },
+    {
+      "nombre": "Giovane Élber",
+      "periodo": "1994-1997",
+      "pos": "Delantero",
+      "desc": "Atacante originario de Brasil de temible letalidad ofensiva. Integró uno de los tridentes goleadores más recordados en la máxima liga alemana obteniendo el título copero consecutivo."
+    },
+    {
+      "nombre": "Krassimir Balakov",
+      "periodo": "1995-2003",
+      "pos": "Mediocampista",
+      "desc": "Talentoso mediocampista creativo búlgaro de origen internacional. Fue el gran cerebro asistidor conformando la base histórica organizativa que dominó con éxito su época local."
+    },
+    {
+      "nombre": "Günther Schäfer",
+      "periodo": "1980-1993",
+      "pos": "Defensor",
+      "desc": "Defensor y líder indiscutido. Disputó una carrera constante logrando mantenerse en el nivel titular oficial para sumar múltiples competiciones firmes originando enormes actuaciones a gran ritmo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Karl Allgöwer",
+      "goles": 164,
+      "periodo": "1980-1991",
+      "partidos": 381,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 164 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980-1991."
+    },
+    {
+      "nombre": "Hermann Ohlicher",
+      "goles": 157,
+      "periodo": "1973-1985",
+      "partidos": 460,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 157 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1985."
+    },
+    {
+      "nombre": "Fritz Walter",
+      "goles": 124,
+      "periodo": "1987-1994",
+      "partidos": 259,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 124 goles en competiciones oficiales durante su trayectoria en el equipo entre 1987-1994."
+    },
+    {
+      "nombre": "Mario Gómez",
+      "goles": 110,
+      "periodo": "2003-2009",
+      "partidos": 230,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 110 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2009."
+    },
+    {
+      "nombre": "Cacau",
+      "goles": 109,
+      "periodo": "2003-2014",
+      "partidos": 346,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 109 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2014."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Hermann Ohlicher",
+      "partidos": 460,
+      "periodo": "1973-1985",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 460 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1985."
+    },
+    {
+      "nombre": "Günther Schäfer",
+      "partidos": 402,
+      "periodo": "1980-1993",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 402 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1993."
+    },
+    {
+      "nombre": "Zvonimir Soldo",
+      "partidos": 399,
+      "periodo": "1996-2006",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 399 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2006."
+    },
+    {
+      "nombre": "Karl Allgöwer",
+      "partidos": 381,
+      "periodo": "1980-1991",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 381 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1991."
+    },
+    {
+      "nombre": "Cacau",
+      "partidos": 346,
+      "periodo": "2003-2014",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 346 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2014."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga / Campeonato Alemán",
+      "cantidad": 5,
+      "anios": [
+        "1949-50",
+        "1951-52",
+        "1983-84",
+        "1991-92",
+        "2006-07"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 3,
+      "anios": [
+        "1953-54",
+        "1957-58",
+        "1996-97"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 1,
+      "anios": [
+        "1992"
+      ]
+    },
+    {
+      "nombre": "2. Bundesliga",
+      "cantidad": 2,
+      "anios": [
+        "1976-77",
+        "2016-17"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/vfb-stuttgart/VfB_Stuttgart_logo_1.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/vfb-stuttgart/VfB_Stuttgart_logo.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/vfb-stuttgart/VfB_Stuttgart_logo_29.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/vfb-stuttgart/FV_Stuttgart.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/vfb-stuttgart/Kronen-Club_Cannstatt.webp"
+    },
+    {
+      "ano": "1949",
+      "url": "/escudos_historicos/vfb-stuttgart/1949.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/vfb-stuttgart.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Schwaben",
+      "origen": "Gentilicio natural e identitario impuesto de base para acoplar la herencia oficial y unificar el arraigo regional en su escudo cívico. Implica referir designando textualmente en lengua alemana el estatus geográfico de origen aludiendo a Los Suabos, englobando a toda la tradicional población fronteriza de cuna estatal sureña habitante del histórico ducado de Suabia en Baden-Wurtemberg."
+    },
+    {
+      "apodo": "Die Roten",
+      "origen": "Apuntado de forma deportiva oficializando los firmes anclajes de su vestuario tradicional e invariable en Alemania. Copiando la traducción textual refiriendo a Los Rojos, evoca asiduamente la gruesa e histórica franja central sanguínea carmesí inamovible que atraviesa incansablemente en todos sus uniformes el pecho liso blanco desde la década fundacional."
+    }
+  ]
+}

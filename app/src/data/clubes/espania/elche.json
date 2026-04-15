@@ -1,0 +1,261 @@
+{
+  "id": "elche",
+  "meta": {
+    "etiquetas": [
+      "espania",
+      "la liga",
+      "elche",
+      "ilicitanos"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Elche Club de Fútbol",
+    "sigla": "ELC",
+    "fundacion": "10 de enero de 1923",
+    "apodo": "Ilicitanos, Franjiverdes",
+    "estadio_actual": "Estadio Martínez Valero",
+    "estadio_apodo": "",
+    "estadio_capacidad": 31388,
+    "estadio_inauguracion": "1976",
+    "estadio_lat": 38.2669,
+    "estadio_lng": -0.6636,
+    "estadio_direccion": "Av. de Manuel Martínez Valero, 3, 03208 Elche, Alicante, España",
+    "socios": 15000,
+    "descripcion_corta": "Agrupación histórica alicantina unificada de bandos urbanos periféricos en la década veintial.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#006400"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-1 a Sevilla",
+      "maximo_goleador": "Nino",
+      "mas_presencias": "Nino (475 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1923",
+      "hito": "Unificación de Fuerzas Ilicitanas",
+      "desc": "Transcurrido el mes de enero de 1923, la ferviente afición al fútbol en Elche se encontraba peligrosamente fragmentada entre equipos de barrio como La Deportiva, la Gimnástica Ilicitana, el Sporting y diversas peñas. Ante el clamor popular por unificar fuerzas, un visionario y tenaz grupo de hombres decidió congregarse bajo unas precarias tribunas pirotécnicas instaladas en la ciudad. Entre estruendos de cohetes, pioneros absolutos como don Mariano Antón, Joaquín Grau, Vicente Sellés, José Alberola y Juan Maciá firmaron el acta constitutiva para fundir sus respectivos equipos amateurs. Allí nació el Elche Foot-ball Club, vistiendo camisas y pantalones inmaculadamente blancos en sus primeros pasos, forjando el espíritu indomable de una escuadra representativa nacida y exclusivamente del consenso obrero y municipal ilicitano."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Campo de Altabix",
+      "direccion": "Camino de las viñas, Elche",
+      "desde": 1926,
+      "hasta": 1976,
+      "estado": "Histórico",
+      "obs": "Estadio clásico.",
+      "lat": 38.264,
+      "lng": -0.697,
+      "url": "https://www.google.com/maps/search/?api=1&query=Camino%20de%20las%20vi%C3%B1as%2C%20Elche"
+    },
+    {
+      "nombre": "Estadio Martínez Valero",
+      "direccion": "Av. de Manuel Martínez Valero, 3, Elche",
+      "desde": 1976,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estadio referente alicantino y mundialista.",
+      "lat": 38.2669,
+      "lng": -0.6636,
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Manuel%20Mart%C3%ADnez%20Valero%2C%203%2C%20Elche"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1922,
+      "hasta": 1926,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camisas albas poéticas lisas formales carentes fundacionales."
+    },
+    {
+      "desde": 1926,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#006600",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "franja-horizontal",
+      "desc": "Bautismo histórico insólito estatutario donde cruzan poéticos el blanco lienzo crudo e agregando cívico gloriosa legendaria una ancha, divina e purista franja horizontal de color verde esmeralda y."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Juan Francisco Martínez (Nino)",
+      "pos": "Delantero",
+      "apodo": "Nino",
+      "periodo": "1998-2021",
+      "desc": "Dueño de ambos récords históricos: máximo goleador absoluto y jugador con más partidos disputados en el club."
+    },
+    {
+      "nombre": "Fidel Chaves",
+      "pos": "Centrocampista",
+      "apodo": "",
+      "periodo": "2012-",
+      "desc": "Mediocampista que aportó participaciones clave para conseguir diferentes ascensos a Primera División."
+    },
+    {
+      "nombre": "Marcial Pina",
+      "pos": "Centrocampista",
+      "apodo": "",
+      "periodo": "1964-1966",
+      "desc": "Habilidoso mediocampista surgido del club en la década de los 60 antes de su paso a clubes mayores de Primera División."
+    },
+    {
+      "nombre": "Romero",
+      "pos": "Defensa",
+      "apodo": "",
+      "periodo": "1966-1977",
+      "desc": "Defensor central que formó una titularidad constante en torneos y copas a mediados de siglo estableciendo solidez defensiva."
+    },
+    {
+      "nombre": "Miguel Quirant",
+      "pos": "Defensa",
+      "apodo": "",
+      "periodo": "1954-1965",
+      "desc": "Defensor que ocupa actualmente la tercera posición histórica en la estadística de partidos jugados en la institución."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Nino",
+      "goles": 135,
+      "partidos": 475,
+      "periodo": "1998-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 135 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2021."
+    },
+    {
+      "nombre": "Boria",
+      "goles": 88,
+      "partidos": 190,
+      "periodo": "1980-1988",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 88 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980-1988."
+    },
+    {
+      "nombre": "César Rodríguez",
+      "goles": 33,
+      "partidos": 56,
+      "periodo": "1958-1960",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 33 goles en competiciones oficiales durante su trayectoria en el equipo entre 1958-1960."
+    },
+    {
+      "nombre": "Sanjuan",
+      "goles": 48,
+      "partidos": 236,
+      "periodo": "1991-2000",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-2000."
+    },
+    {
+      "nombre": "Vavá",
+      "goles": 42,
+      "partidos": 86,
+      "periodo": "1964-1969",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 42 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1969."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Nino",
+      "partidos": 475,
+      "periodo": "1998-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 475 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2021."
+    },
+    {
+      "nombre": "Quirant",
+      "partidos": 363,
+      "periodo": "1954-1965",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 363 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1965."
+    },
+    {
+      "nombre": "Romero",
+      "partidos": 330,
+      "periodo": "1966-1977",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 330 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1977."
+    },
+    {
+      "nombre": "Cobo",
+      "partidos": 316,
+      "periodo": "1970-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 316 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1980."
+    },
+    {
+      "nombre": "Gómez Voglino",
+      "partidos": 279,
+      "periodo": "1974-1983",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 279 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1983."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/elche/Elche.webp"
+    },
+    {
+      "ano": "1922",
+      "url": "/escudos_historicos/elche/Elche_1922_logo.webp"
+    },
+    {
+      "ano": "1929",
+      "url": "/escudos_historicos/elche/Elche_1929_logo.webp"
+    },
+    {
+      "ano": "1941",
+      "url": "/escudos_historicos/elche/Elche_1941_logo.webp"
+    },
+    {
+      "ano": "1964",
+      "url": "/escudos_historicos/elche/Elche_1964_logo.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/elche/Elche_1974_logo.webp"
+    },
+    {
+      "ano": "1986",
+      "url": "/escudos_historicos/elche/Elche_1986_logo.webp"
+    },
+    {
+      "ano": "1997",
+      "url": "/escudos_historicos/elche/Elche_1997_logo.webp"
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/elche/Elche_1999_logo.webp"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos_historicos/elche/Elche_2009-2012_Logo.webp"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/elche/Elche_CF_1960-1964.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/elche.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Franjiverdes",
+      "origen": "El apodo se instaló directamente a partir de una reforma en la indumentaria introducida durante 1926. El club vistió íntegramente de blanco hasta la llegada del directivo y entrenador europeo Anton Fivébr. El checo determinó que la camiseta debía portar una gruesa franja horizontal de color verde atravesando y cruzando la altura del pecho del lado al lado para diferenciarse en la cancha, acuñando instantáneamente el famoso e inconfundible remoquete."
+    },
+    {
+      "apodo": "Los Ilicitanos",
+      "origen": "Derivado etimológico local procedente de las profundas raíces históricas y dialectales que componen a la misma ciudad sede que gestó al club. Procede e incurre del latín inalterable clásico 'Ilici', nombre romano oficial y jurídico que recibía habitualmente y temporalmente a la entonces villa de Elche en las plenas y pasadas transiciones originarias romanas y en las etapas del Imperio Antiguo local español."
+    }
+  ]
+}

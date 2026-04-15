@@ -1,0 +1,36 @@
+{
+  "id": "deportivo-riestra",
+  "datos": {
+    "nombre_oficial": "Club Deportivo Riestra",
+    "nombre_corto": "Deportivo Riestra",
+    "apodos": [
+      "La Caballería",
+      "Los Tinelli"
+    ],
+    "fundacion": "1914-08-25",
+    "ciudad": "Buenos Aires",
+    "barrio": "Mataderos",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Ricardo Etcheverri",
+    "estadio_apodo": "El Pozo de Mataderos",
+    "estadio_capacidad": 10000,
+    "estadio_lat": -34.6613,
+    "estadio_lng": -58.5233,
+    "debut_primera": 2024
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "diseno": "bastones_verticales"
+    },
+    "short": "#CC0000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

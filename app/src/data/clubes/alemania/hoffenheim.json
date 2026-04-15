@@ -1,0 +1,232 @@
+{
+  "id": "hoffenheim",
+  "meta": {
+    "slug": "hoffenheim"
+  },
+  "datos": {
+    "nombre_completo": "Turn- und Sportgemeinschaft 1899 Hoffenheim e. V.",
+    "nombre_oficial": "TSG Hoffenheim",
+    "nombre_corto": "Hoffenheim",
+    "apodo": "Die Kraichgauer (Los de Kraichgau)",
+    "fundacion": "1899",
+    "estadio_actual": "PreZero Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 30150,
+    "estadio_inauguracion": "2009",
+    "estadio_direccion": "Dietmar-Hopp-Straße 1, 74889 Sinsheim, Alemania",
+    "estadio_lat": 49.2386,
+    "estadio_lng": 8.8872,
+    "escudo_actual": "/escudos/hoffenheim.svg",
+    "sigla": "TSG",
+    "socios": 11000,
+    "descripcion_corta": "Club financiado y potenciado directamente por la inyección económica de SAP SE, llegando a competir en Europa.",
+    "paleta": [
+      {
+        "tag": "Azul Intenso",
+        "hex": "#002D72"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Andrej Kramaric (132)",
+      "mas_presencias": "Oliver Baumann (350+)",
+      "mayor_goleada": "6-0 vs Colonia (2021)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "El Humilde Origen Rural del Turnverein",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "1990",
+      "hito": "El Ingreso Institucional del Multimillonario Dietmar Hopp",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2008",
+      "hito": "Ascenso a la Bundesliga Bajo la Estrategia de Ralf Rangnick",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2013",
+      "hito": "Agónica Salvación del Descenso ante el Dortmund",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    },
+    {
+      "ano": "2017",
+      "hito": "Clasificación Europea con Julian Nagelsmann",
+      "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Dietmar-Hopp-Stadion",
+      "capacidad": "6.350",
+      "inauguracion": "1999",
+      "url": "https://www.google.com/maps/search/?api=1&query=Silbergasse%2045%2C%2074889%20Sinsheim%2C%20Alemania",
+      "direccion": "Silbergasse 45, 74889 Sinsheim, Alemania",
+      "descripcion": "Su hogar de nacimiento oficial como bloque inversor, financiado inicialmente en los vecindarios locales previos por Hop, donde iniciaron todo su rápido y milagroso vertiginoso derrotero al profesionalismo.",
+      "lat": 49.2638,
+      "lng": 8.8772
+    },
+    {
+      "nombre": "PreZero Arena (Rhein-Neckar-Arena)",
+      "capacidad": "30.150",
+      "inauguracion": "2009",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dietmar-Hopp-Stra%C3%9Fe%201%2C%2074889%20Sinsheim%2C%20Alemania",
+      "direccion": "Dietmar-Hopp-Straße 1, 74889 Sinsheim, Alemania",
+      "descripcion": "Inmensa proeza tecnológica emplazada geográficamente lejos del pueblo central, consolidando a un esquema formativo revolucionario impulsado de billeteras.",
+      "lat": 49.2386,
+      "lng": 8.8872
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 2005,
+      "c1": "#26559b",
+      "c2": "#ffffff",
+      "sh": "#26559b",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 2008,
+      "hasta": null,
+      "c1": "#004595",
+      "c2": "#ffffff",
+      "sh": "#004595",
+      "me": "#004595",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Sejad Salihović",
+      "periodo": "2006-2015",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista táctico y gran ejecutador de penales. Formó parte principal de la escuadra durante el fulvurante e incondicional salto victorioso de las categorías inferiores."
+    },
+    {
+      "nombre": "Andrej Kramarić",
+      "periodo": "2016-Act",
+      "pos": "Delantero",
+      "desc": "Centrodelantero internacional. Logró coronarse asertivamente como el anotador y líder máximo estadístico goleador del equipo sumando enormes conquistas locales absolutas."
+    },
+    {
+      "nombre": "Roberto Firmino",
+      "periodo": "2011-2015",
+      "pos": "Delantero / Mediocampista",
+      "desc": "Atacante y mediapunta brasileño en rápido crecimiento. Exhibió grandes rendimientos en sus temporadas afianzadoras antes de resultar oficial transferencia hacia el extranjero."
+    },
+    {
+      "nombre": "Vedad Ibišević",
+      "periodo": "2007-2012",
+      "pos": "Delantero",
+      "desc": "Goleador originario de Bosnia de alta efectividad rematadora. Acumuló abundantes tantos registrando sumatorias altas como artillero regular en campeonatos de Primera."
+    },
+    {
+      "nombre": "Andreas Beck",
+      "periodo": "2008-2015",
+      "pos": "Defensor / Lateral",
+      "desc": "Defensor y capitán histórico surgido netamente formal logrando poseer gran parte regularidad titular portando la responsabilidad originaria y consolidada del equipo ascendente."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Andrej Kramarić",
+      "goles": 132,
+      "periodo": "2016-Act",
+      "partidos": 281,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 132 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-Act."
+    },
+    {
+      "nombre": "Sejad Salihović",
+      "goles": 67,
+      "periodo": "2006-2015",
+      "partidos": 249,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 67 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2015."
+    },
+    {
+      "nombre": "Vedad Ibišević",
+      "goles": 54,
+      "periodo": "2007-2012",
+      "partidos": 135,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2012."
+    },
+    {
+      "nombre": "Roberto Firmino",
+      "goles": 49,
+      "periodo": "2011-2015",
+      "partidos": 153,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2015."
+    },
+    {
+      "nombre": "Kevin Volland",
+      "goles": 36,
+      "periodo": "2012-2016",
+      "partidos": 144,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 36 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2016."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Oliver Baumann",
+      "partidos": 329,
+      "periodo": "2014-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 329 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-Act."
+    },
+    {
+      "nombre": "Sebastian Rudy",
+      "partidos": 327,
+      "periodo": "2010-2023",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-2023."
+    },
+    {
+      "nombre": "Andrej Kramarić",
+      "partidos": 281,
+      "periodo": "2016-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 281 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-Act."
+    },
+    {
+      "nombre": "Sejad Salihović",
+      "partidos": 249,
+      "periodo": "2006-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 249 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2015."
+    },
+    {
+      "nombre": "Andreas Beck",
+      "partidos": 237,
+      "periodo": "2008-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 237 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2015."
+    }
+  ],
+  "titulos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/hoffenheim/TSG_Hoffenheim_logo_29.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/hoffenheim.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Kraichgauer",
+      "origen": "Bautizado masivamente para referenciar el gentilicio natural irrenunciable asimilando su rústico polo topográfico inalterable germano del suroeste. Las crónicas asimilaron textualmente el término popular y general referenciando arraigos civiles y proclamando a su escuadra pionera como los lícitos herederos y guardianes nativos asiduos de la zona boscosa de Kraichgau."
+    }
+  ]
+}

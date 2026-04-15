@@ -1,0 +1,4981 @@
+{
+  "year": 1986,
+  "host": "México",
+  "participants": [
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "flag": "ar",
+      "dt": "Carlos Bilardo",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Sergio Almirón",
+          "pos": "DEL",
+          "club": "newells-old-boys",
+          "clubName": "Newell's Old Boys"
+        },
+        {
+          "no": 2,
+          "name": "Sergio Batista",
+          "pos": "MED",
+          "club": "argentinos-jrs",
+          "clubName": "Argentinos Juniors"
+        },
+        {
+          "no": 3,
+          "name": "Ricardo Bochini",
+          "pos": "MED",
+          "club": "independiente",
+          "clubName": "Independiente"
+        },
+        {
+          "no": 4,
+          "name": "Claudio Borghi",
+          "pos": "MED",
+          "club": "argentinos-jrs",
+          "clubName": "Argentinos Juniors"
+        },
+        {
+          "no": 5,
+          "name": "José Luis Brown",
+          "pos": "DEF",
+          "club": "deportivo-espanol",
+          "clubName": "Deportivo Español"
+        },
+        {
+          "no": 6,
+          "name": "Daniel Passarella",
+          "pos": "DEF",
+          "club": "fiorentina",
+          "clubName": "Fiorentina"
+        },
+        {
+          "no": 7,
+          "name": "Jorge Burruchaga",
+          "pos": "DEL",
+          "club": "nantes",
+          "clubName": "Nantes"
+        },
+        {
+          "no": 8,
+          "name": "Néstor Clausen",
+          "pos": "DEF",
+          "club": "independiente",
+          "clubName": "Independiente"
+        },
+        {
+          "no": 9,
+          "name": "José Luis Cuciuffo",
+          "pos": "DEF",
+          "club": "velez-sarsfield",
+          "clubName": "Vélez Sarsfield"
+        },
+        {
+          "no": 10,
+          "name": "Diego Maradona (C)",
+          "pos": "MED",
+          "club": "napoli",
+          "clubName": "Napoli"
+        },
+        {
+          "no": 11,
+          "name": "Jorge Valdano",
+          "pos": "DEL",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 12,
+          "name": "Héctor Enrique",
+          "pos": "MED",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 13,
+          "name": "Oscar Garré",
+          "pos": "DEF",
+          "club": "ferro-carril-oeste",
+          "clubName": "Ferro Carril Oeste"
+        },
+        {
+          "no": 14,
+          "name": "Ricardo Giusti",
+          "pos": "MED",
+          "club": "independiente",
+          "clubName": "Independiente"
+        },
+        {
+          "no": 15,
+          "name": "Luis Islas",
+          "pos": "ARQ",
+          "club": "estudiantes-lp",
+          "clubName": "Estudiantes LP"
+        },
+        {
+          "no": 16,
+          "name": "Julio Olarticoechea",
+          "pos": "DEF",
+          "club": "boca-juniors",
+          "clubName": "Boca Juniors"
+        },
+        {
+          "no": 17,
+          "name": "Pedro Pasculli",
+          "pos": "DEL",
+          "club": "lecce",
+          "clubName": "Lecce"
+        },
+        {
+          "no": 18,
+          "name": "Nery Pumpido",
+          "pos": "ARQ",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 19,
+          "name": "Oscar Ruggeri",
+          "pos": "DEF",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 20,
+          "name": "Carlos Tapia",
+          "pos": "MED",
+          "club": "boca-juniors",
+          "clubName": "Boca Juniors"
+        },
+        {
+          "no": 21,
+          "name": "Marcelo Trobbiani",
+          "pos": "MED",
+          "club": "elche",
+          "clubName": "Elche"
+        },
+        {
+          "no": 22,
+          "name": "Héctor Zelada",
+          "pos": "ARQ",
+          "club": "america",
+          "clubName": "América"
+        }
+      ]
+    },
+    {
+      "id": "alemania_federal",
+      "name": "Alemania Federal",
+      "flag": "de",
+      "dt": "Franz Beckenbauer",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Harald Schumacher",
+          "pos": "ARQ",
+          "club": "koeln",
+          "clubName": "1. FC Köln"
+        },
+        {
+          "no": 2,
+          "name": "Hans-Peter Briegel",
+          "pos": "DEF",
+          "club": "hellas-verona",
+          "clubName": "Hellas Verona"
+        },
+        {
+          "no": 3,
+          "name": "Andreas Brehme",
+          "pos": "DEF",
+          "club": "kaiserslautern",
+          "clubName": "Kaiserslautern"
+        },
+        {
+          "no": 4,
+          "name": "Karlheinz Förster",
+          "pos": "DEF",
+          "club": "stuttgart",
+          "clubName": "VfB Stuttgart"
+        },
+        {
+          "no": 5,
+          "name": "Matthias Herget",
+          "pos": "DEF",
+          "club": "uerdingen",
+          "clubName": "Bayer Uerdingen"
+        },
+        {
+          "no": 6,
+          "name": "Norbert Eder",
+          "pos": "DEF",
+          "club": "bayern-munich",
+          "clubName": "Bayern Múnich"
+        },
+        {
+          "no": 7,
+          "name": "Pierre Littbarski",
+          "pos": "MED",
+          "club": "koeln",
+          "clubName": "1. FC Köln"
+        },
+        {
+          "no": 8,
+          "name": "Lothar Matthäus",
+          "pos": "MED",
+          "club": "bayern-munich",
+          "clubName": "Bayern Múnich"
+        },
+        {
+          "no": 9,
+          "name": "Rudi Völler",
+          "pos": "DEL",
+          "club": "werder-bremen",
+          "clubName": "Werder Bremen"
+        },
+        {
+          "no": 10,
+          "name": "Felix Magath",
+          "pos": "MED",
+          "club": "hamburg",
+          "clubName": "Hamburger SV"
+        },
+        {
+          "no": 11,
+          "name": "Karl-Heinz Rummenigge (C)",
+          "pos": "DEL",
+          "club": "inter",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 12,
+          "name": "Uli Stein",
+          "pos": "ARQ",
+          "club": "hamburg",
+          "clubName": "Hamburger SV"
+        },
+        {
+          "no": 13,
+          "name": "Karl Allgöwer",
+          "pos": "MED",
+          "club": "stuttgart",
+          "clubName": "VfB Stuttgart"
+        },
+        {
+          "no": 14,
+          "name": "Thomas Berthold",
+          "pos": "DEF",
+          "club": "eintracht-frankfurt",
+          "clubName": "Eintracht Frankfurt"
+        },
+        {
+          "no": 15,
+          "name": "Klaus Augenthaler",
+          "pos": "DEF",
+          "club": "bayern-munich",
+          "clubName": "Bayern Múnich"
+        },
+        {
+          "no": 16,
+          "name": "Olaf Thon",
+          "pos": "MED",
+          "club": "schalke-04",
+          "clubName": "Schalke 04"
+        },
+        {
+          "no": 17,
+          "name": "Ditmar Jakobs",
+          "pos": "DEF",
+          "club": "hamburg",
+          "clubName": "Hamburger SV"
+        },
+        {
+          "no": 18,
+          "name": "Uwe Rahn",
+          "pos": "DEL",
+          "club": "borussia-monchengladbach",
+          "clubName": "Borussia Mönchengladbach"
+        },
+        {
+          "no": 19,
+          "name": "Klaus Allofs",
+          "pos": "DEL",
+          "club": "koeln",
+          "clubName": "1. FC Köln"
+        },
+        {
+          "no": 20,
+          "name": "Dieter Hoeneß",
+          "pos": "DEL",
+          "club": "bayern-munich",
+          "clubName": "Bayern Múnich"
+        },
+        {
+          "no": 21,
+          "name": "Wolfgang Rolff",
+          "pos": "MED",
+          "club": "hamburg",
+          "clubName": "Hamburger SV"
+        },
+        {
+          "no": 22,
+          "name": "Eike Immel",
+          "pos": "ARQ",
+          "club": "borussia-dortmund",
+          "clubName": "Borussia Dortmund"
+        }
+      ]
+    },
+    {
+      "id": "francia",
+      "name": "Francia",
+      "flag": "fr",
+      "dt": "Henri Michel",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Joël Bats",
+          "pos": "ARQ",
+          "club": "psg",
+          "clubName": "Paris Saint-Germain"
+        },
+        {
+          "no": 2,
+          "name": "Manuel Amoros",
+          "pos": "DEF",
+          "club": "monaco",
+          "clubName": "AS Monaco"
+        },
+        {
+          "no": 3,
+          "name": "William Ayache",
+          "pos": "DEF",
+          "club": "nantes",
+          "clubName": "FC Nantes"
+        },
+        {
+          "no": 4,
+          "name": "Patrick Battiston",
+          "pos": "DEF",
+          "club": "bordeaux",
+          "clubName": "Girondins de Bordeaux"
+        },
+        {
+          "no": 5,
+          "name": "Michel Bibard",
+          "pos": "DEF",
+          "club": "psg",
+          "clubName": "Paris Saint-Germain"
+        },
+        {
+          "no": 6,
+          "name": "Maxime Bossis",
+          "pos": "DEF",
+          "club": "racing-paris",
+          "clubName": "Racing Paris"
+        },
+        {
+          "no": 7,
+          "name": "Yvon Le Roux",
+          "pos": "DEF",
+          "club": "nantes",
+          "clubName": "FC Nantes"
+        },
+        {
+          "no": 8,
+          "name": "Thierry Tusseau",
+          "pos": "DEF",
+          "club": "bordeaux",
+          "clubName": "Girondins de Bordeaux"
+        },
+        {
+          "no": 9,
+          "name": "Luis Fernández",
+          "pos": "MED",
+          "club": "psg",
+          "clubName": "Paris Saint-Germain"
+        },
+        {
+          "no": 10,
+          "name": "Michel Platini (C)",
+          "pos": "MED",
+          "club": "juventus",
+          "clubName": "Juventus"
+        },
+        {
+          "no": 11,
+          "name": "Jean-Marc Ferreri",
+          "pos": "MED",
+          "club": "auxerre",
+          "clubName": "AJ Auxerre"
+        },
+        {
+          "no": 12,
+          "name": "Alain Giresse",
+          "pos": "MED",
+          "club": "bordeaux",
+          "clubName": "Girondins de Bordeaux"
+        },
+        {
+          "no": 13,
+          "name": "Dominique Rocheteau",
+          "pos": "DEL",
+          "club": "psg",
+          "clubName": "Paris Saint-Germain"
+        },
+        {
+          "no": 14,
+          "name": "Jean Tigana",
+          "pos": "MED",
+          "club": "bordeaux",
+          "clubName": "Girondins de Bordeaux"
+        },
+        {
+          "no": 15,
+          "name": "Philippe Vercruysse",
+          "pos": "MED",
+          "club": "lens",
+          "clubName": "RC Lens"
+        },
+        {
+          "no": 16,
+          "name": "Albert Rust",
+          "pos": "ARQ",
+          "club": "sochaux",
+          "clubName": "FC Sochaux"
+        },
+        {
+          "no": 17,
+          "name": "Jean-Pierre Papin",
+          "pos": "DEL",
+          "club": "valenciennes",
+          "clubName": "Club Brugge"
+        },
+        {
+          "no": 18,
+          "name": "Dominique Rocheteau",
+          "pos": "DEL",
+          "club": "psg",
+          "clubName": "Paris Saint-Germain"
+        },
+        {
+          "no": 19,
+          "name": "Yannick Stopyra",
+          "pos": "DEL",
+          "club": "toulouse",
+          "clubName": "Toulouse FC"
+        },
+        {
+          "no": 20,
+          "name": "Daniel Xuereb",
+          "pos": "DEL",
+          "club": "lens",
+          "clubName": "RC Lens"
+        },
+        {
+          "no": 21,
+          "name": "Philippe Bergeroo",
+          "pos": "ARQ",
+          "club": "toulouse",
+          "clubName": "Toulouse FC"
+        },
+        {
+          "no": 22,
+          "name": "Albert Rust",
+          "pos": "ARQ",
+          "club": "sochaux",
+          "clubName": "FC Sochaux"
+        }
+      ]
+    },
+    {
+      "id": "inglaterra",
+      "name": "Inglaterra",
+      "flag": "gb-eng",
+      "dt": "Bobby Robson",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Peter Shilton (C)",
+          "pos": "ARQ",
+          "club": "southampton",
+          "clubName": "Southampton"
+        },
+        {
+          "no": 2,
+          "name": "Gary Stevens",
+          "pos": "DEF",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 3,
+          "name": "Kenny Sansom",
+          "pos": "DEF",
+          "club": "arsenal",
+          "clubName": "Arsenal"
+        },
+        {
+          "no": 4,
+          "name": "Glenn Hoddle",
+          "pos": "MED",
+          "club": "tottenham",
+          "clubName": "Tottenham Hotspur"
+        },
+        {
+          "no": 5,
+          "name": "Alvin Martin",
+          "pos": "DEF",
+          "club": "west-ham",
+          "clubName": "West Ham United"
+        },
+        {
+          "no": 6,
+          "name": "Terry Butcher",
+          "pos": "DEF",
+          "club": "ipswich-town",
+          "clubName": "Ipswich Town"
+        },
+        {
+          "no": 7,
+          "name": "Bryan Robson",
+          "pos": "MED",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 8,
+          "name": "Ray Wilkins",
+          "pos": "MED",
+          "club": "milan",
+          "clubName": "AC Milan"
+        },
+        {
+          "no": 9,
+          "name": "Mark Hateley",
+          "pos": "DEL",
+          "club": "milan",
+          "clubName": "AC Milan"
+        },
+        {
+          "no": 10,
+          "name": "Gary Lineker",
+          "pos": "DEL",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 11,
+          "name": "Chris Waddle",
+          "pos": "MED",
+          "club": "tottenham",
+          "clubName": "Tottenham Hotspur"
+        },
+        {
+          "no": 12,
+          "name": "Viv Anderson",
+          "pos": "DEF",
+          "club": "arsenal",
+          "clubName": "Arsenal"
+        },
+        {
+          "no": 13,
+          "name": "Chris Woods",
+          "pos": "ARQ",
+          "club": "norwich",
+          "clubName": "Norwich City"
+        },
+        {
+          "no": 14,
+          "name": "Terry Fenwick",
+          "pos": "DEF",
+          "club": "qpr",
+          "clubName": "Queens Park Rangers"
+        },
+        {
+          "no": 15,
+          "name": "Gary A. Stevens",
+          "pos": "DEF",
+          "club": "tottenham",
+          "clubName": "Tottenham Hotspur"
+        },
+        {
+          "no": 16,
+          "name": "Peter Reid",
+          "pos": "MED",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 17,
+          "name": "Trevor Steven",
+          "pos": "MED",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 18,
+          "name": "Steve Hodge",
+          "pos": "MED",
+          "club": "aston-villa",
+          "clubName": "Aston Villa"
+        },
+        {
+          "no": 19,
+          "name": "John Barnes",
+          "pos": "DEL",
+          "club": "watford",
+          "clubName": "Watford"
+        },
+        {
+          "no": 20,
+          "name": "Peter Beardsley",
+          "pos": "DEL",
+          "club": "newcastle",
+          "clubName": "Newcastle United"
+        },
+        {
+          "no": 21,
+          "name": "Kerry Dixon",
+          "pos": "DEL",
+          "club": "chelsea",
+          "clubName": "Chelsea"
+        },
+        {
+          "no": 22,
+          "name": "Gary Bailey",
+          "pos": "ARQ",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        }
+      ]
+    },
+    {
+      "id": "belgica",
+      "name": "Bélgica",
+      "flag": "be",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Jean-Marie Pfaff",
+          "pos": "1POR",
+          "club": "bayern-munich",
+          "clubName": "Bayern Munich"
+        },
+        {
+          "no": 2,
+          "name": "Eric Gerets",
+          "pos": "2DEF",
+          "club": "psv",
+          "clubName": "PSV"
+        },
+        {
+          "no": 3,
+          "name": "Franky Van Der Elst",
+          "pos": "3MED",
+          "club": "club-brugge",
+          "clubName": "Club Brugge"
+        },
+        {
+          "no": 4,
+          "name": "Michel de Wolf",
+          "pos": "2DEF",
+          "club": "gent",
+          "clubName": "Gent"
+        },
+        {
+          "no": 5,
+          "name": "Michel Renquin",
+          "pos": "2DEF",
+          "club": "standard-liege",
+          "clubName": "Standard Liège"
+        },
+        {
+          "no": 6,
+          "name": "Franky Vercauteren",
+          "pos": "3MED",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 7,
+          "name": "René Vandereycken",
+          "pos": "3MED",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 8,
+          "name": "Enzo Scifo",
+          "pos": "3MED",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 9,
+          "name": "Erwin Vandenbergh",
+          "pos": "4DEL",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 10,
+          "name": "Philippe Desmet",
+          "pos": "3MED",
+          "club": "waregem",
+          "clubName": "Waregem"
+        },
+        {
+          "no": 11,
+          "name": "Jan Ceulemans",
+          "pos": "3MED",
+          "club": "club-brugge",
+          "clubName": "Club Brugge"
+        },
+        {
+          "no": 12,
+          "name": "Jacky Munaron",
+          "pos": "1POR",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 13,
+          "name": "Georges Grün",
+          "pos": "2DEF",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 14,
+          "name": "Leo Clijsters",
+          "pos": "2DEF",
+          "club": "waterschei-thor",
+          "clubName": "Waterschei Thor"
+        },
+        {
+          "no": 15,
+          "name": "Leo Van Der Elst",
+          "pos": "3MED",
+          "club": "club-brugge",
+          "clubName": "Club Brugge"
+        },
+        {
+          "no": 16,
+          "name": "Nico Claesen",
+          "pos": "4DEL",
+          "club": "standard-liege",
+          "clubName": "Standard Liège"
+        },
+        {
+          "no": 17,
+          "name": "Raymond Mommens",
+          "pos": "4DEL",
+          "club": "lokeren",
+          "clubName": "Lokeren"
+        },
+        {
+          "no": 18,
+          "name": "Daniel Veyt",
+          "pos": "4DEL",
+          "club": "waregem",
+          "clubName": "Waregem"
+        },
+        {
+          "no": 19,
+          "name": "Hugo Broos",
+          "pos": "2DEF",
+          "club": "club-brugge",
+          "clubName": "Club Brugge"
+        },
+        {
+          "no": 20,
+          "name": "Gilbert Bodart",
+          "pos": "1POR",
+          "club": "standard-liege",
+          "clubName": "Standard Liège"
+        },
+        {
+          "no": 21,
+          "name": "Stéphane Demol",
+          "pos": "2DEF",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 22,
+          "name": "Patrick Vervoort",
+          "pos": "3MED",
+          "club": "beerschot",
+          "clubName": "Beerschot"
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "name": "Brasil",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Carlos",
+          "pos": "1POR",
+          "club": "corinthians",
+          "clubName": "Corinthians"
+        },
+        {
+          "no": 2,
+          "name": "Édson",
+          "pos": "2DEF",
+          "club": "corinthians",
+          "clubName": "Corinthians"
+        },
+        {
+          "no": 3,
+          "name": "Oscar",
+          "pos": "2DEF",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 4,
+          "name": "Edinho",
+          "pos": "2DEF",
+          "club": "udinese",
+          "clubName": "Udinese"
+        },
+        {
+          "no": 5,
+          "name": "Falcão",
+          "pos": "3MED",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 6,
+          "name": "Júnior",
+          "pos": "3MED",
+          "club": "torino",
+          "clubName": "Torino"
+        },
+        {
+          "no": 7,
+          "name": "Müller",
+          "pos": "4DEL",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 8,
+          "name": "Casagrande",
+          "pos": "4DEL",
+          "club": "corinthians",
+          "clubName": "Corinthians"
+        },
+        {
+          "no": 9,
+          "name": "Careca",
+          "pos": "4DEL",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 10,
+          "name": "Zico",
+          "pos": "3MED",
+          "club": "flamengo",
+          "clubName": "Flamengo"
+        },
+        {
+          "no": 11,
+          "name": "Edivaldo",
+          "pos": "4DEL",
+          "club": "atletico-mineiro",
+          "clubName": "Atlético Mineiro"
+        },
+        {
+          "no": 12,
+          "name": "Paulo Vítor",
+          "pos": "1POR",
+          "club": "fluminense",
+          "clubName": "Fluminense"
+        },
+        {
+          "no": 13,
+          "name": "Josimar",
+          "pos": "2DEF",
+          "club": "botafogo",
+          "clubName": "Botafogo"
+        },
+        {
+          "no": 14,
+          "name": "Júlio César",
+          "pos": "2DEF",
+          "club": "guarani",
+          "clubName": "Guarani"
+        },
+        {
+          "no": 15,
+          "name": "Alemão",
+          "pos": "3MED",
+          "club": "botafogo",
+          "clubName": "Botafogo"
+        },
+        {
+          "no": 16,
+          "name": "Mauro Galvão",
+          "pos": "2DEF",
+          "club": "internacional",
+          "clubName": "Internacional"
+        },
+        {
+          "no": 17,
+          "name": "Branco",
+          "pos": "2DEF",
+          "club": "fluminense",
+          "clubName": "Fluminense"
+        },
+        {
+          "no": 18,
+          "name": "Sócrates",
+          "pos": "3MED",
+          "club": "flamengo",
+          "clubName": "Flamengo"
+        },
+        {
+          "no": 19,
+          "name": "Elzo",
+          "pos": "3MED",
+          "club": "atletico-mineiro",
+          "clubName": "Atlético Mineiro"
+        },
+        {
+          "no": 20,
+          "name": "Paulo Silas",
+          "pos": "3MED",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 21,
+          "name": "Valdo",
+          "pos": "3MED",
+          "club": "gr-mio",
+          "clubName": "Grêmio"
+        },
+        {
+          "no": 22,
+          "name": "Leão",
+          "pos": "1POR",
+          "club": "palmeiras",
+          "clubName": "Palmeiras"
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "name": "España",
+      "flag": "es",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Andoni Zubizarreta",
+          "pos": "1POR",
+          "club": "athletic-bilbao",
+          "clubName": "Athletic Bilbao"
+        },
+        {
+          "no": 2,
+          "name": "Tomás",
+          "pos": "2DEF",
+          "club": "atletico-madrid",
+          "clubName": "Atlético Madrid"
+        },
+        {
+          "no": 3,
+          "name": "José Antonio Camacho",
+          "pos": "2DEF",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 4,
+          "name": "Antonio Maceda",
+          "pos": "2DEF",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 5,
+          "name": "Víctor",
+          "pos": "3MED",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 6,
+          "name": "Rafael Gordillo",
+          "pos": "2DEF",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 7,
+          "name": "Juan Señor",
+          "pos": "3MED",
+          "club": "real-zaragoza",
+          "clubName": "Real Zaragoza"
+        },
+        {
+          "no": 8,
+          "name": "Andoni Goikoetxea",
+          "pos": "2DEF",
+          "club": "athletic-bilbao",
+          "clubName": "Athletic Bilbao"
+        },
+        {
+          "no": 9,
+          "name": "Emilio Butragueño",
+          "pos": "4DEL",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 10,
+          "name": "Lobo Carrasco",
+          "pos": "3MED",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 11,
+          "name": "Julio Alberto",
+          "pos": "2DEF",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 12,
+          "name": "Quique Setién",
+          "pos": "3MED",
+          "club": "atletico-madrid",
+          "clubName": "Atlético Madrid"
+        },
+        {
+          "no": 13,
+          "name": "Urruti",
+          "pos": "1POR",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 14,
+          "name": "Ricardo Gallego",
+          "pos": "3MED",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 15,
+          "name": "Chendo",
+          "pos": "2DEF",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 16,
+          "name": "Poli Rincón",
+          "pos": "4DEL",
+          "club": "real-betis",
+          "clubName": "Real Betis"
+        },
+        {
+          "no": 17,
+          "name": "Francisco",
+          "pos": "3MED",
+          "club": "sevilla",
+          "clubName": "Sevilla"
+        },
+        {
+          "no": 18,
+          "name": "Ramón Calderé",
+          "pos": "3MED",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 19,
+          "name": "Julio Salinas",
+          "pos": "4DEL",
+          "club": "athletic-bilbao",
+          "clubName": "Athletic Bilbao"
+        },
+        {
+          "no": 20,
+          "name": "Eloy",
+          "pos": "4DEL",
+          "club": "sporting-gijon",
+          "clubName": "Sporting Gijón"
+        },
+        {
+          "no": 21,
+          "name": "Míchel",
+          "pos": "3MED",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 22,
+          "name": "Juan Carlos Ablanedo",
+          "pos": "1POR",
+          "club": "sporting-gijon",
+          "clubName": "Sporting Gijón"
+        }
+      ]
+    },
+    {
+      "id": "mexico",
+      "name": "México",
+      "flag": "mx",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Pablo Larios",
+          "pos": "1POR",
+          "club": "cruz-azul",
+          "clubName": "Cruz Azul"
+        },
+        {
+          "no": 2,
+          "name": "Mario Trejo",
+          "pos": "2DEF",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 3,
+          "name": "Fernando Quirarte",
+          "pos": "2DEF",
+          "club": "guadalajara",
+          "clubName": "Guadalajara"
+        },
+        {
+          "no": 4,
+          "name": "Armando Manzo",
+          "pos": "2DEF",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 5,
+          "name": "Francisco Javier Cruz",
+          "pos": "4DEL",
+          "club": "monterrey",
+          "clubName": "Monterrey"
+        },
+        {
+          "no": 6,
+          "name": "Carlos de los Cobos",
+          "pos": "3MED",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 7,
+          "name": "Miguel España",
+          "pos": "3MED",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        },
+        {
+          "no": 8,
+          "name": "Alejandro Domínguez",
+          "pos": "3MED",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 9,
+          "name": "Hugo Sánchez",
+          "pos": "4DEL",
+          "club": "real-madrid",
+          "clubName": "Real Madrid"
+        },
+        {
+          "no": 10,
+          "name": "Tomás Boy",
+          "pos": "3MED",
+          "club": "tigres",
+          "clubName": "Tigres"
+        },
+        {
+          "no": 11,
+          "name": "Carlos Hermosillo",
+          "pos": "4DEL",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 12,
+          "name": "Ignacio Rodríguez",
+          "pos": "1POR",
+          "club": "atlante",
+          "clubName": "Atlante"
+        },
+        {
+          "no": 13,
+          "name": "Javier Aguirre",
+          "pos": "3MED",
+          "club": "atlante",
+          "clubName": "Atlante"
+        },
+        {
+          "no": 14,
+          "name": "Félix Cruz",
+          "pos": "2DEF",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        },
+        {
+          "no": 15,
+          "name": "Luis Flores",
+          "pos": "4DEL",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        },
+        {
+          "no": 16,
+          "name": "Carlos Muñoz",
+          "pos": "3MED",
+          "club": "tigres",
+          "clubName": "Tigres"
+        },
+        {
+          "no": 17,
+          "name": "Raúl Servín",
+          "pos": "2DEF",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        },
+        {
+          "no": 18,
+          "name": "Rafael Amador",
+          "pos": "2DEF",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        },
+        {
+          "no": 19,
+          "name": "Javier Hernández",
+          "pos": "3MED",
+          "club": "tecos-f-c",
+          "clubName": "Tecos F.C.."
+        },
+        {
+          "no": 20,
+          "name": "Olaf Heredia",
+          "pos": "1POR",
+          "club": "tigres",
+          "clubName": "Tigres"
+        },
+        {
+          "no": 21,
+          "name": "Cristóbal Ortega",
+          "pos": "4DEL",
+          "club": "america",
+          "clubName": "América"
+        },
+        {
+          "no": 22,
+          "name": "Manuel Negrete",
+          "pos": "3MED",
+          "club": "unam-pumas",
+          "clubName": "UNAM Pumas"
+        }
+      ]
+    },
+    {
+      "id": "italia",
+      "name": "Italia",
+      "flag": "it",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Giovanni Galli",
+          "pos": "1POR",
+          "club": "fiorentina",
+          "clubName": "Fiorentina"
+        },
+        {
+          "no": 2,
+          "name": "Giuseppe Bergomi",
+          "pos": "2DEF",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 3,
+          "name": "Antonio Cabrini",
+          "pos": "2DEF",
+          "club": "juventus",
+          "clubName": "Juventus"
+        },
+        {
+          "no": 4,
+          "name": "Fulvio Collovati",
+          "pos": "2DEF",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 5,
+          "name": "Sebastiano Nela",
+          "pos": "2DEF",
+          "club": "roma",
+          "clubName": "Roma"
+        },
+        {
+          "no": 6,
+          "name": "Gaetano Scirea",
+          "pos": "2DEF",
+          "club": "juventus",
+          "clubName": "Juventus"
+        },
+        {
+          "no": 7,
+          "name": "Roberto Tricella",
+          "pos": "2DEF",
+          "club": "hellas-verona",
+          "clubName": "Hellas Verona"
+        },
+        {
+          "no": 8,
+          "name": "Pietro Vierchowod",
+          "pos": "2DEF",
+          "club": "sampdoria",
+          "clubName": "Sampdoria"
+        },
+        {
+          "no": 9,
+          "name": "Carlo Ancelotti",
+          "pos": "3MED",
+          "club": "roma",
+          "clubName": "Roma"
+        },
+        {
+          "no": 10,
+          "name": "Salvatore Bagni",
+          "pos": "3MED",
+          "club": "napoli",
+          "clubName": "Napoli"
+        },
+        {
+          "no": 11,
+          "name": "Giuseppe Baresi",
+          "pos": "3MED",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 12,
+          "name": "Franco Tancredi",
+          "pos": "1POR",
+          "club": "roma",
+          "clubName": "Roma"
+        },
+        {
+          "no": 13,
+          "name": "Fernando De Napoli",
+          "pos": "3MED",
+          "club": "avellino",
+          "clubName": "Avellino"
+        },
+        {
+          "no": 14,
+          "name": "Antonio Di Gennaro",
+          "pos": "3MED",
+          "club": "hellas-verona",
+          "clubName": "Hellas Verona"
+        },
+        {
+          "no": 15,
+          "name": "Marco Tardelli",
+          "pos": "3MED",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 16,
+          "name": "Bruno Conti",
+          "pos": "4DEL",
+          "club": "roma",
+          "clubName": "Roma"
+        },
+        {
+          "no": 17,
+          "name": "Gianluca Vialli",
+          "pos": "4DEL",
+          "club": "sampdoria",
+          "clubName": "Sampdoria"
+        },
+        {
+          "no": 18,
+          "name": "Alessandro Altobelli",
+          "pos": "4DEL",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        },
+        {
+          "no": 19,
+          "name": "Giuseppe Galderisi",
+          "pos": "4DEL",
+          "club": "hellas-verona",
+          "clubName": "Hellas Verona"
+        },
+        {
+          "no": 20,
+          "name": "Paolo Rossi",
+          "pos": "4DEL",
+          "club": "milan",
+          "clubName": "Milan"
+        },
+        {
+          "no": 21,
+          "name": "Aldo Serena",
+          "pos": "4DEL",
+          "club": "juventus",
+          "clubName": "Juventus"
+        },
+        {
+          "no": 22,
+          "name": "Walter Zenga",
+          "pos": "1POR",
+          "club": "internazionale",
+          "clubName": "Internazionale"
+        }
+      ]
+    },
+    {
+      "id": "marruecos",
+      "name": "Marruecos",
+      "flag": "ma",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Ezzaki Badou",
+          "pos": "1POR",
+          "club": "wydad-casablanca",
+          "clubName": "Wydad Casablanca"
+        },
+        {
+          "no": 2,
+          "name": "Labid Khalifa",
+          "pos": "2DEF",
+          "club": "kenitra",
+          "clubName": "Kenitra"
+        },
+        {
+          "no": 3,
+          "name": "Abdelmajid Lamriss",
+          "pos": "2DEF",
+          "club": "far-rabat",
+          "clubName": "FAR Rabat"
+        },
+        {
+          "no": 4,
+          "name": "Mustafa El Biyaz",
+          "pos": "2DEF",
+          "club": "kac-marrakesh",
+          "clubName": "KAC Marrakesh"
+        },
+        {
+          "no": 5,
+          "name": "Noureddine Bouyahyaoui",
+          "pos": "2DEF",
+          "club": "kenitra",
+          "clubName": "Kenitra"
+        },
+        {
+          "no": 6,
+          "name": "Abdelmajid Dolmy",
+          "pos": "3MED",
+          "club": "raja-casablanca",
+          "clubName": "Raja Casablanca"
+        },
+        {
+          "no": 7,
+          "name": "Mustapha El Haddaoui",
+          "pos": "3MED",
+          "club": "lausanne",
+          "clubName": "Lausanne"
+        },
+        {
+          "no": 8,
+          "name": "Aziz Bouderbala",
+          "pos": "3MED",
+          "club": "sion",
+          "clubName": "Sion"
+        },
+        {
+          "no": 9,
+          "name": "Abdelkrim Merry \"Krimau\"",
+          "pos": "4DEL",
+          "club": "le-havre",
+          "clubName": "Le Havre"
+        },
+        {
+          "no": 10,
+          "name": "Mohamed Timoumi",
+          "pos": "3MED",
+          "club": "far-rabat",
+          "clubName": "FAR Rabat"
+        },
+        {
+          "no": 11,
+          "name": "Mustafa Merry",
+          "pos": "4DEL",
+          "club": "valenciennes",
+          "clubName": "Valenciennes"
+        },
+        {
+          "no": 12,
+          "name": "Salahdine Hmied",
+          "pos": "1POR",
+          "club": "far-rabat",
+          "clubName": "FAR Rabat"
+        },
+        {
+          "no": 13,
+          "name": "Abdelfettah Rhiati",
+          "pos": "4DEL",
+          "club": "maghreb-fez",
+          "clubName": "Maghreb Fez"
+        },
+        {
+          "no": 14,
+          "name": "Lahcen Ouadani",
+          "pos": "2DEF",
+          "club": "far-rabat",
+          "clubName": "FAR Rabat"
+        },
+        {
+          "no": 15,
+          "name": "Mouncif El Haddaoui",
+          "pos": "3MED",
+          "club": "as-sale",
+          "clubName": "AS Sale"
+        },
+        {
+          "no": 16,
+          "name": "Azzedine Amanallah",
+          "pos": "3MED",
+          "club": "besan-on",
+          "clubName": "Besançon"
+        },
+        {
+          "no": 17,
+          "name": "Abderrazak Khairi",
+          "pos": "4DEL",
+          "club": "far-rabat",
+          "clubName": "FAR Rabat"
+        },
+        {
+          "no": 18,
+          "name": "Mohammed Sahil",
+          "pos": "3MED",
+          "club": "kac-marrakesh",
+          "clubName": "KAC Marrakesh"
+        },
+        {
+          "no": 19,
+          "name": "Fadel Jilal",
+          "pos": "3MED",
+          "club": "wydad-casablanca",
+          "clubName": "Wydad Casablanca"
+        },
+        {
+          "no": 20,
+          "name": "Abdellah Bidane",
+          "pos": "2DEF",
+          "club": "codm-meknes",
+          "clubName": "CODM Meknes"
+        },
+        {
+          "no": 21,
+          "name": "Abdelaziz Souleimani",
+          "pos": "3MED",
+          "club": "maghreb-fez",
+          "clubName": "Maghreb Fez"
+        },
+        {
+          "no": 22,
+          "name": "Abdelfettah Mouddani",
+          "pos": "1POR",
+          "club": "kenitra",
+          "clubName": "Kenitra"
+        }
+      ]
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "flag": "py",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Roberto Fernández",
+          "pos": "1POR",
+          "club": "deportivo-cali",
+          "clubName": "Deportivo Cali"
+        },
+        {
+          "no": 2,
+          "name": "Juan Bautista Torales",
+          "pos": "2DEF",
+          "club": "libertad",
+          "clubName": "Libertad"
+        },
+        {
+          "no": 3,
+          "name": "César Zabala",
+          "pos": "2DEF",
+          "club": "cerro-porteno",
+          "clubName": "Cerro Porteño"
+        },
+        {
+          "no": 4,
+          "name": "Vladimiro Schettina",
+          "pos": "2DEF",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        },
+        {
+          "no": 5,
+          "name": "Rogelio Delgado",
+          "pos": "2DEF",
+          "club": "olimpia",
+          "clubName": "Olimpia"
+        },
+        {
+          "no": 6,
+          "name": "Jorge Amado Nunes",
+          "pos": "3MED",
+          "club": "deportivo-cali",
+          "clubName": "Deportivo Cali"
+        },
+        {
+          "no": 7,
+          "name": "Buenaventura Ferreira",
+          "pos": "3MED",
+          "club": "deportivo-cali",
+          "clubName": "Deportivo Cali"
+        },
+        {
+          "no": 8,
+          "name": "Julio César Romero",
+          "pos": "3MED",
+          "club": "fluminense",
+          "clubName": "Fluminense"
+        },
+        {
+          "no": 9,
+          "name": "Roberto Cabañas",
+          "pos": "4DEL",
+          "club": "america-de-cali",
+          "clubName": "América de Cali"
+        },
+        {
+          "no": 10,
+          "name": "Adolfino Cañete",
+          "pos": "3MED",
+          "club": "cruz-azul",
+          "clubName": "Cruz Azul"
+        },
+        {
+          "no": 11,
+          "name": "Alfredo Mendoza",
+          "pos": "4DEL",
+          "club": "independiente-medellin",
+          "clubName": "Independiente Medellín"
+        },
+        {
+          "no": 12,
+          "name": "Jorge Battaglia",
+          "pos": "1POR",
+          "club": "sol-de-america",
+          "clubName": "Sol de América"
+        },
+        {
+          "no": 13,
+          "name": "Virginio Cáceres",
+          "pos": "2DEF",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        },
+        {
+          "no": 14,
+          "name": "Luis Caballero",
+          "pos": "2DEF",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        },
+        {
+          "no": 15,
+          "name": "Eufemio Cabral",
+          "pos": "4DEL",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        },
+        {
+          "no": 16,
+          "name": "Jorge Guasch",
+          "pos": "3MED",
+          "club": "olimpia",
+          "clubName": "Olimpia"
+        },
+        {
+          "no": 17,
+          "name": "Francisco Alcaraz",
+          "pos": "4DEL",
+          "club": "nacional",
+          "clubName": "Nacional"
+        },
+        {
+          "no": 18,
+          "name": "Evaristo Isasi",
+          "pos": "4DEL",
+          "club": "olimpia",
+          "clubName": "Olimpia"
+        },
+        {
+          "no": 19,
+          "name": "Rolando Chilavert",
+          "pos": "3MED",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        },
+        {
+          "no": 20,
+          "name": "Ramón Hicks",
+          "pos": "4DEL",
+          "club": "libertad",
+          "clubName": "Libertad"
+        },
+        {
+          "no": 21,
+          "name": "Faustino Alonso",
+          "pos": "4DEL",
+          "club": "sol-de-america",
+          "clubName": "Sol de América"
+        },
+        {
+          "no": 22,
+          "name": "Julián Coronel",
+          "pos": "1POR",
+          "club": "guarani",
+          "clubName": "Guaraní"
+        }
+      ]
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "flag": "uy",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Rodolfo Rodríguez",
+          "pos": "1POR",
+          "club": "santos",
+          "clubName": "Santos"
+        },
+        {
+          "no": 2,
+          "name": "Nelson Gutiérrez",
+          "pos": "2DEF",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 3,
+          "name": "Eduardo Mario Acevedo",
+          "pos": "2DEF",
+          "club": "defensor-sporting",
+          "clubName": "Defensor Sporting"
+        },
+        {
+          "no": 4,
+          "name": "Víctor Diogo",
+          "pos": "2DEF",
+          "club": "palmeiras",
+          "clubName": "Palmeiras"
+        },
+        {
+          "no": 5,
+          "name": "Miguel Bossio",
+          "pos": "3MED",
+          "club": "penarol",
+          "clubName": "Peñarol"
+        },
+        {
+          "no": 6,
+          "name": "José Batista",
+          "pos": "2DEF",
+          "club": "deportivo-espanol",
+          "clubName": "Deportivo Español"
+        },
+        {
+          "no": 7,
+          "name": "Antonio Alzamendi",
+          "pos": "4DEL",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 8,
+          "name": "Jorge Barrios",
+          "pos": "3MED",
+          "club": "olympiacos",
+          "clubName": "Olympiacos"
+        },
+        {
+          "no": 9,
+          "name": "Jorge da Silva",
+          "pos": "4DEL",
+          "club": "atletico-madrid",
+          "clubName": "Atlético Madrid"
+        },
+        {
+          "no": 10,
+          "name": "Enzo Francescoli",
+          "pos": "4DEL",
+          "club": "river-plate",
+          "clubName": "River Plate"
+        },
+        {
+          "no": 11,
+          "name": "Sergio Santín",
+          "pos": "3MED",
+          "club": "atletico-nacional",
+          "clubName": "Atlético Nacional"
+        },
+        {
+          "no": 12,
+          "name": "Fernando Álvez",
+          "pos": "1POR",
+          "club": "penarol",
+          "clubName": "Peñarol"
+        },
+        {
+          "no": 13,
+          "name": "César Vega",
+          "pos": "2DEF",
+          "club": "danubio",
+          "clubName": "Danubio"
+        },
+        {
+          "no": 14,
+          "name": "Darío Pereyra",
+          "pos": "2DEF",
+          "club": "s-o-paulo",
+          "clubName": "São Paulo"
+        },
+        {
+          "no": 15,
+          "name": "Eliseo Rivero",
+          "pos": "2DEF",
+          "club": "penarol",
+          "clubName": "Peñarol"
+        },
+        {
+          "no": 16,
+          "name": "Mario Saralegui",
+          "pos": "3MED",
+          "club": "penarol",
+          "clubName": "Peñarol"
+        },
+        {
+          "no": 17,
+          "name": "José Luis Zalazar",
+          "pos": "3MED",
+          "club": "penarol",
+          "clubName": "Peñarol"
+        },
+        {
+          "no": 18,
+          "name": "Rubén Paz",
+          "pos": "3MED",
+          "club": "internacional",
+          "clubName": "Internacional"
+        },
+        {
+          "no": 19,
+          "name": "Venancio Ramos",
+          "pos": "4DEL",
+          "club": "lens",
+          "clubName": "Lens"
+        },
+        {
+          "no": 20,
+          "name": "Carlos Aguilera",
+          "pos": "4DEL",
+          "club": "nacional",
+          "clubName": "Nacional"
+        },
+        {
+          "no": 21,
+          "name": "Wilmar Cabrera",
+          "pos": "4DEL",
+          "club": "valencia",
+          "clubName": "Valencia"
+        },
+        {
+          "no": 22,
+          "name": "Celso Otero",
+          "pos": "1POR",
+          "club": "montevideo-wanderers",
+          "clubName": "Montevideo Wanderers"
+        }
+      ]
+    },
+    {
+      "id": "bulgaria",
+      "name": "Bulgaria",
+      "flag": "bg",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Borislav Mikhailov",
+          "pos": "1POR",
+          "club": "vitosha-sofia",
+          "clubName": "Vitosha Sofia"
+        },
+        {
+          "no": 2,
+          "name": "Nasko Sirakov",
+          "pos": "4DEL",
+          "club": "vitosha-sofia",
+          "clubName": "Vitosha Sofia"
+        },
+        {
+          "no": 3,
+          "name": "Nikolay Arabov",
+          "pos": "2DEF",
+          "club": "sliven",
+          "clubName": "Sliven"
+        },
+        {
+          "no": 4,
+          "name": "Petar Petrov",
+          "pos": "2DEF",
+          "club": "vitosha-sofia",
+          "clubName": "Vitosha Sofia"
+        },
+        {
+          "no": 5,
+          "name": "Georgi Dimitrov",
+          "pos": "2DEF",
+          "club": "sredec-sofia",
+          "clubName": "Sredec Sofia"
+        },
+        {
+          "no": 6,
+          "name": "Andrey Zhelyazkov",
+          "pos": "4DEL",
+          "club": "strasbourg",
+          "clubName": "Strasbourg"
+        },
+        {
+          "no": 7,
+          "name": "Bozhidar Iskrenov",
+          "pos": "3MED",
+          "club": "vitosha-sofia",
+          "clubName": "Vitosha Sofia"
+        },
+        {
+          "no": 8,
+          "name": "Ayan Sadakov",
+          "pos": "3MED",
+          "club": "lokomotiv-plovdiv",
+          "clubName": "Lokomotiv Plovdiv"
+        },
+        {
+          "no": 9,
+          "name": "Stoycho Mladenov",
+          "pos": "4DEL",
+          "club": "sredec-sofia",
+          "clubName": "Sredec Sofia"
+        },
+        {
+          "no": 10,
+          "name": "Zhivko Gospodinov",
+          "pos": "3MED",
+          "club": "spartak-varna",
+          "clubName": "Spartak Varna"
+        },
+        {
+          "no": 11,
+          "name": "Plamen Getov",
+          "pos": "3MED",
+          "club": "spartak-pleven",
+          "clubName": "Spartak Pleven"
+        },
+        {
+          "no": 12,
+          "name": "Radoslav Zdravkov",
+          "pos": "3MED",
+          "club": "sredec-sofia",
+          "clubName": "Sredec Sofia"
+        },
+        {
+          "no": 13,
+          "name": "Aleksandar Markov",
+          "pos": "2DEF",
+          "club": "spartak-pleven",
+          "clubName": "Spartak Pleven"
+        },
+        {
+          "no": 14,
+          "name": "Plamen Markov",
+          "pos": "3MED",
+          "club": "metz",
+          "clubName": "Metz"
+        },
+        {
+          "no": 15,
+          "name": "Georgi Yordanov",
+          "pos": "3MED",
+          "club": "vitosha-sofia",
+          "clubName": "Vitosha Sofia"
+        },
+        {
+          "no": 16,
+          "name": "Vasil Dragolov",
+          "pos": "4DEL",
+          "club": "beroe-stara-zagora",
+          "clubName": "Beroe Stara Zagora"
+        },
+        {
+          "no": 17,
+          "name": "Hristo Kolev",
+          "pos": "3MED",
+          "club": "lokomotiv-plovdiv",
+          "clubName": "Lokomotiv Plovdiv"
+        },
+        {
+          "no": 18,
+          "name": "Boycho Velichkov",
+          "pos": "4DEL",
+          "club": "lokomotiv-sofia",
+          "clubName": "Lokomotiv Sofia"
+        },
+        {
+          "no": 19,
+          "name": "Atanas Pashev",
+          "pos": "4DEL",
+          "club": "trakia-plovdiv",
+          "clubName": "Trakia Plovdiv"
+        },
+        {
+          "no": 20,
+          "name": "Kostadin Kostadinov",
+          "pos": "4DEL",
+          "club": "trakia-plovdiv",
+          "clubName": "Trakia Plovdiv"
+        },
+        {
+          "no": 21,
+          "name": "Iliya Dyakov",
+          "pos": "2DEF",
+          "club": "dobrudzha-tolbuchin",
+          "clubName": "Dobrudzha Tolbuchin"
+        },
+        {
+          "no": 22,
+          "name": "Iliya Valov",
+          "pos": "1POR",
+          "club": "botev-vratsa",
+          "clubName": "Botev Vratsa"
+        }
+      ]
+    },
+    {
+      "id": "polonia",
+      "name": "Polonia",
+      "flag": "pl",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Józef Młynarczyk",
+          "pos": "1POR",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 2,
+          "name": "Kazimierz Przybyś",
+          "pos": "2DEF",
+          "club": "widzew-od",
+          "clubName": "Widzew Łódź"
+        },
+        {
+          "no": 3,
+          "name": "Władysław Żmuda",
+          "pos": "2DEF",
+          "club": "cremonese",
+          "clubName": "Cremonese"
+        },
+        {
+          "no": 4,
+          "name": "Marek Ostrowski",
+          "pos": "2DEF",
+          "club": "pogo-szczecin",
+          "clubName": "Pogoń Szczecin"
+        },
+        {
+          "no": 5,
+          "name": "Roman Wójcicki",
+          "pos": "2DEF",
+          "club": "widzew-od",
+          "clubName": "Widzew Łódź"
+        },
+        {
+          "no": 6,
+          "name": "Waldemar Matysik",
+          "pos": "3MED",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 7,
+          "name": "Ryszard Tarasiewicz",
+          "pos": "3MED",
+          "club": "l-sk-wroc-aw",
+          "clubName": "Śląsk Wrocław"
+        },
+        {
+          "no": 8,
+          "name": "Jan Urban",
+          "pos": "4DEL",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 9,
+          "name": "Jan Karaś",
+          "pos": "4DEL",
+          "club": "legia-warsaw",
+          "clubName": "Legia Warsaw"
+        },
+        {
+          "no": 10,
+          "name": "Stefan Majewski",
+          "pos": "2DEF",
+          "club": "1-fc-kaiserslautern",
+          "clubName": "1. FC Kaiserslautern"
+        },
+        {
+          "no": 11,
+          "name": "Włodzimierz Smolarek",
+          "pos": "4DEL",
+          "club": "widzew-od",
+          "clubName": "Widzew Łódź"
+        },
+        {
+          "no": 12,
+          "name": "Jacek Kazimierski",
+          "pos": "1POR",
+          "club": "legia-warsaw",
+          "clubName": "Legia Warsaw"
+        },
+        {
+          "no": 13,
+          "name": "Ryszard Komornicki",
+          "pos": "3MED",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 14,
+          "name": "Dariusz Kubicki",
+          "pos": "2DEF",
+          "club": "legia-warsaw",
+          "clubName": "Legia Warsaw"
+        },
+        {
+          "no": 15,
+          "name": "Andrzej Buncol",
+          "pos": "3MED",
+          "club": "legia-warsaw",
+          "clubName": "Legia Warsaw"
+        },
+        {
+          "no": 16,
+          "name": "Andrzej Pałasz",
+          "pos": "3MED",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 17,
+          "name": "Andrzej Zgutczyński",
+          "pos": "4DEL",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 18,
+          "name": "Krzysztof Pawlak",
+          "pos": "2DEF",
+          "club": "lech-pozna",
+          "clubName": "Lech Poznań"
+        },
+        {
+          "no": 19,
+          "name": "Józef Wandzik",
+          "pos": "1POR",
+          "club": "gornik-zabrze",
+          "clubName": "Górnik Zabrze"
+        },
+        {
+          "no": 20,
+          "name": "Zbigniew Boniek",
+          "pos": "3MED",
+          "club": "roma",
+          "clubName": "Roma"
+        },
+        {
+          "no": 21,
+          "name": "Dariusz Dziekanowski",
+          "pos": "4DEL",
+          "club": "legia-warsaw",
+          "clubName": "Legia Warsaw"
+        },
+        {
+          "no": 22,
+          "name": "Jan Furtok",
+          "pos": "4DEL",
+          "club": "gks-katowice",
+          "clubName": "GKS Katowice"
+        }
+      ]
+    },
+    {
+      "id": "urss",
+      "name": "Unión Soviética",
+      "flag": "su",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Rinat Dasayev",
+          "pos": "1POR",
+          "club": "spartak-moscow",
+          "clubName": "Spartak Moscow"
+        },
+        {
+          "no": 2,
+          "name": "Volodymyr Bezsonov",
+          "pos": "2DEF",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 3,
+          "name": "Aleksandr Chivadze",
+          "pos": "2DEF",
+          "club": "dinamo-tbilisi",
+          "clubName": "Dinamo Tbilisi"
+        },
+        {
+          "no": 4,
+          "name": "Gennady Morozov",
+          "pos": "2DEF",
+          "club": "spartak-moscow",
+          "clubName": "Spartak Moscow"
+        },
+        {
+          "no": 5,
+          "name": "Anatoliy Demyanenko",
+          "pos": "2DEF",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 6,
+          "name": "Aleksandr Bubnov",
+          "pos": "2DEF",
+          "club": "spartak-moscow",
+          "clubName": "Spartak Moscow"
+        },
+        {
+          "no": 7,
+          "name": "Ivan Yaremchuk",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 8,
+          "name": "Pavel Yakovenko",
+          "pos": "3MED",
+          "club": "dynamo-kiev",
+          "clubName": "Dynamo Kiev"
+        },
+        {
+          "no": 9,
+          "name": "Aleksandr Zavarov",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 10,
+          "name": "Oleh Kuznetsov",
+          "pos": "2DEF",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 11,
+          "name": "Oleh Blokhin",
+          "pos": "4DEL",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 12,
+          "name": "Andriy Bal",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 13,
+          "name": "Gennadiy Litovchenko",
+          "pos": "3MED",
+          "club": "dnipro-dnipropetrovsk",
+          "clubName": "Dnipro Dnipropetrovsk"
+        },
+        {
+          "no": 14,
+          "name": "Sergey Rodionov",
+          "pos": "4DEL",
+          "club": "spartak-moscow",
+          "clubName": "Spartak Moscow"
+        },
+        {
+          "no": 15,
+          "name": "Nikolay Larionov",
+          "pos": "2DEF",
+          "club": "zenit-leningrad",
+          "clubName": "Zenit Leningrad"
+        },
+        {
+          "no": 16,
+          "name": "Viktor Chanov",
+          "pos": "1POR",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 17,
+          "name": "Vadym Yevtushenko",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 18,
+          "name": "Oleh Protasov",
+          "pos": "4DEL",
+          "club": "dnipro-dnipropetrovsk",
+          "clubName": "Dnipro Dnipropetrovsk"
+        },
+        {
+          "no": 19,
+          "name": "Ihor Belanov",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 20,
+          "name": "Sergei Aleinikov",
+          "pos": "3MED",
+          "club": "dinamo-minsk",
+          "clubName": "Dinamo Minsk"
+        },
+        {
+          "no": 21,
+          "name": "Vasiliy Rats",
+          "pos": "3MED",
+          "club": "dinamo-kiev",
+          "clubName": "Dinamo Kiev"
+        },
+        {
+          "no": 22,
+          "name": "Serhiy Krakovskiy",
+          "pos": "1POR",
+          "club": "dnipro-dnipropetrovsk",
+          "clubName": "Dnipro Dnipropetrovsk"
+        }
+      ]
+    },
+    {
+      "id": "escocia",
+      "name": "Escocia",
+      "flag": "gb-sct",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Jim Leighton",
+          "pos": "1POR",
+          "club": "aberdeen",
+          "clubName": "Aberdeen"
+        },
+        {
+          "no": 2,
+          "name": "Richard Gough",
+          "pos": "2DEF",
+          "club": "dundee-united",
+          "clubName": "Dundee United"
+        },
+        {
+          "no": 3,
+          "name": "Maurice Malpas",
+          "pos": "2DEF",
+          "club": "dundee-united",
+          "clubName": "Dundee United"
+        },
+        {
+          "no": 4,
+          "name": "Graeme Souness",
+          "pos": "3MED",
+          "club": "rangers",
+          "clubName": "Rangers"
+        },
+        {
+          "no": 5,
+          "name": "Alex McLeish",
+          "pos": "2DEF",
+          "club": "aberdeen",
+          "clubName": "Aberdeen"
+        },
+        {
+          "no": 6,
+          "name": "Willie Miller",
+          "pos": "2DEF",
+          "club": "aberdeen",
+          "clubName": "Aberdeen"
+        },
+        {
+          "no": 7,
+          "name": "Gordon Strachan",
+          "pos": "3MED",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 8,
+          "name": "Roy Aitken",
+          "pos": "2DEF",
+          "club": "celtic",
+          "clubName": "Celtic"
+        },
+        {
+          "no": 9,
+          "name": "Eamonn Bannon",
+          "pos": "3MED",
+          "club": "dundee-united",
+          "clubName": "Dundee United"
+        },
+        {
+          "no": 10,
+          "name": "Jim Bett",
+          "pos": "3MED",
+          "club": "aberdeen",
+          "clubName": "Aberdeen"
+        },
+        {
+          "no": 11,
+          "name": "Paul McStay",
+          "pos": "3MED",
+          "club": "celtic",
+          "clubName": "Celtic"
+        },
+        {
+          "no": 12,
+          "name": "Andy Goram",
+          "pos": "1POR",
+          "club": "oldham-athletic",
+          "clubName": "Oldham Athletic"
+        },
+        {
+          "no": 13,
+          "name": "Steve Nicol",
+          "pos": "2DEF",
+          "club": "liverpool",
+          "clubName": "Liverpool"
+        },
+        {
+          "no": 14,
+          "name": "David Narey",
+          "pos": "2DEF",
+          "club": "dundee-united",
+          "clubName": "Dundee United"
+        },
+        {
+          "no": 15,
+          "name": "Arthur Albiston",
+          "pos": "2DEF",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 16,
+          "name": "Frank McAvennie",
+          "pos": "4DEL",
+          "club": "west-ham-united",
+          "clubName": "West Ham United"
+        },
+        {
+          "no": 17,
+          "name": "Steve Archibald",
+          "pos": "4DEL",
+          "club": "barcelona",
+          "clubName": "Barcelona"
+        },
+        {
+          "no": 18,
+          "name": "Graeme Sharp",
+          "pos": "4DEL",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 19,
+          "name": "Charlie Nicholas",
+          "pos": "4DEL",
+          "club": "arsenal",
+          "clubName": "Arsenal"
+        },
+        {
+          "no": 20,
+          "name": "Paul Sturrock",
+          "pos": "4DEL",
+          "club": "dundee-united",
+          "clubName": "Dundee United"
+        },
+        {
+          "no": 21,
+          "name": "Davie Cooper",
+          "pos": "4DEL",
+          "club": "rangers",
+          "clubName": "Rangers"
+        },
+        {
+          "no": 22,
+          "name": "Alan Rough",
+          "pos": "1POR",
+          "club": "hibernian",
+          "clubName": "Hibernian"
+        }
+      ]
+    },
+    {
+      "id": "irlanda_del_norte",
+      "name": "Irlanda del Norte",
+      "flag": "gb-nir",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Pat Jennings",
+          "pos": "1POR",
+          "club": "everton",
+          "clubName": "Everton"
+        },
+        {
+          "no": 2,
+          "name": "Jimmy Nicholl",
+          "pos": "2DEF",
+          "club": "west-bromwich-albion",
+          "clubName": "West Bromwich Albion"
+        },
+        {
+          "no": 3,
+          "name": "Mal Donaghy",
+          "pos": "2DEF",
+          "club": "luton-town",
+          "clubName": "Luton Town"
+        },
+        {
+          "no": 4,
+          "name": "John O'Neill",
+          "pos": "2DEF",
+          "club": "leicester-city",
+          "clubName": "Leicester City"
+        },
+        {
+          "no": 5,
+          "name": "Alan McDonald",
+          "pos": "2DEF",
+          "club": "queens-park-rangers",
+          "clubName": "Queens Park Rangers"
+        },
+        {
+          "no": 6,
+          "name": "David McCreery",
+          "pos": "3MED",
+          "club": "newcastle-united",
+          "clubName": "Newcastle United"
+        },
+        {
+          "no": 7,
+          "name": "Steve Penney",
+          "pos": "3MED",
+          "club": "brighton-hove-albion",
+          "clubName": "Brighton & Hove Albion"
+        },
+        {
+          "no": 8,
+          "name": "Sammy McIlroy",
+          "pos": "3MED",
+          "club": "manchester-city",
+          "clubName": "Manchester City"
+        },
+        {
+          "no": 9,
+          "name": "Jimmy Quinn",
+          "pos": "4DEL",
+          "club": "blackburn-rovers",
+          "clubName": "Blackburn Rovers"
+        },
+        {
+          "no": 10,
+          "name": "Norman Whiteside",
+          "pos": "3MED",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 11,
+          "name": "Ian Stewart",
+          "pos": "4DEL",
+          "club": "newcastle-united",
+          "clubName": "Newcastle United"
+        },
+        {
+          "no": 12,
+          "name": "Jim Platt",
+          "pos": "1POR",
+          "club": "coleraine",
+          "clubName": "Coleraine"
+        },
+        {
+          "no": 13,
+          "name": "Philip Hughes",
+          "pos": "1POR",
+          "club": "bury",
+          "clubName": "Bury"
+        },
+        {
+          "no": 14,
+          "name": "Gerry Armstrong",
+          "pos": "4DEL",
+          "club": "chesterfield",
+          "clubName": "Chesterfield"
+        },
+        {
+          "no": 15,
+          "name": "Nigel Worthington",
+          "pos": "2DEF",
+          "club": "sheffield-wednesday",
+          "clubName": "Sheffield Wednesday"
+        },
+        {
+          "no": 16,
+          "name": "Paul Ramsey",
+          "pos": "3MED",
+          "club": "leicester-city",
+          "clubName": "Leicester City"
+        },
+        {
+          "no": 17,
+          "name": "Colin Clarke",
+          "pos": "4DEL",
+          "club": "afc-bournemouth",
+          "clubName": "AFC Bournemouth"
+        },
+        {
+          "no": 18,
+          "name": "John McClelland",
+          "pos": "2DEF",
+          "club": "watford",
+          "clubName": "Watford"
+        },
+        {
+          "no": 19,
+          "name": "Billy Hamilton",
+          "pos": "4DEL",
+          "club": "oxford-united",
+          "clubName": "Oxford United"
+        },
+        {
+          "no": 20,
+          "name": "Bernard McNally",
+          "pos": "3MED",
+          "club": "shrewsbury-town",
+          "clubName": "Shrewsbury Town"
+        },
+        {
+          "no": 21,
+          "name": "David Campbell",
+          "pos": "3MED",
+          "club": "nottingham-forest",
+          "clubName": "Nottingham Forest"
+        },
+        {
+          "no": 22,
+          "name": "Mark Caughey",
+          "pos": "4DEL",
+          "club": "linfield",
+          "clubName": "Linfield"
+        }
+      ]
+    },
+    {
+      "id": "hungria",
+      "name": "Hungría",
+      "flag": "hu",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Péter Disztl",
+          "pos": "1POR",
+          "club": "videoton",
+          "clubName": "Videoton"
+        },
+        {
+          "no": 2,
+          "name": "Sándor Sallai",
+          "pos": "2DEF",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 3,
+          "name": "Antal Róth",
+          "pos": "2DEF",
+          "club": "pecsi-munkas",
+          "clubName": "Pécsi Munkás"
+        },
+        {
+          "no": 4,
+          "name": "József Varga",
+          "pos": "2DEF",
+          "club": "denizlispor",
+          "clubName": "Denizlispor"
+        },
+        {
+          "no": 5,
+          "name": "József Kardos",
+          "pos": "2DEF",
+          "club": "ujpesti-dozsa",
+          "clubName": "Újpesti Dózsa"
+        },
+        {
+          "no": 6,
+          "name": "Imre Garaba",
+          "pos": "2DEF",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 7,
+          "name": "József Kiprich",
+          "pos": "4DEL",
+          "club": "tatabanyai-banyasz",
+          "clubName": "Tatabányai Bányász"
+        },
+        {
+          "no": 8,
+          "name": "Antal Nagy",
+          "pos": "2DEF",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 9,
+          "name": "László Dajka",
+          "pos": "4DEL",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 10,
+          "name": "Lajos Détári",
+          "pos": "3MED",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 11,
+          "name": "Márton Esterházy",
+          "pos": "4DEL",
+          "club": "aek-athens",
+          "clubName": "AEK Athens"
+        },
+        {
+          "no": 12,
+          "name": "József Csuhay",
+          "pos": "2DEF",
+          "club": "videoton",
+          "clubName": "Videoton"
+        },
+        {
+          "no": 13,
+          "name": "László Disztl",
+          "pos": "2DEF",
+          "club": "videoton",
+          "clubName": "Videoton"
+        },
+        {
+          "no": 14,
+          "name": "Zoltán Péter",
+          "pos": "2DEF",
+          "club": "zalaegerszeg",
+          "clubName": "Zalaegerszeg"
+        },
+        {
+          "no": 15,
+          "name": "Péter Hannich",
+          "pos": "3MED",
+          "club": "raba-eto-gy-r",
+          "clubName": "Rába ETO Győr"
+        },
+        {
+          "no": 16,
+          "name": "József Nagy",
+          "pos": "3MED",
+          "club": "szombathelyi-haladas",
+          "clubName": "Szombathelyi Haladás"
+        },
+        {
+          "no": 17,
+          "name": "Győző Burcsa",
+          "pos": "3MED",
+          "club": "auxerre",
+          "clubName": "Auxerre"
+        },
+        {
+          "no": 18,
+          "name": "József Szendrei",
+          "pos": "1POR",
+          "club": "ujpesti-dozsa",
+          "clubName": "Újpesti Dózsa"
+        },
+        {
+          "no": 19,
+          "name": "György Bognár",
+          "pos": "3MED",
+          "club": "mtk-hungaria",
+          "clubName": "MTK Hungária"
+        },
+        {
+          "no": 20,
+          "name": "Kálmán Kovács",
+          "pos": "4DEL",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        },
+        {
+          "no": 21,
+          "name": "Gyula Hajszán",
+          "pos": "3MED",
+          "club": "raba-eto-gy-r",
+          "clubName": "Rába ETO Győr"
+        },
+        {
+          "no": 22,
+          "name": "József Andrusch",
+          "pos": "1POR",
+          "club": "budapest-honved",
+          "clubName": "Budapest Honvéd"
+        }
+      ]
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "flag": "pt",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Manuel Bento",
+          "pos": "1POR",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 2,
+          "name": "João Pinto",
+          "pos": "2DEF",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 3,
+          "name": "António Sousa",
+          "pos": "3MED",
+          "club": "sporting-cp",
+          "clubName": "Sporting CP"
+        },
+        {
+          "no": 4,
+          "name": "José Ribeiro",
+          "pos": "3MED",
+          "club": "boavista",
+          "clubName": "Boavista"
+        },
+        {
+          "no": 5,
+          "name": "Álvaro",
+          "pos": "2DEF",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 6,
+          "name": "Carlos Manuel",
+          "pos": "3MED",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 7,
+          "name": "Jaime Pacheco",
+          "pos": "3MED",
+          "club": "sporting-cp",
+          "clubName": "Sporting CP"
+        },
+        {
+          "no": 8,
+          "name": "Frederico",
+          "pos": "2DEF",
+          "club": "boavista",
+          "clubName": "Boavista"
+        },
+        {
+          "no": 9,
+          "name": "Fernando Gomes",
+          "pos": "4DEL",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 10,
+          "name": "Paulo Futre",
+          "pos": "4DEL",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 11,
+          "name": "Fernando Bandeirinha",
+          "pos": "2DEF",
+          "club": "academica-de-coimbra",
+          "clubName": "Académica de Coimbra"
+        },
+        {
+          "no": 12,
+          "name": "Jorge Martins",
+          "pos": "1POR",
+          "club": "belenenses",
+          "clubName": "Belenenses"
+        },
+        {
+          "no": 13,
+          "name": "António Morato",
+          "pos": "2DEF",
+          "club": "sporting-cp",
+          "clubName": "Sporting CP"
+        },
+        {
+          "no": 14,
+          "name": "Jaime Magalhães",
+          "pos": "3MED",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 15,
+          "name": "António Oliveira",
+          "pos": "2DEF",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 16,
+          "name": "José António",
+          "pos": "2DEF",
+          "club": "belenenses",
+          "clubName": "Belenenses"
+        },
+        {
+          "no": 17,
+          "name": "Diamantino",
+          "pos": "3MED",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 18,
+          "name": "Luís Sobrinho",
+          "pos": "2DEF",
+          "club": "belenenses",
+          "clubName": "Belenenses"
+        },
+        {
+          "no": 19,
+          "name": "Rui Águas",
+          "pos": "4DEL",
+          "club": "benfica",
+          "clubName": "Benfica"
+        },
+        {
+          "no": 20,
+          "name": "Augusto Inácio",
+          "pos": "2DEF",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 21,
+          "name": "António André",
+          "pos": "3MED",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 22,
+          "name": "Vítor Damas",
+          "pos": "1POR",
+          "club": "sporting-cp",
+          "clubName": "Sporting CP"
+        }
+      ]
+    },
+    {
+      "id": "dinamarca",
+      "name": "Dinamarca",
+      "flag": "dk",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Troels Rasmussen",
+          "pos": "1POR",
+          "club": "agf",
+          "clubName": "AGF"
+        },
+        {
+          "no": 2,
+          "name": "John Sivebæk",
+          "pos": "2DEF",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 3,
+          "name": "Søren Busk",
+          "pos": "2DEF",
+          "club": "mvv",
+          "clubName": "MVV"
+        },
+        {
+          "no": 4,
+          "name": "Morten Olsen",
+          "pos": "2DEF",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 5,
+          "name": "Ivan Nielsen",
+          "pos": "2DEF",
+          "club": "feyenoord",
+          "clubName": "Feyenoord"
+        },
+        {
+          "no": 6,
+          "name": "Søren Lerby",
+          "pos": "3MED",
+          "club": "bayern-munich",
+          "clubName": "Bayern Munich"
+        },
+        {
+          "no": 7,
+          "name": "Jan Mølby",
+          "pos": "3MED",
+          "club": "liverpool",
+          "clubName": "Liverpool"
+        },
+        {
+          "no": 8,
+          "name": "Jesper Olsen",
+          "pos": "4DEL",
+          "club": "manchester-united",
+          "clubName": "Manchester United"
+        },
+        {
+          "no": 9,
+          "name": "Klaus Berggreen",
+          "pos": "3MED",
+          "club": "pisa",
+          "clubName": "Pisa"
+        },
+        {
+          "no": 10,
+          "name": "Preben Elkjær",
+          "pos": "4DEL",
+          "club": "hellas-verona",
+          "clubName": "Hellas Verona"
+        },
+        {
+          "no": 11,
+          "name": "Michael Laudrup",
+          "pos": "3MED",
+          "club": "juventus",
+          "clubName": "Juventus"
+        },
+        {
+          "no": 12,
+          "name": "Jens Jørn Bertelsen",
+          "pos": "3MED",
+          "club": "aarau",
+          "clubName": "Aarau"
+        },
+        {
+          "no": 13,
+          "name": "Per Frimann",
+          "pos": "3MED",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 14,
+          "name": "Allan Simonsen",
+          "pos": "4DEL",
+          "club": "vejle",
+          "clubName": "Vejle"
+        },
+        {
+          "no": 15,
+          "name": "Frank Arnesen",
+          "pos": "3MED",
+          "club": "psv",
+          "clubName": "PSV"
+        },
+        {
+          "no": 16,
+          "name": "Ole Qvist",
+          "pos": "1POR",
+          "club": "kb",
+          "clubName": "KB"
+        },
+        {
+          "no": 17,
+          "name": "Kent Nielsen",
+          "pos": "2DEF",
+          "club": "br-nsh-j",
+          "clubName": "Brønshøj"
+        },
+        {
+          "no": 18,
+          "name": "Flemming Christensen",
+          "pos": "4DEL",
+          "club": "lyngby",
+          "clubName": "Lyngby"
+        },
+        {
+          "no": 19,
+          "name": "John Eriksen",
+          "pos": "4DEL",
+          "club": "feyenoord",
+          "clubName": "Feyenoord"
+        },
+        {
+          "no": 20,
+          "name": "Jan Bartram",
+          "pos": "3MED",
+          "club": "agf",
+          "clubName": "AGF"
+        },
+        {
+          "no": 21,
+          "name": "Henrik Andersen",
+          "pos": "2DEF",
+          "club": "anderlecht",
+          "clubName": "Anderlecht"
+        },
+        {
+          "no": 22,
+          "name": "Lars Høgh",
+          "pos": "1POR",
+          "club": "odense",
+          "clubName": "Odense"
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canadá",
+      "flag": "ca",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Tino Lettieri",
+          "pos": "1POR",
+          "club": "minnesota-strikers",
+          "clubName": "Minnesota Strikers"
+        },
+        {
+          "no": 2,
+          "name": "Bob Lenarduzzi",
+          "pos": "2DEF",
+          "club": "tacoma-stars",
+          "clubName": "Tacoma Stars"
+        },
+        {
+          "no": 3,
+          "name": "Bruce Wilson",
+          "pos": "2DEF",
+          "club": "inex-toronto",
+          "clubName": "Inex Toronto"
+        },
+        {
+          "no": 4,
+          "name": "Randy Ragan",
+          "pos": "3MED",
+          "club": "toronto-blizzard",
+          "clubName": "Toronto Blizzard"
+        },
+        {
+          "no": 5,
+          "name": "Terry Moore",
+          "pos": "2DEF",
+          "club": "glentoran",
+          "clubName": "Glentoran"
+        },
+        {
+          "no": 6,
+          "name": "Ian Bridge",
+          "pos": "2DEF",
+          "club": "la-chaux-de-fonds",
+          "clubName": "La Chaux-de-Fonds"
+        },
+        {
+          "no": 7,
+          "name": "Carl Valentine",
+          "pos": "4DEL",
+          "club": "cleveland-force",
+          "clubName": "Cleveland Force"
+        },
+        {
+          "no": 8,
+          "name": "Gerry Gray",
+          "pos": "3MED",
+          "club": "chicago-sting",
+          "clubName": "Chicago Sting"
+        },
+        {
+          "no": 9,
+          "name": "Branko Šegota",
+          "pos": "4DEL",
+          "club": "san-diego-sockers",
+          "clubName": "San Diego Sockers"
+        },
+        {
+          "no": 10,
+          "name": "Igor Vrablic",
+          "pos": "4DEL",
+          "club": "seraing",
+          "clubName": "Seraing"
+        },
+        {
+          "no": 11,
+          "name": "Mike Sweeney",
+          "pos": "3MED",
+          "club": "cleveland-force",
+          "clubName": "Cleveland Force"
+        },
+        {
+          "no": 12,
+          "name": "Randy Samuel",
+          "pos": "2DEF",
+          "club": "psv",
+          "clubName": "PSV"
+        },
+        {
+          "no": 13,
+          "name": "George Pakos",
+          "pos": "4DEL",
+          "club": "victoria-athletic-association",
+          "clubName": "Victoria Athletic Association"
+        },
+        {
+          "no": 14,
+          "name": "Dale Mitchell",
+          "pos": "4DEL",
+          "club": "tacoma-stars",
+          "clubName": "Tacoma Stars"
+        },
+        {
+          "no": 15,
+          "name": "Paul James",
+          "pos": "3MED",
+          "club": "monterrey",
+          "clubName": "Monterrey"
+        },
+        {
+          "no": 16,
+          "name": "Greg Ion",
+          "pos": "3MED",
+          "club": "los-angeles-lazers",
+          "clubName": "Los Angeles Lazers"
+        },
+        {
+          "no": 17,
+          "name": "David Norman",
+          "pos": "3MED",
+          "club": "tacoma-stars",
+          "clubName": "Tacoma Stars"
+        },
+        {
+          "no": 18,
+          "name": "Jamie Lowery",
+          "pos": "3MED",
+          "club": "tacoma-stars",
+          "clubName": "Tacoma Stars"
+        },
+        {
+          "no": 19,
+          "name": "Pasquale De Luca",
+          "pos": "2DEF",
+          "club": "cleveland-force",
+          "clubName": "Cleveland Force"
+        },
+        {
+          "no": 20,
+          "name": "Colin Miller",
+          "pos": "2DEF",
+          "club": "rangers",
+          "clubName": "Rangers"
+        },
+        {
+          "no": 21,
+          "name": "Sven Habermann",
+          "pos": "1POR",
+          "club": "inex-toronto",
+          "clubName": "Inex Toronto"
+        },
+        {
+          "no": 22,
+          "name": "Paul Dolan",
+          "pos": "1POR",
+          "club": "edmonton-brick-men",
+          "clubName": "Edmonton Brick Men"
+        }
+      ]
+    },
+    {
+      "id": "argelia",
+      "name": "Argelia",
+      "flag": "dz",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Nacerdine Drid",
+          "pos": "1POR",
+          "club": "mp-oran",
+          "clubName": "MP Oran"
+        },
+        {
+          "no": 2,
+          "name": "Mahmoud Guendouz",
+          "pos": "2DEF",
+          "club": "js-el-biar",
+          "clubName": "JS El Biar"
+        },
+        {
+          "no": 3,
+          "name": "Fathi Chebal",
+          "pos": "3MED",
+          "club": "rouen",
+          "clubName": "Rouen"
+        },
+        {
+          "no": 4,
+          "name": "Nourredine Kourichi",
+          "pos": "2DEF",
+          "club": "lille",
+          "clubName": "Lille"
+        },
+        {
+          "no": 5,
+          "name": "Abdellah Medjadi Liegeon",
+          "pos": "2DEF",
+          "club": "monaco",
+          "clubName": "Monaco"
+        },
+        {
+          "no": 6,
+          "name": "Mohammed Kaci Said",
+          "pos": "3MED",
+          "club": "rs-kouba",
+          "clubName": "RS Kouba"
+        },
+        {
+          "no": 7,
+          "name": "Salah Assad",
+          "pos": "4DEL",
+          "club": "mulhouse",
+          "clubName": "Mulhouse"
+        },
+        {
+          "no": 8,
+          "name": "Karim Maroc",
+          "pos": "3MED",
+          "club": "montpellier",
+          "clubName": "Montpellier"
+        },
+        {
+          "no": 9,
+          "name": "Djamel Menad",
+          "pos": "4DEL",
+          "club": "je-tizi-ouzou",
+          "clubName": "JE Tizi-Ouzou"
+        },
+        {
+          "no": 10,
+          "name": "Lakhdar Belloumi",
+          "pos": "3MED",
+          "club": "gcr-mascara",
+          "clubName": "GCR Mascara"
+        },
+        {
+          "no": 11,
+          "name": "Rabah Madjer",
+          "pos": "4DEL",
+          "club": "porto",
+          "clubName": "Porto"
+        },
+        {
+          "no": 12,
+          "name": "Tedj Bensaoula",
+          "pos": "4DEL",
+          "club": "le-havre",
+          "clubName": "Le Havre"
+        },
+        {
+          "no": 13,
+          "name": "Rachid Harkouk",
+          "pos": "4DEL",
+          "club": "notts-county",
+          "clubName": "Notts County"
+        },
+        {
+          "no": 14,
+          "name": "Djamel Zidane",
+          "pos": "4DEL",
+          "club": "waterschei-thor",
+          "clubName": "Waterschei Thor"
+        },
+        {
+          "no": 15,
+          "name": "Abdelhamid Sadmi",
+          "pos": "2DEF",
+          "club": "je-tizi-ouzou",
+          "clubName": "JE Tizi-Ouzou"
+        },
+        {
+          "no": 16,
+          "name": "Faouzi Mansouri",
+          "pos": "2DEF",
+          "club": "montpellier",
+          "clubName": "Montpellier"
+        },
+        {
+          "no": 17,
+          "name": "Fawzi Benkhalidi",
+          "pos": "3MED",
+          "club": "wkf-boufarik",
+          "clubName": "WKF Boufarik"
+        },
+        {
+          "no": 18,
+          "name": "Halim Benmabrouk",
+          "pos": "3MED",
+          "club": "racing-paris",
+          "clubName": "Racing Paris"
+        },
+        {
+          "no": 19,
+          "name": "Mohammed Chaib",
+          "pos": "2DEF",
+          "club": "rs-kouba",
+          "clubName": "RS Kouba"
+        },
+        {
+          "no": 20,
+          "name": "Fodil Megharia",
+          "pos": "2DEF",
+          "club": "aso-chlef",
+          "clubName": "ASO Chlef"
+        },
+        {
+          "no": 21,
+          "name": "Larbi El Hadi",
+          "pos": "1POR",
+          "club": "wkf-boufarik",
+          "clubName": "WKF Boufarik"
+        },
+        {
+          "no": 22,
+          "name": "Mourad Amara",
+          "pos": "1POR",
+          "club": "je-tizi-ouzou",
+          "clubName": "JE Tizi-Ouzou"
+        }
+      ]
+    },
+    {
+      "id": "corea_del_sur",
+      "name": "Corea del Sur",
+      "flag": "kr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Cho Byung-deuk",
+          "pos": "1POR",
+          "club": "hallelujah-fc",
+          "clubName": "Hallelujah FC"
+        },
+        {
+          "no": 2,
+          "name": "Park Kyung-hoon",
+          "pos": "2DEF",
+          "club": "posco-atoms",
+          "clubName": "POSCO Atoms"
+        },
+        {
+          "no": 3,
+          "name": "Chung Jong-soo",
+          "pos": "2DEF",
+          "club": "yukong-elephants",
+          "clubName": "Yukong Elephants"
+        },
+        {
+          "no": 4,
+          "name": "Cho Kwang-rae",
+          "pos": "3MED",
+          "club": "daewoo-royals",
+          "clubName": "Daewoo Royals"
+        },
+        {
+          "no": 5,
+          "name": "Chung Yong-hwan",
+          "pos": "2DEF",
+          "club": "daewoo-royals",
+          "clubName": "Daewoo Royals"
+        },
+        {
+          "no": 6,
+          "name": "Lee Tae-ho",
+          "pos": "4DEL",
+          "club": "daewoo-royals",
+          "clubName": "Daewoo Royals"
+        },
+        {
+          "no": 7,
+          "name": "Kim Jong-boo",
+          "pos": "4DEL",
+          "club": "korea-university",
+          "clubName": "Korea University"
+        },
+        {
+          "no": 8,
+          "name": "Cho Young-jeung",
+          "pos": "2DEF",
+          "club": "lucky-goldstar-hwangso",
+          "clubName": "Lucky-Goldstar Hwangso"
+        },
+        {
+          "no": 9,
+          "name": "Choi Soon-ho",
+          "pos": "4DEL",
+          "club": "posco-atoms",
+          "clubName": "POSCO Atoms"
+        },
+        {
+          "no": 10,
+          "name": "Park Chang-sun",
+          "pos": "3MED",
+          "club": "daewoo-royals",
+          "clubName": "Daewoo Royals"
+        },
+        {
+          "no": 11,
+          "name": "Cha Bum-kun",
+          "pos": "4DEL",
+          "club": "bayer-leverkusen",
+          "clubName": "Bayer Leverkusen"
+        },
+        {
+          "no": 12,
+          "name": "Kim Pyung-seok",
+          "pos": "2DEF",
+          "club": "hyundai-horangi",
+          "clubName": "Hyundai Horangi"
+        },
+        {
+          "no": 13,
+          "name": "Noh Soo-jin",
+          "pos": "3MED",
+          "club": "yukong-elephants",
+          "clubName": "Yukong Elephants"
+        },
+        {
+          "no": 14,
+          "name": "Cho Min-kook",
+          "pos": "2DEF",
+          "club": "lucky-goldstar-hwangso",
+          "clubName": "Lucky-Goldstar Hwangso"
+        },
+        {
+          "no": 15,
+          "name": "Yoo Byung-ok",
+          "pos": "2DEF",
+          "club": "hanyang-university",
+          "clubName": "Hanyang University"
+        },
+        {
+          "no": 16,
+          "name": "Kim Joo-sung",
+          "pos": "3MED",
+          "club": "chosun-university",
+          "clubName": "Chosun University"
+        },
+        {
+          "no": 17,
+          "name": "Huh Jung-moo",
+          "pos": "3MED",
+          "club": "hyundai-horangi",
+          "clubName": "Hyundai Horangi"
+        },
+        {
+          "no": 18,
+          "name": "Kim Sam-soo",
+          "pos": "3MED",
+          "club": "hyundai-horangi",
+          "clubName": "Hyundai Horangi"
+        },
+        {
+          "no": 19,
+          "name": "Byun Byung-joo",
+          "pos": "4DEL",
+          "club": "daewoo-royals",
+          "clubName": "Daewoo Royals"
+        },
+        {
+          "no": 20,
+          "name": "Kim Yong-se",
+          "pos": "4DEL",
+          "club": "yukong-elephants",
+          "clubName": "Yukong Elephants"
+        },
+        {
+          "no": 21,
+          "name": "Oh Yun-kyo",
+          "pos": "1POR",
+          "club": "yukong-elephants",
+          "clubName": "Yukong Elephants"
+        },
+        {
+          "no": 22,
+          "name": "Kang Deuk-soo",
+          "pos": "3MED",
+          "club": "lucky-goldstar-hwangso",
+          "clubName": "Lucky-Goldstar Hwangso"
+        }
+      ]
+    },
+    {
+      "id": "irak",
+      "name": "Irak",
+      "flag": "iq",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Raad Hammoudi",
+          "pos": "1POR",
+          "club": "al-shorta",
+          "clubName": "Al-Shorta"
+        },
+        {
+          "no": 2,
+          "name": "Maad Ibrahim",
+          "pos": "2DEF",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 3,
+          "name": "Khalil Allawi",
+          "pos": "2DEF",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 4,
+          "name": "Nadhim Shaker",
+          "pos": "2DEF",
+          "club": "al-tayaran",
+          "clubName": "Al-Tayaran"
+        },
+        {
+          "no": 5,
+          "name": "Samir Shaker",
+          "pos": "2DEF",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 6,
+          "name": "Ali Hussein Shihab",
+          "pos": "3MED",
+          "club": "al-talaba",
+          "clubName": "Al-Talaba"
+        },
+        {
+          "no": 7,
+          "name": "Haris Mohammed",
+          "pos": "3MED",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 8,
+          "name": "Ahmed Radhi",
+          "pos": "4DEL",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 9,
+          "name": "Karim Saddam",
+          "pos": "4DEL",
+          "club": "al-jaish",
+          "clubName": "Al-Jaish"
+        },
+        {
+          "no": 10,
+          "name": "Hussein Saeed",
+          "pos": "4DEL",
+          "club": "al-talaba",
+          "clubName": "Al-Talaba"
+        },
+        {
+          "no": 11,
+          "name": "Rahim Hameed",
+          "pos": "4DEL",
+          "club": "al-jaish",
+          "clubName": "Al-Jaish"
+        },
+        {
+          "no": 12,
+          "name": "Jamal Ali",
+          "pos": "3MED",
+          "club": "al-talaba",
+          "clubName": "Al-Talaba"
+        },
+        {
+          "no": 13,
+          "name": "Karim Allawi",
+          "pos": "2DEF",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 14,
+          "name": "Basil Gorgis",
+          "pos": "3MED",
+          "club": "al-shabab",
+          "clubName": "Al-Shabab"
+        },
+        {
+          "no": 15,
+          "name": "Natiq Hashim",
+          "pos": "3MED",
+          "club": "al-tayaran",
+          "clubName": "Al-Tayaran"
+        },
+        {
+          "no": 16,
+          "name": "Shaker Mahmoud",
+          "pos": "3MED",
+          "club": "al-shabab",
+          "clubName": "Al-Shabab"
+        },
+        {
+          "no": 17,
+          "name": "Anad Abid",
+          "pos": "4DEL",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 18,
+          "name": "Ismail Mohammed Sharif",
+          "pos": "3MED",
+          "club": "al-shabab",
+          "clubName": "Al-Shabab"
+        },
+        {
+          "no": 19,
+          "name": "Basim Qasim",
+          "pos": "2DEF",
+          "club": "al-shorta",
+          "clubName": "Al-Shorta"
+        },
+        {
+          "no": 20,
+          "name": "Fatah Nsaief",
+          "pos": "1POR",
+          "club": "al-jaish",
+          "clubName": "Al-Jaish"
+        },
+        {
+          "no": 21,
+          "name": "Ahmad Jassim",
+          "pos": "1POR",
+          "club": "al-rasheed",
+          "clubName": "Al-Rasheed"
+        },
+        {
+          "no": 22,
+          "name": "Ghanim Oraibi",
+          "pos": "2DEF",
+          "club": "al-shabab",
+          "clubName": "Al-Shabab"
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "A": {
+      "standings": [
+        {
+          "team": "Argentina",
+          "flag": "ar",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 6,
+          "gc": 2
+        },
+        {
+          "team": "Italia",
+          "flag": "it",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 2,
+          "pp": 0,
+          "gf": 5,
+          "gc": 4
+        },
+        {
+          "team": "Bulgaria",
+          "flag": "bg",
+          "pts": 2,
+          "pj": 3,
+          "pg": 0,
+          "pe": 2,
+          "pp": 1,
+          "gf": 2,
+          "gc": 4
+        },
+        {
+          "team": "Corea del Sur",
+          "flag": "kr",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 4,
+          "gc": 7
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Bulgaria",
+          "flag1": "bg",
+          "score": "1-1",
+          "team2": "Italia",
+          "flag2": "it",
+          "goals1": [
+            "Sirakov 85'"
+          ],
+          "goals2": [
+            "Altobelli 44'"
+          ]
+        },
+        {
+          "team1": "Argentina",
+          "flag1": "ar",
+          "score": "3-1",
+          "team2": "Corea del Sur",
+          "flag2": "kr",
+          "goals1": [
+            "Valdano 6', 46'",
+            "Ruggeri 18'"
+          ],
+          "goals2": [
+            "Park Chang-sun 73'"
+          ]
+        },
+        {
+          "team1": "Italia",
+          "flag1": "it",
+          "score": "1-1",
+          "team2": "Argentina",
+          "flag2": "ar",
+          "goals1": [
+            "Altobelli 6' (p)"
+          ],
+          "goals2": [
+            "Maradona 34'"
+          ]
+        },
+        {
+          "team1": "Corea del Sur",
+          "flag1": "kr",
+          "score": "1-1",
+          "team2": "Bulgaria",
+          "flag2": "bg",
+          "goals1": [
+            "Kim Jong-boo 70'"
+          ],
+          "goals2": [
+            "Getov 11'"
+          ]
+        },
+        {
+          "team1": "Corea del Sur",
+          "flag1": "kr",
+          "score": "2-3",
+          "team2": "Italia",
+          "flag2": "it",
+          "goals1": [
+            "Choi Soon-ho 62'",
+            "Huh Jung-moo 83'"
+          ],
+          "goals2": [
+            "Altobelli 17', 73'",
+            "Cho Kwang-rae 82' (e.c.)"
+          ]
+        },
+        {
+          "team1": "Argentina",
+          "flag1": "ar",
+          "score": "2-0",
+          "team2": "Bulgaria",
+          "flag2": "bg",
+          "goals1": [
+            "Valdano 4'",
+            "Burruchaga 77'"
+          ],
+          "goals2": []
+        }
+      ]
+    },
+    "B": {
+      "standings": [
+        {
+          "team": "México",
+          "flag": "mx",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 4,
+          "gc": 2
+        },
+        {
+          "team": "Paraguay",
+          "flag": "py",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 2,
+          "pp": 0,
+          "gf": 4,
+          "gc": 3
+        },
+        {
+          "team": "Bélgica",
+          "flag": "be",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 5,
+          "gc": 5
+        },
+        {
+          "team": "Irak",
+          "flag": "iq",
+          "pts": 0,
+          "pj": 3,
+          "pg": 0,
+          "pe": 0,
+          "pp": 3,
+          "gf": 1,
+          "gc": 4
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Bélgica",
+          "flag1": "be",
+          "score": "1-2",
+          "team2": "México",
+          "flag2": "mx",
+          "goals1": [
+            "Vandenbergh 45'"
+          ],
+          "goals2": [
+            "Quirarte 23'",
+            "Sánchez 39'"
+          ]
+        },
+        {
+          "team1": "Paraguay",
+          "flag1": "py",
+          "score": "1-0",
+          "team2": "Irak",
+          "flag2": "iq",
+          "goals1": [
+            "Romero 35'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "México",
+          "flag1": "mx",
+          "score": "1-1",
+          "team2": "Paraguay",
+          "flag2": "py",
+          "goals1": [
+            "Flores 3'"
+          ],
+          "goals2": [
+            "Romero 85'"
+          ]
+        },
+        {
+          "team1": "Irak",
+          "flag1": "iq",
+          "score": "1-2",
+          "team2": "Bélgica",
+          "flag2": "be",
+          "goals1": [
+            "Radhi 59'"
+          ],
+          "goals2": [
+            "Scifo 16'",
+            "Claesen 21' (p)"
+          ]
+        },
+        {
+          "team1": "Irak",
+          "flag1": "iq",
+          "score": "0-1",
+          "team2": "México",
+          "flag2": "mx",
+          "goals1": [],
+          "goals2": [
+            "Quirarte 54'"
+          ]
+        },
+        {
+          "team1": "Paraguay",
+          "flag1": "py",
+          "score": "2-2",
+          "team2": "Bélgica",
+          "flag2": "be",
+          "goals1": [
+            "Cabañas 50', 76'"
+          ],
+          "goals2": [
+            "Vercauteren 30'",
+            "Veyt 59'"
+          ]
+        }
+      ]
+    },
+    "C": {
+      "standings": [
+        {
+          "team": "Unión Soviética",
+          "flag": "su",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 9,
+          "gc": 1
+        },
+        {
+          "team": "Francia",
+          "flag": "fr",
+          "pts": 5,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 5,
+          "gc": 1
+        },
+        {
+          "team": "Hungría",
+          "flag": "hu",
+          "pts": 2,
+          "pj": 3,
+          "pg": 1,
+          "pe": 0,
+          "pp": 2,
+          "gf": 2,
+          "gc": 9
+        },
+        {
+          "team": "Canadá",
+          "flag": "ca",
+          "pts": 0,
+          "pj": 3,
+          "pg": 0,
+          "pe": 0,
+          "pp": 3,
+          "gf": 0,
+          "gc": 5
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Canadá",
+          "flag1": "ca",
+          "score": "0-1",
+          "team2": "Francia",
+          "flag2": "fr",
+          "goals1": [],
+          "goals2": [
+            "Papin 79'"
+          ]
+        },
+        {
+          "team1": "Unión Soviética",
+          "flag1": "su",
+          "score": "6-0",
+          "team2": "Hungría",
+          "flag2": "hu",
+          "goals1": [
+            "Yakovenko 2'",
+            "Aleinikov 4'",
+            "Belanov 24' (p)",
+            "Yaremchuk 66'",
+            "Dajka 73' (e.c.)",
+            "Rodionov 80'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Francia",
+          "flag1": "fr",
+          "score": "1-1",
+          "team2": "Unión Soviética",
+          "flag2": "su",
+          "goals1": [
+            "Fernández 60'"
+          ],
+          "goals2": [
+            "Rats 53'"
+          ]
+        },
+        {
+          "team1": "Hungría",
+          "flag1": "hu",
+          "score": "2-0",
+          "team2": "Canadá",
+          "flag2": "ca",
+          "goals1": [
+            "Esterházy 2'",
+            "Détári 75'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Hungría",
+          "flag1": "hu",
+          "score": "0-3",
+          "team2": "Francia",
+          "flag2": "fr",
+          "goals1": [],
+          "goals2": [
+            "Stopyra 29'",
+            "Tigana 62'",
+            "Rocheteau 84'"
+          ]
+        },
+        {
+          "team1": "Unión Soviética",
+          "flag1": "su",
+          "score": "2-0",
+          "team2": "Canadá",
+          "flag2": "ca",
+          "goals1": [
+            "Blokhin 58'",
+            "Zavarov 74'"
+          ],
+          "goals2": []
+        }
+      ]
+    },
+    "D": {
+      "standings": [
+        {
+          "team": "Brasil",
+          "flag": "br",
+          "pts": 6,
+          "pj": 3,
+          "pg": 3,
+          "pe": 0,
+          "pp": 0,
+          "gf": 5,
+          "gc": 0
+        },
+        {
+          "team": "España",
+          "flag": "es",
+          "pts": 4,
+          "pj": 3,
+          "pg": 2,
+          "pe": 0,
+          "pp": 1,
+          "gf": 5,
+          "gc": 2
+        },
+        {
+          "team": "Irlanda del Norte",
+          "flag": "gb-nir",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 2,
+          "gc": 6
+        },
+        {
+          "team": "Argelia",
+          "flag": "dz",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 1,
+          "gc": 5
+        }
+      ],
+      "matches": [
+        {
+          "team1": "España",
+          "flag1": "es",
+          "score": "0-1",
+          "team2": "Brasil",
+          "flag2": "br",
+          "goals1": [],
+          "goals2": [
+            "Sócrates 62'"
+          ]
+        },
+        {
+          "team1": "Argelia",
+          "flag1": "dz",
+          "score": "1-1",
+          "team2": "Irlanda del Norte",
+          "flag2": "gb-nir",
+          "goals1": [
+            "Zidane 59'"
+          ],
+          "goals2": [
+            "Whiteside 6'"
+          ]
+        },
+        {
+          "team1": "Brasil",
+          "flag1": "br",
+          "score": "1-0",
+          "team2": "Argelia",
+          "flag2": "dz",
+          "goals1": [
+            "Careca 66'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Irlanda del Norte",
+          "flag1": "gb-nir",
+          "score": "1-2",
+          "team2": "España",
+          "flag2": "es",
+          "goals1": [
+            "Clarke 46'"
+          ],
+          "goals2": [
+            "Butragueño 1'",
+            "Salinas 18'"
+          ]
+        },
+        {
+          "team1": "Irlanda del Norte",
+          "flag1": "gb-nir",
+          "score": "0-3",
+          "team2": "Brasil",
+          "flag2": "br",
+          "goals1": [],
+          "goals2": [
+            "Careca 15', 87'",
+            "Josimar 42'"
+          ]
+        },
+        {
+          "team1": "Argelia",
+          "flag1": "dz",
+          "score": "0-3",
+          "team2": "España",
+          "flag2": "es",
+          "goals1": [],
+          "goals2": [
+            "Calderé 15', 68'",
+            "Eloy 70'"
+          ]
+        }
+      ]
+    },
+    "E": {
+      "standings": [
+        {
+          "team": "Dinamarca",
+          "flag": "dk",
+          "pts": 6,
+          "pj": 3,
+          "pg": 3,
+          "pe": 0,
+          "pp": 0,
+          "gf": 9,
+          "gc": 1
+        },
+        {
+          "team": "Alemania Federal",
+          "flag": "de",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 3,
+          "gc": 4
+        },
+        {
+          "team": "Uruguay",
+          "flag": "uy",
+          "pts": 2,
+          "pj": 3,
+          "pg": 0,
+          "pe": 2,
+          "pp": 1,
+          "gf": 2,
+          "gc": 7
+        },
+        {
+          "team": "Escocia",
+          "flag": "gb-sct",
+          "pts": 1,
+          "pj": 3,
+          "pg": 0,
+          "pe": 1,
+          "pp": 2,
+          "gf": 1,
+          "gc": 3
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Uruguay",
+          "flag1": "uy",
+          "score": "1-1",
+          "team2": "Alemania Federal",
+          "flag2": "de",
+          "goals1": [
+            "Alzamendi 4'"
+          ],
+          "goals2": [
+            "Allofs 84'"
+          ]
+        },
+        {
+          "team1": "Escocia",
+          "flag1": "gb-sct",
+          "score": "0-1",
+          "team2": "Dinamarca",
+          "flag2": "dk",
+          "goals1": [],
+          "goals2": [
+            "Elkjær 57'"
+          ]
+        },
+        {
+          "team1": "Alemania Federal",
+          "flag1": "de",
+          "score": "2-1",
+          "team2": "Escocia",
+          "flag2": "gb-sct",
+          "goals1": [
+            "Völler 23'",
+            "Allofs 49'"
+          ],
+          "goals2": [
+            "Strachan 18'"
+          ]
+        },
+        {
+          "team1": "Dinamarca",
+          "flag1": "dk",
+          "score": "6-1",
+          "team2": "Uruguay",
+          "flag2": "uy",
+          "goals1": [
+            "Elkjær 11', 67', 80'",
+            "Lerby 41'",
+            "Laudrup 52'",
+            "J. Olsen 88'"
+          ],
+          "goals2": [
+            "Francescoli 45' (p)"
+          ]
+        },
+        {
+          "team1": "Dinamarca",
+          "flag1": "dk",
+          "score": "2-0",
+          "team2": "Alemania Federal",
+          "flag2": "de",
+          "goals1": [
+            "J. Olsen 43' (p)",
+            "Eriksen 62'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Escocia",
+          "flag1": "gb-sct",
+          "score": "0-0",
+          "team2": "Uruguay",
+          "flag2": "uy",
+          "goals1": [],
+          "goals2": []
+        }
+      ]
+    },
+    "F": {
+      "standings": [
+        {
+          "team": "Marruecos",
+          "flag": "ma",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 2,
+          "pp": 0,
+          "gf": 3,
+          "gc": 1
+        },
+        {
+          "team": "Inglaterra",
+          "flag": "gb-eng",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 3,
+          "gc": 1
+        },
+        {
+          "team": "Polonia",
+          "flag": "pl",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 1,
+          "gc": 3
+        },
+        {
+          "team": "Portugal",
+          "flag": "pt",
+          "pts": 2,
+          "pj": 3,
+          "pg": 1,
+          "pe": 0,
+          "pp": 2,
+          "gf": 2,
+          "gc": 4
+        }
+      ],
+      "matches": [
+        {
+          "team1": "Marruecos",
+          "flag1": "ma",
+          "score": "0-0",
+          "team2": "Polonia",
+          "flag2": "pl",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "Portugal",
+          "flag1": "pt",
+          "score": "1-0",
+          "team2": "Inglaterra",
+          "flag2": "gb-eng",
+          "goals1": [
+            "Carlos Manuel 75'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Inglaterra",
+          "flag1": "gb-eng",
+          "score": "0-0",
+          "team2": "Marruecos",
+          "flag2": "ma",
+          "goals1": [],
+          "goals2": []
+        },
+        {
+          "team1": "Polonia",
+          "flag1": "pl",
+          "score": "1-0",
+          "team2": "Portugal",
+          "flag2": "pt",
+          "goals1": [
+            "Smolarek 68'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Inglaterra",
+          "flag1": "gb-eng",
+          "score": "3-0",
+          "team2": "Polonia",
+          "flag2": "pl",
+          "goals1": [
+            "Lineker 9', 14', 34'"
+          ],
+          "goals2": []
+        },
+        {
+          "team1": "Portugal",
+          "flag1": "pt",
+          "score": "1-3",
+          "team2": "Marruecos",
+          "flag2": "ma",
+          "goals1": [
+            "Diamantino 80'"
+          ],
+          "goals2": [
+            "Khairi 19', 26'",
+            "Merry Krimau 62'"
+          ]
+        }
+      ]
+    }
+  },
+  "bracket": {
+    "roundOf16": [
+      {
+        "team1": "Argentina",
+        "flag1": "ar",
+        "score": "1-0",
+        "team2": "Uruguay",
+        "flag2": "uy",
+        "goals1": [
+          "Pasculli 42'"
+        ],
+        "goals2": [],
+        "penalties": null
+      },
+      {
+        "team1": "Inglaterra",
+        "flag1": "gb-eng",
+        "score": "3-0",
+        "team2": "Paraguay",
+        "flag2": "py",
+        "goals1": [
+          "Lineker 31', 73'",
+          "Beardsley 56'"
+        ],
+        "goals2": [],
+        "penalties": null
+      },
+      {
+        "team1": "Dinamarca",
+        "flag1": "dk",
+        "score": "1-5",
+        "team2": "España",
+        "flag2": "es",
+        "goals1": [
+          "J. Olsen 33' (p)"
+        ],
+        "goals2": [
+          "Butragueño 43', 56', 80', 88'",
+          "Goikoetxea 68' (p)"
+        ],
+        "penalties": null
+      },
+      {
+        "team1": "Unión Soviética",
+        "flag1": "su",
+        "score": "3-4",
+        "team2": "Bélgica",
+        "flag2": "be",
+        "goals1": [
+          "Belanov 27', 70', 111'"
+        ],
+        "goals2": [
+          "Scifo 56'",
+          "Ceulemans 77'",
+          "Demol 102'",
+          "Claesen 110'"
+        ],
+        "penalties": null
+      },
+      {
+        "team1": "Brasil",
+        "flag1": "br",
+        "score": "4-0",
+        "team2": "Polonia",
+        "flag2": "pl",
+        "goals1": [
+          "Sócrates 30' (p)",
+          "Josimar 55'",
+          "Edinho 79'",
+          "Careca 83' (p)"
+        ],
+        "goals2": [],
+        "penalties": null
+      },
+      {
+        "team1": "Italia",
+        "flag1": "it",
+        "score": "0-2",
+        "team2": "Francia",
+        "flag2": "fr",
+        "goals1": [],
+        "goals2": [
+          "Platini 15'",
+          "Stopyra 57'"
+        ],
+        "penalties": null
+      },
+      {
+        "team1": "Marruecos",
+        "flag1": "ma",
+        "score": "0-1",
+        "team2": "Alemania Federal",
+        "flag2": "de",
+        "goals1": [],
+        "goals2": [
+          "Matthäus 87'"
+        ],
+        "penalties": null
+      },
+      {
+        "team1": "México",
+        "flag1": "mx",
+        "score": "2-0",
+        "team2": "Bulgaria",
+        "flag2": "bg",
+        "goals1": [
+          "Negrete 34'",
+          "Servín 61'"
+        ],
+        "goals2": [],
+        "penalties": null
+      }
+    ],
+    "quarterFinals": [
+      {
+        "team1": "Argentina",
+        "flag1": "ar",
+        "score": "2-1",
+        "team2": "Inglaterra",
+        "flag2": "gb-eng",
+        "goals1": [
+          "Maradona 51', 55'"
+        ],
+        "goals2": [
+          "Lineker 81'"
+        ],
+        "penalties": null
+      },
+      {
+        "team1": "España",
+        "flag1": "es",
+        "score": "1-1",
+        "team2": "Bélgica",
+        "flag2": "be",
+        "goals1": [
+          "Señor 85'"
+        ],
+        "goals2": [
+          "Ceulemans 35'"
+        ],
+        "penalties": "4-5"
+      },
+      {
+        "team1": "Brasil",
+        "flag1": "br",
+        "score": "1-1",
+        "team2": "Francia",
+        "flag2": "fr",
+        "goals1": [
+          "Careca 17'"
+        ],
+        "goals2": [
+          "Platini 40'"
+        ],
+        "penalties": "3-4"
+      },
+      {
+        "team1": "Alemania Federal",
+        "flag1": "de",
+        "score": "0-0",
+        "team2": "México",
+        "flag2": "mx",
+        "goals1": [],
+        "goals2": [],
+        "penalties": "4-1"
+      }
+    ],
+    "semiFinals": [
+      {
+        "team1": "Argentina",
+        "flag1": "ar",
+        "score": "2-0",
+        "team2": "Bélgica",
+        "flag2": "be",
+        "goals1": [
+          "Maradona 51', 63'"
+        ],
+        "goals2": [],
+        "penalties": null
+      },
+      {
+        "team1": "Francia",
+        "flag1": "fr",
+        "score": "0-2",
+        "team2": "Alemania Federal",
+        "flag2": "de",
+        "goals1": [],
+        "goals2": [
+          "Brehme 9'",
+          "Völler 89'"
+        ],
+        "penalties": null
+      }
+    ],
+    "thirdPlace": {
+      "team1": "Bélgica",
+      "flag1": "be",
+      "score": "2-4",
+      "team2": "Francia",
+      "flag2": "fr",
+      "goals1": [
+        "Ceulemans 11'",
+        "Claesen 73'"
+      ],
+      "goals2": [
+        "Ferreri 27'",
+        "Papin 43'",
+        "Genghini 104'",
+        "Amoros 111' (p)"
+      ],
+      "penalties": null
+    },
+    "final": {
+      "team1": "Argentina",
+      "flag1": "ar",
+      "score": "3-2",
+      "team2": "Alemania Federal",
+      "flag2": "de",
+      "goals1": [
+        "Brown 23'",
+        "Valdano 55'",
+        "Burruchaga 84'"
+      ],
+      "goals2": [
+        "Rummenigge 74'",
+        "Völler 80'"
+      ],
+      "penalties": null
+    }
+  },
+  "stats": {
+    "awards": {
+      "goldenBall": {
+        "name": "Diego Maradona",
+        "flag": "ar"
+      },
+      "silverBall": {
+        "name": "Harald Schumacher",
+        "flag": "de"
+      },
+      "bronzeBall": {
+        "name": "Preben Elkjær",
+        "flag": "dk"
+      },
+      "fairPlay": {
+        "name": "Brasil",
+        "flag": "br"
+      }
+    },
+    "topScorers": [
+      {
+        "name": "Gary Lineker",
+        "flag": "gb-eng",
+        "value": "6 goles"
+      },
+      {
+        "name": "Diego Maradona",
+        "flag": "ar",
+        "value": "5 goles"
+      },
+      {
+        "name": "Careca",
+        "flag": "br",
+        "value": "5 goles"
+      },
+      {
+        "name": "Emilio Butragueño",
+        "flag": "es",
+        "value": "5 goles"
+      },
+      {
+        "name": "Jorge Valdano",
+        "flag": "ar",
+        "value": "4 goles"
+      },
+      {
+        "name": "Preben Elkjær",
+        "flag": "dk",
+        "value": "4 goles"
+      }
+    ],
+    "assists": [
+      {
+        "name": "Diego Maradona",
+        "flag": "ar",
+        "value": "5 asis."
+      },
+      {
+        "name": "Igor Belanov",
+        "flag": "su",
+        "value": "4 asis."
+      },
+      {
+        "name": "Michel Platini",
+        "flag": "fr",
+        "value": "3 asis."
+      },
+      {
+        "name": "Dominique Rocheteau",
+        "flag": "fr",
+        "value": "3 asis."
+      }
+    ],
+    "yellowCards": [
+      {
+        "name": "Julio Olarticoechea",
+        "flag": "ar",
+        "value": "2 amarillas"
+      },
+      {
+        "name": "Nery Pumpido",
+        "flag": "ar",
+        "value": "2 amarillas"
+      },
+      {
+        "name": "Terry Butcher",
+        "flag": "gb-eng",
+        "value": "2 amarillas"
+      },
+      {
+        "name": "Lothar Matthäus",
+        "flag": "de",
+        "value": "2 amarillas"
+      },
+      {
+        "name": "Michel Platini",
+        "flag": "fr",
+        "value": "2 amarillas"
+      }
+    ],
+    "redCards": [
+      {
+        "name": "José Batista",
+        "flag": "uy",
+        "value": "Roja directa (56 seg.)"
+      },
+      {
+        "name": "Thomas Berthold",
+        "flag": "de",
+        "value": "Roja directa"
+      },
+      {
+        "name": "Javier Aguirre",
+        "flag": "mx",
+        "value": "Doble amarilla"
+      },
+      {
+        "name": "Mike Sweeney",
+        "flag": "ca",
+        "value": "Roja directa"
+      },
+      {
+        "name": "Ray Wilkins",
+        "flag": "gb-eng",
+        "value": "Doble amarilla"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "newells-old-boys",
+  "datos": {
+    "nombre_oficial": "Club Atlético Newell's Old Boys",
+    "nombre_corto": "Newell's Old Boys",
+    "apodos": [
+      "La Lepra",
+      "Los Leprosos"
+    ],
+    "fundacion": "1903-11-03",
+    "ciudad": "Rosario",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Marcelo Bielsa",
+    "estadio_apodo": "El Coloso del Parque",
+    "estadio_capacidad": 42066,
+    "estadio_lat": -32.9485,
+    "estadio_lng": -60.672,
+    "debut_primera": 1939
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#000000"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#000000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 6,
+  "meta": {
+    "datos_completos": false
+  }
+}

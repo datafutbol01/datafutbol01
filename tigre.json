@@ -1,0 +1,35 @@
+{
+  "id": "tigre",
+  "datos": {
+    "nombre_oficial": "Club Atlético Tigre",
+    "nombre_corto": "Tigre",
+    "apodos": [
+      "El Matador",
+      "El Rojo de Victoria"
+    ],
+    "fundacion": "1902-08-03",
+    "ciudad": "Victoria",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio José Dellagiovanna",
+    "estadio_apodo": "El Estadio del Parque",
+    "estadio_capacidad": 26800,
+    "estadio_lat": -34.4524,
+    "estadio_lng": -58.5412,
+    "debut_primera": 1927
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#CC0000",
+        "#000000"
+      ],
+      "diseno": "mitades_horizontales"
+    },
+    "short": "#000000",
+    "medias": "#CC0000"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

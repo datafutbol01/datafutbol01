@@ -1,0 +1,215 @@
+{
+  "id": "sassuolo",
+  "meta": {
+    "slug": "sassuolo"
+  },
+  "datos": {
+    "nombre_completo": "Unione Sportiva Sassuolo Calcio S.r.l.",
+    "sigla": "SAS",
+    "fundacion": "1920",
+    "apodo": "Los Negriverdes, Los Sasoles",
+    "estadio_actual": "Mapei Stadium – Città del Tricolore",
+    "estadio_apodo": "",
+    "estadio_capacidad": 21525,
+    "estadio_inauguracion": "15 de abril de 1995",
+    "estadio_lat": 44.7153,
+    "estadio_lng": 10.6483,
+    "estadio_direccion": "Piazzale Atleti Azzurri d'Italia 1, 42122 Reggio Emilia, Emilia-Romagna",
+    "socios": 7000,
+    "descripcion_corta": "Dedicada institución localizada deportivamente en Emilia-Romaña que escaló desde estratos amateurs hasta la máxima competición nacional bajo esquemas de sustentabilidad económica en la era moderna.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#005938"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Domenico Berardi (133 goles)",
+      "mas_presencias": "Francesco Magnanelli (520 partidos)",
+      "mayor_goleada": "7-0 vs Chievo Verona (2018)"
+    },
+    "nombre_oficial": "Unione Sportiva Sassuolo Calcio",
+    "nombre_corto": "Sassuolo",
+    "escudo_actual": "/escudos_historicos/sassuolo/US_Sassuolo_Calcio_logo.svg"
+  },
+  "historia": [
+    {
+      "ano": "1920",
+      "hito": "Raíces Humildes de la Industria Cerámica",
+      "desc": "Ubicado lejos de los focos mediáticos y logísticos de las grandes metrópolis industriales y radicado formalmente en una pujante y humilde villa emiliana productora de cerámicas artesanales, el fútbol local emergió puramente como un modesto pasatiempo de obreros. Fundados oficialmente el 17 de julio de 1920 pero manteniéndose logísticamente en el anonimato interregional por más de seis décadas, el grupo de trabajadores formalizó y delineó la Unione Sportiva Sassuolo Calcio. Transitando durante largas crisis y etapas amargas inmanejables fúnebres de ligas despobladas pueblerinas amateurs y sin gloria, el club definió sin embargo un sentido de pertenencia forjado a fuego adoptando la hoy inamovible indumentaria neroverde, una humilde cenicienta emiliana que tardó y preparó históricamente el mejor milagro moderno."
+    },
+    {
+      "ano": "2002",
+      "hito": "Proceso Directivo Asociado y Vínculo Empresarial Mapei",
+      "desc": "Durante un encuadre financiero general con márgenes operativos menores a los regulares, Giorgio Squinzi consolidó un programa inyectando en un acuerdo organizativo el sustento provisto en presupuesto de origen empresarial con nombre 'Mapei'. El avance logístico consolidó formalismos al proyecto permitiendo saltos continuos de Serie C."
+    },
+    {
+      "ano": "2013",
+      "hito": "Aportes Formales Hacia un Inédito Rendimiento Hasta Primera División",
+      "desc": "Dirigidos competitivamente y esquematizados a su mando directivo interno técnico del perfil base por Eusebio Di Francesco el equipo de registro base provincial sumó las etapas definitivas superando los obstáculos estructurales previos en Serie B, obteniendo administrativamente las cuotas ligueras promocionales formales."
+    },
+    {
+      "ano": "2016",
+      "hito": "Acreditación Excepcional a Operatoria Competición UEFA",
+      "desc": "El rendimiento escalonado en competencia ligueras consolidó progresos estadísticos que concluyeron posicionando operativamente a la escuadra base local frente a cupos asignados por federación reguladora UEFA logrando por normativa establecer el estatus provisional sexto liguero adjudicando participación a grupo de la zona oficial europea internacional oficial."
+    },
+    {
+      "ano": "2024",
+      "hito": "Deficiencias Formales y Retorno Sancionado a División B",
+      "desc": "Finalizando esquemas prolongados regulares intermitentes sumarios tras diez temporadas seguidas participativas y por un ajuste competitivo deficiente y baja de plantillas efectivas por dolencia física de base referencial principal clave de Domenico Berardi el plantel reguló sumatoria final sin alcance descendiendo regulado a Serie B oficialmente a cómputos establecidos tras campañas regulares históricas en honor superior."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Mapei Stadium – Città del Tricolore",
+      "capacidad": "21.525",
+      "inauguracion": "15 de abril de 1995",
+      "url": "https://www.google.com/maps/search/?api=1&query=Piazzale%20Atleti%20Azzurri%20d'Italia%201%2C%2042122%20Reggio%20Emilia%2C%20Emilia-Romagna",
+      "direccion": "Piazzale Atleti Azzurri d'Italia 1, 42122 Reggio Emilia, Emilia-Romagna",
+      "descripcion": "Sede principal y hogar deportivo de la institución."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#005e32",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#005e32",
+      "tipo": "rayas-verticales",
+      "desc": "Integrando uniformes donados en etapas rudimentarias locales amateurs tempranamente instituyeron bases formales normativas visuales mediante franjenados a rayas verticales combinadoras distribuidas verdes esperanza vivas y alternancia en negro listados regulados base neroverdi formales históricos."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Domenico Berardi",
+      "periodo": "2012-presente",
+      "pos": "Delantero",
+      "desc": "Atacante y capitán del equipo. Se consolidó como el máximo goleador histórico de la institución tras anotar más de cien tantos oficiales."
+    },
+    {
+      "nombre": "Francesco Magnanelli",
+      "periodo": "2005-2022",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista incansable de la escuadra. Logró alcanzar y mantener firmemente el récord absoluto de mayor cantidad de partidos jugados en toda la historia del club."
+    },
+    {
+      "nombre": "Simone Zaza",
+      "periodo": "2013-2015",
+      "pos": "Delantero",
+      "desc": "Delantero central fuerte y cabeceador que disputó las campañas iniciales del club en el torneo mayor y finalizó siendo el goleador en el posterior grupo recién ascendido."
+    },
+    {
+      "nombre": "Andrea Consigli",
+      "periodo": "2014-presente",
+      "pos": "Arquero",
+      "desc": "Portero italiano que aportó una sólida regularidad custodiando el arco principal y acumulando cientos de presencias en años recientes de la máxima división de su país."
+    },
+    {
+      "nombre": "Manuel Locatelli",
+      "periodo": "2018-2021",
+      "pos": "Mediocampista",
+      "desc": "Volante central creador de juego. Exhibió un gran rendimiento técnico dirigiendo el centro táctico en el equipo durante varias campañas estelares antes de jugar torneos continentales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Domenico Berardi",
+      "goles": 133,
+      "periodo": "2012-presente",
+      "partidos": 352,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 133 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-presente."
+    },
+    {
+      "nombre": "Gregoire Defrel",
+      "goles": 34,
+      "periodo": "2015-2023",
+      "partidos": 160,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 34 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2023."
+    },
+    {
+      "nombre": "Francesco Caputo",
+      "goles": 32,
+      "periodo": "2019-2021",
+      "partidos": 63,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 32 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2021."
+    },
+    {
+      "nombre": "Simone Zaza",
+      "goles": 21,
+      "periodo": "2013-2015",
+      "partidos": 69,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 21 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2015."
+    },
+    {
+      "nombre": "Giacomo Raspadori",
+      "goles": 18,
+      "periodo": "2018-2022",
+      "partidos": 76,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2022."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Francesco Magnanelli",
+      "partidos": 520,
+      "periodo": "2005-2022",
+      "goles": 9,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 520 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2022."
+    },
+    {
+      "nombre": "Domenico Berardi",
+      "partidos": 352,
+      "periodo": "2012-presente",
+      "goles": 133,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 352 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-presente."
+    },
+    {
+      "nombre": "Andrea Consigli",
+      "partidos": 350,
+      "periodo": "2014-presente",
+      "goles": 0,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 350 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-presente."
+    },
+    {
+      "nombre": "Gian Marco Ferrari",
+      "partidos": 180,
+      "periodo": "2018-presente",
+      "goles": 7,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 180 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-presente."
+    },
+    {
+      "nombre": "Simone Missiroli",
+      "partidos": 200,
+      "periodo": "2012-2018",
+      "goles": 16,
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 200 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2018."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Serie B",
+      "cantidad": 1,
+      "anios": [
+        "2012-13"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos_historicos/sassuolo/US_Sassuolo_Calcio_logo.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "I Neroverdi",
+      "origen": "Reconocidos por su inalterable combinación textil dual estampando su vestuario cruzado con intenso verde esmeralda y combinándolo en franjas estrechas inamovibles cruzadas junto a cenizas oscuras."
+    }
+  ]
+}

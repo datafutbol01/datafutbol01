@@ -1,0 +1,216 @@
+{
+  "id": "leganes",
+  "datos": {
+    "nombre_corto": "CD Leganés",
+    "estadio_actual": "Estadio Municipal Butarque",
+    "estadio_direccion": "C. de la Arquitectura, s/n, 28914 Leganés, Madrid",
+    "estadio_lat": 40.34,
+    "estadio_lng": -3.76
+  },
+  "historia": [
+    {
+      "ano": "1928",
+      "hito": "El Nacimiento Pepinero",
+      "desc": "El origen de los populares pepineros transcurrió bajo la brisa de los llanos agrícolas del sur madrileño. Conformado por un núcleo de emprendedores y agricultores locales, el 23 de junio de 1928 se gestó estatutariamente el Club Deportivo Leganés. Bajo la estricta conducción de su primer y devoto presidente, Ramón del Hierro, y sus laderos agricultores, los fundadores adoptaron los identificatorios colores blanquiazules. La institución forjó una relación muy humilde e indisoluble con su origen trabajador hortelano, consolidando una mística de ascensión obrera para superar una a una todas las escalas del ascenso ibérico."
+    },
+    {
+      "ano": "1993",
+      "hito": "Debut Oficial en la División de Plata",
+      "desc": "Aplastando moldes, el equipo abandonó el barro de la Segunda División B para saltar al fútbol grande pisando el césped de la ansiada Segunda A."
+    },
+    {
+      "ano": "2016",
+      "hito": "El Milagro en Anduva y Pase a Primera",
+      "desc": "Pablo Insua remató de cabeza un córner inmortal en Miranda de Ebro bajo el llanto de Garitano. El Leganés acababa de alcanzar por primera vez el Olimpo y la gloria mayor: el ascenso a la sagrada Primera División de España."
+    },
+    {
+      "ano": "2018",
+      "hito": "El Pepinazo del Estadio Santiago Bernabéu",
+      "desc": "En un asalto propio de leyendas de época, el equipo destrozó 2-1 al poderoso Real Madrid en pleno templo blanco en Copa del Rey, escribiendo el majestuoso episodio bautizado eternamente como 'El Pepinazo'."
+    },
+    {
+      "ano": "2024",
+      "hito": "El Retorno Definitivo Campeón",
+      "desc": "Tras la reestructuración y lágrimas en los pastos duros, se proclaman Campeones de Segunda División por primera vez, asaltando de cabeza otra vez la gloria estelar de La Liga española."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Municipal Butarque",
+      "capacidad": "12.454",
+      "inauguracion": "1998",
+      "url": "https://maps.app.goo.gl/f4q9E2r5V6T3y1u48",
+      "direccion": "C. Arquitectura, s/n, 28914 Leganés, Madrid",
+      "descripcion": "Duro césped que cobija el sudor pepinero, edificado pacientemente desde las raíces agrícolas hasta la élite del fútbol."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1928",
+      "hasta": "2025",
+      "tipo": "rayas-verticales",
+      "c1": "#000080",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "desc": "Blanquiazul histórico que el club pepinero empapó en sudor durante un siglo batallando de abajo en las ligas obreras."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Segunda División",
+      "cantidad": 1,
+      "anios": [
+        "2023-24"
+      ]
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Martín Mantovani",
+      "periodo": "2013-2018",
+      "pos": "Defensa",
+      "desc": "Pelado carismático líder que sacó espinas indomables desde Segunda B hasta subir milagrosamente al pepinero a puras lágrimas en la insólita élite moderna española en Anduva."
+    },
+    {
+      "nombre": "Gabriel Pires",
+      "periodo": "2015-2018",
+      "pos": "Mediocampista",
+      "desc": "Una clase puramente celestial y exotica brasilera perdida incompresiblemente en un club férreo madrileño asombrando Butarque en grandes batallas colosales copera."
+    },
+    {
+      "nombre": "Miguel Ángel Guerrero",
+      "periodo": "2016-2020",
+      "pos": "Delantero",
+      "desc": "Peleó cada balón contra aceros puros y se redefinió como guerrero eterno logrando permanencias angustiadas que eran puras victorias del espíritu perplejo de Leganés."
+    },
+    {
+      "nombre": "Serantes",
+      "periodo": "2014-2018",
+      "pos": "Arquero",
+      "desc": "Portero y héroe enmascarado humilde cuyas palomitas evitaron mil y unas humillaciones letales, construyendo al arquero y referente más querido de todo el poblado."
+    },
+    {
+      "nombre": "Eraso",
+      "periodo": "2013-2022",
+      "pos": "Mediocampista",
+      "desc": "Jugó y sintió al Leganés tras idas y vueltas desangrándose en el mediocampo del sur logrando batallando como titanes históricos contra ricos acaudalados inigualables."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Miguel Ángel",
+      "goles": 65,
+      "periodo": "Años 90",
+      "partidos": 0
+    },
+    {
+      "nombre": "Szymanowski",
+      "goles": 23,
+      "periodo": "2015-2020",
+      "partidos": 86
+    },
+    {
+      "nombre": "Guido Carrillo",
+      "goles": 11,
+      "periodo": "2018-2020",
+      "partidos": 60
+    },
+    {
+      "nombre": "Youssef En-Nesyri",
+      "goles": 15,
+      "periodo": "2018-2020",
+      "partidos": 53
+    },
+    {
+      "nombre": "Miguel de la Fuente",
+      "goles": 13,
+      "periodo": "2023-2025",
+      "partidos": 30
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Martín Mantovani",
+      "partidos": 167,
+      "periodo": "2013-2018"
+    },
+    {
+      "nombre": "Rubén Pérez",
+      "partidos": 154,
+      "periodo": "2016-2021"
+    },
+    {
+      "nombre": "Eraso",
+      "partidos": 180,
+      "periodo": "2013-2022"
+    },
+    {
+      "nombre": "Unai Bustinza",
+      "partidos": 160,
+      "periodo": "2015-2022"
+    },
+    {
+      "nombre": "Rodrigo Tarín",
+      "partidos": 106,
+      "periodo": "2018-2022"
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1992",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1928.webp",
+      "desc": "Escudo usado en la época (1992)."
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1946.webp",
+      "desc": "Escudo usado en la época (1994)."
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1954.webp",
+      "desc": "Escudo usado en la época (1995)."
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1987.webp",
+      "desc": "Escudo usado en la época (1998)."
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1993.webp",
+      "desc": "Escudo usado en la época (1999)."
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1994.webp",
+      "desc": "Escudo usado en la época (1999)."
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1996.webp",
+      "desc": "Escudo usado en la época (1999)."
+    },
+    {
+      "ano": "1999",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_1998.webp",
+      "desc": "Escudo usado en la época (1999)."
+    },
+    {
+      "ano": "2000",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_2009.webp",
+      "desc": "Escudo usado en la época (2000)."
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/leganes/CD_Legan_s_2011.webp",
+      "desc": "Escudo usado en la época (2001)."
+    },
+    {
+      "ano": "Histórico",
+      "url": "/escudos_historicos/leganes/Legan_s.webp",
+      "desc": "Escudo usado en la época (Histórico)."
+    }
+  ]
+}

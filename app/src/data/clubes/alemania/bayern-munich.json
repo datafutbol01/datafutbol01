@@ -1,0 +1,446 @@
+{
+  "id": "bayern-munich",
+  "meta": {
+    "slug": "bayern-munich",
+    "etiquetas": [
+      "alemania",
+      "bundesliga",
+      "bayern",
+      "baviera"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Fußball-Club Bayern München e. V.",
+    "nombre_oficial": "FC Bayern München",
+    "nombre_corto": "Bayern Múnich",
+    "apodo": "Die Bayern (Los Bávaros) / Stern des Südens",
+    "fundacion": "1900",
+    "estadio_actual": "Allianz Arena",
+    "presidente": "",
+    "entrenador": "",
+    "color_principal": "#ffffff",
+    "color_secundario": "#000000",
+    "estadio_apodo": "",
+    "estadio_capacidad": 75024,
+    "estadio_inauguracion": "2005",
+    "estadio_direccion": "Werner-Heisenberg-Allee 25, 80939 München, Alemania",
+    "estadio_lat": 48.2188,
+    "estadio_lng": 11.6247,
+    "escudo_actual": "/escudos/bayern-munich.webp",
+    "sigla": "FCB",
+    "socios": 316000,
+    "descripcion_corta": "El club más grande y exitoso de Múnich, dominador máximo del fútbol alemán.",
+    "paleta": [
+      {
+        "tag": "Rojo Fuego",
+        "hex": "#DC052D"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#0066B2"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Gerd Müller (568)",
+      "mas_presencias": "Sepp Maier (706)",
+      "mayor_goleada": "11-1 vs Dortmund (1971)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "Constitución Institucional",
+      "desc": "El club fue fundado formalmente en 1900 tras separarse de la asociación local de gimnasia."
+    },
+    {
+      "ano": "1932",
+      "hito": "Primer Campeonato Nacional",
+      "desc": "Campeonato de liga conquistado en 1932 con gran mérito futbolístico."
+    },
+    {
+      "ano": "1974",
+      "hito": "Hegemonía Europea",
+      "desc": "El equipo conquistó tres Copas de Europa consecutivas apalancado en una generación inolvidable formada en el club."
+    },
+    {
+      "ano": "2013",
+      "hito": "Triplete Estadístico",
+      "desc": "Campaña fenomenal donde se obtuvo el famoso 'Triplete' compitiendo al máximo nivel."
+    },
+    {
+      "ano": "2020",
+      "hito": "Sextuplete Operativo",
+      "desc": "Obtención histórica del ansiado Sextete bajo condiciones sumamente complejas a nivel global."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Grünwalder Stadion",
+      "capacidad": "15.000",
+      "inauguracion": "1911",
+      "url": "https://www.google.com/maps/search/?api=1&query=Gr%C3%BCnwalder%20Str.%204%2C%2081547%20M%C3%BCnchen%2C%20Alemania",
+      "direccion": "Grünwalder Str. 4, 81547 München, Alemania",
+      "descripcion": "El primer espacio central donde se forjaron los compases del Bayern previo a la era olímpica. Todavía mantenido para las reservas institucionales y afición.",
+      "lat": 48.1109,
+      "lng": 11.5744
+    },
+    {
+      "nombre": "Olympiastadion",
+      "capacidad": "69.250",
+      "inauguracion": "1972",
+      "url": "https://www.google.com/maps/search/?api=1&query=Spiridon-Louis-Ring%2027%2C%2080809%20M%C3%BCnchen%2C%20Alemania",
+      "direccion": "Spiridon-Louis-Ring 27, 80809 München, Alemania",
+      "descripcion": "El coloso olímpico de Múnich, hogar formal del gran formato multicampeón bávaro de Europa en los años 70. Identificable a nivel global por sus gigantescas marquesinas tensionadas transparentes en acrílico.",
+      "lat": 48.173,
+      "lng": 11.5466
+    },
+    {
+      "nombre": "Allianz Arena (Schlauchboot)",
+      "capacidad": "75.024",
+      "inauguracion": "2005",
+      "url": "https://www.google.com/maps/search/?api=1&query=Werner-Heisenberg-Allee%2025%2C%2080939%20M%C3%BCnchen%2C%20Alemania",
+      "direccion": "Werner-Heisenberg-Allee 25, 80939 München, Alemania",
+      "descripcion": "Referente arquitectónico mundial forrado en paneles luminosos. Cuna del esplendor hegemónico moderno del Bayer Múnich.",
+      "lat": 48.2188,
+      "lng": 11.6247
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1900,
+      "hasta": 1905,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1906,
+      "hasta": 1967,
+      "c1": "#dc052d",
+      "c2": "#ffffff",
+      "sh": "#dc052d",
+      "me": "#dc052d",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1968,
+      "hasta": 1995,
+      "c1": "#dc052d",
+      "c2": "#002244",
+      "sh": "#dc052d",
+      "me": "#002244",
+      "tipo": "rayas-verticales",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    },
+    {
+      "desde": 1996,
+      "hasta": null,
+      "c1": "#dc052d",
+      "c2": "#ffffff",
+      "sh": "#dc052d",
+      "me": "#dc052d",
+      "tipo": "liso",
+      "desc": "Estilo clásico utilizado habitualmente por el club durante esta época."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Franz Beckenbauer",
+      "periodo": "1964-1977",
+      "pos": "Defensor / Líbero",
+      "desc": "Experimentado líbero e histórico capitán apodado 'Kaiser'. Lideró con enorme jerarquía al equipo que conquistó de forma consecutiva tres Copas de Europa en los años 70."
+    },
+    {
+      "nombre": "Gerd Müller",
+      "periodo": "1964-1979",
+      "pos": "Delantero",
+      "desc": "Apodado el Torpedo. Su capacidad en el área lo posicionó sólidamente hasta el día de hoy como el inamovible máximo goleador histórico del equipo y del campeonato formal."
+    },
+    {
+      "nombre": "Oliver Kahn",
+      "periodo": "1994-2008",
+      "pos": "Arquero",
+      "desc": "Aguerrido guardameta titular e histórico capitán de la escuadra. Lideró a sus compañeros y fue decisivo obteniendo en 2001 el campeonato de la Liga de Campeones en penales."
+    },
+    {
+      "nombre": "Bastian Schweinsteiger",
+      "periodo": "2002-2015",
+      "pos": "Mediocampista",
+      "desc": "Todoterreno formado de manera completa en las juveniles del club. Desempeñó una extensa carrera siendo pieza cardinal logrando el título continental de campeones en 2013."
+    },
+    {
+      "nombre": "Thomas Müller",
+      "periodo": "2008-Act",
+      "pos": "Delantero / Mediocampista",
+      "desc": "Asistidor y atacante referente nacido en Baviera. Jugó toda su carrera en el club obteniendo un histórico récord de títulos ganados superando toda marca anterior en liga alemana."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Gerd Müller",
+      "goles": 568,
+      "periodo": "1964-1979",
+      "partidos": 611,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 568 goles en competiciones oficiales durante su trayectoria en el equipo entre 1964-1979."
+    },
+    {
+      "nombre": "Robert Lewandowski",
+      "goles": 344,
+      "periodo": "2014-2022",
+      "partidos": 375,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 344 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2022."
+    },
+    {
+      "nombre": "Thomas Müller",
+      "goles": 240,
+      "periodo": "2008-Act",
+      "partidos": 700,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 240 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-Act."
+    },
+    {
+      "nombre": "Karl-Heinz Rummenigge",
+      "goles": 217,
+      "periodo": "1974-1984",
+      "partidos": 422,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 217 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1984."
+    },
+    {
+      "nombre": "Roland Wohlfarth",
+      "goles": 155,
+      "periodo": "1984-1993",
+      "partidos": 332,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 155 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984-1993."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Thomas Müller",
+      "partidos": 700,
+      "periodo": "2008-Act",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 700 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-Act."
+    },
+    {
+      "nombre": "Sepp Maier",
+      "partidos": 661,
+      "periodo": "1962-1980",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 661 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1980."
+    },
+    {
+      "nombre": "Oliver Kahn",
+      "partidos": 632,
+      "periodo": "1994-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 632 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1994-2008."
+    },
+    {
+      "nombre": "Gerd Müller",
+      "partidos": 611,
+      "periodo": "1964-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 611 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1979."
+    },
+    {
+      "nombre": "Franz Beckenbauer",
+      "partidos": 582,
+      "periodo": "1964-1977",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 582 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1977."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "1. Bundesliga",
+      "cantidad": 33,
+      "anios": [
+        "1931-32",
+        "1968-69",
+        "1971-72",
+        "1972-73",
+        "1973-74",
+        "1979-80",
+        "1980-81",
+        "1984-85",
+        "1985-86",
+        "1986-87",
+        "1988-89",
+        "1989-90",
+        "1993-94",
+        "1996-97",
+        "1998-99",
+        "1999-00",
+        "2000-01",
+        "2002-03",
+        "2004-05",
+        "2005-06",
+        "2007-08",
+        "2009-10",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23"
+      ]
+    },
+    {
+      "nombre": "DFB-Pokal",
+      "cantidad": 20,
+      "anios": [
+        "1956-57",
+        "1965-66",
+        "1966-67",
+        "1968-69",
+        "1970-71",
+        "1981-82",
+        "1983-84",
+        "1985-86",
+        "1997-98",
+        "1999-00",
+        "2002-03",
+        "2004-05",
+        "2005-06",
+        "2007-08",
+        "2009-10",
+        "2012-13",
+        "2013-14",
+        "2015-16",
+        "2018-19",
+        "2019-20"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Alemania",
+      "cantidad": 10,
+      "anios": [
+        "1987",
+        "1990",
+        "2010",
+        "2012",
+        "2016",
+        "2017",
+        "2018",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Copa de la Liga (Ligapokal)",
+      "cantidad": 6,
+      "anios": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2004",
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Liga de Campeones",
+      "cantidad": 6,
+      "anios": [
+        "1973-74",
+        "1974-75",
+        "1975-76",
+        "2000-01",
+        "2012-13",
+        "2019-20"
+      ]
+    },
+    {
+      "nombre": "Europa League / Copa UEFA",
+      "cantidad": 1,
+      "anios": [
+        "1995-96"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1966-67"
+      ]
+    },
+    {
+      "nombre": "Mundial de Clubes / Intercontinental",
+      "cantidad": 4,
+      "anios": [
+        "1976",
+        "2001",
+        "2013",
+        "2020"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Europa",
+      "cantidad": 2,
+      "anios": [
+        "2013",
+        "2020"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayern-munich/FC_Bayern_M282017.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayern-munich/Logo_FC_Bayern_M28200229.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayern-munich/FC_Bayern_M3F_1970.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayern-munich/FC_Bayern_M3F_1965.webp"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/bayern-munich/FC_Bayern_M_nchen_1923.webp"
+    },
+    {
+      "ano": "1961",
+      "url": "/escudos_historicos/bayern-munich/1961.webp"
+    },
+    {
+      "ano": "1965",
+      "url": "/escudos_historicos/bayern-munich/1965.webp"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/bayern-munich/1996.webp"
+    },
+    {
+      "ano": "2002",
+      "url": "/escudos_historicos/bayern-munich/2002.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/bayern-munich.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Die Bayern",
+      "origen": "Gentilicio natural e identitario impuesto para acoplar la herencia oficial y unificar firmes estatutos deportivos con todo el arraigo del territorio municipal. Implica designar en lengua alemana a Los Bávaros, englobando orgullosamente a toda la masiva población fronteriza de cuna estatal del sur nacional, Baviera."
+    },
+    {
+      "apodo": "Stern des Südens",
+      "origen": "Titulados refiriendo al masivo impacto topográfico y consolidando deportivamente la absoluta hegemonía emanada ante los rivales decimonónicos de la región. Su contundencia y título, traducido fielmente como La Estrella del Sur, alude rígidamente al astro vigía y guía victorioso reinante de toda Alemania."
+    }
+  ]
+}

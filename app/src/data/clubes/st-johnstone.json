@@ -1,0 +1,240 @@
+{
+  "id": "st-johnstone",
+  "meta": {
+    "etiquetas": [
+      "escocia",
+      "scottish premiership",
+      "st johnstone",
+      "saints",
+      "perth"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "St. Johnstone Football Club",
+    "sigla": "STJ",
+    "fundacion": "24 de febrero de 1884",
+    "apodo": "The Saints",
+    "estadio_actual": "McDiarmid Park",
+    "estadio_apodo": "McDiarmid Park",
+    "estadio_capacidad": 10696,
+    "estadio_inauguracion": "1989",
+    "estadio_lat": 56.4098,
+    "estadio_lng": -3.4777,
+    "estadio_direccion": "Crieff Rd, Perth PH1 2SJ, Reino Unido",
+    "socios": 3500,
+    "descripcion_corta": "Entidad profesional representativa de la ciudad de Perth. Tras más de un siglo de resultados moderados, alcanzó notoriedad nacional e internacional en la última década destacando su doblete de copas en 2021.",
+    "paleta": [
+      {
+        "tag": "Azul Rey",
+        "hex": "#0033A0"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "John Brogan (140 goles)",
+      "mas_presencias": "Alan Main (361 partidos)",
+      "mayor_goleada": "13-0 vs Tulloch (1887)"
+    },
+    "nombre_oficial": "St. Johnstone Football Club",
+    "nombre_corto": "St. Johnstone"
+  },
+  "historia": [
+    {
+      "ano": "1884",
+      "hito": "Constitución a partir de jugadores de críquet",
+      "desc": "El club se estableció en febrero de 1884 en la ciudad de Perth. Su fundación surgió por iniciativa de integrantes de un equipo de críquet local que buscaban un deporte para mantener su actividad durante la temporada de invierno. El nombre fue adoptado formalmente en alusión a 'St. John's Toun', denominación histórica que solía recibir antiguamente la propia ciudad de Perth. El equipo inició sus interacciones regulares en los torneos provinciales de la región, y décadas más tarde adoptó oficialmente los colores azul y blanco para su vestimenta."
+    },
+    {
+      "ano": "1969-1971",
+      "hito": "Primera final y entrada a la Copa de la UEFA",
+      "desc": "Luego de años con rendimientos irregulares a lo largo de las distintas divisiones escocesas, la entidad obtuvo resultados destacados bajo la dirección del técnico Willie Ormond a finales de la década de 1960. En la campaña 1969-70, el club avanzó por primera vez a la final de una competición mayor, la Copa de la Liga Escocesa, donde cayó derrotado 1-0 ante el Celtic. Al año siguiente, el equipo terminó en la tercera posición de la liga, lo que les permitió clasificar por primera vez de manera oficial en su historia a competiciones continentales para disputar la Copa de la UEFA, logrando una notoria victoria (3-1) ante el conjunto alemán Hamburger SV."
+    },
+    {
+      "ano": "1989",
+      "hito": "Inauguración de McDiarmid Park",
+      "desc": "Un hito fundamental para la consolidación institucional de la organización se produjo el 19 de agosto de 1989 con el establecimiento en un nuevo recinto. El agricultor local Bruce McDiarmid donó los terrenos agrícolas de su propiedad sobre los cuales la directiva logró financiar y edificar el McDiarmid Park. Este fue el primer estadio de fútbol con la totalidad de sus localidades provistas con asientos individuales construido en todo el Reino Unido, adelantándose en infraestructura a las normativas de seguridad impuestas posteriormente por dictamen del 'Taylor Report'."
+    },
+    {
+      "ano": "2014",
+      "hito": "Consagración pionera en la Copa de Escocia",
+      "desc": "Después de competir durante 130 años sin registrar trofeos nacionales de máxima categoría en su vitrina, el club cortó la mala racha en la temporada 2014. Bajo la gestión del director técnico Tommy Wright, el plantel superó las etapas eliminatorias de la Copa de Escocia hasta asegurar un lugar en el partido decisivo. En mayo de 2014, el St. Johnstone venció por 2-0 al Dundee United en la final disputada ante casi 50.000 espectadores en el estadio de Celtic Park, obteniendo de esta manera su primer gran título en el fútbol escocés."
+    },
+    {
+      "ano": "2020-2021",
+      "hito": "El histórico doblete copero contemporáneo",
+      "desc": "El momento más destacado en toda la historia de la organización ocurrió en la temporada 2020-2021 bajo la dirección de Callum Davidson. Durante ese torneo disputado a puertas cerradas debido a la pandemia de COVID-19, el equipo obtuvo primero la Copa de la Liga Escocesa derrotando al Livingston por 1-0 en febrero de 2021. Tres meses más tarde, y en el mismo estadio, conquistaron la Copa de Escocia al vencer también por 1-0 al Hibernian. De esta forma, lograron el hito del 'doblete de copas', un mérito sumamente atípico para los equipos de la división."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Muirton Park",
+      "capacidad": "aprox. 10.000",
+      "inauguracion": "1924",
+      "hasta": "1989",
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunkeld%20Rd%2C%20Perth%2C%20PH1%205RG%2C%20Reino%20Unido",
+      "direccion": "Dunkeld Rd, Perth, PH1 5RG, Reino Unido",
+      "lat": 56.4069,
+      "lng": -3.4504,
+      "descripcion": "Hogar clásico y primitivo del club, construido con ayuda del tesoro local ante su inicial escasez de recinto. Fue abandonado a finales de los ochenta debido a sus altísimos costos de mantenimiento."
+    },
+    {
+      "nombre": "McDiarmid Park (McDiarmid Park)",
+      "capacidad": "10696",
+      "inauguracion": "1989",
+      "url": "https://www.google.com/maps/search/?api=1&query=Crieff%20Rd%2C%20Perth%20PH1%202SJ%2C%20Reino%20Unido",
+      "direccion": "Crieff Rd, Perth PH1 2SJ, Reino Unido",
+      "lat": 56.4098,
+      "lng": -3.4777,
+      "descripcion": ""
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Scottish Cup",
+      "cantidad": 2,
+      "anios": [
+        "2013-14",
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Scottish League Cup",
+      "cantidad": 1,
+      "anios": [
+        "2020-21"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1884,
+      "hasta": null,
+      "c1": "#0000FF",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Cimiento histórico de consistencia estética invariable. Sostuvieron y acarrearon el diseño simple estipulando chombos e indumentarias limpiamente rasas colorizadas predominantemente de un intenso y firme azul cobalto o rey en formato en extremo liso, decorados usualmente de modestos remaches perimetrales y puños color nieve."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Chris Millar",
+      "pos": "Leyenda / Referente",
+      "periodo": "2008-2018",
+      "desc": "Estandarte puro del mediocampo operando férreamente y colaborando en la obtención de la histórica final copera, ganándose el respeto de su afición con inmenso sacrificio físico.",
+      "apodo": "Midge"
+    },
+    {
+      "nombre": "David Wotherspoon",
+      "pos": "Leyenda / Referente",
+      "periodo": "2013-2023",
+      "desc": "Medio creativo formidabílisimo ganador de cruces y actor indispensable en sendas victorias coperas históricas ostentando asombroso desequilibrio ofensivo contemporáneo.",
+      "apodo": "Spoony"
+    },
+    {
+      "nombre": "Steven MacLean",
+      "pos": "Leyenda / Referente",
+      "periodo": "2012-2018",
+      "desc": "El goleador infalible que se coronó marcando la diana definitoria pautada de la Copa Escocesa cerrando una trayectoria inmensa logrando un hito absoluto.",
+      "apodo": "Macca"
+    },
+    {
+      "nombre": "Dave Mackay (Saintees)",
+      "pos": "Leyenda / Referente",
+      "periodo": "2009-2016",
+      "desc": "Defensor legendario y capitán histórico asumiendo el comando que rompió el maleficio y levantó la primera medalla oficial de copa grande para la gran afición de Perth.",
+      "apodo": "Dave"
+    },
+    {
+      "nombre": "Liam Craig",
+      "pos": "Leyenda / Referente",
+      "periodo": "2007-2022",
+      "desc": "Volante indiscutido superando registros récord, obteniendo respeto supremo adjudicándose el histórico y milagroso doblete copero en los recientes años deslumbrantes.",
+      "apodo": "Liam"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "John Brogan",
+      "goles": 140,
+      "periodo": "1976-1984",
+      "desc": "Definidor implacable registrando anotabilidades letales, fijando con claridad números impresionantes y precisas ejecuciones constantes en todo el panorama superior."
+    },
+    {
+      "nombre": "Ian Rodger",
+      "goles": 116,
+      "periodo": "1947-1954",
+      "desc": "Ejecutor letal cruzando la centena a mediados de la época post bélica, aportando contundentes embestidas frontales firmando actuaciones legendarias inexpugnables."
+    },
+    {
+      "nombre": "Henry Hall",
+      "goles": 114,
+      "periodo": "1968-1975",
+      "desc": "Artillero fulminante ostentando puntería táctica asombrosamente resolutiva que cimentó importantes triunfos aportando registros exactos a nivel estadístico."
+    },
+    {
+      "nombre": "Stevie May",
+      "goles": 70,
+      "periodo": "2009-2024 (Múltiples periodos)",
+      "desc": "Ariete inconfundible de festejos contemporáneos siendo clave fundamental para romper largas sequías anotando el gol de un recordado triunfo sin precedentes de liga y copa."
+    },
+    {
+      "nombre": "Steven MacLean",
+      "goles": 58,
+      "periodo": "2012-2018",
+      "desc": "Goleador astuto sumando aportes rústicamente fijos en finales consagratorias que consolidaron el gran ascenso generalizado del conjunto durante ciclos imperdibles modernos."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Liam Craig",
+      "partidos": 457,
+      "periodo": "2007-2022",
+      "desc": "Superando todo registro vigente y estipulando titularidad indiscutida rígidamente abarcando casi medio millar de encuentros de asombrosa exigencia oficial y leal."
+    },
+    {
+      "nombre": "Steven Anderson",
+      "partidos": 439,
+      "periodo": "2004-2019",
+      "desc": "Zaguero inamovible fáctico que respaldó enormes contiendas coperas con formidables anticipos aéreos eternizándose con goles estelares."
+    },
+    {
+      "nombre": "David Wotherspoon",
+      "partidos": 356,
+      "periodo": "2013-2023",
+      "desc": "Comprobó brillante capacidad operativa englobando dobletes internacionales marcando época y liderando todo balance asertivo y constructivo de medular central."
+    },
+    {
+      "nombre": "Drew Rutherford",
+      "partidos": 345,
+      "periodo": "1977-1985",
+      "desc": "Garantizando registros de sólidas apariciones seguras mediante defensas contundentes de las divisiones de retaguardia escocesas en plena transición de finales de los setenta."
+    },
+    {
+      "nombre": "Chris Millar",
+      "partidos": 349,
+      "periodo": "2008-2018",
+      "desc": "Esteta combativo aportando rigor contundente cerrando un historial espléndido sumando contiendas decisivas en la historia triunfal de las grandes copas."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1980-1989",
+      "url": "/escudos_historicos/st-johnstone/St_Johnstone_FC_logo_1980-1989.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/st-johnstone.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Saints",
+      "origen": "Designación universal y literal basada en el apelativo eclesiástico correspondiente a San Juan Bautista (Saint John). El nombre de la institución procede directamente de la anterior nomenclatura administrativa que ostentaba la ciudad de Perth ('St John's Toun'). La prensa adoptó la traducción estricta 'Los Santos' como prefijo resolutivo."
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+    "id": "livingston",
+    "meta": {
+        "version": "1.0",
+        "last_update": "2026-04-14",
+        "author": "System"
+    },
+    "datos": {
+        "nombre_oficial": "Livingston Football Club",
+        "nombre_completo": "Livingston Football Club",
+        "nombre_corto": "Livingston",
+        "fundacion": "1943",
+        "apodos": [
+            "Livi",
+            "The Lions"
+        ],
+        "apodo": "The Lions",
+        "estadio_actual": "Almondvale Stadium",
+        "estadio_capacidad": 9713,
+        "estadio_inauguracion": "1995",
+        "estadio_direccion": "Almondvale Stadium, Livingston EH54 7DN, Escocia",
+        "estadio_lat": 55.8864,
+        "estadio_lng": -3.5222,
+        "escudo_actual": "/escudos/livingston.webp",
+        "sigla": "LIV",
+        "socios": 3500,
+        "descripcion_corta": "Entidad obrera gestada en Edimburgo como Ferranti Thistle y refundada revolucionariamente en West Lothian bajo la heráldica de The Lions.",
+        "paleta": [
+            {
+                "tag": "Ámbar",
+                "hex": "#FFBF00"
+            },
+            {
+                "tag": "Negro",
+                "hex": "#000000"
+            }
+        ],
+        "records": {
+            "maximo_goleador": "David Bingham (42 goles)",
+            "mas_presencias": "Keaghan Jacobs (309 partidos)",
+            "mayor_goleada": "8-0 vs Stranraer (2000)"
+        }
+    },
+    "historia": [
+        {
+            "ano": "1943",
+            "hito": "Raíces Industriales como Ferranti Thistle",
+            "desc": "En pleno apogeo de la Segunda Guerra Mundial, la clase trabajadora británica buscaba vías de escape a través del deporte. En 1943, los empleados y operarios de la empresa de ingeniería electrónica Ferranti emplazada en Edimburgo fundaron el modesto Ferranti Amateurs. Tras décadas compitiendo puramente en el fango de las divisiones amateurs escocesas como Ferranti Thistle, la escuadra se forjó una inquebrantable ética y estructura de club obrero que sentaría el modelo de trabajo táctico innegociable de toda su posterior evolución profesional."
+        },
+        {
+            "ano": "1974",
+            "hito": "El Despertar de Meadowbank Thistle",
+            "desc": "Un hito definitivo se gestó con las reformas estructurales del fútbol que permitieron el ingreso de una nueva entidad al sistema liguero. El aguerrido equipo amateur de Ferranti abogó por su inclusión logrando ingresar a la Scottish Football League de manera oficial. Sometido a estrictas leyes de la asociación que impedían usar indiscriminadamente patrocinios industriales en el nombre del club, se rebautizaron magistralmente como Meadowbank Thistle, pasando a disputar sus citas como dueños del Meadowbank Stadium en la capital escocesa."
+        },
+        {
+            "ano": "1995",
+            "hito": "La Reubicación Histórica y Gestación de Los Leones",
+            "desc": "Ante la paralización municipal en Edimburgo que imposibilitó desarrollar mayores y más dignas gradas en su terreno original, un enérgico consorcio empresarial propició un movimiento revolucionario sin precedentes. El club fue reubicado a la emergente geografía de la 'New Town' (nueva ciudad planificada) de Livingston en el área administrativa de West Lothian. Cambiando definitivamente su heráldica y bautizados como Livingston Football Club ('The Lions'), el equipo pasó a defender el flamante recinto Almondvale Stadium, cimentando una nueva herencia en una zona desprovista hasta entonces de arraigo profesional futbolístico."
+        },
+        {
+            "ano": "2001-2002",
+            "hito": "Ascenso Meteórico y Pasaporte Europeo",
+            "desc": "Ya bajo la robusta estructura logística y comercial instalada en West Lothian, Livingston atravesó un espectacular y vertiginoso ascenso, escalando sin pausas desde la tercera división hasta aterrizar en la exclusiva e inaccesible Scottish Premier League en 2001. Su épica primera campaña en la máxima élite los vio quebrar incontables hegemonías tácticas, consolidándose increíblemente como el tercer mejor equipo de toda Escocia, únicamente por debajo de Celtic y Rangers, y consiguiendo una rotunda y brillante clasificación a la Copa de la UEFA en tiempo récord."
+        },
+        {
+            "ano": "2004",
+            "hito": "Consagración Suprema en la Scottish League Cup",
+            "desc": "El pináculo tangible en la corta aunque intensa identidad contemporánea del nuevo Livingston ocurrió el 14 de marzo de 2004 bajo la experta conducción técnica del veterano estratega David Hay. Contra todo pronóstico logístico, Los Leones levantaron majestuosamente la Scottish League Cup al someter con absoluta autoridad por 2-0 (goles de Derek Lilley y Jamie McAllister) al contundente Hibernian sobre el gramado sagrado de Hampden Park, cristalizando en bronce eterno la reubicación corporativa más exitosa y gloriosa que haya experimentado el fútbol escocés en su historia contemporánea."
+        }
+    ],
+    "canchas": [
+        {
+            "nombre": "Meadowbank Stadium",
+            "desde": "1974",
+            "hasta": "1995",
+            "direccion": "London Rd, Edinburgh EH7 6AE, Escocia",
+            "lat": 55.9555,
+            "lng": -3.1561,
+            "obs": "El campo polideportivo fue el rudimentario hogar del club bajo la denominación Meadowbank Thistle en Edimburgo.",
+            "url": "https://maps.google.com/?q=55.9555,-3.1561"
+        },
+        {
+            "nombre": "Almondvale Stadium",
+            "desde": "1995",
+            "hasta": "2015",
+            "direccion": "Almondvale Stadium, Livingston EH54 7DN, Escocia",
+            "lat": 55.8864,
+            "lng": -3.5222,
+            "obs": "Estadio puro de fútbol construido íntegramente tras la mudanza a West Lothian.",
+            "url": "https://maps.google.com/?q=55.8864,-3.5222"
+        },
+        {
+            "nombre": "Tony Macaroni Arena",
+            "desde": "2015",
+            "hasta": "Presente",
+            "direccion": "Almondvale Stadium, Livingston EH54 7DN, Escocia",
+            "lat": 55.8864,
+            "lng": -3.5222,
+            "obs": "El mismo icónico recinto de Almondvale, rebautizado bajo un lucrativo acuerdo comercial de patrocinio integral.",
+            "url": "https://maps.google.com/?q=55.8864,-3.5222"
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": "1943",
+            "hasta": "1974",
+            "desc": "Como el equipo industrial fundacional de Ferranti Thistle, los operarios debutaron portando estoicas camisetas de base oscura adornadas por bordes amarillos y dorados.",
+            "c1": "#111111",
+            "c2": "#FFD700",
+            "tipo": "liso",
+            "sh": "#111111",
+            "me": "#FFD700"
+        },
+        {
+            "desde": "1974",
+            "hasta": "1995",
+            "desc": "Tras la reconversión a Meadowbank Thistle, adoptaron un patrón totalmente opuesto y frío: vestimentas rústicas de coloración predominantemente blanca lisa con detalles en negro sombrío.",
+            "c1": "#FFFFFF",
+            "c2": "#111111",
+            "tipo": "liso",
+            "sh": "#111111",
+            "me": "#FFFFFF"
+        },
+        {
+            "desde": "1995",
+            "hasta": "Presente",
+            "desc": "Con el bautismo y traslado que forjó a Los Leones, se fundó su coraza eterna: el llamativo y eléctrico ámbar entrelazado con negro profundo, sellando la identidad moderna.",
+            "c1": "#FFBF00",
+            "c2": "#000000",
+            "tipo": "liso",
+            "sh": "#FFBF00",
+            "me": "#000000"
+        }
+    ],
+    "titulos": [
+        {
+            "comp": "Scottish League Cup",
+            "cantidad": 1,
+            "anios": ["2004"]
+        },
+        {
+            "comp": "Scottish Challenge Cup",
+            "cantidad": 1,
+            "anios": ["2015"]
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Keaghan Jacobs",
+            "periodo": "2007-2022",
+            "pos": "Mediocampista",
+            "desc": "Símbolo innegociable de la fidelidad moderna. Permaneció en el club durante 15 estoicas temporadas, atravesando tanto el barro de la Tercera División como las mieles del ascenso hasta la Premiership."
+        },
+        {
+            "nombre": "David Bingham",
+            "periodo": "1999-2003",
+            "pos": "Delantero",
+            "desc": "El ariete de Dunfermline fue arquitecto absoluto del vertiginoso ascenso del club. Su exquisita capacidad resolutiva dentro del área aulló en los años fundacionales de Los Leones, guiándolos hacia su primera campaña europea."
+        },
+        {
+            "nombre": "Stuart Lovell",
+            "periodo": "2001-2005",
+            "pos": "Mediocampista",
+            "desc": "Líder magnético de nacionalidad australiana. Portó el brazalete de capitán con una jerarquía indiscutible, siendo el rostro eterno e inmortal que levantó al cielo la histórica Scottish League Cup en Hampden Park en 2004."
+        },
+        {
+            "nombre": "Óscar Rubio",
+            "periodo": "2001-2005",
+            "pos": "Defensor",
+            "desc": "Zaguero español de culto que se adueñó instantáneamente del cariño de la grada de Almondvale. Su inquebrantable lectura defensiva aportó el rigor necesario para solidificar al equipo en su pico máximo de rendimiento continental."
+        },
+        {
+            "nombre": "Marvin Bartley",
+            "periodo": "2019-2021",
+            "pos": "Mediocampista",
+            "desc": "El pulmón táctico de la era contemporánea. Pese a su estadía relativamente breve, su portento físico y liderazgo espiritual en el centro del campo dictaron el ritmo e inyectaron una mentalidad ganadora fundamental para asentar al equipo nuevamente en la élite."
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "nombre": "David Bingham",
+            "goles": 42,
+            "periodo": "1999-2003",
+            "partidos": 160,
+            "desc": "Atacante destacado en los registros del club. Convirtió un total de 42 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2003."
+        },
+        {
+            "nombre": "Liam Buchanan",
+            "goles": 37,
+            "periodo": "2015-2017",
+            "partidos": 88,
+            "desc": "Atacante destacado en los registros del club. Convirtió un total de 37 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2017."
+        },
+        {
+            "nombre": "Scott Pittman",
+            "goles": 34,
+            "periodo": "2015-2024",
+            "partidos": 296,
+            "desc": "Atacante destacado en los registros del club. Convirtió un total de 34 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2024."
+        },
+        {
+            "nombre": "Keaghan Jacobs",
+            "goles": 31,
+            "periodo": "2007-2022",
+            "partidos": 309,
+            "desc": "Atacante destacado en los registros del club. Convirtió un total de 31 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2022."
+        },
+        {
+            "nombre": "Marc McNulty",
+            "goles": 28,
+            "periodo": "2009-2014",
+            "partidos": 117,
+            "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2014."
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "nombre": "Keaghan Jacobs",
+            "partidos": 309,
+            "periodo": "2007-2022",
+            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 309 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2022."
+        },
+        {
+            "nombre": "Scott Pittman",
+            "partidos": 296,
+            "periodo": "2015-2024",
+            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 296 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2024."
+        },
+        {
+            "nombre": "Jason Talbot",
+            "partidos": 182,
+            "periodo": "2008-2015",
+            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 182 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2015."
+        },
+        {
+            "nombre": "Liam Fox",
+            "partidos": 168,
+            "periodo": "2006-2012",
+            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 168 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2012."
+        },
+        {
+            "nombre": "David Bingham",
+            "partidos": 160,
+            "periodo": "1999-2003",
+            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2003."
+        }
+    ],
+    "origen_apodos": [
+        {
+            "apodo": "Livi",
+            "origen": "Diminutivo directo derivado formalmente del nombre geográfico oficial de la nueva ciudad de Livingston, adoptado inmediata y naturalmente tras la reubicación corporativa e institucional del equipo a la localidad homónima en 1995."
+        },
+        {
+            "apodo": "The Lions",
+            "origen": "El apelativo surgió de manera innegable tras la refundación definitiva del club y hace alusión directa y estricta a la heráldica del nuevo escudo institucional, el cual presenta imponentemente en su centro un león rampante, elemento clásico e histórico de la simbología nacional escocesa."
+        }
+    ],
+    "evolucion_escudos": [
+        {
+            "ano": "1974-1995",
+            "url": "/escudos_historicos/livingston/1974-1995Meadowbank_Thistle .webp"
+        },
+        {
+            "ano": "1995-1999",
+            "url": "/escudos_historicos/livingston/Oldlivibadge.GI1995-1999F.webp"
+        },
+        {
+            "ano": "1999-2014",
+            "url": "/escudos_historicos/livingston/Livingston_FC_logo1999-2014.svg"
+        },
+        {
+            "ano": "2014-Actualidad",
+            "url": "/escudos_historicos/livingston/Liverpool_FC_logo_2014-actual.webp"
+        },
+        {
+            "ano": "Actualidad",
+            "url": "/escudos/livingston.webp"
+        }
+    ]
+}

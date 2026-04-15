@@ -1,0 +1,1620 @@
+{
+  "id": "boca-juniors",
+  "datos": {
+    "nombre_completo": "Club Atlético Boca Juniors",
+    "sigla": "CABJ",
+    "fundacion": "3 de abril de 1905",
+    "apodo": "El Xeneize, La Mitad Más Uno",
+    "estadio_actual": "Alberto J. Armando",
+    "estadio_apodo": "La Bombonera",
+    "estadio_capacidad": 57200,
+    "estadio_inauguracion": "1940",
+    "estadio_lat": -34.6377,
+    "estadio_lng": -58.3641,
+    "estadio_direccion": "Brandsen 805, La Boca, CABA",
+    "socios": 340000,
+    "descripcion_corta": "Uno de los clubes de fútbol más populares y exitosos de América, reconocido mundialmente por su apasionada afición y su mítico estadio 'La Bombonera' ubicado en el colorido barrio de La Boca.",
+    "paleta": [
+      {
+        "tag": "Azul Noche",
+        "hex": "#004B87"
+      },
+      {
+        "tag": "Oro",
+        "hex": "#FFB81C"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "11-1 a Tigre (Primera División 1942)",
+      "maximo_goleador": "Martín Palermo (236 goles)",
+      "mas_presencias": "Roberto Mouzo (426 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Fundación en la Plaza Solís",
+      "desc": "El 3 de abril de 1905, un grupo de adolescentes hijos de inmigrantes italianos se reunió en un banco de la Plaza Solís, en el barrio de La Boca, para fundar el Club Atlético Boca Juniors. Inspirados por los buques que amarraban en el puerto, adoptaron los colores azul y oro tras observar la bandera de un barco sueco."
+    },
+    {
+      "ano": "1925",
+      "hito": "La Gira Europea",
+      "desc": "Boca Juniors se convirtió en el primer equipo argentino en realizar una extensa gira de competición por Europa. Disputaron 19 partidos contra importantes equipos de España, Alemania y Francia, obteniendo 15 victorias, lo que les valió el reconocimiento oficial de Campeones de Honor."
+    },
+    {
+      "ano": "1977-1978",
+      "hito": "El bicampeonato de América y la Intercontinental",
+      "desc": "Bajo la conducción técnica de Juan Carlos Lorenzo, el club conformó un bloque defensivo histórico que le permitió obtener sus dos primeras Copas Libertadores de América de forma consecutiva. Además, conquistaron su primera Copa Intercontinental al vencer al Borussia Mönchengladbach de Alemania en 1978."
+    },
+    {
+      "ano": "2000-2003",
+      "hito": "La época dorada de Carlos Bianchi",
+      "desc": "Al mando del entrenador Carlos Bianchi y con el talento en el campo de Juan Román Riquelme y Martín Palermo, Boca Juniors gozó del período más exitoso de su historia. Ganaron tres Copas Libertadores (2000, 2001, 2003) y dos Copas Intercontinentales, derrotando a poderosos europeos como el Real Madrid y el AC Milan."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Cancha de Pedro de Mendoza y Colorado",
+      "desde": 1905,
+      "hasta": 1907,
+      "barrio": "La Boca",
+      "obs": "Primera cancha precariamente demarcada por los fundadores en la manzana comprendida entre Pedro de Mendoza, Colorado (actual Caffarena), Senguel (hoy Pérez Galdós) y Caboto.",
+      "direccion": "Pedro de Mendoza y Colorado, La Boca",
+      "lat": -34.6295,
+      "lng": -58.3615,
+      "url": "https://www.google.com/maps/search/?api=1&query=Pedro%20de%20Mendoza%20y%20Colorado%2C%20La%20Boca"
+    },
+    {
+      "nombre": "Cancha de Dársena Sur",
+      "desde": 1908,
+      "hasta": 1912,
+      "barrio": "Isla Demarchi (La Boca)",
+      "obs": "Al afiliarse oficialmente a la AFA, el club debió mudarse detrás de las carboneras Wilson en la Dársena Sur, un terreno más amplio muy cercano al Riachuelo.",
+      "direccion": "Dársena Sur, Isla Demarchi, La Boca",
+      "lat": -34.6288,
+      "lng": -58.3582,
+      "url": "https://www.google.com/maps/search/?api=1&query=D%C3%A1rsena%20Sur%2C%20Isla%20Demarchi%2C%20La%20Boca"
+    },
+    {
+      "nombre": "Estadio en Wilde",
+      "desde": 1914,
+      "hasta": 1915,
+      "ciudad": "Wilde (Avellaneda)",
+      "obs": "El club sufrió un desalojo y cruzó el Riachuelo temporalmente. La baja asistencia del público hizo crecer la nostalgia por regresar urgentemente a su barrio de origen.",
+      "direccion": "Wilde, Partido de Avellaneda",
+      "lat": -34.6953,
+      "lng": -58.3188,
+      "url": "https://www.google.com/maps/search/?api=1&query=Wilde%2C%20Partido%20de%20Avellaneda"
+    },
+    {
+      "nombre": "Estadio de Ministro Brin y Senguel",
+      "desde": 1916,
+      "hasta": 1924,
+      "barrio": "La Boca",
+      "obs": "El ansiado regreso a La Boca mediante un estadio de tablones de madera. Fue sede de una gloriosa época amateur y forjó la mística copera de aquella generación.",
+      "direccion": "Ministro Brin y Senguel, La Boca",
+      "lat": -34.6346,
+      "lng": -58.3619,
+      "url": "https://www.google.com/maps/search/?api=1&query=Ministro%20Brin%20y%20Senguel%2C%20La%20Boca"
+    },
+    {
+      "nombre": "Estadio de Brandsen y Del Crucero",
+      "desde": 1924,
+      "hasta": 1938,
+      "ciudad": "Buenos Aires",
+      "barrio": "La Boca",
+      "obs": "Primer estadio propio formal. Capacidad: 25.000. Sede de la Copa América 1925. Demolido para construir La Bombonera",
+      "lat": -34.6361,
+      "lng": -58.3579,
+      "direccion": "Brandsen y Del Crucero, La Boca, Buenos Aires",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brandsen%20y%20Del%20Crucero%2C%20La%20Boca%2C%20Buenos%20Aires"
+    },
+    {
+      "nombre": "Estadio Alberto J. Armando",
+      "desde": 1940,
+      "hasta": null,
+      "ciudad": "Buenos Aires",
+      "barrio": "La Boca",
+      "obs": "Inaugurado el 25/5/1940 vs San Lorenzo (2-0). Apodo 'La Bombonera' por su arquitecto Sulčič. Mejor estadio del mundo según FourFourTwo (2015 y 2024). Declarado de interés artístico y turístico de CABA. Riquelme disputó 206 partidos aquí — récord histórico",
+      "lat": -34.6377,
+      "lng": -58.3641,
+      "direccion": "Brandsen 805, La Boca, Buenos Aires",
+      "url": "https://www.google.com/maps/search/?api=1&query=Brandsen%20805%2C%20La%20Boca%2C%20Buenos%20Aires"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": 1905,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Primera camiseta oficial. Blanca con franjas verticales negras muy finas."
+    },
+    {
+      "desde": 1905,
+      "hasta": 1906,
+      "c1": "#87CEEB",
+      "c2": "#87CEEB",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camiseta íntegramente de color celeste."
+    },
+    {
+      "desde": 1906,
+      "hasta": 1907,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#000080",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Camiseta blanca con finas rayas verticales azules."
+    },
+    {
+      "desde": 1907,
+      "hasta": 1913,
+      "c1": "#004B87",
+      "c2": "#FFB81C",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "banda-diagonal",
+      "desc": "Adopción de los colores azul y amarillo, inspirados en un barco sueco. Diseño con banda diagonal."
+    },
+    {
+      "desde": 1913,
+      "hasta": null,
+      "c1": "#003DA5",
+      "c2": "#FFD700",
+      "sh": "#003DA5",
+      "me": "#FFD700",
+      "tipo": "franja-horizontal",
+      "desc": "Establecimiento del diseño clásico y definitivo: fondo azul con una franja horizontal amarilla en el pecho."
+    }
+  ],
+  "temporadas": [
+    {
+      "anio": 1913,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Debut en Primera División",
+      "pos": 6
+    },
+    {
+      "anio": 1914,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1915,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1916,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1917,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1918,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1919,
+      "torneo": "Primera Division",
+      "pos": 2
+    },
+    {
+      "anio": 1920,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1921,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1922,
+      "torneo": "Primera Division",
+      "pos": 5
+    },
+    {
+      "anio": 1923,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1924,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1925,
+      "torneo": "Primera Division",
+      "pos": 4
+    },
+    {
+      "anio": 1926,
+      "torneo": "Primera Division",
+      "pos": 2
+    },
+    {
+      "anio": 1927,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1928,
+      "torneo": "Primera Division",
+      "pos": 3
+    },
+    {
+      "anio": 1929,
+      "torneo": "Primera Division",
+      "pos": 5
+    },
+    {
+      "anio": 1930,
+      "torneo": "Primera Division",
+      "pos": 5
+    },
+    {
+      "anio": 1931,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "pj": 34,
+      "g": 22,
+      "e": 6,
+      "pp": 6,
+      "obs": "CAMPEÓN — 1er campeonato profesional de la historia del fútbol argentino"
+    },
+    {
+      "anio": 1932,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 4,
+      "obs": "River Plate campeón. Llegada de Benítez Cáceres"
+    },
+    {
+      "anio": 1933,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 2,
+      "obs": "Subcampeón — llegó puntero última fecha pero perdió vs River 3-1 y San Lorenzo fue campeón"
+    },
+    {
+      "anio": 1934,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN — superó por 1 punto a Independiente. Cherro 22 goles. Inicio del bicampeonato"
+    },
+    {
+      "anio": 1935,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN — bicampeón. 27G-4E-3P. 85% de efectividad. Domingos Da Guía llegó de Brasil"
+    },
+    {
+      "anio": 1936,
+      "torneo": "Copa de Honor",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1936,
+      "torneo": "Copa Campeonato",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1937,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1938,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Independiente campeón. Varallo 45 goles en 40 partidos — récord absoluto del club",
+      "pos": 6
+    },
+    {
+      "anio": 1939,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1940,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Inauguración de La Bombonera (25/5/1940 vs San Lorenzo 2-0). Goleada histórica 11-1 vs Tigre"
+    },
+    {
+      "anio": 1941,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1942,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate bicampeón",
+      "pos": 6
+    },
+    {
+      "anio": 1943,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. DT Garasini. Varela ídolo"
+    },
+    {
+      "anio": 1944,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN bicampeón. Vuelta olímpica en el Monumental ante Racing Club"
+    },
+    {
+      "anio": 1945,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1946,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1947,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1948,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 3
+    },
+    {
+      "anio": 1949,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1950,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1951,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 5
+    },
+    {
+      "anio": 1952,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1953,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1954,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN — fin de 9 años de sequía. Borello 19 goles"
+    },
+    {
+      "anio": 1955,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1956,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate bicampeón",
+      "pos": 4
+    },
+    {
+      "anio": 1957,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "River Plate tricampeón",
+      "pos": 4
+    },
+    {
+      "anio": 1958,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1959,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1960,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1961,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 6
+    },
+    {
+      "anio": 1962,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Debut de Rojitas (19/5/1963 vs Vélez). DT Lazzatti"
+    },
+    {
+      "anio": 1963,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 5
+    },
+    {
+      "anio": 1964,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Defensa récord: arco en cero en 19 partidos. Inicio del nuevo bicampeonato"
+    },
+    {
+      "anio": 1965,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN bicampeón. Rojas goleador del campeonato"
+    },
+    {
+      "anio": 1966,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "obs": "Racing Club campeón",
+      "pos": 2
+    },
+    {
+      "anio": 1967,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "obs": "Estudiantes LP campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1967,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1968,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón invicto",
+      "pos": 6
+    },
+    {
+      "anio": 1968,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 2,
+      "obs": "Subcampeón (Vélez Sársfield campeón)"
+    },
+    {
+      "anio": 1969,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 5
+    },
+    {
+      "anio": 1969,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Nacional. Copa Argentina 1969 — CAMPEÓN. Vuelta olímpica en el Monumental ante River"
+    },
+    {
+      "anio": 1970,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 5
+    },
+    {
+      "anio": 1970,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Nacional. Rojitas brilló antes de emigrar"
+    },
+    {
+      "anio": 1971,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "obs": "Independiente campeón",
+      "pos": 3
+    },
+    {
+      "anio": 1971,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "obs": "Rosario Central campeón",
+      "pos": 3
+    },
+    {
+      "anio": 1972,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón invicto",
+      "pos": 4
+    },
+    {
+      "anio": 1972,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón invicto",
+      "pos": 3
+    },
+    {
+      "anio": 1973,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1973,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1974,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 5
+    },
+    {
+      "anio": 1974,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón",
+      "pos": 4
+    },
+    {
+      "anio": 1975,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1975,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1976,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. DT Juan Carlos Lorenzo 'El Toto'. Llegan Gatti, Mouzo"
+    },
+    {
+      "anio": 1976,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Final 1-0 vs River en Racing. Gol de Suñé. 100.000 espectadores. Copa Libertadores 1977 — CAMPEÓN"
+    },
+    {
+      "anio": 1977,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1977,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 6
+    },
+    {
+      "anio": 1978,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1978,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "obs": "Copa Libertadores 1978 — CAMPEÓN (bicampeón). Copa Intercontinental 1977 — CAMPEÓN vs Borussia Mönchengladbach",
+      "pos": 5
+    },
+    {
+      "anio": 1979,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 6
+    },
+    {
+      "anio": 1979,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1980,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1980,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1981,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Metropolitano. Debut de Diego Maradona"
+    },
+    {
+      "anio": 1981,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1982,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "obs": "Maradona en su máximo nivel antes de irse a Barcelona",
+      "pos": 4
+    },
+    {
+      "anio": 1982,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1983,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1983,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1984,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1984,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1985,
+      "torneo": "Metropolitano",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1985,
+      "torneo": "Nacional",
+      "div": "1ª",
+      "pos": 6
+    },
+    {
+      "anio": 1986,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 6
+    },
+    {
+      "anio": 1987,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1988,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1989,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1990,
+      "torneo": "Campeonato de Primera División",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 1991,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1991,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1992,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 1992,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Apertura"
+    },
+    {
+      "anio": 1993,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1993,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1994,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 13
+    },
+    {
+      "anio": 1994,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 13
+    },
+    {
+      "anio": 1995,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1995,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 1996,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 10
+    },
+    {
+      "anio": 1996,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 10
+    },
+    {
+      "anio": 1997,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1997,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 1998,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 1998,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "pj": 19,
+      "g": 13,
+      "e": 6,
+      "pp": 0,
+      "camp": true,
+      "obs": "CAMPEÓN INVICTO. DT Bianchi. Palermo 20 goles — récord torneos cortos. Inicio de 40 partidos sin perder"
+    },
+    {
+      "anio": 1999,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Fin de la racha invicta: 40 partidos sin perder — récord del profesionalismo argentino"
+    },
+    {
+      "anio": 1999,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2000,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2000,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Copa Libertadores 2000 — CAMPEÓN. Copa Intercontinental 2000 — CAMPEÓN vs Real Madrid 2-1"
+    },
+    {
+      "anio": 2001,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 2001,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "obs": "Subcampeón (Racing Club campeón). Copa Libertadores 2001 — CAMPEÓN"
+    },
+    {
+      "anio": 2002,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 2002,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 2
+    },
+    {
+      "anio": 2003,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2003,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Copa Libertadores 2003 — CAMPEÓN (tricampeón). Copa Intercontinental 2003 — CAMPEÓN vs Milan"
+    },
+    {
+      "anio": 2004,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 8
+    },
+    {
+      "anio": 2004,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 8
+    },
+    {
+      "anio": 2005,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2005,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Copa Sudamericana 2005 — CAMPEÓN"
+    },
+    {
+      "anio": 2006,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Racha 13 victorias consecutivas — récord argentino"
+    },
+    {
+      "anio": 2006,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2007,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 2007,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 2008,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2008,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN. Triple empate con River y San Lorenzo que no fueron al triangular en este caso"
+    },
+    {
+      "anio": 2009,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 11
+    },
+    {
+      "anio": 2009,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 11
+    },
+    {
+      "anio": 2010,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 12
+    },
+    {
+      "anio": 2010,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 12
+    },
+    {
+      "anio": 2011,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 1
+    },
+    {
+      "anio": 2011,
+      "torneo": "Apertura",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN INVICTO. DT Falcioni. 12G-7E-0P. 11 puntos de ventaja. Último partido oficial de Palermo (18/6/2011)"
+    },
+    {
+      "anio": 2012,
+      "torneo": "Clausura",
+      "div": "1ª",
+      "pos": 6
+    },
+    {
+      "anio": 2012,
+      "torneo": "Torneo Inicial",
+      "div": "1ª",
+      "obs": "Copa Argentina 2011/12 — CAMPEÓN",
+      "pos": 6
+    },
+    {
+      "anio": 2013,
+      "torneo": "Torneo Final",
+      "div": "1ª",
+      "pos": 7
+    },
+    {
+      "anio": 2013,
+      "torneo": "Torneo Inicial",
+      "div": "1ª",
+      "obs": "San Lorenzo campeón",
+      "pos": 7
+    },
+    {
+      "anio": 2014,
+      "torneo": "Torneo Final",
+      "div": "1ª",
+      "pos": 5
+    },
+    {
+      "anio": 2014,
+      "torneo": "Torneo Transición",
+      "div": "1ª",
+      "pos": 5
+    },
+    {
+      "anio": 2015,
+      "torneo": "Primera División",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN 2015. Copa Argentina 2014/15 — CAMPEÓN. DT Arruabarrena"
+    },
+    {
+      "anio": 2016,
+      "torneo": "Primera División",
+      "div": "1ª",
+      "pos": 10
+    },
+    {
+      "anio": 2017,
+      "torneo": "Superliga Argentina",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Superliga 2016/17. DT G. Barros Schelotto. Líder desde fecha 1 hasta la última — récord"
+    },
+    {
+      "anio": 2018,
+      "torneo": "Superliga Argentina",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Superliga 2017/18 bicampeón liderando todo el torneo — récord mundial. Final Copa Libertadores: perdió vs River en Madrid 2-3 a.e.t."
+    },
+    {
+      "anio": 2019,
+      "torneo": "Superliga Argentina",
+      "div": "1ª",
+      "pos": 3
+    },
+    {
+      "anio": 2020,
+      "torneo": "Liga Profesional de Fútbol",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Liga Profesional 2019/20. DT Miguel Ángel Russo"
+    },
+    {
+      "anio": 2021,
+      "torneo": "Liga Profesional de Fútbol",
+      "div": "1ª",
+      "pos": 4
+    },
+    {
+      "anio": 2022,
+      "torneo": "Liga Profesional de Fútbol",
+      "div": "1ª",
+      "pos": 1,
+      "camp": true,
+      "obs": "CAMPEÓN Liga Profesional 2022. Final Copa Libertadores 2023: cayó vs Fluminense en Río"
+    },
+    {
+      "anio": 2023,
+      "torneo": "Liga Profesional de Fútbol",
+      "div": "1ª",
+      "pos": 7
+    },
+    {
+      "anio": 2024,
+      "torneo": "Liga Profesional de Fútbol",
+      "div": "1ª",
+      "pos": 8
+    },
+    {
+      "anio": 2025,
+      "torneo": "Liga Profesional — Apertura/Clausura",
+      "div": "1ª",
+      "obs": "Eliminado en Copa Libertadores 2025 fase 2 vs Alianza Lima (penales)",
+      "pos": 2
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato de Primera División",
+      "cantidad": 35,
+      "años": [
+        "1919",
+        "1920",
+        "1923",
+        "1924",
+        "1926",
+        "1930",
+        "1931",
+        "1934",
+        "1935",
+        "1940",
+        "1943",
+        "1944",
+        "1954",
+        "1962",
+        "1964",
+        "1965",
+        "1969",
+        "1970",
+        "1976 (M)",
+        "1976 (N)",
+        "1981",
+        "1992",
+        "1998",
+        "1999",
+        "2000",
+        "2003",
+        "2005",
+        "2006",
+        "2008",
+        "2011",
+        "2015",
+        "2017",
+        "2018",
+        "2020",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Copa Argentina",
+      "cantidad": 4,
+      "años": [
+        "1969",
+        "2012",
+        "2015",
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Copa de la Liga / Supercopas Nacionales",
+      "cantidad": 4,
+      "años": [
+        "2018",
+        "2020",
+        "2022",
+        "2022"
+      ]
+    },
+    {
+      "nombre": "Copas Nacionales Históricas",
+      "cantidad": 9,
+      "años": [
+        "1919",
+        "1920",
+        "1923",
+        "1924",
+        "1925",
+        "1926",
+        "1940",
+        "1946",
+        "1969"
+      ]
+    },
+    {
+      "nombre": "Copas Rioplatenses Históricas",
+      "cantidad": 4,
+      "años": [
+        "1919",
+        "1920",
+        "1940",
+        "1946"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores de América",
+      "cantidad": 6,
+      "años": [
+        "1977",
+        "1978",
+        "2000",
+        "2001",
+        "2003",
+        "2007"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 3,
+      "años": [
+        "1977",
+        "2000",
+        "2003"
+      ]
+    },
+    {
+      "nombre": "Copa Sudamericana",
+      "cantidad": 2,
+      "años": [
+        "2004",
+        "2005"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 4,
+      "años": [
+        "1990",
+        "2005",
+        "2006",
+        "2008"
+      ]
+    },
+    {
+      "nombre": "Supercopa / Máster / Nicolás Leoz",
+      "cantidad": 3,
+      "años": [
+        "1989",
+        "1992",
+        "1993"
+      ]
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "pos": 1,
+      "nombre": "Martín Palermo",
+      "apodo": "El Titán / El Loco",
+      "goles": 236,
+      "partidos": 404,
+      "periodo": "1997–2000; 2004–2011",
+      "posicion": "Delantero",
+      "obs": "Récord de 20 goles en un torneo corto (Ap.1998). 3 penales errados en Copa América 1999 — histórico. Gol de cabeza desde mitad de cancha (2009)",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 236 goles en competiciones oficiales durante su trayectoria en el equipo entre 1997–2000; 2004–2011."
+    },
+    {
+      "pos": 2,
+      "nombre": "Roberto Cherro",
+      "apodo": "Cabecita de Oro",
+      "goles": 221,
+      "partidos": 305,
+      "periodo": "1926–1938",
+      "posicion": "Volante ofensivo",
+      "obs": "Máximo goleador del Superclásico con 8 tantos en la época amateur",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 221 goles en competiciones oficiales durante su trayectoria en el equipo entre 1926–1938."
+    },
+    {
+      "pos": 3,
+      "nombre": "Francisco Varallo",
+      "apodo": "Pancho",
+      "goles": 194,
+      "partidos": 222,
+      "periodo": "1931–1939",
+      "posicion": "Delantero",
+      "obs": "Mejor promedio de la historia: 0,87 goles/partido. 45 goles en 1933 — récord histórico del club",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 194 goles en competiciones oficiales durante su trayectoria en el equipo entre 1931–1939."
+    },
+    {
+      "pos": 4,
+      "nombre": "Domingo Tarasconi",
+      "goles": 183,
+      "partidos": 236,
+      "periodo": "1922–1932",
+      "posicion": "Delantero",
+      "obs": "40 goles en 1923 — récord de un año natural en el club. Medalla de plata JJ.OO. Amsterdam 1928",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 183 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922–1932."
+    },
+    {
+      "pos": 5,
+      "nombre": "Jaime Sarlanga",
+      "apodo": "Piraña",
+      "goles": 129,
+      "partidos": 220,
+      "periodo": "1940–1948",
+      "posicion": "Delantero",
+      "obs": "8 títulos. Figura del bicampeonato 1943-44",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940–1948."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Roberto Mouzo",
+      "partidos": 426,
+      "periodo": "1971-1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 426 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1984."
+    },
+    {
+      "nombre": "Hugo Gatti",
+      "partidos": 417,
+      "periodo": "1976-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 417 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1988."
+    },
+    {
+      "nombre": "Silvio Marzolini",
+      "partidos": 408,
+      "periodo": "1960-1972",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 408 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1972."
+    },
+    {
+      "nombre": "Martín Palermo",
+      "partidos": 404,
+      "periodo": "1997-2011",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 404 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2011."
+    },
+    {
+      "nombre": "Carlos N. Montoya",
+      "partidos": 400,
+      "periodo": "1988-1996",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 400 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-1996."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Juan Román Riquelme",
+      "pos": "Enganche",
+      "apodo": "El Último Diez / Román",
+      "periodo": "1996-2002, 2007-2014",
+      "desc": "Surgido de las divisiones inferiores oriundo de Argentinos Juniors, se erigió como el conductor táctico del equipo que conquistó tres Copas Libertadores (2000, 2001 y 2007) y la Copa Intercontinental, destacando por su notable visión de juego y pegada."
+    },
+    {
+      "nombre": "Diego Armando Maradona",
+      "pos": "Mediocampista Ofensivo / Enganche",
+      "apodo": "Pelusa / D10S / El Diego",
+      "periodo": "1981-1982, 1995-1997",
+      "desc": "Arribó al club en 1981, logrando el Campeonato Metropolitano de forma inmediata. Su figura trascendió lo estadístico gracias a su profunda identificación con la hinchada, culminando su carrera profesional en la institución en 1997."
+    },
+    {
+      "nombre": "Martín Palermo",
+      "pos": "Centrodelantero",
+      "apodo": "El Titán / El Optimista del Gol",
+      "periodo": "1997-2000, 2004-2011",
+      "desc": "Se consolidó como el máximo goleador histórico de la institución con 236 tantos oficiales. Su ciclo estuvo marcado por anotaciones definitorias en finales internacionales y clásicos frente a River Plate, destacando el doblete al Real Madrid en el año 2000."
+    },
+    {
+      "nombre": "Carlos Tevez",
+      "pos": "Delantero / Mediapunta",
+      "apodo": "El Apache / Carlitos",
+      "periodo": "2001-2004, 2015-2016, 2018-2021",
+      "desc": "Debutó en la primera división en 2001 y conquistó la Copa Libertadores 2003 antes de su venta al exterior. Retornó al club en plenitud física en 2015, liderando al equipo hacia múltiples títulos de liga locales hasta su retiro."
+    },
+    {
+      "nombre": "Ángel Clemente Rojas",
+      "pos": "Delantero",
+      "apodo": "Rojitas",
+      "periodo": "1963-1971",
+      "desc": "Delantero de notable habilidad y quiebre de cintura, fue una de las principales figuras ofensivas en la década de 1960. Conquistó cuatro campeonatos nacionales y se transformó en uno de los grandes referentes estilísticos de la época."
+    }
+  ],
+  "historial_rivales": [
+    {
+      "rival": "River Plate",
+      "tipo": "Superclásico",
+      "pj": 263,
+      "g": 92,
+      "e": 84,
+      "p": 87,
+      "obs": "El partido más importante del fútbol argentino. Boca tiene más victorias históricas totales. 5 vueltas olímpicas de Boca en estadios de River"
+    },
+    {
+      "rival": "San Lorenzo",
+      "tipo": "Clásico histórico",
+      "pj": 213,
+      "g": 78,
+      "e": 52,
+      "p": 83,
+      "obs": "San Lorenzo es el único de los grandes con ventaja sobre Boca en el historial"
+    },
+    {
+      "rival": "Racing Club",
+      "tipo": "Clásico histórico",
+      "pj": null,
+      "g": null,
+      "e": null,
+      "p": null,
+      "obs": "Por completar con datos exactos"
+    },
+    {
+      "rival": "Independiente",
+      "tipo": "Clásico histórico",
+      "pj": null,
+      "g": null,
+      "e": null,
+      "p": null,
+      "obs": "Por completar con datos exactos"
+    }
+  ],
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "capital",
+      "xeneize",
+      "grande"
+    ],
+    "version": "1.0",
+    "datos_completos": true,
+    "ultima_actualizacion": "2026-03-24",
+    "pendientes": [
+      "Posiciones años 1941-1981 (varios torneos sin posición exacta)",
+      "Historial de rivales completo",
+      "Estadísticas detalladas por temporada"
+    ]
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1911",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1911_web.png"
+    },
+    {
+      "ano": "1911",
+      "url": "/escudos/historicos/boca-juniors/Boca_escudo_1911-1914.png"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1915_web.png"
+    },
+    {
+      "ano": "1915",
+      "url": "/escudos/historicos/boca-juniors/Boca_escudo_1915-1932.png"
+    },
+    {
+      "ano": "1922",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1922_web.png"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1932_web.png"
+    },
+    {
+      "ano": "1932",
+      "url": "/escudos/historicos/boca-juniors/Boca_jrs_logo_1932-1996.png"
+    },
+    {
+      "ano": "1955",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1955_web.png"
+    },
+    {
+      "ano": "1960",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1960_web.png"
+    },
+    {
+      "ano": "1970",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1970_web.png"
+    },
+    {
+      "ano": "1981",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1981_web.png"
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_1996_web.png"
+    },
+    {
+      "ano": "2005",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2005_web.jpg"
+    },
+    {
+      "ano": "2007",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2007_web.png"
+    },
+    {
+      "ano": "2009",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2009_web.jpg"
+    },
+    {
+      "ano": "2011",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2011_web.png"
+    },
+    {
+      "ano": "2012",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2012_web.png"
+    },
+    {
+      "ano": "2025",
+      "url": "/escudos_historicos/boca-juniors/boca-juniors_2025_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CABJ70.png/1280px-CABJ70.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Xeneizes",
+      "origen": "Su origen etimológico radica de forma directa en el dialecto genovés 'zenéize', que en la terminología provincial italiana de Liguria se utiliza llanamente para designar todo lo perteneciente a la ciudad de Génova. En la primera década del siglo XX, el barrio capitalino original de La Boca y los primeros cinco fundadores del naciente club de la región eran parte de las masivas oleadas de obreros inmigrantes llegados desde el famoso puerto italiano al país. La fuerte huella y composición comunitaria determinó que, con el tiempo, se dictaminara y adaptara la derivación castellanizada mediante la X como el patronímico o gentilicio oficial inamovible de todo el club."
+    },
+    {
+      "apodo": "La Mitad Más Uno",
+      "origen": "Fue impulsado e insertado socialmente en el vocabulario del país gracias al trabajo masivo y locución del carismático periodista local y radial boquense de de los tiempos, Antonio Carrizo, durante transcurso amplio de la década de 1960. Tras revisar múltiples muestreos, censos poblacionales o estadísticas comparativas de encuestas deportivas a lo ancho de los territorios nacionales y en los programas al aire, argumentaba radialmente de modo persistente que la cantidad de personas empadronadas del club lograba superar numéricamente sin oposición matemática alguna al resto general compuesto por todos los otros equipos y grupos de hinchadas sumados de todo el territorio y país. "
+    },
+    {
+      "apodo": "Bosteros",
+      "origen": "Consta de dos explicaciones de nacimiento parejo que funcionaron como severos agravios directos generados socialmente por distintas hinchadas adversarias a base barrial desde sus inicios hasta instalarse orgullosamente en el propio escudo durante décadas más tarde al consolidarse su masividad callejera. La primera hace hincapié histórico claro sobre las recordadas y masivas inundaciones del famoso cuerpo y la cuenca del agua limitante sureña o arrabal porteña conocida del sur de Riachuelo dejando tras crecidas e invadiendo aludes inundando todas vecindades barriales arrojando un rudo olor denso. Otra fuerte variante apunta exactamente que pegado junto a y en frente literal del antiguo paraje y locación inicial precaria cancha perimetral del naciente equipo del club existieron fábricas gigantes operando donde decenas y tracción a de carros y caballos de sangre trabajaban, dejando el estiércol de caballos al costado de las inmediaciones barriales."
+    }
+  ]
+}

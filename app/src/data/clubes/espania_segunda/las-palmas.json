@@ -1,0 +1,188 @@
+{
+  "datos": {
+    "nombre_corto": "UD Las Palmas",
+    "estadio_actual": "Estadio de Gran Canaria",
+    "estadio_direccion": "C. Fondos de Segura, s/n, 35019 Las Palmas de G.C.",
+    "estadio_lat": 28.1,
+    "estadio_lng": -15.456
+  },
+  "historia": [
+    {
+      "ano": "1949",
+      "hito": "Fundación Histórica por la Unión de 5",
+      "desc": "En la convulsa década de los cuarenta, el talento insular sufría un constante éxodo hacia la España peninsular. Tratando de blindar su patrimonio deportivo, el visionario dirigente Manuel Rodríguez Monroy propuso una alianza sin precedentes. El 22 de agosto de 1949, cinco equipos históricos de la isla —Real Club Victoria, Arenas Club, Club Deportivo Gran Canaria, Atlético Club de Schamann y Marino Fútbol Club— sacrificaron sus identidades jurídicas para fundar orgánicamente la Unión Deportiva Las Palmas. Sembraron de esa forma un inmenso acorazado insular vestido al azul y amarillo de sus mares y playas pacíficas."
+    },
+    {
+      "ano": "1951",
+      "hito": "Un Ascenso de Velocidad Récord",
+      "desc": "Contra todos los pronósticos continentales, los pío-pío lograron trepar a la Primera División en un tiempo inéditamente rápido, asombrando a toda Europa con su cadencioso y vistoso estilo futbolístico canario."
+    },
+    {
+      "ano": "1968",
+      "hito": "Terceros en Liga y Sueño Continental",
+      "desc": "Una de las épocas doradas de los canarios: finalizaron la Liga en una apoteósica tercera plaza (y luego subcampeones en 1969) que los catapultó a foguearse en la Copa de Ferias en Europa."
+    },
+    {
+      "ano": "1978",
+      "hito": "La Final del Bernabéu",
+      "desc": "Tocó a la puerta de su primer gran título absoluto disputando frente al FC Barcelona la Final de la Copa del Rey, firmando una de sus décadas más bellas y competitivas frente a la todopoderosa península."
+    },
+    {
+      "ano": "2015",
+      "hito": "El Tierno Beso a la Élite",
+      "desc": "Con Jonathan Viera, Sergio Araujo y Valerón derramando lágrimas y clase, consiguieron el apoteósico e inquebrantable ascenso a la Primera División que enloqueció hasta al último rincón de Gran Canaria."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio de Gran Canaria",
+      "capacidad": "32.400",
+      "inauguracion": "2003",
+      "url": "https://maps.app.goo.gl/m8p2T5y6N7R3z4f16",
+      "direccion": "C. Fondos de Segura, s/n, 35019 Las Palmas de Gran Canaria, Las Palmas",
+      "descripcion": "Magno panteón isleño donde flota la esencia del fútbol amarillo tras el cierre del inmortal Estadio Insular."
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1949",
+      "hasta": "2025",
+      "tipo": "liso",
+      "c1": "#fcd116",
+      "c2": "#fcd116",
+      "sh": "#0000ff",
+      "me": "#fcd116",
+      "desc": "El amarillo y azul de las arenas gloriosas y el mar purista de Gran Canaria fusionadas inquebrantablemente desde su nacimiento."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Segunda División",
+      "cantidad": 4,
+      "anios": [
+        "1953-54",
+        "1963-64",
+        "1984-85",
+        "1999-00"
+      ]
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Juan Carlos Valerón",
+      "periodo": "1995-1997 / 2013-2016",
+      "pos": "Mediocampista",
+      "desc": "El flaco del toque mágico. Creador puramente poético y caballeroso de las Islas Canarias brindando asistencias celestiales blindadas de compasión en su romántico regreso a Segunda en 2013 para subir a los suyos."
+    },
+    {
+      "nombre": "Germán Dévora",
+      "periodo": "1962-1978",
+      "pos": "Mediocampista",
+      "desc": "El Maestro. Arquitecto de una etapa dorada y legendaria donde el equipo amarillo disputó una final de copa e inventaba fútbol inquebrantable asombroso del medio hacia la ofensiva."
+    },
+    {
+      "nombre": "Tonono",
+      "periodo": "1962-1975",
+      "pos": "Defensa",
+      "desc": "Gran líbero impecable de pulcritud insólita en la defensa local, que le permitía interceptar absolutamente todo desangrándose dolorosamente hasta morir trágicamente meses después con pulmonía en la isla."
+    },
+    {
+      "nombre": "Jonathan Viera",
+      "periodo": "2010-2023",
+      "pos": "Mediocampista",
+      "desc": "El chicle callejero de mil diabluras insulares y dueño del juego pillo moderno sacando él solo en su mochila toda clase de apuros para colocar nuevamente al club canario bajo puros vítores y regates descarados."
+    },
+    {
+      "nombre": "Orlando Suárez",
+      "periodo": "1990-2003",
+      "pos": "Delantero",
+      "desc": "El niño gordito que desató en furiosos remates todo un fervor insular blindando de puras esperanzas oscuras un club canario en la era vacía y dolorosa de los lejanísimos años 90."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Germán Dévora",
+      "goles": 119,
+      "periodo": "1962-1978",
+      "partidos": 453
+    },
+    {
+      "nombre": "Orlando Suárez",
+      "goles": 97,
+      "periodo": "1990-2003",
+      "partidos": 367
+    },
+    {
+      "nombre": "Koke Contreras",
+      "goles": 92,
+      "periodo": "1983-1989",
+      "partidos": 257
+    },
+    {
+      "nombre": "Marcos Márquez",
+      "goles": 73,
+      "periodo": "2005-2010",
+      "partidos": 196
+    },
+    {
+      "nombre": "Rubén Castro",
+      "goles": 71,
+      "periodo": "2000-2004 / 2018",
+      "partidos": 167
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Germán Dévora",
+      "partidos": 453,
+      "periodo": "1962-1978"
+    },
+    {
+      "nombre": "Paco Castellano",
+      "partidos": 433,
+      "periodo": "1964-1978"
+    },
+    {
+      "nombre": "Guillermo Hernández",
+      "partidos": 426,
+      "periodo": "1969-1980"
+    },
+    {
+      "nombre": "Tonono",
+      "partidos": 436,
+      "periodo": "1962-1975"
+    },
+    {
+      "nombre": "Roque Díaz",
+      "partidos": 375,
+      "periodo": "1968-1980"
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/las-palmas/UD_Las_Palmas_1949-1950.webp",
+      "desc": "Escudo usado en la época (1994)."
+    },
+    {
+      "ano": "1995",
+      "url": "/escudos_historicos/las-palmas/UD_Las_Palmas_1950-1969.webp",
+      "desc": "Escudo usado en la época (1995)."
+    },
+    {
+      "ano": "1996",
+      "url": "/escudos_historicos/las-palmas/UD_Las_Palmas_1969-1985.webp",
+      "desc": "Escudo usado en la época (1996)."
+    },
+    {
+      "ano": "1998",
+      "url": "/escudos_historicos/las-palmas/UD_Las_Palmas_1985-2011.webp",
+      "desc": "Escudo usado en la época (1998)."
+    },
+    {
+      "ano": "2001",
+      "url": "/escudos_historicos/las-palmas/UD_Las_Palmas_2011.webp",
+      "desc": "Escudo usado en la época (2001)."
+    }
+  ]
+}

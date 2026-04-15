@@ -1,0 +1,35 @@
+{
+  "id": "platense",
+  "datos": {
+    "nombre_oficial": "Club Atlético Platense",
+    "nombre_corto": "Platense",
+    "apodos": [
+      "El Calamar",
+      "El Marrón"
+    ],
+    "fundacion": "1905-10-01",
+    "ciudad": "Buenos Aires",
+    "barrio": "Vicente López",
+    "pais": "Argentina",
+    "estadio_actual": "Estadio Ciudad de Vicente López",
+    "estadio_capacidad": 15000,
+    "estadio_lat": -34.533,
+    "estadio_lng": -58.4817,
+    "debut_primera": 1935
+  },
+  "equipacion": {
+    "titular": {
+      "colores": [
+        "#FFFFFF",
+        "#003DA5"
+      ],
+      "diseno": "unicolor_blanco"
+    },
+    "short": "#003DA5",
+    "medias": "#003DA5"
+  },
+  "titulos_primera": 0,
+  "meta": {
+    "datos_completos": false
+  }
+}

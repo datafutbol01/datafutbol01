@@ -1,0 +1,332 @@
+{
+  "id": "bournemouth",
+  "meta": {
+    "etiquetas": [
+      "inglaterra",
+      "premier league",
+      "bournemouth",
+      "cherries",
+      "dean court"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "A.F.C. Bournemouth",
+    "sigla": "BOU",
+    "fundacion": "Otoño de 1899",
+    "apodo": "The Cherries",
+    "estadio_actual": "Vitality Stadium",
+    "estadio_apodo": "Dean Court",
+    "estadio_capacidad": 11307,
+    "estadio_inauguracion": "1910",
+    "estadio_lat": 50.735277,
+    "estadio_lng": -1.83833,
+    "estadio_direccion": "King's Park Dr, Bournemouth BH7 7AF",
+    "socios": 15000,
+    "descripcion_corta": "Club costero sureño fundado rudimentariamente en 1899 como Boscombe F.C. Tras pasar un siglo entero deambulando por las divisiones menores de Inglaterra, el equipo protagonizó uno de los mayores milagros deportivos modernos: sobrevivió a una inminente desaparición por quiebra financiera en 2008 para, solo siete años después, catapultarse meteóricamente hacia la élite de la Premier League de la mano de su joven mánager Eddie Howe.",
+    "paleta": [
+      {
+        "tag": "Rojo Cherries",
+        "hex": "#B50E12"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-0 a Birmingham City (Octubre 2014)",
+      "maximo_goleador": "Ron Eyre (229 goles)",
+      "mas_presencias": "Steve Fletcher (728 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "Nacimiento en las calles de Boscombe",
+      "desc": "Durante el otoño de 1899, las calles del suburbio costero de Boscombe presenciaron el nacimiento del club tras la sorpresiva disolución del antiguo equipo local, el Boscombe St. John's Lads' Institute FC. Negándose a perder su principal entretenimiento de fin de semana, un entusiasta grupo de jóvenes liderados por el señor J.C. Nutt (quien aportó el capital inicial y se convertiría en su primer presidente) decidió crear una nueva entidad: el Boscombe Football Club. Comenzaron su andar deportivo compitiendo humildemente en la liga regional amateur 'Bournemouth and District Junior League', disputando sus primeros partidos en el precario predio abierto de Castlemain Avenue."
+    },
+    {
+      "ano": "1910-1923",
+      "hito": "Dean Court y el ingreso a la Football League",
+      "desc": "El paulatino crecimiento del equipo atrajo la mirada del prominente empresario local J.E. Cooper-Dean, quien en 1910 les cedió terrenos estratégicos para establecer su estadio definitivo: Dean Court. Buscando ampliar su representatividad territorial por toda la ciudad, la institución modificó su nombre a Bournemouth & Boscombe Athletic F.C. en 1923. Ese mismo año, el equipo hizo historia al convencer a las autoridades y ser aceptado formalmente en la Third Division South de la Football League, instaurando el ansiado estatus profesional definitivo en su modesta plantilla."
+    },
+    {
+      "ano": "1971-1987",
+      "hito": "Rediseño visual: Nace el A.F.C. Bournemouth",
+      "desc": "En 1971, bajo la ambiciosa dirección técnica y gerencial del mánager John Bond, la junta directiva decidió modernizar radicalmente la imagen corporativa del club para potenciar sus limitados ingresos comerciales. La institución adoptó oficiosamente la denominación comercial acortada de 'A.F.C. Bournemouth' e introdujo un drástico rediseño en su indumentaria, reemplazando la clásica camiseta roja lisa por un diseño ofensivo a franjas rojas y negras, inspirado expresamente en el poderoso A.C. Milan de Italia. Paralelamente, encargaron al exjugador Dickie Dowsett el diseño de su nuevo y original escudo integrando la silueta de un futbolista cabeceando."
+    },
+    {
+      "ano": "2008-2009",
+      "hito": "Al borde de la desaparición",
+      "desc": "Tras décadas transitando sin pena ni gloria por las divisiones de ascenso, el club acumuló enormes deudas y atravesó su peor crisis institucional producto de varios embargos judiciales. Como castigo directivo, la Football League les aplicó una letal quita de 17 puntos al inicio de la temporada 2008-09. Hundidos en el fondo de la tabla de la Cuarta División y a un paso de caer al fútbol semi-amateur (lo que significaba la quiebra absoluta y la desaparición del club), la dirección técnica fue asumida de emergencia por su ex-defensor de 31 años Eddie Howe, quien obró un auténtico milagro logrando asegurar la permanencia en divisiones profesionales en la penúltima jornada."
+    },
+    {
+      "ano": "2014-2023",
+      "hito": "El épico ascenso a la Premier League",
+      "desc": "Superada la turbulencia económica tras la llegada de fuertes millonarios inversores rusos, Eddie Howe contó con fondos para estabilizar al plantel y consolidó un esquema táctico hiper-ofensivo. Para incredulidad del país entero, el modesto equipo costero encadenó feroces ascensos hasta coronarse campeones absolutos del Football League Championship en 2015. Este hito materializó, por primera vez en sus 116 años de historia, su ansiado ingreso a la cima de la Premier League, donde lograron asentarse y codearse durante múltiples años frente a la verdadera realeza del fútbol británico."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Castlemain Avenue",
+      "direccion": "Castlemain Ave, Southbourne, Bournemouth",
+      "desde": 1899,
+      "hasta": 1910,
+      "estado": "Histórico",
+      "obs": "Primer campo deportivo del club empleado para disputar encuentros amistosos y torneos regionales. Fue abandonado por la dirección para adquirir terrenos con mejores condiciones para los espectadores.",
+      "lat": 50.725,
+      "lng": -1.808,
+      "url": "https://www.google.com/maps/search/?api=1&query=Castlemain%20Ave%2C%20Southbourne%2C%20Bournemouth"
+    },
+    {
+      "nombre": "Dean Court",
+      "direccion": "King's Park Dr, Bournemouth BH7 7AF",
+      "desde": 1910,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Sede principal y oficial de la institución. En el año 2001, las tribunas del predio fueron demolidas para realizar un rediseño que rotó la perspectiva del campo de juego a noventa grados de su origen.",
+      "lat": 50.735277,
+      "lng": -1.83833,
+      "url": "https://www.google.com/maps/search/?api=1&query=King's%20Park%20Dr%2C%20Bournemouth%20BH7%207AF"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 1971,
+      "c1": "#cc0000",
+      "c2": "#ffffff",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Alineados férreamente a listones gruesos puristas en diseño de rayas verticales albas y cálidas rojas, dictaminados bajo los orígenes costeros del Boscombe."
+    },
+    {
+      "desde": 1971,
+      "hasta": null,
+      "c1": "#111111",
+      "c2": "#cc0000",
+      "sh": "#111111",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Transformación definitiva majestuosa en tributo oficial comercial expreso adoptando idénticamente los poderosos trazos en míticas rayas verticales oscuras rojinegras forjando fáctica la matriz letal del asesino milán italiano europeo superior."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Steve Fletcher",
+      "pos": "Delantero",
+      "apodo": "Fletch",
+      "periodo": "1992-2007, 2009-2013",
+      "desc": "Reconocido como una de las máximas leyendas del club por su liderazgo en las categorías de ascenso; una de las principales plateas del estadio lleva su nombre."
+    },
+    {
+      "nombre": "Ted MacDougall",
+      "pos": "Delantero",
+      "apodo": "SuperMac",
+      "periodo": "1969-1972, 1978-1980",
+      "desc": "Anotador prolífico y máximo goleador histórico del equipo en competencias regulares, recordado por sus destacados registros de goles a lo largo de la década de 1970."
+    },
+    {
+      "nombre": "Sean O'Driscoll",
+      "pos": "Mediocampista",
+      "apodo": "",
+      "periodo": "1984-1995",
+      "desc": "Centrocampista metódico surgido de las divisiones inferiores. Defendió ininterrumpidamente los colores por más de diez años antes de asumir posteriormente como director técnico del primer equipo."
+    },
+    {
+      "nombre": "Eddie Howe",
+      "pos": "Defensor / Entrenador",
+      "apodo": "",
+      "periodo": "1994-2002, 2004-2007",
+      "desc": "Personaje central en la historia institucional del club. Mantuvo a la institución en las divisiones de ascenso primero como jugador y luego guió al equipo hasta su debut en la Premier League como entrenador."
+    },
+    {
+      "nombre": "Simon Francis",
+      "pos": "Defensor",
+      "apodo": "Franno",
+      "periodo": "2011-2020",
+      "desc": "Capitán incondicional del plantel en la era de los ascensos. Destacó como lateral derecho o defensor central durante todas las exitosas promociones de la institución hacia la máxima categoría."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Ron Eyre",
+      "goles": 229,
+      "partidos": 378,
+      "periodo": "1924-1933",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 229 goles en competiciones oficiales durante su trayectoria en el equipo entre 1924-1933."
+    },
+    {
+      "nombre": "Ted MacDougall",
+      "goles": 142,
+      "partidos": 212,
+      "periodo": "1969-1980",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 142 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1980."
+    },
+    {
+      "nombre": "Steve Fletcher",
+      "goles": 122,
+      "partidos": 728,
+      "periodo": "1992-2013",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 122 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-2013."
+    },
+    {
+      "nombre": "James Hayter",
+      "goles": 108,
+      "partidos": 407,
+      "periodo": "1996-2007",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2007."
+    },
+    {
+      "nombre": "Brett Pitman",
+      "goles": 102,
+      "partidos": 286,
+      "periodo": "2005-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 102 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2015."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Steve Fletcher",
+      "partidos": 728,
+      "periodo": "1992-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 728 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2013."
+    },
+    {
+      "nombre": "Sean O'Driscoll",
+      "partidos": 423,
+      "periodo": "1984-1995",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 423 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984-1995."
+    },
+    {
+      "nombre": "James Hayter",
+      "partidos": 407,
+      "periodo": "1996-2007",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 407 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2007."
+    },
+    {
+      "nombre": "Neil Young",
+      "partidos": 400,
+      "periodo": "1973-1983",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 400 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1983."
+    },
+    {
+      "nombre": "Simon Francis",
+      "partidos": 324,
+      "periodo": "2011-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-2020."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "EFL Championship / Segunda División",
+      "cantidad": 1,
+      "años": [
+        "2014-15"
+      ]
+    },
+    {
+      "nombre": "EFL League One / Tercera División",
+      "cantidad": 1,
+      "años": [
+        "1986-87"
+      ]
+    },
+    {
+      "nombre": "EFL Trophy / Associate Members' Cup",
+      "cantidad": 1,
+      "años": [
+        "1983-84"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1936",
+      "url": "/escudos/historicos/bournemouth/Bournemouth-boscombe_1936.webp"
+    },
+    {
+      "ano": "1936",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1936_web.png"
+    },
+    {
+      "ano": "1966",
+      "url": "/escudos/historicos/bournemouth/Bournemouth_FC_1966.svg"
+    },
+    {
+      "ano": "1966",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1966_web.png"
+    },
+    {
+      "ano": "1971",
+      "url": "/escudos/historicos/bournemouth/Bournemouth_logo_5th.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos/historicos/bournemouth/Bournemouth_FC_1972.webp"
+    },
+    {
+      "ano": "1972",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1972_web.png"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos/historicos/bournemouth/Bournemouth_FC_1974.webp"
+    },
+    {
+      "ano": "1974",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1974_web.png"
+    },
+    {
+      "ano": "1981",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1981_web.png"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos/historicos/bournemouth/AFC_Bournemouth_1983.svg"
+    },
+    {
+      "ano": "1983",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1983_web.png"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos/historicos/bournemouth/Bournemouth_FC_1988.webp"
+    },
+    {
+      "ano": "1988",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1988_web.png"
+    },
+    {
+      "ano": "1990",
+      "url": "/escudos/historicos/bournemouth/AFC_Bournemouth_logo.svg"
+    },
+    {
+      "ano": "1994",
+      "url": "/escudos_historicos/bournemouth/bournemouth_1994_web.png"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos/historicos/bournemouth/AFC_Bournemouth_logo_(introduced_2013).svg"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos_historicos/bournemouth/bournemouth_2013_web.png"
+    },
+    {
+      "ano": "2024",
+      "url": "/escudos_historicos/bournemouth/bournemouth_2024_web.png"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/bournemouth.png"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Cherries",
+      "origen": "Asignado gracias al impacto del cambio radical que determinó fijar los emblemáticos colores rayados durante la década de los setenta. Siguiendo impulsos y designios técnicos comandados formalmente hacia 1970 por exjugador y directivo originario John Bond para que el escudo abandonase ropajes opacos para adquirir el tono del Milán, todos los reporteros de costa asimilaron que el tono listado rojo liso representaba idéntico cromatismo al fruto estival del brillante huerto de las rústicas cerezas."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "auxerre",
+  "meta": {
+    "slug": "auxerre"
+  },
+  "datos": {
+    "nombre_completo": "AJ Auxerre",
+    "nombre_oficial": "AJ Auxerre",
+    "nombre_corto": "Auxerre",
+    "apodo": "AJA",
+    "fundacion": "1905",
+    "estadio_actual": "Stade de l'Abbé-Deschamps",
+    "presidente": "Baptiste Malherbe",
+    "entrenador": "Christophe Pélissier",
+    "estadio_capacidad": "18.541",
+    "estadio_inauguracion": "1918",
+    "estadio_direccion": "Rte de Vaux, 89000 Auxerre, Francia",
+    "estadio_lat": 47.7867,
+    "estadio_lng": 3.5888,
+    "sigla": "AJA",
+    "socios": 13000,
+    "descripcion_corta": "Institución de Borgoña dirigida tácticamente por el técnico Guy Roux por un registro récord de 44 temporadas asimiladas, sumando su única victoria liguera formal en 1996.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#0055A4"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Andrzej Szarmach (100 goles)",
+      "mas_presencias": "Fabien Cool (467 partidos)",
+      "mayor_goleada": "8-0 vs Sète (1977)"
+    },
+    "estadio_apodo": "L'Abbé-Deschamps",
+    "escudo_actual": "/escudos/auxerre.svg"
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Nacimiento Clerical en la Abbaye Saint-Germain",
+      "desc": "El 29 de diciembre de 1905, el reverendo y padre abad católico Ernest Deschamps formalizó la fundación de la Association de la Jeunesse Auxerroise (AJA) dentro del marco de la parroquia Saint-Estèphe, como una rigurosa entidad parroquial deportiva para alejar a los jóvenes católicos de las asociaciones laicas impuestas por la Tercera República. En sus orígenes no había magnates sino monaguillos, y la escuadra portó desde su núcleo los imborrables estandartes azul y blanco marianos del catolicismo originario."
+    },
+    {
+      "ano": "1961",
+      "hito": "El Nombramiento de Guy Roux",
+      "desc": "La directiva asignó a Guy Roux como entrenador. Roux se mantuvo en el cargo durante 44 años, liderando al club desde las divisiones regionales hasta la primera división."
+    },
+    {
+      "ano": "1994",
+      "hito": "El Primer Título Nacional",
+      "desc": "El club obtuvo su primer torneo nacional al consagrarse campeón de la Copa de Francia, tras derrotar por 3-0 al Montpellier en el estadio Parque de los Príncipes."
+    },
+    {
+      "ano": "1996",
+      "hito": "Doble Corona Nacional",
+      "desc": "El equipo ganó matemáticamente su primer y único campeonato de Ligue 1 y ganó paralelamente la Copa de Francia tras vencer al Nîmes en la final."
+    },
+    {
+      "ano": "2010",
+      "hito": "Clasificación a la UEFA Champions League",
+      "desc": "Tras terminar la temporada de liga en tercer lugar por detrás de Marsella y Lyon, el club obtuvo el acceso a las rondas previas de la Liga de Campeones."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stade de l'Abbé-Deschamps",
+      "capacidad": "18.541",
+      "inauguracion": "1918",
+      "desde": "1918",
+      "hasta": "",
+      "direccion": "Rte de Vaux, 89000 Auxerre, Francia",
+      "lat": 47.7867,
+      "lng": 3.5888,
+      "obs": "Uno de los pocos estadios en Francia que es propiedad absoluta del club que reside en él.",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rte%20de%20Vaux%2C%2089000%20Auxerre%2C%20Francia"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#0055a4",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Tradicional conjunto inmaculado con vivos o detalles azules y la característica cruz de Malta heráldica."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Djibril Cissé",
+      "periodo": "1998-2004",
+      "pos": "Delantero",
+      "desc": "Temible delantero centro surgido de las bases formadoras. Resultó bicampeón de goleo en la primera división y logró asegurar una Copa de Francia."
+    },
+    {
+      "nombre": "Andrzej Szarmach",
+      "periodo": "1980-1985",
+      "pos": "Delantero",
+      "desc": "Atacante internacional polaco de la década del ochenta. Durante su estadía logró convertirse en un consistente y regular goleador anotando decenas de tantos."
+    },
+    {
+      "nombre": "Basile Boli",
+      "periodo": "1982-1990",
+      "pos": "Defensor",
+      "desc": "Férreo zaguero central que se destacó por su imponente reciedumbre física. Inició profesionalmente su etapa competitiva en el club formándose en la academia."
+    },
+    {
+      "nombre": "Enzo Scifo",
+      "periodo": "1989-1991",
+      "pos": "Mediocampista",
+      "desc": "Mediapunta belga de gran técnica creadora. Su paso por la escuadra revitalizó notablemente el juego ofensivo logrando clasificar a competiciones estelares."
+    },
+    {
+      "nombre": "Corentin Martins",
+      "periodo": "1991-1996",
+      "pos": "Mediocampista",
+      "desc": "Clásico mediocampista organizador y creativo. Fue el capitán principal de las formaciones que conquistaron el único e histórico doblete nacional oficial en 1996."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Andrzej Szarmach",
+      "goles": 100,
+      "periodo": "1980-1985",
+      "partidos": 148,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 100 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980-1985."
+    },
+    {
+      "nombre": "Djibril Cissé",
+      "goles": 90,
+      "periodo": "1998-2004",
+      "partidos": 169,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 90 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2004."
+    },
+    {
+      "nombre": "Patrice Garande",
+      "goles": 59,
+      "periodo": "1981-1986",
+      "partidos": 170,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 1981-1986."
+    },
+    {
+      "nombre": "Ireneusz Jeleń",
+      "goles": 48,
+      "periodo": "2006-2011",
+      "partidos": 164,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 48 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2011."
+    },
+    {
+      "nombre": "Eric Cantona",
+      "goles": 25,
+      "periodo": "1983-1988",
+      "partidos": 82,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1988."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fabien Cool",
+      "partidos": 467,
+      "periodo": "1994-2007",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 467 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1994-2007."
+    },
+    {
+      "nombre": "Bruno Martini",
+      "partidos": 322,
+      "periodo": "1981-1995",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 322 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1995."
+    },
+    {
+      "nombre": "Stéphane Grichting",
+      "partidos": 253,
+      "periodo": "2002-2012",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 253 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2012."
+    },
+    {
+      "nombre": "Jean-Marc Ferreri",
+      "partidos": 193,
+      "periodo": "1976-1986",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 193 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1986."
+    },
+    {
+      "nombre": "Philippe Mexès",
+      "partidos": 167,
+      "periodo": "1999-2004",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 167 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2004."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ligue 1",
+      "cantidad": 1,
+      "anios": [
+        "1996"
+      ]
+    },
+    {
+      "nombre": "Coupe de France",
+      "cantidad": 4,
+      "anios": [
+        "1994",
+        "1996",
+        "2003",
+        "2005"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "",
+      "url": "/escudos_historicos/auxerre/Auxerre.svg"
+    },
+    {
+      "ano": "",
+      "url": "/escudos_historicos/auxerre/AJ_Auxerre.svg"
+    },
+    {
+      "ano": "2006",
+      "url": "/escudos_historicos/auxerre/AJ_Auxerre_logo_(until_2006).svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/auxerre.svg"
+    }
+  ]
+}

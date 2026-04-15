@@ -1,0 +1,224 @@
+{
+  "id": "barracas-central",
+  "meta": {
+    "etiquetas": [
+      "argentina",
+      "primera division",
+      "capital",
+      "sur",
+      "guapo",
+      "barracas"
+    ]
+  },
+  "datos": {
+    "nombre_completo": "Club Atlético Barracas Central",
+    "sigla": "CABC",
+    "fundacion": "5 de abril de 1904",
+    "apodo": "El Guapo",
+    "estadio_actual": "Luna y Olavarría (Claudio Tapia)",
+    "estadio_apodo": "Olavarría y Luna",
+    "estadio_capacidad": 4400,
+    "estadio_inauguracion": "1916",
+    "estadio_lat": -34.6461,
+    "estadio_lng": -58.3972,
+    "estadio_direccion": "Olavarría y Luna, Barrio de Barracas, Buenos Aires",
+    "socios": 6000,
+    "descripcion_corta": "Rústica, asombrosa y superviviente escuadra legendaria del viejo y profundo arrabal del sur metropolitano. Un histórico pionero porteño que, a pura actitud y superviviendo en el barro por cientos de años bajo el apodo de 'El Guapo', sorprendió a todo el país al concretar un meteórico viaje hasta asilarse y codearse en el firmamento de la AFA moderna.",
+    "paleta": [
+      {
+        "tag": "Rojo Guapo",
+        "hex": "#E2001A"
+      },
+      {
+        "tag": "Blanco Puro",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "8-0 (Época Amateur)",
+      "maximo_goleador": "Carlos Abel (45 goles)",
+      "mas_presencias": "Carlos Arce (350 partidos)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1904",
+      "hito": "Gremio de conductores de camiones consolidando bases (1904)",
+      "desc": "En las riberas contaminadas, barrosas y rústicas del porteño Riachuelo, el nacimiento no podía forjarse desde el lujo de los ingleses, sino desde el esfuerzo ciego y humillante de sus trabajadores. A principios del siglo del progreso, el bullicioso barrio comercial de Barracas hervía de carreros y estibadores asfixiados bajo el humo fabril. El 5 de abril de 1904, bajo el sol rajante del mediodía en una improvisada y humilde asamblea detrás del puente de madera, un puñado obrero fundó el humilde 'Club Atlético Barracas Central'. Con el juramento de sus creadores, liderados indiscutiblemente por Felipe Cámpora (el gran primer líder y amparo social del grupo pobre) junto a Saúl Cámpora y Pedro Varela, encendieron la mecha para siempre. Pese a la escasez, adoptaron con orgullo las clásicas franjas verticales rojas y blancas imitando a la entonces elitista y gloriosa divisa del legendario Alumni porteño. Así, forjó en la pobreza absoluta una identidad 'Guapo', aguantando heroicamente el barro del ascenso."
+    },
+    {
+      "ano": "1916",
+      "hito": "Establecimiento en la tradicional sede de Olavarría y Luna",
+      "desc": "Tras sus primeros años en los potreros barriales, el club consolidó su estadio en la recordada esquina del barrio porteño de Barracas, convirtiéndose en su reducto principal. Este terreno albergó sus extensas participaciones en las divisiones C, B Metropolitana y D a lo largo de buena parte del siglo XX, consolidando la tenaz identidad institucional de 'El Guapo'."
+    },
+    {
+      "ano": "2010s",
+      "hito": "Proceso de recuperación estructural y éxito en el Ascenso",
+      "desc": "Luego de varias décadas compitiendo en categorías inferiores, la institución encaró un ciclo marcado por el reordenamiento administrativo y futbolístico. Esta etapa se coronó progresivamente con el título de la Primera C, logrando arraigarse con fuerza competitiva en la compleja y disputada Primera B Metropolitana."
+    },
+    {
+      "ano": "2018-2019",
+      "hito": "Campeones invictos como logro culmine de la Primera B Metropolitana",
+      "desc": "Con una estructuración táctica destacada, el equipo obtuvo el campeonato de Primera B 2018-2019 de manera abrumadora. El título significó no solo romper techos históricos del club, sino también la primera irrupción institucional en los torneos nacionales y el ascenso fehaciente hacia la Primera Nacional."
+    },
+    {
+      "ano": "2021",
+      "hito": "El ascenso definitivo a la máxima categoría de AFA",
+      "desc": "Luego de campañas altamente competitivas en su paso por el certamen nacional regular, Barracas Central disputó el Torneo Reducido de 2021 y logró imponerse por la vía de los penales frente a Quilmes. El triunfo consagró la victoria definitiva, propiciando el regreso oficial del equipo a la máxima esfera del fútbol argentino de elite por primera vez en toda la era profesional."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estadio Claudio Chiqui Tapia",
+      "direccion": "Olavarría y Luna, Barrio Sur de Barracas",
+      "desde": 1916,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto histórico y tradicional del club, ubicado en el radio fundamental de Barracas donde forjó su arraigo barrial. Tiene una capacidad de aproximadamente 4.400 espectadores.",
+      "lat": -34.645,
+      "lng": -58.3992,
+      "url": "https://www.google.com/maps/search/?api=1&query=Olavarr%C3%ADa%20y%20Luna%2C%20Barrio%20Sur%20de%20Barracas"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1904,
+      "hasta": null,
+      "c1": "#cc0000",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Vestidura purista eterna basada lícitamente en el formato de gruesas y rayas verticales continuas rojas y blancas, emulando la genética de asociaciones nobles enclavadas en barrios populares portuarios y ferroviarios del sur metropolitano de antaño. Uso sostenido histórico legendario ininterrumpido a lo largo del duro asfalto temporal."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Carlos Arce",
+      "pos": "Mediocampista",
+      "apodo": "Carlitos",
+      "periodo": "2009-Hoy",
+      "desc": "Defensor central y capitán con el récord de mayor cantidad de presencias en la historia del club. Disputó más de 400 partidos a lo largo de décadas y logró múltiples campeonatos de ascenso."
+    },
+    {
+      "nombre": "Rodolfo de Paoli",
+      "pos": "Director Técnico",
+      "apodo": "Rodo",
+      "periodo": "2021-2023",
+      "desc": "Director técnico encargado de conducir estratégicamente al plantel hacia la obtención del histórico ascenso a Primera División en 2021, logrando asentar al equipo en la máxima categoría."
+    },
+    {
+      "nombre": "Iván Tapia",
+      "pos": "Mediocampista",
+      "apodo": "Iván",
+      "periodo": "2015-2023",
+      "desc": "Mediocampista ofensivo formado en el club y portador habitual del gafete de capitán. Su pegada de pelota parada y aporte estadístico resultaron fundamentales en las campañas en Primera División."
+    },
+    {
+      "nombre": "Maximiliano Gagliardo",
+      "pos": "Arquero",
+      "apodo": "Maxi",
+      "periodo": "2021",
+      "desc": "Experimentado arquero de gran trayectoria en torneos de ascenso. Defendió el arco de manera determinante en los torneos Reducidos, resultando clave para lograr la consolidación definitiva del equipo."
+    },
+    {
+      "nombre": "Elias Gómez",
+      "pos": "Defensor",
+      "apodo": "Elias",
+      "periodo": "2011-2016",
+      "desc": "Defensor surgido de las divisiones menores. Fue protagonista destacado desde su debut hasta formar parte central del grupo que forjó la estructura estable del club en las divisiones nacionales."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Carlos Abel",
+      "goles": 45,
+      "partidos": 105,
+      "periodo": "Años 90s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 90s."
+    },
+    {
+      "nombre": "Iván Tapia",
+      "goles": 26,
+      "partidos": 160,
+      "periodo": "2015-Actual",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 26 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Actual."
+    },
+    {
+      "nombre": "Fernando Valenzuela",
+      "goles": 22,
+      "partidos": 60,
+      "periodo": "2018-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2020."
+    },
+    {
+      "nombre": "Lucas Colitto",
+      "goles": 20,
+      "partidos": 88,
+      "periodo": "2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021."
+    },
+    {
+      "nombre": "Mauro Albertengo",
+      "goles": 18,
+      "partidos": 55,
+      "periodo": "2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Carlos Arce",
+      "partidos": 350,
+      "periodo": "2009-Actual",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 350 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-Actual."
+    },
+    {
+      "nombre": "Iván Tapia",
+      "partidos": 160,
+      "periodo": "2015-Actual",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Actual."
+    },
+    {
+      "nombre": "Facundo Mater",
+      "partidos": 80,
+      "periodo": "2021-Actual",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 80 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2021-Actual."
+    },
+    {
+      "nombre": "Maximiliano Gagliardo",
+      "partidos": 75,
+      "periodo": "2021-2022",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 75 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2021-2022."
+    },
+    {
+      "nombre": "Fernando Valenzuela",
+      "partidos": 60,
+      "periodo": "2018-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 60 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2020."
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Ascensos de Categoría Históricos (A, B, C, D)",
+      "cantidad": 3,
+      "años": [
+        "2010",
+        "2019",
+        "2021"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barracas_central_logo.svg?width=500"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Guapo",
+      "origen": "Heredado de las rústicas costumbres orilleras. La áspera zona meridional lindera al porteño río introdujo el clásico perfil del peleador forajido utilizando el dialecto tanguero lunfardo con este título, apropiándose de él."
+    }
+  ]
+}
