@@ -134,6 +134,57 @@ a {
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* RESPONSIVE FLUIDO PARA CELULARES */
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  .glass-panel {
+    padding: 1rem !important;
+  }
+  h1 {
+    font-size: 2.2rem !important;
+    line-height: 1.1;
+  }
+  h2 {
+    font-size: 1.8rem !important;
+  }
+  .tabs-container, [style*="display: flex"][style*="gap"][style*="max-width: 800px"], [style*="display: flex"][style*="gap"][style*="padding: 0.5rem"][style*="margin-bottom"] {
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    -webkit-overflow-scrolling: touch;
+    flex-wrap: nowrap !important;
+  }
+  [style*="padding: 4rem 2rem"] {
+    padding: 1.5rem 1rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 13px;
+  }
+  h1 {
+    font-size: 2rem !important;
+  }
+}
+
+/* CELULARES GIRADOS (Modo Horizontal) o Tablets chicas */
+@media screen and (max-height: 600px) and (orientation: landscape), screen and (max-width: 950px) {
+  html {
+    font-size: 12.5px;
+  }
+  h1 {
+    font-size: 2.2rem !important;
+  }
+  h2 {
+    font-size: 1.6rem !important;
+  }
+  h3, .title-font {
+    font-size: 1.3rem !important;
+  }
+}
 /* RESPONSIVE FLUIDO PARA CELULARES */
 @media (max-width: 768px) {
   html {
