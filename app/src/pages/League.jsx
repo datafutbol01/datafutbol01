@@ -16,7 +16,7 @@ export default function League() {
   const [activeTab, setActiveTab] = useState(location.state?.tab || 'clubes');
   const [activeTorneoTab, setActiveTorneoTab] = useState(leagueId === 'inglaterra' ? 'premier' : 'metropolitano');
 
-  // Novedad: Conexión Real con Vercel para la Tabla de Posiciones
+  // Novedad: Conexión Real con Vercel para la Tabla de Posiciones y Llaves
   const slugToApi = {
     'argentina': 128,
     'inglaterra': 39,
@@ -24,14 +24,22 @@ export default function League() {
     'italia': 135,
     'alemania': 78,
     'francia': 61,
-    'escocia': 179
+    'escocia': 179,
+    'champions': 2,
+    'europa_league': 3,
+    'conference': 848
   };
+  const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
+
   const [standingsData, setStandingsData] = useState(null);
   const [loadingStandings, setLoadingStandings] = useState(false);
   
   // STATS: Goleadores, Asistencias, etc.
   const [statsData, setStatsData] = useState({ scorers: null, assists: null, yellows: null, reds: null });
   const [loadingStats, setLoadingStats] = useState(false);
+  
+  // FIXTURES: Cuadro de Llaves
+  const [knockoutData, setKnockoutData] = useState(null);
 
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
@@ -41,20 +49,30 @@ export default function League() {
            const apiId = slugToApi[leagueId];
            const season = leagueId === 'argentina' ? 2026 : 2025; // Europa arranca en el año par.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-           const endpoint = isLocal 
-              ? `https://v3.football.api-sports.io/standings?league=${apiId}&season=${season}`
-              : `/api/standings?league=${apiId}&season=${season}`;
-              
+           
            const headers = isLocal ? {
               "x-rapidapi-host": "v3.football.api-sports.io",
               "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
            } : {};
            
-           const res = await fetch(endpoint, { headers });
-           const data = await res.json();
+           // Fetch Posiciones
+           const endpointStandings = isLocal 
+              ? `https://v3.football.api-sports.io/standings?league=${apiId}&season=${season}`
+              : `/api/standings?league=${apiId}&season=${season}`;
+           const resSt = await fetch(endpointStandings, { headers });
+           const dataSt = await resSt.json();
+           if (dataSt.response && dataSt.response.length > 0) {
+              setStandingsData(dataSt.response[0].league.standings);
+           }
            
-           if (data.response && data.response.length > 0) {
-              setStandingsData(data.response[0].league.standings);
+           // Fetch Cuadro de Llaves (Si es Copa)
+           if (isCup) {
+               const endpointFix = isLocal 
+                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${season}`
+                 : `/api/knockouts?league=${apiId}&season=${season}`;
+               const resFix = await fetch(endpointFix, { headers });
+               const dataFix = await resFix.json();
+               if (dataFix.response) setKnockoutData(dataFix.response);
            }
            
            // Traemos también las STATS
@@ -361,6 +379,53 @@ export default function League() {
 
               {/* Layout tipo Dashboard */}
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
+                  
+                  {/* Cuadro de Llaves (Si es Copa Europea) */}
+                  {isCup && knockoutData && (
+                     <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1', background: 'rgba(30, 41, 59, 0.4)' }}>
+                        <h3 className="title-font" style={{ fontSize: '1.4rem', color: '#fde68a', marginBottom: '1.5rem', borderBottom: '1px solid rgba(251, 191, 36, 0.2)', paddingBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                           ⚔️ Cuadro de Eliminatorias Finales
+                        </h3>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+                           {['Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map(roundName => {
+                               const matches = knockoutData.filter(f => f.league.round.includes(roundName));
+                               if (matches.length === 0) return null;
+                               return (
+                                   <div key={roundName} style={{ background: 'rgba(0,0,0,0.2)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.05)' }}>
+                                      <h4 style={{ color: 'white', marginBottom: '1.2rem', fontSize: '1.1rem', textAlign: 'center', fontWeight: 'bold', letterSpacing: '1px' }}>--- {roundName.toUpperCase()} ---</h4>
+                                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem' }}>
+                                         {matches.map(m => (
+                                            <div key={m.fixture.id} style={{ display: 'flex', flexDirection: 'column', background: 'rgba(255,255,255,0.03)', padding: '1.2rem', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.02)' }}>
+                                               
+                                               <div style={{ fontSize: '0.75rem', color: 'var(--accent-gold)', marginBottom: '0.8rem', textAlign: 'center', opacity: 0.8 }}>
+                                                  {new Date(m.fixture.date).toLocaleDateString()} - {m.fixture.venue?.name || 'Estadio a definir'}
+                                               </div>
+
+                                               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.8rem' }}>
+                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                                     <img src={m.teams.home.logo} style={{ width: '24px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
+                                                     <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal' }}>{m.teams.home.name || 'Por definir'}</span>
+                                                  </div>
+                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px' }}>{m.goals.home ?? '-'}</span>
+                                               </div>
+
+                                               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                                     <img src={m.teams.away.logo} style={{ width: '24px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
+                                                     <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal' }}>{m.teams.away.name || 'Por definir'}</span>
+                                                  </div>
+                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px' }}>{m.goals.away ?? '-'}</span>
+                                               </div>
+
+                                            </div>
+                                         ))}
+                                      </div>
+                                   </div>
+                               )
+                           })}
+                        </div>
+                     </div>
+                  )}
                   
                   {/* Columna Grande: Tabla de Clasificación */}
                   <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1' }}>

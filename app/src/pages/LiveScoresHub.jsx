@@ -18,7 +18,10 @@ export default function LiveScoresHub() {
     135: 'italia',    
     78: 'alemania',   
     61: 'francia',    
-    179: 'escocia'
+    179: 'escocia',
+    2: 'champions',
+    3: 'europa_league',
+    848: 'conference'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono
