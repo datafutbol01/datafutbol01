@@ -273,7 +273,7 @@ export default function LiveScoresHub() {
                        onMouseOver={e => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.2)'}
                        onMouseOut={e => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.1)'}
                     >
-                       🏆 {t.ver_clasificacion || 'Clasificación Completa'}
+                       🏆 {t.ver_clasificacion || 'Clasificación'}
                     </button>
                  </div>
               )}
