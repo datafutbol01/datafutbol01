@@ -53,6 +53,13 @@ export const TARGET_LEAGUES = {
     MEX_LIGA_MX: 262,                // Liga MX (México)
     USA_MLS: 253,                    // MLS (USA)
 
+    // === INTERNACIONALES (CLUBES) ===
+    COPA_LIBERTADORES: 13,           // CONMEBOL Libertadores
+    COPA_SUDAMERICANA: 11,           // CONMEBOL Sudamericana
+    UEFA_CHAMPIONS_LEAGUE: 2,        // UEFA Champions League
+    UEFA_EUROPA_LEAGUE: 3,           // UEFA Europa League
+    UEFA_CONFERENCE_LEAGUE: 848,     // UEFA Conference League
+
     // === MUNDIALES ===
     WORLD_CUP: 1                     // FIFA World Cup
 };
