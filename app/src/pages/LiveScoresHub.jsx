@@ -128,9 +128,10 @@ export default function LiveScoresHub() {
 
     fetchLiveScores();
     
-    // Auto-actualizar cada 1 minuto (60,000 milisegundos)
-    const interval = setInterval(fetchLiveScores, 60000);
-    return () => clearInterval(interval);
+    // ⚠️ ELIMINADO EL AUTO-REFRESH DE 60 SEGUNDOS. 
+    // Si queremos actualizar la info sin hundir las cuotas de la API gratuita, el usuario lo hará manual.
+    // const interval = setInterval(fetchLiveScores, 60000);
+    // return () => clearInterval(interval);
 
   }, [activeDate]);
 
