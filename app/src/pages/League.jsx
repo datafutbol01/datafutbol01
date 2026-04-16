@@ -225,7 +225,16 @@ export default function League() {
           padding: '0.5rem'
         }}
       >
-
+        <button
+          onClick={() => setActiveTab('actualidad')}
+          style={{
+            background: activeTab === 'actualidad' ? 'rgba(255,255,255,0.1)' : 'transparent',
+            color: activeTab === 'actualidad' ? 'var(--text-main)' : 'var(--text-muted)',
+            border: 'none', padding: '1rem', borderRadius: '12px', fontSize: '0.95rem', fontWeight: 'bold', cursor: 'pointer', flex: 1, transition: 'all 0.3s'
+          }}
+        >
+          Temporada Actual
+        </button>
         {clubs.length > 0 && (
           <>
             <button
@@ -263,7 +272,114 @@ export default function League() {
       </div>
 
       <AnimatePresence mode="wait">
+        {activeTab === 'actualidad' && (
+          <motion.div 
+            key="actualidad"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -20, transition: { duration: 0.1 } }}
+            style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}
+          >
+              <div style={{ textAlign: 'center', padding: '2rem', border: '1px dashed rgba(239, 68, 68, 0.5)', borderRadius: '16px', background: 'rgba(239, 68, 68, 0.05)' }}>
+                 <p style={{ color: '#ef4444', fontWeight: 'bold', fontSize: '1.2rem', marginBottom: '0.5rem' }}>EN DIRECTO - TEMPORADA VIGENTE (25/26)</p>
+                 <p style={{ color: 'var(--text-muted)' }}>Los datos de clasificación y estadísticas se conectarán a la API externa de fútbol en vivo.</p>
+              </div>
 
+              {/* Layout tipo Dashboard */}
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
+                  
+                  {/* Columna Grande: Tabla de Clasificación */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1' }}>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
+                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación General</h3>
+                         <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
+                      </div>
+                      
+                      <div style={{ overflowX: 'auto' }}>
+                        <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', minWidth: '500px' }}>
+                           <thead>
+                              <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem' }}>
+                                 <th style={{ textAlign: 'left', padding: '0.5rem' }}>Equipo</th>
+                                 <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              {[1,2,3,4,5,6].map(i => (
+                                  <tr key={i} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: i % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
+                                     <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: i <= 3 ? 'bold' : 'normal', color: i <= 3 ? 'white' : 'var(--text-muted)' }}>
+                                        <span style={{ color: 'var(--text-muted)', width: '20px' }}>{i}</span> 
+                                        <div style={{ width: '24px', height: '24px', background: 'rgba(255,255,255,0.1)', borderRadius: '50%' }}></div>
+                                        F.C. Ejemplo {i}
+                                     </td>
+                                     <td>27</td><td>{20 - i}</td><td>4</td><td>{i + 3}</td>
+                                     <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)' }}>{60 - (i*3)}</td>
+                                  </tr>
+                              ))}
+                           </tbody>
+                        </table>
+                      </div>
+                  </div>
+
+                  {/* Panel Goleadores */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
+                      <h4 style={{ color: 'var(--accent-gold)', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                         ⚽ Top Goleadores
+                      </h4>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                         {[1,2,3,4].map(i => (
+                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                <span style={{ color: 'white', fontWeight: i === 1 ? 'bold' : 'normal' }}>Nombre del 9</span>
+                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                              </div>
+                              <span style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.2rem' }}>{18 - i}</span>
+                           </div>
+                         ))}
+                      </div>
+                  </div>
+
+                  {/* Panel Asistencias */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
+                      <h4 style={{ color: '#4ade80', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                         👟 Asistencias
+                      </h4>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                         {[1,2,3,4].map(i => (
+                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                <span style={{ color: 'white', fontWeight: i === 1 ? 'bold' : 'normal' }}>Nombre del MCO</span>
+                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                              </div>
+                              <span style={{ fontWeight: 'bold', color: '#4ade80', fontSize: '1.2rem' }}>{12 - i}</span>
+                           </div>
+                         ))}
+                      </div>
+                  </div>
+
+                  {/* Panel Indisciplina */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
+                      <h4 style={{ color: '#ef4444', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                         🟥 Rojas & Amarillas
+                      </h4>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                         {[1,2,3,4].map(i => (
+                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                <span style={{ color: 'white' }}>Nombre del Defensor</span>
+                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                              </div>
+                              <div style={{ display: 'flex', gap: '0.5rem' }}>
+                                 <div style={{ background: '#facc15', color: 'black', padding: '0.1rem 0.4rem', borderRadius: '4px', fontWeight: 'bold', fontSize: '0.8rem' }}>{5 + i}</div>
+                                 <div style={{ background: '#ef4444', color: 'white', padding: '0.1rem 0.4rem', borderRadius: '4px', fontWeight: 'bold', fontSize: '0.8rem' }}>{2}</div>
+                              </div>
+                           </div>
+                         ))}
+                      </div>
+                  </div>
+
+              </div>
+          </motion.div>
+        )}
 
         {activeTab === 'clubes' && (
           <motion.div 
