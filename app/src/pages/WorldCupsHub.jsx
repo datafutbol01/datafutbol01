@@ -417,13 +417,13 @@ export default function WorldCupsHub() {
                                                                     {player.no}
                                                                 </div>
                                                                 <div style={{ padding: '0.8rem 1rem', flex: 1, minWidth: 0 }}>
-                                                                    <div style={{ color: 'white', fontWeight: 'bold', fontSize: '1.05rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{player.name}</div>
+                                                                    <div className="notranslate" style={{ color: 'white', fontWeight: 'bold', fontSize: '1.05rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{player.name}</div>
                                                                     <div style={{ color: 'var(--text-muted)', fontSize: '0.75rem', fontWeight: '800', display: 'flex', alignItems: 'center', gap: '0.4rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                                                                         <span>{player.pos}</span>
                                                                         {player.clubName && (
                                                                             <>
                                                                                 <span style={{ opacity: 0.5 }}>•</span>
-                                                                                <span className="title-font" style={{ color: 'var(--accent-gold)', letterSpacing: '0.5px' }}>{player.clubName}</span>
+                                                                                <span className="title-font notranslate" style={{ color: 'var(--accent-gold)', letterSpacing: '0.5px' }}>{player.clubName}</span>
                                                                             </>
                                                                         )}
                                                                     </div>
@@ -466,7 +466,7 @@ export default function WorldCupsHub() {
                                                                         </div>
                                                                         <div>
                                                                             <div style={{ fontSize: '0.65rem', color: 'var(--accent-gold)', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Club · {selectedYear}</div>
-                                                                            <div style={{ color: 'white', fontWeight: 'bold', fontSize: '0.95rem' }}>{player.clubName}</div>
+                                                                            <div className="notranslate" style={{ color: 'white', fontWeight: 'bold', fontSize: '0.95rem' }}>{player.clubName}</div>
                                                                         </div>
                                                                     </motion.div>
                                                                 )}
