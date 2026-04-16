@@ -50,15 +50,23 @@ export default function LiveScoresHub() {
         // Forzamos el timezone de Argentina oficial de la API para que no falle en celulares raros
         const userTimezone = "America/Argentina/Buenos_Aires";
         
-        // Ahora traemos TODO lo de ese día ajustado a su país
-        const endpoint = `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=${userTimezone}`;
+        // Ahora traemos TODO lo de ese día.
+        // Medida de Seguridad: Si estamos en modo de desarrollo local usamos conexión directa. 
+        // Si estamos en Producción (Vercel), golpeamos contra nuestro Túnel Blindado para ocultar la llave.
+        const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+        
+        const endpoint = isLocal 
+            ? `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=${userTimezone}`
+            : `/api/livescores?date=${formattedDate}&timezone=${userTimezone}`;
+            
+        const headers = isLocal ? {
+            "x-rapidapi-host": "v3.football.api-sports.io",
+            "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
+        } : {};
         
         const response = await fetch(endpoint, {
           method: "GET",
-          headers: {
-            "x-rapidapi-host": "v3.football.api-sports.io",
-            "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY || "07048fa03363eb0cd181ac3797f13670"
-          }
+          headers: headers
         });
         const data = await response.json();
         
@@ -128,10 +136,10 @@ export default function LiveScoresHub() {
 
     fetchLiveScores();
     
-    // ⚠️ ELIMINADO EL AUTO-REFRESH DE 60 SEGUNDOS. 
-    // Si queremos actualizar la info sin hundir las cuotas de la API gratuita, el usuario lo hará manual.
-    // const interval = setInterval(fetchLiveScores, 60000);
-    // return () => clearInterval(interval);
+    // AUTO-REFRESCO RESTAURADO: 
+    // Ahora que tenemos la Bóveda, nos va a consumir sólo 1 crédito por minuto en vez de miles.
+    const interval = setInterval(fetchLiveScores, 60000);
+    return () => clearInterval(interval);
 
   }, [activeDate]);
 
