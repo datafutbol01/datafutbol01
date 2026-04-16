@@ -291,9 +291,8 @@ export default function Home() {
 
       </div>
 
-      {/* Language Selector Footer */}
       <div
-        className="animate-fade-in hide-scrollbar"
+        className="animate-fade-in hide-scrollbar language-footer-container"
         style={{
           position: 'absolute',
           bottom: '2rem',
@@ -374,6 +373,15 @@ export default function Home() {
         @media (max-width: 768px) {
           .lang-text {
             display: none;
+          }
+          .language-footer-container {
+            width: calc(100vw - 2rem) !important;
+            left: 50% !important;
+            transform: translateX(-50%) !important;
+            justify-content: flex-start !important;
+            touch-action: pan-x !important;
+            padding: 1rem !important;
+            gap: 1rem !important;
           }
         }
       `}</style>

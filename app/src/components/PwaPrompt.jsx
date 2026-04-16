@@ -1,98 +1,148 @@
 import React, { useState, useEffect } from 'react';
-import { Share, PlusSquare, X } from 'lucide-react';
+import { Share, PlusSquare, X, Download } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function PwaPrompt() {
-    const [showPrompt, setShowPrompt] = useState(false);
+    const [showIosPrompt, setShowIosPrompt] = useState(false);
+    const [deferredPrompt, setDeferredPrompt] = useState(null);
 
     useEffect(() => {
-        // Detectar si es un dispositivo iOS
+        // Detectar si la app YA ESTÁ instalada o corriendo en modo standalone (App)
+        const isInStandaloneMode = () => {
+            if ('standalone' in window.navigator && window.navigator.standalone) return true;
+            if (window.matchMedia('(display-mode: standalone)').matches) return true;
+            return false;
+        };
+
+        if (isInStandaloneMode()) return;
+
+        // 1. Android / Chrome: Capturar el evento de instalación nativo
+        const handleBeforeInstallPrompt = (e) => {
+            e.preventDefault(); // Evitar que Chrome muestre su mini-banner por defecto
+            setDeferredPrompt(e);
+        };
+
+        window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
+
+        // 2. iOS Safari: Mostrar instrucciones exclusivas
         const isIos = () => {
             const userAgent = window.navigator.userAgent.toLowerCase();
             return /iphone|ipad|ipod/.test(userAgent);
         };
 
-        // Detectar si la app YA ESTÁ instalada o corriendo en modo standalone (App)
-        const isInStandaloneMode = () => {
-            // Regla oficial de iOS Safari
-            if ('standalone' in window.navigator && window.navigator.standalone) return true;
-            // Regla estándar PWA (Chrome/Edge/Modern Safari)
-            if (window.matchMedia('(display-mode: standalone)').matches) return true;
-            return false;
-        };
-
-        // Si es iOS y NO está instalada, mostramos el cartel de ayuda de instalación
-        if (isIos() && !isInStandaloneMode()) {
-            // Agregar un pequeñísimo delay para que no sea intrusivo nomás abrir
+        if (isIos()) {
             const timer = setTimeout(() => {
-                setShowPrompt(true);
-            }, 3000);
-            return () => clearTimeout(timer);
+                setShowIosPrompt(true);
+            }, 2500);
+            return () => {
+                clearTimeout(timer);
+                window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
+            };
         }
+
+        return () => window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
     }, []);
 
-    if (!showPrompt) return null;
+    const handleChromeInstall = async () => {
+        if (!deferredPrompt) return;
+        // Mostrar el pop-up nativo de Chrome
+        deferredPrompt.prompt();
+        // Esperar a que el usuario responda
+        const { outcome } = await deferredPrompt.userChoice;
+        if (outcome === 'accepted') {
+            setDeferredPrompt(null);
+        }
+    };
+
+    // Si no es iOS y no hay evento de Chrome, no mostramos nada
+    if (!showIosPrompt && !deferredPrompt) return null;
+
+    const isChrome = !!deferredPrompt;
 
     return (
         <AnimatePresence>
             <motion.div
-                initial={{ y: 200, opacity: 0, scale: 0.9 }}
-                animate={{ y: 0, opacity: 1, scale: 1 }}
-                exit={{ y: 200, opacity: 0, scale: 0.9 }}
+                initial={{ y: -100, opacity: 0 }}
+                animate={{ y: 0, opacity: 1 }}
+                exit={{ y: -100, opacity: 0 }}
                 transition={{ type: "spring", stiffness: 300, damping: 25 }}
                 style={{
                     position: 'fixed',
-                    bottom: '30px',
-                    left: '50%',
-                    transform: 'translateX(-50%)',
-                    width: 'calc(100% - 32px)',
-                    maxWidth: '380px',
-                    backgroundColor: 'rgba(2, 6, 23, 0.85)',
-                    backdropFilter: 'blur(20px) saturate(180%)',
-                    border: '1px solid rgba(251, 191, 36, 0.3)',
-                    borderRadius: '24px',
-                    padding: '1.5rem',
-                    boxShadow: '0 25px 50px -12px rgba(0,0,0,0.8), 0 0 30px rgba(251, 191, 36, 0.15)',
-                    zIndex: 9999,
+                    top: '0',
+                    left: '0',
+                    width: '100vw',
+                    backgroundColor: 'rgba(2, 6, 23, 0.95)',
+                    backdropFilter: 'blur(20px)',
+                    borderBottom: '1px solid rgba(251, 191, 36, 0.3)',
+                    padding: '1rem',
+                    boxShadow: '0 10px 30px rgba(0,0,0,0.5)',
+                    zIndex: 99999,
                     color: 'white',
                     display: 'flex',
                     flexDirection: 'column',
-                    gap: '1.2rem'
+                    gap: '1rem'
                 }}
             >
-                {/* Flecha apuntando abajo al centro */}
-                <div style={{ position: 'absolute', bottom: '-10px', left: '50%', transform: 'translateX(-50%) rotate(45deg)', width: '20px', height: '20px', backgroundColor: 'rgba(2, 6, 23, 0.9)', borderBottom: '1px solid rgba(251, 191, 36, 0.3)', borderRight: '1px solid rgba(251, 191, 36, 0.3)', zIndex: -1 }}></div>
-
+                {/* Botón de Cierre Superior */}
                 <button 
-                    onClick={() => setShowPrompt(false)}
-                    style={{ position: 'absolute', top: '15px', right: '15px', background: 'rgba(255,255,255,0.05)', border: 'none', color: 'rgba(255,255,255,0.5)', cursor: 'pointer', borderRadius: '50%', width: '30px', height: '30px', display: 'flex', alignItems: 'center', justifyContent: 'center', transition: 'all 0.2s' }}
+                    onClick={() => {
+                        setShowIosPrompt(false);
+                        setDeferredPrompt(null);
+                    }}
+                    style={{ position: 'absolute', top: '50%', transform: 'translateY(-50%)', right: '15px', background: 'transparent', border: 'none', color: 'rgba(255,255,255,0.5)', cursor: 'pointer', padding: '0.5rem' }}
                 >
-                    <X size={16} />
+                    <X size={20} />
                 </button>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '1.2rem' }}>
-                    <div style={{ width: '60px', height: '60px', borderRadius: '14px', overflow: 'hidden', boxShadow: '0 4px 15px rgba(0,0,0,0.5)', border: '2px solid rgba(255,255,255,0.1)', flexShrink: 0 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', paddingRight: '30px' }}>
+                    <div style={{ width: '45px', height: '45px', borderRadius: '10px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)', flexShrink: 0 }}>
                         <img src="/pwa-192x192.png" alt="DataFútbol" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                     </div>
-                    <div style={{ paddingRight: '20px' }}>
-                        <h4 className="title-font" style={{ margin: 0, fontSize: '1.4rem', color: 'white', letterSpacing: '0.5px' }}>DataFútbol App</h4>
-                        <p style={{ margin: '0.2rem 0 0 0', fontSize: '0.85rem', color: 'var(--text-muted)', lineHeight: '1.4' }}>
-                            Instalá la aplicación oficial para una experiencia nativa y pantalla completa.
+                    <div style={{ flex: 1 }}>
+                        <h4 className="title-font" style={{ margin: 0, fontSize: '1.1rem', color: 'white', letterSpacing: '0.5px' }}>DataFútbol App</h4>
+                        <p style={{ margin: '0.1rem 0 0 0', fontSize: '0.8rem', color: 'var(--text-muted)', lineHeight: '1.2' }}>
+                            Rápida, sin navegador y a pantalla completa.
                         </p>
                     </div>
+
+                    {isChrome && (
+                        <button 
+                            onClick={handleChromeInstall}
+                            style={{
+                                background: 'var(--accent-gold)',
+                                color: 'black',
+                                border: 'none',
+                                padding: '0.5rem 1rem',
+                                borderRadius: '20px',
+                                fontWeight: 'bold',
+                                cursor: 'pointer',
+                                fontSize: '0.85rem',
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: '0.4rem',
+                                boxShadow: '0 4px 10px rgba(251, 191, 36, 0.3)'
+                            }}
+                        >
+                            <Download size={16} /> Instalar
+                        </button>
+                    )}
                 </div>
 
-                <div style={{ background: 'linear-gradient(145deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.01) 100%)', padding: '1.2rem', borderRadius: '16px', border: '1px solid rgba(255,255,255,0.05)' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', marginBottom: '0.8rem' }}>
-                        <div style={{ background: 'var(--accent-gold)', color: 'black', width: '24px', height: '24px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.8rem' }}>1</div>
-                        <div style={{ fontSize: '0.9rem', color: 'white' }}>Tocá <Share size={16} color="var(--accent-gold)" style={{ display: 'inline', verticalAlign: 'text-bottom', margin: '0 2px' }}/> <b>Compartir</b> en Safari</div>
+                {/* Si es iOS Safari, mostramos las instrucciones desplegadas */}
+                {!isChrome && showIosPrompt && (
+                    <div style={{ background: 'rgba(255,255,255,0.05)', padding: '0.8rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.05)', fontSize: '0.85rem' }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', marginBottom: '0.5rem' }}>
+                            <div style={{ background: 'var(--accent-gold)', color: 'black', width: '20px', height: '20px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.7rem' }}>1</div>
+                            <div style={{ color: 'white' }}>Tocá <Share size={14} color="var(--accent-gold)" style={{ display: 'inline', margin: '0 2px' }}/> <b>Compartir</b> abajo</div>
+                        </div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                            <div style={{ background: 'var(--accent-gold)', color: 'black', width: '20px', height: '20px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.7rem' }}>2</div>
+                            <div style={{ color: 'white' }}>Buscá <PlusSquare size={14} color="var(--accent-gold)" style={{ display: 'inline', margin: '0 2px' }}/> <b>Agregar a Inicio</b></div>
+                        </div>
                     </div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
-                        <div style={{ background: 'var(--accent-gold)', color: 'black', width: '24px', height: '24px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.8rem' }}>2</div>
-                        <div style={{ fontSize: '0.9rem', color: 'white' }}>Buscá <PlusSquare size={16} color="var(--accent-gold)" style={{ display: 'inline', verticalAlign: 'text-bottom', margin: '0 2px' }}/> <b>Agregar a Inicio</b></div>
-                    </div>
-                </div>
+                )}
             </motion.div>
         </AnimatePresence>
     );
 }
+
