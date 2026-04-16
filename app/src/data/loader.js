@@ -17,7 +17,8 @@ export const getLeagues = () => {
     { id: 'italia', name: 'Serie A', country: 'Italia', flag: '', color: '#005ba3', shield: '/escudos/serie_a_logo.png' },
     { id: 'alemania', name: 'Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: '/escudos/bundesliga_logo.png' },
     { id: 'francia', name: 'Ligue 1', country: 'Francia', flag: '', color: '#dae025', shield: '/escudos/ligue1_2024.png' },
-    { id: 'escocia', name: 'Scottish Premiership', country: 'Escocia', flag: '', color: '#002868', shield: '/escudos/scottish_premiership_logo.png' }
+    { id: 'escocia', name: 'Scottish Premiership', country: 'Escocia', flag: '', color: '#002868', shield: '/escudos/scottish_premiership_logo.png' },
+    { id: 'eng_league_one', name: 'EFL League One', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/41.png' }
   ];
 };
 

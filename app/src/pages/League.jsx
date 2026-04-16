@@ -29,7 +29,8 @@ export default function League() {
     'europa_league': 3,
     'conference': 848,
     'libertadores': 13,
-    'sudamericana': 11
+    'sudamericana': 11,
+    'eng_league_one': 41
   };
   const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
 
@@ -558,7 +559,7 @@ export default function League() {
                                 {standingsData.length > 1 && group.length > 0 && (
                                    <tr>
                                       <td colSpan="6" style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.6rem', textAlign: 'center', letterSpacing: '1px' }}>
-                                         {group[0].group}
+                                         {String(group[0].group).replace(/League phase/i, 'Fase de Liga').replace(/Group/gi, 'Grupo')}
                                       </td>
                                    </tr>
                                 )}
