@@ -391,39 +391,74 @@ export default function League() {
                         <div className="hide-scrollbar" style={{ overflowX: 'auto', paddingBottom: '1rem' }}>
                            <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '2rem', minWidth: '1000px' }}>
                               {['Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map((roundName, colIndex) => {
-                                  const matches = knockoutData.filter(f => f.league.round.includes(roundName));
+                                  let matches = knockoutData.filter(f => f.league.round.includes(roundName));
+                                  
+                                  // PLACHOLDERS SI LA API TODAVÍA NO ARMÓ LAS LLAVES FUTURAS
+                                  if (matches.length === 0) {
+                                      if (roundName === 'Semi-finals') {
+                                          matches = [
+                                              { fixture: { id: 'sf1', date: 'placeholder', venue: { name: 'A definir' } }, teams: { home: { name: 'Ganador Llave 1' }, away: { name: 'Ganador Llave 2' } }, goals: {}, score: {} },
+                                              { fixture: { id: 'sf2', date: 'placeholder', venue: { name: 'A definir' } }, teams: { home: { name: 'Ganador Llave 3' }, away: { name: 'Ganador Llave 4' } }, goals: {}, score: {} }
+                                          ];
+                                      } else if (roundName === 'Final') {
+                                          // Estadios Reales de las Finales 2026
+                                          let finalStadium = 'Estadio a definir';
+                                          let finalDate = 'placeholder';
+                                          if (leagueId === 'champions') { finalStadium = 'Puskás Aréna, Budapest'; finalDate = '30/5/2026'; }
+                                          if (leagueId === 'europa_league') { finalStadium = 'Beşiktaş Park, Istanbul'; finalDate = '20/5/2026'; }
+                                          if (leagueId === 'conference') { finalStadium = 'Red Bull Arena, Leipzig'; finalDate = '27/5/2026'; }
+
+                                          matches = [
+                                              { fixture: { id: 'fin', date: finalDate, venue: { name: finalStadium } }, teams: { home: { name: 'Ganador Semifinal 1' }, away: { name: 'Ganador Semifinal 2' } }, goals: {}, score: {} }
+                                          ];
+                                      }
+                                  }
+
                                   if (matches.length === 0) return null;
+
                                   return (
                                       <div key={roundName} style={{ display: 'flex', flexDirection: 'column', width: colIndex === 3 ? '320px' : '260px', gap: '1rem', justifyContent: 'space-around' }}>
                                          <h4 style={{ color: 'var(--accent-gold)', marginBottom: '0.5rem', fontSize: '0.9rem', textAlign: 'center', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '1px' }}>{roundName.replace('-', ' ')}</h4>
                                          
-                                         {matches.map(m => (
-                                            <div key={m.fixture.id} style={{ flex: roundName === 'Final' && matches.length === 1 ? 1 : 'none', display: 'flex', flexDirection: 'column', justifyContent: roundName === 'Final' ? 'center' : 'flex-start' }}>
-                                               <div style={{ display: 'flex', flexDirection: 'column', background: roundName === 'Final' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.03)', padding: '1rem', borderRadius: '8px', border: roundName === 'Final' ? '2px solid var(--accent-gold)' : '1px solid rgba(255,255,255,0.05)' }}>
-                                                  
-                                                  <div style={{ fontSize: '0.7rem', color: 'var(--accent-gold)', marginBottom: '0.6rem', textAlign: 'center', opacity: 0.8, textTransform: 'uppercase' }}>
-                                                     {new Date(m.fixture.date).toLocaleDateString()} · {m.fixture.venue?.name || 'A definir'}
-                                                  </div>
+                                         {matches.map(m => {
+                                            const displayDate = (m.fixture.date === 'placeholder' || !m.fixture.date.includes('-')) 
+                                                ? (m.fixture.date === 'placeholder' ? 'Por definir' : m.fixture.date) 
+                                                : new Date(m.fixture.date).toLocaleDateString();
 
-                                                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
-                                                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                                                        <img src={m.teams.home.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
-                                                        <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.home.name || 'A definir'}</span>
-                                                     </div>
-                                                     <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.9rem' }}>{m.goals.home ?? '-'}</span>
-                                                  </div>
+                                            return (
+                                                <div key={m.fixture.id} style={{ flex: roundName === 'Final' && matches.length === 1 ? 1 : 'none', display: 'flex', flexDirection: 'column', justifyContent: roundName === 'Final' ? 'center' : 'flex-start' }}>
+                                                   <div style={{ display: 'flex', flexDirection: 'column', background: roundName === 'Final' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.03)', padding: '1rem', borderRadius: '8px', border: roundName === 'Final' ? '2px solid var(--accent-gold)' : '1px solid rgba(255,255,255,0.05)' }}>
+                                                      
+                                                      <div style={{ fontSize: '0.7rem', color: 'var(--accent-gold)', marginBottom: '0.8rem', textAlign: 'center', opacity: 0.8, textTransform: 'uppercase' }}>
+                                                         {displayDate} · {m.fixture.venue?.name || 'A definir'}
+                                                      </div>
 
-                                                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                                                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                                                        <img src={m.teams.away.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
-                                                        <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.away.name || 'A definir'}</span>
-                                                     </div>
-                                                     <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.9rem' }}>{m.goals.away ?? '-'}</span>
-                                                  </div>
+                                                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
+                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                                                            {m.teams.home.logo ? <img src={m.teams.home.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
+                                                            <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.home.name || 'A definir'}</span>
+                                                         </div>
+                                                         <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
+                                                             {m.goals.home ?? '-'}
+                                                             {m.score?.penalty?.home != null ? ` (p.${m.score.penalty.home})` : ''}
+                                                         </span>
+                                                      </div>
 
-                                               </div>
-                                            </div>
-                                         ))}
+                                                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                                                            {m.teams.away.logo ? <img src={m.teams.away.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
+                                                            <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.away.name || 'A definir'}</span>
+                                                         </div>
+                                                         <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
+                                                             {m.goals.away ?? '-'}
+                                                             {m.score?.penalty?.away != null ? ` (p.${m.score.penalty.away})` : ''}
+                                                         </span>
+                                                      </div>
+
+                                                   </div>
+                                                </div>
+                                            )
+                                         })}
                                       </div>
                                   )
                               })}
