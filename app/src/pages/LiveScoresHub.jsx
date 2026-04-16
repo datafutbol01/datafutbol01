@@ -21,9 +21,14 @@ export default function LiveScoresHub() {
     const fetchLiveScores = async () => {
       setLoading(true);
       try {
-        // En producción llamaremos según AYER/HOY/MAÑANA. 
-        // Para empezar agresivo, traemos todos los "En Vivo" actuales (live=all)
-        const endpoint = "https://v3.football.api-sports.io/fixtures?live=all";
+        // Lógica de fechas (AYER, HOY, MAÑANA)
+        const dateObj = new Date();
+        if (activeDate === 'AYER') dateObj.setDate(dateObj.getDate() - 1);
+        if (activeDate === 'MAÑANA') dateObj.setDate(dateObj.getDate() + 1);
+        const formattedDate = dateObj.toISOString().split('T')[0];
+        
+        // Ahora traemos TODO lo de ese día (terminados, vivos, y por jugar)
+        const endpoint = `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=America/Argentina/Buenos_Aires`;
         
         const response = await fetch(endpoint, {
           method: "GET",
@@ -41,8 +46,8 @@ export default function LiveScoresHub() {
             data.response.forEach(match => {
                 const lId = match.league.id;
                 
-                // Opcional: si SOLO querés ver las tuyas, descomentá esta línea:
-                // if (!allowedIds.includes(lId)) return;
+                // Filtramos estrictamente a nuestras ligas configuradas (Champions, Libertadores, etc)
+                if (!allowedIds.includes(lId)) return;
                 
                 if (!grouped[lId]) {
                     grouped[lId] = {
