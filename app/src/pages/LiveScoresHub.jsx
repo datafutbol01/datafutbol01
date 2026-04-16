@@ -24,7 +24,8 @@ export default function LiveScoresHub() {
     848: 'conference',
     13: 'libertadores',
     11: 'sudamericana',
-    41: 'eng_league_one'
+    41: 'eng_league_one',
+    42: 'eng_league_two'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono

@@ -30,7 +30,8 @@ export default function League() {
     'conference': 848,
     'libertadores': 13,
     'sudamericana': 11,
-    'eng_league_one': 41
+    'eng_league_one': 41,
+    'eng_league_two': 42
   };
   const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
 
