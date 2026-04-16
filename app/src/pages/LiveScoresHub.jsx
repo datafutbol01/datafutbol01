@@ -231,18 +231,18 @@ export default function LiveScoresHub() {
                          {match.d}
                       </div>
                       
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', justifyContent: 'flex-end', fontWeight: match.isLive ? 'bold' : 'normal', color: 'white' }}>
-                         {match.home} 
-                         {match.homeLogo && <img src={match.homeLogo} alt="" style={{ width: '24px' }} onError={(e) => e.target.style.display = 'none'} />}
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-end', fontWeight: match.isLive ? 'bold' : 'normal', color: 'white', minWidth: 0 }}>
+                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{match.home}</span>
+                         {match.homeLogo && <img src={match.homeLogo} alt="" style={{ width: '24px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />}
                       </div>
                       
-                      <div style={{ display: 'flex', justifyContent: 'center', fontSize: '1.2rem', fontWeight: '900', color: match.isLive ? '#ef4444' : 'white', letterSpacing: '2px' }}>
+                      <div style={{ display: 'flex', justifyContent: 'center', fontSize: '1.2rem', fontWeight: '900', color: match.isLive ? '#ef4444' : 'white', letterSpacing: '2px', minWidth: 0 }}>
                          {match.score}
                       </div>
                       
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', justifyContent: 'flex-start', color: 'white', fontWeight: match.isLive ? 'bold' : 'normal' }}>
-                         {match.awayLogo && <img src={match.awayLogo} alt="" style={{ width: '24px' }} onError={(e) => e.target.style.display = 'none'} />} 
-                         {match.away}
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-start', color: 'white', fontWeight: match.isLive ? 'bold' : 'normal', minWidth: 0 }}>
+                         {match.awayLogo && <img src={match.awayLogo} alt="" style={{ width: '24px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />} 
+                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{match.away}</span>
                       </div>
 
                       <div style={{ color: 'var(--text-muted)', display: 'flex', justifyContent: 'flex-end' }}>
