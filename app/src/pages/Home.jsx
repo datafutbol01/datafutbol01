@@ -293,7 +293,7 @@ export default function Home() {
 
       {/* Language Selector Footer */}
       <div
-        className="animate-fade-in"
+        className="animate-fade-in hide-scrollbar"
         style={{
           position: 'absolute',
           bottom: '2rem',
@@ -307,7 +307,11 @@ export default function Home() {
           backdropFilter: 'blur(10px)',
           border: '1px solid rgba(255,255,255,0.05)',
           borderRadius: '50px',
-          boxShadow: '0 4px 20px rgba(0,0,0,0.5)'
+          boxShadow: '0 4px 20px rgba(0,0,0,0.5)',
+          maxWidth: 'calc(100vw - 2rem)',
+          overflowX: 'auto',
+          WebkitOverflowScrolling: 'touch',
+          justifyContent: 'flex-start'
         }}
       >
         {[
@@ -334,7 +338,9 @@ export default function Home() {
               cursor: 'pointer',
               transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
               opacity: activeLang === item.lang ? 1 : 0.6,
-              padding: '0.25rem'
+              padding: '0.25rem',
+              flexShrink: 0,
+              whiteSpace: 'nowrap'
             }}
             onMouseOver={(e) => {
               e.currentTarget.style.color = 'var(--accent-gold)';
