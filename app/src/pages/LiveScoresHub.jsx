@@ -256,10 +256,6 @@ export default function LiveScoresHub() {
           )
         })}
 
-        <div style={{ textAlign: 'center', marginTop: '2rem', padding: '1rem', border: '1px dashed rgba(255, 255, 255, 0.2)', borderRadius: '16px', color: 'var(--text-muted)' }}>
-           <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>{t.info_footer}</p>
-        </div>
-
       </div>
 
       <style>{`
