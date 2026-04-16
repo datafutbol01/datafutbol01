@@ -40,10 +40,15 @@ export default function LiveScoresHub() {
         const dateObj = new Date();
         if (activeDate === 'AYER') dateObj.setDate(dateObj.getDate() - 1);
         if (activeDate === 'MAÑANA') dateObj.setDate(dateObj.getDate() + 1);
-        const formattedDate = dateObj.toISOString().split('T')[0];
         
-        // Detectar si el usuario está en Inglaterra, Japón o Argentina para definir bien qué partidos son 'HOY' para él
-        const userTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone || "America/Argentina/Buenos_Aires";
+        // Evitamos toISOString porque usa UTC y en Libertadores las 21:30 es mañana en UTC.
+        const yyyy = dateObj.getFullYear();
+        const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+        const dd = String(dateObj.getDate()).padStart(2, '0');
+        const formattedDate = `${yyyy}-${mm}-${dd}`;
+        
+        // Forzamos el timezone de Argentina oficial de la API para que no falle en celulares raros
+        const userTimezone = "America/Argentina/Buenos_Aires";
         
         // Ahora traemos TODO lo de ese día ajustado a su país
         const endpoint = `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=${userTimezone}`;
