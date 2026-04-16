@@ -1,5 +1,6 @@
 import { Outlet, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import PwaPrompt from './components/PwaPrompt';
 
 function App() {
   const location = useLocation();
@@ -12,6 +13,7 @@ function App() {
       <main className={!hideNavbar ? "pt-20" : ""}>
         <Outlet />
       </main>
+      <PwaPrompt />
     </div>
   );
 }
