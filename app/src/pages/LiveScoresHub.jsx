@@ -21,7 +21,9 @@ export default function LiveScoresHub() {
     179: 'escocia',
     2: 'champions',
     3: 'europa_league',
-    848: 'conference'
+    848: 'conference',
+    13: 'libertadores',
+    11: 'sudamericana'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono

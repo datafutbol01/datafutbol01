@@ -27,7 +27,9 @@ export default function League() {
     'escocia': 179,
     'champions': 2,
     'europa_league': 3,
-    'conference': 848
+    'conference': 848,
+    'libertadores': 13,
+    'sudamericana': 11
   };
   const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
 
@@ -47,7 +49,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = leagueId === 'argentina' ? 2026 : 2025; // Europa arranca en el año par.
+           const season = ['argentina', 'libertadores', 'sudamericana'].includes(leagueId) ? 2026 : 2025; // Sudamérica usa año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
