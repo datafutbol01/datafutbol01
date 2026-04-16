@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { useParams, Link, useNavigate } from 'react-router-dom';
+import { useParams, Link, useNavigate, useLocation } from 'react-router-dom';
 import { getClubsByLeague, getLeagueHistory, getLeagueMatchups, getLeagues } from '../data/loader';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -13,7 +13,8 @@ export default function League() {
   const allLeagues = getLeagues();
   const currentLeague = allLeagues.find(l => l.id === leagueId) || { name: leagueId };
   
-  const [activeTab, setActiveTab] = useState('clubes');
+  const location = useLocation();
+  const [activeTab, setActiveTab] = useState(location.state?.tab || 'clubes');
   const [activeTorneoTab, setActiveTorneoTab] = useState(leagueId === 'inglaterra' ? 'premier' : 'metropolitano');
   
   useEffect(() => {

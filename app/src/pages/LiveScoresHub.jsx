@@ -10,6 +10,17 @@ export default function LiveScoresHub() {
   const [liveLeagues, setLiveLeagues] = useState([]);
   const [loading, setLoading] = useState(true);
 
+  // Mapeo entre la API y nuestro Frontend para los botones de Clasificación
+  const apiToSlug = {
+    128: 'argentina', 
+    39: 'inglaterra', 
+    140: 'espania',   
+    135: 'italia',    
+    78: 'alemania',   
+    61: 'francia',    
+    179: 'escocia'
+  };
+
   // Diccionario Dinámico de Idioma del Teléfono
   const userLang = navigator.language.startsWith('en') ? 'en' : 'es';
   const t = {
@@ -252,6 +263,20 @@ export default function LiveScoresHub() {
                   {idx < liga.matches.length - 1 && <div style={{ height: '1px', background: 'rgba(255,255,255,0.05)', width: '90%', margin: '0 auto' }}></div>}
                 </div>
               ))}
+              
+              {!isClosed && apiToSlug[liga.id] && (
+                 <div style={{ padding: '1rem', display: 'flex', justifyContent: 'center', background: 'rgba(0,0,0,0.2)' }}>
+                    <button 
+                       onClick={() => navigate(`/liga/${apiToSlug[liga.id]}`, { state: { tab: 'actualidad' } })}
+                       className="glass-panel"
+                       style={{ background: 'rgba(251, 191, 36, 0.1)', border: '1px solid rgba(251, 191, 36, 0.3)', color: '#fde68a', padding: '0.6rem 1.5rem', borderRadius: '50px', cursor: 'pointer', fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.5rem', transition: 'all 0.3s', fontSize: '0.9rem' }}
+                       onMouseOver={e => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.2)'}
+                       onMouseOut={e => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.1)'}
+                    >
+                       🏆 {t.ver_clasificacion || 'Clasificación Completa'}
+                    </button>
+                 </div>
+              )}
             </div>
           )
         })}
