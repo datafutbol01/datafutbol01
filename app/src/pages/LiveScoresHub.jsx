@@ -10,6 +10,21 @@ export default function LiveScoresHub() {
   const [liveLeagues, setLiveLeagues] = useState([]);
   const [loading, setLoading] = useState(true);
 
+  // Diccionario Dinámico de Idioma del Teléfono
+  const userLang = navigator.language.startsWith('en') ? 'en' : 'es';
+  const t = {
+    'AYER': userLang === 'en' ? 'YESTERDAY' : 'AYER',
+    'HOY': userLang === 'en' ? 'TODAY' : 'HOY',
+    'MAÑANA': userLang === 'en' ? 'TOMORROW' : 'MAÑANA',
+    conectando: userLang === 'en' ? 'CONNECTING...' : 'CONECTANDO...',
+    en_directo: userLang === 'en' ? 'LIVE SCORES' : 'EN DIRECTO',
+    fin: userLang === 'en' ? 'FT' : 'FIN',
+    et: userLang === 'en' ? 'HT' : 'ET',
+    sin_partidos: userLang === 'en' ? 'No live matches right now worldwide.' : 'No hay partidos en juego ahora mismo en el mundo entero.',
+    esperando: userLang === 'en' ? 'API Connected ✓ Waiting for kick-offs...' : 'API Conectada ✓ Esperando silbatos iniciales...',
+    info_footer: userLang === 'en' ? '📡 Built on API-Football. Live data refreshed every 60s.' : '📡 Conectado Oficialmente a API-Football. Datos vivos con refresco cada 60s.'
+  };
+
   const toggleLeague = (leagueId) => {
     setCollapsedLeagues(prev => ({
       ...prev,
@@ -27,8 +42,11 @@ export default function LiveScoresHub() {
         if (activeDate === 'MAÑANA') dateObj.setDate(dateObj.getDate() + 1);
         const formattedDate = dateObj.toISOString().split('T')[0];
         
-        // Ahora traemos TODO lo de ese día (terminados, vivos, y por jugar)
-        const endpoint = `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=America/Argentina/Buenos_Aires`;
+        // Detectar si el usuario está en Inglaterra, Japón o Argentina para definir bien qué partidos son 'HOY' para él
+        const userTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone || "America/Argentina/Buenos_Aires";
+        
+        // Ahora traemos TODO lo de ese día ajustado a su país
+        const endpoint = `https://v3.football.api-sports.io/fixtures?date=${formattedDate}&timezone=${userTimezone}`;
         
         const response = await fetch(endpoint, {
           method: "GET",
@@ -66,13 +84,12 @@ export default function LiveScoresHub() {
                 // Formateo Premium de Estados (Hora, Minuto en Vivo, o Traducidos)
                 let timeStr = status;
                 if (["1H", "2H", "HT", "ET", "P", "LIVE"].includes(status)) {
-                    timeStr = elapsed ? elapsed + "'" : (status === "HT" ? "ET" : status); // ET = Entretiempo
+                    timeStr = elapsed ? elapsed + "'" : (status === "HT" ? t.et : status);
                 } else if (status === "NS" || status === "TBD") {
                     const matchDate = new Date(match.fixture.date);
-                    // Convierte la zona horaria al huso horario local de la persona que mira
                     timeStr = matchDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
                 } else if (["FT", "AET", "PEN"].includes(status)) {
-                    timeStr = "FIN";
+                    timeStr = t.fin;
                 } else if (["CANC", "SUSP", "PST", "ABD"].includes(status)) {
                     timeStr = "SUSP";
                 }
@@ -132,7 +149,7 @@ export default function LiveScoresHub() {
       <div style={{ padding: '0 2rem 2rem', borderBottom: '1px solid rgba(255,255,255,0.05)', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <h1 className="title-font animate-fade-in" style={{ fontSize: '2.5rem', color: 'white', display: 'flex', alignItems: 'center', gap: '0.8rem', margin: 0 }}>
           <Activity size={32} color={loading ? "#aaa" : "#ef4444"} /> 
-          {loading ? "CONECTANDO..." : "EN DIRECTO"}
+          {loading ? t.conectando : t.en_directo}
         </h1>
         
         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem', background: 'rgba(0,0,0,0.3)', padding: '0.5rem', borderRadius: '50px' }}>
@@ -147,7 +164,7 @@ export default function LiveScoresHub() {
                 fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s', letterSpacing: '1px'
               }}
             >
-              {dia}
+              {t[dia]}
             </button>
           ))}
           <button style={{ background: 'transparent', color: 'var(--text-muted)', border: 'none', padding: '0.6rem 1rem', display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
@@ -161,8 +178,8 @@ export default function LiveScoresHub() {
         {!loading && liveLeagues.length === 0 && (
           <div style={{ textAlign: 'center', marginTop: '3rem', color: 'white', opacity: 0.6 }}>
             <Activity size={48} style={{ marginBottom: '1rem', opacity: 0.5 }} />
-            <h3>No hay partidos en juego ahora mismo en el mundo entero.</h3>
-            <p>API Conectada ✓ Esperando silbatos iniciales...</p>
+            <h3>{t.sin_partidos}</h3>
+            <p>{t.esperando}</p>
           </div>
         )}
 
@@ -226,7 +243,7 @@ export default function LiveScoresHub() {
         })}
 
         <div style={{ textAlign: 'center', marginTop: '2rem', padding: '1rem', border: '1px dashed rgba(255, 255, 255, 0.2)', borderRadius: '16px', color: 'var(--text-muted)' }}>
-           <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>📡 Conectado Oficialmente a API-Football. Datos vivos con refresco cada 60s.</p>
+           <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>{t.info_footer}</p>
         </div>
 
       </div>
