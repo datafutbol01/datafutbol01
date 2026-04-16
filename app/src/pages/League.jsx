@@ -12,10 +12,56 @@ export default function League() {
   const matchups = getLeagueMatchups(leagueId);
   const allLeagues = getLeagues();
   const currentLeague = allLeagues.find(l => l.id === leagueId) || { name: leagueId };
-  
   const location = useLocation();
   const [activeTab, setActiveTab] = useState(location.state?.tab || 'clubes');
   const [activeTorneoTab, setActiveTorneoTab] = useState(leagueId === 'inglaterra' ? 'premier' : 'metropolitano');
+
+  // Novedad: Conexión Real con Vercel para la Tabla de Posiciones
+  const slugToApi = {
+    'argentina': 128,
+    'inglaterra': 39,
+    'espania': 140,
+    'italia': 135,
+    'alemania': 78,
+    'francia': 61,
+    'escocia': 179
+  };
+  const [standingsData, setStandingsData] = useState(null);
+  const [loadingStandings, setLoadingStandings] = useState(false);
+
+  useEffect(() => {
+    if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
+      const fetchStandings = async () => {
+         setLoadingStandings(true);
+         try {
+           const apiId = slugToApi[leagueId];
+           const season = leagueId === 'argentina' ? 2026 : 2025; // Europa arranca en el año par.
+           const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+           const endpoint = isLocal 
+              ? `https://v3.football.api-sports.io/standings?league=${apiId}&season=${season}`
+              : `/api/standings?league=${apiId}&season=${season}`;
+              
+           const headers = isLocal ? {
+              "x-rapidapi-host": "v3.football.api-sports.io",
+              "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
+           } : {};
+           
+           const res = await fetch(endpoint, { headers });
+           const data = await res.json();
+           
+           if (data.response && data.response.length > 0) {
+              setStandingsData(data.response[0].league.standings);
+           }
+         } catch(e) {
+            console.error(e);
+         } finally {
+            setLoadingStandings(false);
+         }
+      };
+      fetchStandings();
+    }
+  }, [activeTab, leagueId]);
+
   
   useEffect(() => {
       if (leagueId === 'inglaterra') setActiveTorneoTab('premier');
@@ -304,19 +350,29 @@ export default function League() {
                                  <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
                               </tr>
                            </thead>
-                           <tbody>
-                              {[1,2,3,4,5,6].map(i => (
-                                  <tr key={i} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: i % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
-                                     <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: i <= 3 ? 'bold' : 'normal', color: i <= 3 ? 'white' : 'var(--text-muted)' }}>
-                                        <span style={{ color: 'var(--text-muted)', width: '20px' }}>{i}</span> 
-                                        <div style={{ width: '24px', height: '24px', background: 'rgba(255,255,255,0.1)', borderRadius: '50%' }}></div>
-                                        F.C. Ejemplo {i}
-                                     </td>
-                                     <td>27</td><td>{20 - i}</td><td>4</td><td>{i + 3}</td>
-                                     <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)' }}>{60 - (i*3)}</td>
-                                  </tr>
-                              ))}
-                           </tbody>
+                           {standingsData ? standingsData.map((group, gIdx) => (
+                             <tbody key={gIdx}>
+                                {group.map((t) => (
+                                    <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
+                                       <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
+                                          <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
+                                          <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} />
+                                          <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
+                                       </td>
+                                       <td>{t.all.played}</td><td>{t.all.win}</td><td>{t.all.draw}</td><td>{t.all.lose}</td>
+                                       <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)' }}>{t.points}</td>
+                                    </tr>
+                                ))}
+                             </tbody>
+                           )) : (
+                             <tbody>
+                               <tr>
+                                  <td colSpan="6" style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)' }}>
+                                     {loadingStandings ? 'Conectando túnel oficial y cargando posiciones reales mundiales...' : 'No disponible'}
+                                  </td>
+                               </tr>
+                             </tbody>
+                           )}
                         </table>
                       </div>
                   </div>

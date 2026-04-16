@@ -1,7 +1,7 @@
 const apiKey = "07048fa03363eb0cd181ac3797f13670";
 async function run() {
-    console.log("Probando fecha de hoy entera:");
-    const response = await fetch(`https://v3.football.api-sports.io/fixtures?date=2026-04-16&timezone=America/Argentina/Buenos_Aires`, {
+    console.log("Probando endpoint de standings con la key de La Liga...");
+    const response = await fetch(`https://v3.football.api-sports.io/standings?league=140&season=2025`, {
         headers: {
             "x-rapidapi-host": "v3.football.api-sports.io",
             "x-rapidapi-key": apiKey
