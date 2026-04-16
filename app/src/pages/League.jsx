@@ -28,6 +28,10 @@ export default function League() {
   };
   const [standingsData, setStandingsData] = useState(null);
   const [loadingStandings, setLoadingStandings] = useState(false);
+  
+  // STATS: Goleadores, Asistencias, etc.
+  const [statsData, setStatsData] = useState({ scorers: null, assists: null });
+  const [loadingStats, setLoadingStats] = useState(false);
 
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
@@ -52,8 +56,27 @@ export default function League() {
            if (data.response && data.response.length > 0) {
               setStandingsData(data.response[0].league.standings);
            }
+           
+           // Traemos también las STATS
+           setLoadingStats(true);
+           if (isLocal) {
+               const [scorersRes, assistsRes] = await Promise.all([
+                  fetch(`https://v3.football.api-sports.io/players/topscorers?league=${apiId}&season=${season}`, { headers }),
+                  fetch(`https://v3.football.api-sports.io/players/topassists?league=${apiId}&season=${season}`, { headers })
+               ]);
+               const scorersData = await scorersRes.json();
+               const assistsData = await assistsRes.json();
+               setStatsData({ scorers: scorersData.response || [], assists: assistsData.response || [] });
+           } else {
+               const statsRes = await fetch(`/api/stats?league=${apiId}&season=${season}`);
+               const statsJson = await statsRes.json();
+               setStatsData({ scorers: statsJson.scorers || [], assists: statsJson.assists || [] });
+           }
+           setLoadingStats(false);
+           
          } catch(e) {
             console.error(e);
+            setLoadingStats(false);
          } finally {
             setLoadingStandings(false);
          }
@@ -352,6 +375,13 @@ export default function League() {
                            </thead>
                            {standingsData ? standingsData.map((group, gIdx) => (
                              <tbody key={gIdx}>
+                                {standingsData.length > 1 && group.length > 0 && (
+                                   <tr>
+                                      <td colSpan="6" style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.6rem', textAlign: 'center', letterSpacing: '1px' }}>
+                                         {group[0].group}
+                                      </td>
+                                   </tr>
+                                )}
                                 {group.map((t) => (
                                     <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
                                        <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
@@ -383,13 +413,18 @@ export default function League() {
                          ⚽ Top Goleadores
                       </h4>
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
-                         {[1,2,3,4].map(i => (
-                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
-                              <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <span style={{ color: 'white', fontWeight: i === 1 ? 'bold' : 'normal' }}>Nombre del 9</span>
-                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                         {loadingStats && <div style={{ color: 'var(--text-muted)' }}>Cargando cañoneros...</div>}
+                         {!loadingStats && statsData.scorers?.length === 0 && <div style={{ color: 'var(--text-muted)' }}>Sin datos.</div>}
+                         {statsData.scorers?.slice(0, 10).map((item, idx) => (
+                           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                <img src={item.player.photo} style={{ width: '35px', height: '35px', borderRadius: '50%', objectFit: 'cover' }} alt=""/>
+                                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                  <span style={{ color: 'white', fontWeight: idx === 0 ? 'bold' : 'normal' }}>{item.player.name}</span>
+                                  <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{item.statistics[0].team.name}</span>
+                                </div>
                               </div>
-                              <span style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.2rem' }}>{18 - i}</span>
+                              <span style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.2rem' }}>{item.statistics[0].goals.total}</span>
                            </div>
                          ))}
                       </div>
@@ -401,13 +436,18 @@ export default function League() {
                          👟 Asistencias
                       </h4>
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
-                         {[1,2,3,4].map(i => (
-                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
-                              <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <span style={{ color: 'white', fontWeight: i === 1 ? 'bold' : 'normal' }}>Nombre del MCO</span>
-                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                         {loadingStats && <div style={{ color: 'var(--text-muted)' }}>Cargando genios...</div>}
+                         {!loadingStats && statsData.assists?.length === 0 && <div style={{ color: 'var(--text-muted)' }}>Sin datos.</div>}
+                         {statsData.assists?.slice(0, 10).map((item, idx) => (
+                           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                <img src={item.player.photo} style={{ width: '35px', height: '35px', borderRadius: '50%', objectFit: 'cover' }} alt=""/>
+                                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                  <span style={{ color: 'white', fontWeight: idx === 0 ? 'bold' : 'normal' }}>{item.player.name}</span>
+                                  <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{item.statistics[0].team.name}</span>
+                                </div>
                               </div>
-                              <span style={{ fontWeight: 'bold', color: '#4ade80', fontSize: '1.2rem' }}>{12 - i}</span>
+                              <span style={{ fontWeight: 'bold', color: '#4ade80', fontSize: '1.2rem' }}>{item.statistics[0].goals.assists}</span>
                            </div>
                          ))}
                       </div>
