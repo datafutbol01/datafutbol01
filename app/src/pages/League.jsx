@@ -270,7 +270,9 @@ export default function League() {
       
       <button
         onClick={() => {
-          if (activeTab !== 'clubes') {
+          if (clubs.length === 0 || isCup) {
+            navigate(-1);
+          } else if (activeTab !== 'clubes') {
             setActiveTab('clubes');
           } else {
             navigate('/leagues');
@@ -381,48 +383,57 @@ export default function League() {
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
                   
                   {/* Cuadro de Llaves (Si es Copa Europea) */}
-                  {isCup && knockoutData && (
+                  {isCup && knockoutData && knockoutData.length > 0 && (
                      <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1', background: 'rgba(30, 41, 59, 0.4)' }}>
                         <h3 className="title-font" style={{ fontSize: '1.4rem', color: '#fde68a', marginBottom: '1.5rem', borderBottom: '1px solid rgba(251, 191, 36, 0.2)', paddingBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
                            ⚔️ Cuadro de Eliminatorias Finales
                         </h3>
-                        <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-                           {['Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map(roundName => {
-                               const matches = knockoutData.filter(f => f.league.round.includes(roundName));
-                               if (matches.length === 0) return null;
-                               return (
-                                   <div key={roundName} style={{ background: 'rgba(0,0,0,0.2)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.05)' }}>
-                                      <h4 style={{ color: 'white', marginBottom: '1.2rem', fontSize: '1.1rem', textAlign: 'center', fontWeight: 'bold', letterSpacing: '1px' }}>--- {roundName.toUpperCase()} ---</h4>
-                                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem' }}>
+                        <div className="hide-scrollbar" style={{ overflowX: 'auto', paddingBottom: '1rem' }}>
+                           <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '2rem', minWidth: '1000px' }}>
+                              {['Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map((roundName, colIndex) => {
+                                  const matches = knockoutData.filter(f => f.league.round.includes(roundName));
+                                  if (matches.length === 0) return null;
+                                  return (
+                                      <div key={roundName} style={{ display: 'flex', flexDirection: 'column', width: colIndex === 3 ? '320px' : '260px', gap: '1rem', justifyContent: 'space-around' }}>
+                                         <h4 style={{ color: 'var(--accent-gold)', marginBottom: '0.5rem', fontSize: '0.9rem', textAlign: 'center', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '1px' }}>{roundName.replace('-', ' ')}</h4>
+                                         
+                                         {roundName === 'Final' && matches.length === 1 && (
+                                              <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                         )}
+
                                          {matches.map(m => (
-                                            <div key={m.fixture.id} style={{ display: 'flex', flexDirection: 'column', background: 'rgba(255,255,255,0.03)', padding: '1.2rem', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.02)' }}>
+                                            <div key={m.fixture.id} style={{ display: 'flex', flexDirection: 'column', background: roundName === 'Final' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.03)', padding: '1rem', borderRadius: '8px', border: roundName === 'Final' ? '2px solid var(--accent-gold)' : '1px solid rgba(255,255,255,0.05)' }}>
                                                
-                                               <div style={{ fontSize: '0.75rem', color: 'var(--accent-gold)', marginBottom: '0.8rem', textAlign: 'center', opacity: 0.8 }}>
-                                                  {new Date(m.fixture.date).toLocaleDateString()} - {m.fixture.venue?.name || 'Estadio a definir'}
+                                               <div style={{ fontSize: '0.7rem', color: 'var(--accent-gold)', marginBottom: '0.6rem', textAlign: 'center', opacity: 0.8, textTransform: 'uppercase' }}>
+                                                  {new Date(m.fixture.date).toLocaleDateString()} · {m.fixture.venue?.name || 'A definir'}
                                                </div>
 
-                                               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.8rem' }}>
-                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
-                                                     <img src={m.teams.home.logo} style={{ width: '24px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
-                                                     <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal' }}>{m.teams.home.name || 'Por definir'}</span>
+                                               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
+                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                                                     <img src={m.teams.home.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
+                                                     <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.home.name || 'A definir'}</span>
                                                   </div>
-                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px' }}>{m.goals.home ?? '-'}</span>
+                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.9rem' }}>{m.goals.home ?? '-'}</span>
                                                </div>
 
                                                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
-                                                     <img src={m.teams.away.logo} style={{ width: '24px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
-                                                     <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal' }}>{m.teams.away.name || 'Por definir'}</span>
+                                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                                                     <img src={m.teams.away.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} />
+                                                     <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.away.name || 'A definir'}</span>
                                                   </div>
-                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px' }}>{m.goals.away ?? '-'}</span>
+                                                  <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.9rem' }}>{m.goals.away ?? '-'}</span>
                                                </div>
 
                                             </div>
                                          ))}
+
+                                         {roundName === 'Final' && matches.length === 1 && (
+                                              </div>
+                                         )}
                                       </div>
-                                   </div>
-                               )
-                           })}
+                                  )
+                              })}
+                           </div>
                         </div>
                      </div>
                   )}
