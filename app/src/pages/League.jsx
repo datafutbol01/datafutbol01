@@ -420,45 +420,114 @@ export default function League() {
                                       <div key={roundName} style={{ display: 'flex', flexDirection: 'column', width: colIndex === 3 ? '320px' : '260px', gap: '1rem', justifyContent: 'space-around' }}>
                                          <h4 style={{ color: 'var(--accent-gold)', marginBottom: '0.5rem', fontSize: '0.9rem', textAlign: 'center', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '1px' }}>{roundName.replace('-', ' ')}</h4>
                                          
-                                         {matches.map(m => {
-                                            const displayDate = (m.fixture.date === 'placeholder' || !m.fixture.date.includes('-')) 
-                                                ? (m.fixture.date === 'placeholder' ? 'Por definir' : m.fixture.date) 
-                                                : new Date(m.fixture.date).toLocaleDateString();
+                                         {(() => {
+                                            const ties = {};
+                                            matches.forEach(m => {
+                                               const homeId = m.teams.home.id || m.teams.home.name;
+                                               const awayId = m.teams.away.id || m.teams.away.name;
+                                               const key = [String(homeId), String(awayId)].sort().join('-');
+                                               if (!ties[key]) ties[key] = [];
+                                               ties[key].push(m);
+                                            });
 
-                                            return (
-                                                <div key={m.fixture.id} style={{ flex: roundName === 'Final' && matches.length === 1 ? 1 : 'none', display: 'flex', flexDirection: 'column', justifyContent: roundName === 'Final' ? 'center' : 'flex-start' }}>
+                                            // Sort and map each tie into a single Global Match Component
+                                            const groupedMatches = Object.values(ties).map(matchList => {
+                                                matchList.sort((a, b) => new Date(a.fixture.date) - new Date(b.fixture.date));
+                                                const ida = matchList[0];
+                                                const vuelta = matchList.length > 1 ? matchList[1] : null;
+
+                                                const isPlaceholder = ida.fixture.date === 'placeholder' || !ida.fixture.date.includes('-');
+                                                
+                                                if (isPlaceholder) {
+                                                    return {
+                                                        id: ida.fixture.id,
+                                                        home: ida.teams.home, away: ida.teams.away,
+                                                        homeGoals: '-', awayGoals: '-',
+                                                        homeWinner: false, awayWinner: false,
+                                                        subtext: (ida.fixture.date === 'placeholder' ? 'Por definir' : ida.fixture.date) + ' · ' + (ida.fixture.venue?.name || 'A definir')
+                                                    };
+                                                }
+
+                                                const isPlayedIda = ida.fixture.status.short !== 'NS' && ida.fixture.status.short !== 'TBD';
+                                                const isPlayedVuelta = vuelta ? (vuelta.fixture.status.short !== 'NS' && vuelta.fixture.status.short !== 'TBD') : false;
+
+                                                let hG = isPlayedIda ? (ida.goals.home ?? 0) : '-';
+                                                let aG = isPlayedIda ? (ida.goals.away ?? 0) : '-';
+                                                
+                                                if (vuelta && isPlayedVuelta && hG !== '-') {
+                                                    hG += (vuelta.goals.away ?? 0);
+                                                    aG += (vuelta.goals.home ?? 0);
+                                                }
+
+                                                let hP = isPlayedIda ? ida.score?.penalty?.home : null;
+                                                let aP = isPlayedIda ? ida.score?.penalty?.away : null;
+                                                if (vuelta && isPlayedVuelta && vuelta.score?.penalty?.home != null) {
+                                                    aP = vuelta.score.penalty.home;
+                                                    hP = vuelta.score.penalty.away;
+                                                }
+
+                                                let subtext = '';
+                                                if (isPlayedIda && !isPlayedVuelta && vuelta) {
+                                                    subtext = `Ida: ${ida.goals.home}-${ida.goals.away} | Vta: ${new Date(vuelta.fixture.date).toLocaleDateString()}`;
+                                                } else if (isPlayedIda && isPlayedVuelta) {
+                                                    subtext = `Ida: ${ida.goals.home}-${ida.goals.away} | Vta: ${vuelta.goals.away}-${vuelta.goals.home}`;
+                                                } else {
+                                                    subtext = `${new Date(ida.fixture.date).toLocaleDateString()} · ${ida.fixture.venue?.name || 'A definir'}`;
+                                                }
+
+                                                let hW = false; let aW = false;
+                                                if (hG !== '-' && aG !== '-') {
+                                                    if (hG > aG) hW = true;
+                                                    else if (aG > hG) aW = true;
+                                                    else if (hP != null && aP != null) {
+                                                        hW = hP > aP; aW = aP > hP;
+                                                    } else {
+                                                        hW = vuelta ? vuelta.teams.away.winner : ida.teams.home.winner;
+                                                        aW = vuelta ? vuelta.teams.home.winner : ida.teams.away.winner;
+                                                    }
+                                                }
+
+                                                return {
+                                                    id: ida.fixture.id, home: ida.teams.home, away: ida.teams.away,
+                                                    homeGoals: hG, awayGoals: aG, homePen: hP, awayPen: aP,
+                                                    homeWinner: hW === true, awayWinner: aW === true, subtext
+                                                };
+                                            });
+
+                                            return groupedMatches.map((gm) => (
+                                                <div key={gm.id} style={{ flex: roundName === 'Final' && groupedMatches.length === 1 ? 1 : 'none', display: 'flex', flexDirection: 'column', justifyContent: roundName === 'Final' ? 'center' : 'flex-start' }}>
                                                    <div style={{ display: 'flex', flexDirection: 'column', background: roundName === 'Final' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.03)', padding: '1rem', borderRadius: '8px', border: roundName === 'Final' ? '2px solid var(--accent-gold)' : '1px solid rgba(255,255,255,0.05)' }}>
                                                       
-                                                      <div style={{ fontSize: '0.7rem', color: 'var(--accent-gold)', marginBottom: '0.8rem', textAlign: 'center', opacity: 0.8, textTransform: 'uppercase' }}>
-                                                         {displayDate} · {m.fixture.venue?.name || 'A definir'}
+                                                      <div style={{ fontSize: '0.65rem', color: 'var(--accent-gold)', marginBottom: '0.8rem', textAlign: 'center', opacity: 0.8, textTransform: 'uppercase', fontWeight: groupedMatches.length === 1 ? 'normal' : 'bold' }}>
+                                                         {gm.subtext}
                                                       </div>
 
                                                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
                                                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                                                            {m.teams.home.logo ? <img src={m.teams.home.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
-                                                            <span style={{ color: m.teams.home.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.home.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.home.name || 'A definir'}</span>
+                                                            {gm.home.logo ? <img src={gm.home.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
+                                                            <span style={{ color: gm.homeWinner ? 'white' : 'var(--text-muted)', fontWeight: gm.homeWinner ? 'bold' : 'normal', fontSize: '0.9rem' }}>{gm.home.name || 'A definir'}</span>
                                                          </div>
-                                                         <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.home.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
-                                                             {m.goals.home ?? '-'}
-                                                             {m.score?.penalty?.home != null ? ` (p.${m.score.penalty.home})` : ''}
+                                                         <span style={{ fontWeight: 'bold', color: 'white', background: gm.homeWinner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
+                                                             {gm.homeGoals}
+                                                             {gm.homePen != null ? ` (p.${gm.homePen})` : ''}
                                                          </span>
                                                       </div>
 
                                                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                                                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                                                            {m.teams.away.logo ? <img src={m.teams.away.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
-                                                            <span style={{ color: m.teams.away.winner ? 'white' : 'var(--text-muted)', fontWeight: m.teams.away.winner === true ? 'bold' : 'normal', fontSize: '0.9rem' }}>{m.teams.away.name || 'A definir'}</span>
+                                                            {gm.away.logo ? <img src={gm.away.logo} style={{ width: '20px' }} alt="" onError={(e) => e.target.style.display = 'none'} /> : <div style={{width:'20px'}} />}
+                                                            <span style={{ color: gm.awayWinner ? 'white' : 'var(--text-muted)', fontWeight: gm.awayWinner ? 'bold' : 'normal', fontSize: '0.9rem' }}>{gm.away.name || 'A definir'}</span>
                                                          </div>
-                                                         <span style={{ fontWeight: 'bold', color: 'white', background: m.teams.away.winner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
-                                                             {m.goals.away ?? '-'}
-                                                             {m.score?.penalty?.away != null ? ` (p.${m.score.penalty.away})` : ''}
+                                                         <span style={{ fontWeight: 'bold', color: 'white', background: gm.awayWinner ? '#4ade80' : 'rgba(255,255,255,0.1)', padding: '0.1rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', whiteSpace: 'nowrap' }}>
+                                                             {gm.awayGoals}
+                                                             {gm.awayPen != null ? ` (p.${gm.awayPen})` : ''}
                                                          </span>
                                                       </div>
 
                                                    </div>
                                                 </div>
-                                            )
-                                         })}
+                                            ));
+                                         })()}
                                       </div>
                                   )
                               })}
