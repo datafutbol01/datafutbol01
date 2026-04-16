@@ -30,7 +30,7 @@ export default function League() {
   const [loadingStandings, setLoadingStandings] = useState(false);
   
   // STATS: Goleadores, Asistencias, etc.
-  const [statsData, setStatsData] = useState({ scorers: null, assists: null });
+  const [statsData, setStatsData] = useState({ scorers: null, assists: null, yellows: null, reds: null });
   const [loadingStats, setLoadingStats] = useState(false);
 
   useEffect(() => {
@@ -60,17 +60,21 @@ export default function League() {
            // Traemos también las STATS
            setLoadingStats(true);
            if (isLocal) {
-               const [scorersRes, assistsRes] = await Promise.all([
+               const [scorersRes, assistsRes, yellowRes, redRes] = await Promise.all([
                   fetch(`https://v3.football.api-sports.io/players/topscorers?league=${apiId}&season=${season}`, { headers }),
-                  fetch(`https://v3.football.api-sports.io/players/topassists?league=${apiId}&season=${season}`, { headers })
+                  fetch(`https://v3.football.api-sports.io/players/topassists?league=${apiId}&season=${season}`, { headers }),
+                  fetch(`https://v3.football.api-sports.io/players/topyellowcards?league=${apiId}&season=${season}`, { headers }),
+                  fetch(`https://v3.football.api-sports.io/players/topredcards?league=${apiId}&season=${season}`, { headers })
                ]);
                const scorersData = await scorersRes.json();
                const assistsData = await assistsRes.json();
-               setStatsData({ scorers: scorersData.response || [], assists: assistsData.response || [] });
+               const yellowData = await yellowRes.json();
+               const redData = await redRes.json();
+               setStatsData({ scorers: scorersData.response || [], assists: assistsData.response || [], yellows: yellowData.response || [], reds: redData.response || [] });
            } else {
                const statsRes = await fetch(`/api/stats?league=${apiId}&season=${season}`);
                const statsJson = await statsRes.json();
-               setStatsData({ scorers: statsJson.scorers || [], assists: statsJson.assists || [] });
+               setStatsData({ scorers: statsJson.scorers || [], assists: statsJson.assists || [], yellows: statsJson.yellows || [], reds: statsJson.reds || [] });
            }
            setLoadingStats(false);
            
@@ -453,22 +457,47 @@ export default function League() {
                       </div>
                   </div>
 
-                  {/* Panel Indisciplina */}
+                  {/* Panel Amarillas */}
                   <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
-                      <h4 style={{ color: '#ef4444', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                         🟥 Rojas & Amarillas
+                      <h4 style={{ color: '#facc15', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                         🟨 Amarillas
                       </h4>
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
-                         {[1,2,3,4].map(i => (
-                           <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
-                              <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <span style={{ color: 'white' }}>Nombre del Defensor</span>
-                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Club</span>
+                         {loadingStats && <div style={{ color: 'var(--text-muted)' }}>Cargando amonestados...</div>}
+                         {!loadingStats && statsData.yellows?.length === 0 && <div style={{ color: 'var(--text-muted)' }}>Sin datos.</div>}
+                         {statsData.yellows?.slice(0, 10).map((item, idx) => (
+                           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                <img src={item.player.photo} style={{ width: '35px', height: '35px', borderRadius: '50%', objectFit: 'cover' }} alt=""/>
+                                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                  <span style={{ color: 'white' }}>{item.player.name}</span>
+                                  <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{item.statistics[0].team.name}</span>
+                                </div>
                               </div>
-                              <div style={{ display: 'flex', gap: '0.5rem' }}>
-                                 <div style={{ background: '#facc15', color: 'black', padding: '0.1rem 0.4rem', borderRadius: '4px', fontWeight: 'bold', fontSize: '0.8rem' }}>{5 + i}</div>
-                                 <div style={{ background: '#ef4444', color: 'white', padding: '0.1rem 0.4rem', borderRadius: '4px', fontWeight: 'bold', fontSize: '0.8rem' }}>{2}</div>
+                              <span style={{ fontWeight: 'bold', color: 'black', background: '#facc15', padding: '0.2rem 0.6rem', borderRadius: '4px', fontSize: '1rem' }}>{item.statistics[0].cards.yellow}</span>
+                           </div>
+                         ))}
+                      </div>
+                  </div>
+
+                  {/* Panel Rojas */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
+                      <h4 style={{ color: '#ef4444', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                         🟥 Rojas Negras
+                      </h4>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                         {loadingStats && <div style={{ color: 'var(--text-muted)' }}>Cargando expulsados...</div>}
+                         {!loadingStats && statsData.reds?.length === 0 && <div style={{ color: 'var(--text-muted)' }}>Sin datos.</div>}
+                         {statsData.reds?.slice(0, 10).map((item, idx) => (
+                           <div key={idx} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem' }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                                <img src={item.player.photo} style={{ width: '35px', height: '35px', borderRadius: '50%', objectFit: 'cover' }} alt=""/>
+                                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                  <span style={{ color: 'white' }}>{item.player.name}</span>
+                                  <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{item.statistics[0].team.name}</span>
+                                </div>
                               </div>
+                              <span style={{ fontWeight: 'bold', color: 'white', background: '#ef4444', padding: '0.2rem 0.6rem', borderRadius: '4px', fontSize: '1rem' }}>{item.statistics[0].cards.red}</span>
                            </div>
                          ))}
                       </div>

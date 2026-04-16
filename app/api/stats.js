@@ -9,22 +9,27 @@ export default async function handler(req, res) {
   };
 
   try {
-    // Pedimos los Goleadores y Asistidores EN PARALELO a la API.
-    const [scorersRes, assistsRes] = await Promise.all([
+    // Pedimos TODAS las estadísticas en PARALELO para ahorrar tiempo al usuario.
+    const [scorersRes, assistsRes, yellowRes, redRes] = await Promise.all([
       fetch(`https://v3.football.api-sports.io/players/topscorers?league=${league}&season=${season}`, { headers }),
       fetch(`https://v3.football.api-sports.io/players/topassists?league=${league}&season=${season}`, { headers }),
+      fetch(`https://v3.football.api-sports.io/players/topyellowcards?league=${league}&season=${season}`, { headers }),
+      fetch(`https://v3.football.api-sports.io/players/topredcards?league=${league}&season=${season}`, { headers }),
     ]);
 
     const scorersData = await scorersRes.json();
     const assistsData = await assistsRes.json();
+    const yellowData = await yellowRes.json();
+    const redData = await redRes.json();
     
     // Las estadísticas en Vercel se van a guardar al menos 4 HORAS en memoria caché
-    // (Son datos pesados y no hace falta pedirlos minuto a minuto).
     res.setHeader('Cache-Control', 's-maxage=14400, stale-while-revalidate=1200');
     
     res.status(200).json({
        scorers: scorersData.response || [],
-       assists: assistsData.response || []
+       assists: assistsData.response || [],
+       yellows: yellowData.response || [],
+       reds: redData.response || []
     });
 
   } catch (error) {
