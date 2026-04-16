@@ -63,10 +63,19 @@ export default function LiveScoresHub() {
                 const status = match.fixture.status.short;
                 const elapsed = match.fixture.status.elapsed;
                 
-                // Formatear el tiempo de juego (minuto) o el status de la app
-                const timeStr = (status === '1H' || status === '2H' || status === 'HT' || status === 'ET') 
-                                ? (elapsed ? elapsed + "'" : status) 
-                                : status;
+                // Formateo Premium de Estados (Hora, Minuto en Vivo, o Traducidos)
+                let timeStr = status;
+                if (["1H", "2H", "HT", "ET", "P", "LIVE"].includes(status)) {
+                    timeStr = elapsed ? elapsed + "'" : (status === "HT" ? "ET" : status); // ET = Entretiempo
+                } else if (status === "NS" || status === "TBD") {
+                    const matchDate = new Date(match.fixture.date);
+                    // Convierte la zona horaria al huso horario local de la persona que mira
+                    timeStr = matchDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                } else if (["FT", "AET", "PEN"].includes(status)) {
+                    timeStr = "FIN";
+                } else if (["CANC", "SUSP", "PST", "ABD"].includes(status)) {
+                    timeStr = "SUSP";
+                }
 
                 // Está jugando ahora mismo?
                 const isLive = ["1H", "2H", "HT", "ET", "P", "LIVE"].includes(status);
