@@ -13,9 +13,11 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 5000000
       },
       manifest: {
+        id: '/',
+        start_url: '/',
         name: 'DataFútbol',
         short_name: 'DataFútbol',
-        description: 'La Enciclopedia Histórica Definitiva del Fútbol y Resultados en Vivo',
+        description: 'Explorá el archivo definitivo del fútbol. Historiales (H2H), leyendas, y campeones desde la era amateur hasta hoy.',
         theme_color: '#020617',
         background_color: '#020617',
         display: 'standalone',
