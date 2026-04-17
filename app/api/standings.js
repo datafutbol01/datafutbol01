@@ -13,9 +13,9 @@ export default async function handler(req, res) {
 
     const data = await apiRes.json();
     
-    // La tabla de posiciones cambia poco, así que la Bóveda la guarda en RAM durante 2 HORAS (7200s)
-    // Cuando alguien la pida pasada las 2hs, devuelve la vieja rápido mientras baja la nueva por atrás.
-    res.setHeader('Cache-Control', 's-maxage=7200, stale-while-revalidate=600');
+    // La tabla de posiciones cambia seguido, así que achicamos la bóveda a 2 MINUTOS (120s)
+    // Cuando alguien la pida pasados los 2min, devuelve la vieja rápido mientras baja la nueva por atrás.
+    res.setHeader('Cache-Control', 's-maxage=120, stale-while-revalidate=60');
     res.status(200).json(data);
 
   } catch (error) {

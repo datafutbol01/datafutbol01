@@ -13,8 +13,8 @@ export default async function handler(req, res) {
 
     const data = await apiRes.json();
     
-    // Guardamos el cuadro entero del fixture por 2 HORAS.
-    res.setHeader('Cache-Control', 's-maxage=7200, stale-while-revalidate=600');
+    // Guardamos el cuadro entero del fixture por 2 MINUTOS.
+    res.setHeader('Cache-Control', 's-maxage=120, stale-while-revalidate=60');
     res.status(200).json(data);
 
   } catch (error) {

@@ -22,8 +22,8 @@ export default async function handler(req, res) {
     const yellowData = await yellowRes.json();
     const redData = await redRes.json();
     
-    // Las estadísticas en Vercel se van a guardar al menos 4 HORAS en memoria caché
-    res.setHeader('Cache-Control', 's-maxage=14400, stale-while-revalidate=1200');
+    // Las estadísticas en Vercel se van a guardar al menos 5 MINUTOS en memoria caché
+    res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=120');
     
     res.status(200).json({
        scorers: scorersData.response || [],
