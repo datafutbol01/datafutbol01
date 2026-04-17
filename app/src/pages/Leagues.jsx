@@ -5,7 +5,7 @@ import { ArrowLeft } from 'lucide-react';
 import { getLeagues } from '../data/loader';
 
 export default function Leagues() {
-  const leagues = getLeagues();
+  const leagues = getLeagues().filter(l => !l.isHidden);
   const [activeLeagueIdx, setActiveLeagueIdx] = useState(null);
   const activeLeague = activeLeagueIdx !== null ? leagues[activeLeagueIdx] : null;
   const navigate = useNavigate();

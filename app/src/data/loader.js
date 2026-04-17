@@ -18,11 +18,11 @@ export const getLeagues = () => {
     { id: 'alemania', name: 'Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: '/escudos/bundesliga_logo.png' },
     { id: 'francia', name: 'Ligue 1', country: 'Francia', flag: '', color: '#dae025', shield: '/escudos/ligue1_2024.png' },
     { id: 'escocia', name: 'Scottish Premiership', country: 'Escocia', flag: '', color: '#002868', shield: '/escudos/scottish_premiership_logo.png' },
-    { id: 'eng_league_one', name: 'EFL League One', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/41.png' },
-    { id: 'eng_league_two', name: 'EFL League Two', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/42.png' },
-    { id: 'arg_nacional_b', name: 'Primera Nacional', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/129.png' },
-    { id: 'arg_b_metro', name: 'Primera B Metropolitana', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/131.png' },
-    { id: 'arg_primera_c', name: 'Primera C', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/132.png' }
+    { id: 'eng_league_one', name: 'EFL League One', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/41.png', isHidden: true },
+    { id: 'eng_league_two', name: 'EFL League Two', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/42.png', isHidden: true },
+    { id: 'arg_nacional_b', name: 'Primera Nacional', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/129.png', isHidden: true },
+    { id: 'arg_b_metro', name: 'Primera B Metropolitana', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/131.png', isHidden: true },
+    { id: 'arg_primera_c', name: 'Primera C', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/132.png', isHidden: true }
   ];
 };
 
