@@ -648,7 +648,12 @@ export default function League() {
                       </div>
                       
                       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 450px), 1fr))', gap: '2rem', maxWidth: '1200px', margin: '0 auto', width: '100%' }}>
-                         {standingsData ? [...standingsData].sort((a,b) => {
+                         {standingsData ? [...standingsData].filter((g, i, arr) => {
+                             if (arr.some(og => og[0].group.toLowerCase().includes('championship') || og[0].group.toLowerCase().includes('relegation'))) {
+                                 return g[0].group.toLowerCase().includes('championship') || g[0].group.toLowerCase().includes('relegation');
+                             }
+                             return true;
+                         }).sort((a,b) => {
                              const rankA = a[0].group.includes('Group A') || a[0].group.includes('Zona A') ? 1 : 
                                            a[0].group.includes('Group B') || a[0].group.includes('Zona B') ? 2 : 
                                            a[0].group.includes('Anual') ? 3 : 
