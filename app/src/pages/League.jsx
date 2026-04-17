@@ -543,65 +543,7 @@ export default function League() {
                      </div>
                   )}
                   
-                  {/* Columna Grande: Tabla de Clasificación */}
-                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1' }}>
-                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
-                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación General</h3>
-                         <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
-                      </div>
-                      
-                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 450px), 1fr))', gap: '2rem', maxWidth: '1200px', margin: '0 auto', width: '100%' }}>
-                         {standingsData ? [...standingsData].sort((a,b) => {
-                             const rankA = a[0].group.includes('Group A') || a[0].group.includes('Zona A') ? 1 : 
-                                           a[0].group.includes('Group B') || a[0].group.includes('Zona B') ? 2 : 
-                                           a[0].group.includes('Anual') ? 3 : 
-                                           a[0].group.includes('Promedio') ? 4 : 5;
-                             const rankB = b[0].group.includes('Group A') || b[0].group.includes('Zona A') ? 1 : 
-                                           b[0].group.includes('Group B') || b[0].group.includes('Zona B') ? 2 : 
-                                           b[0].group.includes('Anual') ? 3 : 
-                                           b[0].group.includes('Promedio') ? 4 : 5;
-                             return rankA - rankB;
-                         }).map((group, gIdx) => (
-                           <div key={gIdx} style={{ background: 'rgba(0,0,0,0.2)', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.05)' }}>
-                               {standingsData.length > 1 && (
-                                   <div style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.8rem', textAlign: 'center', letterSpacing: '1px', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
-                                       {String(group[0].group).replace(/League phase/i, 'Fase de Liga').replace(/Group/gi, 'Grupo')}
-                                   </div>
-                               )}
-                               <div style={{ overflowX: 'auto' }}>
-                                   <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', minWidth: '400px' }}>
-                                      <thead>
-                                         <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem', background: 'rgba(255,255,255,0.02)' }}>
-                                            <th style={{ textAlign: 'left', padding: '0.8rem' }}>Equipo</th>
-                                            <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
-                                         </tr>
-                                      </thead>
-                                      <tbody>
-                                         {group.map((t) => (
-                                             <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
-                                                <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
-                                                   <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
-                                                   <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
-                                                   <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
-                                                </td>
-                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.played}</td>
-                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.win}</td>
-                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.draw}</td>
-                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.lose}</td>
-                                                <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.05rem' }}>{t.points}</td>
-                                             </tr>
-                                         ))}
-                                      </tbody>
-                                   </table>
-                               </div>
-                           </div>
-                         )) : (
-                           <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', width: '100%' }}>
-                              {loadingStandings ? 'Conectando túnel oficial y cargando posiciones reales mundiales...' : 'No disponible'}
-                           </div>
-                         )}
-                      </div>
-                  </div>
+
 
                   {/* Panel Goleadores */}
                   <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
@@ -696,6 +638,66 @@ export default function League() {
                   </div>
 
               </div>
+
+                  {/* Columna Grande: Tabla de Clasificación */}
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1', marginTop: '1rem' }}>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
+                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación General</h3>
+                         <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
+                      </div>
+                      
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 450px), 1fr))', gap: '2rem', maxWidth: '1200px', margin: '0 auto', width: '100%' }}>
+                         {standingsData ? [...standingsData].sort((a,b) => {
+                             const rankA = a[0].group.includes('Group A') || a[0].group.includes('Zona A') ? 1 : 
+                                           a[0].group.includes('Group B') || a[0].group.includes('Zona B') ? 2 : 
+                                           a[0].group.includes('Anual') ? 3 : 
+                                           a[0].group.includes('Promedio') ? 4 : 5;
+                             const rankB = b[0].group.includes('Group A') || b[0].group.includes('Zona A') ? 1 : 
+                                           b[0].group.includes('Group B') || b[0].group.includes('Zona B') ? 2 : 
+                                           b[0].group.includes('Anual') ? 3 : 
+                                           b[0].group.includes('Promedio') ? 4 : 5;
+                             return rankA - rankB;
+                         }).map((group, gIdx) => (
+                           <div key={gIdx} style={{ background: 'rgba(0,0,0,0.2)', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.05)' }}>
+                               {standingsData.length > 1 && (
+                                   <div style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.8rem', textAlign: 'center', letterSpacing: '1px', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+                                       {String(group[0].group).replace(/League phase/i, 'Fase de Liga').replace(/Group/gi, 'Grupo')}
+                                   </div>
+                               )}
+                               <div style={{ overflowX: 'auto' }}>
+                                   <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', minWidth: '400px' }}>
+                                      <thead>
+                                         <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem', background: 'rgba(255,255,255,0.02)' }}>
+                                            <th style={{ textAlign: 'left', padding: '0.8rem' }}>Equipo</th>
+                                            <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
+                                         </tr>
+                                      </thead>
+                                      <tbody>
+                                         {group.map((t) => (
+                                             <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
+                                                <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
+                                                   <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
+                                                   <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
+                                                   <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
+                                                </td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.played}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.win}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.draw}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.lose}</td>
+                                                <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.05rem' }}>{t.points}</td>
+                                             </tr>
+                                         ))}
+                                      </tbody>
+                                   </table>
+                               </div>
+                           </div>
+                         )) : (
+                           <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', width: '100%' }}>
+                              {loadingStandings ? 'Conectando túnel oficial y cargando posiciones reales mundiales...' : 'No disponible'}
+                           </div>
+                         )}
+                      </div>
+                  </div>
           </motion.div>
         )}
 
