@@ -31,7 +31,10 @@ export default function League() {
     'libertadores': 13,
     'sudamericana': 11,
     'eng_league_one': 41,
-    'eng_league_two': 42
+    'eng_league_two': 42,
+    'arg_nacional_b': 129,
+    'arg_b_metro': 131,
+    'arg_primera_c': 132
   };
   const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
 
@@ -51,7 +54,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'libertadores', 'sudamericana'].includes(leagueId) ? 2026 : 2025; // Sudamérica usa año calendario.
+           const season = ['argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c'].includes(leagueId) ? 2026 : 2025; // Sudamérica usa año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {

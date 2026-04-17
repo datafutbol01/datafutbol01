@@ -25,7 +25,10 @@ export default function LiveScoresHub() {
     13: 'libertadores',
     11: 'sudamericana',
     41: 'eng_league_one',
-    42: 'eng_league_two'
+    42: 'eng_league_two',
+    129: 'arg_nacional_b',
+    131: 'arg_b_metro',
+    132: 'arg_primera_c'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono
