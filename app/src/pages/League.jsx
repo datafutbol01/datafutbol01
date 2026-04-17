@@ -550,8 +550,18 @@ export default function League() {
                          <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
                       </div>
                       
-                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '2rem' }}>
-                         {standingsData ? standingsData.map((group, gIdx) => (
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 450px), 1fr))', gap: '2rem', maxWidth: '1200px', margin: '0 auto', width: '100%' }}>
+                         {standingsData ? [...standingsData].sort((a,b) => {
+                             const rankA = a[0].group.includes('Group A') || a[0].group.includes('Zona A') ? 1 : 
+                                           a[0].group.includes('Group B') || a[0].group.includes('Zona B') ? 2 : 
+                                           a[0].group.includes('Anual') ? 3 : 
+                                           a[0].group.includes('Promedio') ? 4 : 5;
+                             const rankB = b[0].group.includes('Group A') || b[0].group.includes('Zona A') ? 1 : 
+                                           b[0].group.includes('Group B') || b[0].group.includes('Zona B') ? 2 : 
+                                           b[0].group.includes('Anual') ? 3 : 
+                                           b[0].group.includes('Promedio') ? 4 : 5;
+                             return rankA - rankB;
+                         }).map((group, gIdx) => (
                            <div key={gIdx} style={{ background: 'rgba(0,0,0,0.2)', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.05)' }}>
                                {standingsData.length > 1 && (
                                    <div style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.8rem', textAlign: 'center', letterSpacing: '1px', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
