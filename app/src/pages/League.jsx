@@ -386,7 +386,7 @@ export default function League() {
                  <p style={{ color: 'var(--text-muted)' }}>Los datos de clasificación y estadísticas se conectarán a la API externa de fútbol en vivo.</p>
               </div>
 
-              <div style={{ display: 'flex', flexDirection: ['libertadores', 'sudamericana'].includes(leagueId) ? 'column-reverse' : 'column', gap: '2rem' }}>
+              <div style={{ display: 'flex', flexDirection: ['libertadores', 'sudamericana', 'eng_league_one'].includes(leagueId) ? 'column-reverse' : 'column', gap: '2rem' }}>
                   {/* Layout tipo Dashboard */}
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
                   
