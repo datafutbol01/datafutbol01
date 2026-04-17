@@ -11,6 +11,7 @@
     ]
   },
   "datos": {
+    "escudo_actual": "/escudos/argentina/aldosivi/CA_Aldosivi.svg",
     "nombre_completo": "Club Atlético Aldosivi",
     "sigla": "CAA",
     "fundacion": "29 de marzo de 1913",
@@ -40,7 +41,12 @@
       "mas_presencias": "Pablo Campodónico (333 partidos)"
     }
   },
-  "evolucion_escudos": [],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/argentina/aldosivi/CA_Aldosivi.svg"
+    }
+  ],
   "historia": [
     {
       "ano": "1913",

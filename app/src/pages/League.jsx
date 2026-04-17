@@ -30,6 +30,17 @@ export default function League() {
     'conference': 848,
     'libertadores': 13,
     'sudamericana': 11,
+    'eng_championship': 40,
+    'fra_ligue_2': 62,
+    'ger_2_bundesliga': 79,
+    'por_primeira': 94,
+    'ita_serie_b': 136,
+    'esp_segunda': 141,
+    'col_primera': 239,
+    'usa_mls': 253,
+    'mex_liga_mx': 262,
+    'uru_primera': 268,
+    'per_primera': 281,
     'eng_league_one': 41,
     'eng_league_two': 42,
     'arg_nacional_b': 129,
@@ -54,7 +65,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c'].includes(leagueId) ? 2026 : 2025; // Sudamérica usa año calendario.
+           const season = ['argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uru_primera', 'per_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
@@ -386,7 +397,7 @@ export default function League() {
                  <p style={{ color: 'var(--text-muted)' }}>Los datos de clasificación y estadísticas se conectarán a la API externa de fútbol en vivo.</p>
               </div>
 
-              <div style={{ display: 'flex', flexDirection: 'column-reverse', gap: '2rem' }}>
+              <div style={{ display: 'flex', flexDirection: ['champions', 'europa_league', 'conference'].includes(leagueId) ? 'column' : 'column-reverse', gap: '2rem' }}>
                   {/* Layout tipo Dashboard */}
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
                   
@@ -618,7 +629,7 @@ export default function League() {
                   {/* Panel Rojas */}
                   <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px' }}>
                       <h4 style={{ color: '#ef4444', marginBottom: '1.2rem', fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                         🟥 Rojas Negras
+                         🟥 Rojas
                       </h4>
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
                          {loadingStats && <div style={{ color: 'var(--text-muted)' }}>Cargando expulsados...</div>}
@@ -1262,11 +1273,13 @@ export default function League() {
 
                               if (match) {
                                 let isBaseA = false;
-                                if (match.id) {
-                                   const parts = match.id.split('-');
-                                   isBaseA = selectedH2HTeamId.includes(parts[0]);
+                                if (match.id && match.id.includes('-vs-')) {
+                                   const pts = match.id.split('-vs-');
+                                   isBaseA = baseSlugs.includes(pts[0]);
                                 } else {
-                                   isBaseA = match.equipo_a === baseName;
+                                   const fBase = baseClub.datos?.nombre_completo || baseName;
+                                   const sBase = baseClub.datos?.nombre_corto || baseName;
+                                   isBaseA = match.equipo_a === fBase || match.equipo_a === sBase;
                                 }
                                 pg = isBaseA ? (match.victorias_a || 0) : (match.victorias_b || 0);
                                 pe = match.empates || 0;

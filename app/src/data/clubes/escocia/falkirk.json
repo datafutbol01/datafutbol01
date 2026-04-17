@@ -1,249 +1,257 @@
 {
-    "id": "falkirk",
-    "meta": {
-        "version": "1.0",
-        "last_update": "2026-04-14",
-        "author": "System"
+  "id": "falkirk",
+  "meta": {
+    "version": "1.0",
+    "last_update": "2026-04-14",
+    "author": "System"
+  },
+  "datos": {
+    "nombre_oficial": "Falkirk Football Club",
+    "nombre_completo": "Falkirk Football Club",
+    "nombre_corto": "Falkirk",
+    "fundacion": "1876",
+    "apodos": [
+      "The Bairns"
+    ],
+    "apodo": "The Bairns",
+    "estadio_actual": "Falkirk Stadium",
+    "estadio_capacidad": 7937,
+    "estadio_inauguracion": "2004",
+    "estadio_direccion": "4 Stadium Way, Falkirk FK2 9EE, Escocia",
+    "estadio_lat": 56.0028,
+    "estadio_lng": -3.7544,
+    "escudo_actual": "/escudos/escocia/falkirk/falkirk.svg",
+    "sigla": "FAL",
+    "socios": 5500,
+    "descripcion_corta": "Histórica institución de Stirlingshire, célebre por su inquebrantable resiliencia y su histórico bicampeonato absoluto en la Scottish Cup.",
+    "paleta": [
+      {
+        "tag": "Marino",
+        "hex": "#001B4B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Kenneth 'Pudsey' Dawson (271 goles)",
+      "mas_presencias": "Crawford Baptie (421 partidos)",
+      "mayor_goleada": "12-1 vs Laurieston (1889)"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1876",
+      "hito": "Génesis y Fundación en Stirlingshire",
+      "desc": "A fines del siglo XIX, la revolución industrial transformaba profundamente la región escocesa de Stirlingshire. Las primeras formaciones futbolísticas brotaban entre los trabajadores de la industria pesada y la emergente clase media. En 1876, un grupo de pioneros entusiastas formalizó la creación del Falkirk Football Club con el firme propósito de establecer una identidad representativa en la próspera ciudad. A través de sus primeras décadas, disputaron encuentros amistosos y torneos locales errando por míticos pero precarios terrenos como Hope Street y Randyford Park, antes de instalarse de manera definitiva en el histórico Brockville Park en 1885 y consolidarse institucionalmente al unirse oficialmente a la Scottish Football League a principios del siglo XX, en 1902."
     },
-    "datos": {
-        "nombre_oficial": "Falkirk Football Club",
-        "nombre_completo": "Falkirk Football Club",
-        "nombre_corto": "Falkirk",
-        "fundacion": "1876",
-        "apodos": [
-            "The Bairns"
-        ],
-        "apodo": "The Bairns",
-        "estadio_actual": "Falkirk Stadium",
-        "estadio_capacidad": 7937,
-        "estadio_inauguracion": "2004",
-        "estadio_direccion": "4 Stadium Way, Falkirk FK2 9EE, Escocia",
-        "estadio_lat": 56.0028,
-        "estadio_lng": -3.7544,
-        "escudo_actual": "/escudos/falkirk.svg",
-        "sigla": "FAL",
-        "socios": 5500,
-        "descripcion_corta": "Histórica institución de Stirlingshire, célebre por su inquebrantable resiliencia y su histórico bicampeonato absoluto en la Scottish Cup.",
-        "paleta": [
-            {
-                "tag": "Marino",
-                "hex": "#001B4B"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#FFFFFF"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Kenneth 'Pudsey' Dawson (271 goles)",
-            "mas_presencias": "Crawford Baptie (421 partidos)",
-            "mayor_goleada": "12-1 vs Laurieston (1889)"
-        }
+    {
+      "ano": "1913",
+      "hito": "La Primera Copa y la Era de Willie Nicol",
+      "desc": "Bajo las órdenes tácticas del visionario técnico Willie Nicol, el Falkirk construyó uno de sus planteles más formidables de la época pionera, hazaña que culminó majestuosamente en la conquista de la Scottish Cup. Ante un marco multitudinario en Celtic Park de Glasgow, vencieron de forma incontestable al Raith Rovers por 2-0, desatando festejos apoteósicos en su ciudad natal y demostrando vigorosamente el avance del fútbol periférico por encima de los hegemónicos escuadrones tradicionales."
     },
-    "historia": [
-        {
-            "ano": "1876",
-            "hito": "Génesis y Fundación en Stirlingshire",
-            "desc": "A fines del siglo XIX, la revolución industrial transformaba profundamente la región escocesa de Stirlingshire. Las primeras formaciones futbolísticas brotaban entre los trabajadores de la industria pesada y la emergente clase media. En 1876, un grupo de pioneros entusiastas formalizó la creación del Falkirk Football Club con el firme propósito de establecer una identidad representativa en la próspera ciudad. A través de sus primeras décadas, disputaron encuentros amistosos y torneos locales errando por míticos pero precarios terrenos como Hope Street y Randyford Park, antes de instalarse de manera definitiva en el histórico Brockville Park en 1885 y consolidarse institucionalmente al unirse oficialmente a la Scottish Football League a principios del siglo XX, en 1902."
-        },
-        {
-            "ano": "1913",
-            "hito": "La Primera Copa y la Era de Willie Nicol",
-            "desc": "Bajo las órdenes tácticas del visionario técnico Willie Nicol, el Falkirk construyó uno de sus planteles más formidables de la época pionera, hazaña que culminó majestuosamente en la conquista de la Scottish Cup. Ante un marco multitudinario en Celtic Park de Glasgow, vencieron de forma incontestable al Raith Rovers por 2-0, desatando festejos apoteósicos en su ciudad natal y demostrando vigorosamente el avance del fútbol periférico por encima de los hegemónicos escuadrones tradicionales."
-        },
-        {
-            "ano": "1957",
-            "hito": "La Gloria de la Segunda Scottish Cup",
-            "desc": "En un duro período de posguerra que exigió reconstrucciones deportivas masivas, el club vivió su otro gran pico de leyenda bajo la brillante y pragmática conducción técnica de Bob Shankly. En la finalísima de la Copa de Escocia disputada en Hampden Park, el Falkirk requirió de un reñido partido de desempate ('replay') para lograr despachar finalmente al fiero Kilmarnock por 2-1 gracias a un tanto de Doug Moran, grabando para siempre la segunda estrella de oro más importante en la vitrina de sus palmarés."
-        },
-        {
-            "ano": "2003-2004",
-            "hito": "El Adiós a Brockville y una Nueva Era",
-            "desc": "Condicionados severamente por los nuevos y estrictos estándares estructurales de asiento exigidos por la Scottish Premier League, la cúpula directiva tomó la drástica aunque necesaria decisión de demoler el vetusto e icónico Brockville Park, luego de aguantar 118 años ininterrumpidos sirviendo como su genuina e inexpugnable caldera futbolística. Para el año 2004 materializaron su forzoso progreso arquitectónico con la inauguración del ultra-moderno Falkirk Stadium, forzando desde los escombros una resiliencia innegociable frente al fútbol moderno."
-        },
-        {
-            "ano": "2024",
-            "hito": "Renacimiento Invicto y Regreso a la Cima",
-            "desc": "Luego de años transitando en las oscuras e implacables divisiones del ascenso escocés debido a problemas financieros coyunturales, The Bairns coronaron un retorno de leyenda planificado al milímetro por el estratega John McGlynn. Durante la temporada 2023-24 se proclamaron campeones absolutos cerrando su dura campaña liguera de manera completamente invicta. Tal hazaña inquebrantable les dotó de solvencia anímica para conseguir su sucesivo y rotundo pasaporte para reincorporarse a la actual Scottish Premiership, revitalizando por entero el orgullo de su hinchada."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Randyford Park",
-            "desde": "1876",
-            "hasta": "1885",
-            "direccion": "Grangemouth Rd, Falkirk, Escocia",
-            "lat": 56.0036,
-            "lng": -3.7663,
-            "obs": "Uno de los terrenos incipientes y pioneros donde el club de Stirlingshire forjó sus primeros partidos en los albores del amateurismo en pleno siglo XIX.",
-            "url": "https://maps.google.com/?q=56.0036,-3.7663"
-        },
-        {
-            "nombre": "Brockville Park",
-            "desde": "1885",
-            "hasta": "2003",
-            "direccion": "Hope Street, Falkirk FK1 5RY, Escocia",
-            "lat": 56.0030,
-            "lng": -3.7910,
-            "obs": "El legendario fortín del equipo durante 118 vibrantes años. Fue obligadamente demolido (actualmente existe un hipermercado en su lugar) por no cumplir con la ruda normativa oficial de asientos de la SPL.",
-            "url": "https://maps.google.com/?q=56.0030,-3.7910"
-        },
-        {
-            "nombre": "Falkirk Stadium",
-            "desde": "2004",
-            "hasta": "Presente",
-            "direccion": "4 Stadium Way, Falkirk FK2 9EE, Escocia",
-            "lat": 56.0028,
-            "lng": -3.7544,
-            "obs": "Estadio moderno de élite avalado firmemente para competiciones que marcó la monumental resurrección ejecutiva e institucional del equipo en el nuevo milenio.",
-            "url": "https://maps.google.com/?q=56.0028,-3.7544"
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": "1876",
-            "hasta": "1882",
-            "desc": "En los albores de su gestación, los primeros jugadores lucieron rústicas remeras conformadas por gruesas franjas horizontales alternadas trágicamente entre un rojo escarlata y el blanco rotundo.",
-            "c1": "#D30000",
-            "c2": "#FFFFFF",
-            "tipo": "rayas-horizontales",
-            "sh": "#FFFFFF",
-            "me": "#D30000"
-        },
-        {
-            "desde": "1882",
-            "hasta": "Presente",
-            "desc": "La gerencia transicionó tempranamente hacia la icónica identidad marina de los Bairns: el azul noche sobrio, adornado sutilmente con vivos blancos en pantalones y cuello, estableciendo una tradición inquebrantable.",
-            "c1": "#001B4B",
-            "c2": "#FFFFFF",
-            "tipo": "liso",
-            "sh": "#FFFFFF",
-            "me": "#001B4B"
-        }
-    ],
-    "titulos": [
-        {
-            "comp": "Scottish Cup",
-            "cantidad": 2,
-            "anios": ["1913", "1957"]
-        },
-        {
-            "comp": "Scottish Challenge Cup",
-            "cantidad": 4,
-            "anios": ["1993", "1997", "2004", "2012"]
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Kevin McAllister",
-            "periodo": "1983-2002",
-            "pos": "Mediocampista",
-            "desc": "Conductor ofensivo de extrema habilidad que deslumbró a la afición local durante tres diferentes etapas en la institución. Se consolidó firmemente como una de las figuras más desequilibrantes de todo el fútbol escocés de finales de siglo."
-        },
-        {
-            "nombre": "John White",
-            "periodo": "1957-1959",
-            "pos": "Mediocampista",
-            "desc": "Armador de juego que trazó destellos incalculables de técnica superior en Brockville Park. Aunque su estadía fue breve antes de ser transferido a Inglaterra, su visión periférica milimétrica lo elevó a mito de culto en la época de posguerra."
-        },
-        {
-            "nombre": "Russell Latapy",
-            "periodo": "2003-2009",
-            "pos": "Mediocampista",
-            "desc": "Experimentado volante central que revolucionó y profesionalizó el estilo de juego en el amanecer del nuevo estadio. Su jerarquía continental impregnó al esquema táctico de una calidad superior, orquestando resolutivamente el ascenso de regreso a la Premiership."
-        },
-        {
-            "nombre": "Alex Parker",
-            "periodo": "1952-1958",
-            "pos": "Defensor",
-            "desc": "Elegante y férreo lateral que ofició de muralla cimentando la época más gloriosa. Se coronó héroe perpetuo al comandar la conquista de la recordada Scottish Cup de 1957, rubricando un rendimiento que pronto lo llevó a la selección de Escocia."
-        },
-        {
-            "nombre": "Syd Puddefoot",
-            "periodo": "1922-1925",
-            "pos": "Delantero",
-            "desc": "Un fichaje que sacudió los pilares del fútbol de entreguerras. Al desembarcar en 1922 por un récord mundial de traspaso equivalente a 5.000 libras, este artillero arrastró consigo una fascinación y movilización de masas incomparable en la urbe escocesa."
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Kenneth Dawson",
-            "goles": 271,
-            "periodo": "1934-1950",
-            "partidos": 260,
-            "desc": "Atacante destacado en los registros del club. Convirtió un total de 271 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1950."
-        },
-        {
-            "nombre": "Alex McCrae",
-            "goles": 80,
-            "periodo": "1953-1957",
-            "partidos": 120,
-            "desc": "Atacante destacado en los registros del club. Convirtió un total de 80 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1957."
-        },
-        {
-            "nombre": "Jock Simpson",
-            "goles": 63,
-            "periodo": "1905-1911",
-            "partidos": 160,
-            "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 1905-1911."
-        },
-        {
-            "nombre": "Farid El Alagui",
-            "goles": 28,
-            "periodo": "2011-2012",
-            "partidos": 43,
-            "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2012."
-        },
-        {
-            "nombre": "Carl Finnigan",
-            "goles": 22,
-            "periodo": "2007-2011",
-            "partidos": 133,
-            "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2011."
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Crawford Baptie",
-            "partidos": 421,
-            "periodo": "1983-1993",
-            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 421 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1993."
-        },
-        {
-            "nombre": "John Mitchell",
-            "partidos": 401,
-            "periodo": "1966-1978",
-            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 401 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1978."
-        },
-        {
-            "nombre": "Bob Black",
-            "partidos": 395,
-            "periodo": "1954-1965",
-            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 395 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1965."
-        },
-        {
-            "nombre": "Jimmy McIntosh",
-            "partidos": 362,
-            "periodo": "1960-1970",
-            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1970."
-        },
-        {
-            "nombre": "Willie Rae",
-            "partidos": 333,
-            "periodo": "1960-1969",
-            "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 333 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1969."
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "The Bairns",
-            "origen": "El término proviene directamente del clásico proverbio cívico de la localidad: 'Better meddle wi' the deil than the Bairns o' Fa'kirk' (Es mejor meterse con el diablo que con los hijos de Falkirk). La palabra en dialecto escocés 'bairn' significa 'niño' o 'hijo', y la institución deportiva adoptó formalmente este antiguo lema que identificaba tradicional y popularmente a los ciudadanos burgueses de la urbe."
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/falkirk.svg"
-        }
-    ]
+    {
+      "ano": "1957",
+      "hito": "La Gloria de la Segunda Scottish Cup",
+      "desc": "En un duro período de posguerra que exigió reconstrucciones deportivas masivas, el club vivió su otro gran pico de leyenda bajo la brillante y pragmática conducción técnica de Bob Shankly. En la finalísima de la Copa de Escocia disputada en Hampden Park, el Falkirk requirió de un reñido partido de desempate ('replay') para lograr despachar finalmente al fiero Kilmarnock por 2-1 gracias a un tanto de Doug Moran, grabando para siempre la segunda estrella de oro más importante en la vitrina de sus palmarés."
+    },
+    {
+      "ano": "2003-2004",
+      "hito": "El Adiós a Brockville y una Nueva Era",
+      "desc": "Condicionados severamente por los nuevos y estrictos estándares estructurales de asiento exigidos por la Scottish Premier League, la cúpula directiva tomó la drástica aunque necesaria decisión de demoler el vetusto e icónico Brockville Park, luego de aguantar 118 años ininterrumpidos sirviendo como su genuina e inexpugnable caldera futbolística. Para el año 2004 materializaron su forzoso progreso arquitectónico con la inauguración del ultra-moderno Falkirk Stadium, forzando desde los escombros una resiliencia innegociable frente al fútbol moderno."
+    },
+    {
+      "ano": "2024",
+      "hito": "Renacimiento Invicto y Regreso a la Cima",
+      "desc": "Luego de años transitando en las oscuras e implacables divisiones del ascenso escocés debido a problemas financieros coyunturales, The Bairns coronaron un retorno de leyenda planificado al milímetro por el estratega John McGlynn. Durante la temporada 2023-24 se proclamaron campeones absolutos cerrando su dura campaña liguera de manera completamente invicta. Tal hazaña inquebrantable les dotó de solvencia anímica para conseguir su sucesivo y rotundo pasaporte para reincorporarse a la actual Scottish Premiership, revitalizando por entero el orgullo de su hinchada."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Randyford Park",
+      "desde": "1876",
+      "hasta": "1885",
+      "direccion": "Grangemouth Rd, Falkirk, Escocia",
+      "lat": 56.0036,
+      "lng": -3.7663,
+      "obs": "Uno de los terrenos incipientes y pioneros donde el club de Stirlingshire forjó sus primeros partidos en los albores del amateurismo en pleno siglo XIX.",
+      "url": "https://maps.google.com/?q=56.0036,-3.7663"
+    },
+    {
+      "nombre": "Brockville Park",
+      "desde": "1885",
+      "hasta": "2003",
+      "direccion": "Hope Street, Falkirk FK1 5RY, Escocia",
+      "lat": 56.003,
+      "lng": -3.791,
+      "obs": "El legendario fortín del equipo durante 118 vibrantes años. Fue obligadamente demolido (actualmente existe un hipermercado en su lugar) por no cumplir con la ruda normativa oficial de asientos de la SPL.",
+      "url": "https://maps.google.com/?q=56.0030,-3.7910"
+    },
+    {
+      "nombre": "Falkirk Stadium",
+      "desde": "2004",
+      "hasta": "Presente",
+      "direccion": "4 Stadium Way, Falkirk FK2 9EE, Escocia",
+      "lat": 56.0028,
+      "lng": -3.7544,
+      "obs": "Estadio moderno de élite avalado firmemente para competiciones que marcó la monumental resurrección ejecutiva e institucional del equipo en el nuevo milenio.",
+      "url": "https://maps.google.com/?q=56.0028,-3.7544"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1876",
+      "hasta": "1882",
+      "desc": "En los albores de su gestación, los primeros jugadores lucieron rústicas remeras conformadas por gruesas franjas horizontales alternadas trágicamente entre un rojo escarlata y el blanco rotundo.",
+      "c1": "#D30000",
+      "c2": "#FFFFFF",
+      "tipo": "rayas-horizontales",
+      "sh": "#FFFFFF",
+      "me": "#D30000"
+    },
+    {
+      "desde": "1882",
+      "hasta": "Presente",
+      "desc": "La gerencia transicionó tempranamente hacia la icónica identidad marina de los Bairns: el azul noche sobrio, adornado sutilmente con vivos blancos en pantalones y cuello, estableciendo una tradición inquebrantable.",
+      "c1": "#001B4B",
+      "c2": "#FFFFFF",
+      "tipo": "liso",
+      "sh": "#FFFFFF",
+      "me": "#001B4B"
+    }
+  ],
+  "titulos": [
+    {
+      "comp": "Scottish Cup",
+      "cantidad": 2,
+      "anios": [
+        "1913",
+        "1957"
+      ]
+    },
+    {
+      "comp": "Scottish Challenge Cup",
+      "cantidad": 4,
+      "anios": [
+        "1993",
+        "1997",
+        "2004",
+        "2012"
+      ]
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Kevin McAllister",
+      "periodo": "1983-2002",
+      "pos": "Mediocampista",
+      "desc": "Conductor ofensivo de extrema habilidad que deslumbró a la afición local durante tres diferentes etapas en la institución. Se consolidó firmemente como una de las figuras más desequilibrantes de todo el fútbol escocés de finales de siglo."
+    },
+    {
+      "nombre": "John White",
+      "periodo": "1957-1959",
+      "pos": "Mediocampista",
+      "desc": "Armador de juego que trazó destellos incalculables de técnica superior en Brockville Park. Aunque su estadía fue breve antes de ser transferido a Inglaterra, su visión periférica milimétrica lo elevó a mito de culto en la época de posguerra."
+    },
+    {
+      "nombre": "Russell Latapy",
+      "periodo": "2003-2009",
+      "pos": "Mediocampista",
+      "desc": "Experimentado volante central que revolucionó y profesionalizó el estilo de juego en el amanecer del nuevo estadio. Su jerarquía continental impregnó al esquema táctico de una calidad superior, orquestando resolutivamente el ascenso de regreso a la Premiership."
+    },
+    {
+      "nombre": "Alex Parker",
+      "periodo": "1952-1958",
+      "pos": "Defensor",
+      "desc": "Elegante y férreo lateral que ofició de muralla cimentando la época más gloriosa. Se coronó héroe perpetuo al comandar la conquista de la recordada Scottish Cup de 1957, rubricando un rendimiento que pronto lo llevó a la selección de Escocia."
+    },
+    {
+      "nombre": "Syd Puddefoot",
+      "periodo": "1922-1925",
+      "pos": "Delantero",
+      "desc": "Un fichaje que sacudió los pilares del fútbol de entreguerras. Al desembarcar en 1922 por un récord mundial de traspaso equivalente a 5.000 libras, este artillero arrastró consigo una fascinación y movilización de masas incomparable en la urbe escocesa."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Kenneth Dawson",
+      "goles": 271,
+      "periodo": "1934-1950",
+      "partidos": 260,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 271 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1950."
+    },
+    {
+      "nombre": "Alex McCrae",
+      "goles": 80,
+      "periodo": "1953-1957",
+      "partidos": 120,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 80 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1957."
+    },
+    {
+      "nombre": "Jock Simpson",
+      "goles": 63,
+      "periodo": "1905-1911",
+      "partidos": 160,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 1905-1911."
+    },
+    {
+      "nombre": "Farid El Alagui",
+      "goles": 28,
+      "periodo": "2011-2012",
+      "partidos": 43,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2012."
+    },
+    {
+      "nombre": "Carl Finnigan",
+      "goles": 22,
+      "periodo": "2007-2011",
+      "partidos": 133,
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2007-2011."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Crawford Baptie",
+      "partidos": 421,
+      "periodo": "1983-1993",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 421 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1993."
+    },
+    {
+      "nombre": "John Mitchell",
+      "partidos": 401,
+      "periodo": "1966-1978",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 401 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1978."
+    },
+    {
+      "nombre": "Bob Black",
+      "partidos": 395,
+      "periodo": "1954-1965",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 395 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1965."
+    },
+    {
+      "nombre": "Jimmy McIntosh",
+      "partidos": 362,
+      "periodo": "1960-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1970."
+    },
+    {
+      "nombre": "Willie Rae",
+      "partidos": 333,
+      "periodo": "1960-1969",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 333 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1969."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "The Bairns",
+      "origen": "El término proviene directamente del clásico proverbio cívico de la localidad: 'Better meddle wi' the deil than the Bairns o' Fa'kirk' (Es mejor meterse con el diablo que con los hijos de Falkirk). La palabra en dialecto escocés 'bairn' significa 'niño' o 'hijo', y la institución deportiva adoptó formalmente este antiguo lema que identificaba tradicional y popularmente a los ciudadanos burgueses de la urbe."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/escocia/falkirk/falkirk.svg"
+    }
+  ]
 }
