@@ -386,8 +386,9 @@ export default function League() {
                  <p style={{ color: 'var(--text-muted)' }}>Los datos de clasificación y estadísticas se conectarán a la API externa de fútbol en vivo.</p>
               </div>
 
-              {/* Layout tipo Dashboard */}
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
+              <div style={{ display: 'flex', flexDirection: ['libertadores', 'sudamericana'].includes(leagueId) ? 'column-reverse' : 'column', gap: '2rem' }}>
+                  {/* Layout tipo Dashboard */}
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'start' }}>
                   
                   {/* Cuadro de Llaves (Si es Copa Europea) */}
                   {isCup && knockoutData && knockoutData.length > 0 && (
@@ -640,9 +641,9 @@ export default function League() {
               </div>
 
                   {/* Columna Grande: Tabla de Clasificación */}
-                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1', marginTop: '1rem' }}>
+                  <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1' }}>
                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
-                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación General</h3>
+                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación</h3>
                          <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
                       </div>
                       
@@ -698,6 +699,7 @@ export default function League() {
                          )}
                       </div>
                   </div>
+              </div>
           </motion.div>
         )}
 
