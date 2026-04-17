@@ -550,45 +550,46 @@ export default function League() {
                          <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
                       </div>
                       
-                      <div style={{ overflowX: 'auto' }}>
-                        <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', minWidth: '500px' }}>
-                           <thead>
-                              <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem' }}>
-                                 <th style={{ textAlign: 'left', padding: '0.5rem' }}>Equipo</th>
-                                 <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
-                              </tr>
-                           </thead>
-                           {standingsData ? standingsData.map((group, gIdx) => (
-                             <tbody key={gIdx}>
-                                {standingsData.length > 1 && group.length > 0 && (
-                                   <tr>
-                                      <td colSpan="6" style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.6rem', textAlign: 'center', letterSpacing: '1px' }}>
-                                         {String(group[0].group).replace(/League phase/i, 'Fase de Liga').replace(/Group/gi, 'Grupo')}
-                                      </td>
-                                   </tr>
-                                )}
-                                {group.map((t) => (
-                                    <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
-                                       <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
-                                          <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
-                                          <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} />
-                                          <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
-                                       </td>
-                                       <td>{t.all.played}</td><td>{t.all.win}</td><td>{t.all.draw}</td><td>{t.all.lose}</td>
-                                       <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)' }}>{t.points}</td>
-                                    </tr>
-                                ))}
-                             </tbody>
-                           )) : (
-                             <tbody>
-                               <tr>
-                                  <td colSpan="6" style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)' }}>
-                                     {loadingStandings ? 'Conectando túnel oficial y cargando posiciones reales mundiales...' : 'No disponible'}
-                                  </td>
-                               </tr>
-                             </tbody>
-                           )}
-                        </table>
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '2rem' }}>
+                         {standingsData ? standingsData.map((group, gIdx) => (
+                           <div key={gIdx} style={{ background: 'rgba(0,0,0,0.2)', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.05)' }}>
+                               {standingsData.length > 1 && (
+                                   <div style={{ background: 'rgba(255,255,255,0.08)', color: 'var(--accent-gold)', fontWeight: 'bold', padding: '0.8rem', textAlign: 'center', letterSpacing: '1px', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
+                                       {String(group[0].group).replace(/League phase/i, 'Fase de Liga').replace(/Group/gi, 'Grupo')}
+                                   </div>
+                               )}
+                               <div style={{ overflowX: 'auto' }}>
+                                   <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', minWidth: '400px' }}>
+                                      <thead>
+                                         <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem', background: 'rgba(255,255,255,0.02)' }}>
+                                            <th style={{ textAlign: 'left', padding: '0.8rem' }}>Equipo</th>
+                                            <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
+                                         </tr>
+                                      </thead>
+                                      <tbody>
+                                         {group.map((t) => (
+                                             <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
+                                                <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
+                                                   <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
+                                                   <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
+                                                   <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
+                                                </td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.played}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.win}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.draw}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.all.lose}</td>
+                                                <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.05rem' }}>{t.points}</td>
+                                             </tr>
+                                         ))}
+                                      </tbody>
+                                   </table>
+                               </div>
+                           </div>
+                         )) : (
+                           <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', width: '100%' }}>
+                              {loadingStandings ? 'Conectando túnel oficial y cargando posiciones reales mundiales...' : 'No disponible'}
+                           </div>
+                         )}
                       </div>
                   </div>
 
