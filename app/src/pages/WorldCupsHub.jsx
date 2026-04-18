@@ -416,6 +416,18 @@ export default function WorldCupsHub() {
                                                                 <div style={{ background: 'rgba(0,0,0,0.4)', padding: '0.8rem 1rem', width: '50px', textAlign: 'center', color: 'var(--accent-gold)', fontWeight: '900', fontSize: '1.2rem', borderRight: '1px solid rgba(255,255,255,0.05)' }}>
                                                                     {player.no}
                                                                 </div>
+                                                                
+                                                                <div style={{ paddingLeft: '1rem', display: 'flex', alignItems: 'center' }}>
+                                                                    <div style={{ width: '36px', height: '36px', borderRadius: '50%', overflow: 'hidden', background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                                                                        <img 
+                                                                            src={player.foto || "https://media.api-sports.io/football/players/placeholder.png"} 
+                                                                            alt={player.name} 
+                                                                            style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
+                                                                            onError={(e) => { e.target.src = 'https://media.api-sports.io/football/players/placeholder.png'; }}
+                                                                        />
+                                                                    </div>
+                                                                </div>
+
                                                                 <div style={{ padding: '0.8rem 1rem', flex: 1, minWidth: 0 }}>
                                                                     <div className="notranslate" style={{ color: 'white', fontWeight: 'bold', fontSize: '1.05rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{player.name}</div>
                                                                     <div style={{ color: 'var(--text-muted)', fontSize: '0.75rem', fontWeight: '800', display: 'flex', alignItems: 'center', gap: '0.4rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
