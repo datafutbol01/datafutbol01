@@ -262,31 +262,27 @@ export default function LiveScoresHub() {
 
               {!isClosed && liga.matches.map((match, idx) => (
                 <div key={match.id}>
-                  <div style={{ padding: '1.2rem', display: 'grid', gridTemplateColumns: '60px 1fr 80px 1fr 40px', alignItems: 'center', cursor: 'pointer', transition: 'background 0.2s', opacity: match.isLive ? 1 : 0.6 }} 
+                  <div style={{ padding: '0.8rem 0.5rem', display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr', alignItems: 'center', cursor: 'pointer', transition: 'background 0.2s', opacity: match.isLive ? 1 : 0.6 }} 
                        onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'} 
                        onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
                       
                       <div style={{ color: match.isLive ? '#ef4444' : 'var(--text-muted)', fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.3rem', fontSize: '0.85rem' }}>
-                         {match.isLive && <span style={{ width: '6px', height: '6px', background: '#ef4444', borderRadius: '50%', animation: 'pulse 2s infinite' }}></span>}
-                         {match.d}
+                         {match.isLive && <span style={{ width: '6px', height: '6px', background: '#ef4444', borderRadius: '50%', animation: 'pulse 2s infinite', flexShrink: 0 }}></span>}
+                         <span style={{ fontSize: '0.8rem' }}>{match.d}</span>
                       </div>
                       
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-end', fontWeight: match.isLive ? 'bold' : 'normal', color: 'white', minWidth: 0 }}>
-                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{match.home}</span>
-                         {match.homeLogo && <img src={match.homeLogo} alt="" style={{ width: '24px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />}
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', justifyContent: 'flex-end', fontWeight: match.isLive ? 'bold' : 'normal', color: 'white', minWidth: 0 }}>
+                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontSize: '0.9rem' }}>{match.home}</span>
+                         {match.homeLogo && <img src={match.homeLogo} alt="" style={{ width: '20px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />}
                       </div>
                       
-                      <div style={{ display: 'flex', justifyContent: 'center', fontSize: '1.2rem', fontWeight: '900', color: match.isLive ? '#ef4444' : 'white', letterSpacing: '2px', minWidth: 0 }}>
+                      <div style={{ display: 'flex', justifyContent: 'center', fontSize: '1.1rem', fontWeight: '900', color: match.isLive ? '#ef4444' : 'white', letterSpacing: '1px', minWidth: 0 }}>
                          {match.score}
                       </div>
                       
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', justifyContent: 'flex-start', color: 'white', fontWeight: match.isLive ? 'bold' : 'normal', minWidth: 0 }}>
-                         {match.awayLogo && <img src={match.awayLogo} alt="" style={{ width: '24px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />} 
-                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{match.away}</span>
-                      </div>
-
-                      <div style={{ color: 'var(--text-muted)', display: 'flex', justifyContent: 'flex-end' }}>
-                         <ChevronRight size={16} />
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', justifyContent: 'flex-start', color: 'white', fontWeight: match.isLive ? 'bold' : 'normal', minWidth: 0 }}>
+                         {match.awayLogo && <img src={match.awayLogo} alt="" style={{ width: '20px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />} 
+                         <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontSize: '0.9rem' }}>{match.away}</span>
                       </div>
                   </div>
                   {idx < liga.matches.length - 1 && <div style={{ height: '1px', background: 'rgba(255,255,255,0.05)', width: '90%', margin: '0 auto' }}></div>}
