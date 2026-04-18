@@ -35,7 +35,8 @@ export const getLeagues = () => {
     { id: 'eng_league_two', name: 'EFL League Two', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/42.png', isHidden: true },
     { id: 'arg_nacional_b', name: 'Primera Nacional', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/129.png', isHidden: true },
     { id: 'arg_b_metro', name: 'Primera B Metropolitana', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/131.png', isHidden: true },
-    { id: 'arg_primera_c', name: 'Primera C', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/132.png', isHidden: true }
+    { id: 'arg_primera_c', name: 'Primera C', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/132.png', isHidden: true },
+    { id: 'chi_primera', name: 'Primera División', country: 'Chile', flag: '', color: '#d52b1e', shield: 'https://media.api-sports.io/football/leagues/265.png', isHidden: true }
   ];
 };
 

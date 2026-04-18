@@ -47,7 +47,8 @@ export default function League() {
     'arg_nacional_b': 129,
     'arg_b_metro': 131,
     'arg_primera_c': 132,
-    'bel_pro_league': 144
+    'bel_pro_league': 144,
+    'chi_primera': 265
   };
   const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
 
@@ -67,7 +68,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'bra_serie_a', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uru_primera', 'per_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
+           const season = ['argentina', 'bra_serie_a', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
