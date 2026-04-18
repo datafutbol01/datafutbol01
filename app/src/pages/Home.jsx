@@ -83,6 +83,7 @@ export default function Home() {
   const pillars = [
     { title: t.explore, icon: Shield, link: '/leagues', bg: 'rgba(251, 191, 36, 0.1)', border: 'var(--accent-gold)' },
     { title: t.wc, icon: Globe2, link: '/mundiales', bg: 'rgba(56, 189, 248, 0.1)', border: '#38bdf8' },
+    { title: t.cups, icon: Trophy, link: '/copas', bg: 'rgba(16, 185, 129, 0.1)', border: '#10b981' },
     { title: t.live, icon: Activity, link: '/resultados', bg: 'rgba(239, 68, 68, 0.1)', border: '#ef4444' }
   ];
 
@@ -104,6 +105,10 @@ export default function Home() {
           filter: 'grayscale(30%)'
         }}
       />
+
+      {/* Side Banners (Desaparecen en celular) */}
+      <StaticBanner position="left" />
+      <StaticBanner position="right" />
 
       {/* Search Trigger and Main Content */}
       <div style={{
@@ -288,9 +293,6 @@ export default function Home() {
               </h2>
             </Link>
           ))}
-          
-          {/* El 4to elemento publicitario disfrazado */}
-          <StaticBanner />
         </div>
 
       </div>
