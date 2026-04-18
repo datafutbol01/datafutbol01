@@ -41,7 +41,8 @@ export default function LiveScoresHub() {
     129: 'arg_nacional_b',
     131: 'arg_b_metro',
     132: 'arg_primera_c',
-    144: 'bel_pro_league'
+    144: 'bel_pro_league',
+    265: 'chi_primera'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono

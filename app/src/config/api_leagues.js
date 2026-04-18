@@ -49,6 +49,7 @@ export const TARGET_LEAGUES = {
     URU_PRIMERA: 268,                // Primera División (Uruguay)
     COL_PRIMERA: 239,                // Primera A (Colombia)
     PAR_PRIMERA: 252,                // Primera División (Paraguay)
+    CHI_PRIMERA: 265,                // Primera División (Chile)
     PER_PRIMERA: 281,                // Liga 1 (Perú)
     MEX_LIGA_MX: 262,                // Liga MX (México)
     USA_MLS: 253,                    // MLS (USA)
