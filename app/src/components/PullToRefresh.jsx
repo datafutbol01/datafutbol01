@@ -43,9 +43,23 @@ export default function PullToRefresh({ children }) {
         setIsRefreshing(true);
         setPullDistance(0);
         
-        // Wait a tiny bit for the animation, then hard reload
-        setTimeout(() => {
-          // Hard reload bypasses some caches and ensures latest SW data is used
+        setTimeout(async () => {
+          try {
+            // Destrucción nuclear de la caché para forzar la actualización de la PWA
+            if ('caches' in window) {
+              const keys = await caches.keys();
+              await Promise.all(keys.map(key => caches.delete(key)));
+            }
+            if ('serviceWorker' in navigator) {
+              const registrations = await navigator.serviceWorker.getRegistrations();
+              for (let registration of registrations) {
+                await registration.unregister();
+              }
+            }
+          } catch (e) {
+            console.error("Error destruyendo cachés:", e);
+          }
+          // Recarga forzada de fábrica
           window.location.reload(true);
         }, 500);
       } else {
