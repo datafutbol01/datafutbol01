@@ -386,6 +386,19 @@ export default function LiveScoresHub() {
                                           </div>
                                       ))}
                                   </div>
+                                  {match.homeLineup?.substitutes?.length > 0 && (
+                                      <>
+                                          <div style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.7rem', fontWeight: 'bold', marginTop: '1rem', marginBottom: '0.5rem', borderBottom: '1px dotted rgba(255,255,255,0.1)', paddingBottom: '0.2rem' }}>SUPLENTES</div>
+                                          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
+                                              {match.homeLineup.substitutes.map((p, i) => (
+                                                  <div key={`sub-${i}`} style={{ color: 'rgba(255,255,255,0.7)', display: 'flex', alignItems: 'center', gap: '0.5rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                                                      <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', width: '20px', textAlign: 'right' }}>{p.player.number}</span> 
+                                                      <span style={{ overflow: 'hidden', textOverflow: 'ellipsis' }}>{p.player.name}</span>
+                                                  </div>
+                                              ))}
+                                          </div>
+                                      </>
+                                  )}
                               </div>
                               <div style={{ width: '1px', background: 'rgba(255,255,255,0.1)' }}></div>
                               <div style={{ flex: 1, minWidth: 0, paddingLeft: '0.5rem', textAlign: 'right' }}>
@@ -400,6 +413,19 @@ export default function LiveScoresHub() {
                                           </div>
                                       ))}
                                   </div>
+                                  {match.awayLineup?.substitutes?.length > 0 && (
+                                      <>
+                                          <div style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.7rem', fontWeight: 'bold', marginTop: '1rem', marginBottom: '0.5rem', borderBottom: '1px dotted rgba(255,255,255,0.1)', paddingBottom: '0.2rem', textAlign: 'right' }}>SUPLENTES</div>
+                                          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
+                                              {match.awayLineup.substitutes.map((p, i) => (
+                                                  <div key={`sub-${i}`} style={{ color: 'rgba(255,255,255,0.7)', display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: '0.5rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                                                      <span style={{ overflow: 'hidden', textOverflow: 'ellipsis' }}>{p.player.name}</span>
+                                                      <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', width: '20px', textAlign: 'left' }}>{p.player.number}</span> 
+                                                  </div>
+                                              ))}
+                                          </div>
+                                      </>
+                                  )}
                               </div>
                           </div>
                       </div>
