@@ -2,6 +2,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Search, Trophy, Shield, Globe2, Activity } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState, useEffect, useRef } from 'react';
+import StaticBanner from '../components/StaticBanner';
 
 export default function Home() {
   const [activeLang, setActiveLang] = useState('Español');
@@ -287,6 +288,9 @@ export default function Home() {
               </h2>
             </Link>
           ))}
+          
+          {/* El 4to elemento publicitario disfrazado */}
+          <StaticBanner />
         </div>
 
       </div>
