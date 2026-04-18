@@ -24,6 +24,7 @@ export default function LiveScoresHub() {
     848: 'conference',
     13: 'libertadores',
     11: 'sudamericana',
+    71: 'bra_serie_a',
     40: 'eng_championship',
     62: 'fra_ligue_2',
     79: 'ger_2_bundesliga',
@@ -39,7 +40,8 @@ export default function LiveScoresHub() {
     42: 'eng_league_two',
     129: 'arg_nacional_b',
     131: 'arg_b_metro',
-    132: 'arg_primera_c'
+    132: 'arg_primera_c',
+    144: 'bel_pro_league'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono
@@ -113,9 +115,15 @@ export default function LiveScoresHub() {
                 if (!allowedIds.includes(lId)) return;
                 
                 if (!grouped[lId]) {
+                    let leagueName = match.league.name;
+                    // Sobrescribir nombre técnico de la API por nombre comercial
+                    if (lId === 71) leagueName = "Brasileirão";
+                    if (lId === 143) leagueName = "🏆 Copa del Rey (FINAL)";
+                    if (lId === 144) leagueName = "Jupiler Pro League";
+
                     grouped[lId] = {
                         id: lId,
-                        name: match.league.name,
+                        name: leagueName,
                         country: match.league.country,
                         flag: match.league.flag || "https://flagcdn.com/w40/eu.png",
                         priority: allowedIds.includes(lId),
@@ -132,7 +140,7 @@ export default function LiveScoresHub() {
                     timeStr = elapsed ? elapsed + "'" : (status === "HT" ? t.et : status);
                 } else if (status === "NS" || status === "TBD") {
                     const matchDate = new Date(match.fixture.date);
-                    timeStr = matchDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                    timeStr = matchDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false });
                 } else if (["FT", "AET", "PEN"].includes(status)) {
                     timeStr = t.fin;
                 } else if (["CANC", "SUSP", "PST", "ABD"].includes(status)) {
