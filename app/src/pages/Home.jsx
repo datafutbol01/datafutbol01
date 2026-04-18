@@ -88,21 +88,22 @@ export default function Home() {
   ];
 
   return (
-    <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflow: 'hidden', background: '#020617' }}>
+    <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflowX: 'hidden', overflowY: 'auto', background: '#020617' }}>
       {/* Background Image */}
       <div
         style={{
-          position: 'absolute',
+          position: 'fixed',
           top: 0,
           left: 0,
           width: '100%',
-          height: '100%',
+          height: '100vh',
           backgroundImage: 'url(/futbol_1910.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
           opacity: 0.4,
-          filter: 'grayscale(30%)'
+          filter: 'grayscale(30%)',
+          zIndex: 0
         }}
       />
 
@@ -300,10 +301,8 @@ export default function Home() {
       <div
         className="animate-fade-in hide-scrollbar language-footer-container"
         style={{
-          position: 'absolute',
-          bottom: '2rem',
-          left: '50%',
-          transform: 'translateX(-50%)',
+          position: 'relative',
+          marginTop: '2rem',
           zIndex: 20,
           display: 'flex',
           gap: '1.5rem',
