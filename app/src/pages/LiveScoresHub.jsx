@@ -106,6 +106,7 @@ export default function LiveScoresHub() {
         
         const grouped = {};
         const allowedIds = Object.values(TARGET_LEAGUES);
+        const matchIdsToFetch = [];
 
         if (data.response) {
             data.response.forEach(match => {
@@ -114,6 +115,11 @@ export default function LiveScoresHub() {
                 // Filtramos estrictamente a nuestras ligas configuradas (Champions, Libertadores, etc)
                 if (!allowedIds.includes(lId)) return;
                 
+                // Guardamos IDs para pedir Goles (solo partidos en juego o terminados)
+                if (match.fixture.status.short !== "NS" && match.fixture.status.short !== "PST" && match.fixture.status.short !== "CANC") {
+                    matchIdsToFetch.push(match.fixture.id);
+                }
+
                 if (!grouped[lId]) {
                     let leagueName = match.league.name;
                     // Sobrescribir nombre técnico de la API por nombre comercial
@@ -155,12 +161,62 @@ export default function LiveScoresHub() {
                     d: timeStr,
                     isLive: isLive,
                     home: match.teams.home.name,
+                    homeId: match.teams.home.id,
                     homeLogo: match.teams.home.logo,
                     away: match.teams.away.name,
+                    awayId: match.teams.away.id,
                     awayLogo: match.teams.away.logo,
-                    score: `${match.goals.home ?? '-'} - ${match.goals.away ?? '-'}`
+                    score: `${match.goals.home ?? '-'} - ${match.goals.away ?? '-'}`,
+                    homeGoals: [],
+                    awayGoals: []
                 });
             });
+        }
+        
+        // --- PROCESAMIENTO SEGURO DE EVENTOS (GOLES) ---
+        if (matchIdsToFetch.length > 0) {
+           const chunkSize = 20; // 20 IDs máximo por llamado (Regla API Sports)
+           for (let i = 0; i < matchIdsToFetch.length; i += chunkSize) {
+               const chunk = matchIdsToFetch.slice(i, i + chunkSize);
+               const idsString = chunk.join('-');
+               
+               const detailEndpoint = isLocal 
+                 ? `https://v3.football.api-sports.io/fixtures?ids=${idsString}`
+                 : `/api/fixture_details?ids=${idsString}`;
+                 
+               try {
+                   const detailRes = await fetch(detailEndpoint, { headers });
+                   const detailData = await detailRes.json();
+                   
+                   if (detailData.response) {
+                       detailData.response.forEach(det => {
+                           const lId = det.league.id;
+                           if (grouped[lId]) {
+                               const theMatch = grouped[lId].matches.find(m => m.id === det.fixture.id);
+                               if (theMatch && det.events) {
+                                   det.events.forEach(ev => {
+                                       if(ev.type === 'Goal' && ev.detail !== 'Missed Penalty') {
+                                           // Usar partes de nombres largos (apellidos) si es muy extenso
+                                           const nameParts = ev.player.name.split(' ');
+                                           const shortName = nameParts.length > 1 ? nameParts[nameParts.length - 1] : ev.player.name;
+                                           const goalStr = `${shortName} ${ev.time.elapsed}'`;
+                                           
+                                           // Evitar duplicados (a veces la API bugea goles repetidos en vivo)
+                                           if (ev.team.id === theMatch.homeId) {
+                                               if (!theMatch.homeGoals.includes(goalStr)) theMatch.homeGoals.push(goalStr);
+                                           } else {
+                                               if (!theMatch.awayGoals.includes(goalStr)) theMatch.awayGoals.push(goalStr);
+                                           }
+                                       }
+                                   });
+                               }
+                           }
+                       });
+                   }
+               } catch (e) {
+                   console.error("Error trayendo goleadores de la API (Bóveda):", e);
+               }
+           }
         }
         
         // Convertimos el objeto en Array y llevamos "nuestras" ligas prioritarias arriba
@@ -285,6 +341,21 @@ export default function LiveScoresHub() {
                          <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontSize: '0.9rem' }}>{match.away}</span>
                       </div>
                   </div>
+
+                  {/* Renderizado Subliminal de Goleadores */}
+                  {(match.homeGoals?.length > 0 || match.awayGoals?.length > 0) && (
+                     <div style={{ display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr', padding: '0 0.5rem 0.6rem', fontSize: '0.75rem', color: 'rgba(255,255,255,0.5)', marginTop: '-0.3rem', alignItems: 'start' }}>
+                        <div></div>
+                        <div style={{ textAlign: 'right', paddingRight: '0.4rem', lineHeight: '1.2' }}>
+                           {match.homeGoals?.map((g, i) => <div key={i}>⚽ {g}</div>)}
+                        </div>
+                        <div></div>
+                        <div style={{ paddingLeft: '0.4rem', lineHeight: '1.2' }}>
+                           {match.awayGoals?.map((g, i) => <div key={i}>⚽ {g}</div>)}
+                        </div>
+                     </div>
+                  )}
+
                   {idx < liga.matches.length - 1 && <div style={{ height: '1px', background: 'rgba(255,255,255,0.05)', width: '90%', margin: '0 auto' }}></div>}
                 </div>
               ))}
