@@ -10,6 +10,10 @@ import WorldCupsHub from './pages/WorldCupsHub.jsx'
 import CupsHub from './pages/CupsHub.jsx'
 import LiveScoresHub from './pages/LiveScoresHub.jsx'
 import './index.css'
+import { inject } from '@vercel/analytics';
+
+// Iniciar analíticas global y crudo para evitar cuellos de botella de React
+inject();
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
