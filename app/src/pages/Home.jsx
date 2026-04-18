@@ -2,7 +2,6 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Search, Trophy, Shield, Globe2, Activity } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState, useEffect, useRef } from 'react';
-import StaticBanner from '../components/StaticBanner';
 
 export default function Home() {
   const [activeLang, setActiveLang] = useState('Español');
@@ -88,31 +87,26 @@ export default function Home() {
   ];
 
   return (
-    <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflowX: 'hidden', overflowY: 'auto', background: '#020617' }}>
+    <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflow: 'hidden', background: '#020617' }}>
       {/* Background Image */}
       <div
         style={{
-          position: 'fixed',
+          position: 'absolute',
           top: 0,
           left: 0,
           width: '100%',
-          height: '100vh',
+          height: '100%',
           backgroundImage: 'url(/futbol_1910.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
           opacity: 0.4,
-          filter: 'grayscale(30%)',
-          zIndex: 0
+          filter: 'grayscale(30%)'
         }}
       />
 
-      {/* Side Banners (Desaparecen en celular) */}
-      <StaticBanner position="left" />
-      <StaticBanner position="right" />
-
       {/* Search Trigger and Main Content */}
-      <div style={{
+       <div style={{
         position: 'relative',
         zIndex: 10,
         minHeight: '100vh',
@@ -238,10 +232,10 @@ export default function Home() {
           className="animate-fade-in"
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
             gap: '1.5rem',
             width: '100%',
-            maxWidth: '1000px'
+            maxWidth: '1200px'
           }}
         >
           {pillars.map((pillar, idx) => (
@@ -301,8 +295,10 @@ export default function Home() {
       <div
         className="animate-fade-in hide-scrollbar language-footer-container"
         style={{
-          position: 'relative',
-          marginTop: '2rem',
+          position: 'absolute',
+          bottom: '2rem',
+          left: '50%',
+          transform: 'translateX(-50%)',
           zIndex: 20,
           display: 'flex',
           gap: '1.5rem',
