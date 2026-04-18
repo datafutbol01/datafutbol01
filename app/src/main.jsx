@@ -7,7 +7,6 @@ import Leagues from './pages/Leagues.jsx'
 import League from './pages/League.jsx'
 import ClubDetail from './pages/ClubDetail.jsx'
 import WorldCupsHub from './pages/WorldCupsHub.jsx'
-import CupsHub from './pages/CupsHub.jsx'
 import LiveScoresHub from './pages/LiveScoresHub.jsx'
 import './index.css'
 import { inject } from '@vercel/analytics';
@@ -23,7 +22,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route index element={<Home />} />
           <Route path="leagues" element={<Leagues />} />
           <Route path="mundiales" element={<WorldCupsHub />} />
-          <Route path="copas" element={<CupsHub />} />
           <Route path="resultados" element={<LiveScoresHub />} />
           <Route path="liga/:leagueId" element={<League />} />
           <Route path="liga/:leagueId/club/:clubId" element={<ClubDetail />} />
