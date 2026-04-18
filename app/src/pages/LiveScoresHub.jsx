@@ -9,6 +9,7 @@ export default function LiveScoresHub() {
   const [collapsedLeagues, setCollapsedLeagues] = useState({});
   const [liveLeagues, setLiveLeagues] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [expandedMatchId, setExpandedMatchId] = useState(null);
 
   // Mapeo entre la API y nuestro Frontend para los botones de Clasificación
   const apiToSlug = {
@@ -194,22 +195,28 @@ export default function LiveScoresHub() {
                            const lId = det.league.id;
                            if (grouped[lId]) {
                                const theMatch = grouped[lId].matches.find(m => m.id === det.fixture.id);
-                               if (theMatch && det.events) {
-                                   det.events.forEach(ev => {
-                                       if(ev.type === 'Goal' && ev.detail !== 'Missed Penalty') {
-                                           // Usar partes de nombres largos (apellidos) si es muy extenso
-                                           const nameParts = ev.player.name.split(' ');
-                                           const shortName = nameParts.length > 1 ? nameParts[nameParts.length - 1] : ev.player.name;
-                                           const goalStr = `${shortName} ${ev.time.elapsed}'`;
-                                           
-                                           // Evitar duplicados (a veces la API bugea goles repetidos en vivo)
-                                           if (ev.team.id === theMatch.homeId) {
-                                               if (!theMatch.homeGoals.includes(goalStr)) theMatch.homeGoals.push(goalStr);
-                                           } else {
-                                               if (!theMatch.awayGoals.includes(goalStr)) theMatch.awayGoals.push(goalStr);
+                               if (theMatch) {
+                                   if (det.events) {
+                                       det.events.forEach(ev => {
+                                           if(ev.type === 'Goal' && ev.detail !== 'Missed Penalty') {
+                                               // Usar partes de nombres largos (apellidos) si es muy extenso
+                                               const nameParts = ev.player.name.split(' ');
+                                               const shortName = nameParts.length > 1 ? nameParts[nameParts.length - 1] : ev.player.name;
+                                               const goalStr = `${shortName} ${ev.time.elapsed}'`;
+                                               
+                                               // Evitar duplicados (a veces la API bugea goles repetidos en vivo)
+                                               if (ev.team.id === theMatch.homeId) {
+                                                   if (!theMatch.homeGoals.includes(goalStr)) theMatch.homeGoals.push(goalStr);
+                                               } else {
+                                                   if (!theMatch.awayGoals.includes(goalStr)) theMatch.awayGoals.push(goalStr);
+                                               }
                                            }
-                                       }
-                                   });
+                                       });
+                                   }
+                                   if (det.lineups && det.lineups.length > 0) {
+                                       theMatch.homeLineup = det.lineups.find(l => l.team.id === theMatch.homeId) || det.lineups[0];
+                                       theMatch.awayLineup = det.lineups.find(l => l.team.id === theMatch.awayId) || det.lineups[1];
+                                   }
                                }
                            }
                        });
@@ -319,7 +326,8 @@ export default function LiveScoresHub() {
 
               {!isClosed && liga.matches.map((match, idx) => (
                 <div key={match.id}>
-                  <div style={{ padding: '0.8rem 0.5rem', display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr', alignItems: 'center', cursor: 'pointer', transition: 'background 0.2s', opacity: match.isLive ? 1 : 0.6 }} 
+                  <div style={{ padding: '0.8rem 0.5rem', display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr 30px', alignItems: 'center', cursor: 'pointer', transition: 'background 0.2s', opacity: match.isLive ? 1 : 0.6 }} 
+                       onClick={() => setExpandedMatchId(prev => prev === match.id ? null : match.id)}
                        onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'} 
                        onMouseOut={e => e.currentTarget.style.background = 'transparent'}>
                       
@@ -341,11 +349,15 @@ export default function LiveScoresHub() {
                          {match.awayLogo && <img src={match.awayLogo} alt="" style={{ width: '20px', flexShrink: 0 }} onError={(e) => e.target.style.display = 'none'} />} 
                          <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontSize: '0.9rem' }}>{match.away}</span>
                       </div>
+                      
+                      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                         {expandedMatchId === match.id ? <ChevronUp size={18} color="var(--accent-gold)" /> : <ChevronDown size={18} color="var(--text-muted)" />}
+                      </div>
                   </div>
 
                   {/* Renderizado Subliminal de Goleadores */}
                   {(match.homeGoals?.length > 0 || match.awayGoals?.length > 0) && (
-                     <div style={{ display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr', padding: '0 0.5rem 0.6rem', fontSize: '0.75rem', color: 'rgba(255,255,255,0.5)', marginTop: '-0.3rem', alignItems: 'start' }}>
+                     <div style={{ display: 'grid', gridTemplateColumns: '45px 1fr 60px 1fr 30px', padding: '0 0.5rem 0.6rem', fontSize: '0.75rem', color: 'rgba(255,255,255,0.5)', marginTop: '-0.3rem', alignItems: 'start' }}>
                         <div></div>
                         <div style={{ textAlign: 'right', paddingRight: '0.4rem', lineHeight: '1.2' }}>
                            {match.homeGoals?.map((g, i) => <div key={i}>⚽ {g}</div>)}
@@ -354,7 +366,48 @@ export default function LiveScoresHub() {
                         <div style={{ paddingLeft: '0.4rem', lineHeight: '1.2' }}>
                            {match.awayGoals?.map((g, i) => <div key={i}>⚽ {g}</div>)}
                         </div>
+                        <div></div>
                      </div>
+                  )}
+
+                  {/* Renderizado de Alineaciones (Acordeón) */}
+                  {expandedMatchId === match.id && (match.homeLineup || match.awayLineup) && (
+                      <div className="animate-fade-in" style={{ padding: '1rem', background: 'rgba(0,0,0,0.4)', borderTop: '1px solid rgba(255,255,255,0.05)', fontSize: '0.85rem' }}>
+                          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+                              <div style={{ flex: 1, minWidth: 0, paddingRight: '0.5rem' }}>
+                                  <div style={{ color: 'var(--accent-gold)', fontWeight: '900', marginBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                                      {match.homeLineup?.formation || 'Titulares'}
+                                  </div>
+                                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
+                                      {match.homeLineup?.startXI?.map((p, i) => (
+                                          <div key={i} style={{ color: 'white', display: 'flex', alignItems: 'center', gap: '0.5rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                                              <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', width: '20px', textAlign: 'right' }}>{p.player.number}</span> 
+                                              <span style={{ overflow: 'hidden', textOverflow: 'ellipsis' }}>{p.player.name}</span>
+                                          </div>
+                                      ))}
+                                  </div>
+                              </div>
+                              <div style={{ width: '1px', background: 'rgba(255,255,255,0.1)' }}></div>
+                              <div style={{ flex: 1, minWidth: 0, paddingLeft: '0.5rem', textAlign: 'right' }}>
+                                  <div style={{ color: 'var(--accent-gold)', fontWeight: '900', marginBottom: '0.5rem', display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: '0.4rem' }}>
+                                      {match.awayLineup?.formation || 'Titulares'}
+                                  </div>
+                                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
+                                      {match.awayLineup?.startXI?.map((p, i) => (
+                                          <div key={i} style={{ color: 'white', display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: '0.5rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                                              <span style={{ overflow: 'hidden', textOverflow: 'ellipsis' }}>{p.player.name}</span>
+                                              <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', width: '20px', textAlign: 'left' }}>{p.player.number}</span> 
+                                          </div>
+                                      ))}
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  )}
+                  {expandedMatchId === match.id && !match.homeLineup && !match.awayLineup && (
+                      <div className="animate-fade-in" style={{ padding: '1rem', background: 'rgba(0,0,0,0.4)', borderTop: '1px solid rgba(255,255,255,0.05)', fontSize: '0.85rem', textAlign: 'center', color: 'var(--text-muted)' }}>
+                          Alineaciones aún no confirmadas por la liga oficial.
+                      </div>
                   )}
 
                   {idx < liga.matches.length - 1 && <div style={{ height: '1px', background: 'rgba(255,255,255,0.05)', width: '90%', margin: '0 auto' }}></div>}
