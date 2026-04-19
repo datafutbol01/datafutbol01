@@ -10,7 +10,9 @@ import WorldCupsHub from './pages/WorldCupsHub.jsx'
 import LiveScoresHub from './pages/LiveScoresHub.jsx'
 import './index.css'
 import { inject } from '@vercel/analytics';
+import ReactGA from 'react-ga4';
 
+ReactGA.initialize('G-ZJ4MJYPKSZ');
 // Iniciar analíticas global y crudo para evitar cuellos de botella de React
 inject();
 
