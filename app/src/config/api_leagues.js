@@ -45,7 +45,7 @@ export const TARGET_LEAGUES = {
     BEL_PRO_LEAGUE: 144,             // Jupiler Pro League (Bélgica)
     
     // === AMERICA ===
-    // BRA_SERIE_A: 71,                 // Temporalmente oculto (Brasileirao Serie A)
+    BRA_SERIE_A: 71,                 // 🔴 SWITCH DE EMERGENCIA: Para DESENCHUFAR Brasil de la app, agregale '//' al inicio de esta línea.
     URU_PRIMERA: 268,                // Primera División (Uruguay)
     COL_PRIMERA: 239,                // Primera A (Colombia)
     PAR_PRIMERA: 252,                // Primera División (Paraguay)

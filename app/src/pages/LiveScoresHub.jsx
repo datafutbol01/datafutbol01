@@ -25,7 +25,7 @@ export default function LiveScoresHub() {
     848: 'conference',
     13: 'libertadores',
     11: 'sudamericana',
-    71: 'bra_serie_a',
+    71: 'brasil',
     40: 'eng_championship',
     62: 'fra_ligue_2',
     79: 'ger_2_bundesliga',
