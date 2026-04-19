@@ -41,6 +41,7 @@ export default function League() {
     'usa_mls': 253,
     'mex_liga_mx': 262,
     'uru_primera': 268,
+    'uruguay': 268,
     'per_primera': 281,
     'eng_league_one': 41,
     'eng_league_two': 42,
@@ -55,9 +56,11 @@ export default function League() {
   const [standingsData, setStandingsData] = useState(null);
   const [loadingStandings, setLoadingStandings] = useState(false);
   
-  // STATS: Goleadores, Asistencias, etc.
   const [statsData, setStatsData] = useState({ scorers: null, assists: null, yellows: null, reds: null });
   const [loadingStats, setLoadingStats] = useState(false);
+  
+  const [promediosData, setPromediosData] = useState(null);
+  const [loadingPromedios, setLoadingPromedios] = useState(false);
   
   // FIXTURES: Cuadro de Llaves
   const [knockoutData, setKnockoutData] = useState(null);
@@ -68,7 +71,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'bra_serie_a', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
+           const season = ['argentina', 'bra_serie_a', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
@@ -278,6 +281,56 @@ export default function League() {
       fetchStandings();
     }
   }, [activeTab, leagueId]);
+
+  useEffect(() => {
+    if (activeTab === 'actualidad' && leagueId === 'argentina' && !promediosData && standingsData) {
+      const fetchPromediosBg = async () => {
+         setLoadingPromedios(true);
+         try {
+           const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+           if (!isLocal) {
+               const r = await fetch(`/api/promedios?league=128`);
+               const d = await r.json();
+               if(d.response) setPromediosData([d.response]);
+           } else {
+               const apiKey = import.meta.env.VITE_API_FOOTBALL_KEY;
+               const fetchYear = async (yr) => {
+                   const r = await fetch(`https://v3.football.api-sports.io/standings?league=128&season=${yr}`, { headers: { "x-rapidapi-host": "v3.football.api-sports.io", "x-rapidapi-key": apiKey }});
+                   const d = await r.json();
+                   return (d.response && d.response.length > 0) ? d.response[0].league.standings : [];
+               };
+               const [st24, st25, st26] = await Promise.all([fetchYear(2024), fetchYear(2025), fetchYear(2026)]);
+               const tDict = {};
+               const processStandings = (yearStandings, yearLabel) => {
+                  yearStandings.forEach(group => {
+                      const gName = group[0].group.toLowerCase();
+                      if (gName.includes('anual') || gName.includes('relegation') || gName.includes('promedio')) return;
+                      group.forEach(t => {
+                          const tId = t.team.id;
+                          if (!tDict[tId]) tDict[tId] = { team: t.team, pts24: 0, pj24: 0, pts25: 0, pj25: 0, pts26: 0, pj26: 0, ptsTotal: 0, pjTotal: 0 };
+                          if (yearLabel === 2024) { tDict[tId].pts24 += t.points; tDict[tId].pj24 += t.all.played; }
+                          if (yearLabel === 2025) { tDict[tId].pts25 += t.points; tDict[tId].pj25 += t.all.played; }
+                          if (yearLabel === 2026) { tDict[tId].pts26 += t.points; tDict[tId].pj26 += t.all.played; }
+                          tDict[tId].ptsTotal += t.points; tDict[tId].pjTotal += t.all.played;
+                      });
+                  });
+               };
+               processStandings(st24, 2024); processStandings(st25, 2025); processStandings(st26, 2026);
+               const pArr = Object.values(tDict).map(t => ({ ...t, promedioVal: t.pjTotal > 0 ? (t.ptsTotal / t.pjTotal) : 0, promedio: (t.pjTotal > 0 ? (t.ptsTotal / t.pjTotal) : 0).toFixed(3) }));
+               pArr.sort((a, b) => b.promedioVal - a.promedioVal);
+               pArr.forEach((t, i) => t.rank = i + 1);
+               // Wrap inside an array to mimic API-Sports standings response format
+               setPromediosData([ pArr ]);
+           }
+         } catch(e) { console.error(e); } finally { setLoadingPromedios(false); }
+      };
+      // Solo dispara si hay un grupo "Promedio" o "Relegation" real a sobreescribir.
+      if (standingsData.some(g => g && g[0] && g[0].group && g[0].group.toLowerCase().includes('promedio'))) {
+          fetchPromediosBg();
+      }
+    }
+  }, [activeTab, leagueId, promediosData, standingsData]);
+
 
   
   useEffect(() => {
@@ -840,11 +893,31 @@ export default function League() {
                                       <thead>
                                          <tr style={{ color: 'var(--text-muted)', fontSize: '0.85rem', background: 'rgba(255,255,255,0.02)' }}>
                                             <th style={{ textAlign: 'left', padding: '0.8rem' }}>Equipo</th>
-                                            <th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th>
+                                            {String(group[0].group).toLowerCase().includes('promedio') || String(group[0].group).toLowerCase().includes('relegation') ? (
+                                                <><th>24</th><th>25</th><th>26</th><th>PTS</th><th>PJ</th><th style={{ color: 'var(--accent-gold)' }}>PROM</th></>
+                                            ) : (
+                                                <><th>PJ</th><th>G</th><th>E</th><th>P</th><th>PTS</th></>
+                                            )}
                                          </tr>
                                       </thead>
                                       <tbody>
-                                         {group.map((t) => (
+                                          {(String(group[0].group).toLowerCase().includes('promedio') || String(group[0].group).toLowerCase().includes('relegation')) && promediosData ? promediosData[0].map((t) => (
+                                             <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent', borderLeft: t.rank >= promediosData[0].length - 2 ? '4px solid #ef4444' : '4px solid transparent' }}>
+                                                <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: 'white' }}>
+                                                   <span style={{ color: t.rank >= promediosData[0].length - 2 ? '#ef4444' : 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
+                                                   <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
+                                                   <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', color: t.rank >= promediosData[0].length - 2 ? '#fca5a5' : 'white' }}>{t.team.name}</span>
+                                                </td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.pts24}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.pts25}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.pts26}</td>
+                                                <td style={{ color: 'white', fontWeight: 'bold' }}>{t.ptsTotal}</td>
+                                                <td style={{ color: 'var(--text-muted)' }}>{t.pjTotal}</td>
+                                                <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.2rem', background: 'rgba(251, 191, 36, 0.1)' }}>{t.promedio}</td>
+                                             </tr>
+                                         )) : (String(group[0].group).toLowerCase().includes('promedio') || String(group[0].group).toLowerCase().includes('relegation')) && loadingPromedios ? (
+                                             <tr><td colSpan="7" style={{ padding: '2rem', color: 'var(--text-muted)' }}>Calculando promedios reales...</td></tr>
+                                         ) : group.map((t) => (
                                              <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
                                                 <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
                                                    <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
