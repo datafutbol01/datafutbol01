@@ -9,7 +9,7 @@ const ligasTemporadasModules = import.meta.glob('./ligas/*_temporadas.json', { e
 const ligasEnfrentamientosModules = import.meta.glob('./ligas/*_enfrentamientos.json', { eager: true });
 const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true });
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
-const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
+// const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 
 export const getLeagues = () => {
   return [
@@ -20,7 +20,7 @@ export const getLeagues = () => {
     { id: 'alemania', name: 'Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: '/escudos/bundesliga_logo.png' },
     { id: 'francia', name: 'Ligue 1', country: 'Francia', flag: '', color: '#dae025', shield: '/escudos/ligue1_2024.png' },
     { id: 'escocia', name: 'Scottish Premiership', country: 'Escocia', flag: '', color: '#002868', shield: '/escudos/scottish_premiership_logo.png' },
-    { id: 'brasil', name: 'Brasileirão', country: 'Brasil', flag: '', color: '#009b3a', shield: 'https://media.api-sports.io/football/leagues/71.png' },
+    // { id: 'brasil', name: 'Brasileirão', country: 'Brasil', flag: '', color: '#009b3a', shield: '', isHidden: true },
     { id: 'eng_championship', name: 'EFL Championship', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/40.png', isHidden: true },
     { id: 'fra_ligue_2', name: 'Ligue 2 BKT', country: 'Francia', flag: '', color: '#dae025', shield: 'https://media.api-sports.io/football/leagues/62.png', isHidden: true },
     { id: 'ger_2_bundesliga', name: '2. Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: 'https://media.api-sports.io/football/leagues/79.png', isHidden: true },
@@ -60,9 +60,9 @@ export const getClubsByLeague = (leagueId) => {
     clubs = Object.values(escociaModules).map(mod => mod.default || mod);
   } else if (leagueId === 'uruguay') {
     clubs = Object.values(uruguayModules).map(mod => mod.default || mod);
-  } else if (leagueId === 'brasil') {
+  } /* else if (leagueId === 'brasil') {
     clubs = Object.values(brasilModules).map(mod => mod.default || mod);
-  }
+  } */
   
   return clubs.sort((a, b) => {
     const nameA = a.datos?.nombre_corto || a.datos?.nombre_completo || a.id;
@@ -93,17 +93,22 @@ export const getLeagueMatchups = (leagueId) => {
 };
 
 export const getAllSearchableItems = () => {
-  const leagues = getLeagues().map(l => ({
-    type: 'league',
-    id: l.id,
-    name: l.name,
-    country: l.country,
-    shield: l.shield,
-    url: `/liga/${l.id}`
-  }));
+  const leagues = getLeagues()
+    .filter(l => !l.isHidden)
+    .map(l => ({
+      type: 'league',
+      id: l.id,
+      name: l.name,
+      country: l.country,
+      shield: l.shield,
+      url: `/liga/${l.id}`
+    }));
 
   const clubs = [];
   getLeagues().forEach(league => {
+    // Temporalmente ocultamos a Brasil de la búsqueda porque está incompleto
+    if (league.id === 'brasil') return;
+    
     const leagueClubs = getClubsByLeague(league.id);
     leagueClubs.forEach(club => {
       clubs.push({
