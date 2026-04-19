@@ -340,6 +340,7 @@ export default function League() {
       else if (leagueId === 'alemania') setActiveTorneoTab('bundesliga');
       else if (leagueId === 'francia') setActiveTorneoTab('ligue1');
       else if (leagueId === 'escocia') setActiveTorneoTab('scottish_league');
+      else if (leagueId === 'uruguay') setActiveTorneoTab('campeonato_uruguayo');
       else setActiveTorneoTab('metropolitano');
   }, [leagueId]);
   
@@ -401,6 +402,11 @@ export default function League() {
           if (activeTorneoTab === 'scottish_cup') return name.includes('scottish cup');
           if (activeTorneoTab === 'scottish_league_cup') return name.includes('scottish league cup');
           if (activeTorneoTab === 'scottish_challenge_cup') return name.includes('scottish challenge cup') || name.includes('challenge cup');
+      } else if (leagueId === 'uruguay') {
+          if (activeTorneoTab === 'campeonato_uruguayo') return name.includes('campeonato uruguayo') || name.includes('primera división');
+          if (activeTorneoTab === 'torneo_intermedio') return name.includes('torneo intermedio');
+          if (activeTorneoTab === 'supercopa_uruguaya') return name.includes('supercopa');
+          if (activeTorneoTab === 'copa_auf_uruguay') return name.includes('copa auf') || name.includes('copa uruguay');
       } else {
           if (activeTorneoTab === 'copas') return name.includes('copa') || name.includes('superfinal') || name.includes('trofeo de campeones') || name.includes('honor');
           if (activeTorneoTab === 'nacional') return name.includes('nacional') && !name.includes('primera división') && !name.includes('internacional');
@@ -1134,6 +1140,21 @@ export default function League() {
                         </button>
                         <button onClick={() => setActiveTorneoTab('scottish_challenge_cup')} style={{ background: activeTorneoTab === 'scottish_challenge_cup' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'scottish_challenge_cup' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'scottish_challenge_cup' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
                             Scottish Challenge Cup
+                        </button>
+                    </>
+                ) : leagueId === 'uruguay' ? (
+                    <>
+                        <button onClick={() => setActiveTorneoTab('campeonato_uruguayo')} style={{ background: activeTorneoTab === 'campeonato_uruguayo' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'campeonato_uruguayo' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'campeonato_uruguayo' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Campeonato Uruguayo
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('torneo_intermedio')} style={{ background: activeTorneoTab === 'torneo_intermedio' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'torneo_intermedio' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'torneo_intermedio' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Torneo Intermedio
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('supercopa_uruguaya')} style={{ background: activeTorneoTab === 'supercopa_uruguaya' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'supercopa_uruguaya' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'supercopa_uruguaya' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Supercopa Uruguaya
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('copa_auf_uruguay')} style={{ background: activeTorneoTab === 'copa_auf_uruguay' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'copa_auf_uruguay' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'copa_auf_uruguay' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Copa AUF Uruguay
                         </button>
                     </>
                 ) : (

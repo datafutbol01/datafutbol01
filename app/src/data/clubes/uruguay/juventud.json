@@ -1,0 +1,216 @@
+{
+  "id": "juventud",
+  "datos": {
+    "nombre_oficial": "Club Atlético Juventud",
+    "nombre_corto": "Juventud",
+    "sigla": "JUV",
+    "fundacion": "24 de diciembre de 1935",
+    "apodo": "Pedrenses",
+    "socios": 2500,
+    "descripcion_corta": "Institución deportiva representante de la ciudad de Las Piedras, históricamente reconocida por la eficiencia formativa en sus divisiones sub-20.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Joaquín Zeballos (36 goles)",
+      "mas_presencias": "Alejandro Reyes (154 partidos)",
+      "mayor_goleada": "5-0 vs Tacuarembó (2014)"
+    },
+    "estadios": [
+      {
+        "inauguracion": "2 de septiembre de 1995",
+        "lat": -34.7297,
+        "capacidad": 12000,
+        "nombre": "Estadio Parque Artigas",
+        "condicion": "actual",
+        "direccion": "Avenida Instrucciones del Año XIII s/n, Las Piedras, Uruguay",
+        "lng": -56.223,
+        "apodo": "Parque Artigas"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/juventud/logo.png"
+  },
+  "historia": [
+    {
+      "ano": "1935",
+      "hito": "Fundación como Club Atlético Ildu",
+      "desc": "El 24 de diciembre de 1935, un grupo de jóvenes que estudiaban en el colegio salesiano San Isidro de la ciudad de Las Piedras fundaron una nueva institución deportiva reuniéndose en la plaza principal de la localidad. La decisión se tomó luego de que las autoridades del mencionado colegio les prohibieran utilizar el espacio físico del patio para jugar al fútbol, debido a que el terreno estaba ocupado por la instalación de un pesebre navideño. Obligados a jugar fuera de la institución escolar, los fundadores adoptaron el nombre de Club Atlético Ildu. El nombre fue producto de un acuerdo con la empresa textil homónima, la cual era propiedad del padre de Carlos María Cabrera, uno de los fundadores del equipo. A cambio de utilizar el nombre, la fábrica asumió los costos y entregó la totalidad de los primeros uniformes deportivos completos que utilizó la plantilla."
+    },
+    {
+      "ano": "1947",
+      "hito": "Cambio de Nombre a Club Atlético Juventud",
+      "desc": "Doce años después de su primer acta y participando regularmente en las ligas zonales, la masa de socios convocó una asamblea extraordinaria el 13 de diciembre de 1947 en la sede administrativa. El objetivo de la asamblea fue tratar una modificación total de la identidad, proponiendo abandonar el acuerdo vigente con la marca comercial textil. La mayoría de los asistentes votó a favor de modificar los estatutos y cambiar el nombre original de la entidad. A partir de esa jornada, el equipo de fútbol se desvinculó de la marca Ildu y comenzó a registrarse oficialmente como Club Atlético Juventud. Este nombre fue elegido por los asambleístas con el propósito de homenajear el impulso de los estudiantes originarios del colegio San Isidro. Luego de este cambio, la organización comenzó un proceso de crecimiento que la consolidó como el principal equipo representativo de fútbol bajo la jurisdicción de Las Piedras."
+    },
+    {
+      "ano": "1999",
+      "hito": "El Ascenso a Primera División",
+      "desc": "Durante la temporada del Campeonato Uruguayo de Segunda División del año 1999, el primer equipo completó la campaña sumando la mayor cantidad de puntos en la tabla general de posiciones al término del calendario establecido. A raíz de esta sumatoria, el club finalizó en el primer puesto y se consagró campeón del torneo de manera matemática. Este resultado le otorgó al plantel el ascenso reglamentario directo hacia la Primera División Profesional organizada por la Asociación Uruguaya de Fútbol en Montevideo. De esta forma, el club inscribió su nombre en los registros estadísticos del sistema nacional al marcar un precedente específico: Juventud se convirtió en la primera institución originaria del interior del país que logró acceder formalmente a la máxima categoría del fútbol uruguayo obteniendo la promoción únicamente por medio de resultados deportivos, sin depender de cupos administrativos o invitaciones del ente rector."
+    },
+    {
+      "ano": "2006",
+      "hito": "Título Internacional Sub-20 en Viareggio",
+      "desc": "Como parte de su proyecto de inferiores, durante los meses de febrero y marzo del año 2006, la directiva aceptó una invitación del comité organizador italiano y envió a la categoría sub-20 a disputar la Copa Carnevale, disputada habitualmente en el Torneo di Viareggio en Italia. En la presentación internacional, la delegación avanzó a lo largo de las rondas eliminatorias frente a equipos formativos europeos de diferentes países y logró clasificar para definir el trofeo en el partido final, enfrentándose a la división juvenil de la Juventus de Turín. El encuentro finalizó a favor del equipo de Las Piedras por un marcador de 1 a 0, producto de un gol convertido por el mediocampista Ribair Rodríguez. Este resultado determinó la consagración del cuadro uruguayo, ubicando a la institución como el primer representante proveniente del continente americano en la historia del torneo en obtener el título general."
+    },
+    {
+      "ano": "2015",
+      "hito": "Debut Internacional en la Copa Sudamericana",
+      "desc": "Al finalizar el Campeonato Uruguayo de la temporada 2014-2015, bajo la dirección técnica del entrenador Jorge Giordano, la sumatoria final de puntos obtenidos en la base de la Tabla Anual de Primera División clasificó al conjunto uruguayo a una competición internacional oficial de Conmebol. El equipo integró el calendario oficial de cruces de la Copa Sudamericana de 2015, marcando su primera presencia en un torneo continental. En la primera fase de la competencia, le fue asignado como rival el primer equipo del Club Bamin Real Potosí radicado en Bolivia. Tras disputar sus encuentros, el cuadro avanzó producto de los goles a favor logrados en territorio uruguayo y superó la instancia. Seguidamente, en los cruces pautados para la segunda fase del torneo, disputaron dos empates sin goles contra el Club Sport Emelec de Ecuador, finalizando la participación en el torneo tras una definición por ejecución de tiros penales."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Torneo Viareggio (Internacional)",
+      "cantidad": 1,
+      "años": [
+        "2006"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 1,
+      "años": [
+        "1999"
+      ]
+    },
+    {
+      "nombre": "Tercera División",
+      "cantidad": 1,
+      "años": [
+        "1995"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1935,
+      "hasta": null,
+      "c1": "#0033A0",
+      "c2": "#FFFFFF",
+      "sh": "#000000",
+      "me": "#0033A0",
+      "tipo": "rayas-verticales",
+      "desc": "Histórica camisa basada a bastones y rayas verticales azules y blancos ininterrumpidos en representación municipal a Las Piedras."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Alejandro Reyes",
+      "pos": "Mediocampista Central",
+      "apodo": "El Ale",
+      "periodo": "2010-2018",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2010-2018, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Fabián Carini",
+      "pos": "Arquero",
+      "apodo": "Facha",
+      "periodo": "2014-2016",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero durante el período 2014-2016, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Cristian Latorre",
+      "pos": "Mediocampista",
+      "apodo": "Cacha",
+      "periodo": "2010-2015",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2010-2015, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Matías Alonso",
+      "pos": "Delantero",
+      "apodo": "El Mati",
+      "periodo": "2012-2014, 2018",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2012-2014, 2018, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Fernando Machado",
+      "pos": "Defensor Central",
+      "apodo": "El Ferna",
+      "periodo": "2013-2016",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 2013-2016, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Jaime Báez",
+      "goles": 25,
+      "partidos": 80,
+      "periodo": "2012-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2015."
+    },
+    {
+      "nombre": "Matías Alonso",
+      "goles": 22,
+      "partidos": 70,
+      "periodo": "2012-2014",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2012-2014."
+    },
+    {
+      "nombre": "Joaquín Zeballos",
+      "goles": 19,
+      "partidos": 65,
+      "periodo": "2018-2019",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 19 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2019."
+    },
+    {
+      "nombre": "Cristian Latorre",
+      "goles": 18,
+      "partidos": 100,
+      "periodo": "2010-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2015."
+    },
+    {
+      "nombre": "Federico Rodríguez",
+      "goles": 15,
+      "partidos": 50,
+      "periodo": "2015-2016",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2016."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Alejandro Reyes",
+      "partidos": 170,
+      "periodo": "2010-2018",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 170 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-2018."
+    },
+    {
+      "nombre": "Fernando Machado",
+      "partidos": 140,
+      "periodo": "2013-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 140 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2016."
+    },
+    {
+      "nombre": "Emiliano Romero",
+      "partidos": 120,
+      "periodo": "2012-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2012-2016."
+    },
+    {
+      "nombre": "Matías Duffard",
+      "partidos": 110,
+      "periodo": "2013-2017",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 110 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2017."
+    },
+    {
+      "nombre": "Fabián Carini",
+      "partidos": 70,
+      "periodo": "2014-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 70 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2016."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Pedrenses",
+      "origen": "Se fundamenta de modo excluyente sobre la zona de anclaje de conformación formal jurídica radicando su centro social sobre la histórica ciudad de Las Piedras afincado en la geografía este de la extensión territorial de Canelones, adoptando e implementando las referencias al asentamiento local, consolidándose por pertenencia sobre el padrón municipal en alusión expresa a los ciudadanos asentados geográficamente alrededor y sobre las márgenes colindantes perimetrales a los talleres regionales."
+    }
+  ],
+  "evolucion_escudos": []
+}

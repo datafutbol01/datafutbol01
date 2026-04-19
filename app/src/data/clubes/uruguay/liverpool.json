@@ -1,0 +1,238 @@
+{
+  "id": "liverpool",
+  "datos": {
+    "nombre_oficial": "Liverpool Fútbol Club",
+    "nombre_corto": "Liverpool",
+    "sigla": "LIV",
+    "fundacion": "15 de febrero de 1915",
+    "apodo": "Negriazules, El Negro de la Cuchilla",
+    "socios": 3500,
+    "descripcion_corta": "Institución de histórico arraigo en el barrio Belvedere, reconocida por su evolución sostenida hasta consolidarse como campeón de la Primera División.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Juan Ignacio Ramírez (85 goles)",
+      "mas_presencias": "Carlos Macchi (280 partidos)",
+      "mayor_goleada": "7-0 vs Bella Vista (2011)"
+    },
+    "estadios": [
+      {
+        "inauguracion": "1909",
+        "lat": -34.8519,
+        "capacidad": 10000,
+        "nombre": "Estadio Belvedere",
+        "condicion": "actual",
+        "direccion": "Julián Laguna y Carlos María Ramírez, Belvedere, Montevideo",
+        "lng": -56.223,
+        "apodo": "Belvedere"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/liverpool/logo.png"
+  },
+  "historia": [
+    {
+      "ano": "1915",
+      "hito": "Fundación en Nuevo París",
+      "desc": "El 15 de febrero de 1915, en la trastienda del almacén comercial propiedad de los hermanos Chinchurreta, ubicado en la intersección de las calles Agraciada y Pilar Costa en el barrio Nuevo París, se labró el acta fundacional de la institución. Los orígenes documentados del grupo fundador se remontan al año 1908, cuando varios de ellos eran alumnos regulares del Colegio de los Padres Capuchinos de la zona. Durante la asamblea constitutiva, la directiva seleccionó el nombre de Liverpool como homenaje al puerto inglés del mismo nombre. Asimismo, los asambleístas definieron de forma unánime que el uniforme oficial consistiera en camisetas de color negro y azul, adoptados como homenaje directo a la unión de dos equipos activos en la zona en esa época: el equipo conocido como Titán, que utilizaba prendas azules, y la escuadra Defensa, que competía históricamente empleando camisetas de diseño negro completo."
+    },
+    {
+      "ano": "1938",
+      "hito": "Adquisición del Estadio Belvedere",
+      "desc": "A partir del año 1938, tras varios años de gestiones formales, el club concretó la compra definitiva de las instalaciones correspondientes al campo del Estadio Belvedere. Este recinto deportivo ostentaba una marca histórica sustancial para el sistema de la Asociación Uruguaya de Fútbol debido a que había sido inaugurado originalmente en el año 1909, y quedó resguardado en los archivos centralizados como el campo de juego específico donde la selección nacional de Uruguay utilizó por primera vez la tradicional camiseta de color celeste en 1910 durante un compromiso oficial frente a la selección de Argentina. Tras concretar los pagos documentados y obtener la posesión del terreno, Liverpool estableció allí su localía permanente, centralizando en el barrio los partidos correspondientes al plantel superior y construyendo el sentido deportivo de todos los socios de la zona oeste de la capital en torno a este escenario base."
+    },
+    {
+      "ano": "1966",
+      "hito": "Campeón Invicto de la Divisional B",
+      "desc": "Durante el transcurso de los torneos correspondientes al Campeonato Uruguayo de la Segunda División Profesional en la temporada del año 1966, el primer equipo completó una campaña estadística sobresaliente que le otorgó los puntos reglamentarios necesarios para lograr el ascenso directo a la máxima categoría del fútbol uruguayo. El plantel conformado por la directiva concretó una sucesión ininterrumpida de resultados positivos, logrando el título de campeón del certamen de Segunda División sumando la condición de equipo invicto. A lo largo de la totalidad de los encuentros disputados correspondientes al calendario oficial de ida y vuelta, el equipo no contabilizó ninguna derrota frente a sus rivales de turno. Este ascenso afianzó la permanencia institucional de la organización dentro de las competencias profesionales de la Primera División a lo largo de las siguientes décadas, consolidando su peso representativo en los torneos anuales desarrollados por la AUF."
+    },
+    {
+      "ano": "2020",
+      "hito": "El Primer Título de Primera División",
+      "desc": "En el marco de las competencias establecidas para el calendario del año 2020, bajo la dirección técnica del entrenador Román Cuello, el plantel principal ganó de manera concluyente la final única correspondiente a la disputa oficial del torneo de la Supercopa Uruguaya. El partido se disputó enfrentando al Club Nacional de Football durante noventa minutos más la prórroga oficial de alargue dentro de las instalaciones del Estadio Domingo Burgueño Miguel, ubicado en el departamento limítrofe de Maldonado. Al concluir el tiempo de juego reglamentario ordenado por el cuerpo arbitral, el conjunto de Belvedere obtuvo una victoria final con un marcador documentado a favor de 4-2, logrando la celebración explícita de su primer título oficial en la máxima categoría. Esta obtención de la copa representó el quiebre de cien años formales de sequía representativa y habilitó el ciclo de campeonatos más exitoso en la cronología estricta del club."
+    },
+    {
+      "ano": "2023",
+      "hito": "Campeón Uruguayo por Primera Vez",
+      "desc": "Durante el calendario de competencias correspondiente al año 2023, compitiendo bajo el entrenamiento y comando táctico del director técnico Jorge Bava, la institución concretó la campaña estadísticamente superior computada en toda la historia de la organización. Tras conseguir los resultados necesarios para adjudicarse el título del Torneo Intermedio disputando la final contra Defensor Sporting, el equipo completó su ciclo de acumulación de victorias ganando el primer puesto de la tabla del Torneo Clausura. Estos resultados ubicaron a Liverpool a la cabeza clasificatoria de la Tabla Anual y le permitieron el acceso a los cruces definitivos para resolver el Campeonato Uruguayo enfrentando al Club Atlético Peñarol. Tras disputar el primer partido de la serie como locales en el Estadio Belvedere y el partido final de visitantes en el escenario del estadio Campeón del Siglo, el equipo cerró un saldo global de tres goles a cero y logró consagrarse Campeón Uruguayo absoluto."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Campeonato Uruguayo",
+      "cantidad": 1,
+      "años": [
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Supercopa Uruguaya",
+      "cantidad": 3,
+      "años": [
+        "2020",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Torneo Intermedio",
+      "cantidad": 2,
+      "años": [
+        "2019",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Torneo Clausura",
+      "cantidad": 2,
+      "años": [
+        "2020",
+        "2023"
+      ]
+    },
+    {
+      "nombre": "Torneo Apertura",
+      "cantidad": 1,
+      "años": [
+        "2022"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1915,
+      "hasta": null,
+      "c1": "#0033A0",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#0033A0",
+      "tipo": "rayas-verticales",
+      "desc": "Clásica camiseta con bastones o rayas verticales de intenso color negro y azul oscuro en honor a los marineros mercantes ingleses atracados en astilleros."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Emiliano Alfaro",
+      "pos": "Delantero",
+      "apodo": "El Emi",
+      "periodo": "2006-2009, 2011-2012, 2014-2015",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2006-2009, 2011-2012, 2014-2015, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Carlos Macchi",
+      "pos": "Mediocampista Central",
+      "apodo": "Caco",
+      "periodo": "2003-2013",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2003-2013, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Jorge Bava",
+      "pos": "Arquero / Entrenador",
+      "apodo": "El Loco",
+      "periodo": "2015-2021",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero / entrenador durante el período 2015-2021, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Paulo Pezzolano",
+      "pos": "Enganche",
+      "apodo": "Papa",
+      "periodo": "2008-2009, 2012-2015",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 2008-2009, 2012-2015, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Nicolás De La Cruz",
+      "pos": "Mediocampista Ofensivo",
+      "apodo": "Nico",
+      "periodo": "2015-2017",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista ofensivo durante el período 2015-2017, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Emiliano Alfaro",
+      "goles": 53,
+      "partidos": 140,
+      "periodo": "2006-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2015."
+    },
+    {
+      "nombre": "Juan Ignacio Ramírez",
+      "goles": 85,
+      "partidos": 167,
+      "periodo": "2016-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 85 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2021."
+    },
+    {
+      "nombre": "Carlos Sánchez",
+      "goles": 33,
+      "partidos": 90,
+      "periodo": "2003-2009",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 33 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2009."
+    },
+    {
+      "nombre": "Paulo Pezzolano",
+      "goles": 28,
+      "partidos": 110,
+      "periodo": "2008-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2015."
+    },
+    {
+      "nombre": "Federico Martínez",
+      "goles": 35,
+      "partidos": 120,
+      "periodo": "2015-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2020."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Carlos Macchi",
+      "partidos": 284,
+      "periodo": "2003-2013",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 284 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2013."
+    },
+    {
+      "nombre": "Mauricio Díaz",
+      "partidos": 215,
+      "periodo": "1995-2003",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 215 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1995-2003."
+    },
+    {
+      "nombre": "Juan Ignacio Ramírez",
+      "partidos": 167,
+      "periodo": "2016-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 167 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2021."
+    },
+    {
+      "nombre": "Emiliano Alfaro",
+      "partidos": 140,
+      "periodo": "2006-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 140 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2006-2015."
+    },
+    {
+      "nombre": "Federico Martínez",
+      "partidos": 120,
+      "periodo": "2015-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2020."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Negriazules",
+      "origen": "Determinación básica representativa originada de la estricta alternancia monocromática compuesta por sus rayas verticales, combinando incesantemente sobre las bases visuales la utilización complementaria entre la coloración de tonalidad oscurecida nocturna y las hebras bañadas a tonos derivados del añil puro, estandarizados tras su elección por estudiantes formativos pioneros."
+    },
+    {
+      "apodo": "Los de la Cuchilla",
+      "origen": "Remite puntualmente al anclaje territorial de Belvedere, locación perimetral occidental de la ciudad cuyo tramo topográfico natural en elevación era históricamente conocido y denominado en catastro geográfico local bajo la determinación de la 'Cuchilla de Juan Fernández' o Cuchilla de las Sierras, loma donde se halla montado y estacionado íntegramente el sistema logístico local del equipo."
+    }
+  ],
+  "evolucion_escudos": []
+}

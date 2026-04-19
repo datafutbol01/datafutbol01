@@ -1,0 +1,315 @@
+{
+  "id": "nacional",
+  "datos": {
+    "nombre_oficial": "Club Nacional de Football",
+    "nombre_corto": "Nacional",
+    "sigla": "NAC",
+    "fundacion": "14 de mayo de 1899",
+    "apodo": "Tricolores, Bolsilludos, Albos",
+    "socios": 85000,
+    "descripcion_corta": "Gigante sudamericano nacido como el primer club criollo de América. Institución tricampeona del mundo con un protagonismo hegemónico en la cultura e historia deportiva del país charrúa.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#002868"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Atilio García (465 goles)",
+      "mas_presencias": "Emilio Álvarez (511 partidos)",
+      "mayor_goleada": "10-0 vs Lira (1941)"
+    },
+    "estadios": [
+      {
+        "nombre": "Cancha de Punta de las Carretas",
+        "apodo": "Punta de las Carretas",
+        "capacidad": 1000,
+        "inauguracion": "1899",
+        "direccion": "Punta Carretas, Montevideo, Uruguay",
+        "lat": -34.9213,
+        "lng": -56.1601,
+        "condicion": "historico"
+      },
+      {
+        "inauguracion": "25 de mayo de 1900",
+        "lat": -34.8837,
+        "capacidad": 38400,
+        "nombre": "Gran Parque Central",
+        "condicion": "actual",
+        "direccion": "Calle Carlos Anaya 2900, Montevideo, Uruguay",
+        "lng": -56.1558,
+        "apodo": "El Parque, Primer Estadio Mundialista"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/nacional/Cndef2019-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1899",
+      "hito": "Fusión y Fundación del Nacional",
+      "desc": "El 14 de mayo de 1899, en la residencia de Ernesto Caprario (ubicada en la calle Soriano 99 de Montevideo), directivos y jugadores del Uruguay Athletic y del Montevideo Football Club consolidaron su fusión tras comprobar que la matriz deportiva local estaba completamente dominada por extranjeros británicos. Esta unión dio nacimiento al Club Nacional de Football, instituyéndose orgánicamente como la primera entidad del continente creada íntegramente por pobladores criollos y nativos de América. Bajo la primera presidencia de Domingo Prat y apadrinados simbólicamente por Sebastián Puppo, el club dictaminó la inalterable utilización de los tres colores del prócer José Gervasio Artigas (rojo, azul y blanco) como estandarte constitutivo."
+    },
+    {
+      "ano": "1903",
+      "hito": "La Primer Gesta Internacional y los Céspedes",
+      "desc": "El 13 de septiembre de 1903, la naciente selección nacional de Uruguay debía enfrentarse a Argentina en Buenos Aires. Ante la negativa y baja masiva de los jugadores del CURCC, la Asociación uruguaya recurrió al plantel completo de Nacional para que cruzara el Río de la Plata en representación oficial del país. Comandados tácitamente por la dupla letal de los hermanos Amílcar y Bolívar Céspedes, el equipo oriental triunfó 3-2 en territorio porteño, sellando la primera victoria internacional en la historia del fútbol uruguayo."
+    },
+    {
+      "ano": "1971",
+      "hito": "Hegemonía Continental y Primer Título Mundial",
+      "desc": "Bajo la dirección técnica de Washington Etchamendi, la institución quebró definitivamente su sequía internacional coronándose campeona de su primera Copa Libertadores de América tras vencer a Estudiantes de La Plata, destacando la contundencia de Luis Artime y Julio César Morales. En diciembre de ese mismo año, el equipo revalidó su estatus absoluto adjudicándose la Copa Intercontinental al superar al Panathinaikos de Grecia (subcampeón europeo que reemplazó al Ajax), sellando con un gol de Artime en Montevideo el primer campeonato del mundo oficial del club."
+    },
+    {
+      "ano": "1980",
+      "hito": "La Segunda Corona en Tokio",
+      "desc": "El club cimentó su segundo ciclo dorado continental venciendo en una dura final de Copa Libertadores al SC Internacional de Porto Alegre de Brasil. Posteriormente, integrando un plantel sólido liderado en la defensa por Hugo De León y comandado ofensivamente por Waldemar Victorino, Nacional inauguró el formato a partido único de la Copa Intercontinental en el Estadio Nacional de Tokio el 11 de febrero de 1981, venciendo por 1-0 al Nottingham Forest de Inglaterra con un tanto resolutivo de Victorino a los 10 minutos de juego."
+    },
+    {
+      "ano": "1988",
+      "hito": "El Tercer Sello Intercontinental",
+      "desc": "Tras golear 3-0 en la prórroga a Newell's Old Boys en el Estadio Centenario y ganar su tercera Copa Libertadores, el plantel conducido por Roberto Fleitas viajó a Japón para enfrentar al poderoso PSV Eindhoven de Holanda en una de las finales más disputadas de la Copa Intercontinental. Luego de un empate 2-2 en tiempo reglamentario y alargue (con un doblete decisivo de Santiago Ostolaza), el arquero Jorge Seré fue determinante en la tanda de penales. Un último y certero remate de Tony Gómez fijó la victoria uruguaya definitiva, colocando el tercer título mundial en el palmarés tricolor."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Campeonato Uruguayo",
+      "cantidad": 50,
+      "años": [
+        "1902",
+        "1903",
+        "1912",
+        "1915",
+        "1916",
+        "1917",
+        "1919",
+        "1920",
+        "1922",
+        "1923",
+        "1924",
+        "1933",
+        "1934",
+        "1939",
+        "1940",
+        "1941",
+        "1942",
+        "1943",
+        "1946",
+        "1947",
+        "1950",
+        "1952",
+        "1955",
+        "1956",
+        "1957",
+        "1963",
+        "1966",
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1977",
+        "1980",
+        "1983",
+        "1992",
+        "1998",
+        "2000",
+        "2001",
+        "2002",
+        "2005",
+        "2005-06",
+        "2008-09",
+        "2011-12",
+        "2014-15",
+        "2016",
+        "2019",
+        "2020",
+        "2022",
+        "2025"
+      ]
+    },
+    {
+      "nombre": "Copa Libertadores",
+      "cantidad": 3,
+      "años": [
+        "1971",
+        "1980",
+        "1988"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 3,
+      "años": [
+        "1971",
+        "1980",
+        "1988"
+      ]
+    },
+    {
+      "nombre": "Copa Interamericana",
+      "cantidad": 2,
+      "años": [
+        "1972",
+        "1989"
+      ]
+    },
+    {
+      "nombre": "Recopa Sudamericana",
+      "cantidad": 1,
+      "años": [
+        "1989"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1899,
+      "hasta": 1902,
+      "c1": "#DA291C",
+      "c2": "#0033A0",
+      "sh": "#0033A0",
+      "me": "#0033A0",
+      "tipo": "mitad-vertical",
+      "desc": "En su fundación, se adoptó la camisa roja o a mitades rojas y azules con colores procedentes de la bandera de Artigas."
+    },
+    {
+      "desde": 1902,
+      "hasta": null,
+      "c1": "#FFFFFF",
+      "c2": null,
+      "sh": "#0033A0",
+      "me": "#0033A0",
+      "tipo": "liso",
+      "desc": "Implantación inalterable de la camisa predominantemente blanca lisa con vivos o bolsillo tricolor (rojo, blanco y azul) en el pecho, completando con pantalones azules."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Abdón Porte",
+      "pos": "Mediocampista Central",
+      "apodo": "El Indio",
+      "periodo": "1911-1918",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 1911-1918, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Héctor Scarone",
+      "pos": "Entreala Derecho",
+      "apodo": "El Mago",
+      "periodo": "1916-1932",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de entreala derecho durante el período 1916-1932, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Atilio García",
+      "pos": "Delantero",
+      "apodo": "Bigote",
+      "periodo": "1938-1951",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1938-1951, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Julio César Morales",
+      "pos": "Extremo Izquierdo",
+      "apodo": "Cascarilla",
+      "periodo": "1965-1981",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de extremo izquierdo durante el período 1965-1981, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Hugo De León",
+      "pos": "Defensor Central",
+      "apodo": "El Hugo",
+      "periodo": "1977-1993",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 1977-1993, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Atilio García",
+      "goles": 468,
+      "partidos": 435,
+      "periodo": "1938-1951",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 468 goles en competiciones oficiales durante su trayectoria en el equipo entre 1938-1951."
+    },
+    {
+      "nombre": "Héctor Scarone",
+      "goles": 301,
+      "partidos": 391,
+      "periodo": "1916-1932",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 301 goles en competiciones oficiales durante su trayectoria en el equipo entre 1916-1932."
+    },
+    {
+      "nombre": "Julio César Morales",
+      "goles": 191,
+      "partidos": 471,
+      "periodo": "1965-1981",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 191 goles en competiciones oficiales durante su trayectoria en el equipo entre 1965-1981."
+    },
+    {
+      "nombre": "Carlos Scarone",
+      "goles": 152,
+      "partidos": 227,
+      "periodo": "1914-1927",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 152 goles en competiciones oficiales durante su trayectoria en el equipo entre 1914-1927."
+    },
+    {
+      "nombre": "Luis Artime",
+      "goles": 152,
+      "partidos": 154,
+      "periodo": "1969-1974",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 152 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1974."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Emilio Álvarez",
+      "partidos": 511,
+      "periodo": "1959-1970",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 511 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1970."
+    },
+    {
+      "nombre": "Julio César Morales",
+      "partidos": 471,
+      "periodo": "1965-1981",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 471 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1981."
+    },
+    {
+      "nombre": "Aníbal Paz",
+      "partidos": 471,
+      "periodo": "1939-1953",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 471 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1939-1953."
+    },
+    {
+      "nombre": "Víctor Espárrago",
+      "partidos": 435,
+      "periodo": "1966-1979",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 435 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1966-1979."
+    },
+    {
+      "nombre": "Atilio García",
+      "partidos": 435,
+      "periodo": "1938-1951",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 435 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1938-1951."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Bolsos / Bolso",
+      "origen": "Deriva literalmente del formato característico del uniforme titular utilizado por la escuadra durante la primera mitad del siglo XX. Inicialmente, la vestimenta de la institución se mandó a confeccionar incrustando un amplio e insólito bolsillo superior sobre el costado izquierdo del pecho en las camisas blancas, situado estructuralmente por detrás o por debajo del escudo con fines meramente utilitarios para los guardametas y jugadores amateur."
+    },
+    {
+      "apodo": "Tricolores",
+      "origen": "Establecido como una estricta constatación óptica de los tres tonos implementados reglamentariamente en la fundación del club en el año 1899. La paleta representa específicamente al histórico pabellón patrio rioplatense liderado e ideado por la figura de José Gervasio Artigas, adoptando oficialmente para sus telares los colores blanco, azul y rojo representativos y distintivos de las gestas independentistas orientales de comienzos del siglo XIX."
+    },
+    {
+      "apodo": "Albos",
+      "origen": "Referencia puramente descriptiva originada en la prensa gráfica capitalina empleada para simplificar las crónicas escritas deportivas. El sustantivo remite sin eufemismos al color blanco inmaculado e indivisible, vocablo derivado académicamente del registro culto proveniente del latín 'albus', adoptado como referencia unívoca a la camisa principal, pura y lisa sin recortes, definida históricamente como uniforme central."
+    }
+  ],
+  "evolucion_escudos": []
+}

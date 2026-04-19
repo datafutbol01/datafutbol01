@@ -1,0 +1,209 @@
+{
+  "id": "cerro-largo",
+  "datos": {
+    "nombre_oficial": "Cerro Largo Fútbol Club",
+    "nombre_corto": "Cerro Largo",
+    "sigla": "CRL",
+    "fundacion": "19 de noviembre de 2002",
+    "apodo": "Arachanes",
+    "socios": 2500,
+    "descripcion_corta": "Organización deportiva fundada bajo tutela municipal en el siglo XXI con el mandato estatutario de insertar un representante unificado del departamento en el esquema profesional de Montevideo.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#0000FF"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Enzo Borges (37 goles)",
+      "mas_presencias": "Bruno Silva (125 partidos)",
+      "mayor_goleada": "5-1 vs Cerrito (2009)"
+    },
+    "estadios": [
+      {
+        "inauguracion": "1942",
+        "lat": -32.3782,
+        "capacidad": 9000,
+        "nombre": "Arquitecto Antonio Eleuterio Ubilla",
+        "condicion": "actual",
+        "direccion": "Ruta 8 y Bulevar Francisco Mata, Melo, Cerro Largo, Uruguay",
+        "lng": -54.1685,
+        "apodo": "El Ubilla"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/cerro-largo/logo.png"
+  },
+  "historia": [
+    {
+      "ano": "2002",
+      "hito": "Fundación Institucional Departamental",
+      "desc": "El 19 de noviembre de 2002, como resultado de una planificación logística orientada a otorgar representación formal al interior del país dentro de la jurisdicción del profesionalismo de la Asociación Uruguaya de Fútbol, delegados deportivos constituyeron el Cerro Largo Fútbol Club en la ciudad de Melo. El proyecto integrador dictaminó en su acta fundacional la adopción de los colores azul y blanco para coincidir con el diseño de la bandera del departamento. El formato de actividades incluyó la concesión y usufructo del Estadio Municipal Arquitecto Antonio Eleuterio Ubilla como sede oficial para fijar sus localías en los calendarios nacionales."
+    },
+    {
+      "ano": "2008",
+      "hito": "Primer Ascenso a Primera División",
+      "desc": "Transcurridos seis años de participación ininterrumpida compitiendo en el circuito formal de la Segunda División Profesional, el plantel superior obtuvo los puntos requeridos durante el cierre de la temporada 2007-2008 para afianzar el ascenso reglamentario. Mediante la superación de la fase eliminatoria ante El Tanque Sisley, el club confirmó su inclusión legal por primera ocasión temporal en la Primera División de Uruguay, asumiendo su primera etapa estable y operativa en el cuadro de la categoría formativa de máxima instancia durante el ciclo correspondiente al año 2008."
+    },
+    {
+      "ano": "2012",
+      "hito": "Clasificación a la Copa Sudamericana",
+      "desc": "En el marco de la temporada 2011-2012, el equipo mayor dirigido por el entrenador técnico Danielo Núñez sumó el total de cincuenta y cuatro puntos en el tablero de la Tabla Anual del campeonato uruguayo, ocupando de manera estadística la cuarta posición general del año deportivo. Este puntaje autorizó de manera directa la clasificación organizativa a la Copa Sudamericana 2012 de Conmebol. El conjunto ofició su serie inicial enfrentando al representativo del Club Aurora de Bolivia bajo el formato oficial de instancias de local y de condición de visita."
+    },
+    {
+      "ano": "2018",
+      "hito": "Primer Trofeo Nacional Oficial",
+      "desc": "Condicionado por variaciones temporales en las tablas de descenso que depositaron a la entidad en escalas inferiores, el registro organizativo completó el Campeonato Uruguayo de Segunda División Profesional de 2018 finalizando en la primera ubicación matemática. Al terminar la temporada con el puntaje más alto frente al resto de la divisional, la plantilla oficializó la captura de la copa nacional. Este campeonato se documentó como el primer título unificado radicado en la sede del equipo y le garantizó explícitamente su retorno a los torneos de la Primera División."
+    },
+    {
+      "ano": "2020",
+      "hito": "Debut Institucional en Copa Libertadores",
+      "desc": "Mediante la acumulación del cociente clasificatorio en la Tabla Anual correspondiente a la temporada 2019 de la Primera División, logrando el tercer puesto del acumulado total con ochenta y nueve puntos ponderados, el club ratificó su pasaje a las fases preliminares de la Copa Libertadores oficial organizada en 2020. Bajo este requerimiento de Conmebol, el equipo enfrentó la instancia asumiendo logística ante el Club Deportivo Palestino del circuito central de Chile. Para ello operaron fijando localía temporal fuera de su región durante su partido inicial, culminando igualados a un tanto."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Segunda División",
+      "cantidad": 1,
+      "años": [
+        "2018"
+      ]
+    },
+    {
+      "nombre": "Torneo Apertura de Segunda",
+      "cantidad": 1,
+      "años": [
+        "2007"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 2002,
+      "hasta": null,
+      "c1": "#0033A0",
+      "c2": "#FFFFFF",
+      "sh": "#000000",
+      "me": "#FFFFFF",
+      "tipo": "rayas-verticales",
+      "desc": "Bastones o rayas verticales de color azul francia o azul profundo con blanco, siendo herencia cruzada oficial de la selección departamental."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Bruno Silva",
+      "pos": "Defensor / Entrenador",
+      "apodo": "Bruno",
+      "periodo": "2013-2016",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor / entrenador durante el período 2013-2016, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Enzo Borges",
+      "pos": "Delantero",
+      "apodo": "Enzo",
+      "periodo": "2019-2021",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2019-2021, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Washington Aguerre",
+      "pos": "Arquero",
+      "apodo": "Washi",
+      "periodo": "2018-2021",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero durante el período 2018-2021, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Adolfo Lima",
+      "pos": "Mediocampista / Extremo",
+      "apodo": "El Rasta",
+      "periodo": "2018-2020",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista / extremo durante el período 2018-2020, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Sebastián Assis",
+      "pos": "Mediocampista Central",
+      "apodo": "Seba",
+      "periodo": "2018-2020",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2018-2020, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Enzo Borges",
+      "goles": 35,
+      "partidos": 80,
+      "periodo": "2019-2021",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2021."
+    },
+    {
+      "nombre": "Adolfo Lima",
+      "goles": 24,
+      "partidos": 70,
+      "periodo": "2018-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 24 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2020."
+    },
+    {
+      "nombre": "Fabricio Núñez",
+      "goles": 20,
+      "partidos": 45,
+      "periodo": "2013-2014",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2013-2014."
+    },
+    {
+      "nombre": "Hugo Dorrego",
+      "goles": 18,
+      "partidos": 60,
+      "periodo": "2019-2020",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2020."
+    },
+    {
+      "nombre": "Rino Lucas",
+      "goles": 16,
+      "partidos": 50,
+      "periodo": "2010s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 16 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010s."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Bruno Silva",
+      "partidos": 120,
+      "periodo": "2013-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2016."
+    },
+    {
+      "nombre": "Washington Aguerre",
+      "partidos": 105,
+      "periodo": "2018-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 105 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2021."
+    },
+    {
+      "nombre": "Marcos Otegui",
+      "partidos": 100,
+      "periodo": "2010s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s."
+    },
+    {
+      "nombre": "Sebastián Assis",
+      "partidos": 90,
+      "periodo": "2018-2020",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 90 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2020."
+    },
+    {
+      "nombre": "Hugo Magallanes",
+      "partidos": 85,
+      "periodo": "2019-2021",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 85 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2021."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Arachanes",
+      "origen": "Se denomina bajo gentilicio nativo correspondiente al pueblo indígena primario históricamente emparentado geográfica y culturalmente y distribuido predominantemente sobre la región y faja este correspondiente a la extensión de la Cuchilla Grande, las inmediaciones del caudal geográfico afluente y el límite binacional en Melo. El término antropológico local fue apropiado y avalado formalmente como representación representativa para agrupar bajo única bandera y representación institucional capital a los diversos poblados oriundos del departamento."
+    }
+  ],
+  "evolucion_escudos": []
+}

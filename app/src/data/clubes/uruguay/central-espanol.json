@@ -1,0 +1,222 @@
+{
+  "id": "central-espanol",
+  "datos": {
+    "nombre_oficial": "Central Español Fútbol Club",
+    "nombre_corto": "Central Español",
+    "sigla": "CEN",
+    "fundacion": "5 de enero de 1905",
+    "apodo": "Palermitanos",
+    "socios": 1100,
+    "descripcion_corta": "Histórica entidad representativa de los barrios del sur capitalino y Palermo, estructurada financieramente en el siglo XX y campeona uruguaya en 1984.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      },
+      {
+        "tag": "Azul",
+        "hex": "#000080"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Víctor Guaglianone (36 goles)",
+      "mas_presencias": "Diego Riolfo (120 partidos)",
+      "mayor_goleada": "6-1 vs Defensor (1940)"
+    },
+    "estadios": [
+      {
+        "inauguracion": "31 de octubre de 1937",
+        "lat": -34.8876,
+        "capacidad": 4072,
+        "nombre": "Parque Palermo",
+        "condicion": "actual",
+        "direccion": "Av. Dr. Américo Ricaldoni s/n, Montevideo, Uruguay",
+        "lng": -56.1479,
+        "apodo": "El Palermo"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/central-espanol/logo.jpg"
+  },
+  "historia": [
+    {
+      "ano": "1905",
+      "hito": "Fusiones Fundacionales y el Nombre Central",
+      "desc": "El 5 de enero de 1905, jóvenes vecinos y trabajadores del barrio de Palermo oficializaron la creación de la entidad deportiva mediante la fusión directa de dos equipos embrionarios locales: el Soriano Football Club y el Solís Football Club. Para definir el nombre de la institución unificada, ambos conjuntos disputaron un partido resolutivo que consagró ganador al equipo de Soriano por 2 a 0. Tras el triunfo, impusieron la denominación 'Central Football Club' como referencia geográfica directa al contiguo Cementerio Central de Montevideo. La dirigencia originaria fue impulsada y financiada por Manuel Fernández, propietario de la Tienda Saturno de la zona, quien organizó formalmente la provisión de los primeros uniformes para el plantel, integrado en su núcleo fundacional por Bugallo, Trucco, Laserre, Méndez, y Eiras, entre otros pioneros absolutos."
+    },
+    {
+      "ano": "1908",
+      "hito": "Ingreso Operativo a la Primera División",
+      "desc": "Terminada su primera etapa estructurando sus divisionales inferiores e inscribiéndose formalmente ante los entes reguladores asociacionistas la temporada anterior, el primer equipo superó la fase aficionada y logró en 1908 el acta de afiliación para debutar en la Primera División de la Asociación Uruguaya de Fútbol. Durante este ciclo administrativo, el estatuto de la asamblea reglamentó la utilización perpetua de la vestimenta oficial caracterizada por los tres colores dominantes rojo, azul y blanco."
+    },
+    {
+      "ano": "1971",
+      "hito": "La Modificación Constitucional a Central Español",
+      "desc": "Afectados por diversas crisis de financiamiento posteriores a su primera etapa, y tras décadas de alternar presencias en competencias de ascenso durante la era profesional, la asamblea corporativa concretó un memorando de reestructuración radical el 8 de noviembre de 1971. Mediante la fusión y absorción operativa de capitales vinculados a instituciones y federaciones representativas de la colectividad española en Uruguay, se oficializó un pacto legal que mutó definitivamente el nombre original de la entidad hacia la actual denominación 'Central Español Fútbol Club', estabilizando transitoriamente sus arcas económicas."
+    },
+    {
+      "ano": "1984",
+      "hito": "El Histórico Campeonato Uruguayo",
+      "desc": "Bajo la administración técnica del entrenador Roberto Fleitas, quien asumió un control táctico férreo del equipo, la plantilla mayor coronó el cenit estadístico absoluto de sus registros históricos adjudicándose el Campeonato Uruguayo de Primera División de forma concluyente. El suceso quedó refrendado adicionalmente en los archivos por el hecho deportivo extraordinario de que el equipo había militado la temporada anterior en la división de ascenso y se coronó en la máxima categoría tan solo doce meses después de salir campeón de la Segunda División de 1983."
+    },
+    {
+      "ano": "1985",
+      "hito": "Competencia Continental Oficial",
+      "desc": "A raíz de las obligaciones y privilegios reglamentarios otorgados tras la conquista del campeonato nacional doméstico, la delegación ocupó formalmente la plaza número dos del fútbol oriental y disputó la Copa Libertadores de América correspondiente a 1985, integrando serie con el también campeón Peñarol y los combinados chilenos Colo-Colo y Magallanes. Esta incursión marcó la primera y más alta cima competitiva transoceánica registrada oficialmente por el club palermitano en los tabuladores técnicos de la Confederación Sudamericana de Fútbol."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Campeonato Uruguayo",
+      "cantidad": 1,
+      "años": [
+        "1984"
+      ]
+    },
+    {
+      "nombre": "Torneo Competencia",
+      "cantidad": 1,
+      "años": [
+        "1944"
+      ]
+    },
+    {
+      "nombre": "Segunda División",
+      "cantidad": 3,
+      "años": [
+        "1961",
+        "1983",
+        "2012"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1905,
+      "hasta": null,
+      "c1": "#DA291C",
+      "c2": "#0033A0",
+      "sh": "#0033A0",
+      "me": "#DA291C",
+      "tipo": "rayas-verticales",
+      "desc": "Históricos bastones e hilos verticales combinando alternativamente el rojo, blanco y azul."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Julio Mozzo",
+      "pos": "Mediocampista Central",
+      "apodo": "Julio",
+      "periodo": "2000-2006",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2000-2006, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Víctor Espárrago",
+      "pos": "Mediocampista",
+      "apodo": "El Víctor",
+      "periodo": "1966",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1966, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Sergio Orteman",
+      "pos": "Mediocampista",
+      "apodo": "El Pelado",
+      "periodo": "1997-2000",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1997-2000, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Gabriel Álvez",
+      "pos": "Delantero",
+      "apodo": "El Buitre",
+      "periodo": "2002-2005",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2002-2005, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Luis Garisto",
+      "pos": "Defensor Central",
+      "apodo": "El Loco",
+      "periodo": "1960s",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 1960s, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Arturo Silveira",
+      "goles": 45,
+      "partidos": 110,
+      "periodo": "1950s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1950s."
+    },
+    {
+      "nombre": "Gabriel Álvez",
+      "goles": 40,
+      "partidos": 75,
+      "periodo": "2002-2005",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 2002-2005."
+    },
+    {
+      "nombre": "Luis Ferrón",
+      "goles": 35,
+      "partidos": 80,
+      "periodo": "1980s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980s."
+    },
+    {
+      "nombre": "Miguel Berriel",
+      "goles": 30,
+      "partidos": 90,
+      "periodo": "1984",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 30 goles en competiciones oficiales durante su trayectoria en el equipo entre 1984."
+    },
+    {
+      "nombre": "Jorge Martínez",
+      "goles": 25,
+      "partidos": 70,
+      "periodo": "2000s",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000s."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Julio Mozzo",
+      "partidos": 150,
+      "periodo": "2000-2006",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000-2006."
+    },
+    {
+      "nombre": "Sergio Orteman",
+      "partidos": 120,
+      "periodo": "1997-2000",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2000."
+    },
+    {
+      "nombre": "Damián Suárez",
+      "partidos": 110,
+      "periodo": "2004-2008",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 110 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2004-2008."
+    },
+    {
+      "nombre": "Héctor Tuja",
+      "partidos": 105,
+      "periodo": "1984",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 105 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1984."
+    },
+    {
+      "nombre": "Matías Castro",
+      "partidos": 100,
+      "periodo": "2010s",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Palermitanos",
+      "origen": "Calificativo periodístico inalterable originado como indicativo locativo del populoso barrio del sur capitalino denominado Palermo. La relación es estrecha e indivisible, lugar original de congregación de la inmensa mayoría de asambleas formativas, así como pilar organizativo ineludible y soporte de las comunidades históricas gallegas españolas locales unificadas en la conformación administrativa y jurídica final."
+    }
+  ],
+  "evolucion_escudos": []
+}

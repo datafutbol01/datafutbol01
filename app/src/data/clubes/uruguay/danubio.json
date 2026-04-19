@@ -1,0 +1,223 @@
+{
+  "id": "danubio",
+  "datos": {
+    "nombre_oficial": "Danubio Fútbol Club",
+    "nombre_corto": "Danubio",
+    "sigla": "DAN",
+    "fundacion": "1 de marzo de 1932",
+    "apodo": "La Franja, Danubianos",
+    "socios": 3500,
+    "descripcion_corta": "Organización surgida de la escolarización pública en el barrio Curva de Maroñas, reconocida institucionalmente de forma oficial bajo el nombre alternativo de 'La Universidad del Fútbol'.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Diego Perrone (72 goles)",
+      "mas_presencias": "Carlos Romero (411 partidos)",
+      "mayor_goleada": "9-1 vs Progreso (2007)"
+    },
+    "estadios": [
+      {
+        "inauguracion": "25 de agosto de 1957",
+        "lat": -34.8294,
+        "capacidad": 18000,
+        "nombre": "Jardines del Hipódromo María Mincheff de Lazaroff",
+        "condicion": "actual",
+        "direccion": "Avenida Dr. Carlos Nery y Avenida Acrópolis, Montevideo, Uruguay",
+        "lng": -56.1363,
+        "apodo": "Jardines"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/danubio/logo.png"
+  },
+  "historia": [
+    {
+      "ano": "1932",
+      "hito": "Fundación en la Curva de Maroñas",
+      "desc": "El 1 de marzo de 1932, los hermanos Juan y Miguel Lazaroff, organizados junto a un grupo de alumnos de la escuela República de Nicaragua, fundaron el club deportivo en la plaza de la Curva de Maroñas. La madre de los hermanos fundadores, María Mincheff de Lazaroff, de origen búlgaro, sugirió nombrar a la institución 'Danubio' como forma de homenajear al río europeo. En la asamblea fundacional constitutiva, los socios designaron por unanimidad a Miguel Lazaroff para ocupar el cargo de primer presidente."
+    },
+    {
+      "ano": "1948",
+      "hito": "Debut Oficial en Primera División",
+      "desc": "Luego de competir durante sus primeros catorce años en campeonatos zonales no oficiales conocidos como las Ligas Parroquiales, el club logró conformar una estructura deportiva que le permitió ingresar formalmente a las divisiones de ascenso de la Asociación Uruguaya de Fútbol. Al finalizar el calendario deportivo de la temporada 1947, el primer equipo superó en puntos al resto de los competidores y ganó el campeonato de la Primera División 'B', concretando un ascenso automático que habilitó su ingreso al Campeonato Uruguayo de Primera División a partir de 1948."
+    },
+    {
+      "ano": "1957",
+      "hito": "Inauguración de Jardines del Hipódromo",
+      "desc": "El 25 de agosto de 1957, la dirigencia consolidó la apertura oficial del escenario deportivo propio de la institución, construido de manera comunitaria en los terrenos cercanos del barrio lindero al hipódromo de Maroñas. La jornada inaugural quedó registrada en los actas del club mediante un evento de programación doble: de mañana, el equipo de Danubio se enfrentó ante el Club Nacional de Football, mientras que en el turno de la tarde disputó un encuentro internacional formal ante Cerro Porteño de Paraguay."
+    },
+    {
+      "ano": "1988",
+      "hito": "El Primer Campeonato Uruguayo Oficial",
+      "desc": "Bajo la conducción técnica del entrenador uruguayo Ildo Maneiro, el club documentó la campaña con mayor porcentaje de victoria del año civil y ganó el Torneo Competencia de primera rueda. Este rendimiento se repitió de manera sostenida en la tabla absoluta del certamen oficial con aportes goleadores de futbolistas surgidos de sus formativas como Rubén Da Silva y Edison Suárez, logrando el Campeonato Uruguayo e incorporando la primera copa reglamentaria de Primera División al historial de la entidad."
+    },
+    {
+      "ano": "2004",
+      "hito": "El Segundo Campeonato Uruguayo",
+      "desc": "Bajo el mandato táctico del director técnico Gerardo Pelusso, el equipo culminó la temporada empatado en el primer puesto de las posiciones definitivas, forzando un partido de desempate final por el título frente al Club Nacional de Football. El encuentro definitivo se jugó en el Estadio Centenario e ingresó a los registros con una victoria formal de Danubio por 1-0 gracias a un gol resuelto por el delantero Diego Perrone sobre el tiempo reglamentario de descuento final, asegurando la segunda liga nacional del club."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Campeonato Uruguayo",
+      "cantidad": 4,
+      "años": [
+        "1988",
+        "2004",
+        "2006-07",
+        "2013-14"
+      ]
+    },
+    {
+      "nombre": "Torneo Apertura",
+      "cantidad": 3,
+      "años": [
+        "2001",
+        "2006",
+        "2013"
+      ]
+    },
+    {
+      "nombre": "Torneo Clausura",
+      "cantidad": 3,
+      "años": [
+        "2002",
+        "2004",
+        "2007"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1932,
+      "hasta": null,
+      "c1": "#FFFFFF",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#FFFFFF",
+      "tipo": "banda-diagonal",
+      "desc": "Camiseta de color blanco puro cruzada por una estricta banda diagonal negra. Fueron los primeros del país en establecer y popularizar la banda diagonal."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Diego Perrone",
+      "pos": "Delantero",
+      "apodo": "Diego",
+      "periodo": "1996-2012",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1996-2012, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Javier Chevantón",
+      "pos": "Delantero",
+      "apodo": "Cheva",
+      "periodo": "1997-2001",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1997-2001, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Rubén Sosa",
+      "pos": "Delantero",
+      "apodo": "El Principito",
+      "periodo": "1982-1985",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1982-1985, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Álvaro Recoba",
+      "pos": "Enganche",
+      "apodo": "El Chino",
+      "periodo": "1993-1995, 2010",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 1993-1995, 2010, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Jadson Viera",
+      "pos": "Defensor Central",
+      "apodo": "El Brasileño",
+      "periodo": "2001-2007",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 2001-2007, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Diego Perrone",
+      "goles": 72,
+      "partidos": 250,
+      "periodo": "1996-2012",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 72 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2012."
+    },
+    {
+      "nombre": "Rubén Da Silva",
+      "goles": 71,
+      "partidos": 110,
+      "periodo": "1986-1989",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1986-1989."
+    },
+    {
+      "nombre": "Javier Chevantón",
+      "goles": 49,
+      "partidos": 70,
+      "periodo": "1997-2001",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 1997-2001."
+    },
+    {
+      "nombre": "Ignacio González",
+      "goles": 45,
+      "partidos": 170,
+      "periodo": "2002-2008",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 2002-2008."
+    },
+    {
+      "nombre": "Carlos Grossmüller",
+      "goles": 40,
+      "partidos": 180,
+      "periodo": "2004-2019",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2019."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Carlos Romano",
+      "partidos": 300,
+      "periodo": "1950-1960",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 300 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1950-1960."
+    },
+    {
+      "nombre": "Jadson Viera",
+      "partidos": 250,
+      "periodo": "2001-2007",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 250 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2007."
+    },
+    {
+      "nombre": "Diego Perrone",
+      "partidos": 250,
+      "periodo": "1996-2012",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 250 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2012."
+    },
+    {
+      "nombre": "Jorge Anchén",
+      "partidos": 220,
+      "periodo": "1999-2006",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 220 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2006."
+    },
+    {
+      "nombre": "Camilo Mayada",
+      "partidos": 180,
+      "periodo": "2010-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 180 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-2015."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Franja",
+      "origen": "Acuñado en los primeros años de vida de la institución derivado directamente de la arquitectura visual obligatoria en la que intervino María Mincheff de Lazaroff, referente histórica para el club, tras encargar y dictaminar la estética de los uniformes. Se trazó en el pecho una estricta raya oscura diagonal trazada de tal manera con el propósito de generar una estricta imitación a nivel conceptual con la clásica franja internacional lucida por el seleccionado brasileño amateur y otras instituciones sudamericanas de gran presencia, implementándose formalmente y perdurando hasta la actualidad."
+    }
+  ],
+  "evolucion_escudos": []
+}

@@ -1,0 +1,251 @@
+{
+  "id": "defensor-sporting",
+  "datos": {
+    "nombre_oficial": "Defensor Sporting Club",
+    "nombre_corto": "Defensor Sporting",
+    "sigla": "DEF",
+    "fundacion": "15 de marzo de 1913",
+    "apodo": "La Viola, Tuertos",
+    "socios": 4500,
+    "descripcion_corta": "Institución central del Parque Rodó, históricamente reconocida por organizar una formativa prolífica y por romper la hegemonía de los campeonatos en el profesionalismo.",
+    "paleta": [
+      {
+        "tag": "Violeta",
+        "hex": "#4B0082"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Juan Emilio Píriz (98 goles)",
+      "mas_presencias": "Carlos Richard Díaz (284 partidos)",
+      "mayor_goleada": "7-1 vs Juventud (2001)"
+    },
+    "estadios": [
+      {
+        "nombre": "Parque Ricci",
+        "apodo": "La Cancha del Cordón",
+        "capacidad": 2000,
+        "inauguracion": "1910s",
+        "direccion": "Capitán Videla y Alarcón, Montevideo",
+        "lat": -34.899451,
+        "lng": -56.146608,
+        "condicion": "historico"
+      },
+      {
+        "inauguracion": "31 de diciembre de 1963",
+        "lat": -34.9158,
+        "capacidad": 16000,
+        "nombre": "Estadio Luis Franzini",
+        "condicion": "actual",
+        "direccion": "Avenida Julio Herrera y Reissig s/n y Sarmiento, Parque Rodó, Montevideo",
+        "lng": -56.1683,
+        "apodo": "El Franzini"
+      }
+    ],
+    "escudo_actual": "/escudos/uruguay/defensor-sporting/logo.png"
+  },
+  "historia": [
+    {
+      "ano": "1913",
+      "hito": "Fundación en Punta Carretas",
+      "desc": "El 15 de marzo de 1913, un grupo de empleados de la fábrica de vidrios Mendoça, encabezados por los hermanos Pedro, Ramón y Arturo Castiglioni, fundaron el Club Atlético Defensor en el barrio montevideano de Punta Carretas. El nombre original fue propuesto como homenaje a un combinado barrial de fútbol aficionado que ya se encontraba disuelto. Para la confección de su uniforme de juego, los delegados fundadores votaron la adopción del color violeta como medida directa para distinguirse de las opciones clásicas, como el verde y el rojo, que imperaban en la época."
+    },
+    {
+      "ano": "1963",
+      "hito": "Apertura del Estadio Luis Franzini",
+      "desc": "El 31 de diciembre de 1963, tras catorce años de arrendamiento y negociación por los terrenos del Parque Rodó, el club inauguró de forma oficial su recinto deportivo propio. El escenario fue bautizado posteriormente con el nombre del presidente del club, Luis Franzini, quien lideró y organizó el proyecto de edificación. El estadio permitió consolidar la localía de la institución a nivel geográfico metropolitano y conformó, mediante sucesivas gradas, un aforo aproximado de dieciséis mil lugares habilitables."
+    },
+    {
+      "ano": "1976",
+      "hito": "Ruptura de la Hegemonía en Primera División",
+      "desc": "El 25 de julio de 1976, el equipo dirigido táctica y técnicamente por el entrenador José Ricardo De León, superó la tabla de posiciones y se coronó campeón del Campeonato Uruguayo. Este título ingresó en los registros oficiales como la primera ocasión en toda la era profesional del fútbol uruguayo en la que un club diferente a Nacional y Peñarol lograba el torneo de la máxima categoría. Para celebrar la conquista, los jugadores dieron la vuelta olímpica circulando en sentido contrario al tradicional a modo de reivindicación."
+    },
+    {
+      "ano": "1989",
+      "hito": "Fusión Legal e Institucional",
+      "desc": "En el año 1989, dando curso legal a resoluciones organizativas avaladas por los directivos de ambas partes, el Club Atlético Defensor y el Sporting Club Uruguay rubricaron un acuerdo absoluto de unificación. La alianza estratégica dio nacimiento estatutario al moderno Defensor Sporting Club, combinando la trayectoria de la franquicia de fútbol en Primera División con la infraestructura masiva dedicada al básquetbol y el desarrollo atlético, amalgamando padrones de socios y centralizando la administración integral en el polideportivo de la calle veintiuno de setiembre."
+    },
+    {
+      "ano": "2009",
+      "hito": "Cruces de Eliminación en Copa Libertadores",
+      "desc": "Tras la conquista reglamentaria del Campeonato Uruguayo en la temporada 2007-2008 al mando de Jorge Da Silva, el equipo organizó una de sus campañas internacionales más regulares compitiendo en la Copa Libertadores de 2009. En el marco de la competencia de Conmebol y durante el choque resolutivo estipulado para los octavos de final, el plantel logró vencer de manera formal al club argentino Boca Juniors jugando en las instalaciones de La Bombonera en Buenos Aires, consiguiendo los goles y los puntos necesarios para acceder a cuartos de final."
+    }
+  ],
+  "palmares": {},
+  "titulos": [
+    {
+      "nombre": "Campeonato Uruguayo",
+      "cantidad": 4,
+      "años": [
+        "1976",
+        "1987",
+        "1991",
+        "2007-08"
+      ]
+    },
+    {
+      "nombre": "Liguilla Pre-Libertadores",
+      "cantidad": 8,
+      "años": [
+        "1976",
+        "1979",
+        "1981",
+        "1989",
+        "1991",
+        "1995",
+        "2000",
+        "2006"
+      ]
+    },
+    {
+      "nombre": "Copa AUF Uruguay",
+      "cantidad": 2,
+      "años": [
+        "2022",
+        "2023"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1913,
+      "hasta": 1915,
+      "c1": "#000000",
+      "c2": "#00A859",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "franja-horizontal",
+      "desc": "Inicialmente, los fundadores utilizaron camisetas negras con franja horizontal o vivos verdes que conseguían en comercios locales."
+    },
+    {
+      "desde": 1915,
+      "hasta": null,
+      "c1": "#662483",
+      "c2": null,
+      "sh": "#FFFFFF",
+      "me": "#662483",
+      "tipo": "liso",
+      "desc": "Adopción histórica y permamente del liso color violeta para diferenciarse de los demás clubes, transformándose en la marca inconfundible del equipo de Punta Carretas."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Baudilio Jáuregui",
+      "pos": "Defensor Central",
+      "apodo": "El Gitano",
+      "periodo": "1973-1977",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 1973-1977, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Nicolás Olivera",
+      "pos": "Enganche",
+      "apodo": "Nico",
+      "periodo": "1996-2003, 2011-2016",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 1996-2003, 2011-2016, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Andrés Fleurquin",
+      "pos": "Mediocampista Central",
+      "apodo": "Andy",
+      "periodo": "1996-2015",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 1996-2015, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Martín Silva",
+      "pos": "Arquero",
+      "apodo": "El Flaco",
+      "periodo": "2002-2011",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero durante el período 2002-2011, consolidándose como uno de los futbolistas más representativos del equipo."
+    },
+    {
+      "nombre": "Heber Silva Cantera",
+      "pos": "Mediocampista Central",
+      "apodo": "El Pecho",
+      "periodo": "1986-1998",
+      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 1986-1998, consolidándose como uno de los futbolistas más representativos del equipo."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Nicolás Olivera",
+      "goles": 71,
+      "partidos": 230,
+      "periodo": "1996-2016",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2016."
+    },
+    {
+      "nombre": "Álvaro Navarro",
+      "goles": 68,
+      "partidos": 180,
+      "periodo": "2003-2023",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 68 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2023."
+    },
+    {
+      "nombre": "Ignacio Risso",
+      "goles": 58,
+      "partidos": 190,
+      "periodo": "2003-2015",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 58 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2015."
+    },
+    {
+      "nombre": "Diego De Souza",
+      "goles": 50,
+      "partidos": 150,
+      "periodo": "2006-2010",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2010."
+    },
+    {
+      "nombre": "Eliomar Marcón",
+      "goles": 44,
+      "partidos": 120,
+      "periodo": "1999-2003",
+      "desc": "Atacante destacado en los registros del club. Convirtió un total de 44 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2003."
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Heber Silva Cantera",
+      "partidos": 380,
+      "periodo": "1986-1998",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 380 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1998."
+    },
+    {
+      "nombre": "Andrés Fleurquin",
+      "partidos": 350,
+      "periodo": "1996-2015",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 350 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2015."
+    },
+    {
+      "nombre": "Martín Silva",
+      "partidos": 310,
+      "periodo": "2002-2011",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2002-2011."
+    },
+    {
+      "nombre": "Nicolás Olivera",
+      "partidos": 230,
+      "periodo": "1996-2016",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 230 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2016."
+    },
+    {
+      "nombre": "Juan Tejera",
+      "partidos": 200,
+      "periodo": "1980-1988",
+      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 200 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1980-1988."
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Tuertos",
+      "origen": "El registro oficial remite a la época originaria interclubes durante el período amateur de 1913. Cuenta el registro periodístico documentado de época que, tras verse envueltos repetidamente en un cúmulo de polémicas decisiones en arbitrajes y comités normativos que perjudicaban la sumatoria y progresión de puntos ante rivales capitalinos y equipos con mayor peso económico, los representantes y la estructura periodística partidaria comenzó a calificar formalmente a los dirigentes opositores e intermediarios como 'hombres tuertos y parciales' en clara alusión a una visión deportiva ciegamente inclinada hacia un único bando."
+    },
+    {
+      "apodo": "La Viola",
+      "origen": "Determinación fonética atribuida exclusivamente al característico e histórico tono morado principal escogido oficialmente como indumentaria distintiva. La definición surge como un sustantivo genérico, adoptando el color de uso exclusivo tras un certamen internacional y consolidándose gracias a su exclusividad tonal frente a la paleta común de equipos históricos conformantes de las primeras divisiones sudamericanas."
+    }
+  ],
+  "evolucion_escudos": []
+}
