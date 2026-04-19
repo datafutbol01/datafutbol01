@@ -31,6 +31,8 @@ export default function ClubDetail() {
         return `linear-gradient(to right, ${eq.c1} 35%, ${eq.c2} 35%, ${eq.c2} 65%, ${eq.c1} 65%)`;
       case 'rayas-verticales':
         return `repeating-linear-gradient(to right, ${eq.c1}, ${eq.c1} 20%, ${eq.c2} 20%, ${eq.c2} 40%)`;
+      case 'rayas-horizontales':
+        return `repeating-linear-gradient(to bottom, ${eq.c1}, ${eq.c1} 20%, ${eq.c2} 20%, ${eq.c2} 40%)`;
       case 'banda-diagonal':
         return `linear-gradient(135deg, ${eq.c1} 38%, ${eq.c2} 38%, ${eq.c2} 62%, ${eq.c1} 62%)`;
       case 'v-pecho':
@@ -300,40 +302,81 @@ export default function ClubDetail() {
               <div>
                 <h2 className="title-font" style={{ fontSize: '2.5rem', color: 'var(--accent-gold)', marginBottom: '2rem' }}>El Estadio</h2>
                 
-                {/* Estadio Actual con Mapa */}
-                <div className="glass-card" style={{ padding: '2rem', marginBottom: '3rem', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
-                  <div>
-                    <h3 className="title-font notranslate" style={{ fontSize: '2rem', marginBottom: '1rem' }}>{datos.estadio_actual}</h3>
-                    {datos.estadio_apodo && <p className="notranslate" style={{ fontSize: '1.25rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>"{datos.estadio_apodo}"</p>}
-                    <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Capacidad:</strong> {datos.estadio_capacidad?.toLocaleString()} espectadores</p>
-                    <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Inauguración:</strong> {datos.estadio_inauguracion}</p>
-                    <p style={{ color: 'var(--text-muted)' }}><strong>Dirección:</strong> {datos.estadio_direccion}</p>
+                {/* Estadios Actuales Renderer */}
+                {(datos.estadios ? datos.estadios.filter(e => e.condicion === 'actual') : (datos.estadio_actual ? [{
+                    nombre: datos.estadio_actual,
+                    apodo: datos.estadio_apodo,
+                    capacidad: datos.estadio_capacidad,
+                    inauguracion: datos.estadio_inauguracion,
+                    direccion: datos.estadio_direccion,
+                    lat: datos.estadio_lat,
+                    lng: datos.estadio_lng
+                }] : [])).map((estadio, idx) => (
+                  <div key={`actual-${idx}`} className="glass-card" style={{ padding: '2rem', marginBottom: '3rem', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
+                    <div>
+                      <h3 className="title-font notranslate" style={{ fontSize: '2rem', marginBottom: '1rem' }}>{estadio.nombre}</h3>
+                      {estadio.apodo && <p className="notranslate" style={{ fontSize: '1.25rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>"{estadio.apodo}"</p>}
+                      {estadio.capacidad && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Capacidad:</strong> {estadio.capacidad.toLocaleString()} espectadores</p>}
+                      <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Inauguración:</strong> {estadio.inauguracion}</p>
+                      <p style={{ color: 'var(--text-muted)' }}><strong>Dirección:</strong> {estadio.direccion}</p>
+                    </div>
+                    <div style={{ height: '300px', borderRadius: '12px', overflow: 'hidden', position: 'relative' }}>
+                      {estadio.lat && estadio.lng ? (
+                        <MapContainer 
+                          center={[estadio.lat, estadio.lng]} 
+                          zoom={16} 
+                          scrollWheelZoom={false}
+                          style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
+                          key={`map-${estadio.lat}-${estadio.lng}`}
+                        >
+                          <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
+                          <Marker position={[estadio.lat, estadio.lng]}>
+                            <Popup className="notranslate">{estadio.nombre}</Popup>
+                          </Marker>
+                        </MapContainer>
+                      ) : (
+                        <div style={{ height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.05)' }}>
+                          Coordenadas no disponibles
+                        </div>
+                      )}
+                    </div>
                   </div>
-                  <div style={{ height: '300px', borderRadius: '12px', overflow: 'hidden' }}>
-                    {datos.estadio_lat && datos.estadio_lng ? (
-                      <MapContainer 
-                        center={[datos.estadio_lat, datos.estadio_lng]} 
-                        zoom={16} 
-                        scrollWheelZoom={false}
-                        style={{ height: '100%', width: '100%' }}
-                      >
-                        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
-                        <Marker position={[datos.estadio_lat, datos.estadio_lng]}>
-                          <Popup>{datos.estadio_actual}</Popup>
-                        </Marker>
-                      </MapContainer>
-                    ) : (
-                      <div style={{ height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.05)' }}>
-                        Coordenadas no disponibles
-                      </div>
-                    )}
-                  </div>
-                </div>
+                ))}
 
                 <h3 className="title-font" style={{ fontSize: '1.8rem', marginBottom: '1.5rem' }}>Estadios Históricos</h3>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
-                  {canchas?.slice(0, canchas.length - 1).reverse().map((c, idx) => (
-                    <div key={idx} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
+                  {/* Rendering estadios array format (new style) */}
+                  {datos.estadios && datos.estadios.filter(e => e.condicion === 'historico').map((estadio, idx) => (
+                    <div key={`historico-new-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
+                      <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{estadio.nombre}</h4>
+                      <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
+                        {estadio.inauguracion || 'Fecha no disponible'}
+                      </p>
+                      {estadio.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {estadio.direccion}</p>}
+                      <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>
+                      
+                      {estadio.lat && estadio.lng && (
+                        <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
+                          <MapContainer 
+                            center={[estadio.lat, estadio.lng]} 
+                            zoom={14} 
+                            scrollWheelZoom={false}
+                            style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
+                            key={`map-hist-${estadio.lat}-${estadio.lng}`}
+                          >
+                            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
+                            <Marker position={[estadio.lat, estadio.lng]}>
+                              <Popup className="notranslate">{estadio.nombre}</Popup>
+                            </Marker>
+                          </MapContainer>
+                        </div>
+                      )}
+                    </div>
+                  ))}
+
+                  {/* Rendering canchas array format (old legacy style) */}
+                  {(!datos.estadios) && canchas?.slice(0, canchas.length - 1).reverse().map((c, idx) => (
+                    <div key={`historico-old-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
                       <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{c.nombre}</h4>
                       <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
                         {c.desde} — {c.hasta || 'Presente'}
@@ -342,12 +385,13 @@ export default function ClubDetail() {
                       <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{c.obs}</p>
                       
                       {c.lat && c.lng && (
-                        <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)' }}>
+                        <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
                           <MapContainer 
                             center={[c.lat, c.lng]} 
                             zoom={14} 
                             scrollWheelZoom={false}
-                            style={{ height: '100%', width: '100%' }}
+                            style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
+                            key={`map-legacy-${c.lat}-${c.lng}`}
                           >
                             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
                             <Marker position={[c.lat, c.lng]}>
@@ -358,6 +402,11 @@ export default function ClubDetail() {
                       )}
                     </div>
                   ))}
+
+                  {/* Notice if no historic stadiums */}
+                  {((datos.estadios && datos.estadios.filter(e => e.condicion === 'historico').length === 0) || (!datos.estadios && (!canchas || canchas.length <= 1))) && (
+                    <p style={{ color: 'var(--text-muted)', fontSize: '1.1rem', gridColumn: '1 / -1' }}>No hay registros de estadios históricos documentados en esta biblioteca.</p>
+                  )}
                 </div>
               </div>
             )}
