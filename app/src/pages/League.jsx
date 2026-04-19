@@ -14,7 +14,20 @@ export default function League() {
   const currentLeague = allLeagues.find(l => l.id === leagueId) || { name: leagueId };
   const location = useLocation();
   const [activeTab, setActiveTab] = useState(location.state?.tab || 'clubes');
-  const [activeTorneoTab, setActiveTorneoTab] = useState(leagueId === 'inglaterra' ? 'premier' : 'metropolitano');
+  const getDefaultTab = (id) => {
+    switch(id) {
+      case 'inglaterra': return 'premier';
+      case 'espania': return 'laliga';
+      case 'italia': return 'serie_a';
+      case 'alemania': return 'bundesliga';
+      case 'francia': return 'ligue1';
+      case 'escocia': return 'scottish_league';
+      case 'uruguay': return 'campeonato_uruguayo';
+      case 'brasil': return 'brasileirao';
+      default: return 'metropolitano';
+    }
+  };
+  const [activeTorneoTab, setActiveTorneoTab] = useState(getDefaultTab(leagueId));
 
   // Novedad: Conexión Real con Vercel para la Tabla de Posiciones y Llaves
   const slugToApi = {
@@ -30,7 +43,7 @@ export default function League() {
     'conference': 848,
     'libertadores': 13,
     'sudamericana': 11,
-    'bra_serie_a': 71,
+    'brasil': 71,
     'eng_championship': 40,
     'fra_ligue_2': 62,
     'ger_2_bundesliga': 79,
@@ -71,7 +84,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'bra_serie_a', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
+           const season = ['argentina', 'brasil', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
@@ -1155,6 +1168,18 @@ export default function League() {
                         </button>
                         <button onClick={() => setActiveTorneoTab('copa_auf_uruguay')} style={{ background: activeTorneoTab === 'copa_auf_uruguay' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'copa_auf_uruguay' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'copa_auf_uruguay' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
                             Copa AUF Uruguay
+                        </button>
+                    </>
+                ) : leagueId === 'brasil' ? (
+                    <>
+                        <button onClick={() => setActiveTorneoTab('brasileirao')} style={{ background: activeTorneoTab === 'brasileirao' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'brasileirao' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'brasileirao' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Brasileirão Serie A
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('copa_do_brasil')} style={{ background: activeTorneoTab === 'copa_do_brasil' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'copa_do_brasil' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'copa_do_brasil' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Copa do Brasil
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('supercopa_do_brasil')} style={{ background: activeTorneoTab === 'supercopa_do_brasil' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'supercopa_do_brasil' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'supercopa_do_brasil' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Supercopa
                         </button>
                     </>
                 ) : (

@@ -9,6 +9,7 @@ const ligasTemporadasModules = import.meta.glob('./ligas/*_temporadas.json', { e
 const ligasEnfrentamientosModules = import.meta.glob('./ligas/*_enfrentamientos.json', { eager: true });
 const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true });
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
+const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 
 export const getLeagues = () => {
   return [
@@ -19,7 +20,7 @@ export const getLeagues = () => {
     { id: 'alemania', name: 'Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: '/escudos/bundesliga_logo.png' },
     { id: 'francia', name: 'Ligue 1', country: 'Francia', flag: '', color: '#dae025', shield: '/escudos/ligue1_2024.png' },
     { id: 'escocia', name: 'Scottish Premiership', country: 'Escocia', flag: '', color: '#002868', shield: '/escudos/scottish_premiership_logo.png' },
-    { id: 'bra_serie_a', name: 'Brasileirão', country: 'Brasil', flag: '', color: '#009b3a', shield: 'https://media.api-sports.io/football/leagues/71.png', isHidden: true },
+    { id: 'brasil', name: 'Brasileirão', country: 'Brasil', flag: '', color: '#009b3a', shield: 'https://media.api-sports.io/football/leagues/71.png' },
     { id: 'eng_championship', name: 'EFL Championship', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/40.png', isHidden: true },
     { id: 'fra_ligue_2', name: 'Ligue 2 BKT', country: 'Francia', flag: '', color: '#dae025', shield: 'https://media.api-sports.io/football/leagues/62.png', isHidden: true },
     { id: 'ger_2_bundesliga', name: '2. Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: 'https://media.api-sports.io/football/leagues/79.png', isHidden: true },
@@ -59,6 +60,8 @@ export const getClubsByLeague = (leagueId) => {
     clubs = Object.values(escociaModules).map(mod => mod.default || mod);
   } else if (leagueId === 'uruguay') {
     clubs = Object.values(uruguayModules).map(mod => mod.default || mod);
+  } else if (leagueId === 'brasil') {
+    clubs = Object.values(brasilModules).map(mod => mod.default || mod);
   }
   
   return clubs.sort((a, b) => {
