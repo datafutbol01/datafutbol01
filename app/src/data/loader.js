@@ -11,7 +11,8 @@ const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
 const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 
-import CryptoJS from 'crypto-js';
+import AES from 'crypto-js/aes';
+import Utf8 from 'crypto-js/enc-utf8';
 
 const SECRET_KEY = "D4t4Fub0l_N1nj4_P4ss_2026";
 
@@ -20,8 +21,8 @@ const readData = (rawData) => {
   const data = rawData.default || rawData;
   if (data && data.payload) {
     try {
-      const bytes = CryptoJS.AES.decrypt(data.payload, SECRET_KEY);
-      return JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
+      const bytes = AES.decrypt(data.payload, SECRET_KEY);
+      return JSON.parse(bytes.toString(Utf8));
     } catch (e) {
       console.error("Error decrypting data", e);
       return data;
@@ -84,8 +85,8 @@ export const getClubsByLeague = (leagueId) => {
   }
 
   return clubs.sort((a, b) => {
-    const nameA = a.datos?.nombre_corto || a.datos?.nombre_completo || a.id;
-    const nameB = b.datos?.nombre_corto || b.datos?.nombre_completo || b.id;
+    const nameA = a.datos?.nombre_corto || a.datos?.nombre_completo || a.id || "";
+    const nameB = b.datos?.nombre_corto || b.datos?.nombre_completo || b.id || "";
     return nameA.localeCompare(nameB, 'es');
   });
 };
