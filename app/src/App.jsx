@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import ReactGA from 'react-ga4';
 import Navbar from './components/Navbar';
 import PwaPrompt from './components/PwaPrompt';
+import ReloadPrompt from './components/ReloadPrompt';
 import PullToRefresh from './components/PullToRefresh';
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Outlet />
         </main>
         <PwaPrompt />
+        <ReloadPrompt />
       </div>
     </PullToRefresh>
   );
