@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -13,6 +13,7 @@
     "@google/generative-ai": "^0.24.1",
     "@vercel/analytics": "^2.0.1",
     "cheerio": "^1.2.0",
+    "crypto-js": "^4.2.0",
     "dotenv": "^17.4.1",
     "framer-motion": "^12.38.0",
     "leaflet": "^1.9.4",
@@ -33,7 +34,9 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "gh-pages": "^6.3.0",
     "globals": "^17.4.0",
+    "javascript-obfuscator": "^5.4.1",
     "vite": "^8.0.1",
+    "vite-plugin-javascript-obfuscator": "^3.1.0",
     "vite-plugin-pwa": "^1.2.0"
   }
 }

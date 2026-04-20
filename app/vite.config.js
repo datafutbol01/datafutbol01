@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import vitePluginJavascriptObfuscator from 'vite-plugin-javascript-obfuscator';
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -9,6 +10,30 @@ export default defineConfig({
   },
   plugins: [
     react(),
+    vitePluginJavascriptObfuscator({
+      include: ['src/**/*.js', 'src/**/*.jsx'],
+      exclude: [/node_modules/, /\.html$/],
+      apply: 'build',
+      debugger: true,
+      options: {
+        compact: true,
+        controlFlowFlattening: true,
+        controlFlowFlatteningThreshold: 0.1,
+        disableConsoleOutput: true,
+        identifierNamesGenerator: 'hexadecimal',
+        log: false,
+        numbersToExpressions: true,
+        renameGlobals: false,
+        selfDefending: true,
+        simplify: true,
+        splitStrings: true,
+        splitStringsChunkLength: 10,
+        stringArray: true,
+        stringArrayEncoding: ['base64'],
+        stringArrayThreshold: 0.75,
+        transformObjectKeys: true
+      }
+    }),
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],

@@ -11,6 +11,25 @@ const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
 const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 
+import CryptoJS from 'crypto-js';
+
+const SECRET_KEY = "D4t4Fub0l_N1nj4_P4ss_2026";
+
+const readData = (rawData) => {
+  if (!rawData) return null;
+  const data = rawData.default || rawData;
+  if (data && data.payload) {
+    try {
+      const bytes = CryptoJS.AES.decrypt(data.payload, SECRET_KEY);
+      return JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
+    } catch (e) {
+      console.error("Error decrypting data", e);
+      return data;
+    }
+  }
+  return data;
+};
+
 export const getLeagues = () => {
   return [
     { id: 'argentina', name: 'Liga Profesional de Fútbol', country: 'Argentina', flag: '', color: '#71bdf2', shield: '/escudos/lpf_logo.png' },
@@ -45,23 +64,23 @@ export const getLeagues = () => {
 export const getClubsByLeague = (leagueId) => {
   let clubs = [];
   if (leagueId === 'argentina') {
-    clubs = Object.values(argentinaModules).map(mod => mod.default || mod);
+    clubs = Object.values(argentinaModules).map(readData);
   } else if (leagueId === 'inglaterra') {
-    clubs = Object.values(inglaterraModules).map(mod => mod.default || mod);
+    clubs = Object.values(inglaterraModules).map(readData);
   } else if (leagueId === 'espania') {
-    clubs = Object.values(espaniaModules).map(mod => mod.default || mod);
+    clubs = Object.values(espaniaModules).map(readData);
   } else if (leagueId === 'italia') {
-    clubs = Object.values(italiaModules).map(mod => mod.default || mod);
+    clubs = Object.values(italiaModules).map(readData);
   } else if (leagueId === 'alemania') {
-    clubs = Object.values(alemaniaModules).map(mod => mod.default || mod);
+    clubs = Object.values(alemaniaModules).map(readData);
   } else if (leagueId === 'francia') {
-    clubs = Object.values(franciaModules).map(mod => mod.default || mod);
+    clubs = Object.values(franciaModules).map(readData);
   } else if (leagueId === 'escocia') {
-    clubs = Object.values(escociaModules).map(mod => mod.default || mod);
+    clubs = Object.values(escociaModules).map(readData);
   } else if (leagueId === 'uruguay') {
-    clubs = Object.values(uruguayModules).map(mod => mod.default || mod);
+    clubs = Object.values(uruguayModules).map(readData);
   } else if (leagueId === 'brasil') {
-    clubs = Object.values(brasilModules).map(mod => mod.default || mod);
+    clubs = Object.values(brasilModules).map(readData);
   }
 
   return clubs.sort((a, b) => {
@@ -79,7 +98,7 @@ export const getClubById = (leagueId, clubId) => {
 export const getLeagueHistory = (leagueId) => {
   const moduleKey = `./ligas/${leagueId}_temporadas.json`;
   if (ligasTemporadasModules[moduleKey]) {
-    return ligasTemporadasModules[moduleKey].default || ligasTemporadasModules[moduleKey];
+    return readData(ligasTemporadasModules[moduleKey]) || [];
   }
   return [];
 };
@@ -87,7 +106,7 @@ export const getLeagueHistory = (leagueId) => {
 export const getLeagueMatchups = (leagueId) => {
   const moduleKey = `./ligas/${leagueId}_enfrentamientos.json`;
   if (ligasEnfrentamientosModules[moduleKey]) {
-    const rawData = ligasEnfrentamientosModules[moduleKey].default || ligasEnfrentamientosModules[moduleKey];
+    const rawData = readData(ligasEnfrentamientosModules[moduleKey]);
     return Array.isArray(rawData) ? rawData : Object.values(rawData);
   }
   return [];
