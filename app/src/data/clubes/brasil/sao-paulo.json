@@ -6,18 +6,40 @@
     "sigla": "SPFC",
     "fundacion": "25 de enero de 1930",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 65000,
+    "descripcion_corta": "Club paulistano establecido y formalizado a partir de 1930. Históricamente destaca como una de las escuadras consolidadas con mejores méritos nacionales, logrando conquistar consecutivamente trofeos mundiales de nivel élite.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#E30613"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Sérgio Bernardino (242 goles)",
+      "mas_presencias": "Rogério Ceni (1237 partidos)",
+      "mayor_goleada": "12-1 vs Jabaquara (1945)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/sao-paulo/logo.png"
+    "escudo_actual": "/escudos/brasil/sao-paulo/S%3Fo-Paulo-2005-actual.webp",
+    "apodos": [
+      "Tricolor Paulista",
+      "O Soberano",
+      "Clube da Fé"
+    ]
   },
   "historia": [
     {
       "ano": "1930/1935",
-      "hito": "Fundación del São Paulo Futebol Clube",
-      "desc": "El club se fundó originalmente el 25 de enero de 1930 bajo el nombre de São Paulo da Floresta producto de la unión de miembros del Club Athletico Paulistano y la Associação Atlética das Palmeiras. Tras pausar sus actividades, la entidad fue refundada permanentemente el 16 de diciembre de 1935 bajo la denominación de São Paulo Futebol Clube. Los estatutos oficializaron el uso de un uniforme con franjas horizontales de tres colores: rojo, blanco y negro. El primer partido reglamentario de esta etapa inicial se registró el 25 de enero de 1936, finalizando con una victoria de 3-2 como locales en enfrentamiento contra la Portuguesa Santista."
+      "hito": "Nacimiento, Crisis y Refundación Definitiva",
+      "desc": "El club se fundó el 25 de enero de 1930 al profesionalizarse el fútbol en Brasil, siendo apodado São Paulo da Floresta tras surgir de la fusión histórica entre el Club Athletico Paulistano (un gigante absoluto de la era amateur con 11 títulos, que se oponía al profesionalismo) y la Associação Atlética das Palmeiras. El origen de sus colores combinó el rojo del Paulistano y el negro del Palmeiras, unidos por el blanco, dándole vida a su histórica camiseta tricolor con franjas horizontales. El 9 de marzo de 1930 debutaron derrotando 3-0 al Ypiranga y enseguida conquistaron su primer Campeonato Paulista en 1931 liderados por la leyenda Arthur Friedenreich. Sin embargo, en 1935, graves crisis políticas y deudas obligaron a fusionar la institución con el Club de Regatas Tietê, lo que provocó el cierre temporal del equipo de fútbol. Rebelándose ante el final, un grupo de fervientes dirigentes liderados por el teniente Porphyrio da Paz se congregó meses más tarde, el 16 de diciembre de 1935, logrando firmar nuevos estatutos que sellaron la refundación inquebrantable del actual São Paulo Futebol Clube. Reiniciaron su historia en las canchas el 25 de enero de 1936 con una victoria de 3-2 sobre la Portuguesa Santista."
     },
     {
       "ano": "1992",
@@ -40,13 +62,330 @@
       "desc": "Bajo la administración deportiva del entrenador Muricy Ramalho, el equipo lideró y ganó el Campeonato Brasileño de Serie A durante las tres temporadas consecutivas de los años calendarios 2006, 2007 y 2008. Al finalizar la edición de 2006 oficializaron el torneo agendando una suma de campeonato de 78 puntos concretados. Posteriormente en las estadísticas del cierre de 2007 ganaron el torneo sumando 77 unidades numéricas y adjudicándose el registro defensivo menor en campeonatos de 38 jornadas estableciendo que concedieron solamente 19 goles totales a sus rivales. Remataron su ciclo en 2008 finalizando matemáticamente el título logrando 75 puntos consolidados en las tablas regulares."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "MorumBIS (Estádio Cícero Pompeu de Toledo)",
+      "direccion": "Praça Roberto Gomes Pedrosa, 1 - Morumbi, São Paulo - SP, 05653-070",
+      "desde": 1960,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estadio de patrimonio exclusivo inaugurado formalmente en 1960. Centralizó formalmente la estructura de localías del primer equipo cesando los formatos estaduales arrendados previos.",
+      "lat": -23.6,
+      "lng": -46.7201,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.6000,-46.7201"
+    },
+    {
+      "nombre": "Chácara da Floresta",
+      "direccion": "Ponte das Bandeiras, Rio Tietê, São Paulo - SP",
+      "desde": 1930,
+      "hasta": 1935,
+      "estado": "Histórico",
+      "obs": "Sede fundacional arrendada originariamente, de propiedad ajena. La corporación deportiva perdió los permisos del uso territorial como resultado formal de la crisis y refundación institucional ejecutada al cierre contable de 1935.",
+      "lat": -23.5255,
+      "lng": -46.6291,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5255,-46.6291"
+    },
+    {
+      "nombre": "Estádio Antônio Alonso (Antártica Paulista)",
+      "direccion": "Rua da Mooca, São Paulo - SP",
+      "desde": 1936,
+      "hasta": 1940,
+      "estado": "Histórico",
+      "obs": "Campo de base local arrendado y prestado en barrios adyacentes para validar la continuidad en torneos estatales directos tras la pérdida patrimonial de bases propias.",
+      "lat": -23.5558,
+      "lng": -46.6022,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5558,-46.6022"
+    },
+    {
+      "nombre": "Estádio do Pacaembu",
+      "direccion": "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010",
+      "desde": 1940,
+      "hasta": 1960,
+      "estado": "Histórico",
+      "obs": "Estadio de condición y administración estrictamente municipal. Arrendado ininterrumpidamente durante 20 años como garante e infraestructura única para desarrollar al primer equipo en torneos oficiales estaduales.",
+      "lat": -23.5455,
+      "lng": -46.6644,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5455,-46.6644"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 3,
+      "comp": "Copa Intercontinental / Mundial",
+      "anios": [
+        "1992",
+        "1993",
+        "2005"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1992",
+        "1993",
+        "2005"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Sudamericana",
+      "anios": [
+        "2012"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Conmebol",
+      "anios": [
+        "1994"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "1993",
+        "1994"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa Sudamericana",
+      "anios": [
+        "1993"
+      ]
+    },
+    {
+      "n": 6,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1977",
+        "1986",
+        "1991",
+        "2006",
+        "2007",
+        "2008"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "2023"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "2024"
+      ]
+    },
+    {
+      "n": 22,
+      "comp": "Campeonato Paulista",
+      "anios": [
+        "1931",
+        "1943",
+        "1945",
+        "1946",
+        "1948",
+        "1949",
+        "1953",
+        "1957",
+        "1970",
+        "1971",
+        "1975",
+        "1980",
+        "1981",
+        "1985",
+        "1987",
+        "1989",
+        "1991",
+        "1992",
+        "1998",
+        "2000",
+        "2005",
+        "2021"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1930",
+      "hasta": "Presente",
+      "desc": "Por disposición normativa de origen fundacional, se estableció el patrón de la camisa blanca sobre la que discurren de manera precisa dos franjas horizontales cruzadas en el centro delantero (tejidas en rojo y negro intercalados superior e inferiormente).",
+      "tipo": "franja-horizontal",
+      "c1": "#ffffff",
+      "c2": "#cc0000",
+      "sh": "#ffffff",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Rogério Ceni",
+      "apodo": "O Mito",
+      "epoca": "1990-2015",
+      "desc": "Arquero legendario capaz de atajar penales de campeonato e inmediatamente anotar golazos de tiro libre el campo matriz contable al club a una Libertadores y un Mundial épico arrojado contra el Liverpool foráneo."
+    },
+    {
+      "nombre": "Raí Souza Vieira de Oliveira",
+      "apodo": "Raí / Terror del Morumbi",
+      "epoca": "1987-1998",
+      "desc": "Mediapunta técnico letal logístico de pases elegantes dominando al estatuido Barcelona en el cierre magistral de 1992 otorgándole a las esferas paulistas su primer certamen puro global de bases asombrosas originado en Tokio."
+    },
+    {
+      "nombre": "Pedro Virgilio Rocha",
+      "apodo": "El Verdugo",
+      "epoca": "1970-1977",
+      "desc": "Diez uruguayo inmenso luciendo clases doradas al frente comandando las estructuras resolutivas en la época formadora precursora donde cimentaron bases fuertes logradas formalmente operadas llanas de pura técnica charrúa o formadas táctica lisa pura resolutiva formal."
+    },
+    {
+      "nombre": "Antônio de Oliveira Filho",
+      "apodo": "Careca",
+      "epoca": "1983-1987",
+      "desc": "Artillero de época fina formando ataques veloces contundentes en los que arrojó purezas de campeonatos base formal, llevando la casaca tricolor en plenitud previa dominando certámenes logísticos estaduales formados fijos cruzados netamente ."
+    },
+    {
+      "nombre": "Diego Alfredo Lugano",
+      "apodo": "Dios / Tota",
+      "epoca": "2003-2017",
+      "desc": "La personificación agresiva defensiva uruguaya regida en el club contable logístico con sangre sudor campeonatos intercontinentales logísticos y fijando rigurosas defensas resueltas formalmente arrojadas pura mística de corazón en competencias logísticas continentales absolutas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Sérgio Bernardino",
+      "goles": 242,
+      "epoca": "1973-1982",
+      "apodo": "Serginho Chulapa"
+    },
+    {
+      "nombre": "Gino Orlando",
+      "goles": 233,
+      "epoca": "1953-1962",
+      "apodo": "Gino"
+    },
+    {
+      "nombre": "Luís Fabiano Clemente",
+      "goles": 212,
+      "epoca": "2001-2015",
+      "apodo": "Fabuloso"
+    },
+    {
+      "nombre": "Teixeirinha",
+      "goles": 188,
+      "epoca": "1939-1956",
+      "apodo": "Teixeirinha"
+    },
+    {
+      "nombre": "França",
+      "goles": 182,
+      "epoca": "1996-2002",
+      "apodo": "França"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Rogério Ceni",
+      "partidos": 1237,
+      "epoca": "1990-2015",
+      "apodo": "O Mito"
+    },
+    {
+      "nombre": "Waldir Peres",
+      "partidos": 617,
+      "epoca": "1973-1984",
+      "apodo": "Waldir"
+    },
+    {
+      "nombre": "Nilton De Sordi",
+      "partidos": 544,
+      "epoca": "1952-1965",
+      "apodo": "De Sordi"
+    },
+    {
+      "nombre": "Roberto Dias",
+      "partidos": 527,
+      "epoca": "1960-1973",
+      "apodo": "Dias"
+    },
+    {
+      "nombre": "Teixeirinha",
+      "partidos": 525,
+      "epoca": "1939-1956",
+      "apodo": "Teixeirinha"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Soberano",
+      "origen": "Fue popularizado por la prensa y el área de marketing institucional para enmarcar los logros obtenidos entre 2005 y 2008. En ese trienio, São Paulo Fútbol Club conquistó la Copa Libertadores, la Copa Intercontinental y se convirtió en el primer equipo en lograr un tricampeonato consecutivo del Campeonato Brasileño bajo el formato moderno, ejerciendo un dominio estadístico sobre sus rivales de liga."
+    },
+    {
+      "apodo": "Clube da Fé",
+      "origen": "Nació durante la crisis institucional de 1935, cuando disputas políticas provocaron la caída temporal del club. Al reactivar la institución partiendo desde cero, sin patrimonio físico ni jugadores, los fundadores debieron sostener el proyecto mediante aportes económicos propios ante un marco adverso, lo que llevó a los periodistas deportivos a resumir que la entidad había resurgido sustentada únicamente por la 'fe'."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1900",
+      "hasta": "1919",
+      "escudo": "/escudos/brasil/sao-paulo/Paulistano-1900-1919.webp"
+    },
+    {
+      "desde": "1919",
+      "hasta": "1930",
+      "escudo": "/escudos/brasil/sao-paulo/Paulistano-1919-1930.webp"
+    },
+    {
+      "desde": "1930",
+      "hasta": "1949",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1930-1949.webp"
+    },
+    {
+      "desde": "1949",
+      "hasta": "1977",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1949-1977.webp"
+    },
+    {
+      "desde": "1977",
+      "hasta": "1986",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1977-1986.webp"
+    },
+    {
+      "desde": "1986",
+      "hasta": "1991",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1986-1991.webp"
+    },
+    {
+      "desde": "1991",
+      "hasta": "1993",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1991-1993.webp"
+    },
+    {
+      "desde": "1993",
+      "hasta": "1995",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1993-1995.webp"
+    },
+    {
+      "desde": "1995",
+      "hasta": "2000",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-1995-2000.webp"
+    },
+    {
+      "desde": "2000",
+      "hasta": "2005",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-2000-2005.webp"
+    },
+    {
+      "desde": "2005",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/sao-paulo/S%253Fo-Paulo-2005-actual.webp"
+    }
+  ],
   "h2h": {
     "vitoria": {
       "pj": 1,

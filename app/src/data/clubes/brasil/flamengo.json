@@ -6,47 +6,385 @@
     "sigla": "CRF",
     "fundacion": "17 de noviembre de 1895",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 153000,
+    "descripcion_corta": "Club deportivo de la ciudad de Río de Janeiro, fundado originalmente para competencias de remo en 1895. Es históricamente la institución con la mayor cantidad de aficionados en Brasil.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#C60000"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Arthur Antunes Coimbra (509 goles)",
+      "mas_presencias": "Leovegildo Lins da Gama (876 partidos)",
+      "mayor_goleada": "16-2 vs Mangueira (1912)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/flamengo/logo.png"
+    "escudo_actual": "/escudos/brasil/flamengo/Flamengo-2018-actual.webp",
+    "apodos": [
+      "Mengão",
+      "Rubro-Negro",
+      "O Mais Querido"
+    ]
   },
   "historia": [
     {
-      "ano": "1895",
-      "hito": "Fundación del Clube de Regatas do Flamengo",
-      "desc": "El 17 de noviembre de 1895, en dependencias del Café Lamas ubicado en el barrio de Largo do Machado, un conjunto de remeros instruido por José Agostinho Pereira da Cunha, Mário Spíndola y Nestor de Barros formalizaron la estructuración del Clube de Regatas do Flamengo. Tras adquirir una embarcación denominada 'Piraquê', definieron inicialmente en actas constitutivas los colores oro y azul, los cuales fueron derogados en 1896 por el rojo y negro definitivo alegando el abaratamiento en los costos de importación de telas métricas inglesas. La jurisdicción organizativa orientada exclusivamente al fútbol fue impulsada administrativamente en el transcurso del año 1911, configurada por nueve jugadores disidentes del Fluminense Football Club comandados por el capitán Alberto Borgerth."
+      "ano": "1895-1911",
+      "hito": "Fundación en el Remo y la Escisión Futbolística",
+      "desc": "El Grupo de Regatas do Flamengo se fundó originalmente el 17 de noviembre de 1895 en el histórico Café Lamas como una entidad exclusiva para competencias de remo. La incorporación del departamento de fútbol se produjo a fines de 1911, cuando a raíz de un conflicto interno en Fluminense, el jugador Alberto Borgerth y un grupo de nueve futbolistas desertaron formalmente y establecieron la división futbolística del Flamengo el 24 de diciembre de 1911. El primer partido oficial registrado en esta disciplina se concretó el 3 de mayo de 1912, finalizando con una aplastante victoria de 15-2 sobre el equipo de Mangueira."
+    },
+    {
+      "ano": "1942-1944",
+      "hito": "El Primer Tricampeonato y Consolidación Popular",
+      "desc": "Bajo la administración del presidente José Bastos Padilha y la conducción táctica del entrenador Flávio Costa, el club logró establecer una dominancia estadística adjudicándose tres títulos consecutivos del Campeonato Carioca correspondientes a los años 1942, 1943 y 1944. Esta generación cimentó de manera definitiva el estatus de la institución como el equipo más popular de Brasil. El plantel contó con el rendimiento determinante del talentoso mediocampista Zizinho, quien se posicionó como el futbolista y goleador más productivo de gran influencia previa a la llegada de la era mundialista del fútbol brasileño."
     },
     {
       "ano": "1981",
-      "hito": "Copa Libertadores y Copa Intercontinental",
-      "desc": "Bajo la ordenación técnica de Paulo César Carpegiani, la institución se adjudicó la Copa Libertadores de América resolviendo la final en un tercer encuentro contra el club Cobreloa estipulado convencionalmente en el Estadio Centenario de Montevideo el 23 de noviembre. El resultado arrojó un 2-0 global producto de un doblete facturado por el mediocampista Zico, repitiendo el volumen numérico logrado en el cotejo de ida radicado en Río de Janeiro (2-1). El 13 de diciembre del mismo tramo anual, el bloque táctico validó el título de la Copa Intercontinental al superar al Liverpool inglés por 3-0 en el Estadio Nacional de Tokio ante 62.000 asistentes, registrando goles operados en la primera fracción provistos por Nunes (12', 41') y Adílio (34')."
+      "hito": "Gobernanza Continental y Conquista Mundial",
+      "desc": "Durante su ciclo histórico más laureado y comandado por la figura de Zico, el club materializó su dominio continental obteniendo su primera Copa Libertadores el 23 de noviembre de 1981. El título se definió en un tercer partido de desempate en Montevideo frente a Cobreloa, donde Zico marcó los dos goles para el triunfo 2-0. Semanas más tarde, el 13 de diciembre de 1981 en el contexto del Estadio Nacional de Tokio, el equipo capturó la Copa Intercontinental derrotando de manera clara a Liverpool FC con una victoria computada de 3-0, sustentada por las anotaciones oficiales estructuradas por Nunes (2 goles) y Adílio."
     },
     {
-      "ano": "1987",
-      "hito": "Conquista del Módulo Verde (Copa União)",
-      "desc": "El 13 de diciembre de 1987, el plantel instruido por el técnico Carlinhos se proclamó vencedor del Módulo Verde de la Copa União, iteración estacional diseñada por el Clube dos 13 y homologada como la máxima división del país. Las reglas de la competición dispusieron la fase decisiva ante el Sport Club Internacional. El trazado de ida dictaminó un saldo de 1-1 como equipo visitante en el Estadio Beira-Rio, culminando deportivamente la serie formativa con un triunfo por 1-0 decretado en el Estadio Maracaná gracias a una anotación ejecutada por el atacante Bebeto al minuto 16 de desarrollo bajo la contemplación auditada de 91.034 espectadores."
+      "ano": "1987-1992",
+      "hito": "Hegemonía y Multiplicación de Cetros Brasileños",
+      "desc": "La junta corporativa y la nómina de jugadores continuaron sumando reconocimientos nacionales de la primera categoría durante la transición de las dos décadas. En 1987, con el desarrollo de la controvertida edición paralela del Campeonato Brasileño llamada Copa União, Flamengo obtuvo la adjudicación oficial del trofeo bajo la dirección técnica de Carlinhos. Posteriormente, la escuadra concretó y rubricó administrativamente su quinto campeonato de primera división nacional durante la temporada de 1992, superando en las llaves resolutivas decisivas directamente al Botafogo."
     },
     {
       "ano": "2019",
-      "hito": "Segunda Copa Libertadores y Campeonato Brasileño",
-      "desc": "El 23 de noviembre de 2019, cumplimentando un esquema a partido único en el Estadio Monumental de Lima, la administración del campo ejercida por el entrenador portugués Jorge Jesus derivó en la obtención de la segunda Copa Libertadores corporativa. Contrarrestando una desventaja mínima ante River Plate de Argentina, el delantero Gabriel Barbosa intervino de manera consecutiva a los minutos 89 y 92 modificando sustancialmente el marcador para sellar la victoria 2-1. Veinticuatro horas después, producto de la paridad aritmética forzada en los rivales colindantes en la tabla, el club acreditó de oficio el título del Campeonato Brasileño contabilizando el récord numérico histórico del formato regular sumando 90 puntos operativos sobre 86 goles a favor."
-    },
-    {
-      "ano": "2022",
-      "hito": "Tercera Libertadores Consagrada y Copa de Brasil",
-      "desc": "Transcurriendo la agenda competitiva del 2022 bajo la supervisión directa del director técnico Dorival Júnior, los representantes del club finalizaron la participación institucional de la Copa Libertadores bajo condición de invictos, logrando el tercer trofeo interzonal. La examinación oficial aconteció el 29 de octubre en el Estadio Monumental Isidro Romero Carbo de Guayaquil logrando un porcentaje exacto de 1-0 ante el Club Athletico Paranaense originado en la finalización de Gabriel Barbosa en el tiempo adicionado de la primera mitad (45+4'). Diez días antes, en las mediaciones del Maracaná, el grupo extrajo el título del organigrama de la Copa de Brasil tras eliminar en tanda de penales (6-5) a Corinthians tras una nivelación resolutiva de 1-1."
+      "hito": "Doblete Contemporáneo Arrollador: Liga y Libertadores",
+      "desc": "Bajo el esquema táctico del técnico portugués Jorge Jesus, el rubro futbolístico del club logró la inédita hazaña de dominar simultáneamente los dos torneos continentales y nacionales más importantes del calendario civil 2019. Primeramente rompieron todos los registros de puntuación previa adjudicándose el Campeonato Brasileño con 90 puntos exactos en el tablero general. De manera paralela, en la final única agendada de la Copa Libertadores jugada el 23 de noviembre en Lima, el equipo superó a River Plate logrando una victoria de 2-1 gracias a dos anotaciones arrojadas formalmente en los minutos 89 y 92 a cargo del goleador Gabriel Barbosa."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio da Rua Paysandu",
+      "direccion": "R. Paissandu - Laranjeiras, Rio de Janeiro - RJ",
+      "desde": 1912,
+      "hasta": 1932,
+      "estado": "Histórico",
+      "obs": "Primer recinto base originario formal alquilado inicialmente por el club. Tras oficializarse el departamento de fútbol, se consolidó como espacio operativo de las series locales en la era de los primeros campeonatos.",
+      "lat": -22.9351,
+      "lng": -43.1812,
+      "url": "https://www.google.com/maps/search/?api=1&query=-22.9351,-43.1812"
+    },
+    {
+      "nombre": "Estádio da Gávea",
+      "direccion": "Av. Borges de Medeiros, 997 - Lagoa, Rio de Janeiro - RJ, 22430-041",
+      "desde": 1938,
+      "hasta": 1997,
+      "estado": "Histórico",
+      "obs": "Recinto social y directivo del club que sirvió como estadio secundario donde el bloque técnico instaló su cuartel corporativo definitivo tras conseguir tierras cedidas numéricamente a las lomas barriales de Lagoa.",
+      "lat": -22.9772,
+      "lng": -43.2185,
+      "url": "https://www.google.com/maps/search/?api=1&query=-22.9772,-43.2185"
+    },
+    {
+      "nombre": "Estádio Jornalista Mário Filho (Maracanã)",
+      "direccion": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
+      "desde": 1950,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Catedral mundial oficial adjudicada como el histórico fortín del club, el cual fue testigo resolutivo de los ciclos multitudinarios en las más grandes coronaciones del país de Flamengo durante el siglo.",
+      "lat": -22.9121,
+      "lng": -43.2301,
+      "url": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Copa Intercontinental",
+      "anios": [
+        "1981"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1981",
+        "2019",
+        "2022"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "2020"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Mercosur",
+      "anios": [
+        "1999"
+      ]
+    },
+    {
+      "n": 7,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1980",
+        "1982",
+        "1983",
+        "1992",
+        "2009",
+        "2019",
+        "2020"
+      ]
+    },
+    {
+      "n": 4,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "1990",
+        "2006",
+        "2013",
+        "2022"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "2020",
+        "2021"
+      ]
+    },
+    {
+      "n": 38,
+      "comp": "Campeonato Carioca",
+      "anios": [
+        "1914",
+        "1915",
+        "1920",
+        "1921",
+        "1925",
+        "1927",
+        "1939",
+        "1942",
+        "1943",
+        "1944",
+        "1953",
+        "1954",
+        "1955",
+        "1963",
+        "1965",
+        "1972",
+        "1974",
+        "1978",
+        "1979",
+        "1979(E)",
+        "1981",
+        "1986",
+        "1991",
+        "1996",
+        "1999",
+        "2000",
+        "2001",
+        "2004",
+        "2007",
+        "2008",
+        "2009",
+        "2011",
+        "2014",
+        "2017",
+        "2019",
+        "2020",
+        "2021",
+        "2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1895",
+      "hasta": "1899",
+      "desc": "Uniforme inicial utilizado exclusivamente para la disciplina de remo. Presentaba un diseño con grandes cuadros intercalados azules y dorados.",
+      "tipo": "rayas-horizontales",
+      "c1": "#0000ff",
+      "c2": "#ffd700",
+      "sh": "#ffffff",
+      "me": "#000000"
+    },
+    {
+      "desde": "1899",
+      "hasta": "1912",
+      "desc": "El departamento de remo solicitó el cambio textil, adoptando franjas horizontales rojas y negras divididas por delgadas líneas blancas.",
+      "tipo": "rayas-horizontales",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#000000"
+    },
+    {
+      "desde": "1912",
+      "hasta": "Presente",
+      "desc": "Con la habilitación formal del fútbol, la liga vetó indumentarias idénticas a otros deportes. Se modificó el diseño a franjas anchas rojas y negras horizontales sin líneas blancas.",
+      "tipo": "rayas-horizontales",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#cc0000"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Arthur Antunes Coimbra",
+      "apodo": "Zico / Galinho de Quintino",
+      "epoca": "1971-1989",
+      "desc": "El máximo ícono de la institución. Comandó la etapa dorada conquistando la primera Libertadores e Intercontinental, un aura mítica como enganche de técnica exquisita y dominio absoluto de los tiros libres."
+    },
+    {
+      "nombre": "Leovegildo Lins da Gama",
+      "apodo": "Júnior / Capacete",
+      "epoca": "1974-1993",
+      "desc": "Símbolo de longevidad y jerarquía. Inició como lateral izquierdo deslumbrante y culminó su trayectoria como mediocampista central orquestador, ganando cuatro campeonatos brasileños en dos décadas distintas."
+    },
+    {
+      "nombre": "José Leandro de Souza",
+      "apodo": "Leandro / Peixe-Frito",
+      "epoca": "1978-1990",
+      "desc": "Lateral derecho de antología considerado el defensor más técnico de la historia del club. Desarrolló su carrera profesional exclusivamente en Flamengo, siendo pieza vital de la máquina campeona del mundo en 1981."
+    },
+    {
+      "nombre": "Edvaldo Alves de Santa Rosa",
+      "apodo": "Dida",
+      "epoca": "1954-1964",
+      "desc": "Ídolo supremo de la etapa previa a Zico. Delantero de habilidad punzante y artífice máximo de los trofeos cariocas en los años 50, fue la gran inspiración del 'Galinho' durante su juventud."
+    },
+    {
+      "nombre": "Gabriel Barbosa",
+      "apodo": "Gabigol",
+      "epoca": "2019-2024",
+      "desc": "La cara contemporánea del club. Inmortalizó su nombre anotando dobletes heroicos en finales continentales, restaurando el prestigio internacional y la mística victoriosa tras más de tres décadas de sequía continental."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Arthur Antunes Coimbra",
+      "goles": 509,
+      "epoca": "1971-1989",
+      "apodo": "Zico"
+    },
+    {
+      "nombre": "Edvaldo Alves de Santa Rosa",
+      "goles": 264,
+      "epoca": "1954-1964",
+      "apodo": "Dida"
+    },
+    {
+      "nombre": "Henrique Frade",
+      "goles": 216,
+      "epoca": "1954-1963",
+      "apodo": "Henrique"
+    },
+    {
+      "nombre": "Pirillo",
+      "goles": 204,
+      "epoca": "1941-1947",
+      "apodo": "Sylvio Pirillo"
+    },
+    {
+      "nombre": "Romário de Souza Faria",
+      "goles": 204,
+      "epoca": "1995-1999",
+      "apodo": "Romário / Baixinho"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Leovegildo Lins da Gama",
+      "partidos": 876,
+      "epoca": "1974-1993",
+      "apodo": "Júnior"
+    },
+    {
+      "nombre": "Arthur Antunes Coimbra",
+      "partidos": 732,
+      "epoca": "1971-1989",
+      "apodo": "Zico"
+    },
+    {
+      "nombre": "Adílio de Oliveira Gonçalves",
+      "partidos": 615,
+      "epoca": "1975-1987",
+      "apodo": "Adílio / Brown"
+    },
+    {
+      "nombre": "Jordan da Costa",
+      "partidos": 609,
+      "epoca": "1952-1963",
+      "apodo": "Jordan"
+    },
+    {
+      "nombre": "Jorge Luís Andrade da Silva",
+      "partidos": 570,
+      "epoca": "1979-1988",
+      "apodo": "Andrade"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Urubu",
+      "origen": "A finales de la década de 1960, las hinchadas rivales aplicaban el término 'urubu' (buitre) de forma despectiva para referirse a la afición del Flamengo, asociada históricamente a clases populares. Esta connotación cambió en un clásico de 1969 contra Botafogo, cuando aficionados introdujeron un cuervo vivo al Estadio Maracanã y lo exhibieron en las gradas. Tras la victoria en ese partido, el club y su parcialidad adoptaron oficialmente al ave como su mascota y símbolo de identidad."
+    },
+    {
+      "apodo": "O Mais Querido do Brasil",
+      "origen": "Se formalizó en 1927 a partir de un concurso realizado por el 'Jornal do Brasil' y la marca Salutaris. A través del envío de correspondencia, los lectores debían votar por su equipo preferido. Flamengo obtuvo la mayor cantidad de sufragios en todo el país, superando a Vasco da Gama en el conteo final, y recibió el 'Trofeo Salutaris', consolidando estadísticamente el título de la afición más numerosa."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1895",
+      "hasta": "1896",
+      "escudo": "/escudos/brasil/flamengo/Image_Clube_de_Regatas_do_Flamengo_1895-1896.webp"
+    },
+    {
+      "desde": "1896",
+      "hasta": "1912",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-1896-1912.webp"
+    },
+    {
+      "desde": "1912",
+      "hasta": "1944",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-1912-1944.webp"
+    },
+    {
+      "desde": "1944",
+      "hasta": "1980",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-1944-1980.webp"
+    },
+    {
+      "desde": "1980",
+      "hasta": "1981",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-1980-1981.webp"
+    },
+    {
+      "desde": "1981",
+      "hasta": "2000",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-1981-2000.webp"
+    },
+    {
+      "desde": "2000",
+      "hasta": "2009",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-2000-2009.webp"
+    },
+    {
+      "desde": "2010",
+      "hasta": "2018",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-2010-2018.webp"
+    },
+    {
+      "desde": "2018",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/flamengo/Flamengo-2018-actual.webp"
+    }
+  ],
   "h2h": {
     "fluminense": {
       "pj": 1,

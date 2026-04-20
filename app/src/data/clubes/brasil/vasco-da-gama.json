@@ -6,21 +6,301 @@
     "sigla": "CRVG",
     "fundacion": "21 de agosto de 1898",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 66000,
+    "descripcion_corta": "Institución de Río de Janeiro nacida de las colonias portuguesas en 1898. Destacada históricamente en el siglo XX por su inclusión racial de jugadores y victorias en los primeros campeonatos sudamericanos.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Carlos Roberto de Oliveira (708 goles)",
+      "mas_presencias": "Carlos Roberto de Oliveira (1110 partidos)",
+      "mayor_goleada": "14-1 vs Canto do Rio (1947)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/vasco-da-gama/logo.png"
+    "escudo_actual": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-2021-actual.webp",
+    "apodos": [
+      "Gigante da Colina",
+      "Cruzmaltino",
+      "Trem Bala da Colina"
+    ]
   },
-  "historia": [],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "historia": [
+    {
+      "ano": "1898-1916",
+      "hito": "Fundación Institucional como Club de Remo e Integración del Fútbol",
+      "desc": "El club se fundó el 21 de agosto de 1898 producto de una asamblea celebrada por 62 empleados de comercio, mayoritariamente inmigrantes portugueses, reunidos en las instalaciones de la Sociedade Dramática Filhos de Talma. Su propósito funcional inicial se restringió estrictamente a competir en regatas de remo dentro de la Bahía de Guanabara. Francisco Gonçalves do Couto Junior fue electo como su primer presidente y propuso la denominación institucional para conmemorar el cuarto centenario de la expedición a la India ejecutada por el navegante Vasco da Gama en 1498. Se estipuló reglamentariamente un uniforme negro cortado por una banda diagonal blanca e impreso con la Cruz de la Orden de Cristo en rojo. El departamento de fútbol se formalizó el 26 de noviembre de 1915 tras absorber la plantilla y bienes materiales del Club Lusitânia. El debut formativo de esta disciplina se documentó el 3 de mayo de 1916 integrando la Tercera División del Campeonato Carioca y registrando una derrota inicial de 10-1 contra el elenco de Paladino FC."
+    },
+    {
+      "ano": "1923-1924",
+      "hito": "«Os Camisas Negras» y la Respuesta Histórica",
+      "desc": "En 1923, el plantel conocido sociológicamente como «Os Camisas Negras», conformado de manera inédita por jugadores negros, mestizos y trabajadores obreros de bajos medios sociales, ganó el Campeonato Carioca registrando once victorias, dos empates y una sola derrota en 14 partidos. La victoria generó el rechazo de los clubes de estatus social alto (Flamengo, Fluminense y Botafogo), quienes en 1924 fundaron formalmente la Associação Metropolitana de Esportes Athleticos (AMEA) condicionando la afiliación de Vasco da Gama a la eliminación administrativa de doce de sus futbolistas bajo argumentos de analfabetismo y falta de prestigio social. El 7 de abril de 1924 la presidencia del club, encabezada por José Augusto Prestes, rechazó el petitorio redactando un documento catalogado como la «Resposta Histórica», oficializando su desvinculación a fin de mantener el formato popular y multirracial del plantel, consolidando un hito fundacional contra el racismo en el fútbol brasileño."
+    },
+    {
+      "ano": "1948",
+      "hito": "El Expresso da Vitória y la Conquista Sudamericana",
+      "desc": "Bajo la dirección del entrenador Flávio Costa, el club conformó una generación estadísticamente dominante apodada «Expresso da Vitória», escuadra que consiguió los Campeonatos Cariocas de forma invicta en los torneos finalizados en 1945, 1947 y 1949. A nivel continental conquistaron el Campeonato Sudamericano de Campeones organizado en Santiago de Chile, torneo catalogado formalmente por Conmebol como la competición precursora a la Copa Libertadores. El partido definitivo de la liguilla resolutiva se materializó el 14 de marzo de 1948 frente a River Plate clausurándose en un empate numérico de 0-0 que habilitó la sumatoria general de puntuación para que Vasco da Gama finalice puntero y se coronara campeón, inscribiéndose como el primer equipo brasileño de la historia en obtener un título oficial continental fuera de territorio nacional."
+    },
+    {
+      "ano": "1974",
+      "hito": "Conquista del Primer Campeonato Brasileño",
+      "desc": "El club logró adjudicarse el trofeo correspondiente de primera división oficializando el Campeonato Brasileño de 1974 y venciendo en la disputa final agendada contra Cruzeiro Esporte Clube. El encuentro resolutivo estipulado por los directivos de la CBD se pactó a partido único jugándose el 1 de agosto de 1974 en el marco del Estadio de Maracaná ante una asistencia reportada de 112.933 espectadores, determinando un triunfo institucional con un registro numérico de 2-1 sumando anotaciones contabilizadas a cargo de Ademir en el minuto 14 y, tras el empate de los oponentes a los 64 minutos, la resolución formal y definitiva concretada por Jorginho Carvoeiro facturando el último gol del título a los 78 minutos del tiempo de juego. El ídolo Roberto Dinamite consolidó su estatus estadístico coronándose máximo anotador goleador de esa edición computando 16 dianas."
+    },
+    {
+      "ano": "1998-2000",
+      "hito": "La Copa Libertadores y la «Virada do Século»",
+      "desc": "Coincidiendo estatutariamente con la agenda anual de su centenario institucional, el equipo conquistó la Copa Libertadores 1998 derrotando al Barcelona Sporting Club. Tras ganar 2-0 la ida efectuada en São Januário, materializó el título continental logrando una victoria de 2-1 sellada el 26 de agosto en el Estadio Monumental de Guayaquil mediante dos anotaciones definidas por el atacante Luizão a los minutos 24 y 45 del primer tiempo. Posteriormente, en el torneo regional de CONMEBOL transcurrido la noche del 20 de diciembre de 2000, obtuvo la Copa Mercosur en el Estadio Parque Antárctica superando mecánicamente a Palmeiras en la final catalogada por la prensa deportiva como «A Virada do Século». Tras finalizar la primera mitad perdiendo 3-0 en el tablero de marcadores, el equipo logró revertir el balance adverso obteniendo el 4-3 al minuto 93 con tres goles convertidos por Romário (minutos 59, 68 y 93) y el tanto remanente de Juninho Paulista estipulado al minuto 86."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estádio de São Januário (Estádio Vasco da Gama)",
+      "direccion": "R. Gen. Almério de Moura, 131 - Vasco da Gama, Rio de Janeiro - RJ, 20921-060",
+      "desde": 1927,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Construido monumentalmente gracias a la recaudación popular de los propios hinchas y socios ('Resposta Histórica') durante 10 meses para asegurar su permanencia competitiva. Mantuvo el récord como estadio más grande de toda Sudamérica al momento de su inauguración en abril de 1927.",
+      "lat": -22.8906,
+      "lng": -43.2289,
+      "url": "https://www.google.com/maps/search/?api=1&query=-22.8906,-43.2289"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Campeonato Sudamericano de Campeones",
+      "anios": [
+        "1948"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1998"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Mercosur",
+      "anios": [
+        "2000"
+      ]
+    },
+    {
+      "n": 4,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1974",
+        "1989",
+        "1997",
+        "2000"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "2011"
+      ]
+    },
+    {
+      "n": 24,
+      "comp": "Campeonato Carioca",
+      "anios": [
+        "1923",
+        "1924",
+        "1929",
+        "1934",
+        "1936",
+        "1945",
+        "1947",
+        "1949",
+        "1950",
+        "1952",
+        "1956",
+        "1958",
+        "1970",
+        "1977",
+        "1982",
+        "1987",
+        "1988",
+        "1992",
+        "1993",
+        "1994",
+        "1998",
+        "2003",
+        "2015",
+        "2016"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1898",
+      "hasta": "1926",
+      "desc": "Uniforme histórico de los remeros, consistente en camisa completamente negra lisa acompañada por un escudo central.",
+      "tipo": "",
+      "c1": "#000000",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#000000"
+    },
+    {
+      "desde": "1930",
+      "hasta": "Presente",
+      "desc": "Se estableció para el fútbol una camisa negra regular cruzada de banda a banda por una franja diagonal blanca descendiendo desde el hombro hasta la cadera.",
+      "tipo": "banda-diagonal",
+      "c1": "#000000",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Carlos Roberto de Oliveira",
+      "apodo": "Roberto Dinamite",
+      "epoca": "1971-1993",
+      "desc": "La identidad eterna de la Cruz de Malta. Centrodelantero monumental, artillero implacable y máxima figura representativa en los derbis frente a Flamengo, dedicando su vida deportiva y administrativa al club."
+    },
+    {
+      "nombre": "Romário de Souza Faria",
+      "apodo": "Baixinho",
+      "epoca": "1985-2008",
+      "desc": "Criado en São Januário, el delantero prodigio debutó arrollando redes y tuvo múltiples retornos gloriosos donde conquistó el Brasileirão 2000 y coronó su milésimo gol profesional vistiendo la misma casaca."
+    },
+    {
+      "nombre": "Edmundo Alves de Souza Neto",
+      "apodo": "Animal",
+      "epoca": "1992-2008",
+      "desc": "Genio indomable. Su temporada arrasadora en 1997 le brindó al equipo un campeonato nacional cimentado en su anarquía letal y destreza técnica brillante ante la meta rival."
+    },
+    {
+      "nombre": "Hilderaldo Bellini",
+      "apodo": "Bellini",
+      "epoca": "1952-1961",
+      "desc": "Emblema del escudo y estandarte del liderazgo en la retaguardia. Consolidó una defensa impenetrable como capitán de las escuadras dominantes nacionales antes del Mundial del 58."
+    },
+    {
+      "nombre": "Antônio Augusto Ribeiro Reis Jr.",
+      "apodo": "Juninho Pernambucano",
+      "epoca": "1995-2013",
+      "desc": "Orquestador de la asombrosa Libertadores del 98. Su monumental remate de tiro libre en el estadio de River Plate quedó sellado como el pasaje dorado a la gloria continental contemporánea."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Carlos Roberto de Oliveira",
+      "goles": 708,
+      "epoca": "1971-1993",
+      "apodo": "Roberto Dinamite"
+    },
+    {
+      "nombre": "Romário de Souza Faria",
+      "goles": 326,
+      "epoca": "1985-2008",
+      "apodo": "Baixinho"
+    },
+    {
+      "nombre": "Ademir Marques de Menezes",
+      "goles": 301,
+      "epoca": "1942-1956",
+      "apodo": "Ademir de Menezes / Queixada"
+    },
+    {
+      "nombre": "José Lázaro Robles",
+      "goles": 250,
+      "epoca": "1953-1961",
+      "apodo": "Pinga"
+    },
+    {
+      "nombre": "Ipojucan Lins de Araújo",
+      "goles": 225,
+      "epoca": "1944-1954",
+      "apodo": "Ipojucan"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Carlos Roberto de Oliveira",
+      "partidos": 1110,
+      "epoca": "1971-1993",
+      "apodo": "Roberto Dinamite"
+    },
+    {
+      "nombre": "Carlos Germano Schwambach Alves",
+      "partidos": 632,
+      "epoca": "1990-1999",
+      "apodo": "Carlos Germano"
+    },
+    {
+      "nombre": "Sebastião Leônidas",
+      "partidos": 576,
+      "epoca": "1952-1964",
+      "apodo": "Sabará"
+    },
+    {
+      "nombre": "Alcir Portela",
+      "partidos": 511,
+      "epoca": "1963-1974",
+      "apodo": "Alcir"
+    },
+    {
+      "nombre": "Moacyr Barbosa",
+      "partidos": 431,
+      "epoca": "1945-1962",
+      "apodo": "Barbosa"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Expresso da Vitória",
+      "origen": "Surge en la prensa radial a finales de la década de 1940 para calificar al equipo que dominó el campeonato carioca entre 1945 y 1952. Tras obtener el Campeonato Sudamericano de Campeones de 1948 en Chile de manera invicta y registrar un alto promedio de goles por partido, los locutores compararon el rendimiento del plantel con la fuerza y velocidad de un tren expreso de la época."
+    },
+    {
+      "apodo": "O Gigante da Colina",
+      "origen": "Hace referencia directa a la inauguración del estadio de São Januário en 1927. El recinto, financiado íntegramente mediante la recolección de fondos de los propios socios del club, fue construido sobre una elevación natural de tierra en la zona norte de Río de Janeiro. Al ser el estadio más grande de Sudamérica en su momento, los diarios lo bautizaron como el 'gigante' emplazado en la colina."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1898",
+      "hasta": "1903",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-1898-1903emblem.webp"
+    },
+    {
+      "desde": "1903",
+      "hasta": "1920",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-1903-1920emblem.webp"
+    },
+    {
+      "desde": "1920",
+      "hasta": "1980",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-1920-1980emblem.webp"
+    },
+    {
+      "desde": "1980",
+      "hasta": "2012",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco_da_Gama_1980-2012.webp"
+    },
+    {
+      "desde": "2012",
+      "hasta": "2021",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-2012-2021emblem.webp"
+    },
+    {
+      "desde": "2021",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/vasco-da-gama/Vasco-da-gama-2021-actual.webp"
+    }
+  ],
   "h2h": {
     "remo": {
       "pj": 1,

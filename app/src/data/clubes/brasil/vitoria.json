@@ -6,21 +6,294 @@
     "sigla": "ECV",
     "fundacion": "13 de mayo de 1899",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 35000,
+    "descripcion_corta": "Bloque representativo forjado a causa cívica del empeño y orden dictaminado por ciudadanos y comerciantes ingleses decimonónicos de la órbita de Salvador, cimentando lícitas campañas regulares abocadas a sostener o fortalecer la propia división formadora inferior del fútbol.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#C90016"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Juvenal Silva (154 goles)",
+      "mas_presencias": "Flávio (410 partidos)",
+      "mayor_goleada": "10-0 vs Ypiranga (1995)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/vitoria/logo.png"
+    "escudo_actual": "/escudos/brasil/vitoria/Esporte_Clube_Vit282023-actual.webp",
+    "apodos": [
+      "Leão da Barra",
+      "Rubro-Negro Baiano"
+    ]
   },
-  "historia": [],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "historia": [
+    {
+      "ano": "1899-1902",
+      "hito": "Fundación como Club de Cricket e Incorporación del Fútbol",
+      "desc": "La institución se fundó el 13 de mayo de 1899 bajo la denominación original de Club de Cricket Victoria, gestada por iniciativa de los hermanos Artur y Eugênio Borges y un grupo de jóvenes provenientes de familias tradicionales tras retornar de estudios en Inglaterra. Establecieron su base en el barrio Campo Grande de Salvador, orientando la actividad fundacional exclusivamente al críquet. El 22 de mayo de 1901 disputaron su primer partido documentado de fútbol oficial obteniendo una victoria de 3-2 ante la tripulación de navíos ingleses anclados en el puerto. El año 1902 oficializó la modificación estatutaria del nombre a Sport Club Victoria para incorporar disciplinas atléticas diversas y asentaron permanentemente el uso de sus colores rojinegros institucionales."
+    },
+    {
+      "ano": "1908-1909",
+      "hito": "Bicampeonato Inicial del Campeonato Baiano",
+      "desc": "El club participó como fundador en la creación de la primera liga oficial de fútbol estatal y conquistó el Campeonato Baiano de 1908 registrando la estadística invicta de seis victorias, definiendo su primacía sobre instituciones como São Salvador y Sport Club Bahia. En el torneo reglamentario de 1909 concretaron el bicampeonato tras revalidar su posición en lo alto de la tabla. Después de estos títulos tempranos, las imposiciones directivas centradas estrictamente en mantener un estatus de amateurismo produjeron una prolongada sequía de títulos institucionales frente a la profesionalización paulatina de sus rivales y del fútbol general local."
+    },
+    {
+      "ano": "1953-1986",
+      "hito": "Regreso al Título Profesional y Apertura del Barradão",
+      "desc": "El equipo se adjudicó la edición 1953 del Campeonato Baiano superando en la fase de decisión a Botafogo de Bahía para cortar administrativamente una sequía deportiva de 44 años sin torneos de primera división oficial. Años más tarde, el proyecto de consolidación del departamento de fútbol se materializó formalmente con la inauguración del Estádio Manoel Barradas (conocido de manera corriente como Barradão). El recinto abrió sus operaciones el 11 de noviembre de 1986 albergando un partido de habilitación contra Santos Futebol Clube que finalizó en un empate numérico de 1-1, partido en el cual el jugador Dino anotó el primer gol oficial refrendado en los registros del campo deportivo."
+    },
+    {
+      "ano": "1993",
+      "hito": "Subcampeonato Brasileño y Revelación de Base",
+      "desc": "Bajo la dirección táctica del entrenador Fito Neves, el equipo logró alcanzar la fase final absoluta del Campeonato Brasileño de 1993, convirtiéndose en el primer club del estado en llegar a esta instancia decisiva. Tras eliminar escalonadamente a equipos como Corinthians, Santos y Flamengo en grupos de cuadrangulares, se enfrentaron en las series finales contra Palmeiras acarreando dos derrotas de 1-0 el 12 de diciembre y 2-0 el 19 de diciembre. Este ciclo consolidó operativamente la capacidad formadora del club introduciendo talentos promovidos desde las divisiones juveniles (catalogados localmente como 'crias do Leão'), dotando a su nómina titular con el arquero Dida, el mediocampista Vampeta y el delantero Alex Alves."
+    },
+    {
+      "ano": "2010",
+      "hito": "Finalista de la Copa do Brasil y Registros de Ingreso",
+      "desc": "El elenco matriculó su participación más larga en torneos de llaves eliminatorias del país alcanzando la final íntegra de la Copa do Brasil 2010, fase a la que accedió tras superar mecánicamente a Corinthians Alagoano, Náutico, Goiás, Vasco da Gama y Atlético Goianiense. La resolución del campeonato computó una derrota 2-0 registrada la noche del 28 de julio frente a Santos en São Paulo. En el duelo de validación final disputado como locales el 4 de agosto de 2010 frente a 34.111 personas en el Barradão, Vitória registró un triunfo arrojando el parcial de 2-1 mediante goles de Wallace a los 57 minutos y Júnior a los 77 minutos, resultando aritméticamente inoperante para el conteo global que coronó el título a favor del club paulista."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Estádio Manoel Barradas (Barradão)",
+      "direccion": "R. Artêmio Castro Valente, 1 - Nossa Sra. da Vitoria, Salvador - BA, 41262-100",
+      "desde": 1986,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Sede deportiva y corporativa inscripta legalmente al club y estructurada formalmente desde cero operando su habilitación inaugural en el trayecto calendario de 1986.",
+      "lat": -12.9242,
+      "lng": -38.4286,
+      "url": "https://www.google.com/maps/search/?api=1&query=-12.9242,-38.4286"
+    },
+    {
+      "nombre": "Campo da Graça",
+      "direccion": "Av. Princesa Isabel, Graça, Salvador - BA",
+      "desde": 1920,
+      "hasta": 1951,
+      "estado": "Histórico",
+      "obs": "Primer campo base oficial utilizado previo a la edificación urbana matriz, demolido y desafectado consecutivamente.",
+      "lat": -12.9928,
+      "lng": -38.5204,
+      "url": "https://www.google.com/maps/search/?api=1&query=-12.9928,-38.5204"
+    },
+    {
+      "nombre": "Estádio Octávio Mangabeira (Fonte Nova)",
+      "direccion": "Ladeira da Fonte das Pedras, s/n - Nazaré, Salvador - BA, 40050-565",
+      "desde": 1951,
+      "hasta": 1986,
+      "estado": "Histórico",
+      "obs": "Escenario arrendado operado formalmente por la tutela gubernamental y utilizado durante tres décadas (1951-1986) para albergar certámenes nacionales de Primera División por carencia técnica de estadios oficiales locales.",
+      "lat": -12.9787,
+      "lng": -38.5042,
+      "url": "https://www.google.com/maps/search/?api=1&query=-12.9787,-38.5042"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Campeonato Brasileño Série B",
+      "anios": [
+        "2023"
+      ]
+    },
+    {
+      "n": 4,
+      "comp": "Copa do Nordeste",
+      "anios": [
+        "1997",
+        "1999",
+        "2003",
+        "2010"
+      ]
+    },
+    {
+      "n": 30,
+      "comp": "Campeonato Baiano",
+      "anios": [
+        "1908 a 2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1899",
+      "hasta": "1901",
+      "desc": "Uniforme operado originariamente al momento constitutivo de criket luciendo camisones estructurados en diseño blanquinegro dictaminando formato rayado estandarizado recto hacia la base.",
+      "tipo": "rayas-verticales",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#000000"
+    },
+    {
+      "desde": "1901",
+      "hasta": "Presente",
+      "desc": "Determinaciones de la comisión dispusieron estatuir legal reordenar el rojo vivo matriz cruzándolo operando en anchas y gruesas franjas de tipo horizontal cruzando y combinándose simétricamente plenas contra los listones originariamente idénticos formales de base negra s de cara paralelos o de piso.",
+      "tipo": "rayas-horizontales",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Júlio César da Silva Gurjol",
+      "apodo": "Júlio César",
+      "epoca": "1973-1983",
+      "desc": "Delantero y líder absoluto en la historia rubro-negra. Estandarte máximo de múltiples conquistas en el Campeonato Baiano estableciendo bases de jerarquía pura ofensiva táctica."
+    },
+    {
+      "nombre": "Vampeta",
+      "apodo": "Vampeta",
+      "epoca": "1993-1994",
+      "desc": "Su rutilante desempeño desde la cantera le otorgó estatus de ícono temprano, formando el mediocampo del legendario equipo finalista brasileño de los años noventa."
+    },
+    {
+      "nombre": "Dejan Petkovic",
+      "apodo": "Petkovic",
+      "epoca": "1997-1999",
+      "desc": "Enganche serbio foráneo que enamoró con una excelsa pegada de tiro libre. Transformó las ejecuciones en arte logrando copas locales en el apogeo del Barradão."
+    },
+    {
+      "nombre": "Bebeto",
+      "apodo": "Bebeto",
+      "epoca": "1983",
+      "desc": "Su paso juvenil lo catapultó a la élite como goleador. Es ídolo originario tras deslumbrar tempranamente y dar orígenes históricos a la grandeza formativa institucional del club."
+    },
+    {
+      "nombre": "Viáfara",
+      "apodo": "Viáfara",
+      "epoca": "2008-2011",
+      "desc": "El guardián colombiano del milenio. Anotador de penales y cerrojo espectacular en el arco. Logró ascensos asegurando una relación inquebrantable de afecto junto a las tribunas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Juvenal Silva",
+      "goles": 154,
+      "epoca": "1940-1950",
+      "apodo": "Juvenal"
+    },
+    {
+      "nombre": "Osni Lopes",
+      "goles": 111,
+      "epoca": "1960-1970",
+      "apodo": "Osni"
+    },
+    {
+      "nombre": "André Catimba",
+      "goles": 98,
+      "epoca": "1970-1980",
+      "apodo": "André Catimba"
+    },
+    {
+      "nombre": "Allan Delon",
+      "goles": 95,
+      "epoca": "1990-2005",
+      "apodo": "Allan Delon"
+    },
+    {
+      "nombre": "Ricky",
+      "goles": 88,
+      "epoca": "1980-1990",
+      "apodo": "Ricky"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Flávio",
+      "partidos": 410,
+      "epoca": "1980-1990",
+      "apodo": "Flávio"
+    },
+    {
+      "nombre": "Júlio César",
+      "partidos": 402,
+      "epoca": "1973-1983",
+      "apodo": "Júlio"
+    },
+    {
+      "nombre": "Beto",
+      "partidos": 386,
+      "epoca": "1960-1970",
+      "apodo": "Beto"
+    },
+    {
+      "nombre": "Vanderson",
+      "partidos": 380,
+      "epoca": "2000-2010",
+      "apodo": "Vandinho"
+    },
+    {
+      "nombre": "Vagner Lemos",
+      "partidos": 338,
+      "epoca": "1990-2000",
+      "apodo": "Vagner"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Leão da Barra",
+      "origen": "Bautizado al integrar su ubicación domiciliaria originaria con el perfil institucional requerido. La primera directiva anclaba gran parte de sus estructuras urbanas sobre la geografía circundante al tradicional barrio de Barra. Asimismo, para competir frente al resto desde el emblema visual se adoptó de base al propio león salvaje a fin de transmitir en el certamen oficial valores formales atados al liderazgo selvático y valentía estructural."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1899",
+      "hasta": "1933",
+      "escudo": "/escudos/brasil/vitoria/Vit%253Fria-1899-1933.webp"
+    },
+    {
+      "desde": "1934",
+      "hasta": "1938",
+      "escudo": "/escudos/brasil/vitoria/Sport_Club_Victoria1934-1938.webp"
+    },
+    {
+      "desde": "1939",
+      "hasta": "1958",
+      "escudo": "/escudos/brasil/vitoria/Sport_Club_Victoria1939-1958.webp"
+    },
+    {
+      "desde": "2819",
+      "hasta": "1979",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit281959-1979.webp"
+    },
+    {
+      "desde": "2819",
+      "hasta": "1984",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit281980-1984.webp"
+    },
+    {
+      "desde": "2819",
+      "hasta": "1993",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit281985-1993.webp"
+    },
+    {
+      "desde": "2819",
+      "hasta": "1999",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit281994-1999.webp"
+    },
+    {
+      "desde": "2820",
+      "hasta": "2009",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit282000-2009.webp"
+    },
+    {
+      "desde": "2820",
+      "hasta": "2019",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit282010-2019.webp"
+    },
+    {
+      "desde": "2820",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/vitoria/Esporte_Clube_Vit282023-actual.webp"
+    }
+  ],
   "h2h": {
     "sao-paulo": {
       "pj": 1,

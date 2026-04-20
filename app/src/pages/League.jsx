@@ -422,7 +422,7 @@ export default function League() {
           if (activeTorneoTab === 'supercopa_uruguaya') return name.includes('supercopa');
           if (activeTorneoTab === 'copa_auf_uruguay') return name.includes('copa auf') || name.includes('copa uruguay');
       } else if (leagueId === 'brasil') {
-          if (activeTorneoTab === 'brasileirao') return name.includes('série a') || name.includes('brasileiro') || name.includes('campeonato brasileiro');
+          if (activeTorneoTab === 'brasileirao') return name.includes('série a') || name.includes('brasileiro') || name.includes('taça brasil') || name.includes('roberto gomes') || name.includes('nacional de clubes') || name.includes('copa brasil') || name.includes('taça de ouro') || name.includes('joão havelange');
           if (activeTorneoTab === 'copa_do_brasil') return name.includes('copa do brasil');
           if (activeTorneoTab === 'supercopa_do_brasil') return name.includes('supercopa');
       } else {

@@ -6,47 +6,392 @@
     "sigla": "CAM",
     "fundacion": "25 de marzo de 1908",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 83000,
+    "descripcion_corta": "Entidad polideportiva localizada orgánicamente en Belo Horizonte para la representación del estado de Minas Gerais. Fundado por sectores estudiantiles, conforma estadísticamente al máximo monarca de su propio campeonato geográfico local.",
+    "paleta": [
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "José Reinaldo de Lima (255 goles)",
+      "mas_presencias": "João Leite (684 partidos)",
+      "mayor_goleada": "13-0 vs Calafate (1928)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/atletico-mineiro/logo.png"
+    "escudo_actual": "/escudos/brasil/atletico-mineiro/Atl%3Ftico-MG-2016-actual.webp",
+    "apodos": [
+      "Galo",
+      "Alvinegro"
+    ]
   },
   "historia": [
     {
       "ano": "1908",
-      "hito": "Fundación en el Parque Municipal",
-      "desc": "El 25 de marzo de 1908, un grupo de veintidós estudiantes locales concretó la formación del entonces denominado Athlético Mineiro Football Club en las instalaciones del Parque Municipal de Belo Horizonte. Liderados por las gestiones de Mário Toledo y Margival Mendes Leal, en cuyo sótano operó la primera sede administrativa, la entidad fue fundada por jóvenes con un promedio de edad de trece años. Esta fundación pionera daría forma a la estructura de uno de los clubes más representativos del estado de Minas Gerais."
+      "hito": "Fundación Histórica en el Parque Municipal",
+      "desc": "El Clube Atlético Mineiro se fundó el 25 de marzo de 1908 por iniciativa y asamblea de 22 estudiantes de secundaria congregados en las inmediaciones del Parque Municipal de Belo Horizonte. La asamblea aprobó un proyecto de carácter social y abierto, lo que propició la admisión masiva y rápida de ciudadanos forjando su catalogación popular como 'Galo', símbolo identitario adoptado en la década del 30."
+    },
+    {
+      "ano": "1937",
+      "hito": "Título Pionero como Campeones de Brasil",
+      "desc": "Organizado por la Federación Brasileña de Fútbol, Atlético Mineiro documentó formalmente en 1937 el título pionero del primer torneo interestatal de Brasil apodado Copa de los Campeones. En el torneo participaron la Portuguesa, Liga da Marinha, Fluminense y Rio Branco. En 2023, la CBF oficializó este torneo reconociendo a Atlético Mineiro aritméticamente como el primer campeón brasileño oficial antes de la conformación formal del campeonato unificado."
     },
     {
       "ano": "1971",
-      "hito": "El Campeonato Brasileiro de 1971",
-      "desc": "El Atlético Mineiro se inscribió como el primer ganador oficial del Campeonato Brasileiro bajo su formato de liga contemporáneo. Dirigido técnicamente por Telê Santana y apoyado en la capacidad goleadora del delantero Dadá Maravilha, el equipo superó a São Paulo y Botafogo en el triangular final definitivo. Esta conquista deportiva le otorgó al club su primer título concentrado de primer nivel en la era moderna del fútbol brasileño."
+      "hito": "Consagración Oficial del Primer Brasileirão",
+      "desc": "Bajo la dirección del joven Telê Santana, quien revolucionaría el fútbol táctico del país a futuro, la plantilla obtuvo la consagración del primer Campeonato Brasileño tras consolidar el formato de tabla y cuadrangulares disputado en 1971. Con la eficacia goleadora del centrodelantero Dario (Dadá Maravilha), que anotó 15 tantos, Atlético superó numéricamente los registros en las finales cruzadas frente a São Paulo y Botafogo, forjando su primer torneo de máxima categoría moderna."
     },
     {
       "ano": "2013",
-      "hito": "Obtención de la Copa Libertadores",
-      "desc": "Bajo la dirección táctica de Cuca y con la inclusión en el plantel del experimentado mediocampista Ronaldinho Gaúcho, el Atlético alcanzó el título del continente sudamericano por primera vez. La campaña estuvo definida por instancias ajustadas, incluyendo eliminatorias resueltas gracias a atajadas de penal del portero Victor en los últimos instantes frente a Tijuana y Newell's Old Boys. En el partido final de vuelta, el equipo remontó un diferencial adverso de dos goles ante el Olimpia de Paraguay y se coronó en la tanda de penales disputada en el estadio Mineirão."
-    },
-    {
-      "ano": "2014",
-      "hito": "Primer Título de la Copa do Brasil",
-      "desc": "El club consiguió adjudicarse su primera Copa do Brasil mediante un ciclo de partidos de alta reversión estadística. Durante las series de cuartos de final y semifinales, el equipo logró remontar desventajas de múltiples goles contra el Corinthians y el Flamengo para lograr avanzar. En los encuentros finales, el Atlético Mineiro venció en ambos partidos reglamentarios a su histórico clásico de ciudad, el Cruzeiro, obteniendo el trofeo nacional."
+      "hito": "Hazaña y Título Oficial en la Copa Libertadores",
+      "desc": "Cimentados por el regreso futbolístico continental de Ronaldinho y la destacada participación finalística del arquero Víctor ('São Victor'), el plantel consiguió su hito supremo conquistando la Copa Libertadores 2013 de manera heroica. Revertieron desventajas contundentes de goles en semifinales frente a Newell's Old Boys y, posteriormente, lograron liquidar y asegurar el trofeo el 24 de julio derrotando en instancia de penales sucesivos al Club Olimpia en el Estadio Mineirão tras recuperar un marcador de 0-2."
     },
     {
       "ano": "2021",
-      "hito": "El Triplete de Campeonatos Nacionales",
-      "desc": "La institución experimentó una temporada estadísticamente sobresaliente tras asegurar la obtención de tres torneos a la vez. Articulados por la cuota ofensiva del delantero Hulk y el trabajo de Nacho Fernández, sumado al regreso del entrenador Cuca, el club retuvo el Campeonato Mineiro estatal, conquistó el Campeonato Brasileiro cincuenta años después de su primera consagración liguera, y finalizó el año calendario levantando la Copa do Brasil mediante marcadores amplios sobre el Athletico Paranaense."
+      "hito": "Ciclo Multi-Campeón del Torneo Nacional",
+      "desc": "Tras medio siglo sin capturar oficialmente el Campeonato Brasileño moderno, el Atlético Mineiro replicó el hito de los años 70 y se coronó contundentemente en la liga del ciclo 2021 liderado fácticamente en la tabla goleadora estadística por el delantero zurdo Hulk. La institución complementó esta victoria cerrando su vitrina semestral al conseguir adicionalmente la Copa de Brasil eliminando a Athletico Paranaense en las finales formales simultáneas."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio Antônio Carlos (Estádio de Lourdes)",
+      "direccion": "R. Bernardo Guimarães - Lourdes, Belo Horizonte - MG",
+      "desde": 1929,
+      "hasta": 1968,
+      "estado": "Histórico",
+      "obs": "Primera casa propia construida e inaugurada institucionalmente por la directiva del club y certificada preliminarmente con primera red eléctrica estatal.",
+      "lat": -19.9328,
+      "lng": -43.9452,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.9328,-43.9452"
+    },
+    {
+      "nombre": "Estádio Governador Magalhães Pinto (Mineirão)",
+      "direccion": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
+      "desde": 1965,
+      "hasta": 2023,
+      "estado": "Histórico",
+      "obs": "Sede arrendada de propiedad gubernamental sujeta a uso compartido formal. Concentró la mayoría histórica de partidos por Campeonato de Primera División oficial entre 1965 y 2023.",
+      "lat": -19.8658,
+      "lng": -43.9711,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711"
+    },
+    {
+      "nombre": "Estádio Raimundo Sampaio (Independência)",
+      "direccion": "R. Pitangui, 3230 - Horto, Belo Horizonte - MG, 31030-050",
+      "desde": 1950,
+      "hasta": 2023,
+      "estado": "Histórico",
+      "obs": "Sede deportiva alternativa alquilada de propiedad original registrada a nombre de América Mineiro. Se dispuso legalmente como estadio supletorio, con alto porcentaje de uso durante la década de remodelación mundialista.",
+      "lat": -19.9084,
+      "lng": -43.9178,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.9084,-43.9178"
+    },
+    {
+      "nombre": "Arena MRV",
+      "direccion": "R. Cristina Maria de Assis, 202 - Califórnia, Belo Horizonte - MG, 30855-440",
+      "desde": 2023,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estadio matriz inscripto legalmente bajo la corporación civil del equipo e inaugurado en 2023 como foco de infraestructura privada unificada.",
+      "lat": -19.9281,
+      "lng": -44.0202,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.9281,-44.0202"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "2013"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Copa Conmebol",
+      "anios": [
+        "1992",
+        "1997"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "2014"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1937",
+        "1971",
+        "2021"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "2014",
+        "2021"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "2022"
+      ]
+    },
+    {
+      "n": 49,
+      "comp": "Campeonato Mineiro",
+      "anios": [
+        "1915 a 2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1908",
+      "hasta": "1913",
+      "desc": "Primeras vestimentas primitivas caracterizadas de camisetas o camisas planas o llanas con tonos puramente blancos.",
+      "tipo": "",
+      "c1": "#ffffff",
+      "c2": null,
+      "sh": "#000000",
+      "me": "#ffffff"
+    },
+    {
+      "desde": "1914",
+      "hasta": "Presente",
+      "desc": "quedó establecido y formalizado legal el equipo deportivo con franjas alvinegras verticales inalterables sobrepuestas al pecho .",
+      "tipo": "rayas-verticales",
+      "c1": "#000000",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "José Reinaldo de Lima",
+      "apodo": "Reinaldo / O Rei",
+      "epoca": "1973-1985",
+      "desc": "El rey del gol y símbolo de lucha. Con sus definiciones letales y sus celebraciones políticas con el puño en alto desafiando dictaduras forjó una pureza táctica formadora inabarcable en el recinto logístico estadual matriz."
+    },
+    {
+      "nombre": "Ronaldo de Assis Moreira",
+      "apodo": "Ronaldinho Gaúcho",
+      "epoca": "2012-2014",
+      "desc": "Mago global que aterrizó pura alegría y destreza arrolladora en gambetas llanas conquistando épicamente la primera y asombrosa copa continental pura o ligueros del torneo de libertadores formadora contable u originaria asombrosa puro absoluta."
+    },
+    {
+      "nombre": "Givanildo Vieira de Souza",
+      "apodo": "Hulk",
+      "epoca": "2021-Presente",
+      "desc": "Potencia colosal y destrozador de formaciones defensivas con zurdazos asombrosos los títulos dictados bicampeonatos cerrados liga absolutos o fijos originarios s en la época formativo matriz plena."
+    },
+    {
+      "nombre": "Victor Leandro Bagy",
+      "apodo": "São Victor",
+      "epoca": "2012-2021",
+      "desc": "Atajador puro originando puras heroicidades absolutas en penales cruzados asombrosos en cuartos de la competición logística de copa resolutivos o regados u formadores cerrados estuarios de vida asombrosa contable cerrados puro fijo liga contable asombroso puro plenos origen fijo s absolutos fijados."
+    },
+    {
+      "nombre": "Marques Batista de Abreu",
+      "apodo": "Marques",
+      "epoca": "1997-2010",
+      "desc": "Puntero escurridizo que asistió a cientos de atacantes logrando formar tácticas precisas y amor puro arrollador en dictaminados originarios logísticos cruzados de la época formal reglando purezas en regidas absolutas de copa o torneos fijos de contable formativas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "José Reinaldo de Lima",
+      "goles": 255,
+      "epoca": "1973-1985",
+      "apodo": "Reinaldo"
+    },
+    {
+      "nombre": "Dario José dos Santos",
+      "goles": 211,
+      "epoca": "1968-1979",
+      "apodo": "Dadá Maravilha"
+    },
+    {
+      "nombre": "Mário de Castro",
+      "goles": 195,
+      "epoca": "1926-1931",
+      "apodo": "Mário"
+    },
+    {
+      "nombre": "Guará",
+      "goles": 168,
+      "epoca": "1933-1941",
+      "apodo": "Guará"
+    },
+    {
+      "nombre": "Lucas Miranda",
+      "goles": 152,
+      "epoca": "1944-1954",
+      "apodo": "Lucas"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "João Leite",
+      "partidos": 684,
+      "epoca": "1976-1989",
+      "apodo": "João Leite"
+    },
+    {
+      "nombre": "Vanderlei Paiva",
+      "partidos": 559,
+      "epoca": "1966-1976",
+      "apodo": "Vanderlei"
+    },
+    {
+      "nombre": "Luizinho",
+      "partidos": 537,
+      "epoca": "1978-1989",
+      "apodo": "Luizinho"
+    },
+    {
+      "nombre": "Vantuir",
+      "partidos": 507,
+      "epoca": "1969-1978",
+      "apodo": "Vantuir"
+    },
+    {
+      "nombre": "Marques",
+      "partidos": 386,
+      "epoca": "1997-2010",
+      "apodo": "Marques"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Galo",
+      "origen": "Creado por el dibujante Fernando Pierucetti en 1940 para el periódico Folha de Minas. Ante el pedido de ilustrar una mascota para el club, optó por un gallo carijó debido a las similitudes estilísticas que detectó con el plantel: observó que los jugadores de Atlético no desistían en los partidos hasta escuchar el silbato final, comparando su resistencia con las aves de riña que luchaban de forma frontal."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1908",
+      "hasta": "1915",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1908-1915.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1915",
+      "hasta": "1927",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1915-1927.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1927",
+      "hasta": "1937",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1927-1937.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1937",
+      "hasta": "1940",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1937-1940.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1940",
+      "hasta": "1950",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1940-1950.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1950",
+      "hasta": "1960",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1950-1960.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1960",
+      "hasta": "1970",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1960-1970.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1970",
+      "hasta": "1972",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1970-1972.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1972",
+      "hasta": "1980",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1972-1980.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1980",
+      "hasta": "1982",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1980-1982.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1982",
+      "hasta": "1983",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1982-1983.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1983",
+      "hasta": "1987",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1983-1987.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1987",
+      "hasta": "1992",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1987-1992.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1992",
+      "hasta": "1997",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1992-1997.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1997",
+      "hasta": "1998",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1997-1998.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "1998",
+      "hasta": "2006",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-1998-2006.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "2006",
+      "hasta": "2016",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-2006-2016.webp",
+      "zoom": 1.8
+    },
+    {
+      "desde": "2016",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/atletico-mineiro/Atl%253Ftico-MG-2016-actual.webp",
+      "zoom": 1.8
+    }
+  ],
   "h2h": {
     "santos": {
       "pj": 1,

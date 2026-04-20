@@ -6,47 +6,345 @@
     "sigla": "FBPA",
     "fundacion": "15 de septiembre de 1903",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 121000,
+    "descripcion_corta": "Agrupación oficial formadora nacida bajo la influencia y aporte capital extranjero radicado tempranamente en Porto Alegre. Conforma histórica estirpe internacional y continental avalada por la conquista de tres plenas Copas Libertadores oficiales.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#0D89D8"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Alcindo Martha de Freitas (264 goles)",
+      "mas_presencias": "José Tarciso de Sousa (721 partidos)",
+      "mayor_goleada": "23-0 vs Nacional-POA (1912)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/gremio/logo.png"
+    "escudo_actual": "/escudos/brasil/gremio/Gr%3Fmio-actualwebp.webp",
+    "apodos": [
+      "Imortal Tricolor",
+      "Rei de Copas"
+    ]
   },
   "historia": [
     {
       "ano": "1903",
-      "hito": "Fundación del Grêmio Foot-Ball Porto Alegrense",
-      "desc": "El 15 de septiembre de 1903, 31 asistentes reunidos en el restaurante Salão Grau de Porto Alegre fundaron el Grêmio Foot-Ball Porto Alegrense. La creación fue impulsada por Cândido Dias da Silva, quien ocho días antes le había prestado su balón de cuero al club Sport Clube Rio Grande para finalizar un partido de exhibición, recibiendo a cambio las instrucciones reglamentarias del deporte. Carlos Luiz Bohrer fue elegido como primer presidente. El equipo adoptó los colores azul y habana en su vestimenta inicial, estableciendo el patrón definitivo negro, azul y blanco a partir de 1904. El 6 de marzo de dicho año, el plantel ganó 1-0 su primer partido oficial ante el Fussball Clube, inaugurando simultáneamente su primer recinto temporal denominado Baixada."
-    },
-    {
-      "ano": "1981",
-      "hito": "Conquista del Primer Campeonato Brasileño",
-      "desc": "El 3 de mayo de 1981, entrenado por Ênio Andrade, el club obtuvo su primer torneo de la máxima categoría brasileña. La llave final enfrentó a Grêmio con el São Paulo Futebol Clube a doble partido. En el encuentro de ida disputado el 30 de abril, Grêmio registró una victoria local por 2-1 en el Estadio Olímpico Monumental con dos goles marcados por el mediocampista Paulo Isidoro. En el partido de vuelta, jugado en el Estadio Morumbi frente a 95.106 asistentes verificados, el equipo revalidó el título ganando 1-0 con un remate anotado por el delantero Baltazar al minuto 65."
+      "hito": "Tensión y Fundación del club por Cândido Dias",
+      "desc": "El Grêmio Foot-Ball Porto Alegrense se fundó el 15 de septiembre de 1903 a partir de la iniciativa del comerciante paulista Cândido Dias. Su origen devino de una casualidad histórica cuando, durante un partido local de otros clubes, el único balón disponible se desinfló; Dias proveía la única pelota de reemplazo de Inglaterra disponible en la región y a cambio de prestarla propició la asamblea de formación en el Salão Grau. Disputaron formalmente su primer partido registral el 6 de marzo de 1904 superando 1-0 al FussBall Club."
     },
     {
       "ano": "1983",
-      "hito": "Copa Libertadores y Copa Intercontinental",
-      "desc": "El 28 de julio de 1983, dirigido por el entrenador Valdir Espinosa, el plantel ganó la Copa Libertadores superando en la final a Peñarol de Uruguay. El equipo empató 1-1 en el Estadio Centenario y posteriormente logró el triunfo definitivo por 2-1 en el Estadio Olímpico Monumental con goles anotados por Caio y César (minuto 76). Meses después, el 11 de diciembre de 1983, el club ganó la Copa Intercontinental tras vencer al Hamburger SV de Alemania por 2-1 en el Estadio Nacional de Tokio concretando los dos goles mediante Renato Portaluppi a los minutos 37 y 93."
+      "hito": "Campeones del Mundo en la Era Renato",
+      "desc": "La cúspide de la agenda histórica del club llegó en 1983 capturando estadísticamente el título oficial de la Copa Libertadores al batir en el tablero final de Montevideo y Porto Alegre por resultado global de 3-2 a Peñarol de Uruguay con gol de mediocampista César. Más tarde, la corona lograda permitió al conjunto acceder oficialmente a la Copa Intercontinental jugada en Tokio el 11 de diciembre donde el delantero histórico Renato Gaúcho facturó los dos tantos (el último en el minuto 93) para doblegar 2-1 al campeón europeo Hamburgo SV y sellar la corona mundial."
     },
     {
       "ano": "1995",
-      "hito": "Obtención de la Segunda Copa Libertadores",
-      "desc": "El 30 de agosto de 1995, el equipo administrado técnicamente por Luiz Felipe Scolari ganó su segunda Copa Libertadores frente al Atlético Nacional de Colombia. En el partido de ida disputado el 23 de agosto, Grêmio ganó 3-1 en el Estadio Olímpico beneficiándose de un autogol de Víctor Aristizábal y marcando goles directos de Mário Jardel y Paulo Nunes. El equipo aseguró el título al empatar 1-1 en el Estadio Atanasio Girardot de Medellín, anotando un gol penal mediante el volante defensivo Dinho. Mário Jardel finalizó el torneo acreditado estadísticamente como máximo goleador de la copa con 12 tantos oficiales."
+      "hito": "Hegemonía y Segunda Corona Continental",
+      "desc": "Desarrollando una contundente fase táctica a cargo del estratega Luiz Felipe Scolari ('Felipão'), la entidad matriculó numéricamente un estilo duro y férreo con el cual lograron conseguir formal y oficialmente su segunda Copa Libertadores en 1995. Sellando las series, derrocaron a Nacional y Olimpia en llaves sucesivas y finiquitaron su dominio resolviendo la serie final sudamericana contra Atlético Nacional de Colombia computando saldo total tras el 3-1 de ida, sentenciando formal y perimetral la campaña el 30 de agosto con un histórico 1-1 en Medellín mediante el gol clave estadísticamente efectuado por Dinho."
     },
     {
       "ano": "2017",
-      "hito": "Tercera Conquista de la Copa Libertadores",
-      "desc": "El 29 de noviembre de 2017, entrenado por el exjugador Renato Portaluppi, el club ganó su tercera Copa Libertadores enfrentando a Lanús de Argentina. La serie final arrojó una victoria inicial de 1-0 en Rio Grande do Sul el 22 de noviembre mediante un gol de Cícero en el minuto 83. El título se confirmó con un triunfo de 2-1 en condición de visitante a través de los goles anotados por el delantero Fernandinho a los 27 minutos y Luan a los 42 de la primera parte. Luan cerró el torneo sumando un total de 8 goles de cuenta personal, recibiendo formalmente la distinción de mejor jugador de la competencia entregada por la CONMEBOL."
+      "hito": "Tricampeonato Moderno en la Libertadores",
+      "desc": "Tutelados y orquestados generacionalmente otra vez bajo el timón de Renato Gaúcho en tareas de estratega oficial en banquillos, el combinado dictaminó el registro total adjudicándose con contundencia la Copa Libertadores operativa estipulada del curso calendario 2017. Sellaron la victoria definitiva con partidos doblegando cruzado a Lanús en terreno bonaerense, firmando resultados y computando registros formales sellados victorias de 1-0 en terreno local seguido por coronación foránea perimetral y formal el 29 de noviembre por 2-1, apalancados y cerrando con el talento operativo resolutivo de su ídolo goleador Luan."
+    },
+    {
+      "ano": "1989-2016",
+      "hito": "Dominancia Cúspide en Copas de Brasil",
+      "desc": "Refrendando popular y corporativamente un espíritu de alto valor logístico centrado en copas directas perimetrales y torneos de eliminación, la institución logró acumular, de manera escalonada, la obtención quíntuple del trofeo oficial Copa de Brasil. Ganadores de su primera entrega oficial documentada de 1989, consiguieron adjudicarse formal los escalafones correspondientes al 1994, 1997, 2001 y, tras el cierre de sequías estructurales relativas, lograron formalidades estadísticas liquidando a Atlético Mineiro registrando formal en series de finales computadas y estipuladas durante calendario 2016."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio Olímpico Monumental",
+      "direccion": "Largo Patrono Fernando Kroeff, 1 - Azenha, Porto Alegre - RS, 90880-440",
+      "desde": 1954,
+      "hasta": 2013,
+      "estado": "Histórico",
+      "obs": "Fundado y operado como el bastión matriz sede histórica de Porto Alegre de las épocas doradas entre 1954 a 2013, superando las conquistas mayores históricas de la entidad formal continental y mundial hasta su abandono tras mudanzas operativas corporativas a la nueva Arena.",
+      "lat": -30.0652,
+      "lng": -51.2133,
+      "url": "https://www.google.com/maps/search/?api=1&query=-30.0652,-51.2133"
+    },
+    {
+      "nombre": "Arena do Grêmio",
+      "direccion": "Av. Padre Leopoldo Brentano, 110 - Humaitá, Porto Alegre - RS, 90250-590",
+      "desde": 2012,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Megacentro estructurado moderno y dotado bajo un cumplimiento formal estadístico logístico con normas UEFA/FIFA. Reemplazó completamente a las dependencias matrices locales tras las operaciones contables desarrolladas agendando y estipulando 2012.",
+      "lat": -29.9739,
+      "lng": -51.1947,
+      "url": "https://www.google.com/maps/search/?api=1&query=-29.9739,-51.1947"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Copa Intercontinental",
+      "anios": [
+        "1983"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1983",
+        "1995",
+        "2017"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "1996",
+        "2018"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1981",
+        "1996"
+      ]
+    },
+    {
+      "n": 5,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "1989",
+        "1994",
+        "1997",
+        "2001",
+        "2016"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "1990"
+      ]
+    },
+    {
+      "n": 43,
+      "comp": "Campeonato Gaúcho",
+      "anios": [
+        "1921 a 2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1903",
+      "hasta": "1904",
+      "desc": "Registro fundacional dictando rayas gruesas en sentido al frente horizontales cruzadas formadas por lanas intercalando color habana contra bordados de azul marino liso.",
+      "tipo": "rayas-horizontales",
+      "c1": "#8b4513",
+      "c2": "#000080",
+      "sh": "#ffffff",
+      "me": "#000000"
+    },
+    {
+      "desde": "1904",
+      "hasta": "Presente",
+      "desc": "Un desabastecimiento mercantil dictó legalidad sobre un nuevo molde que estructuró su bandera moderna matriz: diseño rayado con líneas finas verticales estipulando colores celestes fuertes unidos estrictamente al negro con recortes finos de blanco puro lineal.",
+      "tipo": "rayas-verticales",
+      "c1": "#55aaff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Renato Portaluppi",
+      "apodo": "Renato Gaúcho",
+      "epoca": "1982-1987",
+      "desc": "El genio rebelde de la camisa 7. Condujo como extremo demoledor al primer título intercontinental del club ante el Hamburgo, anotando ambos tantos históricos en Tokio. Aumentó su leyenda de deidad tras otorgarles la Copa Libertadores 2017 como director técnico."
+    },
+    {
+      "nombre": "Eurico Lara",
+      "apodo": "Lara",
+      "epoca": "1920-1935",
+      "desc": "Atesorado como héroe inmaculado fundacional y mencionado en el mismísimo himno oficial de la institución. Entregó años de arcos invictos negándose a ser sustituido incluso bajo riesgo mortal, el estoicismo eterno que caracteriza a la camiseta tricolor."
+    },
+    {
+      "nombre": "Hugo de León",
+      "apodo": "De León",
+      "epoca": "1981-1984",
+      "desc": "Caudillo sudamericano perfecto. Alzó ensangrentado la primera Copa Libertadores del equipo enmarcando la imagen guerrera absoluta que inmortalizó un estilo rústico y ganador estatuario ante rivales de élite como Peñarol."
+    },
+    {
+      "nombre": "Danrlei de Deus Hinterholz",
+      "apodo": "Danrlei",
+      "epoca": "1993-2003",
+      "desc": "Temperamento indomable y atajadas prodigiosas. Es el arquero más exitoso estadísticamente de las décadas modernas, sumando Libertadores y múltiples torneos nacionales bajo el duro ciclo armado por Felipe Scolari."
+    },
+    {
+      "nombre": "Pedro Geromel",
+      "apodo": "Geromel / Geromonstro",
+      "epoca": "2014-2024",
+      "desc": "Capitán silencioso y defensor contemporáneo de época. Rescató al club tras la sequía de 15 años sin copas nacionales liderando el fondo técnico con elegancia europea para consagrarse levantando la Copa Libertadores 2017 como referente máximo de jerarquía."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Alcindo Martha de Freitas",
+      "goles": 264,
+      "epoca": "1964-1971",
+      "apodo": "Bugre / Alcindo"
+    },
+    {
+      "nombre": "Tarciso Flecha Negra",
+      "goles": 226,
+      "epoca": "1973-1986",
+      "apodo": "Tarciso"
+    },
+    {
+      "nombre": "Gessy Lima",
+      "goles": 214,
+      "epoca": "1956-1962",
+      "apodo": "Gessy"
+    },
+    {
+      "nombre": "Juarez Teixeira",
+      "goles": 202,
+      "epoca": "1955-1961",
+      "apodo": "Juarez"
+    },
+    {
+      "nombre": "Luiz Carvalho",
+      "goles": 160,
+      "epoca": "1923-1940",
+      "apodo": "Carvalho"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "José Tarciso de Sousa",
+      "partidos": 721,
+      "epoca": "1973-1986",
+      "apodo": "Tarciso"
+    },
+    {
+      "nombre": "Airton Ferreira da Silva",
+      "partidos": 592,
+      "epoca": "1954-1967",
+      "apodo": "Airton Pavilhão"
+    },
+    {
+      "nombre": "Danrlei de Deus Hinterholz",
+      "partidos": 591,
+      "epoca": "1993-2003",
+      "apodo": "Danrlei"
+    },
+    {
+      "nombre": "Leôncio Vieira",
+      "partidos": 557,
+      "epoca": "1955-1968",
+      "apodo": "Leôncio"
+    },
+    {
+      "nombre": "Roger Machado Marques",
+      "partidos": 505,
+      "epoca": "1994-2003",
+      "apodo": "Roger"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Imortal",
+      "origen": "Deriva del lema escrito en su himno oficial. Tomó carácter definitorio tras repetidas remontadas en su historia. Esto encontró su punto máximo moderno en el episodio de 2005 conocido como 'Batalha dos Aflitos', en el cual Grêmio logró el ascenso de categoría jugando los minutos finales con solo siete jugadores en el campo al atajar un tiro penal, sentenciando literariamente su capacidad de supervivencia ante la adversidad."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1903",
+      "hasta": "1904",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1903-1904.webp"
+    },
+    {
+      "desde": "1904",
+      "hasta": "1918",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1904-1918.webp"
+    },
+    {
+      "desde": "1918",
+      "hasta": "1945",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1918-1945.webp"
+    },
+    {
+      "desde": "1945",
+      "hasta": "1949",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1945-1949.webp"
+    },
+    {
+      "desde": "1949",
+      "hasta": "1968",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1949-1968.webp"
+    },
+    {
+      "desde": "1968",
+      "hasta": "1970",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1968-1970.webp"
+    },
+    {
+      "desde": "1970",
+      "hasta": "1981",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1970-1981.webp"
+    },
+    {
+      "desde": "1981",
+      "hasta": "1983",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1981-1983.webp"
+    },
+    {
+      "desde": "1983",
+      "hasta": "1986",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1983-1986.webp"
+    },
+    {
+      "desde": "1986",
+      "hasta": "1995",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1986-1995.webp"
+    },
+    {
+      "desde": "1995",
+      "hasta": "1996",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1995-1996.webp"
+    },
+    {
+      "desde": "1996",
+      "hasta": "1997",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1996-1997.webp"
+    },
+    {
+      "desde": "1997",
+      "hasta": "2001",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-1997-2001.webp"
+    },
+    {
+      "desde": "2001",
+      "hasta": "2012",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-2001-2012.webp"
+    },
+    {
+      "desde": "2012",
+      "hasta": "2017",
+      "escudo": "/escudos/brasil/gremio/Gr%253Fmio-2012-2017.webp"
+    }
+  ],
   "h2h": {
     "internacional": {
       "pj": 1,

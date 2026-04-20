@@ -6,47 +6,409 @@
     "sigla": "SCCP",
     "fundacion": "1 de septiembre de 1910",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 115000,
+    "descripcion_corta": "Entidad multideportiva de São Paulo creada en 1910 impulsada por la clase obrera en contraposición a las instituciones de origen elitista de la urbe paulista. Participa anualmente como referencia hegemónica local.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Cláudio Christovam de Pinho (305 goles)",
+      "mas_presencias": "Wladimir Rodrigues dos Santos (806 partidos)",
+      "mayor_goleada": "10-1 vs Tiradentes-PI (1983)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/corinthians/logo.png"
+    "escudo_actual": "/escudos/brasil/corinthians/Corinthians-2010-actual.webp",
+    "apodos": [
+      "Timão",
+      "Coringão",
+      "Campeão dos Campeões"
+    ]
   },
   "historia": [
     {
       "ano": "1910",
-      "hito": "Fundación del Sport Club Corinthians Paulista",
-      "desc": "El 1 de septiembre de 1910, un grupo de trabajadores del barrio de Bom Retiro en São Paulo fundó el Sport Club Corinthians Paulista. Joaquim Ambrósio, Antônio Pereira, Rafael Perrone, Anselmo Corrêa y Carlos Silva decidieron crear la institución tras asistir a los partidos de exhibición del Corinthian Football Club, un equipo amateur inglés que realizaba una gira por Brasil. Miguel Battaglia, de profesión sastre, fue designado como el primer presidente. Los estatutos originales de la entidad permitieron la inclusión directa de jugadores de clase obrera, lo que diferenció al club operativamente de las restantes escuadras paulistas de la época, estructuradas e integradas exclusivamente por miembros de la élite social."
+      "hito": "Fundación Obrera y Bautismo Inglés",
+      "desc": "El Sport Club Corinthians Paulista se fundó el 1 de septiembre de 1910 a las 20:30 horas en el barrio de Bom Retiro, São Paulo. Fue gestado de manera independiente por un grupo de cinco operarios ferroviarios (Joaquim Ambrósio, Antônio Pereira, Rafael Perrone, Anselmo Corrêa y Carlos Silva) reunidos bajo el alumbrado público de la calle José Paulino. La junta fundacional eligió la nomenclatura oficial inspirándose directamente en el Corinthian Football Club originario de Londres, un conjunto británico que se encontraba realizando una gira de encuentros por territorio brasileño. Su primer presidente electo fue el sastre Miguel Battaglia. El evento formal de debut se registró el 10 de septiembre de 1910 enfrentando a União Lapa y sufriendo una derrota contable de 1-0."
+    },
+    {
+      "ano": "1914",
+      "hito": "Ingreso Institucional y Primer Campeonato Paulista",
+      "desc": "Tras iniciar su actividad compitiendo rudimentariamente, la asamblea directiva logró formalizar la admisión del plantel a las disputas reglamentadas de la Liga Paulista de Football (LPF) en la temporada 1913. Posteriormente, el equipo capitalizó su inclusión obteniendo de manera inmaculada el Campeonato Paulista de 1914. Consiguieron la adjudicación del trofeo con un registro aritmético de 10 victorias consecutivas en las 10 rondas planificadas, documentando 37 goles a favor y tolerando únicamente 9 anotaciones rivales. El mediocampista Neco, promovido formalmente como la primera insignia del club, registró el estatus de máximo anotador del torneo aportando personalmente 12 goles."
     },
     {
       "ano": "1977",
-      "hito": "Título del Campeonato Paulista y fin del ayuno de 22 años",
-      "desc": "El 13 de octubre de 1977, el club bajo la dirección técnica de Oswaldo Brandão obtuvo el Campeonato Paulista y puso fin a un período de 22 años y 8 meses sin títulos de máxima categoría, racha transcurrida desde el trofeo del IV Centenario de 1954. El campeonato se definió mediante una serie de tres partidos ante el Ponte Preta en el Estadio Morumbi. En el juego final, disputado frente a 86.677 espectadores, el mediocampista Basílio recolectó un remate previo en el área y anotó a los 81 minutos el único gol del partido (1-0)."
+      "hito": "Ruptura de la Sequía Titular Oficial",
+      "desc": "Frente a un prolongado vacío estadístico de 22 años, 8 meses y 7 días de duración sin conseguir campeonatos paulistas formales, la plantilla depuso la marca organizativa conquistando el Campeonato Paulista de 1977. La llave resolutiva estructurada como una serie triple se finalizó ante la Associação Atlética Ponte Preta en las instalaciones del Estadio Morumbi. El encuentro final disputado la noche del 13 de octubre de 1977 congregó aritméticamente a 86.677 asistentes atestados. El club obtuvo la victoria con un marcador definitorio de 1-0 luego de que una sucesión de remates frenados en el área culminara con un disparo frontal de Basílio registrado al minuto 81 del segundo tiempo."
     },
     {
       "ano": "1990",
       "hito": "Conquista del Primer Campeonato Brasileño",
-      "desc": "En la temporada 1990, dirigido por el entrenador Nelsinho Baptista, el Corinthians conquistó su primera edición del Campeonato Brasileño al superar en la fase final al São Paulo Futebol Clube comandado por Telê Santana. La final se disputó a doble partido en el Estadio Morumbi: la ida finalizó 1-0 con un gol de Wilson Mano el 13 de diciembre, y la revancha culminó con el mismo marcador de 1-0 el 16 de diciembre mediante un gol de Tupãzinho a los 54 minutos. El mediocampista Neto lideró las métricas ofensivas de la campaña, registrando 9 goles en el torneo."
-    },
-    {
-      "ano": "2000",
-      "hito": "Primera Copa Mundial de Clubes de la FIFA",
-      "desc": "El 14 de enero de 2000, la entidad se consagró campeona de la primera edición oficial del Campeonato Mundial de Clubes organizado por la FIFA, disputado en Brasil con Oswaldo de Oliveira en el banquillo. El equipo lideró la fase de grupos sobre el Real Madrid por diferencia de goles (+4 frente a +3) tras igualar 2-2 en el duelo directo. El partido decisivo se llevó a cabo en el Estadio Maracaná ante 73.000 espectadores frente al club brasileño Vasco da Gama y se resolvió a través de una tanda de penales que finalizó 4-3, tras un empate 0-0 en el tiempo regular e suplementario."
+      "desc": "Elaborando un ciclo consolidado bajo las líneas organizativas del entrenador Nelsinho Baptista, el conjunto sumó estadísticamente a sus registros el torneo nacional oficializando la obtención de su primer Campeonato Brasileño en la campaña 1990. Las dos rondas reglamentarias para determinar al campeón se pautaron contra el equipo de São Paulo Futebol Clube ejerciendo localía técnica en el Morumbi. Registraron el primer triunfo el 13 de diciembre rematando con conteo oficial de 1-0 tras la anotación de Wilson Mano al minuto 4 del juego. Posteriormente, documentaron la serie a su favor el 16 de diciembre con otro marcador mecánico de 1-0 sentenciado por el artillero Neto al minuto 54 de la contienda táctica."
     },
     {
       "ano": "2012",
-      "hito": "Copa Libertadores invicta y Segundo Mundial de Clubes",
-      "desc": "A mediados del año 2012, bajo la dirección de Tite, el club ganó su primera Copa Libertadores de América en condición de invicto, registrando estadísticamente 8 victorias, 6 empates y recibiendo solo 4 goles en los 14 encuentros. En la llave final vencieron a Boca Juniors contabilizando un empate 1-1 como visitantes y un triunfo 2-0 como locales, ambos goles materializados por Emerson Sheik. El 16 de diciembre del mismo año, el equipo se adjudicó su segundo Mundial de Clubes de la FIFA tras superar al Chelsea de Inglaterra por 1-0 en el Estadio Internacional de Yokohama, mediante un gol de cabeza concretado por Paolo Guerrero en el minuto 69, con el arquero Cássio recibiendo la condecoración al jugador del partido."
+      "hito": "Copa Libertadores y Campeonato Mundial de Clubes FIFA",
+      "desc": "Superando las previsiones estadísticas mediante el esquema táctico delineado por el técnico Tite, la institución rubricó la conquista definitiva de su primera Copa Libertadores logrando de manera inédita la sumatoria invicta en todos los partidos. El juego de cierre de la final se escenificó el 4 de julio con una victoria mecánica de 2-0 sobre Club Atlético Boca Juniors originada estrictamente por cuenta goleadora del atacante Emerson Sheik en los minutos 53 y 72 del registro cronometrado. Trasmitiendo el impulso de ese ciclo de seguridad defensiva, la expedición del club capturó el Campeonato Mundial de Clubes de la FIFA el 16 de diciembre en Yokohama arrojando una victoria final contable de 1-0 venciendo al formato del Chelsea Football Club por medio del anotador Paolo Guerrero a los 69 minutos reglamentarios."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Neo Química Arena",
+      "direccion": "Av. Miguel Ignácio Curi, 111 - Artur Alvim, São Paulo - SP, 08290-000",
+      "desde": 2014,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estadio propio. Inaugurado en 2014 para ser sede local de la Copa Mundial de la FIFA. Opera administrativamente como el recinto oficial y exclusivo del primer equipo profesional.",
+      "lat": -23.5452,
+      "lng": -46.4742,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5452,-46.4742"
+    },
+    {
+      "nombre": "Estádio Parque São Jorge (Fazendinha)",
+      "direccion": "Rua São Jorge, 777 - Tatuapé, São Paulo - SP, 03087-000",
+      "desde": 1928,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Sede patrimonial propia corporativa. Operó como recinto del plantel profesional hasta la década de 1940. Actualmente es utilizado en competencias oficiales de fútbol femenino y categorías formativas.",
+      "lat": -23.5256,
+      "lng": -46.5654,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5256,-46.5654"
+    },
+    {
+      "nombre": "Campo do Lenheiro",
+      "direccion": "Rua José Paulino, Bom Retiro, São Paulo - SP",
+      "desde": 1910,
+      "hasta": 1918,
+      "estado": "Histórico",
+      "obs": "Terreno primario de juego sin infraestructura formal de gradas, utilizado durante la fase de fundación del organismo bajo terrenos cedidos.",
+      "lat": -23.5284,
+      "lng": -46.6385,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5284,-46.6385"
+    },
+    {
+      "nombre": "Estádio da Ponte Grande",
+      "direccion": "Av. Tiradentes, Bom Retiro, São Paulo - SP",
+      "desde": 1918,
+      "hasta": 1927,
+      "estado": "Histórico",
+      "obs": "Primer estadio debidamente reglamentado y arrendado directamente por el club, destinado a los campeonatos paulistas previos a la adquisición de un terreno propio.",
+      "lat": -23.5244,
+      "lng": -46.6262,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5244,-46.6262"
+    },
+    {
+      "nombre": "Estádio do Pacaembu",
+      "direccion": "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010",
+      "desde": 1940,
+      "hasta": 2014,
+      "estado": "Histórico",
+      "obs": "Sede deportiva de administración municipal. Utilizada de forma continua como la sede estructural principal de Brasileirão y torneos internacionales durante el ciclo de 1940 a 2014.",
+      "lat": -23.5455,
+      "lng": -46.6644,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5455,-46.6644"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 2,
+      "comp": "Copa Mundial de Clubes FIFA",
+      "anios": [
+        "2000",
+        "2012"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "2012"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "2013"
+      ]
+    },
+    {
+      "n": 7,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1990",
+        "1998",
+        "1999",
+        "2005",
+        "2011",
+        "2015",
+        "2017"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "1995",
+        "2002",
+        "2009"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "1991"
+      ]
+    },
+    {
+      "n": 30,
+      "comp": "Campeonato Paulista",
+      "anios": [
+        "1914",
+        "1916",
+        "1922",
+        "1923",
+        "1924",
+        "1928",
+        "1929",
+        "1930",
+        "1937",
+        "1938",
+        "1939",
+        "1941",
+        "1951",
+        "1952",
+        "1954",
+        "1977",
+        "1979",
+        "1982",
+        "1983",
+        "1988",
+        "1995",
+        "1997",
+        "1999",
+        "2001",
+        "2003",
+        "2009",
+        "2013",
+        "2017",
+        "2018",
+        "2019"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1910",
+      "hasta": "1913",
+      "desc": "Las primeras campañas competitivas anotaron el uso de una precaria camiseta diseñada en color crema crudo que se fue lavando hacia el blanco puro de fábrica.",
+      "tipo": "",
+      "c1": "#f5f5dc",
+      "c2": null,
+      "sh": "#000000",
+      "me": "#000000"
+    },
+    {
+      "desde": "1914",
+      "hasta": "Presente",
+      "desc": "La asamblea regularizó como indumentaria matriz institucional el uso de un conjunto íntegramente de camiseta blanca lisa acompañada reglamentariamente de un pantalón corto de tono negro crudo.",
+      "tipo": "",
+      "c1": "#ffffff",
+      "c2": null,
+      "sh": "#000000",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Sócrates Brasileiro",
+      "apodo": "El Doctor",
+      "epoca": "1978-1984",
+      "desc": "Cerebro majestuoso y filósofo con el balón. Pionero ideológico de la 'Democracia Corinthiana', lideró al plantel al bicampeonato paulista con sus toques de taquito geniales que maravillaron a un país oprimido."
+    },
+    {
+      "nombre": "Cássio Ramos",
+      "apodo": "Gigante Cássio",
+      "epoca": "2012-2024",
+      "desc": "Arquero colosal en los momentos definitorios de vida o muerte. Autor cumbre de una tapada apoteósica ante Diego Souza para luego alzar las glorias absolutas de la Libertadores del 2012 y el Mundial contra Chelsea."
+    },
+    {
+      "nombre": "Marcelo Pereira Surcin",
+      "apodo": "Marcelinho Carioca / Pé de Anjo",
+      "epoca": "1994-2001",
+      "desc": "El pie celestial que dictaba combas magnéticas y misiles estáticos en jugadas de táctica fija. Acumuló títulos arrasadores (brasileños, mundiales y paulistas) liderando la ofensiva rebelde y precisa al maderamen."
+    },
+    {
+      "nombre": "José Ferreira Neto",
+      "apodo": "Neto / Craque Neto",
+      "epoca": "1989-1993",
+      "desc": "Diez rebelde, caudillo insolente y de pegada feroz en sus tiros libres letales. Arrastró prácticamente en solitario al conjunto conquistando heroicamente el primer Campeonato de Brasil puro liguero sumando milagros tácticos de 1990."
+    },
+    {
+      "nombre": "Roberto Rivellino",
+      "apodo": "Reizinho do Parque",
+      "epoca": "1965-1974",
+      "desc": "El inventor del drible bautizado finta elástica. Ostentó magistralmente el número diez repartiendo fútbol exquisito de clase mundial y desbordando una técnica en disparos de zurda pura estruendosa en la liga paulista."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Cláudio Christovam de Pinho",
+      "goles": 305,
+      "epoca": "1945-1957",
+      "apodo": "Cláudio / Gerente"
+    },
+    {
+      "nombre": "Oswaldo Silva",
+      "goles": 269,
+      "epoca": "1945-1957",
+      "apodo": "Baltazar / Cabezón de Oro"
+    },
+    {
+      "nombre": "Uriel Fernandes",
+      "goles": 256,
+      "epoca": "1934-1944",
+      "apodo": "Teleco"
+    },
+    {
+      "nombre": "Manoel Nunes",
+      "goles": 228,
+      "epoca": "1913-1930",
+      "apodo": "Neco"
+    },
+    {
+      "nombre": "Marcelo Pereira Surcin",
+      "goles": 206,
+      "epoca": "1994-2001",
+      "apodo": "Marcelinho Carioca"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Wladimir Rodrigues dos Santos",
+      "partidos": 806,
+      "epoca": "1972-1987",
+      "apodo": "Wladimir"
+    },
+    {
+      "nombre": "Cássio Ramos",
+      "partidos": 712,
+      "epoca": "2012-2024",
+      "apodo": "Gigante Cássio"
+    },
+    {
+      "nombre": "Luiz Trochillo",
+      "partidos": 606,
+      "epoca": "1948-1967",
+      "apodo": "Luizinho / Pequeño Polegar"
+    },
+    {
+      "nombre": "Ronaldo Soares Giovanelli",
+      "partidos": 602,
+      "epoca": "1988-1998",
+      "apodo": "Ronaldo Giovanelli"
+    },
+    {
+      "nombre": "José Maria Rodrigues Alves",
+      "partidos": 598,
+      "epoca": "1970-1983",
+      "apodo": "Zé Maria / Super Zé"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Timão",
+      "origen": "Apareció impreso en el diario 'A Gazeta Esportiva' en 1966. La directiva buscaba terminar con un largo período sin títulos mediante la contratación de figuras de la selección brasileña como Garrincha. Para graficar la magnitud de la inversión y la alta expectativa generada por la nueva plantilla, el diario tituló en su portada 'O Corinthians faz um Timão', término que fue adoptado de forma permanente por la afición."
+    },
+    {
+      "apodo": "O Clube do Povo",
+      "origen": "Surge de su propio origen fundacional en septiembre de 1910. A diferencia de las entidades creadas por las élites locales y británicas, Corinthians fue fundado por un grupo de cinco operarios bajo un farol de luz en el barrio de Bom Retiro. Esto posicionó al club inmediatamente como el representante exclusivo de la clase obrera y trabajadora de la ciudad de São Paulo frente a los clubes aristocráticos."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1912",
+      "hasta": "1914",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1912-1914.webp"
+    },
+    {
+      "desde": "1913",
+      "hasta": "1916",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1913-1916.webp"
+    },
+    {
+      "desde": "1914",
+      "hasta": "1916",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1914-1916.webp"
+    },
+    {
+      "desde": "1916",
+      "hasta": "1919",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1916-1919.webp"
+    },
+    {
+      "desde": "1917",
+      "hasta": "1919",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1917-1919.webp"
+    },
+    {
+      "desde": "1919",
+      "hasta": "1940",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1919-1940.webp"
+    },
+    {
+      "desde": "1940",
+      "hasta": "1980",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-1940-1980.webp"
+    },
+    {
+      "desde": "1980",
+      "hasta": "1990",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_logo_1980-1990.webp"
+    },
+    {
+      "desde": "1990",
+      "hasta": "1998",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_1990-1998Logo.webp"
+    },
+    {
+      "desde": "1998",
+      "hasta": "1999",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_1998-1999_Logo.webp"
+    },
+    {
+      "desde": "1999",
+      "hasta": "2000",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_1999-2000Logo.webp"
+    },
+    {
+      "desde": "2000",
+      "hasta": "2005",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_2000-2005logo.webp"
+    },
+    {
+      "desde": "2005",
+      "hasta": "2009",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_2005-2009logo.webp"
+    },
+    {
+      "desde": "2009",
+      "hasta": "2010",
+      "escudo": "/escudos/brasil/corinthians/Corinthians_2009-2010logo.webp"
+    },
+    {
+      "desde": "2010",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/corinthians/Corinthians-2010-actual.webp"
+    }
+  ],
   "h2h": {
     "palmeiras": {
       "pj": 1,

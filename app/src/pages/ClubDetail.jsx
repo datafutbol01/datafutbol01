@@ -267,14 +267,24 @@ export default function ClubDetail() {
               <div>
                 <h2 className="title-font" style={{ fontSize: '2.5rem', color: 'var(--accent-gold)', marginBottom: '2rem' }}>Evolución del Escudo</h2>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '2rem' }}>
-                  {club.evolucion_escudos?.map((escudo, idx) => (
+                  {club.evolucion_escudos?.map((escudo, idx) => {
+                    const imgSrc = escudo.escudo || escudo.url;
+                    const yearLabel = escudo.desde ? `${escudo.desde} — ${escudo.hasta || 'Presente'}` : escudo.ano;
+                    
+                    return (
                     <div key={idx} className="glass-card" style={{ padding: '2rem', display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center' }}>
                       <div style={{ width: '150px', height: '150px', marginBottom: '1.5rem', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                         <img 
-                          src={escudo.url} 
-                          alt={`Escudo del año ${escudo.ano}`} 
-                          style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain', filter: 'drop-shadow(0 10px 15px rgba(0,0,0,0.5))', cursor: 'pointer' }}
-                          onClick={() => setZoomedImage(escudo.url)}
+                          src={`${imgSrc}?v=1`} 
+                          alt={`Escudo del año ${yearLabel}`} 
+                          style={{ 
+                            maxWidth: '100%', maxHeight: '100%', 
+                            objectFit: 'contain', 
+                            filter: 'drop-shadow(0 10px 15px rgba(0,0,0,0.5))', 
+                            cursor: 'pointer',
+                            transform: escudo.zoom ? `scale(${escudo.zoom})` : 'none'
+                          }}
+                          onClick={() => setZoomedImage(imgSrc)}
                           onError={(e) => {
                             e.target.style.display = 'none';
                             if (e.target.nextSibling) e.target.nextSibling.style.display = 'flex';
@@ -285,10 +295,10 @@ export default function ClubDetail() {
                           <Shield size={64} />
                         </div>
                       </div>
-                      <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'white', marginBottom: '0.5rem' }}>{escudo.ano}</h3>
+                      <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'white', marginBottom: '0.5rem' }}>{yearLabel}</h3>
                       <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: '1.5' }}>{escudo.desc}</p>
                     </div>
-                  ))}
+                  )})}
                   
                   {/* Si el club no tiene escudos registrados en el array */}
                   {(!club.evolucion_escudos || club.evolucion_escudos.length === 0) && (
@@ -298,30 +308,89 @@ export default function ClubDetail() {
               </div>
             )}
 
-            {activeTab === 'canchas' && (
+            {activeTab === 'canchas' && (() => {
+              // Extract active stadiums
+              let activeStadiums = [];
+              if (canchas && canchas.some(c => c.estado)) {
+                activeStadiums = canchas.filter(c => c.estado === 'Activo' || c.estado === 'activo').map(c => ({
+                  nombre: c.nombre,
+                  apodo: c.apodo,
+                  inauguracion: c.desde,
+                  direccion: c.direccion,
+                  lat: parseFloat(c.lat),
+                  lng: parseFloat(c.lng),
+                  obs: c.obs
+                }));
+              } else if (datos.estadios) {
+                activeStadiums = datos.estadios.filter(e => e.condicion === 'actual').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
+              } else if (datos.estadio_actual) {
+                activeStadiums = [{
+                  nombre: datos.estadio_actual,
+                  apodo: datos.estadio_apodo,
+                  capacidad: datos.estadio_capacidad,
+                  inauguracion: datos.estadio_inauguracion,
+                  direccion: datos.estadio_direccion,
+                  lat: parseFloat(datos.estadio_lat),
+                  lng: parseFloat(datos.estadio_lng)
+                }];
+              } else if (canchas && canchas.length > 0) {
+                 // Fallback to last item in legacy canchas
+                 const last = canchas[canchas.length - 1];
+                 activeStadiums = [{
+                   nombre: last.nombre,
+                   apodo: last.apodo,
+                   inauguracion: last.desde,
+                   direccion: last.direccion,
+                   lat: parseFloat(last.lat),
+                   lng: parseFloat(last.lng),
+                   obs: last.obs
+                 }];
+              }
+
+              // Extract historic stadiums
+              let historicStadiums = [];
+              if (canchas && canchas.some(c => c.estado)) {
+                historicStadiums = canchas.filter(c => c.estado === 'Histórico' || c.estado === 'historico').map(c => ({
+                  nombre: c.nombre,
+                  apodo: c.apodo || c.obs,
+                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
+                  direccion: c.direccion,
+                  lat: parseFloat(c.lat),
+                  lng: parseFloat(c.lng),
+                  obs: c.obs
+                }));
+              } else if (datos.estadios) {
+                historicStadiums = datos.estadios.filter(e => e.condicion === 'historico').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
+              } else if (canchas && canchas.length > 1) {
+                // Fallback to legacy canchas (everything except last)
+                historicStadiums = canchas.slice(0, canchas.length - 1).reverse().map(c => ({
+                  nombre: c.nombre,
+                  apodo: c.apodo || c.obs,
+                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
+                  direccion: c.direccion,
+                  lat: parseFloat(c.lat),
+                  lng: parseFloat(c.lng),
+                  obs: c.obs
+                }));
+              }
+
+              return (
               <div>
                 <h2 className="title-font" style={{ fontSize: '2.5rem', color: 'var(--accent-gold)', marginBottom: '2rem' }}>El Estadio</h2>
                 
                 {/* Estadios Actuales Renderer */}
-                {(datos.estadios ? datos.estadios.filter(e => e.condicion === 'actual') : (datos.estadio_actual ? [{
-                    nombre: datos.estadio_actual,
-                    apodo: datos.estadio_apodo,
-                    capacidad: datos.estadio_capacidad,
-                    inauguracion: datos.estadio_inauguracion,
-                    direccion: datos.estadio_direccion,
-                    lat: datos.estadio_lat,
-                    lng: datos.estadio_lng
-                }] : [])).map((estadio, idx) => (
+                {activeStadiums.map((estadio, idx) => (
                   <div key={`actual-${idx}`} className="glass-card" style={{ padding: '2rem', marginBottom: '3rem', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
                     <div>
                       <h3 className="title-font notranslate" style={{ fontSize: '2rem', marginBottom: '1rem' }}>{estadio.nombre}</h3>
                       {estadio.apodo && <p className="notranslate" style={{ fontSize: '1.25rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>"{estadio.apodo}"</p>}
                       {estadio.capacidad && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Capacidad:</strong> {estadio.capacidad.toLocaleString()} espectadores</p>}
-                      <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Inauguración:</strong> {estadio.inauguracion}</p>
-                      <p style={{ color: 'var(--text-muted)' }}><strong>Dirección:</strong> {estadio.direccion}</p>
+                      {estadio.inauguracion && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Inauguración:</strong> {estadio.inauguracion}</p>}
+                      {estadio.direccion && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Dirección:</strong> {estadio.direccion}</p>}
+                      {estadio.obs && <p style={{ color: 'var(--text-muted)', marginTop: '1rem', lineHeight: 1.5 }}>{estadio.obs}</p>}
                     </div>
                     <div style={{ height: '300px', borderRadius: '12px', overflow: 'hidden', position: 'relative' }}>
-                      {estadio.lat && estadio.lng ? (
+                      {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) ? (
                         <MapContainer 
                           center={[estadio.lat, estadio.lng]} 
                           zoom={16} 
@@ -345,17 +414,16 @@ export default function ClubDetail() {
 
                 <h3 className="title-font" style={{ fontSize: '1.8rem', marginBottom: '1.5rem' }}>Estadios Históricos</h3>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
-                  {/* Rendering estadios array format (new style) */}
-                  {datos.estadios && datos.estadios.filter(e => e.condicion === 'historico').map((estadio, idx) => (
+                  {historicStadiums.map((estadio, idx) => (
                     <div key={`historico-new-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
                       <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{estadio.nombre}</h4>
-                      <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
-                        {estadio.inauguracion || 'Fecha no disponible'}
-                      </p>
+                      {estadio.inauguracion && <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
+                        {estadio.inauguracion}
+                      </p>}
                       {estadio.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {estadio.direccion}</p>}
-                      <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>
+                      {estadio.apodo && <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>}
                       
-                      {estadio.lat && estadio.lng && (
+                      {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) && (
                         <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
                           <MapContainer 
                             center={[estadio.lat, estadio.lng]} 
@@ -374,42 +442,14 @@ export default function ClubDetail() {
                     </div>
                   ))}
 
-                  {/* Rendering canchas array format (old legacy style) */}
-                  {(!datos.estadios) && canchas?.slice(0, canchas.length - 1).reverse().map((c, idx) => (
-                    <div key={`historico-old-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
-                      <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{c.nombre}</h4>
-                      <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
-                        {c.desde} — {c.hasta || 'Presente'}
-                      </p>
-                      {c.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {c.direccion}</p>}
-                      <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{c.obs}</p>
-                      
-                      {c.lat && c.lng && (
-                        <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
-                          <MapContainer 
-                            center={[c.lat, c.lng]} 
-                            zoom={14} 
-                            scrollWheelZoom={false}
-                            style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
-                            key={`map-legacy-${c.lat}-${c.lng}`}
-                          >
-                            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
-                            <Marker position={[c.lat, c.lng]}>
-                              <Popup className="notranslate">{c.nombre}</Popup>
-                            </Marker>
-                          </MapContainer>
-                        </div>
-                      )}
-                    </div>
-                  ))}
-
                   {/* Notice if no historic stadiums */}
-                  {((datos.estadios && datos.estadios.filter(e => e.condicion === 'historico').length === 0) || (!datos.estadios && (!canchas || canchas.length <= 1))) && (
+                  {historicStadiums.length === 0 && (
                     <p style={{ color: 'var(--text-muted)', fontSize: '1.1rem', gridColumn: '1 / -1' }}>No hay registros de estadios históricos documentados en esta biblioteca.</p>
                   )}
                 </div>
               </div>
-            )}
+              );
+            })()}
 
             {activeTab === 'palmares' && (
               <div>
@@ -519,11 +559,11 @@ export default function ClubDetail() {
                       <div key={idx} className="glass-card" style={{ padding: '1rem' }}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.25rem' }}>
                           <h4 className="notranslate" style={{ fontSize: '1rem', fontWeight: 'bold' }}>{jug.nombre}</h4>
-                          <span style={{ fontSize: '0.7rem', background: 'rgba(255,255,255,0.1)', padding: '0.2rem 0.4rem', borderRadius: '4px' }}>{jug.pos}</span>
+                          {jug.pos && <span style={{ fontSize: '0.7rem', background: 'rgba(255,255,255,0.1)', padding: '0.2rem 0.4rem', borderRadius: '4px' }}>{jug.pos}</span>}
                         </div>
                         {jug.apodo && <p className="notranslate" style={{ fontSize: '0.8rem', color: 'var(--accent-gold)', fontStyle: 'italic', marginBottom: '0.25rem' }}>"{jug.apodo}"</p>}
-                        <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Época: {jug.periodo}</p>
-                        <p style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.8)', lineHeight: 1.3 }}>{jug.desc}</p>
+                        <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Época: {jug.periodo || jug.epoca}</p>
+                        {jug.desc && <p style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.8)', lineHeight: 1.3 }}>{jug.desc}</p>}
                       </div>
                     ))}
                   </div>
@@ -541,8 +581,10 @@ export default function ClubDetail() {
                           {idx + 1}
                         </div>
                         <h4 className="notranslate" style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.25rem' }}>{jug.nombre}</h4>
+                        {jug.apodo && <p className="notranslate" style={{ fontSize: '0.8rem', color: 'var(--accent-gold)', fontStyle: 'italic', marginBottom: '0.25rem' }}>"{jug.apodo}"</p>}
                         <p style={{ fontSize: '1.5rem', color: 'var(--accent-gold)', fontWeight: 'bold', margin: '0.25rem 0' }}>{jug.goles} <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)', fontWeight: 'normal' }}>goles</span></p>
-                        <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{jug.periodo} • {jug.partidos} partidos</p>
+                        <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Época: {jug.periodo || jug.epoca}</p>
+                        {jug.desc && <p style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.8)', lineHeight: 1.3 }}>{jug.desc}</p>}
                       </div>
                     ))}
                   </div>
@@ -555,15 +597,15 @@ export default function ClubDetail() {
                   </h3>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                     {presencias_historicas?.slice(0, 5).map((jug, idx) => (
-                      <div key={idx} className="glass-card" style={{ padding: '1rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                        <div style={{ width: '30px', height: '30px', borderRadius: '50%', background: 'rgba(255,255,255,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.9rem', color: 'var(--accent-gold)' }}>
-                          {idx + 1}
-                        </div>
-                        <div>
+                      <div key={idx} className="glass-card" style={{ padding: '1rem', display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
+                          <span style={{ fontSize: '1rem', fontWeight: 'bold', color: 'var(--accent-gold)' }}>#{idx + 1}</span>
                           <h4 style={{ fontSize: '0.95rem', fontWeight: 'bold' }}>{jug.nombre}</h4>
-                          <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{jug.partidos ? `${jug.partidos} partidos` : 'Dato no numérico'}</p>
-                          <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.5)' }}>{jug.periodo}</p>
                         </div>
+                        {jug.apodo && <p className="notranslate" style={{ fontSize: '0.8rem', color: 'var(--accent-gold)', fontStyle: 'italic' }}>"{jug.apodo}"</p>}
+                        <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>{jug.partidos ? `${jug.partidos} partidos` : 'Dato no numérico'}</p>
+                        <p style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.5)', marginBottom: '0.25rem' }}>Época: {jug.periodo || jug.epoca}</p>
+                        {jug.desc && <p style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.8)', lineHeight: 1.3 }}>{jug.desc}</p>}
                       </div>
                     ))}
                   </div>

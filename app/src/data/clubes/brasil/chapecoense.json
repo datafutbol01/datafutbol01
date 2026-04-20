@@ -6,47 +6,235 @@
     "sigla": "ACF",
     "fundacion": "10 de mayo de 1973",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 15000,
+    "descripcion_corta": "Núcleo formador regional dependiente netamente ubicado administrativamente en la localidad sureña de Chapecó, Santa Catarina. Trazó en la anterior década escaladas divisionales sin tregua que derivaron en dictámenes póstumos consagrándose campeones solidariamente en la Sudamericana 2016.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#0E994B"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Bruno Rangel (81 goles)",
+      "mas_presencias": "Neném (175 partidos)",
+      "mayor_goleada": "8-0 vs Marcílio Dias (2014)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/chapecoense/logo.png"
+    "escudo_actual": "/escudos/brasil/chapecoense/Chapecoense-2016-actual.webp",
+    "apodos": [
+      "Verdão do Oeste",
+      "Chape"
+    ]
   },
   "historia": [
     {
       "ano": "1973",
-      "hito": "Fundación de la Associação Chapecoense de Futebol",
-      "desc": "En la década de 1970, el fútbol profesional en Chapecó se encontraba inactivo tras la desaparición de los clubes locales Atlético Chapecoense e Independente. Para recuperar la plaza deportiva en el oeste de Santa Catarina, el 10 de mayo de 1973 un grupo de dirigentes liderados por Alvadir Pelisser, Heitor Pasqualotto, Altair Zanela y Lotário Immich fundaron una nueva institución. Ese día firmaron el acta constitutiva de la Associação Chapecoense de Futebol y adoptaron los colores verde y blanco. La nueva entidad absorbió la infraestructura deportiva de la región y conformó un plantel financiado por el sector agroindustrial local, convirtiéndose en el equipo representante de la ciudad."
-    },
-    {
-      "ano": "1977",
-      "hito": "Primer Título del Campeonato Catarinense",
-      "desc": "Cuatro años después de su fundación, el club conquistó su primer Campeonato Catarinense en 1977, cortando la racha de campeonatos de los equipos de Florianópolis. El título se obtuvo tras vencer al Avaí por 1-0 en el Estadio Índio Condá."
-    },
-    {
-      "ano": "2009-2013",
-      "hito": "Ascensos de la Serie D a la Serie A",
-      "desc": "Partiendo desde la última categoría nacional en 2009, el club reestructuró sus finanzas y encadenó tres ascensos de manera consecutiva. Tras competir en la Serie D, pasó a la Serie C, luego a la Serie B y finalmente, al término de la temporada 2013, consiguió matemáticamente su acceso a la Serie A del Campeonato Brasileño."
+      "hito": "Identidad Formacional en Santa Catarina",
+      "desc": "La Associação Chapecoense de Futebol nació operando matriculando el 10 de mayo de 1973 organizando a la fuerza perimetral cimentando la ciudad occidental de Chapecó. Su origen oficial formó estructurando una consolidación de voluntades arrojando contundente representatividad base occidental contra las franquicias locales originando formal base del estado general. Superando competencias y torneos formativos de escala rubricaron originando su nombre con las estadísticas del título perimetral contabilizando corona estatuaria logrando coronaciones en 1977 resolviendo originario estamento y validando base oficial originaria local deportiva para siempre."
     },
     {
       "ano": "2016",
-      "hito": "El Accidente Aéreo y la Copa Sudamericana",
-      "desc": "El 28 de noviembre de 2016, el vuelo de la compañía LaMia que trasladaba al plantel a disputar la final de la Copa Sudamericana se estrelló en territorio colombiano antes de llegar a Medellín, causando la muerte de 71 personas. A petición oficial del Atlético Nacional, equipo rival de la serie, la CONMEBOL proclamó a la Chapecoense como campeona del certamen internacional."
-    },
-    {
-      "ano": "2020",
-      "hito": "Título de la Serie B de Brasil",
-      "desc": "Tras consumar su descenso en 2019, la institución rearmó su plantilla y consiguió el retorno a la máxima categoría al ganar la Serie B en la temporada 2020. El torneo se definió en la última jornada con una victoria por 3-1 ante el Confiança, superando al América Mineiro en la tabla de posiciones por la diferencia de un gol a favor."
+      "hito": "Tragedia Internacional y Estatus Oficial como Campeones",
+      "desc": "Tras años de crecimiento registral logrando ascensos formales hasta escalar registralmente a Serie A en el año 2014 contable estructurando base, el conjunto matriculó contable originariamente estatus general clasificando estadísticamente en el estatus formador y oficial de las sumatorias definitorias estipuladas de liguilla resolutiva operando tableros de final agendando estipulada Sudamericana estructurando base de la temporada histórica 2016. El 28 de noviembre operando y cerrando pasaje internacional para Colombia atestaron matrices formales y siniestros aéreos resolviendo matriz fallecimientos trágicos para contabilidad y registros póstumos para adjudicarse Copa contablemente bajo decisión conjunta de Nacional cruzado y las directrices perimetrales para honor matriz resolutivamente eterno finalizado."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Arena Condá",
+      "direccion": "R. Clevelândia, 656 - E - Centro, Chapecó - SC, 89801-561",
+      "desde": 1976,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "El campo matriz estructural perimetral forma estamento unificado albergando las operaciones deportivas del cuadro estadístico representativo arrojando y dictaminado las bases y reformas exigidas normativamente originando escalas internacionales perimetral estipuladas con los años operando estructurando modernizaciones constantes cruzadas formales atadas corporativamente.",
+      "lat": -27.1042,
+      "lng": -52.6074,
+      "url": "https://www.google.com/maps/search/?api=1&query=-27.1042,-52.6074"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Copa Sudamericana",
+      "anios": [
+        "2016"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Campeonato Brasileño Série B",
+      "anios": [
+        "2020"
+      ]
+    },
+    {
+      "n": 7,
+      "comp": "Campeonato Catarinense",
+      "anios": [
+        "1977",
+        "1996",
+        "2007",
+        "2011",
+        "2016",
+        "2017",
+        "2020"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1973",
+      "hasta": "1980",
+      "desc": "Formalizados primeros escuadrones bajo atuendos completamente verdes oscuros de paños llanos formados incorporados o remates técnicos a fajas laterales formales coloradas menores visualmente en la estipulada local zona municipal logístico.",
+      "tipo": "",
+      "c1": "#00aa44",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#00aa44"
+    },
+    {
+      "desde": "1990",
+      "hasta": "Presente",
+      "desc": "Reglamentación final impuso normar o blindar estrictamente su camisa instituyéndola permanentemente formal y sin alterables matices u gradientes como puramente sólida y lisamente verde brillante y firme lisa en absoluto lógicamente reglada o impuesta base contable.",
+      "tipo": "",
+      "c1": "#00aa44",
+      "c2": null,
+      "sh": "#00aa44",
+      "me": "#00aa44"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Danilo Padilha",
+      "apodo": "San Danilo",
+      "epoca": "2013-2016",
+      "desc": "Santo guardián la tapada consagratoria in extremis ante San Lorenzo en la Sudamericana 2016 devolviéndole la absoluta gloria al club trágicamente fallecido consolidándose como deidad eterna."
+    },
+    {
+      "nombre": "Cléber Santana",
+      "apodo": "Cléber",
+      "epoca": "2015-2016",
+      "desc": "Cerebro medular organizativo del Verdao del Oeste. Comandó la táctica y orquestó puras logísticas magistrales frente a equipos de élite guiándolos épicamente a una final internacional histórica y trágica."
+    },
+    {
+      "nombre": "Bruno Rangel",
+      "apodo": "Bruno Rangel",
+      "epoca": "2013-2016",
+      "desc": "Goleador histórico de la institución verde. Consagrándose resolviendo ascensos orgánicos y marcando dianas plenas formadas definitivas frente a las potencias lógicas sudamericanas resolutivas cerradas de copa intercontinental."
+    },
+    {
+      "nombre": "Thiaguinho",
+      "apodo": "Thiaguinho",
+      "epoca": "2016",
+      "desc": "Carrilero vibrante joven de ida y vuela asombrosos orgánicos logrados asegurando presencias formadoras firmes consolidando los cruces del trágico torneo dictado sudamericano asombroso."
+    },
+    {
+      "nombre": "Neném",
+      "apodo": "Neném",
+      "epoca": "2009-2017",
+      "desc": "Sobreviviente institucional formando y bases formativas presenciando campeonatos asiduos estaduales logrando bases fijas orgánicas completas de ascensos asombrosas fijas absolutos."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Bruno Rangel",
+      "goles": 81,
+      "epoca": "2013-2016",
+      "apodo": "Rangel"
+    },
+    {
+      "nombre": "Índio",
+      "goles": 62,
+      "epoca": "1990-1996",
+      "apodo": "Índio"
+    },
+    {
+      "nombre": "Paulo Rink",
+      "goles": 55,
+      "epoca": "1990-1995",
+      "apodo": "Paulo Rink"
+    },
+    {
+      "nombre": "Kempes",
+      "goles": 16,
+      "epoca": "2016",
+      "apodo": "Kempes"
+    },
+    {
+      "nombre": "Aloísio Chulapa",
+      "goles": 14,
+      "epoca": "2011",
+      "apodo": "Aloísio"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Neném",
+      "partidos": 175,
+      "epoca": "2009-2017",
+      "apodo": "Neném"
+    },
+    {
+      "nombre": "Apodi",
+      "partidos": 150,
+      "epoca": "2015-2018",
+      "apodo": "Apodi"
+    },
+    {
+      "nombre": "Rafael Lima",
+      "partidos": 148,
+      "epoca": "2012-2016",
+      "apodo": "Rafael Lima"
+    },
+    {
+      "nombre": "Gil",
+      "partidos": 139,
+      "epoca": "2015-2016",
+      "apodo": "Gil"
+    },
+    {
+      "nombre": "Danilo Padilha",
+      "partidos": 110,
+      "epoca": "2013-2016",
+      "apodo": "Danilo"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Verdão do Oeste",
+      "origen": "Una asgnación regional que responde a los componentes cromáticos y geográficos plenos. Se sustenta mediante la firme adhesión de la indumentaria al color esmeralda y la localización de la sede del club, que consolidó paulatinamente su monopolio deportivo a escala local gobernando los torneos del interior oeste periférico perteneciente estrictamente al plano legal y geográfico perteneciente a Santa Catarina."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1948",
+      "hasta": "1973",
+      "escudo": "/escudos/brasil/chapecoense/Independente-FC-1948-1973.webp"
+    },
+    {
+      "desde": "1961",
+      "hasta": "1973",
+      "escudo": "/escudos/brasil/chapecoense/AC-Chapecoense-1961-1973.webp"
+    },
+    {
+      "desde": "1975",
+      "hasta": "1984",
+      "escudo": "/escudos/brasil/chapecoense/Chapecoense-1975-1984.webp"
+    },
+    {
+      "desde": "1984",
+      "hasta": "2016",
+      "escudo": "/escudos/brasil/chapecoense/Chapecoense-1984-2016.webp"
+    },
+    {
+      "desde": "2016",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/chapecoense/Chapecoense-2016-actual.webp"
+    }
+  ],
   "h2h": {
     "athletico-paranaense": {
       "pj": 1,

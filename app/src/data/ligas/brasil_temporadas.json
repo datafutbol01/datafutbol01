@@ -1,1 +1,807 @@
-[]
+[
+  {
+    "id": "1959-taca-brasil",
+    "anio": "1959",
+    "torneo": "Taça Brasil",
+    "campeon": "Bahia",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1960-taca-brasil",
+    "anio": "1960",
+    "torneo": "Taça Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1961-taca-brasil",
+    "anio": "1961",
+    "torneo": "Taça Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1962-taca-brasil",
+    "anio": "1962",
+    "torneo": "Taça Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1963-taca-brasil",
+    "anio": "1963",
+    "torneo": "Taça Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1964-taca-brasil",
+    "anio": "1964",
+    "torneo": "Taça Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1965-taca-brasil",
+    "anio": "1965",
+    "torneo": "Taça Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1966-taca-brasil",
+    "anio": "1966",
+    "torneo": "Taça Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1967-taca-brasil",
+    "anio": "1967",
+    "torneo": "Taça Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1967-robertao",
+    "anio": "1967",
+    "torneo": "Torneio Roberto Gomes Pedrosa",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1968-taca-brasil",
+    "anio": "1968",
+    "torneo": "Taça Brasil",
+    "campeon": "Botafogo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1968-robertao",
+    "anio": "1968",
+    "torneo": "Torneio Roberto Gomes Pedrosa",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1969-robertao",
+    "anio": "1969",
+    "torneo": "Torneio Roberto Gomes Pedrosa",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1970-robertao",
+    "anio": "1970",
+    "torneo": "Torneio Roberto Gomes Pedrosa",
+    "campeon": "Fluminense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1971-serie-a",
+    "anio": "1971",
+    "torneo": "Campeonato Nacional de Clubes",
+    "campeon": "Atlético Mineiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1972-serie-a",
+    "anio": "1972",
+    "torneo": "Campeonato Nacional de Clubes",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1973-serie-a",
+    "anio": "1973",
+    "torneo": "Campeonato Nacional de Clubes",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1974-serie-a",
+    "anio": "1974",
+    "torneo": "Campeonato Nacional de Clubes",
+    "campeon": "Vasco da Gama",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1975-serie-a",
+    "anio": "1975",
+    "torneo": "Copa Brasil",
+    "campeon": "Internacional",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1976-serie-a",
+    "anio": "1976",
+    "torneo": "Copa Brasil",
+    "campeon": "Internacional",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1977-serie-a",
+    "anio": "1977",
+    "torneo": "Copa Brasil",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1978-serie-a",
+    "anio": "1978",
+    "torneo": "Copa Brasil",
+    "campeon": "Guarani",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/guarani/Guarani-2020.webp"
+  },
+  {
+    "id": "1979-serie-a",
+    "anio": "1979",
+    "torneo": "Copa Brasil",
+    "campeon": "Internacional",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1980-serie-a",
+    "anio": "1980",
+    "torneo": "Taça de Ouro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1981-serie-a",
+    "anio": "1981",
+    "torneo": "Taça de Ouro",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1982-serie-a",
+    "anio": "1982",
+    "torneo": "Taça de Ouro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1983-serie-a",
+    "anio": "1983",
+    "torneo": "Taça de Ouro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1984-serie-a",
+    "anio": "1984",
+    "torneo": "Copa Brasil",
+    "campeon": "Fluminense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1985-serie-a",
+    "anio": "1985",
+    "torneo": "Taça de Ouro",
+    "campeon": "Coritiba",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1986-serie-a",
+    "anio": "1986",
+    "torneo": "Copa Brasil",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1987-serie-a",
+    "anio": "1987",
+    "torneo": "Copa Brasil",
+    "campeon": "Sport Recife",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/sport-recife/Sport-2008.webp"
+  },
+  {
+    "id": "1988-serie-a",
+    "anio": "1988",
+    "torneo": "Copa Brasil",
+    "campeon": "Bahia",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1989-serie-a",
+    "anio": "1989",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Vasco da Gama",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1990-serie-a",
+    "anio": "1990",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1991-serie-a",
+    "anio": "1991",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1992-serie-a",
+    "anio": "1992",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1993-serie-a",
+    "anio": "1993",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1994-serie-a",
+    "anio": "1994",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1995-serie-a",
+    "anio": "1995",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Botafogo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1996-serie-a",
+    "anio": "1996",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1997-serie-a",
+    "anio": "1997",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Vasco da Gama",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1998-serie-a",
+    "anio": "1998",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1999-serie-a",
+    "anio": "1999",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2000-serie-a",
+    "anio": "2000",
+    "torneo": "Copa João Havelange",
+    "campeon": "Vasco da Gama",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2001-serie-a",
+    "anio": "2001",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Athletico Paranaense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2002-serie-a",
+    "anio": "2002",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2003-serie-a",
+    "anio": "2003",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2004-serie-a",
+    "anio": "2004",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2005-serie-a",
+    "anio": "2005",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2006-serie-a",
+    "anio": "2006",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2007-serie-a",
+    "anio": "2007",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2008-serie-a",
+    "anio": "2008",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2009-serie-a",
+    "anio": "2009",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2010-serie-a",
+    "anio": "2010",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Fluminense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2011-serie-a",
+    "anio": "2011",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2012-serie-a",
+    "anio": "2012",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Fluminense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2013-serie-a",
+    "anio": "2013",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2014-serie-a",
+    "anio": "2014",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2015-serie-a",
+    "anio": "2015",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2016-serie-a",
+    "anio": "2016",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2017-serie-a",
+    "anio": "2017",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2018-serie-a",
+    "anio": "2018",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2019-serie-a",
+    "anio": "2019",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2020-serie-a",
+    "anio": "2020",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2021-serie-a",
+    "anio": "2021",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Atlético Mineiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2022-serie-a",
+    "anio": "2022",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2023-serie-a",
+    "anio": "2023",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2024-serie-a",
+    "anio": "2024",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Botafogo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2025-serie-a",
+    "anio": "2025",
+    "torneo": "Campeonato Brasileiro",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1989-copa-do-brasil",
+    "anio": "1989",
+    "torneo": "Copa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1990-copa-do-brasil",
+    "anio": "1990",
+    "torneo": "Copa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1991-copa-do-brasil",
+    "anio": "1991",
+    "torneo": "Copa do Brasil",
+    "campeon": "Criciúma",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/criciuma/Crici%253Fma-2025.webp"
+  },
+  {
+    "id": "1992-copa-do-brasil",
+    "anio": "1992",
+    "torneo": "Copa do Brasil",
+    "campeon": "Internacional",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1993-copa-do-brasil",
+    "anio": "1993",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1994-copa-do-brasil",
+    "anio": "1994",
+    "torneo": "Copa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1995-copa-do-brasil",
+    "anio": "1995",
+    "torneo": "Copa do Brasil",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1996-copa-do-brasil",
+    "anio": "1996",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1997-copa-do-brasil",
+    "anio": "1997",
+    "torneo": "Copa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1998-copa-do-brasil",
+    "anio": "1998",
+    "torneo": "Copa do Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1999-copa-do-brasil",
+    "anio": "1999",
+    "torneo": "Copa do Brasil",
+    "campeon": "Juventude",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/juventude/Juventude_SC.webp"
+  },
+  {
+    "id": "2000-copa-do-brasil",
+    "anio": "2000",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2001-copa-do-brasil",
+    "anio": "2001",
+    "torneo": "Copa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2002-copa-do-brasil",
+    "anio": "2002",
+    "torneo": "Copa do Brasil",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2003-copa-do-brasil",
+    "anio": "2003",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2004-copa-do-brasil",
+    "anio": "2004",
+    "torneo": "Copa do Brasil",
+    "campeon": "Santo André",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/santo-andre/SantoAndr%253F.webp"
+  },
+  {
+    "id": "2005-copa-do-brasil",
+    "anio": "2005",
+    "torneo": "Copa do Brasil",
+    "campeon": "Paulista",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/paulista/Paulista-FC-2003.webp"
+  },
+  {
+    "id": "2006-copa-do-brasil",
+    "anio": "2006",
+    "torneo": "Copa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2007-copa-do-brasil",
+    "anio": "2007",
+    "torneo": "Copa do Brasil",
+    "campeon": "Fluminense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2008-copa-do-brasil",
+    "anio": "2008",
+    "torneo": "Copa do Brasil",
+    "campeon": "Sport Recife",
+    "tabla_posiciones": [],
+    "escudo_historico": "/escudos/brasil/sport-recife/Sport-2008.webp"
+  },
+  {
+    "id": "2009-copa-do-brasil",
+    "anio": "2009",
+    "torneo": "Copa do Brasil",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2010-copa-do-brasil",
+    "anio": "2010",
+    "torneo": "Copa do Brasil",
+    "campeon": "Santos",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2011-copa-do-brasil",
+    "anio": "2011",
+    "torneo": "Copa do Brasil",
+    "campeon": "Vasco da Gama",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2012-copa-do-brasil",
+    "anio": "2012",
+    "torneo": "Copa do Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2013-copa-do-brasil",
+    "anio": "2013",
+    "torneo": "Copa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2014-copa-do-brasil",
+    "anio": "2014",
+    "torneo": "Copa do Brasil",
+    "campeon": "Atlético Mineiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2015-copa-do-brasil",
+    "anio": "2015",
+    "torneo": "Copa do Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2016-copa-do-brasil",
+    "anio": "2016",
+    "torneo": "Copa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2017-copa-do-brasil",
+    "anio": "2017",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2018-copa-do-brasil",
+    "anio": "2018",
+    "torneo": "Copa do Brasil",
+    "campeon": "Cruzeiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2019-copa-do-brasil",
+    "anio": "2019",
+    "torneo": "Copa do Brasil",
+    "campeon": "Athletico Paranaense",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2020-copa-do-brasil",
+    "anio": "2020",
+    "torneo": "Copa do Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2021-copa-do-brasil",
+    "anio": "2021",
+    "torneo": "Copa do Brasil",
+    "campeon": "Atlético Mineiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2022-copa-do-brasil",
+    "anio": "2022",
+    "torneo": "Copa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2023-copa-do-brasil",
+    "anio": "2023",
+    "torneo": "Copa do Brasil",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2024-copa-do-brasil",
+    "anio": "2024",
+    "torneo": "Copa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2025-copa-do-brasil",
+    "anio": "2025",
+    "torneo": "Copa do Brasil",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1990-supercopa",
+    "anio": "1990",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Grêmio",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "1991-supercopa",
+    "anio": "1991",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Corinthians",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2020-supercopa",
+    "anio": "2020",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2021-supercopa",
+    "anio": "2021",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2022-supercopa",
+    "anio": "2022",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Atlético Mineiro",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2023-supercopa",
+    "anio": "2023",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Palmeiras",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2024-supercopa",
+    "anio": "2024",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "São Paulo",
+    "tabla_posiciones": []
+  },
+  {
+    "id": "2025-supercopa",
+    "anio": "2025",
+    "torneo": "Supercopa do Brasil",
+    "campeon": "Flamengo",
+    "tabla_posiciones": []
+  }
+]

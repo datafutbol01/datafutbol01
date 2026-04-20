@@ -6,47 +6,386 @@
     "sigla": "SEP",
     "fundacion": "26 de agosto de 1914",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 182000,
+    "descripcion_corta": "Entidad deportiva paulista originada en 1914 por inmigrantes italianos bajo el nombre de Palestra Italia. Es históricamente el club con más cantidad de títulos de liga nacional en Primera División de Brasil.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#006437"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Heitor Marcelino Domingues (323 goles)",
+      "mas_presencias": "Ademir da Guia (902 partidos)",
+      "mayor_goleada": "11-0 vs Internacional-SP (1930)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/palmeiras/logo.png"
+    "escudo_actual": "/escudos/brasil/palmeiras/Palmeiras-2018-actual.webp",
+    "apodos": [
+      "Verdão",
+      "Alviverde",
+      "Porco"
+    ]
   },
   "historia": [
     {
       "ano": "1914",
-      "hito": "Fundación como Società Sportiva Palestra Italia",
-      "desc": "El 26 de agosto de 1914, un grupo de inmigrantes italianos reunidos en el Salão Alhambra de la Rua Marechal Deodoro en São Paulo fundó la Società Sportiva Palestra Italia, adoptando en sus estatutos los colores verde, blanco y rojo. El club disputó su primer partido el 24 de enero de 1915 venciendo 2-0 a Savoia de Votorantim con goles anotados por Bianco y Alegretti. Debido a los decretos gubernamentales de la Segunda Guerra Mundial que prohibían el uso territorial de nombres vinculados al Eje, el club modificó su nombre a Palestra de São Paulo el 11 de marzo de 1942. El 14 de septiembre del mismo año se oficializó la denominación permanente Sociedade Esportiva Palmeiras y se eliminó por estatuto el color rojo. El 20 de septiembre disputaron el primer partido bajo el nombre de Palmeiras venciendo 3-1 a São Paulo Futebol Clube con goles de Cláudio, Del Nero y Echevarrieta."
+      "hito": "Asamblea Fundacional: La Società Sportiva Palestra Italia",
+      "desc": "Convocados socialmente en respuesta a la densidad demográfica de la migración italiana en São Paulo, los obreros empleados por las Industrias Matarazzo —Luigi Cervo, Vincenzo Ragognetti, Luigi Emanuele Marzo y Ezequiel Simone— formalizaron organizativamente el 26 de agosto de 1914 la creación de la Società Sportiva Palestra Italia. El proceso legal se rubricó en una asamblea ocurrida en el salón físico de eventos de la antigua Plaza del Patriarca (Salón Alhambra). Los dirigentes dictaminaron instituir sus primeros blasones, estandartes y uniformes adoptando de manera íntegra y fidedigna la colorimetría de la bandera nacional itálica, arrojando el registro en paños francos de tonos verde, blanco, y rojo."
+    },
+    {
+      "ano": "1942",
+      "hito": "Nacionalización Institucional: Nace la SE Palmeiras",
+      "desc": "Ante las derivaciones formales originadas en el avance de la Segunda Guerra Mundial, el régimen estatal de Getúlio Vargas decretó nacionalmente en 1942 la prohibición estricta del uso civil e institucional de nombres o menciones vinculados a los Países del Eje en todo el territorio brasileño. Bajo imposición dictaminada, los estatutos del club se vieron forzados a eliminar términos como 'Italia' del registro, transformando su nomenclatura primeramente a Palestra de São Paulo. El 14 de septiembre de 1942 la junta convocada rubricó la designación definitiva de 'Sociedade Esportiva Palmeiras', eliminando permanentemente el color rojo de sus estandartes de identidad. Semanas después documentaron un triunfo institucional bajo este formato matriculándose como campeones contables de la ronda de 1942 del torneo Paulista."
     },
     {
       "ano": "1951",
-      "hito": "Obtención de la Copa Rio",
-      "desc": "El 22 de julio de 1951, bajo la dirección del entrenador Ventura Cambon, el equipo ganó el torneo internacional Copa Rio. Durante la fase de grupos disputada en el Estadio Pacaembu, el equipo clasificó frente a Nacional de Uruguay, Niza de Francia y Estrella Roja de Belgrado. Tras superar la eliminatoria de semifinales frente a Vasco da Gama (2-1 en la ida y 0-0 en la vuelta), definieron el título frente a Juventus de Turín. El 18 de julio ganaron el partido de ida 1-0 con un gol marcado por el atacante Rodrigues en el minuto 20. El 22 de julio, frente a 100.093 espectadores en el Estadio Maracanã y utilizando arquero titular a Fábio Crippa, el club empató el partido 2-2 con un gol definitorio anotado por Liminha en el minuto 77."
+      "hito": "Campeones del Torneo Precursor de Rango Mundial",
+      "desc": "Con el objetivo formal de revitalizar el tejido anímico social originado tras las deserciones numéricas originadas del desenlace local trágico sucedido en la sede organizadora del Mundial 1950, la red metropolitana estatal y municipal organizó conjuntamente el trofeo de carácter continental interoceánico conocido como la Copa Rio de 1951. Dicha matriz internacional en formato corto fue sancionada invitando a jerarquías futbolísticas variadas. Posteriormente y tras abultar clasificaciones, SE Palmeiras accedió contablemente a determinar una resolución definitiva enfrentando a Juventus de Italia. El elenco paulista registró para sus líneas un resultado a favor de 1-0 obtenido la jornada documentada del 18 de julio. Un empate de tableros formalizado 2-2 en la gran jornada posterior selló una asamblea celebratoria de proporciones pioneras."
     },
     {
-      "ano": "1972",
-      "hito": "Quinto Campeonato Brasileño Oficial",
-      "desc": "El 23 de diciembre de 1972, supervisados estadísticamente por el entrenador Oswaldo Brandão, el plantel ganó el Campeonato Brasileño de Serie A agregando el quinto título nacional para el club. El equipo lideró un torneo de 30 jornadas acumulando 42 puntos a partir de 16 victorias, 10 empates, 4 derrotas y 46 goles a favor, consolidando un esquema titular donde Ademir da Guia disputó exactamente 29 partidos oficiales. La jornada final del campeonato enfrentó a Palmeiras y Botafogo en el Estadio Morumbi ante 58.287 espectadores, y contó con el arbitraje de Arnaldo Cezar Coelho. El empate 0-0 de dicho partido adjudicó de forma matemática el título a Palmeiras acatando la regla deportiva que consagraba campeón al equipo posicionado con mayor cantidad de puntos de la fase regular."
+      "ano": "1993-1994",
+      "hito": "La Inversión Formal y Consolidación Táctica del Brasileirão",
+      "desc": "Consolidando uno de los pactos corporativos mercantiles privados más determinantes formulado de manera oficial con el patrocinio originado de la filial láctea Parmalat a partir del inicio contable de 1992, la delegación resolvió una etapa logística formalizando una serie de traspasos determinantes elevando presupuestos a límites de máxima competitividad. Saneados financieramente y promoviendo fichas operativas del calibre de Edmundo y Mazinho, junto a Rivaldo y Roberto Carlos paulatinamente integrados, coronaron el balance de esas juntas ganando escalonadamente el doblet estadístico estricto arrojando las ligas del Campeonato Brasileño durante 1993 y 1994 y arrollando tableros de manera hegemónica nacional."
     },
     {
       "ano": "1999",
-      "hito": "Primera Copa Libertadores de América",
-      "desc": "El 16 de junio de 1999, la plantilla conformada operativamente por Luiz Felipe Scolari ganó la Copa Libertadores frente a Deportivo Cali tras haber eliminado en series anteriores a River Plate de Argentina por un marcador global de 3-1. El 2 de junio perdieron 1-0 el partido de ida jugado ante la presencia de 37.000 espectadores en el Estadio Pascual Guerrero de Colombia. El 16 de junio, frente al registro estadístico de 32.000 asistentes físicos en el Estadio Palestra Itália, ganaron el partido de vuelta 2-1 con un gol de Evair de penal a los 65 minutos y de Oséas en el minuto 76. En la tanda deportiva por penales ganaron 4-3 concretando los remates de Júnior Baiano, Roque Júnior, Rogério y Euller, luego de que el colombiano Martín Zapata enviara su penal desviado."
-    },
-    {
-      "ano": "2020-2021",
-      "hito": "Bicampeonato de Copa Libertadores",
-      "desc": "Bajo la administración táctica y técnica del entrenador Abel Ferreira, el equipo ganó dos torneos continentales consecutivos dentro de un rango estadístico de diez meses. El 30 de enero de 2021, la edición 2020 se definió operando en el Estadio Maracanã con aforo reducido de 5.000 asistentes, obteniendo la victoria por 1-0 sobre Santos Futebol Clube luego de un pase aéreo de Rony conectado de cabeza por el delantero Breno Lopes en el minuto 99. Exactamente el 27 de noviembre de 2021, Palmeiras superó a Flamengo coronando la edición 2021 disputada en el Estadio Centenario de Montevideo frente a 55.000 espectadores. El encuentro arrojó una victoria de 2-1 mediante las anotaciones directas de Raphael Veiga al minuto 5 y del atacante Deyverson durante la prórroga en el minuto 95."
+      "hito": "Conquista Inicial Definitiva de la Copa Libertadores",
+      "desc": "Bajo la orden directiva en logística del riguroso esquema conducido por el estratega técnico Luiz Felipe Scolari, el grupo formalizó un avance mecánico durante las llaves eliminatorias definitivas de la Copa Libertadores oficial correspondiente al registro anual de 1999, fijándose un reto conclusivo ante Deportivo Cali originario del país de Colombia. Tras registrar perdiendo 1-0 formalmente el cronometraje en la contienda de visitante programada para la etapa inaugural determinista formal en el continente, lograron volcar numéricamente en su favor rematando la etapa como local en campos del Palestra Italia fijándose el encuentro de 16 de junio, la plantilla logró emparejar numéricamente el escenario total y abrochando corona final venciendo cruzado la marca de 4 a 3 ejecutada matemáticamente mediante un bloque de penales con cierre forzado definitivo tras yerro cruzado determinando adjudicarse de copa continental."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio Palestra Italia (Parque Antarctica)",
+      "direccion": "R. Turiaçu, 1840 - Perdizes, São Paulo - SP",
+      "desde": 1917,
+      "hasta": 2010,
+      "estado": "Histórico",
+      "obs": "Mítico parque corporativo de exhibición comprado territorialmente a los operarios dependientes vinculados y consolidados operativamente a la fábrica manufacturera del hielo de Companhia Antarctica Paulista durante una operación tasada en la zona metropolitana contable de 1920. El campo histórico de los éxitos de los años 90 cerró operaciones para la gran obra de infraestructura originada de demolición de cara al Mundial de 2014.",
+      "lat": -23.5275,
+      "lng": -46.678,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780"
+    },
+    {
+      "nombre": "Allianz Parque (Arena Palestra Italia)",
+      "direccion": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo - SP, 05001-200",
+      "desde": 2014,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto vanguardista contable multipropósito amonedado exactamente demarcando el lote dimensional histórico. Registrando su uso cedido temporalmente el patrocinio operativo oficial determinó su rúbrica al conglomerado de finanzas de seguros para rotularse Allianz.",
+      "lat": -23.5275,
+      "lng": -46.678,
+      "url": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Copa Rio Internacional",
+      "anios": [
+        "1951"
+      ]
+    },
+    {
+      "n": 3,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1999",
+        "2020",
+        "2021"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "2022"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Mercosur",
+      "anios": [
+        "1998"
+      ]
+    },
+    {
+      "n": 12,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1960",
+        "1967 (Taça)",
+        "1967 (Robertão)",
+        "1969",
+        "1972",
+        "1973",
+        "1993",
+        "1994",
+        "2016",
+        "2018",
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "n": 4,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "1998",
+        "2012",
+        "2015",
+        "2020"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Supercopa de Brasil",
+      "anios": [
+        "2023"
+      ]
+    },
+    {
+      "n": 26,
+      "comp": "Campeonato Paulista",
+      "anios": [
+        "1920",
+        "1926",
+        "1927",
+        "1932",
+        "1933",
+        "1934",
+        "1936",
+        "1940",
+        "1942",
+        "1944",
+        "1947",
+        "1950",
+        "1959",
+        "1963",
+        "1966",
+        "1972",
+        "1974",
+        "1976",
+        "1993",
+        "1994",
+        "1996",
+        "2008",
+        "2020",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1914",
+      "hasta": "1942",
+      "desc": "Bajo la tutela del anterior Palestra Italia, dominaban las planillas de estatutos usando como primer uniforme matriculado la camisa totalmente verde acompañada del pantalón tejido de color blanco total y calcetines colorados.",
+      "tipo": "",
+      "c1": "#008800",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#cc0000"
+    },
+    {
+      "desde": "1942",
+      "hasta": "Presente",
+      "desc": "Atendiéndose al registro obligatorio nacional en las liguillas locales, fue prohibido legalmente cualquier aditamento italiano procediendo el organismo a suprimir el color rojo e implantando el blanco en el verde actual general para todos su ropajes.",
+      "tipo": "",
+      "c1": "#008800",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#008800"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Ademir da Guia",
+      "apodo": "El Divino",
+      "epoca": "1961-1977",
+      "desc": "El mayor ícono estatuario de la historia alviverde. Mediocampista de elegancia insuperable, comandó la gloriosa 'Academia' que logró desbancar a nivel táctico al mismísimo Santos de Pelé."
+    },
+    {
+      "nombre": "Marcos Roberto Silveira Reis",
+      "apodo": "São Marcos",
+      "epoca": "1992-2012",
+      "desc": "Santo patrón del arco palmeirense y leyenda de lealtad extrema. Sus atajadas milagrosas forjaron la obtención heroica de la Copa Libertadores en la temporada del 99."
+    },
+    {
+      "nombre": "Olegário Tolói de Oliveira",
+      "apodo": "Dudu",
+      "epoca": "1964-1976",
+      "desc": "El corazón y motor incansable del medio campo durante la era de la 'Academia', formando una de las duplas más equilibradas y contundentes de la historia brasileña junto al Divino Ademir."
+    },
+    {
+      "nombre": "Edmundo Alves de Souza Neto",
+      "apodo": "El Animal",
+      "epoca": "1993-1995",
+      "desc": "Delantero letal, temperamental y técnicamente sobrenatural. Su potencia explosiva lo convirtió en el referente absoluto del arrollador bicampeonato paulista y brasileño forjado a mediados de los noventa."
+    },
+    {
+      "nombre": "Eduardo Pereira Rodrigues",
+      "apodo": "Dudu",
+      "epoca": "2015-2024",
+      "desc": "Ídolo representativo de la época dorada contemporánea. Extremo incisivo, generó con su constancia decenas de desbordes que resultaron directamente en cuatro ligas brasileñas e in trofeos cimentados en el Allianz Parque."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Heitor Marcelino Domingues",
+      "goles": 323,
+      "epoca": "1916-1931",
+      "apodo": "Heitor"
+    },
+    {
+      "nombre": "César Augusto da Silva Lemos",
+      "goles": 182,
+      "epoca": "1967-1974",
+      "apodo": "César Maluco"
+    },
+    {
+      "nombre": "Ademir da Guia",
+      "goles": 155,
+      "epoca": "1961-1977",
+      "apodo": "El Divino"
+    },
+    {
+      "nombre": "Eduardo Lima",
+      "goles": 148,
+      "epoca": "1938-1954",
+      "apodo": "Lima"
+    },
+    {
+      "nombre": "Servílio de Jesus",
+      "goles": 139,
+      "epoca": "1963-1968",
+      "apodo": "Servílio"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Ademir da Guia",
+      "partidos": 902,
+      "epoca": "1961-1977",
+      "apodo": "El Divino"
+    },
+    {
+      "nombre": "Émerson Leão",
+      "partidos": 621,
+      "epoca": "1969-1978",
+      "apodo": "Leão"
+    },
+    {
+      "nombre": "Olegário Tolói de Oliveira",
+      "partidos": 615,
+      "epoca": "1964-1976",
+      "apodo": "Dudu"
+    },
+    {
+      "nombre": "Waldemar Fiume",
+      "partidos": 601,
+      "epoca": "1941-1958",
+      "apodo": "O Pai da Bola"
+    },
+    {
+      "nombre": "Marcos Roberto Silveira Reis",
+      "partidos": 533,
+      "epoca": "1992-2012",
+      "apodo": "São Marcos"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Porco",
+      "origen": "Sus raíces datan de un conflicto de 1969, cuando Corinthians requirió fichar a dos jugadores de emergencia tras un accidente vial de sus futbolistas y la directiva de Palmeiras rechazó la solicitud. En respuesta, directivos rivales etiquetaron a Palmeiras de 'cerdos'. En 1986, el director de marketing palmeirense João Roberto Gobbato promovió la asimilación del mote, logrando que la afición adoptara un cerdo de mascota para anular publicamente el insulto."
+    },
+    {
+      "apodo": "A Academia",
+      "origen": "Acuñado en las décadas de 1960 y 1970 por los analistas deportivos. Refería específicamente al estilo de juego ordenado y de pases cortos mostrado por el mediocampo de Palmeiras (liderado por Ademir da Guia) que logró disputarle títulos al Santos de Pelé. Los periodistas definían que el plantel impartía lecciones de disciplina táctica y técnica comparable a una academia de formación superior."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1914",
+      "hasta": "1916",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1914-1916.webp"
+    },
+    {
+      "desde": "1916",
+      "hasta": "1917",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1916-1917.webp"
+    },
+    {
+      "desde": "1917",
+      "hasta": "1918",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1917-1918.webp"
+    },
+    {
+      "desde": "1918",
+      "hasta": "1938",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1918-1938.webp"
+    },
+    {
+      "desde": "1938",
+      "hasta": "1940",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1938-1940.webp"
+    },
+    {
+      "desde": "1940",
+      "hasta": "1942",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1940-1942.webp"
+    },
+    {
+      "desde": "1942",
+      "hasta": "1951",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1942-1951.webp"
+    },
+    {
+      "desde": "1951",
+      "hasta": "1959",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1951-1959.webp"
+    },
+    {
+      "desde": "1959",
+      "hasta": "1969",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1959-1969.webp"
+    },
+    {
+      "desde": "1969",
+      "hasta": "1973",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1969-1973.webp"
+    },
+    {
+      "desde": "1973",
+      "hasta": "1989",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1973-1989.webp"
+    },
+    {
+      "desde": "1989",
+      "hasta": "1993",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1989-1993.webp"
+    },
+    {
+      "desde": "1999",
+      "hasta": "2012",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-1999-2012.webp"
+    },
+    {
+      "desde": "2012",
+      "hasta": "2018",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras2012-2018.webp"
+    },
+    {
+      "desde": "2018",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/palmeiras/Palmeiras-2018-actual.webp"
+    }
+  ],
   "h2h": {
     "corinthians": {
       "pj": 1,

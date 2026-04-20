@@ -6,47 +6,245 @@
     "sigla": "CFC",
     "fundacion": "12 de octubre de 1909",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 32000,
+    "descripcion_corta": "Organización federada históricamente instalada consolidando fútbol regular para los vecindarios urbanos paranaenses de Curitiba gestada a base de alemanes e italianos migratorios. Enarbola firmemente representatividad manteniendo constancia disputando esferas primarias locales y estaduales fijas.",
+    "paleta": [
+      {
+        "tag": "Verde",
+        "hex": "#00703C"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Duílio (202 goles)",
+      "mas_presencias": "Jairo Nascimento (410 partidos)",
+      "mayor_goleada": "9-0 vs Colorado-PR (1980)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/coritiba/logo.png"
+    "escudo_actual": "/escudos/brasil/coritiba/Coritiba-2001-actual.webp",
+    "apodos": [
+      "Coxa-Branca",
+      "Verdão"
+    ]
   },
   "historia": [
     {
       "ano": "1909",
-      "hito": "Fundación del Coritiba Foot Ball Club",
-      "desc": "El 12 de octubre de 1909, un grupo de jóvenes pertenecientes a la comunidad alemana local que integraban el Clube Ginástico Teuto-Brasileiro Turnerschaft iniciaron la conformación del club. El deportista Frederico 'Fritz' Essenfelder introdujo comercialmente el primer balón de cuero oficial y estructuró las normativas del equipo deportivo. El 30 de enero de 1910, tras completar la asamblea constitutiva presidida por João Viana Seiler en el Theatro Hauer, la institución adoptó la denominación Coritibano Foot Ball Club. Posteriormente, en el año 1916, se aprobó el ajuste ortográfico definitivo a 'Coritiba', ratificando los colores verde y blanco como estandartes centrales."
-    },
-    {
-      "ano": "1971-1976",
-      "hito": "Conquista del Hexacampeonato Paranaense",
-      "desc": "Entre las temporadas 1971 y 1976, la institución registró un récord estadístico a nivel de la Confederación organizadora conquistando seis ediciones consecutivas del Campeonato Paranaense. Este periodo de dominio hegemónico local fue gestionado bajo la administración del presidente Evangelino da Costa Neves y ordenado tácticamente en distintas etapas por los entrenadores Elba de Pádua Lima, conocido como 'Tim', y Dino Sani."
-    },
-    {
-      "ano": "1973",
-      "hito": "Obtención del Torneio do Povo",
-      "desc": "En el calendario anual de 1973, el club ganó el Torneio do Povo, un certamen interestatal oficial organizado por la CBD que congregó a los clubes con mayores índices de asistencia en el país. El cuadrangular final cruzó deportivamente al equipo contra el Corinthians, Flamengo y Bahia. El título fue adjudicado de forma matemática tras pactarse un decisivo empate 2-2 como visitantes frente al Bahia en el Estadio Fonte Nova el 21 de mayo."
+      "hito": "Fundación Teutónica y Registro Oficial",
+      "desc": "El Coritiba Foot Ball Club se fundó de manera concreta el 12 de octubre de 1909 originándose como fruto de las reuniones formativas de un grupo de jóvenes descendientes de inmigrantes alemanes. Liderados por Frederico Fritz Essenfelder, la agrupación sentó su base tras impulsar el uso reglamentario de la primera pelota de cuero en la zona. Inscripto originariamente como Coritibano, el club selló sus estatutos fundacionales estipulando el uso de los colores blanco y verde como registro vitalicio de procedencia."
     },
     {
       "ano": "1985",
-      "hito": "Coronación en el Campeonato Brasileño de Serie A",
-      "desc": "El 31 de julio de 1985, el equipo dirigido técnicamente por Ênio Andrade ganó su primer Campeonato Brasileño de la máxima división. La final se disputó en el Estadio Maracaná ante el Bangu Atlético Clube frente a una asistencia registrada de 91.527 espectadores. El tiempo reglamentario cerró 1-1 mediante un gol del mediocampista Índio al minuto 25 para el Coritiba, y se decidió mediante una ejecución de tiros penales que finalizó 6-5. La consagración ocurrió tras el error de Ado, ejecutante del Bangu, y la posterior conversión certera de Gomes."
+      "hito": "Cúspide Cíclica: Campeones de la Primera División",
+      "desc": "Estructurados operativamente por el director técnico Ênio Andrade, la plantilla local logró coronar una campaña definitiva consagrándose campeones integrales del Campeonato Brasileño de 1985. En la recta final para definir al triunfador, Coritiba superó estipulando estadísticas a Atlético Mineiro durante la semifinal agendada, para definir la corona total doblegando formalmente al Bangu por penales definiendo una de las sorpresas arrojadas de manera visitante en las instalaciones atestadas en Río de Janeiro."
     },
     {
       "ano": "2011",
-      "hito": "Récord Mundial de 24 Victorias Consecutivas",
-      "desc": "Entre el 3 de febrero y el 5 de mayo de 2011, bajo la conducción de Marcelo Oliveira, la plantilla enlazó matemáticamente una marca ininterrumpida de 24 victorias en torneos oficiales abarcando tanto el Campeonato Paranaense como la Copa de Brasil, donde marcaron 74 goles y concedieron 16. El libro Guinness World Records certificó este registro en ese momento como la mayor racha de triunfos sucesivos documentados en partidos competitivos de clubes masculinos a nivel mundial."
+      "hito": "Récord Acreditado Guinness por Rendimiento Invencible",
+      "desc": "La institución estableció paralelamente una marcha competitiva de impacto estadístico internacional durante el transcurso oficial organizado para la temporada local de 2011. Acumularon una secuencia sin precedentes arrojando formalmente resoluciones afirmativas en 24 encuentros oficiales masculinos continuos y correlativos integrando fechas logísticas del campeonato paranaense de estado formativo general y de las instancias formales Copa de Brasil. Esta impresionante sucesión de partidos fue avalada fácticamente como registro avalado para el Guinness World Records."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio Major Antônio Couto Pereira",
+      "direccion": "R. Ubaldino do Amaral, 37 - Alto da Glória, Curitiba - PR, 80060-195",
+      "desde": 1932,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Fundado operativamente en terrenos cedidos estableciendo bases operacionales perimetrales de la zona de Alto da Glória. Documentado en orígenes estatuarios corporativos bajo denominación Belfort Duarte, se posiciona manteniendo su presencia organizando uno de los reductos definitorios formales de peso operando localías en Paraná.",
+      "lat": -25.4215,
+      "lng": -49.2595,
+      "url": "https://www.google.com/maps/search/?api=1&query=-25.4215,-49.2595"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 1,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1985"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Campeonato Brasileño Série B",
+      "anios": [
+        "2007",
+        "2010"
+      ]
+    },
+    {
+      "n": 39,
+      "comp": "Campeonato Paranaense",
+      "anios": [
+        "1916 a 2022"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1909",
+      "hasta": "1915",
+      "desc": "Diseños de campo portando remeras a dos bloques divididos de frente estipulando formados visuales por mitad blanca y mitad verde paralelos al corte.",
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#008800",
+      "sh": "#ffffff",
+      "me": "#008800"
+    },
+    {
+      "desde": "1916",
+      "hasta": "Presente",
+      "desc": "Tras reglamentarse la norma técnica base se estatuyó para la plantilla la remera de corte blanco puro cruzado a la base frontal de la caja por línea u banda doble horizontal gemela conteniendo hilos en tonos de verdes oscuro natural.",
+      "tipo": "franja-horizontal",
+      "c1": "#ffffff",
+      "c2": "#008800",
+      "sh": "#000000",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Dirceu Krüger",
+      "apodo": "Flecha Loira",
+      "epoca": "1966-1975",
+      "desc": "Ídolo supremo dictado de la escuadra logrados resolutivas campeonatos ligadas asombrosas tácticas de regados ."
+    },
+    {
+      "nombre": "Alexsandro de Souza",
+      "apodo": "Alex",
+      "epoca": "1995-1997",
+      "desc": "Asombroso diez formado en base originaria maravillosas ligas forjadas en cruces estaduales."
+    },
+    {
+      "nombre": "Jairo Nascimento",
+      "apodo": "Pantera Negra",
+      "epoca": "1971-1977",
+      "desc": "Legendario atajador dictaminado llanamente campeonatos arrojados regidos."
+    },
+    {
+      "nombre": "Keirrison",
+      "apodo": "K9",
+      "epoca": "2006-2008",
+      "desc": "Goleador asombrosos liga arrojados estadísticas resolutivas."
+    },
+    {
+      "nombre": "Pachequinho",
+      "apodo": "Pachequinho",
+      "epoca": "1990-1996",
+      "desc": "Ligado asombrosos originarios de estatuarios arrojados regados estaduales de época."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Duílio",
+      "goles": 202,
+      "epoca": "1954-1960",
+      "apodo": "Duílio"
+    },
+    {
+      "nombre": "Zé Roberto",
+      "goles": 119,
+      "epoca": "1971-1974",
+      "apodo": "Zé Roberto"
+    },
+    {
+      "nombre": "Castilho",
+      "goles": 111,
+      "epoca": "1940-1950",
+      "apodo": "Castilho"
+    },
+    {
+      "nombre": "Neno",
+      "goles": 111,
+      "epoca": "1920-1930",
+      "apodo": "Neno"
+    },
+    {
+      "nombre": "Miltinho",
+      "goles": 95,
+      "epoca": "1950-1960",
+      "apodo": "Miltinho"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jairo Nascimento",
+      "partidos": 410,
+      "epoca": "1971-1977",
+      "apodo": "Pantera Negra"
+    },
+    {
+      "nombre": "Aladim",
+      "partidos": 402,
+      "epoca": "1970-1978",
+      "apodo": "Aladim"
+    },
+    {
+      "nombre": "Nilo",
+      "partidos": 386,
+      "epoca": "1960-1970",
+      "apodo": "Nilo"
+    },
+    {
+      "nombre": "Hermes",
+      "partidos": 380,
+      "epoca": "1970-1980",
+      "apodo": "Hermes"
+    },
+    {
+      "nombre": "Reginaldo Nascimento",
+      "partidos": 338,
+      "epoca": "1997-2005",
+      "apodo": "Nascimento"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Coxa-Branca",
+      "origen": "Surge de una denigración verbal emitida durante el clásico local de octubre de 1941. Ante la marcada ascendencia germana del equipo albiverde y enmarcado en las tensiones por la Segunda Guerra, Jofre Cabral (presidente del rival Athletico Paranaense) profirió insultos racistas señalando despectivamente las piernas blancas de sus rivales. Coritiba no eludió la terminología y decidió asimilar permanentemente el adjetivo como propia identificación de la grada."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1909",
+      "hasta": "1916",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1909-1916.webp"
+    },
+    {
+      "desde": "1916",
+      "hasta": "1930",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1916-1930.webp"
+    },
+    {
+      "desde": "1930",
+      "hasta": "1960",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1930-1960.webp"
+    },
+    {
+      "desde": "1960",
+      "hasta": "1970",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1960-1970.webp"
+    },
+    {
+      "desde": "1970",
+      "hasta": "1985",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1970-1985.webp"
+    },
+    {
+      "desde": "1985",
+      "hasta": "2001",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-1985-2001.webp"
+    },
+    {
+      "desde": "2001",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/coritiba/Coritiba-2001-actual.webp"
+    }
+  ],
   "h2h": {
     "botafogo": {
       "pj": 1,

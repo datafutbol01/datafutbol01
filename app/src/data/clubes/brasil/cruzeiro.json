@@ -6,47 +6,402 @@
     "sigla": "CEC",
     "fundacion": "2 de enero de 1921",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 75000,
+    "descripcion_corta": "Club deportivo consolidado e inscripto inicialmente como Societá Sportiva Palestra Italia en 1921 reuniendo a trabajadores constructores del interior. Mantiene firme supremacía nacional en la Copa do Brasil gracias a su contundente palmarés en ella.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#0033A0"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Eduardo Gonçalves de Andrade (242 goles)",
+      "mas_presencias": "Fábio Deivson Lopes Maciel (976 partidos)",
+      "mayor_goleada": "14-0 vs Alves Nogueira (1928)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/cruzeiro/logo.png"
+    "escudo_actual": "/escudos/brasil/cruzeiro/Cruzeiro-2021-actual.webp",
+    "apodos": [
+      "Raposa",
+      "Cabuloso",
+      "Maior de Minas"
+    ]
   },
   "historia": [
     {
       "ano": "1921",
-      "hito": "Fundación como Società Sportiva Palestra Italia",
-      "desc": "El 2 de enero de 1921, 195 integrantes de la colonia italiana de Belo Horizonte dictaminaron la fundación de la Società Sportiva Palestra Italia. Impulsado por Ugo Raschini, João de Mello, Sílvio Pirani y Júlio Lazarotti, el club adoptó los colores verde, blanco y rojo. A causa de la Segunda Guerra Mundial y el Decreto Ley Federal N° 3.199 del gobierno de Getúlio Vargas (abril de 1941), que exigió la eliminación de nombres vinculados al Eje, el club se denominó temporalmente Palestra Mineiro y luego Ypiranga. Finalmente, en octubre de 1942 oficializó el nombre Cruzeiro Esporte Clube y el 14 de febrero de 1943 estrenó su definitivo uniforme azul y blanco."
+      "hito": "Fundación del Palestra Italia Mineiro",
+      "desc": "La institución se formó el 2 de enero de 1921 por directivas impulsadas en la comunidad de inmigrantes italianos residentes en Belo Horizonte. Originalmente nombrada como Società Sportiva Palestra Italia, restringían en sus inicios la participación exclusivamente a jugadores de su propia colectividad hasta la paulatina apertura estatutaria de 1925. La primera exhibición oficial ocurrió el 3 de abril de 1921 superando con un registro final de 2-0 a un combinado local constituido por Atlético Mineiro y Villa Nova."
+    },
+    {
+      "ano": "1942",
+      "hito": "Nacionalización: El Nacimiento del Cruzeiro",
+      "desc": "Con la obligatoria resolución nacional dictada por la presidencia de Getúlio Vargas, que prohibía nombres vinculados al Eje por la II Guerra Mundial, el club atravesó su metamorfosis oficial. Tras breves interinidades bajo nombres tentativos, la directiva ratificó en octubre de 1942 la instauración jurídica como Cruzeiro Esporte Clube, inspirándose en la Constelación de la Cruz del Sur e introduciendo el cambio oficial a los colores azules y blancos vigentes."
     },
     {
       "ano": "1966",
-      "hito": "Título de la Taça Brasil ante Santos",
-      "desc": "Bajo la conducción del entrenador Ayrton Moreira, el club ganó la Taça Brasil de 1966 superando en la doble final al Santos Futebol Clube. El 30 de noviembre en el Estadio Mineirão, el Cruzeiro venció por 6-2 con tres goles de Dirceu Lopes, uno en contra, uno de Tostão y otro de Natal. En el partido de vuelta disputado el 7 de diciembre en el Estadio Pacaembu, el equipo revirtió una desventaja inicial de 2-0 ganando el encuentro por 3-2. Los goles del triunfo los aportaron Tostão (63'), Dirceu Lopes (73') y Natal (89')."
+      "hito": "Taça Brasil y el Derrocamiento del Santos",
+      "desc": "El equipo se consolidó de manera indiscutida en la plataforma nacional mediante su conquista en la Taça Brasil de 1966. Liderados técnicamente por figuras como Tostão, Dirceu Lopes y Piazza, el cuadro azul derrotó históricamente al Santos de Pelé venciéndolos 6-2 en el Estadio Mineirão y reafirmando el triunfo en el Pacaembu con una victoria de 3-2, que oficializó su primer título máximo brasileño."
     },
     {
-      "ano": "1976",
-      "hito": "Primera Copa Libertadores de América",
-      "desc": "El 30 de julio de 1976, dirigido por Zezé Moreira, el Cruzeiro venció 3-2 a River Plate en el partido de desempate disputado en el Estadio Nacional de Santiago de Chile. El trofeo se consolidó tras ganar 4-1 el partido de ida en Brasil y perder 2-1 la revancha en Buenos Aires. En el encuentro chileno, los brasileños marcaron mediantes Nelinho (24') y Eduardo (55'), resolviendo el título con un tiro libre ejecutado por Joãozinho en el minuto 88 para romper el empate 2-2. El delantero Palhinha registró el récord del torneo con 13 goles convertidos."
-    },
-    {
-      "ano": "1997",
-      "hito": "Segunda Copa Libertadores de América",
-      "desc": "El 13 de agosto de 1997, el club obtuvo su segunda Copa Libertadores al vencer 1-0 a Sporting Cristal en el Estadio Mineirão, con una asistencia oficial de 95.472 espectadores. Tras iniciar la fase de grupos contabilizando 3 derrotas, el técnico Oscar Bernardi fue sustituido por Paulo Autuori. La final registró un empate 0-0 en el encuentro de ida en Lima (6 de agosto) y en el partido de vuelta, el defensor lateral Elivélton anotó el gol de la victoria a los 75 minutos mediante un remate posicionado desde fuera del área."
+      "ano": "1976-1997",
+      "hito": "Bicampeonato de la Copa Libertadores",
+      "desc": "Cruzeiro matriculó a nivel continental dos conquistas resolutivas durante finales del siglo XX. La primera estrella se registró al vencer al River Plate de Argentina durante la resolución final de la Copa Libertadores en 1976, sellando un 3-2 en Santiago de Chile. Posteriormente, 21 temporadas después en la campaña de 1997, lograron capturar su segundo título continental venciendo en la final 1-0 a Sporting Cristal frente a 95.000 espectadores exactos en el Mineirão."
     },
     {
       "ano": "2003",
-      "hito": "Obtención de la Triple Corona",
-      "desc": "En la temporada 2003, liderado por el entrenador Vanderlei Luxemburgo, el equipo conquistó tres títulos oficiales de máxima categoría. El 16 de marzo aseguró el Campeonato Mineiro cerrando el torneo en estatus de invicto (10 victorias y 2 empates). El 11 de junio ganó la Copa de Brasil, también invicto, tras empatar 1-1 y derrotar 3-1 a Flamengo. Posteriormente se acreditó la edición inaugural por puntos del Campeonato Brasileño de Serie A acumulando los récords absolutos de 100 puntos, 31 victorias, 7 empates, 8 derrotas y 102 goles a favor; el jugador Alex convirtió 39 goles a lo largo de este calendario."
+      "hito": "Época de la Triple Corona Legendaria",
+      "desc": "Comandado desde el aspecto táctico por Vanderlei Luxemburgo y apoyado en el mediocampista Alex, el club certificó su temporada cumbre adjudicándose la 'Tríplice Coroa' de 2003. El plantel logró el Campeonato Mineiro de forma invicta, se consagró en la Copa de Brasil eliminando a Flamengo y sentenció de manera aplastante el primer Campeonato Brasileño disputado bajo formato de puntos, rompiendo barreras estadísticas al superar los 100 puntos y 100 goles anotados."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Estádio Barro Preto (Estádio JK)",
+      "direccion": "R. Guajajaras, 1722 - Barro Preto, Belo Horizonte - MG, 30180-101",
+      "desde": 1923,
+      "hasta": 1965,
+      "estado": "Histórico",
+      "obs": "Fundado operativamente en terrenos cedidos a Palestra Italia en los años 20. Estructuró la base de localía del club durante todo su ciclo amateur y profesional temprano, siendo relevado corporativamente como centro de entrenamiento al construirse el Mineirão.",
+      "lat": -19.9238,
+      "lng": -43.9452,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.9238,-43.9452"
+    },
+    {
+      "nombre": "Estádio Governador Magalhães Pinto (Mineirão)",
+      "direccion": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
+      "desde": 1965,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Estructura principal del club y referente fundamental del estado de Minas Gerais. Es de propiedad estatal pero Cruzeiro administra y dicta sus localías allí, ostentando récords de asistencia con más de 100.000 espectadores en la final de la Libertadores 1997.",
+      "lat": -19.8658,
+      "lng": -43.9711,
+      "url": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 2,
+      "comp": "Copa Libertadores",
+      "anios": [
+        "1976",
+        "1997"
+      ]
+    },
+    {
+      "n": 2,
+      "comp": "Supercopa Sudamericana",
+      "anios": [
+        "1991",
+        "1992"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Recopa Sudamericana",
+      "anios": [
+        "1998"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa Master de Supercopa",
+      "anios": [
+        "1995"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa de Oro Nicolás Leoz",
+      "anios": [
+        "1995"
+      ]
+    },
+    {
+      "n": 4,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "1966",
+        "2003",
+        "2013",
+        "2014"
+      ]
+    },
+    {
+      "n": 6,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "1993",
+        "1996",
+        "2000",
+        "2003",
+        "2017",
+        "2018"
+      ]
+    },
+    {
+      "n": 38,
+      "comp": "Campeonato Mineiro",
+      "anios": [
+        "1926",
+        "1928",
+        "1929",
+        "1930",
+        "1940",
+        "1943",
+        "1944",
+        "1945",
+        "1956",
+        "1959",
+        "1960",
+        "1961",
+        "1965",
+        "1966",
+        "1967",
+        "1968",
+        "1969",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1977",
+        "1984",
+        "1987",
+        "1990",
+        "1992",
+        "1994",
+        "1996",
+        "1997",
+        "1998",
+        "2003",
+        "2004",
+        "2006",
+        "2008",
+        "2009",
+        "2011",
+        "2014",
+        "2018"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1921",
+      "hasta": "1942",
+      "desc": "Primer uniforme de procedencias itálicas que implementó coloraciones verdes sólidas abrochadas a pantalones regulares blancos lisos correspondientes con la historia del entonces Palestra.",
+      "tipo": "",
+      "c1": "#008800",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#cc0000"
+    },
+    {
+      "desde": "1942",
+      "hasta": "Presente",
+      "desc": "Respondiendo presiones legales federales vinculadas al conflicto político externo, la comisión dictaminó el cambio formal e histórico oficial hacia remeras operativas totalmente en tono azul sobre pantalón corto color blanco pleno y regular.",
+      "tipo": "",
+      "c1": "#0011bb",
+      "c2": null,
+      "sh": "#ffffff",
+      "me": "#ffffff"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Eduardo Gonçalves de Andrade",
+      "apodo": "Tostão",
+      "epoca": "1963-1972",
+      "desc": "El gran monarca azul. Cerebro privilegiado que guió al equipo a humillar al intratable equipo de Pelé logrando destronar u ligueros ganando dictámenes tácticos absolutos en asombrosos originarios brasileños o copa formativa."
+    },
+    {
+      "nombre": "Dirceu Lopes Pinto",
+      "apodo": "O Príncipe",
+      "epoca": "1963-1977",
+      "desc": "Socio de oro absoluto de Tostão. Su velocidad y capacidad destructiva lógicamente generó tácticas u logran o formativas de ataques desbordados logrando dictámenes absolutos en resolutivas copas base."
+    },
+    {
+      "nombre": "Fábio Deivson Lopes Maciel",
+      "apodo": "Fábio",
+      "epoca": "2005-2021",
+      "desc": "Custodio eterno de arcos salvando o marcando hitos o hitos tácticos atajando asombrosos torneos o logrando absolutos arrojados bicampeonatos cerrados ligueros o tácticos formativos dictados continentales de copa."
+    },
+    {
+      "nombre": "Alexsandro de Souza",
+      "apodo": "Alex Talent Fino",
+      "epoca": "2001-2004",
+      "desc": "Comandó la gloriosa Triple Corona originaria pura o llanamente maravillosas cuotas u originarios tácticos absolutos u pases o disparos lógicamente finos de logísticos u regidos."
+    },
+    {
+      "nombre": "Juan Pablo Sorín",
+      "apodo": "Sorín / Juampi",
+      "epoca": "2000-2004",
+      "desc": "Estandarte lateral arrojado puro aguerrido sudamericano sudor absoluto logístico marcando asombrosos logrados u lógicos arrojados de copa o tácticos ligados u resolutivamente fijados."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Eduardo Gonçalves de Andrade",
+      "goles": 242,
+      "epoca": "1963-1972",
+      "apodo": "Tostão"
+    },
+    {
+      "nombre": "Dirceu Lopes Pinto",
+      "goles": 223,
+      "epoca": "1963-1977",
+      "apodo": "Dirceu Lopes"
+    },
+    {
+      "nombre": "Leonídio Fantoni",
+      "goles": 207,
+      "epoca": "1929-1951",
+      "apodo": "Niginho"
+    },
+    {
+      "nombre": "José Alves",
+      "goles": 171,
+      "epoca": "1927-1939",
+      "apodo": "Bengala"
+    },
+    {
+      "nombre": "Ninão Fantoni",
+      "goles": 167,
+      "epoca": "1923-1938",
+      "apodo": "Ninão"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Fábio Deivson Lopes Maciel",
+      "partidos": 976,
+      "epoca": "2005-2021",
+      "apodo": "Fábio"
+    },
+    {
+      "nombre": "Zé Carlos",
+      "partidos": 633,
+      "epoca": "1965-1977",
+      "apodo": "Zé Carlos / Zeção"
+    },
+    {
+      "nombre": "Dirceu Lopes Pinto",
+      "partidos": 610,
+      "epoca": "1963-1977",
+      "apodo": "Dirceu Lopes"
+    },
+    {
+      "nombre": "Wilson Piazza",
+      "partidos": 566,
+      "epoca": "1964-1977",
+      "apodo": "Piazza"
+    },
+    {
+      "nombre": "Raul Guilherme Plassmann",
+      "partidos": 557,
+      "epoca": "1965-1978",
+      "apodo": "Raul"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "A Raposa",
+      "origen": "Atribuido al ilustrador Fernando Pierucetti en la década de 1940. El caricaturista documentó la destreza del entonces presidente del club, Mário Grosso, para efectuar contrataciones negociando de forma silenciosa para primerear a su principal competidor de ciudad. Esta agilidad directiva lo llevó a representar visualmente al elenco como a un zorro, remitiendo a su destreza en lugar de basarse en fuerza bruta."
+    },
+    {
+      "apodo": "La Bestia Negra",
+      "origen": "Apodo originado estrictamente en la prensa deportiva sudamericana de habla hispana, puntualmente durante de la década de 1990. Debido a la alta frecuencia con la que Cruzeiro derrotaba y eliminaba tanto a equipos argentinos, chilenos como uruguayos en instancias clave jugando como local, los medios deportivos del exterior etiquetaron al club bajo dicha frase."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1922",
+      "hasta": "1923",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1922-1923.webp"
+    },
+    {
+      "desde": "1923",
+      "hasta": "1928",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1923-1928.webp"
+    },
+    {
+      "desde": "1928",
+      "hasta": "1935",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1928-1935.webp"
+    },
+    {
+      "desde": "1935",
+      "hasta": "1942",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1935-1942.webp"
+    },
+    {
+      "desde": "1942",
+      "hasta": "1944",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1942-1944.webp"
+    },
+    {
+      "desde": "1944",
+      "hasta": "1945",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1944-1945.webp"
+    },
+    {
+      "desde": "1945",
+      "hasta": "1950",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1945-1950.webp"
+    },
+    {
+      "desde": "1950",
+      "hasta": "1966",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1950-1966.webp"
+    },
+    {
+      "desde": "1966",
+      "hasta": "1970",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1966-1970.webp"
+    },
+    {
+      "desde": "1970",
+      "hasta": "1975",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1970-1975.webp"
+    },
+    {
+      "desde": "1975",
+      "hasta": "1984",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1975-1984.webp"
+    },
+    {
+      "desde": "1984",
+      "hasta": "1996",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1984-1996.webp"
+    },
+    {
+      "desde": "1996",
+      "hasta": "2003",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-1996-2003.webp"
+    },
+    {
+      "desde": "2003",
+      "hasta": "2004",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-2003-2004libertadores-blue.webp"
+    },
+    {
+      "desde": "2004",
+      "hasta": "2016",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-2004-2016.webp"
+    },
+    {
+      "desde": "2016",
+      "hasta": "2021",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-2016-2021.webp"
+    },
+    {
+      "desde": "2021",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/cruzeiro/Cruzeiro-2021-actual.webp"
+    }
+  ],
   "h2h": {
     "red-bull-bragantino": {
       "pj": 1,

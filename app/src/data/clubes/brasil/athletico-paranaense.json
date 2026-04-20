@@ -6,47 +6,322 @@
     "sigla": "CAP",
     "fundacion": "26 de marzo de 1924",
     "apodo": "",
-    "socios": 0,
-    "descripcion_corta": "",
-    "paleta": [],
-    "records": {},
+    "socios": 40000,
+    "descripcion_corta": "Club de competición y alto rendimiento futbolístico estipulado legalmente en la ciudad de Curitiba. Sus asambleas precursoras en la fusión lograron elevar el perfil, cimentando paulatinamente al actual plantel intermitente entre líderes de Copas de Brasil o continentales directas.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#D50000"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Barcímio Sicupira Júnior (154 goles)",
+      "mas_presencias": "Caju (620 partidos)",
+      "mayor_goleada": "11-0 vs Bangu-PR (1930)"
+    },
     "estadios": [],
-    "escudo_actual": "/escudos/brasil/athletico-paranaense/logo.png"
+    "escudo_actual": "/escudos/brasil/athletico-paranaense/Athletico-2018-actual.webp",
+    "apodos": [
+      "Furacão",
+      "Rubro-Negro"
+    ]
   },
   "historia": [
     {
       "ano": "1924",
-      "hito": "Fusión del Internacional y América",
-      "desc": "A principios de la década de 1920, el fútbol en Curitiba atravesaba tensiones burocráticas y deportivas que dividían los recursos locales. Para unificar fuerzas, los directivos de dos clubes tradicionales decidieron iniciar un proceso de fusión. Tras negociaciones institucionales lideradas por Arcésio Guimarães, presidente del International Foot-Ball Club, y Joaquim Narciso de Azevedo, dirigente del América Futebol Clube, se firmó el acuerdo. El 26 de marzo de 1924 se oficializó la creación del Club Athletico Paranaense, adoptando el color rojo del América y el negro del Internacional para su identidad fáctica."
-    },
-    {
-      "ano": "1949",
-      "hito": "El Origen del Apodo 'Furacão'",
-      "desc": "El Athletico conquistó el Campeonato Paranaense exhibiendo un destacado nivel ofensivo a escala regional. Dirigido por el entrenador Rui de Castro, el plantel logró encadenar once victorias consecutivas, finalizando el torneo con cuarenta y nueve goles marcados en apenas doce partidos disputados. Este contundente desempeño colectivo motivó a la prensa especializada local a bautizar al equipo bajo el término de 'O Furacão' (El Huracán), apodo formal que perduraría a lo largo de las décadas."
+      "hito": "Fusiones y Fundación del Club",
+      "desc": "El Club Athletico Paranaense surgió el 26 de marzo de 1924 como resultado directo de la fusión logística de dos instituciones pioneras de la capital paranaense: el International Foot-Ball Club (fundado en 1912) y el América Futebol Clube (1914). Esta unión estratégica concentró el mando deportivo para conformar el principal equipo representativo del estado. Adoptaron como diseño oficial el rojo y negro heredado de sus bases originarias."
     },
     {
       "ano": "2001",
-      "hito": "Primer Campeonato Brasileiro",
-      "desc": "El club logró su primer título nacional en la máxima categoría, descentralizando el histórico dominio de los equipos del eje sudest del país. Bajo la conducción técnica de Geninho y con el rendimiento destacado del mediocampista Kléberson junto al del delantero Alex Mineiro, el Athletico superó al Fluminense en semifinales y derrotó al São Caetano en las dos finales decisivas, consagrándose en el Campeonato Brasileiro."
+      "hito": "Consagración Logística en el Campeonato Brasileño",
+      "desc": "Bajo la dirección técnica del entrenador Geninho formalizada en 2001, la institución se adjudicó su primer campeonato nacional absoluto rompiendo la tendencia de dominio de centro del país. Athletico conquistó la primera división ejecutando una fase de liguillas contundente, liquidando en las finales decisivas a São Caetano gracias al aporte estadístico fundamental del delantero Alex Mineiro, quien facturó ocho goles consecutivos en la etapa final."
     },
     {
-      "ano": "2018 y 2021",
-      "hito": "Bicampeonato de la Copa Sudamericana",
-      "desc": "La institución consolidó su posicionamiento competitivo a nivel internacional al obtener dos ediciones de la Copa Sudamericana en un breve lapso de tiempo. En 2018 logró el título tras vencer a Junior de Barranquilla en la definición por penales en Curitiba. Posteriormente, en 2021, revalidó su condición continental al derrotar por la mínima diferencia a Red Bull Bragantino en la final a partido único disputada en el Estadio Centenario de Montevideo."
+      "ano": "2004-2005",
+      "hito": "Subcampeonatos y Final de la Copa Libertadores",
+      "desc": "El plantel consolidó su jerarquía compitiendo a un alto nivel sostenido tras obtener el vicecampeonato de la liga nacional brasileña en 2004 con registros anotadores liderados por el artillero Washington (récord histórico de 34 goles). Esta estadística les otorgó pasaje definitivo para la Copa Libertadores de 2005, escenario donde alcanzaron la gran final absoluta antes de sucumbir contra el multicampeón São Paulo Futebol Clube."
     },
     {
-      "ano": "2019",
-      "hito": "Primera Corona en la Copa do Brasil",
-      "desc": "El equipo se adjudicó por primera vez la Copa do Brasil, completando su registro en los certámenes más importantes del fútbol local. Con Tiago Nunes en el banquillo y un plantel estructurado sobre rendimientos como los de Rony y Bruno Guimarães, el Athletico eliminó a clubes de presupuesto mayor durante las fases previas y superó de forma regular al Internacional de Porto Alegre en ambos partidos de la llave final, asegurando el campeonato."
+      "ano": "2018",
+      "hito": "La Obtención de la Primera Copa Sudamericana",
+      "desc": "Capitalizando las reestructuraciones corporativas enfocadas en infraestructuras y procesos tácticos, Athletico logró finalmente incorporar un título continental a sus vitrinas al consagrarse campeón contundente de la Copa Sudamericana 2018. El partido de cierre del torneo se disputó el 12 de diciembre en la Arena da Baixada, y en este el equipo venció a Junior de Barranquilla definiendo el cierre del trofeo mediante una ejecución de penales a favor (4-3) resolviendo el empate general."
+    },
+    {
+      "ano": "2021",
+      "hito": "Bicampeonato en la Copa Sudamericana",
+      "desc": "Reafirmando su efectividad plena en eliminatorias internacionales, el elenco repitió la fórmula y se adjudicó la segunda estrella correspondiente a la Copa Sudamericana en la campaña oficial de 2021. La final, regida bajo el formato de partido único en terrenos de Montevideo, se resolvió arrojando una victoria final de 1-0 sobre el compatriota brasileño Red Bull Bragantino consolidada fundamentalmente por una espectacular acrobacia efectuada por Nikão en la zona goleadora."
     }
   ],
-  "titulos": [],
-  "equipacion": [],
-  "idolos": [],
-  "goleadores_historicos": [],
-  "presencias_historicas": [],
-  "origen_apodos": [],
-  "evolucion_escudos": [],
+  "canchas": [
+    {
+      "nombre": "Ligga Arena (Estádio Joaquim Américo Guimarães / Arena da Baixada)",
+      "direccion": "R. Buenos Aires, 1260 - Água Verde, Curitiba - PR, 80250-070",
+      "desde": 1914,
+      "hasta": null,
+      "estado": "Activo",
+      "obs": "Recinto heredado originariamente formal por la facción del International. Ha sido reconstruido totalmente bajo estándares de vanguardia arquitectónica mundial, operando como estadio base documentado certificado albergando un techo retráctil absoluto que hospedó partidos correspondientes al Mundial FIFA 2014.",
+      "lat": -25.4484,
+      "lng": -49.2769,
+      "url": "https://www.google.com/maps/search/?api=1&query=-25.4484,-49.2769"
+    }
+  ],
+  "titulos": [
+    {
+      "n": 2,
+      "comp": "Copa Sudamericana",
+      "anios": [
+        "2018",
+        "2021"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Campeonato Brasileño Série A",
+      "anios": [
+        "2001"
+      ]
+    },
+    {
+      "n": 1,
+      "comp": "Copa de Brasil",
+      "anios": [
+        "2019"
+      ]
+    },
+    {
+      "n": 28,
+      "comp": "Campeonato Paranaense",
+      "anios": [
+        "1925 a 2024"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1924",
+      "hasta": "1989",
+      "desc": "Diseño reglado bajo listones gruesos extendidos con sentido de dirección horizontal, portando rojos cruzando bordados íntegramente oscuros de lanas gruesas lisas.",
+      "tipo": "rayas-horizontales",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#ffffff",
+      "me": "#cc0000"
+    },
+    {
+      "desde": "1989",
+      "hasta": "2018",
+      "desc": "Para estandarizarse con reglamentos visuales de época, el rubro indumentaria dio giros de trama rotando su fraccionado a verticales gruesas lisas rubro-negras plenas idénticas proporciones.",
+      "tipo": "rayas-verticales",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000"
+    },
+    {
+      "desde": "2018",
+      "hasta": "Presente",
+      "desc": "Por decreto legal moderno el rediseñado técnico mudó las distribuciones de telas cruzándola diametralmente estatuido conformando una banda ancha u oblicuos listones en diagonal descendientes con vivos rojos encima del tapiz negro original formal de fábrica operando hoy día.",
+      "tipo": "banda-diagonal",
+      "c1": "#cc0000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000"
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Barcímio Sicupira Júnior",
+      "apodo": "Sicupira",
+      "epoca": "1968-1975",
+      "desc": "El mayor cañonero nato en la historia local goles a maderazos de fuerza, cimentando estadísticas anotadoras arrojadas resueltas inalcanzable logrando estatuarios campeonatos ligadas fijos."
+    },
+    {
+      "nombre": "Kleberson",
+      "apodo": "Kleberson",
+      "epoca": "1999-2003",
+      "desc": "Motor dictaminando transiciones de velocidad regidas asumiendo medios formados lógicamente logrando el único cetro máximo de base liga y consagrándose en mundiales arrojadas plenas ."
+    },
+    {
+      "nombre": "Caju",
+      "apodo": "Caju",
+      "epoca": "1933-1950",
+      "desc": "Atajador de arcos asombrosos resueltos asumiendo guantes s eras doradas resolviendo campeonatos base ligados a cerrados logísticos estaduales formadoras de la época fija dictadas orgánicas completas."
+    },
+    {
+      "nombre": "Alex Mineiro",
+      "apodo": "Alex Mineiro",
+      "epoca": "2001-2003",
+      "desc": "Artillero de época ráfagas anotadoras campeonatos regidos coronándose en logrados resolutivos lógicos fijos base estatuarios llanamente fijas de competencias orgánicas."
+    },
+    {
+      "nombre": "Thiago Heleno",
+      "apodo": "Thiago Heleno",
+      "epoca": "2016-Presente",
+      "desc": "El general arrojado bloqueos o marcando la sudamericana asombrosas resueltos tácticos logísticos ligadas de defensivos s orgánicas firmes cerradas u fijos dictadas."
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Barcímio Sicupira Júnior",
+      "goles": 154,
+      "epoca": "1968-1975",
+      "apodo": "Sicupira"
+    },
+    {
+      "nombre": "Jackson Born",
+      "goles": 140,
+      "epoca": "1944-1950",
+      "apodo": "Jackson"
+    },
+    {
+      "nombre": "Kleber Pereira",
+      "goles": 124,
+      "epoca": "1999-2002",
+      "apodo": "Kleber Pereira"
+    },
+    {
+      "nombre": "Marreco",
+      "goles": 115,
+      "epoca": "1914-1925",
+      "apodo": "Marreco"
+    },
+    {
+      "nombre": "Cireno",
+      "goles": 114,
+      "epoca": "1934-1943",
+      "apodo": "Cireno"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Caju",
+      "partidos": 620,
+      "epoca": "1933-1950",
+      "apodo": "Caju"
+    },
+    {
+      "nombre": "Alfredo",
+      "partidos": 432,
+      "epoca": "1965-1975",
+      "apodo": "Alfredo"
+    },
+    {
+      "nombre": "Bira",
+      "partidos": 420,
+      "epoca": "1970-1980",
+      "apodo": "Bira"
+    },
+    {
+      "nombre": "Kleberson",
+      "partidos": 334,
+      "epoca": "1999-2003",
+      "apodo": "Kleberson"
+    },
+    {
+      "nombre": "Weverton",
+      "partidos": 318,
+      "epoca": "2012-2017",
+      "apodo": "Weverton"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "O Furacão",
+      "origen": "Se registró a lo largo del transcurso del campeonato estadual de Curitiba disputado en 1949. El conjunto titular firmó una larga serie de triunfos paralelos con un diferencial goleador pronunciado que neutralizó anticipadamente a todos sus rivales seccionales, motivando a que los titulares de la prensa grafica local compararan su tránsito destructivo con el embate climático de un huracán."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "desde": "1912",
+      "hasta": "1924",
+      "escudo": "/escudos/brasil/athletico-paranaense/Internacional-1912-1924.webp"
+    },
+    {
+      "desde": "1914",
+      "hasta": "1920",
+      "escudo": "/escudos/brasil/athletico-paranaense/Am%253Frica-PR-1914-1920.webp"
+    },
+    {
+      "desde": "1920",
+      "hasta": "1924",
+      "escudo": "/escudos/brasil/athletico-paranaense/Am%253Frica-PR-1920-1924.webp"
+    },
+    {
+      "desde": "1924",
+      "hasta": "1936",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1924-1936.webp"
+    },
+    {
+      "desde": "1936",
+      "hasta": "1937",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1936-1937.webp"
+    },
+    {
+      "desde": "1937",
+      "hasta": "1938",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1937-1938.webp"
+    },
+    {
+      "desde": "1938",
+      "hasta": "1945",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1938-1945.webp"
+    },
+    {
+      "desde": "1945",
+      "hasta": "1948",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1945-1948.webp"
+    },
+    {
+      "desde": "1948",
+      "hasta": "1950",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1948-1950.webp"
+    },
+    {
+      "desde": "1950",
+      "hasta": "1970",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1950-1970.webp"
+    },
+    {
+      "desde": "1970",
+      "hasta": "1989",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1970-1989.webp"
+    },
+    {
+      "desde": "1990",
+      "hasta": "1997",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1990-1997.webp"
+    },
+    {
+      "desde": "1997",
+      "hasta": "2001",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-1997-2001.webp"
+    },
+    {
+      "desde": "2001",
+      "hasta": "2002",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-2001-2002.ebp.webp"
+    },
+    {
+      "desde": "2003",
+      "hasta": "2012",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-2003-2012.webp"
+    },
+    {
+      "desde": "2012",
+      "hasta": "2018",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-2012-2018.webp"
+    },
+    {
+      "desde": "2018",
+      "hasta": "Presente",
+      "escudo": "/escudos/brasil/athletico-paranaense/Athletico-2018-actual.webp"
+    }
+  ],
   "h2h": {
     "chapecoense": {
       "pj": 1,
