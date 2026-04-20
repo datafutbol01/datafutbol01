@@ -84,7 +84,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'brasil', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
+           const season = ['argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
@@ -354,6 +354,7 @@ export default function League() {
       else if (leagueId === 'francia') setActiveTorneoTab('ligue1');
       else if (leagueId === 'escocia') setActiveTorneoTab('scottish_league');
       else if (leagueId === 'uruguay') setActiveTorneoTab('campeonato_uruguayo');
+      else if (leagueId === 'brasil') setActiveTorneoTab('brasileirao');
       else setActiveTorneoTab('metropolitano');
   }, [leagueId]);
   
@@ -420,6 +421,10 @@ export default function League() {
           if (activeTorneoTab === 'torneo_intermedio') return name.includes('torneo intermedio');
           if (activeTorneoTab === 'supercopa_uruguaya') return name.includes('supercopa');
           if (activeTorneoTab === 'copa_auf_uruguay') return name.includes('copa auf') || name.includes('copa uruguay');
+      } else if (leagueId === 'brasil') {
+          if (activeTorneoTab === 'brasileirao') return name.includes('série a') || name.includes('brasileiro') || name.includes('campeonato brasileiro');
+          if (activeTorneoTab === 'copa_do_brasil') return name.includes('copa do brasil');
+          if (activeTorneoTab === 'supercopa_do_brasil') return name.includes('supercopa');
       } else {
           if (activeTorneoTab === 'copas') return name.includes('copa') || name.includes('superfinal') || name.includes('trofeo de campeones') || name.includes('honor');
           if (activeTorneoTab === 'nacional') return name.includes('nacional') && !name.includes('primera división') && !name.includes('internacional');

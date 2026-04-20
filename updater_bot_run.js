@@ -17,7 +17,7 @@ if (fs.existsSync(processedPath)) {
     processed = JSON.parse(fs.readFileSync(processedPath, 'utf8'));
 }
 
-const LEAGUES = [39, 140, 128]; // Premier League, LaLiga, Argentina Primera
+const LEAGUES = [135, 78, 61, 179, 268, 71]; // Italia, Alemania, Francia, Escocia, Uruguay, Brasil
 
 // Helper para actualizar JSON
 function updateTeam(folder, fileId, rivalFileId, w, d, l) {
@@ -32,28 +32,46 @@ function updateTeam(folder, fileId, rivalFileId, w, d, l) {
     data.h2h[rivalFileId].pg += w;
     data.h2h[rivalFileId].pe += d;
     data.h2h[rivalFileId].pp += l;
-    fs.writeFileSync(p, JSON.stringify(data, null, 2));
-    return true;
+                            // Al actualizar, también inyectar la huella temporal en el propio club
+                            const nowStr = new Date().toISOString();
+                            data.ultima_actualizacion = nowStr;
+                            
+                            fs.writeFileSync(p, JSON.stringify(data, null, 2));
+                            return nowStr;
 }
 
 async function run() {
     console.log("Iniciando Modo Actualización...");
-    for (const lid of LEAGUES) {
-        console.log(`Buscando partidos para Liga ID ${lid} desde 12/04 hasta hoy...`);
-        try {
-            // Note: In reality API-football 2024 represents the 24/25 season for Europe, 
-            // but for Argentina 2024 is the 2024 calendar season. Let's try 2024 first.
-            // A better query is just checking the latest matches or specific dates.
-            // But API-Football requires season for from/to ranges, wait no it doesn't always, but better to provide.
-            // Actually querying by `date` is easy. Or `league=ID&season=2024`. Or just querying by `date=YYYY-MM-DD`.
-            
-            // We'll search backwards for dates from 2026-04-12 to 2026-04-18
-            const dates = ['2026-04-12', '2026-04-13', '2026-04-14', '2026-04-15', '2026-04-16', '2026-04-17', '2026-04-18'];
+    const masterLogPath = path.join(__dirname, 'sync_log.json');
+    let masterLog = {};
+    if (fs.existsSync(masterLogPath)) {
+        masterLog = JSON.parse(fs.readFileSync(masterLogPath, 'utf8'));
+    }
 
+    // Mega Catch-Up para Ligas Secundarias: del 11 de abril al 20 de abril
+    const dates = [
+        '2026-04-11', '2026-04-12', '2026-04-13', '2026-04-14', '2026-04-15', 
+        '2026-04-16', '2026-04-17', '2026-04-18', '2026-04-19', '2026-04-20'
+    ];
+    let lastStamp = null;
+
+    for (const lid of LEAGUES) {
+        console.log(`Buscando partidos para Liga ID ${lid} en fechas ${dates.join(', ')}...`);
+        try {
             for (const d of dates) {
-                const response = await axios.get(`https://v3.football.api-sports.io/fixtures?league=${lid}&date=${d}&timezone=America/Argentina/Buenos_Aires`, {
+                const seasonObj = { 39: 2025, 140: 2025, 128: 2026, 71: 2026, 268: 2026 };
+                const seasonStr = seasonObj[lid] || 2025; // Por si agregamos otras después
+                const callUrl = `https://v3.football.api-sports.io/fixtures?league=${lid}&season=${seasonStr}&date=${d}&timezone=America/Argentina/Buenos_Aires`;
+                
+                const response = await axios.get(callUrl, {
                     headers: { "x-rapidapi-host": "v3.football.api-sports.io", "x-rapidapi-key": apiKey }
                 });
+
+                const extErrors = response.data.errors;
+                if(extErrors && Object.keys(extErrors).length > 0) {
+                    console.log(`[!] Error de API en liga ${lid} fecha ${d}: `, extErrors);
+                    continue;
+                }
 
                 const fixtures = response.data.response;
                 if (!fixtures) continue;
@@ -71,18 +89,13 @@ async function run() {
                         const localB = mapped[awayId];
 
                         if (localA && localB && localA.file_id && localB.file_id) {
-                            // Definir resultado
                             let gh = f.goals.home;
                             let ga = f.goals.away;
                             
-                            // Si hubieron penales, usamos el de penales (o no, en H2H global usualmente cuentan los 90/120 min)
-                            // Generalmente en el fútbol, si van a penales, estadísticamente es un Empate.
-                            // Pero verifiquemos si el user prefiere penales. Asumamos 90/120min:
                             let wA = 0, dA = 0, lA = 0;
                             let wB = 0, dB = 0, lB = 0;
 
                             if (status === 'PEN') {
-                                // Es un empate oficial para estadísticas FIFA
                                 dA = 1; dB = 1;
                             } else {
                                 if (gh > ga) { wA=1; lB=1; }
@@ -91,13 +104,17 @@ async function run() {
                             }
 
                             console.log(`+ Procesando [${d}]: ${localA.file_id} ${gh}-${ga} ${localB.file_id}`);
-                            updateTeam(localA.country_file, localA.file_id, localB.file_id, wA, dA, lA);
-                            updateTeam(localB.country_file, localB.file_id, localA.file_id, wB, dB, lB);
+                            const stampA = updateTeam(localA.country_file, localA.file_id, localB.file_id, wA, dA, lA);
+                            const stampB = updateTeam(localB.country_file, localB.file_id, localA.file_id, wB, dB, lB);
+                            if (stampA) lastStamp = stampA;
                             
-                            processed[fid] = { date: d, match: `${localA.file_id} vs ${localB.file_id}` };
+                            processed[fid] = { date: d, match: `${localA.file_id} vs ${localB.file_id}`, update_time: new Date().toISOString() };
                         }
                     }
                 }
+            }
+            if (lastStamp) {
+                masterLog[`liga_${lid}`] = `Última actualización: ${lastStamp}`;
             }
         } catch (e) {
             console.log(`Error con liga ${lid}:`, e.message);
@@ -105,6 +122,7 @@ async function run() {
     }
     
     fs.writeFileSync(processedPath, JSON.stringify(processed, null, 2));
-    console.log("¡Actualización terminada! Partidos nuevos guardados.");
+    fs.writeFileSync(masterLogPath, JSON.stringify(masterLog, null, 2));
+    console.log("¡Actualización terminada! Partidos nuevos guardados. Logs registrados.");
 }
 run();

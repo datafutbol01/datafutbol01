@@ -61,7 +61,7 @@ export const getClubsByLeague = (leagueId) => {
   } else if (leagueId === 'uruguay') {
     clubs = Object.values(uruguayModules).map(mod => mod.default || mod);
   } else if (leagueId === 'brasil') {
-    clubs = Object.values(brasilModules).map(mod => mod.default || mod);
+    clubs = [];
   }
 
   return clubs.sort((a, b) => {
@@ -106,7 +106,7 @@ export const getAllSearchableItems = () => {
 
   const clubs = [];
   getLeagues().forEach(league => {
-    // Temporalmente ocultamos a Brasil de la búsqueda porque está incompleto
+    // No agregamos al buscador clubes incompletos de Brasil.
     if (league.id === 'brasil') return;
 
     const leagueClubs = getClubsByLeague(league.id);

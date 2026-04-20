@@ -119,6 +119,375 @@
     "country_file": "inglaterra",
     "file_id": "aston-villa"
   },
+  "77": {
+    "api_name": "Angers",
+    "json_name": "Angers",
+    "country_file": "francia",
+    "file_id": "angers"
+  },
+  "79": {
+    "api_name": "Lille",
+    "json_name": "Lille",
+    "country_file": "francia",
+    "file_id": "lille"
+  },
+  "80": {
+    "api_name": "Lyon",
+    "json_name": "Lyon",
+    "country_file": "francia",
+    "file_id": "lyon"
+  },
+  "81": {
+    "api_name": "Marseille",
+    "json_name": "Marseille",
+    "country_file": "francia",
+    "file_id": "marseille"
+  },
+  "83": {
+    "api_name": "Nantes",
+    "json_name": "Nantes",
+    "country_file": "francia",
+    "file_id": "nantes"
+  },
+  "84": {
+    "api_name": "Nice",
+    "json_name": "Nice",
+    "country_file": "francia",
+    "file_id": "nice"
+  },
+  "85": {
+    "id": "85",
+    "api_name": "Paris Saint Germain",
+    "json_name": "Paris Saint-Germain",
+    "country_file": "francia",
+    "file_id": "paris-saint-germain"
+  },
+  "91": {
+    "api_name": "Monaco",
+    "json_name": "Monaco",
+    "country_file": "francia",
+    "file_id": "monaco"
+  },
+  "94": {
+    "api_name": "Rennes",
+    "json_name": "Rennes",
+    "country_file": "francia",
+    "file_id": "rennes"
+  },
+  "95": {
+    "api_name": "Strasbourg",
+    "json_name": "Strasbourg",
+    "country_file": "francia",
+    "file_id": "strasbourg"
+  },
+  "96": {
+    "api_name": "Toulouse",
+    "json_name": "Toulouse",
+    "country_file": "francia",
+    "file_id": "toulouse"
+  },
+  "97": {
+    "api_name": "Lorient",
+    "json_name": "Lorient",
+    "country_file": "francia",
+    "file_id": "lorient"
+  },
+  "106": {
+    "api_name": "Stade Brestois 29",
+    "json_name": "Stade Brestois 29",
+    "country_file": "francia",
+    "file_id": "brest"
+  },
+  "108": {
+    "api_name": "Auxerre",
+    "json_name": "Auxerre",
+    "country_file": "francia",
+    "file_id": "auxerre"
+  },
+  "111": {
+    "api_name": "Le Havre",
+    "json_name": "Le Havre",
+    "country_file": "francia",
+    "file_id": "le-havre"
+  },
+  "112": {
+    "api_name": "Metz",
+    "json_name": "Metz",
+    "country_file": "francia",
+    "file_id": "metz"
+  },
+  "114": {
+    "api_name": "Paris FC",
+    "json_name": "Paris FC",
+    "country_file": "francia",
+    "file_id": "paris-fc"
+  },
+  "116": {
+    "api_name": "Lens",
+    "json_name": "Lens",
+    "country_file": "francia",
+    "file_id": "lens"
+  },
+  "118": {
+    "api_name": "Bahia",
+    "json_name": "Bahia",
+    "country_file": "brasil",
+    "file_id": "bahia"
+  },
+  "119": {
+    "api_name": "Internacional",
+    "json_name": "Internacional",
+    "country_file": "brasil",
+    "file_id": "internacional"
+  },
+  "120": {
+    "api_name": "Botafogo",
+    "json_name": "Botafogo",
+    "country_file": "brasil",
+    "file_id": "botafogo"
+  },
+  "121": {
+    "api_name": "Palmeiras",
+    "json_name": "Palmeiras",
+    "country_file": "brasil",
+    "file_id": "palmeiras"
+  },
+  "124": {
+    "api_name": "Fluminense",
+    "json_name": "Fluminense",
+    "country_file": "brasil",
+    "file_id": "fluminense"
+  },
+  "126": {
+    "api_name": "Sao Paulo",
+    "json_name": "Sao Paulo",
+    "country_file": "brasil",
+    "file_id": "sao-paulo"
+  },
+  "127": {
+    "api_name": "Flamengo",
+    "json_name": "Flamengo",
+    "country_file": "brasil",
+    "file_id": "flamengo"
+  },
+  "128": {
+    "api_name": "Santos",
+    "json_name": "Santos",
+    "country_file": "brasil",
+    "file_id": "santos"
+  },
+  "130": {
+    "api_name": "Gremio",
+    "json_name": "Gremio",
+    "country_file": "brasil",
+    "file_id": "gremio"
+  },
+  "131": {
+    "api_name": "Corinthians",
+    "json_name": "Corinthians",
+    "country_file": "brasil",
+    "file_id": "corinthians"
+  },
+  "132": {
+    "api_name": "Chapecoense-sc",
+    "json_name": "Chapecoense-sc",
+    "country_file": "brasil",
+    "file_id": "chapecoense"
+  },
+  "133": {
+    "api_name": "Vasco DA Gama",
+    "json_name": "Vasco DA Gama",
+    "country_file": "brasil",
+    "file_id": "vasco-da-gama"
+  },
+  "134": {
+    "id": "134",
+    "api_name": "Atletico Paranaense",
+    "json_name": "Athletico Paranaense",
+    "country_file": "brasil",
+    "file_id": "athletico-paranaense"
+  },
+  "135": {
+    "api_name": "Cruzeiro",
+    "json_name": "Cruzeiro",
+    "country_file": "brasil",
+    "file_id": "cruzeiro"
+  },
+  "136": {
+    "api_name": "Vitoria",
+    "json_name": "Vitoria",
+    "country_file": "brasil",
+    "file_id": "vitoria"
+  },
+  "147": {
+    "api_name": "Coritiba",
+    "json_name": "Coritiba",
+    "country_file": "brasil",
+    "file_id": "coritiba"
+  },
+  "157": {
+    "id": "157",
+    "api_name": "Bayern München",
+    "json_name": "Bayern Munich",
+    "country_file": "alemania",
+    "file_id": "bayern-munchen"
+  },
+  "160": {
+    "api_name": "SC Freiburg",
+    "json_name": "SC Freiburg",
+    "country_file": "alemania",
+    "file_id": "freiburg"
+  },
+  "161": {
+    "api_name": "VfL Wolfsburg",
+    "json_name": "VfL Wolfsburg",
+    "country_file": "alemania",
+    "file_id": "wolfsburg"
+  },
+  "162": {
+    "api_name": "Werder Bremen",
+    "json_name": "Werder Bremen",
+    "country_file": "alemania",
+    "file_id": "werder-bremen"
+  },
+  "163": {
+    "api_name": "Borussia Mönchengladbach",
+    "json_name": "Borussia Mönchengladbach",
+    "country_file": "alemania",
+    "file_id": "borussia-monchengladbach"
+  },
+  "164": {
+    "api_name": "FSV Mainz 05",
+    "json_name": "FSV Mainz 05",
+    "country_file": "alemania",
+    "file_id": "mainz-05"
+  },
+  "165": {
+    "api_name": "Borussia Dortmund",
+    "json_name": "Borussia Dortmund",
+    "country_file": "alemania",
+    "file_id": "borussia-dortmund"
+  },
+  "167": {
+    "api_name": "1899 Hoffenheim",
+    "json_name": "1899 Hoffenheim",
+    "country_file": "alemania",
+    "file_id": "hoffenheim"
+  },
+  "168": {
+    "api_name": "Bayer Leverkusen",
+    "json_name": "Bayer Leverkusen",
+    "country_file": "alemania",
+    "file_id": "bayer-leverkusen"
+  },
+  "169": {
+    "api_name": "Eintracht Frankfurt",
+    "json_name": "Eintracht Frankfurt",
+    "country_file": "alemania",
+    "file_id": "eintracht-frankfurt"
+  },
+  "170": {
+    "api_name": "FC Augsburg",
+    "json_name": "FC Augsburg",
+    "country_file": "alemania",
+    "file_id": "augsburg"
+  },
+  "172": {
+    "api_name": "VfB Stuttgart",
+    "json_name": "VfB Stuttgart",
+    "country_file": "alemania",
+    "file_id": "vfb-stuttgart"
+  },
+  "173": {
+    "api_name": "RB Leipzig",
+    "json_name": "RB Leipzig",
+    "country_file": "alemania",
+    "file_id": "rb-leipzig"
+  },
+  "175": {
+    "api_name": "Hamburger SV",
+    "json_name": "Hamburger SV",
+    "country_file": "alemania",
+    "file_id": "hamburger-sv"
+  },
+  "180": {
+    "api_name": "1. FC Heidenheim",
+    "json_name": "1. FC Heidenheim",
+    "country_file": "alemania",
+    "file_id": "heidenheim"
+  },
+  "182": {
+    "api_name": "Union Berlin",
+    "json_name": "Union Berlin",
+    "country_file": "alemania",
+    "file_id": "union-berlin"
+  },
+  "186": {
+    "api_name": "FC St. Pauli",
+    "json_name": "FC St. Pauli",
+    "country_file": "alemania",
+    "file_id": "st-pauli"
+  },
+  "192": {
+    "api_name": "1. FC Köln",
+    "json_name": "1. FC Köln",
+    "country_file": "alemania",
+    "file_id": "koln"
+  },
+  "247": {
+    "api_name": "Celtic",
+    "json_name": "Celtic",
+    "country_file": "escocia",
+    "file_id": "celtic"
+  },
+  "249": {
+    "api_name": "Hibernian",
+    "json_name": "Hibernian",
+    "country_file": "escocia",
+    "file_id": "hibernian"
+  },
+  "250": {
+    "api_name": "Kilmarnock",
+    "json_name": "Kilmarnock",
+    "country_file": "escocia",
+    "file_id": "kilmarnock"
+  },
+  "251": {
+    "api_name": "ST Mirren",
+    "json_name": "ST Mirren",
+    "country_file": "escocia",
+    "file_id": "st-mirren"
+  },
+  "252": {
+    "api_name": "Aberdeen",
+    "json_name": "Aberdeen",
+    "country_file": "escocia",
+    "file_id": "aberdeen"
+  },
+  "253": {
+    "api_name": "Dundee",
+    "json_name": "Dundee",
+    "country_file": "escocia",
+    "file_id": "dundee-united"
+  },
+  "255": {
+    "api_name": "Livingston",
+    "json_name": "Livingston",
+    "country_file": "escocia",
+    "file_id": "livingston"
+  },
+  "256": {
+    "api_name": "Motherwell",
+    "json_name": "Motherwell",
+    "country_file": "escocia",
+    "file_id": "motherwell"
+  },
+  "257": {
+    "api_name": "Rangers",
+    "json_name": "Rangers",
+    "country_file": "escocia",
+    "file_id": "rangers"
+  },
   "434": {
     "api_name": "Gimnasia L.P.",
     "json_name": "Club de Gimnasia y Esgrima La Plata",
@@ -269,6 +638,108 @@
     "country_file": "argentina",
     "file_id": "instituto"
   },
+  "487": {
+    "api_name": "Lazio",
+    "json_name": "Lazio",
+    "country_file": "italia",
+    "file_id": "lazio"
+  },
+  "488": {
+    "api_name": "Sassuolo",
+    "json_name": "Sassuolo",
+    "country_file": "italia",
+    "file_id": "sassuolo"
+  },
+  "489": {
+    "api_name": "AC Milan",
+    "json_name": "AC Milan",
+    "country_file": "italia",
+    "file_id": "milan"
+  },
+  "490": {
+    "api_name": "Cagliari",
+    "json_name": "Cagliari",
+    "country_file": "italia",
+    "file_id": "cagliari"
+  },
+  "492": {
+    "api_name": "Napoli",
+    "json_name": "Napoli",
+    "country_file": "italia",
+    "file_id": "napoli"
+  },
+  "494": {
+    "api_name": "Udinese",
+    "json_name": "Udinese",
+    "country_file": "italia",
+    "file_id": "udinese"
+  },
+  "495": {
+    "api_name": "Genoa",
+    "json_name": "Genoa",
+    "country_file": "italia",
+    "file_id": "genoa"
+  },
+  "496": {
+    "api_name": "Juventus",
+    "json_name": "Juventus",
+    "country_file": "italia",
+    "file_id": "juventus"
+  },
+  "497": {
+    "api_name": "AS Roma",
+    "json_name": "AS Roma",
+    "country_file": "italia",
+    "file_id": "roma"
+  },
+  "499": {
+    "api_name": "Atalanta",
+    "json_name": "Atalanta",
+    "country_file": "italia",
+    "file_id": "atalanta"
+  },
+  "500": {
+    "api_name": "Bologna",
+    "json_name": "Bologna",
+    "country_file": "italia",
+    "file_id": "bologna"
+  },
+  "502": {
+    "api_name": "Fiorentina",
+    "json_name": "Fiorentina",
+    "country_file": "italia",
+    "file_id": "fiorentina"
+  },
+  "503": {
+    "api_name": "Torino",
+    "json_name": "Torino",
+    "country_file": "italia",
+    "file_id": "torino"
+  },
+  "504": {
+    "api_name": "Hellas Verona",
+    "json_name": "Hellas Verona",
+    "country_file": "italia",
+    "file_id": "hellas-verona"
+  },
+  "505": {
+    "api_name": "Inter",
+    "json_name": "Inter",
+    "country_file": "italia",
+    "file_id": "inter"
+  },
+  "520": {
+    "api_name": "Cremonese",
+    "json_name": "Cremonese",
+    "country_file": "italia",
+    "file_id": "cremonese"
+  },
+  "523": {
+    "api_name": "Parma",
+    "json_name": "Parma",
+    "country_file": "italia",
+    "file_id": "parma"
+  },
   "529": {
     "api_name": "Barcelona",
     "json_name": "Barcelona",
@@ -383,11 +854,43 @@
     "country_file": "espania",
     "file_id": "rayo-vallecano"
   },
+  "794": {
+    "id": "794",
+    "api_name": "RB Bragantino",
+    "json_name": "Red Bull Bragantino",
+    "country_file": "brasil",
+    "file_id": "red-bull-bragantino"
+  },
   "798": {
     "api_name": "Mallorca",
     "json_name": "RCD Mallorca",
     "country_file": "espania",
     "file_id": "mallorca"
+  },
+  "801": {
+    "api_name": "Pisa",
+    "json_name": "Pisa",
+    "country_file": "italia",
+    "file_id": "pisa"
+  },
+  "867": {
+    "api_name": "Lecce",
+    "json_name": "Lecce",
+    "country_file": "italia",
+    "file_id": "lecce"
+  },
+  "895": {
+    "api_name": "Como",
+    "json_name": "Como",
+    "country_file": "italia",
+    "file_id": "como"
+  },
+  "1062": {
+    "id": "1062",
+    "api_name": "Atletico-MG",
+    "json_name": "Atletico Mineiro",
+    "country_file": "brasil",
+    "file_id": "atletico-mineiro"
   },
   "1064": {
     "api_name": "Platense",
@@ -401,10 +904,131 @@
     "country_file": "argentina",
     "file_id": "central-cordoba"
   },
+  "1198": {
+    "api_name": "Remo",
+    "json_name": "Remo",
+    "country_file": "brasil",
+    "file_id": "remo"
+  },
+  "1386": {
+    "api_name": "Dundee Utd",
+    "json_name": "Dundee Utd",
+    "country_file": "escocia",
+    "file_id": "dundee"
+  },
+  "1389": {
+    "api_name": "Falkirk",
+    "json_name": "Falkirk",
+    "country_file": "escocia",
+    "file_id": "falkirk"
+  },
+  "2348": {
+    "api_name": "Penarol",
+    "json_name": "Penarol",
+    "country_file": "uruguay",
+    "file_id": "penarol"
+  },
+  "2350": {
+    "api_name": "Defensor Sporting",
+    "json_name": "Defensor Sporting",
+    "country_file": "uruguay",
+    "file_id": "defensor-sporting"
+  },
+  "2352": {
+    "api_name": "Danubio",
+    "json_name": "Danubio",
+    "country_file": "uruguay",
+    "file_id": "danubio"
+  },
+  "2353": {
+    "api_name": "Juventud",
+    "json_name": "Juventud",
+    "country_file": "uruguay",
+    "file_id": "juventud"
+  },
+  "2356": {
+    "api_name": "Club Nacional",
+    "json_name": "Club Nacional",
+    "country_file": "uruguay",
+    "file_id": "nacional"
+  },
+  "2358": {
+    "api_name": "Liverpool Montevideo",
+    "json_name": "Liverpool Montevideo",
+    "country_file": "uruguay",
+    "file_id": "liverpool"
+  },
+  "2359": {
+    "api_name": "Racing Montevideo",
+    "json_name": "Racing Montevideo",
+    "country_file": "uruguay",
+    "file_id": "racing"
+  },
+  "2360": {
+    "api_name": "Wanderers",
+    "json_name": "Wanderers",
+    "country_file": "uruguay",
+    "file_id": "montevideo-wanderers"
+  },
+  "2361": {
+    "api_name": "Boston River",
+    "json_name": "Boston River",
+    "country_file": "uruguay",
+    "file_id": "boston-river"
+  },
+  "2362": {
+    "api_name": "Cerro",
+    "json_name": "Cerro",
+    "country_file": "uruguay",
+    "file_id": "cerro"
+  },
+  "2363": {
+    "api_name": "Progreso",
+    "json_name": "Progreso",
+    "country_file": "uruguay",
+    "file_id": "progreso"
+  },
+  "2368": {
+    "api_name": "Central Espanol",
+    "json_name": "Central Espanol",
+    "country_file": "uruguay",
+    "file_id": "central-espanol"
+  },
+  "2369": {
+    "api_name": "Cerro Largo",
+    "json_name": "Cerro Largo",
+    "country_file": "uruguay",
+    "file_id": "cerro-largo"
+  },
+  "2370": {
+    "api_name": "Deportivo Maldonado",
+    "json_name": "Deportivo Maldonado",
+    "country_file": "uruguay",
+    "file_id": "deportivo-maldonado"
+  },
+  "2378": {
+    "api_name": "Albion FC",
+    "json_name": "Albion FC",
+    "country_file": "uruguay",
+    "file_id": "albion"
+  },
+  "2384": {
+    "id": "2384",
+    "api_name": "Atletico Torque",
+    "json_name": "Montevideo City Torque",
+    "country_file": "uruguay",
+    "file_id": "montevideo-city-torque"
+  },
   "2432": {
     "api_name": "Barracas Central",
     "json_name": "Club Atlético Barracas Central",
     "country_file": "argentina",
     "file_id": "barracas-central"
+  },
+  "7848": {
+    "api_name": "Mirassol",
+    "json_name": "Mirassol",
+    "country_file": "brasil",
+    "file_id": "mirassol"
   }
 }
