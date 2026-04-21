@@ -27,6 +27,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="resultados" element={<LiveScoresHub />} />
           <Route path="liga/:leagueId" element={<League />} />
           <Route path="liga/:leagueId/club/:clubId" element={<ClubDetail />} />
+          <Route path="*" element={<div className="p-8 text-center text-red-500 min-h-[500px] flex items-center justify-center title-font text-3xl">404 - Página no encontrada</div>} />
         </Route>
       </Routes>
     </BrowserRouter>

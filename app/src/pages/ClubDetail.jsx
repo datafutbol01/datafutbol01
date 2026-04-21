@@ -311,11 +311,38 @@ export default function ClubDetail() {
             {activeTab === 'canchas' && (() => {
               // Extract active stadiums
               let activeStadiums = [];
-              if (canchas && canchas.some(c => c.estado)) {
-                activeStadiums = canchas.filter(c => c.estado === 'Activo' || c.estado === 'activo').map(c => ({
+              let historicStadiums = [];
+
+              if (canchas && canchas.length > 0) {
+                let actives = canchas.filter(c => 
+                  !c.hasta || 
+                  String(c.hasta).toLowerCase() === 'presente' || 
+                  String(c.hasta).toLowerCase() === 'actualidad' ||
+                  (c.estado && (c.estado.toLowerCase().includes('activ') || c.estado.toLowerCase().includes('principal') || c.estado.toLowerCase().includes('actual')))
+                );
+                
+                let historics = canchas.filter(c => !actives.includes(c));
+
+                if (actives.length === 0) {
+                  actives = [canchas[canchas.length - 1]];
+                  historics = canchas.slice(0, canchas.length - 1);
+                }
+
+                activeStadiums = actives.map(c => ({
                   nombre: c.nombre,
                   apodo: c.apodo,
+                  capacidad: c.capacidad || datos.estadio_capacidad,
                   inauguracion: c.desde,
+                  direccion: c.direccion,
+                  lat: parseFloat(c.lat),
+                  lng: parseFloat(c.lng),
+                  obs: c.obs
+                }));
+
+                historicStadiums = historics.reverse().map(c => ({
+                  nombre: c.nombre,
+                  apodo: c.apodo || c.obs,
+                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
                   direccion: c.direccion,
                   lat: parseFloat(c.lat),
                   lng: parseFloat(c.lng),
@@ -323,6 +350,7 @@ export default function ClubDetail() {
                 }));
               } else if (datos.estadios) {
                 activeStadiums = datos.estadios.filter(e => e.condicion === 'actual').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
+                historicStadiums = datos.estadios.filter(e => e.condicion === 'historico').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
               } else if (datos.estadio_actual) {
                 activeStadiums = [{
                   nombre: datos.estadio_actual,
@@ -333,45 +361,6 @@ export default function ClubDetail() {
                   lat: parseFloat(datos.estadio_lat),
                   lng: parseFloat(datos.estadio_lng)
                 }];
-              } else if (canchas && canchas.length > 0) {
-                 // Fallback to last item in legacy canchas
-                 const last = canchas[canchas.length - 1];
-                 activeStadiums = [{
-                   nombre: last.nombre,
-                   apodo: last.apodo,
-                   inauguracion: last.desde,
-                   direccion: last.direccion,
-                   lat: parseFloat(last.lat),
-                   lng: parseFloat(last.lng),
-                   obs: last.obs
-                 }];
-              }
-
-              // Extract historic stadiums
-              let historicStadiums = [];
-              if (canchas && canchas.some(c => c.estado)) {
-                historicStadiums = canchas.filter(c => c.estado === 'Histórico' || c.estado === 'historico').map(c => ({
-                  nombre: c.nombre,
-                  apodo: c.apodo || c.obs,
-                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
-                  direccion: c.direccion,
-                  lat: parseFloat(c.lat),
-                  lng: parseFloat(c.lng),
-                  obs: c.obs
-                }));
-              } else if (datos.estadios) {
-                historicStadiums = datos.estadios.filter(e => e.condicion === 'historico').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
-              } else if (canchas && canchas.length > 1) {
-                // Fallback to legacy canchas (everything except last)
-                historicStadiums = canchas.slice(0, canchas.length - 1).reverse().map(c => ({
-                  nombre: c.nombre,
-                  apodo: c.apodo || c.obs,
-                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
-                  direccion: c.direccion,
-                  lat: parseFloat(c.lat),
-                  lng: parseFloat(c.lng),
-                  obs: c.obs
-                }));
               }
 
               return (

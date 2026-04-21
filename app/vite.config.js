@@ -17,7 +17,8 @@ export default defineConfig({
       includeAssets: ['favicon.svg'],
       workbox: {
         maximumFileSizeToCacheInBytes: 5000000,
-        cleanupOutdatedCaches: true
+        cleanupOutdatedCaches: true,
+        navigateFallbackDenylist: [/^\/sitemap\.xml$/, /^\/robots\.txt$/]
       },
       manifest: {
         id: '/',
