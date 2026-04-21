@@ -292,20 +292,7 @@ export default function WorldCupsHub() {
                         transition={{ duration: 0.3 }}
                         style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}
                     >
-                        <div className="glass-panel" style={{ 
-                            padding: '4rem 3rem', 
-                            borderRadius: '24px', 
-                            display: 'flex', 
-                            alignItems: 'center', 
-                            justifyContent: 'space-between', 
-                            borderLeft: '4px solid var(--accent-gold)',
-                            background: 'rgba(0,0,0,0.4)', backdropFilter: 'none',
-                            backgroundSize: 'cover',
-                            backgroundPosition: 'top center',
-                            position: 'relative',
-                            overflow: 'hidden',
-                            boxShadow: 'none'
-                        }}>
+                        <div style={{ padding: '0 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '-1rem' }}>
                             <div style={{ position: 'relative', zIndex: 2 }}>
                                 <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
                                     <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host.toUpperCase()} {selectedYear}
