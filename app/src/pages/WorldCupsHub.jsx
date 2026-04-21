@@ -282,7 +282,7 @@ export default function WorldCupsHub() {
                                     1. Países Participantes
                                 </button>
 
-                                {wcData && wcData.groups && Object.keys(wcData.groups).length > 0 && (
+                                {wcData && wcData.groups && Object.keys(wcData.groups || {}).length > 0 && (
                                     <button
                                         onClick={() => { setActiveTab('grupos'); setSelectedTeam(null); }}
                                         style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'grupos' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'grupos' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'grupos' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
@@ -291,7 +291,7 @@ export default function WorldCupsHub() {
                                     </button>
                                 )}
 
-                                {wcData && wcData.secondStageGroups && Object.keys(wcData.secondStageGroups).length > 0 && (
+                                {wcData && wcData.secondStageGroups && Object.keys(wcData.secondStageGroups || {}).length > 0 && (
                                     <button
                                         onClick={() => { setActiveTab('segundaFase'); setSelectedTeam(null); }}
                                         style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'segundaFase' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'segundaFase' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'segundaFase' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
@@ -304,7 +304,7 @@ export default function WorldCupsHub() {
                                     onClick={() => { setActiveTab('final'); setSelectedTeam(null); }}
                                     style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'final' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'final' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'final' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
                                 >
-                                    {wcData && wcData.groups && Object.keys(wcData.groups).length === 0 ? '2. ' : (wcData?.secondStageGroups && Object.keys(wcData.secondStageGroups).length > 0 ? '4. ' : '3. ')} 
+                                    {wcData && wcData.groups && Object.keys(wcData.groups || {}).length === 0 ? '2. ' : (wcData?.secondStageGroups && Object.keys(wcData.secondStageGroups || {}).length > 0 ? '4. ' : '3. ')} 
                                     {selectedYear === 1974 || selectedYear === 1978 ? 'Gran Final' : (selectedYear >= 1986 ? 'Llave Eliminatoria' : 'Fase Final')}
                                 </button>
 
@@ -312,7 +312,7 @@ export default function WorldCupsHub() {
                                     onClick={() => { setActiveTab('estadisticas'); setSelectedTeam(null); }}
                                     style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'estadisticas' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'estadisticas' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'estadisticas' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
                                 >
-                                    {wcData && wcData.groups && Object.keys(wcData.groups).length === 0 ? '3. ' : (wcData?.secondStageGroups && Object.keys(wcData.secondStageGroups).length > 0 ? '5. ' : '4. ')} 
+                                    {wcData && wcData.groups && Object.keys(wcData.groups || {}).length === 0 ? '3. ' : (wcData?.secondStageGroups && Object.keys(wcData.secondStageGroups || {}).length > 0 ? '5. ' : '4. ')} 
                                     Estadísticas y Premios
                                 </button>
                             </div>
@@ -331,10 +331,10 @@ export default function WorldCupsHub() {
                                         {activeTab === 'participantes' && !selectedTeam && (
                                             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
                                                 <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '2rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem', display: 'inline-block' }}>
-                                                    Naciones Clasificadas ({wcData.participants.length})
+                                                    Naciones Clasificadas ({wcData.participants?.length})
                                                 </h3>
                                                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1.5rem' }}>
-                                                    {wcData.participants.map((team, i) => (
+                                                    {(wcData.participants || []).map((team, i) => (
                                                         <div
                                                             key={i}
                                                             onClick={() => {
@@ -539,7 +539,7 @@ export default function WorldCupsHub() {
                                                                 </div>
 
                                                                 {/* MATCHES SECTION */}
-                                                                {groupData.matches && groupData.matches.length > 0 && (
+                                                                {groupData.matches && groupData.matches?.length > 0 && (
                                                                     <div style={{ marginTop: '1.5rem', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.2rem' }}>
                                                                         <h5 style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '1rem', textAlign: 'center' }}>Partidos del Grupo</h5>
                                                                         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
@@ -631,7 +631,7 @@ export default function WorldCupsHub() {
                                                                 </table>
                                                             </div>
 
-                                                            {groupData.matches && groupData.matches.length > 0 && (
+                                                            {groupData.matches && groupData.matches?.length > 0 && (
                                                                 <div style={{ marginTop: '1.5rem', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.2rem' }}>
                                                                     <h5 style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '1rem', textAlign: 'center' }}>Partidos del Grupo</h5>
                                                                     <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
@@ -722,7 +722,7 @@ export default function WorldCupsHub() {
                                                                 </table>
                                                             </div>
 
-                                                            {wcData.finalGroup.matches && wcData.finalGroup.matches.length > 0 && (
+                                                            {wcData.finalGroup.matches && wcData.finalGroup?.matches?.length > 0 && (
                                                                 <div style={{ marginTop: '1.5rem', borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.2rem' }}>
                                                                     <h5 style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '1rem', textAlign: 'center' }}>Partidos de la Liguilla</h5>
                                                                     <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
@@ -774,21 +774,21 @@ export default function WorldCupsHub() {
                                                     <div className="glass-panel hide-scrollbar" style={{ padding: '2rem', borderRadius: '16px', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', overflowX: 'auto' }}>
                                                         <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '1.5rem', minWidth: '1000px' }}>
                                                             {/* COL 1: Octavos */}
-                                                            {wcData.bracket.roundOf16 && wcData.bracket.roundOf16.length > 0 && (
+                                                            {wcData.bracket.roundOf16 && wcData.bracket?.roundOf16?.length > 0 && (
                                                                 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', gap: '1rem', width: '220px', position: 'relative' }}>
                                                                     {wcData.bracket.roundOf16.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
                                                                 </div>
                                                             )}
 
                                                             {/* COL 2: Cuartos */}
-                                                            {wcData.bracket.quarterFinals && wcData.bracket.quarterFinals.length > 0 && (
+                                                            {wcData.bracket.quarterFinals && wcData.bracket?.quarterFinals?.length > 0 && (
                                                                 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', width: '220px', position: 'relative' }}>
                                                                     {wcData.bracket.quarterFinals.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
                                                                 </div>
                                                             )}
 
                                                             {/* COL 3: Semis */}
-                                                            {wcData.bracket.semiFinals && wcData.bracket.semiFinals.length > 0 && (
+                                                            {wcData.bracket.semiFinals && wcData.bracket?.semiFinals?.length > 0 && (
                                                                 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', width: '220px', position: 'relative' }}>
                                                                     {wcData.bracket.semiFinals.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
                                                                 </div>
@@ -834,37 +834,37 @@ export default function WorldCupsHub() {
                                                     <div style={{ display: 'flex', flexDirection: 'column', gap: '3rem' }}>
 
                                                         {/* Podio de Balones de Oro (Solo de 1982 en adelante generalmente) */}
-                                                        {wcData.stats.awards && Object.keys(wcData.stats.awards).length > 0 && (
+                                                        {wcData.stats?.awards && Object.keys(wcData.stats?.awards).length > 0 && (
                                                             <div className="glass-panel" style={{ padding: '2rem', borderRadius: '16px', background: 'linear-gradient(135deg, rgba(251, 191, 36, 0.05) 0%, rgba(255,255,255,0.02) 100%)', border: '1px solid rgba(251, 191, 36, 0.2)' }}>
                                                                 <h4 className="title-font" style={{ fontSize: '1.2rem', color: 'var(--accent-gold)', marginBottom: '1.5rem', textAlign: 'center' }}>PODIO DE HONOR (MEJORES JUGADORES)</h4>
                                                                 <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'flex-end', gap: '2rem', flexWrap: 'wrap' }}>
 
-                                                                    {wcData.stats.awards.silverBall && (
+                                                                    {wcData.stats?.awards.silverBall && (
                                                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem', marginTop: '2rem' }}>
                                                                             <div style={{ padding: '0.5rem 1rem', background: 'rgba(192,192,192,0.1)', border: '2px solid silver', borderRadius: '8px', color: 'white', fontWeight: 'bold' }}>🥈 Balón de Plata</div>
                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                <img src={getFlagUrl(wcData.stats.awards.silverBall.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats.awards.silverBall.name}</span>
+                                                                                <img src={getFlagUrl(wcData.stats?.awards.silverBall.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats?.awards.silverBall.name}</span>
                                                                             </div>
                                                                         </div>
                                                                     )}
 
-                                                                    {wcData.stats.awards.goldenBall && (
+                                                                    {wcData.stats?.awards.goldenBall && (
                                                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem' }}>
                                                                             <div style={{ padding: '0.75rem 1.5rem', background: 'rgba(251, 191, 36, 0.15)', border: '2px solid var(--accent-gold)', borderRadius: '8px', color: 'var(--accent-gold)', fontWeight: 'bold', fontSize: '1.2rem' }}>🥇 Balón de Oro</div>
                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                <img src={getFlagUrl(wcData.stats.awards.goldenBall.flag)} alt="" style={{ width: '32px', borderRadius: '4px' }} />
-                                                                                <span className="title-font" style={{ fontSize: '1.4rem' }}>{wcData.stats.awards.goldenBall.name}</span>
+                                                                                <img src={getFlagUrl(wcData.stats?.awards.goldenBall.flag)} alt="" style={{ width: '32px', borderRadius: '4px' }} />
+                                                                                <span className="title-font" style={{ fontSize: '1.4rem' }}>{wcData.stats?.awards.goldenBall.name}</span>
                                                                             </div>
                                                                         </div>
                                                                     )}
 
-                                                                    {wcData.stats.awards.bronzeBall && (
+                                                                    {wcData.stats?.awards.bronzeBall && (
                                                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem', marginTop: '2rem' }}>
                                                                             <div style={{ padding: '0.5rem 1rem', background: 'rgba(205, 127, 50, 0.1)', border: '2px solid #cd7f32', borderRadius: '8px', color: 'white', fontWeight: 'bold' }}>🥉 Balón de Bronce</div>
                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                <img src={getFlagUrl(wcData.stats.awards.bronzeBall.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats.awards.bronzeBall.name}</span>
+                                                                                <img src={getFlagUrl(wcData.stats?.awards.bronzeBall.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats?.awards.bronzeBall.name}</span>
                                                                             </div>
                                                                         </div>
                                                                     )}
@@ -874,22 +874,22 @@ export default function WorldCupsHub() {
                                                                 {/* Tercera fila: Guante de Oro y Fair Play */}
                                                                 <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '3rem', flexWrap: 'wrap', marginTop: '2.5rem', paddingTop: '2rem', borderTop: '1px solid rgba(251, 191, 36, 0.2)' }}>
 
-                                                                    {wcData.stats.awards.goldenGlove && (
+                                                                    {wcData.stats?.awards.goldenGlove && (
                                                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
                                                                             <div style={{ padding: '0.5rem 1rem', background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: '8px', color: 'white', fontWeight: 'bold', fontSize: '0.9rem' }}>🧤 Guante de Oro</div>
                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                <img src={getFlagUrl(wcData.stats.awards.goldenGlove.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats.awards.goldenGlove.name}</span>
+                                                                                <img src={getFlagUrl(wcData.stats?.awards.goldenGlove.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                <span style={{ fontSize: '1.1rem' }}>{wcData.stats?.awards.goldenGlove.name}</span>
                                                                             </div>
                                                                         </div>
                                                                     )}
 
-                                                                    {wcData.stats.awards.fairPlay && (
+                                                                    {wcData.stats?.awards.fairPlay && (
                                                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
                                                                             <div style={{ padding: '0.5rem 1rem', background: 'rgba(52, 211, 153, 0.1)', border: '1px solid #34d399', borderRadius: '8px', color: '#34d399', fontWeight: 'bold', fontSize: '0.9rem' }}>🤝 Premio Fair Play</div>
                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                <img src={getFlagUrl(wcData.stats.awards.fairPlay.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                <span style={{ fontSize: '1.1rem', color: 'white' }}>{wcData.stats.awards.fairPlay.name}</span>
+                                                                                <img src={getFlagUrl(wcData.stats?.awards.fairPlay.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                <span style={{ fontSize: '1.1rem', color: 'white' }}>{wcData.stats?.awards.fairPlay.name}</span>
                                                                             </div>
                                                                         </div>
                                                                     )}
@@ -908,7 +908,7 @@ export default function WorldCupsHub() {
                                                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '2rem' }}>
 
                                                             {/* Goleadores */}
-                                                            {wcData.stats.topScorers && wcData.stats.topScorers.length > 0 && (
+                                                            {wcData.stats.topScorers && wcData.stats?.topScorers?.length > 0 && (
                                                                 <div className="glass-card" style={{ padding: '1.5rem', borderRadius: '12px' }}>
                                                                     <h4 style={{ color: 'var(--accent-gold)', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
                                                                         ⚽ Máximos Goleadores
@@ -929,7 +929,7 @@ export default function WorldCupsHub() {
                                                             )}
 
                                                             {/* Asistencias */}
-                                                            {wcData.stats.assists && wcData.stats.assists.length > 0 && (
+                                                            {wcData.stats.assists && wcData.stats?.assists?.length > 0 && (
                                                                 <div className="glass-card" style={{ padding: '1.5rem', borderRadius: '12px' }}>
                                                                     <h4 style={{ color: 'var(--accent-gold)', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
                                                                         🎯 Asistencias
@@ -950,7 +950,7 @@ export default function WorldCupsHub() {
                                                             )}
 
                                                             {/* Amarillas */}
-                                                            {wcData.stats.yellowCards && wcData.stats.yellowCards.length > 0 && (
+                                                            {wcData.stats.yellowCards && wcData.stats?.yellowCards?.length > 0 && (
                                                                 <div className="glass-card" style={{ padding: '1.5rem', borderRadius: '12px' }}>
                                                                     <h4 style={{ color: '#eab308', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
                                                                         🟨 Más Amonestados
@@ -970,7 +970,7 @@ export default function WorldCupsHub() {
                                                             )}
 
                                                             {/* Rojas */}
-                                                            {wcData.stats.redCards && wcData.stats.redCards.length > 0 && (
+                                                            {wcData.stats.redCards && wcData.stats?.redCards?.length > 0 && (
                                                                 <div className="glass-card" style={{ padding: '1.5rem', borderRadius: '12px' }}>
                                                                     <h4 style={{ color: '#ef4444', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
                                                                         🟥 Expulsados (Rojas)
