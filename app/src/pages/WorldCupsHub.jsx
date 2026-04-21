@@ -80,7 +80,7 @@ export default function WorldCupsHub() {
         { year: 2022, host: 'Qatar' }
     ];
 
-    const [selectedYear, setSelectedYear] = useState(1986);
+    const [selectedYear, setSelectedYear] = useState(null);
     const [activeTab, setActiveTab] = useState('participantes');
     const [wcData, setWcData] = useState(null);
     const [isLoading, setIsLoading] = useState(false);
@@ -107,6 +107,12 @@ export default function WorldCupsHub() {
         setIsLoading(true);
         setSelectedTeam(null);
         setImportError(null);
+        
+        if (!selectedYear) {
+            setWcData(null);
+            setIsLoading(false);
+            return;
+        }
         
         let importPromise;
         switch (selectedYear) {
@@ -250,7 +256,39 @@ export default function WorldCupsHub() {
 
             <div style={{ maxWidth: '1400px', margin: '0 auto', padding: '0 2rem 4rem' }}>
                 <AnimatePresence mode="wait">
-                    <motion.div
+                    {selectedYear === null ? (
+                        <motion.div
+                            key="welcome"
+                            initial={{ opacity: 0, scale: 0.95 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            exit={{ opacity: 0, scale: 1.05 }}
+                            transition={{ duration: 0.5 }}
+                            style={{
+                                display: 'flex',
+                                flexDirection: 'column',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                minHeight: '60vh',
+                                padding: '4rem 2rem',
+                                background: 'linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.9)), url("https://upload.wikimedia.org/wikipedia/commons/a/ae/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg")',
+                                backgroundSize: 'cover',
+                                backgroundPosition: 'center',
+                                borderRadius: '24px',
+                                border: '1px solid rgba(255,255,255,0.05)',
+                                textAlign: 'center',
+                                boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)'
+                            }}
+                        >
+                            <Trophy size={80} color="var(--accent-gold)" style={{ marginBottom: '2rem', filter: 'drop-shadow(0 0 20px rgba(251, 191, 36, 0.3))' }} />
+                            <h2 className="title-font" style={{ fontSize: '3.5rem', color: 'white', marginBottom: '1rem', textShadow: '0 4px 10px rgba(0,0,0,0.5)' }}>
+                                ELIJE UNA EDICIÓN
+                            </h2>
+                            <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto 3rem', lineHeight: '1.6' }}>
+                                Explora la cronología completa del torneo más importante del planeta. Desde el histórico certamen de 1930 hasta la consagración moderna, selecciona un año en el carrusel superior para revivir cada partido.
+                            </p>
+                        </motion.div>
+                    ) : (
+                        <motion.div
                         key={selectedYear}
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
@@ -258,15 +296,30 @@ export default function WorldCupsHub() {
                         transition={{ duration: 0.3 }}
                         style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}
                     >
-                        <div className="glass-panel" style={{ padding: '3rem', borderRadius: '24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', borderLeft: '4px solid var(--accent-gold)' }}>
-                            <div>
-                                <h2 className="title-font" style={{ fontSize: '3rem', margin: 0, display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                        <div className="glass-panel" style={{ 
+                            padding: '4rem 3rem', 
+                            borderRadius: '24px', 
+                            display: 'flex', 
+                            alignItems: 'center', 
+                            justifyContent: 'space-between', 
+                            borderLeft: '4px solid var(--accent-gold)',
+                            background: wcData?.coverImage ? `linear-gradient(to right, rgba(2,6,23,1) 10%, rgba(2,6,23,0.3) 100%), url("${wcData.coverImage}")` : 'rgba(255,255,255,0.03)',
+                            backgroundSize: 'cover',
+                            backgroundPosition: 'top center',
+                            position: 'relative',
+                            overflow: 'hidden',
+                            boxShadow: wcData?.coverImage ? 'inset 0 0 100px rgba(0,0,0,1)' : 'none'
+                        }}>
+                            <div style={{ position: 'relative', zIndex: 2 }}>
+                                <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
                                     <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host.toUpperCase()} {selectedYear}
                                 </h2>
                             </div>
-                            <div style={{ opacity: 0.1 }}>
-                                <Trophy size={120} color="var(--accent-gold)" />
-                            </div>
+                            {!wcData?.coverImage && (
+                                <div style={{ opacity: 0.1 }}>
+                                    <Trophy size={120} color="var(--accent-gold)" />
+                                </div>
+                            )}
                         </div>
 
                         <div style={{ display: 'grid', gridTemplateColumns: 'minmax(250px, 300px) 1fr', gap: '2rem' }}>
