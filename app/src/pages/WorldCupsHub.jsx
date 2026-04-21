@@ -174,8 +174,10 @@ export default function WorldCupsHub() {
 
     const currentWc = worldCups.find(w => w.year === selectedYear);
 
+    const bgImage = wcData?.coverImage || (selectedYear === null ? 'https://upload.wikimedia.org/wikipedia/commons/a/ae/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg' : null);
+
     return (
-        <div style={{ minHeight: '100vh', background: 'var(--bg-main)', paddingTop: '2rem', position: 'relative' }}>
+        <div style={{ minHeight: '100vh', background: bgImage ? `linear-gradient(to bottom, rgba(2,6,23,0.5), rgba(2,6,23,0.95)), url("${bgImage}")` : 'var(--bg-main)', backgroundSize: 'cover', backgroundPosition: 'top center', backgroundAttachment: 'fixed', paddingTop: '2rem', position: 'relative', transition: 'background 0.5s ease-in-out' }}>
 
             {/* Botón Volver a la Home */}
             <button
@@ -270,7 +272,7 @@ export default function WorldCupsHub() {
                                 justifyContent: 'center',
                                 minHeight: '60vh',
                                 padding: '4rem 2rem',
-                                background: 'linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.9)), url("https://upload.wikimedia.org/wikipedia/commons/a/ae/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg")',
+                                background: 'rgba(0,0,0,0.3)', backdropFilter: 'blur(10px)',
                                 backgroundSize: 'cover',
                                 backgroundPosition: 'center',
                                 borderRadius: '24px',
@@ -303,12 +305,12 @@ export default function WorldCupsHub() {
                             alignItems: 'center', 
                             justifyContent: 'space-between', 
                             borderLeft: '4px solid var(--accent-gold)',
-                            background: wcData?.coverImage ? `linear-gradient(to right, rgba(2,6,23,1) 10%, rgba(2,6,23,0.3) 100%), url("${wcData.coverImage}")` : 'rgba(255,255,255,0.03)',
+                            background: 'rgba(0,0,0,0.3)', backdropFilter: 'blur(10px)',
                             backgroundSize: 'cover',
                             backgroundPosition: 'top center',
                             position: 'relative',
                             overflow: 'hidden',
-                            boxShadow: wcData?.coverImage ? 'inset 0 0 100px rgba(0,0,0,1)' : 'none'
+                            boxShadow: 'none'
                         }}>
                             <div style={{ position: 'relative', zIndex: 2 }}>
                                 <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
