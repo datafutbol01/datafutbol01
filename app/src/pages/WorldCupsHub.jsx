@@ -272,7 +272,7 @@ export default function WorldCupsHub() {
                                 justifyContent: 'center',
                                 minHeight: '60vh',
                                 padding: '4rem 2rem',
-                                background: 'rgba(0,0,0,0.3)', backdropFilter: 'blur(10px)',
+                                background: 'rgba(0,0,0,0.4)', backdropFilter: 'none',
                                 backgroundSize: 'cover',
                                 backgroundPosition: 'center',
                                 borderRadius: '24px',
@@ -283,7 +283,7 @@ export default function WorldCupsHub() {
                         >
                             <Trophy size={80} color="var(--accent-gold)" style={{ marginBottom: '2rem', filter: 'drop-shadow(0 0 20px rgba(251, 191, 36, 0.3))' }} />
                             <h2 className="title-font" style={{ fontSize: '3.5rem', color: 'white', marginBottom: '1rem', textShadow: '0 4px 10px rgba(0,0,0,0.5)' }}>
-                                ELIJE UNA EDICIÓN
+                                ELIGE UNA EDICIÓN
                             </h2>
                             <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto 3rem', lineHeight: '1.6' }}>
                                 Explora la cronología completa del torneo más importante del planeta. Desde el histórico certamen de 1930 hasta la consagración moderna, selecciona un año en el carrusel superior para revivir cada partido.
@@ -305,7 +305,7 @@ export default function WorldCupsHub() {
                             alignItems: 'center', 
                             justifyContent: 'space-between', 
                             borderLeft: '4px solid var(--accent-gold)',
-                            background: 'rgba(0,0,0,0.3)', backdropFilter: 'blur(10px)',
+                            background: 'rgba(0,0,0,0.4)', backdropFilter: 'none',
                             backgroundSize: 'cover',
                             backgroundPosition: 'top center',
                             position: 'relative',
