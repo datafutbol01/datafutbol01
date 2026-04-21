@@ -272,13 +272,7 @@ export default function WorldCupsHub() {
                                 justifyContent: 'center',
                                 minHeight: '60vh',
                                 padding: '4rem 2rem',
-                                background: 'rgba(0,0,0,0.4)', backdropFilter: 'none',
-                                backgroundSize: 'cover',
-                                backgroundPosition: 'center',
-                                borderRadius: '24px',
-                                border: '1px solid rgba(255,255,255,0.05)',
-                                textAlign: 'center',
-                                boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)'
+                                textAlign: 'center'
                             }}
                         >
                             <Trophy size={80} color="var(--accent-gold)" style={{ marginBottom: '2rem', filter: 'drop-shadow(0 0 20px rgba(251, 191, 36, 0.3))' }} />
