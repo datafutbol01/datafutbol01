@@ -21,6 +21,28 @@
   <meta name="twitter:title" content="DataFútbol" />
   <meta name="twitter:description" content="Explorá el archivo definitivo del fútbol. Historiales (H2H), leyendas, y campeones desde la era amateur hasta hoy." />
   <meta name="twitter:image" content="https://datafutbol.app/pwa-512x512.png" />
+  
+  <script>
+    if (typeof Node === 'function' && Node.prototype) {
+      const originalRemoveChild = Node.prototype.removeChild;
+      Node.prototype.removeChild = function(child) {
+        if (child.parentNode !== this) {
+          console.warn('React DOM rescue: intercepted removeChild mismatch (Google Translate anomaly)');
+          return child;
+        }
+        return originalRemoveChild.apply(this, arguments);
+      };
+      
+      const originalInsertBefore = Node.prototype.insertBefore;
+      Node.prototype.insertBefore = function(newNode, referenceNode) {
+        if (referenceNode && referenceNode.parentNode !== this) {
+          console.warn('React DOM rescue: intercepted insertBefore mismatch (Google Translate anomaly)');
+          return newNode;
+        }
+        return originalInsertBefore.apply(this, arguments);
+      };
+    }
+  </script>
 </head>
 
 <body>
