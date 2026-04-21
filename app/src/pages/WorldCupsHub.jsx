@@ -404,7 +404,7 @@ export default function WorldCupsHub() {
                                                                     onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }}
                                                                 />
                                                                 <div style={{ display: 'none', background: 'rgba(255,255,255,0.1)', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.6rem' }}>
-                                                                    {team.flag.toUpperCase()}
+                                                                    {team.flag?.toUpperCase()}
                                                                 </div>
                                                             </div>
                                                             <span style={{ color: 'white', fontWeight: 'bold', fontSize: '1.1rem' }}>{team.name}</span>
