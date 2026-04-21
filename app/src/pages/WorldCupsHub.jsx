@@ -295,7 +295,7 @@ export default function WorldCupsHub() {
                         <div style={{ padding: '0 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '-1rem' }}>
                             <div style={{ position: 'relative', zIndex: 2 }}>
                                 <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
-                                    <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host.toUpperCase()} {selectedYear}
+                                    <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host?.toUpperCase()} {selectedYear}
                                 </h2>
                             </div>
                             {!wcData?.coverImage && (
