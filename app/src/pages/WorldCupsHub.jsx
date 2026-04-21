@@ -1053,6 +1053,7 @@ export default function WorldCupsHub() {
                         </div>
 
                     </motion.div>
+                    )}
                 </AnimatePresence>
             </div>
 
