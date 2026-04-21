@@ -184,10 +184,8 @@ export default function WorldCupsHub() {
 
     const currentWc = worldCups.find(w => w.year === selectedYear);
 
-    const bgImage = wcData?.coverImage || (selectedYear === null ? 'https://upload.wikimedia.org/wikipedia/commons/a/ae/FIFA_World_Cup_Trophy_at_National_Football_Museum%2C_Manchester_02.jpg' : null);
-
     return (
-        <div style={{ minHeight: '100vh', background: bgImage ? `linear-gradient(to bottom, rgba(2,6,23,0.5), rgba(2,6,23,0.95)), url("${bgImage}")` : 'var(--bg-main)', backgroundSize: 'cover', backgroundPosition: 'top center', backgroundAttachment: 'fixed', paddingTop: '2rem', position: 'relative', transition: 'background 0.5s ease-in-out' }}>
+        <div style={{ minHeight: '100vh', background: 'var(--bg-main)', paddingTop: '2rem', position: 'relative' }}>
 
             {/* Botón Volver a la Home */}
             <button
@@ -233,7 +231,7 @@ export default function WorldCupsHub() {
                 <div
                     ref={scrollRef}
                     className="hide-scrollbar"
-                    style={{ display: 'flex', overflowX: 'auto', flex: 1, scrollBehavior: 'smooth', padding: '0.5rem' }}
+                    style={{ display: 'flex', overflowX: 'auto', flex: 1, scrollBehavior: 'smooth', padding: '0.5rem', scrollbarWidth: 'none', msOverflowStyle: 'none' }}
                 >
                     {worldCups.map(wc => (
                         <button
@@ -308,11 +306,6 @@ export default function WorldCupsHub() {
                                         <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host?.toUpperCase()} {selectedYear}
                                     </h2>
                                 </div>
-                                {!wcData?.coverImage && (
-                                    <div style={{ opacity: 0.1 }}>
-                                        <Trophy size={120} color="var(--accent-gold)" />
-                                    </div>
-                                )}
                             </div>
 
                             <div style={{ display: 'grid', gridTemplateColumns: 'minmax(250px, 300px) 1fr', gap: '2rem' }}>
@@ -549,7 +542,7 @@ export default function WorldCupsHub() {
                                                                     <h4 className="title-font" style={{ fontSize: '1.6rem', color: 'var(--accent-gold)', marginTop: 0, marginBottom: '1rem', borderBottom: '1px solid rgba(251, 191, 36, 0.2)', paddingBottom: '0.5rem' }}>
                                                                         Grupo {groupName}
                                                                     </h4>
-                                                                    <div style={{ overflowX: 'auto' }}>
+                                                                    <div className="hide-scrollbar" style={{ overflowX: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                                                                         <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
                                                                             <thead>
                                                                                 <tr style={{ color: 'var(--text-muted)', borderBottom: '2px solid rgba(255,255,255,0.1)' }}>
@@ -642,7 +635,7 @@ export default function WorldCupsHub() {
                                                                     </h4>
                                                                 </div>
 
-                                                                <div style={{ overflowX: 'auto' }}>
+                                                                <div className="hide-scrollbar" style={{ overflowX: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                                                                     <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
                                                                         <thead>
                                                                             <tr style={{ color: 'var(--text-muted)', borderBottom: '2px solid rgba(255,255,255,0.1)' }}>
@@ -733,7 +726,7 @@ export default function WorldCupsHub() {
                                                     {wcData.finalGroup ? (
                                                         <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
                                                             <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', boxShadow: '0 8px 30px rgba(0,0,0,0.3)' }}>
-                                                                <div style={{ overflowX: 'auto' }}>
+                                                                <div className="hide-scrollbar" style={{ overflowX: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                                                                     <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.95rem' }}>
                                                                         <thead>
                                                                             <tr style={{ color: 'var(--text-muted)', borderBottom: '2px solid rgba(255,255,255,0.1)' }}>
@@ -817,7 +810,7 @@ export default function WorldCupsHub() {
                                                             El árbol gráfico de eliminación se inyectará aquí próximamente para este Mundial.
                                                         </div>
                                                     ) : (
-                                                        <div className="glass-panel hide-scrollbar" style={{ padding: '2rem', borderRadius: '16px', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', overflowX: 'auto' }}>
+                                                        <div className="glass-panel hide-scrollbar" style={{ padding: '2rem', borderRadius: '16px', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', overflowX: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                                                             <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '1.5rem', minWidth: '1000px' }}>
                                                                 {/* COL 1: Octavos */}
                                                                 {wcData.bracket.roundOf16 && wcData.bracket?.roundOf16?.length > 0 && (
