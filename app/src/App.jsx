@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import PwaPrompt from './components/PwaPrompt';
 import ReloadPrompt from './components/ReloadPrompt';
 import PullToRefresh from './components/PullToRefresh';
+import ErrorBoundary from './components/ErrorBoundary';
 
 function App() {
   const location = useLocation();
@@ -21,7 +22,9 @@ function App() {
       <div className="min-h-screen bg-[#020617] text-white">
         {!hideNavbar && <Navbar />}
         <main className={!hideNavbar ? "pt-20" : ""}>
-          <Outlet />
+          <ErrorBoundary>
+            <Outlet />
+          </ErrorBoundary>
         </main>
         <PwaPrompt />
         <ReloadPrompt />
