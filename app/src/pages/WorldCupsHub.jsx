@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight, Trophy, Globe2, AlertCircle, ArrowLeft, Users, Shield } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import CryptoJS from 'crypto-js';
 
 const getFlagUrl = (flag, size = 'w20') => {
     if (!flag) return '';
@@ -143,7 +144,16 @@ export default function WorldCupsHub() {
 
         importPromise
             .then(module => {
-                setWcData(module.default || module);
+                let data = module.default || module;
+                if (data && data.payload) {
+                    try {
+                        const bytes = CryptoJS.AES.decrypt(data.payload, "D4t4Fub0l_N1nj4_P4ss_2026");
+                        data = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
+                    } catch (e) {
+                        console.error("Error decrypting wc data:", e);
+                    }
+                }
+                setWcData(data);
                 setIsLoading(false);
             })
             .catch((err) => {
