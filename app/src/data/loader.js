@@ -61,7 +61,8 @@ export const getLeagues = () => {
     { id: 'copa_francia', name: 'Coupe de France', country: 'Francia', flag: '', color: '#002654', shield: 'https://media.api-sports.io/football/leagues/66.png', isHidden: true },
     { id: 'dfb_pokal', name: 'DFB Pokal', country: 'Alemania', flag: '', color: '#000000', shield: 'https://media.api-sports.io/football/leagues/81.png', isHidden: true },
     { id: 'copa_argentina', name: 'Copa Argentina', country: 'Argentina', flag: '', color: '#75aadb', shield: 'https://media.api-sports.io/football/leagues/130.png', isHidden: true },
-    { id: 'eredivisie', name: 'Eredivisie', country: 'Países Bajos', flag: '', color: '#f36c21', shield: 'https://media.api-sports.io/football/leagues/88.png', isHidden: true }
+    { id: 'eredivisie', name: 'Eredivisie', country: 'Países Bajos', flag: '', color: '#f36c21', shield: 'https://media.api-sports.io/football/leagues/88.png', isHidden: true },
+    { id: 'coppa_italia', name: 'Coppa Italia', country: 'Italia', flag: '', color: '#008f39', shield: 'https://media.api-sports.io/football/leagues/137.png', isHidden: true }
   ];
 };
 

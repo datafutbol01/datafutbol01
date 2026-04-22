@@ -47,7 +47,8 @@ export default function LiveScoresHub() {
     66: 'copa_francia',
     81: 'dfb_pokal',
     130: 'copa_argentina',
-    88: 'eredivisie'
+    88: 'eredivisie',
+    137: 'coppa_italia'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono
