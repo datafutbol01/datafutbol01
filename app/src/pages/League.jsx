@@ -62,9 +62,13 @@ export default function League() {
     'arg_b_metro': 131,
     'arg_primera_c': 132,
     'bel_pro_league': 144,
-    'chi_primera': 265
+    'chi_primera': 265,
+    'copa_francia': 66,
+    'dfb_pokal': 81,
+    'copa_argentina': 130,
+    'eredivisie': 88
   };
-  const isCup = ['champions', 'europa_league', 'conference'].includes(leagueId);
+  const isCup = ['champions', 'europa_league', 'conference', 'copa_francia', 'dfb_pokal', 'copa_argentina'].includes(leagueId);
 
   const [standingsData, setStandingsData] = useState(null);
   const [loadingStandings, setLoadingStandings] = useState(false);

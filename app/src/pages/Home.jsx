@@ -105,7 +105,7 @@ export default function Home() {
       />
 
       {/* Search Trigger and Main Content */}
-       <div style={{
+      <div style={{
         position: 'relative',
         zIndex: 10,
         minHeight: '100vh',

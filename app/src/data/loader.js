@@ -57,7 +57,11 @@ export const getLeagues = () => {
     { id: 'arg_nacional_b', name: 'Primera Nacional', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/129.png', isHidden: true },
     { id: 'arg_b_metro', name: 'Primera B Metropolitana', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/131.png', isHidden: true },
     { id: 'arg_primera_c', name: 'Primera C', country: 'Argentina', flag: '', color: '#71bdf2', shield: 'https://media.api-sports.io/football/leagues/132.png', isHidden: true },
-    { id: 'chi_primera', name: 'Primera División', country: 'Chile', flag: '', color: '#d52b1e', shield: 'https://media.api-sports.io/football/leagues/265.png', isHidden: true }
+    { id: 'chi_primera', name: 'Primera División', country: 'Chile', flag: '', color: '#d52b1e', shield: 'https://media.api-sports.io/football/leagues/265.png', isHidden: true },
+    { id: 'copa_francia', name: 'Coupe de France', country: 'Francia', flag: '', color: '#002654', shield: 'https://media.api-sports.io/football/leagues/66.png', isHidden: true },
+    { id: 'dfb_pokal', name: 'DFB Pokal', country: 'Alemania', flag: '', color: '#000000', shield: 'https://media.api-sports.io/football/leagues/81.png', isHidden: true },
+    { id: 'copa_argentina', name: 'Copa Argentina', country: 'Argentina', flag: '', color: '#75aadb', shield: 'https://media.api-sports.io/football/leagues/130.png', isHidden: true },
+    { id: 'eredivisie', name: 'Eredivisie', country: 'Países Bajos', flag: '', color: '#f36c21', shield: 'https://media.api-sports.io/football/leagues/88.png', isHidden: true }
   ];
 };
 
@@ -114,7 +118,6 @@ export const getLeagueMatchups = (leagueId) => {
 
 export const getAllSearchableItems = () => {
   const leagues = getLeagues()
-    .filter(l => !l.isHidden)
     .map(l => ({
       type: 'league',
       id: l.id,

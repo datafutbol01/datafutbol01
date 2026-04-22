@@ -7,10 +7,6 @@ import Leagues from './pages/Leagues.jsx'
 import League from './pages/League.jsx'
 import ClubDetail from './pages/ClubDetail.jsx'
 import WorldCupsHub from './pages/WorldCupsHub.jsx'
-import CopaFranciaHub from './pages/CopaFranciaHub.jsx'
-import CopaAlemaniaHub from './pages/CopaAlemaniaHub.jsx'
-import CopaArgentinaHub from './pages/CopaArgentinaHub.jsx'
-import LigaHolandaHub from './pages/LigaHolandaHub.jsx'
 import LiveScoresHub from './pages/LiveScoresHub.jsx'
 import AuditHub from './pages/AuditHub.jsx'
 import './index.css'
@@ -29,10 +25,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route index element={<Home />} />
           <Route path="leagues" element={<Leagues />} />
           <Route path="mundiales" element={<WorldCupsHub />} />
-          <Route path="copa-francia" element={<CopaFranciaHub />} />
-          <Route path="copa-alemania" element={<CopaAlemaniaHub />} />
-          <Route path="copa-argentina" element={<CopaArgentinaHub />} />
-          <Route path="eredivisie" element={<LigaHolandaHub />} />
           <Route path="resultados" element={<LiveScoresHub />} />
           <Route path="auditor" element={<AuditHub />} />
           <Route path="liga/:leagueId" element={<League />} />

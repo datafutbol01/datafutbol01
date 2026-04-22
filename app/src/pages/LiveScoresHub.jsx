@@ -43,7 +43,11 @@ export default function LiveScoresHub() {
     131: 'arg_b_metro',
     132: 'arg_primera_c',
     144: 'bel_pro_league',
-    265: 'chi_primera'
+    265: 'chi_primera',
+    66: 'copa_francia',
+    81: 'dfb_pokal',
+    130: 'copa_argentina',
+    88: 'eredivisie'
   };
 
   // Diccionario Dinámico de Idioma del Teléfono
