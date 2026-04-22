@@ -184,9 +184,8 @@ export default function WorldCupsHub() {
 
     const currentWc = worldCups.find(w => w.year === selectedYear);
 
-    const isDev = import.meta.env.DEV;
-    const coverImage = isDev && wcData?.coverImage ? wcData.coverImage : null;
-    const bgImage = coverImage || (selectedYear === null ? '/portada_mundiales_ai.png' : null);
+    const coverImage = wcData?.coverImage ? wcData.coverImage : null;
+    const bgImage = coverImage || '/portada_mundiales_ai.png';
 
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
