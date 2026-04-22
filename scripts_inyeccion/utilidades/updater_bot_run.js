@@ -50,8 +50,7 @@ async function run() {
 
     // Mega Catch-Up para Ligas Secundarias: del 11 de abril al 20 de abril
     const dates = [
-        '2026-04-11', '2026-04-12', '2026-04-13', '2026-04-14', '2026-04-15', 
-        '2026-04-16', '2026-04-17', '2026-04-18', '2026-04-19', '2026-04-20'
+        '2026-04-20', '2026-04-21', '2026-04-22'
     ];
     let lastStamp = null;
 

@@ -184,8 +184,59 @@ export default function WorldCupsHub() {
 
     const currentWc = worldCups.find(w => w.year === selectedYear);
 
+    const isDev = import.meta.env.DEV;
+    const coverImage = isDev && wcData?.coverImage ? wcData.coverImage : null;
+    const bgImage = coverImage || (selectedYear === null ? '/portada_mundiales_ai.png' : null);
+
     return (
-        <div style={{ minHeight: '100vh', background: 'var(--bg-main)', paddingTop: '2rem', position: 'relative' }}>
+        <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
+
+            {bgImage && (
+                <div style={{
+                    position: 'fixed',
+                    top: 0, left: 0, right: 0, bottom: 0,
+                    zIndex: 0,
+                    pointerEvents: 'none'
+                }}>
+                    <div style={{
+                        position: 'absolute',
+                        top: 0, left: 0, right: 0, bottom: 0,
+                        overflow: 'hidden',
+                    }}>
+                        <motion.img
+                            src={bgImage}
+                            initial={{ scale: 1, opacity: 0.8 }}
+                            animate={{ scale: 1.05, opacity: 1 }}
+                            transition={{ duration: 20, ease: "easeInOut", repeat: Infinity, repeatType: "reverse" }}
+                            style={{
+                                width: '100%',
+                                height: '100%',
+                                objectFit: 'cover',
+                                objectPosition: 'center 15%',
+                                filter: 'contrast(1.2) saturate(1.3) brightness(0.6) sepia(15%)',
+                                WebkitMaskImage: 'none',
+                                maskImage: 'none'
+                            }}
+                        />
+                    </div>
+                </div>
+            )}
+
+            <div style={{ 
+                position: 'relative', 
+                zIndex: 1, 
+                width: coverImage ? '600px' : '100%',
+                maxWidth: coverImage ? '600px' : '1400px', 
+                margin: coverImage ? '0' : '0 auto',
+                minHeight: '100vh',
+                background: 'transparent',
+                backdropFilter: 'none',
+                borderRight: 'none',
+                boxShadow: 'none',
+                display: 'flex',
+                flexDirection: 'column'
+            }}>
+                <div style={{ padding: coverImage ? '2rem 1.5rem' : '2rem', flex: 1 }}>
 
             {/* Botón Volver a la Home */}
             <button
@@ -213,17 +264,17 @@ export default function WorldCupsHub() {
                 <ArrowLeft size={24} color="var(--accent-gold)" />
             </button>
 
-            <div style={{ textAlign: 'center', marginBottom: '2rem', padding: '0 2rem' }}>
-                <h1 className="title-font animate-fade-in" style={{ fontSize: '3.5rem', color: 'white', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-                    <Globe2 size={40} color="var(--accent-gold)" />
+            <div style={{ textAlign: coverImage ? 'left' : 'center', marginBottom: '2rem', padding: coverImage ? '0 0.5rem' : '0 2rem' }}>
+                <h1 className="title-font animate-fade-in" style={{ fontSize: coverImage ? '2.5rem' : '3.5rem', color: 'white', display: 'flex', alignItems: 'center', justifyContent: coverImage ? 'flex-start' : 'center', gap: '1rem', flexWrap: 'wrap' }}>
+                    <Globe2 size={coverImage ? 32 : 40} color="var(--accent-gold)" />
                     HISTORIA DE LOS MUNDIALES
                 </h1>
-                <p style={{ color: 'var(--text-muted)', fontSize: '1.2rem', maxWidth: '800px', margin: '0 auto', fontWeight: '300' }}>
+                <p style={{ color: 'var(--text-muted)', fontSize: coverImage ? '1rem' : '1.2rem', maxWidth: '800px', margin: coverImage ? '0' : '0 auto', fontWeight: '300' }}>
                     Revive el certamen definitivo. Repasa sedes, selecciones míticas, y la llave paso a paso de cada edición.
                 </p>
             </div>
 
-            <div className="glass-panel animate-fade-in" style={{ margin: '0 2rem 3rem', padding: '0', borderRadius: '16px', overflow: 'hidden', display: 'flex', alignItems: 'center' }}>
+            <div className="glass-panel animate-fade-in" style={{ margin: coverImage ? '0 0.5rem 2rem' : '0 2rem 3rem', padding: '0', borderRadius: '16px', overflow: 'hidden', display: 'flex', alignItems: 'center' }}>
                 <button onClick={() => scrollNav('left')} style={{ background: 'rgba(0,0,0,0.4)', border: 'none', color: 'var(--accent-gold)', padding: '1.5rem 1rem', cursor: 'pointer', zIndex: 10 }}>
                     <ChevronLeft size={24} />
                 </button>
@@ -241,7 +292,7 @@ export default function WorldCupsHub() {
                             style={{
                                 flex: '0 0 auto',
                                 display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '0.2rem',
-                                minWidth: '100px',
+                                minWidth: coverImage ? '80px' : '100px',
                                 padding: '0.8rem',
                                 border: 'none',
                                 background: selectedYear === wc.year ? 'var(--accent-gold)' : 'transparent',
@@ -253,7 +304,7 @@ export default function WorldCupsHub() {
                                 transform: selectedYear === wc.year ? 'scale(1.05)' : 'scale(1)'
                             }}
                         >
-                            <span className="title-font" style={{ fontSize: '1.5rem', fontWeight: '900', letterSpacing: '1px' }}>{wc.year}</span>
+                            <span className="title-font" style={{ fontSize: coverImage ? '1.2rem' : '1.5rem', fontWeight: '900', letterSpacing: '1px' }}>{wc.year}</span>
                             <span style={{ fontSize: '0.7rem', fontWeight: '800', textTransform: 'uppercase', opacity: 0.8 }}>{wc.host}</span>
                         </button>
                     ))}
@@ -264,7 +315,7 @@ export default function WorldCupsHub() {
                 </button>
             </div>
 
-            <div style={{ maxWidth: '1400px', margin: '0 auto', padding: '0 2rem 4rem' }}>
+            <div style={{ maxWidth: '1400px', margin: '0 auto', padding: coverImage ? '0 0.5rem' : '0 2rem 4rem' }}>
                 <AnimatePresence mode="wait">
                     {selectedYear === null ? (
                         <motion.div
@@ -308,9 +359,9 @@ export default function WorldCupsHub() {
                                 </div>
                             </div>
 
-                            <div style={{ display: 'grid', gridTemplateColumns: 'minmax(250px, 300px) 1fr', gap: '2rem' }}>
-                                <div className="glass-panel" style={{ padding: '1rem', borderRadius: '16px', display: 'flex', flexDirection: 'column', gap: '0.5rem', height: 'fit-content' }}>
-                                    <div style={{ padding: '1rem', fontWeight: 'bold', color: 'var(--text-muted)', textTransform: 'uppercase', fontSize: '0.8rem', letterSpacing: '1px' }}>
+                            <div style={{ display: 'grid', gridTemplateColumns: coverImage ? '1fr' : 'minmax(250px, 300px) 1fr', gap: '2rem' }}>
+                                <div className={coverImage ? "" : "glass-panel"} style={{ padding: coverImage ? '0' : '1rem', borderRadius: '16px', display: 'flex', flexDirection: coverImage ? 'row' : 'column', flexWrap: coverImage ? 'wrap' : 'nowrap', gap: '0.5rem', height: 'fit-content' }}>
+                                    <div style={{ padding: coverImage ? '0.5rem 0' : '1rem', fontWeight: 'bold', color: 'var(--text-muted)', textTransform: 'uppercase', fontSize: '0.8rem', letterSpacing: '1px', width: coverImage ? '100%' : 'auto' }}>
                                         NAVEGACIÓN DEL TORNEO
                                     </div>
 
@@ -356,7 +407,7 @@ export default function WorldCupsHub() {
                                     </button>
                                 </div>
 
-                                <div className="glass-panel" style={{ padding: '2rem', borderRadius: '16px', minHeight: '500px', position: 'relative' }}>
+                                <div className={coverImage ? "" : "glass-panel"} style={{ padding: '2rem', borderRadius: '16px', minHeight: '500px', position: 'relative' }}>
                                     {isLoading ? (
                                         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--accent-gold)' }}>Cargando datos...</div>
                                     ) : !wcData ? (
@@ -369,9 +420,14 @@ export default function WorldCupsHub() {
                                         <>
                                             {activeTab === 'participantes' && !selectedTeam && (
                                                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                                                    <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '2rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem', display: 'inline-block' }}>
-                                                        Naciones Clasificadas ({wcData.participants?.length})
-                                                    </h3>
+                                                    <div style={{ marginBottom: '2rem' }}>
+                                                        <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '0.5rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem', display: 'inline-block' }}>
+                                                            Naciones Clasificadas ({wcData.participants?.length})
+                                                        </h3>
+                                                        <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontStyle: 'italic', margin: 0 }}>
+                                                            Haz clic sobre una selección para ver su plantilla oficial.
+                                                        </p>
+                                                    </div>
                                                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1.5rem' }}>
                                                         {(wcData.participants || []).map((team, i) => (
                                                             <div
@@ -414,9 +470,7 @@ export default function WorldCupsHub() {
                                                             </div>
                                                         ))}
                                                     </div>
-                                                    <div style={{ marginTop: '2rem', color: 'var(--text-muted)', fontSize: '0.9rem' }}>
-                                                        *Haz clic sobre una selección habilitada (ej. Argentina) para ver su plantilla oficial.
-                                                    </div>
+
                                                 </motion.div>
                                             )}
 
@@ -1043,6 +1097,8 @@ export default function WorldCupsHub() {
                 </AnimatePresence>
             </div>
 
+            </div> {/* Close padding wrapper */}
+            </div> {/* Close relative z-index wrapper */}
         </div>
     );
 }

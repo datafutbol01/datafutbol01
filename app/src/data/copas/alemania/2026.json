@@ -1,0 +1,296 @@
+{
+  "year": 2026,
+  "host": "Alemania",
+  "coverImage": null,
+  "groups": {},
+  "secondStageGroups": {},
+  "knockoutPhase": {
+    "octavos": [
+      {
+        "teamA": "Hertha BSC",
+        "teamB": "1. FC Kaiserslautern",
+        "scoreA": 6,
+        "scoreB": 1,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-02T17:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/159.png",
+        "flagB": "https://media.api-sports.io/football/teams/745.png"
+      },
+      {
+        "teamA": "Borussia Mönchengladbach",
+        "teamB": "FC St. Pauli",
+        "scoreA": 1,
+        "scoreB": 2,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-02T17:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/163.png",
+        "flagB": "https://media.api-sports.io/football/teams/186.png"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Bayer Leverkusen",
+        "scoreA": 0,
+        "scoreB": 1,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-02T20:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/165.png",
+        "flagB": "https://media.api-sports.io/football/teams/168.png"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "1. FC Magdeburg",
+        "scoreA": 3,
+        "scoreB": 1,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-02T20:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/173.png",
+        "flagB": "https://media.api-sports.io/football/teams/179.png"
+      },
+      {
+        "teamA": "SC Freiburg",
+        "teamB": "SV Darmstadt 98",
+        "scoreA": 2,
+        "scoreB": 0,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-03T17:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/160.png",
+        "flagB": "https://media.api-sports.io/football/teams/181.png"
+      },
+      {
+        "teamA": "VfL Bochum",
+        "teamB": "VfB Stuttgart",
+        "scoreA": 0,
+        "scoreB": 2,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-03T17:00:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/176.png",
+        "flagB": "https://media.api-sports.io/football/teams/172.png"
+      },
+      {
+        "teamA": "Hamburger SV",
+        "teamB": "Holstein Kiel",
+        "scoreA": 0,
+        "scoreB": 0,
+        "penaltyA": 2,
+        "penaltyB": 4,
+        "date": "2025-12-03T19:45:00+00:00",
+        "status": "PEN",
+        "flagA": "https://media.api-sports.io/football/teams/175.png",
+        "flagB": "https://media.api-sports.io/football/teams/191.png"
+      },
+      {
+        "teamA": "Union Berlin",
+        "teamB": "Bayern München",
+        "scoreA": 2,
+        "scoreB": 3,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2025-12-03T19:45:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/182.png",
+        "flagB": "https://media.api-sports.io/football/teams/157.png"
+      }
+    ],
+    "cuartos": [
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "FC St. Pauli",
+        "scoreA": 3,
+        "scoreB": 0,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2026-02-03T19:45:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/168.png",
+        "flagB": "https://media.api-sports.io/football/teams/186.png"
+      },
+      {
+        "teamA": "Holstein Kiel",
+        "teamB": "VfB Stuttgart",
+        "scoreA": 0,
+        "scoreB": 3,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2026-02-04T19:45:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/191.png",
+        "flagB": "https://media.api-sports.io/football/teams/172.png"
+      },
+      {
+        "teamA": "Hertha BSC",
+        "teamB": "SC Freiburg",
+        "scoreA": 0,
+        "scoreB": 0,
+        "penaltyA": 4,
+        "penaltyB": 5,
+        "date": "2026-02-10T19:45:00+00:00",
+        "status": "PEN",
+        "flagA": "https://media.api-sports.io/football/teams/159.png",
+        "flagB": "https://media.api-sports.io/football/teams/160.png"
+      },
+      {
+        "teamA": "Bayern München",
+        "teamB": "RB Leipzig",
+        "scoreA": 2,
+        "scoreB": 0,
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2026-02-11T19:45:00+00:00",
+        "status": "FT",
+        "flagA": "https://media.api-sports.io/football/teams/157.png",
+        "flagB": "https://media.api-sports.io/football/teams/173.png"
+      }
+    ],
+    "semifinal": [
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "Bayern München",
+        "scoreA": "-",
+        "scoreB": "-",
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2026-04-22T18:45:00+00:00",
+        "status": "NS",
+        "flagA": "https://media.api-sports.io/football/teams/168.png",
+        "flagB": "https://media.api-sports.io/football/teams/157.png"
+      },
+      {
+        "teamA": "VfB Stuttgart",
+        "teamB": "SC Freiburg",
+        "scoreA": "-",
+        "scoreB": "-",
+        "penaltyA": null,
+        "penaltyB": null,
+        "date": "2026-04-23T18:45:00+00:00",
+        "status": "NS",
+        "flagA": "https://media.api-sports.io/football/teams/172.png",
+        "flagB": "https://media.api-sports.io/football/teams/160.png"
+      }
+    ],
+    "tercerPuesto": [],
+    "final": []
+  },
+  "awards": {},
+  "stats": {
+    "goleadores": [
+      {
+        "name": "H. Kane",
+        "team": "Bayern München",
+        "goals": 6
+      },
+      {
+        "name": "C. Baumgartner",
+        "team": "RB Leipzig",
+        "goals": 4
+      },
+      {
+        "name": "L. Querfeld",
+        "team": "Union Berlin",
+        "goals": 4
+      },
+      {
+        "name": "D. Undav",
+        "team": "VfB Stuttgart",
+        "goals": 2
+      },
+      {
+        "name": "M. Olise",
+        "team": "Bayern München",
+        "goals": 2
+      }
+    ],
+    "asistencias": [
+      {
+        "name": "F. Honorat",
+        "team": "Borussia Mönchengladbach",
+        "assists": 3
+      },
+      {
+        "name": "K. Stöger",
+        "team": "Borussia Mönchengladbach",
+        "assists": 3
+      },
+      {
+        "name": "D. Undav",
+        "team": "VfB Stuttgart",
+        "assists": 2
+      },
+      {
+        "name": "W. Orbán",
+        "team": "RB Leipzig",
+        "assists": 2
+      },
+      {
+        "name": "Aleix García",
+        "team": "Bayer Leverkusen",
+        "assists": 2
+      }
+    ],
+    "rojas": [
+      {
+        "name": "T. Siersleben",
+        "team": "1. FC Heidenheim",
+        "cards": 1
+      },
+      {
+        "name": "L. Pinckert",
+        "team": "SV Elversberg",
+        "cards": 1
+      },
+      {
+        "name": "P. Strompf",
+        "team": "VfL Bochum",
+        "cards": 1
+      },
+      {
+        "name": "F. Götze",
+        "team": "SC Paderborn 07",
+        "cards": 1
+      },
+      {
+        "name": "M. TaÅdelen",
+        "team": "SG Sonnenhof Grossaspach",
+        "cards": 1
+      }
+    ],
+    "amarillas": [
+      {
+        "name": "E. Banzuzi",
+        "team": "RB Leipzig",
+        "cards": 2
+      },
+      {
+        "name": "A. Pavlović",
+        "team": "Bayern München",
+        "cards": 2
+      },
+      {
+        "name": "M. Dárdai",
+        "team": "Hertha BSC",
+        "cards": 2
+      },
+      {
+        "name": "Aleix García",
+        "team": "Bayer Leverkusen",
+        "cards": 2
+      },
+      {
+        "name": "R. Andrich",
+        "team": "Bayer Leverkusen",
+        "cards": 2
+      }
+    ]
+  }
+}

@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt",
+    "build": "node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt && node scripts/prerender.js",
+    "prerender": "node scripts/prerender.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },

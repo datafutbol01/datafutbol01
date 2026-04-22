@@ -1,0 +1,351 @@
+{
+  "year": 2026,
+  "host": "Países Bajos",
+  "coverImage": null,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "PSV Eindhoven",
+      "flag": "https://media.api-sports.io/football/teams/197.png",
+      "pts": 74,
+      "pj": 30,
+      "pg": 24,
+      "pe": 2,
+      "pp": 4,
+      "gf": 84,
+      "gc": 40,
+      "gd": 44
+    },
+    {
+      "rank": 2,
+      "team": "Feyenoord",
+      "flag": "https://media.api-sports.io/football/teams/209.png",
+      "pts": 55,
+      "pj": 30,
+      "pg": 16,
+      "pe": 7,
+      "pp": 7,
+      "gf": 62,
+      "gc": 41,
+      "gd": 21
+    },
+    {
+      "rank": 3,
+      "team": "NEC Nijmegen",
+      "flag": "https://media.api-sports.io/football/teams/413.png",
+      "pts": 54,
+      "pj": 30,
+      "pg": 15,
+      "pe": 9,
+      "pp": 6,
+      "gf": 72,
+      "gc": 48,
+      "gd": 24
+    },
+    {
+      "rank": 4,
+      "team": "Twente",
+      "flag": "https://media.api-sports.io/football/teams/415.png",
+      "pts": 53,
+      "pj": 30,
+      "pg": 14,
+      "pe": 11,
+      "pp": 5,
+      "gf": 51,
+      "gc": 32,
+      "gd": 19
+    },
+    {
+      "rank": 5,
+      "team": "Ajax",
+      "flag": "https://media.api-sports.io/football/teams/194.png",
+      "pts": 51,
+      "pj": 30,
+      "pg": 13,
+      "pe": 12,
+      "pp": 5,
+      "gf": 57,
+      "gc": 37,
+      "gd": 20
+    },
+    {
+      "rank": 6,
+      "team": "AZ Alkmaar",
+      "flag": "https://media.api-sports.io/football/teams/201.png",
+      "pts": 48,
+      "pj": 30,
+      "pg": 14,
+      "pe": 6,
+      "pp": 10,
+      "gf": 52,
+      "gc": 45,
+      "gd": 7
+    },
+    {
+      "rank": 7,
+      "team": "Utrecht",
+      "flag": "https://media.api-sports.io/football/teams/207.png",
+      "pts": 44,
+      "pj": 30,
+      "pg": 12,
+      "pe": 8,
+      "pp": 10,
+      "gf": 49,
+      "gc": 36,
+      "gd": 13
+    },
+    {
+      "rank": 8,
+      "team": "Heerenveen",
+      "flag": "https://media.api-sports.io/football/teams/210.png",
+      "pts": 44,
+      "pj": 30,
+      "pg": 12,
+      "pe": 8,
+      "pp": 10,
+      "gf": 53,
+      "gc": 50,
+      "gd": 3
+    },
+    {
+      "rank": 9,
+      "team": "Groningen",
+      "flag": "https://media.api-sports.io/football/teams/202.png",
+      "pts": 42,
+      "pj": 30,
+      "pg": 12,
+      "pe": 6,
+      "pp": 12,
+      "gf": 42,
+      "gc": 37,
+      "gd": 5
+    },
+    {
+      "rank": 10,
+      "team": "Sparta Rotterdam",
+      "flag": "https://media.api-sports.io/football/teams/426.png",
+      "pts": 42,
+      "pj": 30,
+      "pg": 12,
+      "pe": 6,
+      "pp": 12,
+      "gf": 35,
+      "gc": 49,
+      "gd": -14
+    },
+    {
+      "rank": 11,
+      "team": "GO Ahead Eagles",
+      "flag": "https://media.api-sports.io/football/teams/410.png",
+      "pts": 36,
+      "pj": 30,
+      "pg": 8,
+      "pe": 12,
+      "pp": 10,
+      "gf": 50,
+      "gc": 45,
+      "gd": 5
+    },
+    {
+      "rank": 12,
+      "team": "Fortuna Sittard",
+      "flag": "https://media.api-sports.io/football/teams/205.png",
+      "pts": 36,
+      "pj": 30,
+      "pg": 10,
+      "pe": 6,
+      "pp": 14,
+      "gf": 44,
+      "gc": 55,
+      "gd": -11
+    },
+    {
+      "rank": 13,
+      "team": "PEC Zwolle",
+      "flag": "https://media.api-sports.io/football/teams/193.png",
+      "pts": 34,
+      "pj": 30,
+      "pg": 8,
+      "pe": 10,
+      "pp": 12,
+      "gf": 40,
+      "gc": 60,
+      "gd": -20
+    },
+    {
+      "rank": 14,
+      "team": "FC Volendam",
+      "flag": "https://media.api-sports.io/football/teams/416.png",
+      "pts": 28,
+      "pj": 30,
+      "pg": 7,
+      "pe": 7,
+      "pp": 16,
+      "gf": 31,
+      "gc": 50,
+      "gd": -19
+    },
+    {
+      "rank": 15,
+      "team": "Excelsior",
+      "flag": "https://media.api-sports.io/football/teams/196.png",
+      "pts": 28,
+      "pj": 30,
+      "pg": 7,
+      "pe": 7,
+      "pp": 16,
+      "gf": 31,
+      "gc": 51,
+      "gd": -20
+    },
+    {
+      "rank": 16,
+      "team": "Telstar",
+      "flag": "https://media.api-sports.io/football/teams/427.png",
+      "pts": 27,
+      "pj": 30,
+      "pg": 6,
+      "pe": 9,
+      "pp": 15,
+      "gf": 39,
+      "gc": 52,
+      "gd": -13
+    },
+    {
+      "rank": 17,
+      "team": "NAC Breda",
+      "flag": "https://media.api-sports.io/football/teams/203.png",
+      "pts": 25,
+      "pj": 30,
+      "pg": 5,
+      "pe": 10,
+      "pp": 15,
+      "gf": 30,
+      "gc": 51,
+      "gd": -21
+    },
+    {
+      "rank": 18,
+      "team": "Heracles",
+      "flag": "https://media.api-sports.io/football/teams/206.png",
+      "pts": 19,
+      "pj": 30,
+      "pg": 5,
+      "pe": 4,
+      "pp": 21,
+      "gf": 34,
+      "gc": 77,
+      "gd": -43
+    }
+  ],
+  "stats": {
+    "goleadores": [
+      {
+        "name": "A. Ueda",
+        "team": "Feyenoord",
+        "goals": 23
+      },
+      {
+        "name": "M. Godts",
+        "team": "Ajax",
+        "goals": 15
+      },
+      {
+        "name": "I. Saibari",
+        "team": "PSV Eindhoven",
+        "goals": 15
+      },
+      {
+        "name": "T. Parrott",
+        "team": "AZ Alkmaar",
+        "goals": 15
+      },
+      {
+        "name": "G. Til",
+        "team": "PSV Eindhoven",
+        "goals": 13
+      }
+    ],
+    "asistencias": [
+      {
+        "name": "J. Veerman",
+        "team": "PSV Eindhoven",
+        "assists": 14
+      },
+      {
+        "name": "M. Godts",
+        "team": "Ajax",
+        "assists": 10
+      },
+      {
+        "name": "M. Ihattaren",
+        "team": "Fortuna Sittard",
+        "assists": 10
+      },
+      {
+        "name": "I. Perišić",
+        "team": "PSV Eindhoven",
+        "assists": 10
+      },
+      {
+        "name": "S. El Karouani",
+        "team": "Utrecht",
+        "assists": 10
+      }
+    ],
+    "rojas": [
+      {
+        "name": "R. Hillen",
+        "team": "NAC Breda",
+        "cards": 1
+      },
+      {
+        "name": "Justin Quincy Hubner",
+        "team": "Fortuna Sittard",
+        "cards": 1
+      },
+      {
+        "name": "B. van Rooij",
+        "team": "Twente",
+        "cards": 1
+      },
+      {
+        "name": "S. Ouaissa",
+        "team": "NEC Nijmegen",
+        "cards": 1
+      },
+      {
+        "name": "B. Martins Indi",
+        "team": "Sparta Rotterdam",
+        "cards": 1
+      }
+    ],
+    "amarillas": [
+      {
+        "name": "A. Kaplan",
+        "team": "NEC Nijmegen",
+        "cards": 10
+      },
+      {
+        "name": "P. Brittijn",
+        "team": "Fortuna Sittard",
+        "cards": 9
+      },
+      {
+        "name": "M. de Wit",
+        "team": "AZ Alkmaar",
+        "cards": 9
+      },
+      {
+        "name": "W. Goes",
+        "team": "AZ Alkmaar",
+        "cards": 9
+      },
+      {
+        "name": "L. Valente",
+        "team": "Feyenoord",
+        "cards": 8
+      }
+    ]
+  }
+}

@@ -82,6 +82,10 @@ export default function Home() {
   const pillars = [
     { title: t.explore, icon: Shield, link: '/leagues', bg: 'rgba(251, 191, 36, 0.1)', border: 'var(--accent-gold)' },
     { title: t.wc, icon: Globe2, link: '/mundiales', bg: 'rgba(56, 189, 248, 0.1)', border: '#38bdf8' },
+    { title: 'COPA DE FRANCIA', icon: Trophy, link: '/copa-francia', bg: 'rgba(251, 191, 36, 0.1)', border: 'var(--accent-gold)' },
+    { title: 'COPA DE ALEMANIA', icon: Trophy, link: '/copa-alemania', bg: 'rgba(251, 191, 36, 0.1)', border: 'var(--accent-gold)' },
+    { title: 'COPA ARGENTINA', icon: Trophy, link: '/copa-argentina', bg: 'rgba(56, 189, 248, 0.1)', border: '#38bdf8' },
+    { title: 'EREDIVISIE', icon: Trophy, link: '/eredivisie', bg: 'rgba(251, 191, 36, 0.1)', border: '#f97316' },
     { title: t.live, icon: Activity, link: '/resultados', bg: 'rgba(239, 68, 68, 0.1)', border: '#ef4444' }
   ];
 
