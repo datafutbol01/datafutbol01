@@ -26,14 +26,113 @@ export default function Home() {
       return;
     }
 
-    const filtered = allItems.current
-      .filter(item =>
-        item.name.toLowerCase().includes(query.toLowerCase()) ||
-        (item.leagueName?.toLowerCase().includes(query.toLowerCase()))
-      )
-      .slice(0, 5);
+    const q = query.toLowerCase();
 
-    setResults(filtered);
+    // Diccionario de atajos para equipos que no tienen JSON pero queremos que dirijan a su liga
+    const leagueKeywords = {
+      'quilmes': 'arg_nacional_b',
+      'colon': 'arg_nacional_b',
+      'san martin de san juan': 'arg_nacional_b',
+      'san martin sj': 'arg_nacional_b',
+      'san martin (sj)': 'arg_nacional_b',
+      'aldosivi': 'arg_nacional_b',
+      'ferro': 'arg_nacional_b',
+      'chicago': 'arg_nacional_b',
+      'nueva chicago': 'arg_nacional_b',
+      'all boys': 'arg_nacional_b',
+      'patronato': 'arg_nacional_b',
+      'san miguel': 'arg_nacional_b',
+      'moron': 'arg_nacional_b',
+      'deportivo moron': 'arg_nacional_b',
+      'gimnasia de jujuy': 'arg_nacional_b',
+      'gimnasia y tiro': 'arg_nacional_b',
+      'los andes': 'arg_b_metro',
+      'dock sud': 'arg_b_metro',
+      'midland': 'arg_b_metro',
+      'excursionistas': 'arg_b_metro',
+      'laferrere': 'arg_b_metro',
+      'america': 'mex_liga_mx',
+      'cruz azul': 'mex_liga_mx',
+      'chivas': 'mex_liga_mx',
+      'pumas': 'mex_liga_mx',
+      'monterrey': 'mex_liga_mx',
+      'tigres': 'mex_liga_mx'
+    };
+
+    const rawMatches = allItems.current.filter(item => 
+      item.name.toLowerCase().includes(q) || 
+      (item.leagueName && item.leagueName.toLowerCase().includes(q))
+    ).slice(0, 2); // Tomamos 2 clubes para dejar lugar a los atajos de torneos
+
+    let expandedResults = [];
+    
+    rawMatches.forEach(match => {
+       // 1. Agregamos el club como primera opción
+       expandedResults.push(match);
+       
+       if (match.type === 'club') {
+          // 2. Agregamos su liga doméstica
+          if (!expandedResults.find(r => r.id === `shortcut_${match.leagueId}`)) {
+             expandedResults.push({
+                type: 'shortcut',
+                id: `shortcut_${match.leagueId}`,
+                name: `🏆 Ir a tabla de ${match.leagueName}`,
+                country: 'Torneo Local',
+                url: `/liga/${match.leagueId}`,
+                shield: null
+             });
+          }
+
+          // 3. Torneos Internacionales según el continente
+          const isTopEuropean = ['inglaterra', 'espania', 'italia', 'alemania', 'francia'].includes(match.leagueId);
+          if (isTopEuropean) {
+             if (!expandedResults.find(r => r.id === 'shortcut_champions')) {
+                expandedResults.push({
+                   type: 'shortcut',
+                   id: 'shortcut_champions',
+                   name: `⭐ Ver Champions League`,
+                   country: 'Torneo Internacional',
+                   url: `/liga/champions`,
+                   shield: null
+                });
+             }
+          }
+          
+          const isTopAmerican = ['argentina', 'brasil', 'uruguay'].includes(match.leagueId);
+          if (isTopAmerican) {
+             if (!expandedResults.find(r => r.id === 'shortcut_libertadores')) {
+                expandedResults.push({
+                   type: 'shortcut',
+                   id: 'shortcut_libertadores',
+                   name: `🌎 Ver Copa Libertadores`,
+                   country: 'Torneo Internacional',
+                   url: `/liga/libertadores`,
+                   shield: null
+                });
+             }
+          }
+       }
+    });
+
+    // 4. Si el usuario buscó un equipo que no tiene JSON, pero está en el diccionario de atajos:
+    Object.entries(leagueKeywords).forEach(([keyword, lId]) => {
+      if (keyword.includes(q)) {
+         const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+         if (leagueObj && !expandedResults.find(r => r.id === `shortcut_${lId}`)) {
+             expandedResults.push({
+                type: 'shortcut',
+                id: `shortcut_${lId}`,
+                name: `🏆 Ir a tabla de ${leagueObj.name} (Torneo Local)`,
+                country: leagueObj.country,
+                url: `/liga/${lId}`,
+                shield: null
+             });
+         }
+      }
+    });
+
+    // Filtramos para no mostrar más de 6 u 8 resultados en total para que no quede gigante
+    setResults(expandedResults.slice(0, 8));
     setSelectedIndex(0);
   }, [query]);
 
@@ -84,6 +183,10 @@ export default function Home() {
     { title: t.wc, icon: Globe2, link: '/mundiales', bg: 'rgba(56, 189, 248, 0.1)', border: '#38bdf8' },
     { title: t.live, icon: Activity, link: '/resultados', bg: 'rgba(239, 68, 68, 0.1)', border: '#ef4444' }
   ];
+
+  if (import.meta.env.DEV) {
+    pillars.splice(2, 0, { title: t.cups, icon: Trophy, link: '/champions', bg: 'rgba(167, 139, 250, 0.1)', border: '#a855f7' });
+  }
 
   return (
     <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflow: 'hidden', background: '#020617' }}>
@@ -208,9 +311,11 @@ export default function Home() {
                           <Trophy size={22} />
                         )}
                         <div style={{ display: 'flex', flexDirection: 'column' }}>
-                          <span style={{ fontWeight: '800', fontSize: '1.1rem' }}>{item.name}</span>
+                          <span style={{ fontWeight: '800', fontSize: '1.1rem' }}>
+                            {item.type === 'club' ? `⚽ ${item.name}` : item.name}
+                          </span>
                           <span style={{ fontSize: '0.75rem', opacity: 0.8, fontWeight: '700', textTransform: 'uppercase', color: selectedIndex === idx ? 'rgba(0,0,0,0.7)' : 'var(--text-muted)' }}>
-                            {item.type === 'league' ? item.country : item.leagueName}
+                            {item.type === 'league' ? item.country : (item.type === 'shortcut' ? item.country : `Ficha Histórica - ${item.leagueName}`)}
                           </span>
                         </div>
                       </div>
