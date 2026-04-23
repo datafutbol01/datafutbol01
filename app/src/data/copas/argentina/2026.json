@@ -9,12 +9,12 @@
       {
         "teamA": "Acassuso",
         "teamB": "Gimnasia L.P.",
-        "scoreA": "-",
-        "scoreB": "-",
+        "scoreA": "0",
+        "scoreB": "3",
         "penaltyA": null,
         "penaltyB": null,
         "date": "2026-04-22T22:00:00+00:00",
-        "status": "NS",
+        "status": "FT",
         "flagA": "https://media.api-sports.io/football/teams/2425.png",
         "flagB": "https://media.api-sports.io/football/teams/434.png"
       },
@@ -210,91 +210,49 @@
   "stats": {
     "goleadores": [
       {
-        "name": "Enrico Mantovani",
-        "team": "Ituzaingó",
-        "goals": 0
+        "name": "Adam Bareiro",
+        "team": "Boca Juniors",
+        "goals": 2
       },
       {
-        "name": "Emanuel Mantovani",
-        "team": "Ituzaingó",
-        "goals": 0
+        "name": "Marcelino Moreno",
+        "team": "Lanus",
+        "goals": 2
       },
       {
-        "name": "J. Sosa",
-        "team": "Estudiantes L.P.",
-        "goals": 0
+        "name": "Cristian Tarragona",
+        "team": "Union Santa Fe",
+        "goals": 1
       },
       {
-        "name": "Facundo Gulli",
-        "team": "San Lorenzo",
-        "goals": 0
+        "name": "Pablo De Blasis",
+        "team": "Gimnasia L.P.",
+        "goals": 1
       }
     ],
     "asistencias": [
       {
-        "name": "Enrico Mantovani",
-        "team": "Ituzaingó",
-        "assists": 0
+        "name": "Manuel Lanzini",
+        "team": "River Plate",
+        "assists": 2
       },
       {
-        "name": "Emanuel Mantovani",
-        "team": "Ituzaingó",
-        "assists": 0
-      },
-      {
-        "name": "J. Sosa",
+        "name": "Facundo Valdéz",
         "team": "Estudiantes L.P.",
-        "assists": 0
+        "assists": 1
       },
       {
-        "name": "Facundo Gulli",
+        "name": "Marcelo Torres",
         "team": "San Lorenzo",
-        "assists": 0
+        "assists": 1
+      },
+      {
+        "name": "Lucas Castro",
+        "team": "Gimnasia L.P.",
+        "assists": 1
       }
     ],
-    "rojas": [
-      {
-        "name": "Enrico Mantovani",
-        "team": "Ituzaingó",
-        "cards": 0
-      },
-      {
-        "name": "Emanuel Mantovani",
-        "team": "Ituzaingó",
-        "cards": 0
-      },
-      {
-        "name": "J. Sosa",
-        "team": "Estudiantes L.P.",
-        "cards": 0
-      },
-      {
-        "name": "Facundo Gulli",
-        "team": "San Lorenzo",
-        "cards": 0
-      }
-    ],
-    "amarillas": [
-      {
-        "name": "Enrico Mantovani",
-        "team": "Ituzaingó",
-        "cards": 0
-      },
-      {
-        "name": "Emanuel Mantovani",
-        "team": "Ituzaingó",
-        "cards": 0
-      },
-      {
-        "name": "J. Sosa",
-        "team": "Estudiantes L.P.",
-        "cards": 0
-      },
-      {
-        "name": "Facundo Gulli",
-        "team": "San Lorenzo",
-        "cards": 0
-      }
-    ]
+    "rojas": [],
+    "amarillas": []
   }
 }

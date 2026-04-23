@@ -89,7 +89,7 @@ export default function League() {
          setLoadingStandings(true);
          try {
            const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
+           const season = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
            const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
            
            const headers = isLocal ? {
@@ -645,7 +645,7 @@ export default function League() {
                         </h3>
                         <div className="hide-scrollbar" style={{ overflowX: 'auto', paddingBottom: '1rem' }}>
                            <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '2rem', minWidth: '1000px' }}>
-                              {['Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map((roundName, colIndex) => {
+                              {['Round of 64', 'Round of 32', 'Round of 16', 'Quarter-finals', 'Semi-finals', 'Final'].map((roundName, colIndex, arr) => {
                                   let matches = knockoutData.filter(f => f.league.round.includes(roundName));
                                   
                                   // PLACHOLDERS SI LA API TODAVÍA NO ARMÓ LAS LLAVES FUTURAS
@@ -672,7 +672,7 @@ export default function League() {
                                   if (matches.length === 0) return null;
 
                                   return (
-                                      <div key={roundName} style={{ display: 'flex', flexDirection: 'column', width: colIndex === 3 ? '320px' : '260px', gap: '1rem', justifyContent: 'space-around' }}>
+                                      <div key={roundName} style={{ display: 'flex', flexDirection: 'column', width: colIndex === arr.length - 1 ? '320px' : '260px', gap: '1rem', justifyContent: 'space-around' }}>
                                          <h4 style={{ color: 'var(--accent-gold)', marginBottom: '0.5rem', fontSize: '0.9rem', textAlign: 'center', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '1px' }}>{roundName.replace('-', ' ')}</h4>
                                          
                                          {(() => {
