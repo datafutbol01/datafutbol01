@@ -80,8 +80,13 @@ export default function League() {
   const [promediosData, setPromediosData] = useState(null);
   const [loadingPromedios, setLoadingPromedios] = useState(false);
   
-  // FIXTURES: Cuadro de Llaves
+  // FIXTURES: Cuadro de Llaves y Calendario
   const [knockoutData, setKnockoutData] = useState(null);
+  
+  const [fixtureData, setFixtureData] = useState(null);
+  const [loadingFixtures, setLoadingFixtures] = useState(false);
+  const [viewMode, setViewMode] = useState('tabla'); // 'tabla' | 'fixture'
+  const [selectedRound, setSelectedRound] = useState('');
 
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
@@ -107,7 +112,7 @@ export default function League() {
               setStandingsData(dataSt.response[0].league.standings);
            }
            
-           // Fetch Cuadro de Llaves (Si es Copa)
+           // Fetch Cuadro de Llaves (Si es Copa) o Fixture de Liga (Si no es copa)
            if (isCup) {
                const endpointFix = isLocal 
                  ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${season}`
@@ -115,6 +120,24 @@ export default function League() {
                const resFix = await fetch(endpointFix, { headers });
                const dataFix = await resFix.json();
                if (dataFix.response) setKnockoutData(dataFix.response);
+           } else {
+               setLoadingFixtures(true);
+               const endpointFix = isLocal 
+                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${season}`
+                 : `/api/fixtures?league=${apiId}&season=${season}`;
+               const resFix = await fetch(endpointFix, { headers });
+               const dataFix = await resFix.json();
+               if (dataFix.response) {
+                   setFixtureData(dataFix.response);
+                   // Buscar la ronda actual (el primer partido no jugado o el último de la lista)
+                   const currentMatch = dataFix.response.find(f => f.fixture.status.short === 'NS' || f.fixture.status.short === 'TBD' || f.fixture.status.short === 'PST');
+                   if (currentMatch) {
+                       setSelectedRound(currentMatch.league.round);
+                   } else if (dataFix.response.length > 0) {
+                       setSelectedRound(dataFix.response[dataFix.response.length - 1].league.round);
+                   }
+               }
+               setLoadingFixtures(false);
            }
            
            // Traemos también las STATS
@@ -887,13 +910,40 @@ export default function League() {
 
               </div>
 
-                  {/* Columna Grande: Tabla de Clasificación */}
+                  {/* Columna Grande: Tabla de Clasificación o Fixture */}
                   <div className="glass-panel" style={{ padding: '1.5rem', borderRadius: '16px', gridColumn: '1 / -1' }}>
-                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem' }}>
-                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>⭐ Clasificación</h3>
-                         <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontWeight: 'bold' }}>Jornada 27</span>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '0.5rem', flexWrap: 'wrap', gap: '1rem' }}>
+                         <h3 className="title-font" style={{ fontSize: '1.4rem' }}>{viewMode === 'tabla' ? '⭐ Clasificación' : '📅 Fixture Completo'}</h3>
+                         
+                         {!isCup && (
+                             <div style={{ display: 'flex', gap: '0.5rem', background: 'rgba(0,0,0,0.4)', padding: '0.3rem', borderRadius: '8px' }}>
+                                <button 
+                                   onClick={() => setViewMode('tabla')}
+                                   style={{ background: viewMode === 'tabla' ? 'var(--accent-gold)' : 'transparent', color: viewMode === 'tabla' ? 'black' : 'white', border: 'none', padding: '0.5rem 1rem', borderRadius: '6px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
+                                >Ver Posiciones</button>
+                                <button 
+                                   onClick={() => setViewMode('fixture')}
+                                   style={{ background: viewMode === 'fixture' ? 'var(--accent-gold)' : 'transparent', color: viewMode === 'fixture' ? 'black' : 'white', border: 'none', padding: '0.5rem 1rem', borderRadius: '6px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
+                                >Ver Fixture</button>
+                             </div>
+                         )}
+                         
+                         {viewMode === 'fixture' && fixtureData && (
+                             <select 
+                                value={selectedRound}
+                                onChange={(e) => setSelectedRound(e.target.value)}
+                                style={{ background: 'rgba(0,0,0,0.8)', color: 'white', border: '1px solid var(--accent-gold)', padding: '0.5rem 1rem', borderRadius: '8px', outline: 'none', fontWeight: 'bold', cursor: 'pointer', fontSize: '0.9rem' }}
+                             >
+                                 {[...new Set(fixtureData.map(f => f.league.round))].map(round => (
+                                     <option key={round} value={round}>
+                                         {String(round).replace(/Regular Season - /i, 'Fecha ').replace(/Apertura - /i, 'Apertura Fecha ').replace(/Clausura - /i, 'Clausura Fecha ')}
+                                     </option>
+                                 ))}
+                             </select>
+                         )}
                       </div>
                       
+                      {viewMode === 'tabla' ? (
                       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 450px), 1fr))', gap: '2rem', maxWidth: '1200px', margin: '0 auto', width: '100%' }}>
                          {standingsData ? [...standingsData].filter((g, i, arr) => {
                              if (arr.some(og => og[0].group.toLowerCase().includes('championship') || og[0].group.toLowerCase().includes('relegation'))) {
@@ -970,6 +1020,52 @@ export default function League() {
                            </div>
                          )}
                       </div>
+                      ) : (
+                          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem', maxWidth: '800px', margin: '0 auto', width: '100%' }}>
+                              {loadingFixtures ? (
+                                  <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', width: '100%' }}>
+                                     Cargando calendario de partidos...
+                                  </div>
+                              ) : fixtureData ? (
+                                  fixtureData.filter(f => f.league.round === selectedRound).map(m => (
+                                      <div key={m.fixture.id} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', borderRadius: '12px', padding: '1rem 1.5rem', flexWrap: 'wrap', gap: '1rem', transition: 'all 0.2s' }}
+                                           onMouseEnter={(e) => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.05)'}
+                                           onMouseLeave={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.02)'}
+                                      >
+                                          
+                                          {/* Fecha y Estado */}
+                                          <div style={{ flex: '1 1 100%', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '0.5rem', marginBottom: '0.5rem', fontSize: '0.8rem', color: 'var(--text-muted)', textAlign: 'center' }}>
+                                              {new Date(m.fixture.date).toLocaleDateString()} - {new Date(m.fixture.date).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}
+                                              {' | '}{m.fixture.status.short === 'FT' ? 'Finalizado' : m.fixture.status.short === 'NS' ? 'Por jugar' : m.fixture.status.short === 'CANC' ? 'Cancelado' : m.fixture.status.short === 'PST' ? 'Postergado' : 'En vivo'}
+                                          </div>
+                                          
+                                          {/* Equipo Local */}
+                                          <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: '1rem', textAlign: 'right' }}>
+                                              <span style={{ fontWeight: m.teams.home.winner ? 'bold' : 'normal', color: m.teams.home.winner ? 'white' : 'var(--text-muted)' }}>{m.teams.home.name}</span>
+                                              <img src={m.teams.home.logo} alt="" style={{ width: '30px', height: '30px', objectFit: 'contain' }} />
+                                          </div>
+                                          
+                                          {/* Resultado */}
+                                          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', background: 'rgba(0,0,0,0.3)', padding: '0.5rem 1rem', borderRadius: '8px', minWidth: '80px', fontWeight: 'bold', fontSize: '1.2rem', color: 'var(--accent-gold)' }}>
+                                              <span>{m.goals.home ?? '-'}</span>
+                                              <span style={{ color: 'rgba(255,255,255,0.3)' }}>-</span>
+                                              <span>{m.goals.away ?? '-'}</span>
+                                          </div>
+                                          
+                                          {/* Equipo Visitante */}
+                                          <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'flex-start', gap: '1rem', textAlign: 'left' }}>
+                                              <img src={m.teams.away.logo} alt="" style={{ width: '30px', height: '30px', objectFit: 'contain' }} />
+                                              <span style={{ fontWeight: m.teams.away.winner ? 'bold' : 'normal', color: m.teams.away.winner ? 'white' : 'var(--text-muted)' }}>{m.teams.away.name}</span>
+                                          </div>
+                                      </div>
+                                  ))
+                              ) : (
+                                  <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', width: '100%' }}>
+                                     No hay fixture disponible.
+                                  </div>
+                              )}
+                          </div>
+                      )}
                   </div>
               </div>
           </motion.div>
