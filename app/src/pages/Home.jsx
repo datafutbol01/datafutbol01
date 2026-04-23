@@ -153,6 +153,43 @@ export default function Home() {
       }
     });
 
+    // 4. Búsqueda por "Términos Genéricos" (Historiales, Posiciones)
+    if (q.includes('historial') || q.includes('enfrentamiento')) {
+       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'champions'];
+       topLeagues.forEach(lId => {
+          const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+          if (leagueObj) {
+             expandedResults.push({
+                type: 'shortcut',
+                id: `historial_${lId}`,
+                name: `📊 Historiales de ${leagueObj.name}`,
+                country: 'Sección de Liga',
+                url: `/liga/${lId}`,
+                state: { tab: 'enfrentamientos' },
+                shield: null
+             });
+          }
+       });
+    }
+
+    if (q.includes('posicion') || q.includes('tabla')) {
+       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'arg_nacional_b'];
+       topLeagues.forEach(lId => {
+          const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+          if (leagueObj) {
+             expandedResults.push({
+                type: 'shortcut',
+                id: `tabla_${lId}`,
+                name: `📈 Tabla de ${leagueObj.name}`,
+                country: 'Sección de Liga',
+                url: `/liga/${lId}`,
+                state: { tab: 'actualidad' },
+                shield: null
+             });
+          }
+       });
+    }
+
     // Filtramos para no mostrar más de 6 u 8 resultados en total para que no quede gigante
     setResults(expandedResults.slice(0, 8));
     setSelectedIndex(0);
@@ -168,8 +205,9 @@ export default function Home() {
       e.preventDefault();
       setSelectedIndex(prev => (prev - 1 + results.length) % results.length);
     } else if (e.key === 'Enter') {
-      if (results[selectedIndex]) {
-        navigate(results[selectedIndex].url);
+      const selectedItem = results[selectedIndex];
+      if (selectedItem) {
+        navigate(selectedItem.url, selectedItem.state ? { state: selectedItem.state } : undefined);
       }
     } else if (e.key === 'Escape') {
       setIsFocused(false);
@@ -313,7 +351,7 @@ export default function Home() {
                     {results.map((item, idx) => (
                       <div
                         key={item.id || item.url}
-                        onClick={() => navigate(item.url)}
+                        onClick={() => navigate(item.url, item.state ? { state: item.state } : undefined)}
                         onMouseEnter={() => setSelectedIndex(idx)}
                         style={{
                           display: 'flex',
