@@ -28,6 +28,22 @@ export default function Home() {
 
     const q = query.toLowerCase();
 
+    // Diccionario de torneos para mapear nombres de trofeos a sus slugs (URLs)
+    const trophyToSlug = {
+      'fa cup': 'fa_cup',
+      'champions': 'champions',
+      'liga de campeones': 'champions',
+      'libertadores': 'libertadores',
+      'sudamericana': 'sudamericana',
+      'europa league': 'europa_league',
+      'uefa': 'europa_league',
+      'copa del rey': 'copa_del_rey',
+      'dfb pokal': 'dfb_pokal',
+      'copa de francia': 'copa_francia',
+      'coppa italia': 'coppa_italia',
+      'copa argentina': 'copa_argentina'
+    };
+
     // Diccionario de atajos para equipos que no tienen JSON pero queremos que dirijan a su liga
     const leagueKeywords = {
       'quilmes': 'arg_nacional_b',
@@ -67,10 +83,12 @@ export default function Home() {
     let expandedResults = [];
     
     rawMatches.forEach(match => {
-       // 1. Agregamos el club como primera opción
+       // 1. Agregamos el club como primera opción (La Ficha Histórica)
        expandedResults.push(match);
        
        if (match.type === 'club') {
+          let shortcutsAdded = 0;
+
           // 2. Agregamos su liga doméstica
           if (!expandedResults.find(r => r.id === `shortcut_${match.leagueId}`)) {
              expandedResults.push({
@@ -81,35 +99,39 @@ export default function Home() {
                 url: `/liga/${match.leagueId}`,
                 shield: null
              });
+             shortcutsAdded++;
           }
 
-          // 3. Torneos Internacionales según el continente
-          const isTopEuropean = ['inglaterra', 'espania', 'italia', 'alemania', 'francia'].includes(match.leagueId);
-          if (isTopEuropean) {
-             if (!expandedResults.find(r => r.id === 'shortcut_champions')) {
-                expandedResults.push({
-                   type: 'shortcut',
-                   id: 'shortcut_champions',
-                   name: `⭐ Ver Champions League`,
-                   country: 'Torneo Internacional',
-                   url: `/liga/champions`,
-                   shield: null
-                });
-             }
-          }
-          
-          const isTopAmerican = ['argentina', 'brasil', 'uruguay'].includes(match.leagueId);
-          if (isTopAmerican) {
-             if (!expandedResults.find(r => r.id === 'shortcut_libertadores')) {
-                expandedResults.push({
-                   type: 'shortcut',
-                   id: 'shortcut_libertadores',
-                   name: `🌎 Ver Copa Libertadores`,
-                   country: 'Torneo Internacional',
-                   url: `/liga/libertadores`,
-                   shield: null
-                });
-             }
+          // 3. Torneos dinámicos leyendo el JSON (máximo 2 para no romper la pantalla)
+          if (match.palmares && match.palmares.length > 0) {
+             const addedSlugs = new Set();
+             match.palmares.forEach(trophy => {
+                if (shortcutsAdded >= 3) return; // Freno: máximo 1 liga y 2 copas extras
+
+                const tName = trophy.torneo.toLowerCase();
+                let targetSlug = null;
+                for (const [key, slug] of Object.entries(trophyToSlug)) {
+                   if (tName.includes(key)) {
+                      targetSlug = slug;
+                      break;
+                   }
+                }
+
+                if (targetSlug && !addedSlugs.has(targetSlug) && targetSlug !== match.leagueId) {
+                   addedSlugs.add(targetSlug);
+                   if (!expandedResults.find(r => r.id === `shortcut_${targetSlug}`)) {
+                       expandedResults.push({
+                          type: 'shortcut',
+                          id: `shortcut_${targetSlug}`,
+                          name: `⭐ Ver ${trophy.torneo}`,
+                          country: 'Trofeo Ganado',
+                          url: `/liga/${targetSlug}`,
+                          shield: null
+                       });
+                       shortcutsAdded++;
+                   }
+                }
+             });
           }
        }
     });
@@ -315,7 +337,7 @@ export default function Home() {
                             {item.type === 'club' ? `⚽ ${item.name}` : item.name}
                           </span>
                           <span style={{ fontSize: '0.75rem', opacity: 0.8, fontWeight: '700', textTransform: 'uppercase', color: selectedIndex === idx ? 'rgba(0,0,0,0.7)' : 'var(--text-muted)' }}>
-                            {item.type === 'league' ? item.country : (item.type === 'shortcut' ? item.country : `Ficha Histórica - ${item.leagueName}`)}
+                            {item.type === 'league' ? item.country : (item.type === 'shortcut' ? item.country : 'Ficha Histórica del Club')}
                           </span>
                         </div>
                       </div>

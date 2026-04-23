@@ -139,6 +139,7 @@ export const getAllSearchableItems = () => {
         name: club.datos?.nombre_corto || club.datos?.nombre_oficial || club.datos?.nombre_completo || club.id,
         leagueId: league.id,
         leagueName: league.name,
+        palmares: club.palmares || [],
         shield: (() => {
           if (club.datos?.escudo_actual) return club.datos.escudo_actual;
           if (club.evolucion_escudos && club.evolucion_escudos.length > 0) {
