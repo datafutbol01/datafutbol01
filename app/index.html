@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/png" href="/pwa-192x192.png?v=2" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2" />
+  <link rel="icon" type="image/png" href="/pwa-192x192.png?v=3" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=3" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -22,6 +22,28 @@
   <meta name="twitter:description" content="Explorá el archivo definitivo del fútbol. Historiales (H2H), leyendas, y campeones desde la era amateur hasta hoy." />
   <meta name="twitter:image" content="https://datafutbol.app/pwa-512x512.png" />
   
+  <script>
+    // PARCHE NUCLEAR: Forzar borrado de Service Worker y Caché trabada
+    if (!localStorage.getItem('pwa_cache_cleared_v2')) {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+          for(let registration of registrations) {
+            registration.unregister();
+          }
+        });
+      }
+      if (window.caches) {
+        caches.keys().then(function(names) {
+          for (let name of names) {
+            caches.delete(name);
+          }
+        });
+      }
+      localStorage.setItem('pwa_cache_cleared_v2', 'true');
+      window.location.reload(true);
+    }
+  </script>
+
   <script>
     if (typeof Node === 'function' && Node.prototype) {
       const originalRemoveChild = Node.prototype.removeChild;
