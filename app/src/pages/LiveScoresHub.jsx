@@ -5,11 +5,41 @@ import { TARGET_LEAGUES } from '../config/api_leagues';
 
 export default function LiveScoresHub() {
   const navigate = useNavigate();
-  const [activeDate, setActiveDate] = useState('HOY');
+  const today = new Date();
+  const getFormatted = (d) => {
+    const yyyy = d.getFullYear();
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd}`;
+  };
+  const [activeDateStr, setActiveDateStr] = useState(getFormatted(today));
   const [collapsedLeagues, setCollapsedLeagues] = useState({});
   const [liveLeagues, setLiveLeagues] = useState([]);
   const [loading, setLoading] = useState(true);
   const [expandedMatchId, setExpandedMatchId] = useState(null);
+
+  // Generar tira de 7 días (-3 a +3)
+  const slidingDates = [];
+  for(let i = -3; i <= 3; i++) {
+     const d = new Date();
+     d.setDate(d.getDate() + i);
+     slidingDates.push(d);
+  }
+
+  const getDayLabel = (d) => {
+      const todayStr = getFormatted(new Date());
+      const dStr = getFormatted(d);
+      
+      const yesterday = new Date(); yesterday.setDate(yesterday.getDate() - 1);
+      const tomorrow = new Date(); tomorrow.setDate(tomorrow.getDate() + 1);
+      
+      if (dStr === todayStr) return t.HOY;
+      if (dStr === getFormatted(yesterday)) return t.AYER;
+      if (dStr === getFormatted(tomorrow)) return t.MAÑANA;
+      
+      const dayNames = userLang === 'en' ? ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'] : ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];
+      return `${dayNames[d.getDay()]} ${d.getDate()}`;
+  };
 
   // Mapeo entre la API y nuestro Frontend para los botones de Clasificación
   const apiToSlug = {
@@ -77,16 +107,7 @@ export default function LiveScoresHub() {
     const fetchLiveScores = async () => {
       setLoading(true);
       try {
-        // Lógica de fechas (AYER, HOY, MAÑANA)
-        const dateObj = new Date();
-        if (activeDate === 'AYER') dateObj.setDate(dateObj.getDate() - 1);
-        if (activeDate === 'MAÑANA') dateObj.setDate(dateObj.getDate() + 1);
-        
-        // Evitamos toISOString porque usa UTC y en Libertadores las 21:30 es mañana en UTC.
-        const yyyy = dateObj.getFullYear();
-        const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
-        const dd = String(dateObj.getDate()).padStart(2, '0');
-        const formattedDate = `${yyyy}-${mm}-${dd}`;
+        const formattedDate = activeDateStr;
         
         // Forzamos el timezone de Argentina oficial de la API para que no falle en celulares raros
         const userTimezone = "America/Argentina/Buenos_Aires";
@@ -250,7 +271,7 @@ export default function LiveScoresHub() {
     const interval = setInterval(fetchLiveScores, 60000);
     return () => clearInterval(interval);
 
-  }, [activeDate]);
+  }, [activeDateStr]);
 
   return (
     <div style={{ minHeight: '100vh', background: 'var(--bg-main)', paddingTop: '2rem', position: 'relative', paddingBottom: '4rem' }}>
@@ -275,24 +296,53 @@ export default function LiveScoresHub() {
           {loading ? t.conectando : t.en_directo}
         </h1>
         
-        <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem', background: 'rgba(0,0,0,0.3)', padding: '0.5rem', borderRadius: '50px' }}>
-          {['AYER', 'HOY', 'MAÑANA'].map((dia, i) => (
-            <button 
-              key={i}
-              onClick={() => setActiveDate(dia)}
-              style={{
-                background: activeDate === dia ? '#ef4444' : 'transparent',
-                color: activeDate === dia ? 'white' : 'var(--text-muted)',
-                border: 'none', padding: '0.6rem 2rem', borderRadius: '50px',
-                fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s', letterSpacing: '1px'
-              }}
-            >
-              {t[dia]}
+        <div className="date-scroll-container" style={{ display: 'flex', gap: '0.5rem', marginTop: '2rem', background: 'rgba(0,0,0,0.3)', padding: '0.5rem', borderRadius: '50px', maxWidth: '100%', overflowX: 'auto', scrollbarWidth: 'none', WebkitOverflowScrolling: 'touch' }}>
+          {(() => {
+             let renderDates = [...slidingDates];
+             const isCustom = !renderDates.some(d => getFormatted(d) === activeDateStr);
+             
+             if (isCustom) {
+                const [y, m, day] = activeDateStr.split('-');
+                const customDateObj = new Date(y, m - 1, day);
+                if (!isNaN(customDateObj.getTime())) {
+                   renderDates.unshift(customDateObj);
+                }
+             }
+             
+             return renderDates.map((d, i) => {
+                const dStr = getFormatted(d);
+                const isSelected = activeDateStr === dStr;
+                return (
+                  <button 
+                    key={dStr}
+                    onClick={() => setActiveDateStr(dStr)}
+                    style={{
+                      background: isSelected ? '#ef4444' : 'transparent',
+                      color: isSelected ? 'white' : 'var(--text-muted)',
+                      border: 'none', padding: '0.6rem 1.5rem', borderRadius: '50px',
+                      fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s', letterSpacing: '1px',
+                      whiteSpace: 'nowrap'
+                    }}
+                  >
+                    {getDayLabel(d)}
+                  </button>
+                );
+             });
+          })()}
+          
+          <div style={{ position: 'relative', display: 'flex', flexShrink: 0 }}>
+            <button style={{ background: 'transparent', color: 'var(--text-muted)', border: 'none', padding: '0.6rem 1rem', display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+               <CalendarIcon size={18} />
             </button>
-          ))}
-          <button style={{ background: 'transparent', color: 'var(--text-muted)', border: 'none', padding: '0.6rem 1rem', display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
-             <CalendarIcon size={18} />
-          </button>
+            <input 
+               type="date" 
+               value={activeDateStr}
+               onChange={(e) => {
+                 if(e.target.value) setActiveDateStr(e.target.value);
+               }}
+               style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', opacity: 0, cursor: 'pointer' }} 
+            />
+          </div>
         </div>
       </div>
 
@@ -469,6 +519,9 @@ export default function LiveScoresHub() {
           0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7); }
           70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(239, 68, 68, 0); }
           100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+        }
+        .date-scroll-container::-webkit-scrollbar {
+          display: none;
         }
       `}</style>
     </div>
