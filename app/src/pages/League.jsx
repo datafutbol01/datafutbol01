@@ -67,9 +67,10 @@ export default function League() {
     'dfb_pokal': 81,
     'copa_argentina': 130,
     'eredivisie': 88,
-    'coppa_italia': 137
+    'coppa_italia': 137,
+    'fa_cup': 45
   };
-  const isCup = ['champions', 'europa_league', 'conference', 'copa_francia', 'dfb_pokal', 'copa_argentina', 'coppa_italia'].includes(leagueId);
+  const isCup = ['champions', 'europa_league', 'conference', 'copa_francia', 'dfb_pokal', 'copa_argentina', 'coppa_italia', 'fa_cup'].includes(leagueId);
 
   const [standingsData, setStandingsData] = useState(null);
   const [loadingStandings, setLoadingStandings] = useState(false);
@@ -685,6 +686,7 @@ export default function League() {
                                           if (leagueId === 'champions') { finalStadium = 'Puskás Aréna, Budapest'; finalDate = '30/5/2026'; }
                                           if (leagueId === 'europa_league') { finalStadium = 'Beşiktaş Park, Istanbul'; finalDate = '20/5/2026'; }
                                           if (leagueId === 'conference') { finalStadium = 'Red Bull Arena, Leipzig'; finalDate = '27/5/2026'; }
+                                          if (leagueId === 'fa_cup') { finalStadium = 'Wembley Stadium, London'; finalDate = '16/5/2026'; }
 
                                           matches = [
                                               { fixture: { id: 'fin', date: finalDate, venue: { name: finalStadium } }, teams: { home: { name: 'Ganador Semifinal 1' }, away: { name: 'Ganador Semifinal 2' } }, goals: {}, score: {} }

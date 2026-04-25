@@ -10,6 +10,7 @@ const ligasEnfrentamientosModules = import.meta.glob('./ligas/*_enfrentamientos.
 const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true });
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
 const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
+const paisesBajosModules = import.meta.glob('./clubes/paises_bajos/*.json', { eager: true });
 
 import CryptoJS from 'crypto-js';
 
@@ -61,8 +62,9 @@ export const getLeagues = () => {
     { id: 'copa_francia', name: 'Coupe de France', country: 'Francia', flag: '', color: '#002654', shield: 'https://media.api-sports.io/football/leagues/66.png', isHidden: true },
     { id: 'dfb_pokal', name: 'DFB Pokal', country: 'Alemania', flag: '', color: '#000000', shield: 'https://media.api-sports.io/football/leagues/81.png', isHidden: true },
     { id: 'copa_argentina', name: 'Copa Argentina', country: 'Argentina', flag: '', color: '#75aadb', shield: 'https://media.api-sports.io/football/leagues/130.png', isHidden: true },
-    { id: 'eredivisie', name: 'Eredivisie', country: 'Países Bajos', flag: '', color: '#f36c21', shield: 'https://media.api-sports.io/football/leagues/88.png', isHidden: true },
-    { id: 'coppa_italia', name: 'Coppa Italia', country: 'Italia', flag: '', color: '#008f39', shield: 'https://media.api-sports.io/football/leagues/137.png', isHidden: true }
+    { id: 'paises_bajos', name: 'Eredivisie', country: 'Países Bajos', flag: '', color: '#f36c21', shield: '/escudos/eredivisie_logo.png' },
+    { id: 'coppa_italia', name: 'Coppa Italia', country: 'Italia', flag: '', color: '#008f39', shield: 'https://media.api-sports.io/football/leagues/137.png', isHidden: true },
+    { id: 'fa_cup', name: 'FA Cup', country: 'Inglaterra', flag: '', color: '#e3000f', shield: 'https://media.api-sports.io/football/leagues/45.png', isHidden: true }
   ];
 };
 
@@ -86,6 +88,8 @@ export const getClubsByLeague = (leagueId) => {
     clubs = Object.values(uruguayModules).map(readData);
   } else if (leagueId === 'brasil') {
     clubs = Object.values(brasilModules).map(readData);
+  } else if (leagueId === 'paises_bajos') {
+    clubs = Object.values(paisesBajosModules).map(readData);
   }
 
   return clubs.sort((a, b) => {
