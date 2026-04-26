@@ -125,24 +125,24 @@
   ],
   "canchas": [
     {
-      "nombre": "RheinEnergieStadion (Müngersdorfer Stadion)",
-      "capacidad": "50.000",
+      "nombre": "Müngersdorfer Stadion",
+      "capacidad": "61.000",
       "inauguracion": "1923",
-      "url": "https://www.google.com/maps/search/?api=1&query=Aachener%20Str.%20999%2C%2050933%20K%C3%B6ln%2C%20Alemania",
-      "direccion": "Aachener Str. 999, 50933 Köln, Alemania",
-      "descripcion": "Templo encendido portando en cada rincón un enorme ambiente caluroso marcado por la famosa mascota de la cabra presenciando en césped directo el partido.",
-      "lat": 50.9335,
-      "lng": 6.8749
+      "url": "https://www.google.com/maps/search/?api=1&query=50.933333,6.875",
+      "direccion": "Aachener Str., 50933 Köln, Alemania (Demolido)",
+      "descripcion": "El antiguo estadio abierto donde el FC Köln escribió su historia en el siglo XX.",
+      "lat": 50.933333,
+      "lng": 6.875
     },
     {
-      "nombre": "Radrennbahn Müngersdorf",
-      "capacidad": "80.000",
-      "inauguracion": "1923",
-      "url": "https://www.google.com/maps/search/?api=1&query=Aachener%20Str.%2C%2050933%20K%C3%B6ln%2C%20Alemania",
-      "direccion": "Aachener Str., 50933 Köln, Alemania",
-      "descripcion": " terreno y circuito antiguo provisto originalmente de pista de ciclismo de velocidad. Base formal para forjar el estadio final del bloque en Müngersdorf.",
-      "lat": 50.9335,
-      "lng": 6.8749
+      "nombre": "RheinEnergieStadion",
+      "capacidad": "50.000",
+      "inauguracion": "2004",
+      "url": "https://www.google.com/maps/search/?api=1&query=50.933333,6.875",
+      "direccion": "Aachener Str. 999, 50933 Köln, Alemania",
+      "descripcion": "Construido para el Mundial de 2006 en el mismo sitio que el viejo Müngersdorfer. Lleva el nombre de la proveedora energética local desde su construcción. Reconocible por sus cuatro inmensas torres iluminadas en las esquinas.",
+      "lat": 50.933333,
+      "lng": 6.875
     }
   ],
   "equipacion": [

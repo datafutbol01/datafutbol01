@@ -154,34 +154,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Grünwalder Stadion",
-      "capacidad": "15.000",
-      "inauguracion": "1911",
-      "url": "https://www.google.com/maps/search/?api=1&query=Gr%C3%BCnwalder%20Str.%204%2C%2081547%20M%C3%BCnchen%2C%20Alemania",
-      "direccion": "Grünwalder Str. 4, 81547 München, Alemania",
-      "descripcion": "El primer espacio central donde se forjaron los compases del Bayern previo a la era olímpica. Todavía mantenido para las reservas institucionales y afición.",
-      "lat": 48.1109,
-      "lng": 11.5744
-    },
-    {
       "nombre": "Olympiastadion",
       "capacidad": "69.250",
       "inauguracion": "1972",
-      "url": "https://www.google.com/maps/search/?api=1&query=Spiridon-Louis-Ring%2027%2C%2080809%20M%C3%BCnchen%2C%20Alemania",
-      "direccion": "Spiridon-Louis-Ring 27, 80809 München, Alemania",
-      "descripcion": "El coloso olímpico de Múnich, hogar formal del gran formato multicampeón bávaro de Europa en los años 70. Identificable a nivel global por sus gigantescas marquesinas tensionadas transparentes en acrílico.",
-      "lat": 48.173,
-      "lng": 11.5466
+      "url": "https://www.google.com/maps/search/?api=1&query=48.173056,11.546667",
+      "direccion": "Spiridon-Louis-Ring 21, 80809 München, Alemania (Uso previo)",
+      "descripcion": "El mítico Estadio Olímpico de Múnich, con su famosa cubierta de carpa transparente. Fue el hogar del club durante su época más hegemónica en Alemania hasta 2005.",
+      "lat": 48.173056,
+      "lng": 11.546667
     },
     {
-      "nombre": "Allianz Arena (Schlauchboot)",
+      "nombre": "Allianz Arena",
       "capacidad": "75.024",
       "inauguracion": "2005",
-      "url": "https://www.google.com/maps/search/?api=1&query=Werner-Heisenberg-Allee%2025%2C%2080939%20M%C3%BCnchen%2C%20Alemania",
+      "url": "https://www.google.com/maps/search/?api=1&query=48.218775,11.624753",
       "direccion": "Werner-Heisenberg-Allee 25, 80939 München, Alemania",
-      "descripcion": "Referente arquitectónico mundial forrado en paneles luminosos. Cuna del esplendor hegemónico moderno del Bayer Múnich.",
-      "lat": 48.2188,
-      "lng": 11.6247
+      "descripcion": "Inaugurado en 2005. Conocido por su impresionante fachada de paneles luminosos que cambian de color. El nombre comercial 'Allianz Arena' se mantendrá durante gran parte del siglo por acuerdos a larguísimo plazo.",
+      "lat": 48.218775,
+      "lng": 11.624753
     }
   ],
   "equipacion": [

@@ -129,23 +129,23 @@
   "canchas": [
     {
       "nombre": "Rosenaustadion",
-      "capacidad": "32.354",
+      "capacidad": "32.000",
       "inauguracion": "1951",
-      "url": "https://www.google.com/maps/search/?api=1&query=Stadionstr.%2021%2C%2086159%20Augsburg%2C%20Alemania",
-      "direccion": "Stadionstr. 21, 86159 Augsburg, Alemania",
-      "descripcion": "El histórico recinto fundacional del FC Augsburg, utilizado sin interrupciones desde la época de posguerra hasta su mudanza en 2009. Fue el estadio atlético de contención para forjar su camino al profesionalismo.",
-      "lat": 48.3582,
-      "lng": 10.8752
+      "url": "https://www.google.com/maps/search/?api=1&query=48.358,10.884",
+      "direccion": "Stadionstraße 21, 86159 Augsburg, Alemania (Uso previo)",
+      "descripcion": "Construido usando escombros de la Segunda Guerra Mundial, fue el viejo e histórico hogar hasta que ascendieron a la élite moderna.",
+      "lat": 48.358,
+      "lng": 10.884
     },
     {
-      "nombre": "WWK Arena (Schwabenstadion)",
+      "nombre": "WWK Arena (SGL arena 2011-2015)",
       "capacidad": "30.660",
       "inauguracion": "2009",
-      "url": "https://www.google.com/maps/search/?api=1&query=B%C3%BCrgermeister-Ulrich-Stra%C3%9Fe%2090%2C%2086199%20Augsburg%2C%20Alemania",
+      "url": "https://www.google.com/maps/search/?api=1&query=48.3225,10.883889",
       "direccion": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Alemania",
-      "descripcion": "Fortaleza moderna con paneles brillantes entrelazada firmemente en la campiña bávara del sur.",
+      "descripcion": "Estadio moderno sin pistas, primer recinto 'climáticamente neutral' del mundo por sus sistemas de bombas de calor. Bautizado WWK Arena por patrocinio en 2015.",
       "lat": 48.3225,
-      "lng": 10.8808
+      "lng": 10.883889
     }
   ],
   "equipacion": [
