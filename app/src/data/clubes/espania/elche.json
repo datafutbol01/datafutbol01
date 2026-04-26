@@ -103,25 +103,23 @@
   "canchas": [
     {
       "nombre": "Campo de Altabix",
-      "direccion": "Camino de las viñas, Elche",
-      "desde": 1926,
-      "hasta": 1976,
-      "estado": "Histórico",
-      "obs": "Estadio clásico.",
-      "lat": 38.264,
-      "lng": -0.697,
-      "url": "https://www.google.com/maps/search/?api=1&query=Camino%20de%20las%20vi%C3%B1as%2C%20Elche"
+      "capacidad": "12.000",
+      "inauguracion": "1926",
+      "url": "https://www.google.com/maps/search/?api=1&query=38.271,-0.686",
+      "direccion": "Barrio de Altabix, Elche, Alicante, España (Demolido)",
+      "descripcion": "El entrañable y legendario hogar donde el club vivió su época dorada en los años 60, siendo reemplazado ante la enorme demanda de los aficionados.",
+      "lat": 38.271,
+      "lng": -0.686
     },
     {
-      "nombre": "Estadio Martínez Valero",
-      "direccion": "Av. de Manuel Martínez Valero, 3, Elche",
-      "desde": 1976,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estadio referente alicantino y mundialista.",
-      "lat": 38.2669,
-      "lng": -0.6636,
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Manuel%20Mart%C3%ADnez%20Valero%2C%203%2C%20Elche"
+      "nombre": "Estadio Martínez Valero (Nuevo Estadio de Elche 1976-1988)",
+      "capacidad": "31.388",
+      "inauguracion": "1976",
+      "url": "https://www.google.com/maps/search/?api=1&query=38.266944,-0.663611",
+      "direccion": "Av. de Manuel Martínez Valero, 3, 03208 Elche, Alicante, España",
+      "descripcion": "Construido en 1976 como 'Nuevo Estadio', fue rebautizado en 1988 en honor a su ilustre presidente Manuel Martínez Valero. Sede de la Copa Mundial de 1982 y uno de los estadios más amplios del país.",
+      "lat": 38.266944,
+      "lng": -0.663611
     }
   ],
   "equipacion": [

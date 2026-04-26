@@ -123,12 +123,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Camp de Mestalla",
+      "nombre": "Campo de Algirós",
+      "capacidad": "8.000",
+      "inauguracion": "1919",
+      "url": "https://www.google.com/maps/search/?api=1&query=43.264167,-2.949444",
+      "direccion": "Camino de Algirós, Valencia, España (Demolido)",
+      "descripcion": "El precario y primer feudo de alquiler donde el recién fundado Valencia comenzó a aglomerar a la afición local antes de tener los fondos suficientes para construir Mestalla.",
+      "lat": 39.475,
+      "lng": -0.355
+    },
+    {
+      "nombre": "Estadio de Mestalla (Luis Casanova 1969-1994)",
       "capacidad": "49.430",
       "inauguracion": "1923",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Su%C3%A8cia%2C%20s%2Fn%2C%2046010%20Val%C3%A8ncia%2C%20Valencia",
-      "direccion": "Av. de Suècia, s/n, 46010 València, Valencia",
-      "descripcion": "Una olla a presión aterradora. Las gradas casi besan la banda asfixiando rivales, siendo un templo centenario sagrado."
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.+de+Suècia,+s/n,+46010+València,+Valencia,+España",
+      "direccion": "Av. de Suècia, s/n, 46010 València, Valencia, España",
+      "descripcion": "Inaugurado solemnemente en 1923. Llevó el nombre de Luis Casanova (histórico presidente) desde 1969 hasta que el propio mandatario exigió en 1994 que el campo recuperase su histórico y temido nombre original: Mestalla. Con su arquitectura vertical y empinada, es el estadio más antiguo de la actual Primera División.",
+      "lat": 39.474602,
+      "lng": -0.358245
     }
   ],
   "equipacion": [

@@ -124,12 +124,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio Metropolitano",
+      "nombre": "Estadio Vicente Calderón (Estadio del Manzanares 1966-1971)",
+      "capacidad": "54.907",
+      "inauguracion": "1966",
+      "url": "https://www.google.com/maps/search/?api=1&query=Paseo+de+la+Virgen+del+Puerto,+67,+28005+Madrid,+España",
+      "direccion": "Paseo de la Virgen del Puerto, 67, 28005 Madrid, España (Demolido)",
+      "descripcion": "Bautizado primero como Estadio del Manzanares y renombrado Vicente Calderón en 1971 en honor a su icónico presidente. Ubicado a orillas del río, fue el corazón y el alma de la ruidosa afición colchonera durante medio siglo.",
+      "lat": 40.401719,
+      "lng": -3.720614
+    },
+    {
+      "nombre": "Cívitas Metropolitano (Wanda Metropolitano 2017-2022)",
       "capacidad": "70.460",
       "inauguracion": "2017",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Luis%20Aragon%C3%A9s%2C%204%2C%2028022%20Madrid",
-      "direccion": "Av. de Luis Aragonés, 4, 28022 Madrid",
-      "descripcion": "Colosal y moderna mudanza rojiblanca tras dejar el histórico Vicente Calderón a orillas del Manzanares."
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.+de+Luis+Aragonés,+4,+28022+Madrid,+España",
+      "direccion": "Av. de Luis Aragonés, 4, 28022 Madrid, España",
+      "descripcion": "Inaugurado en 2017 sobre la antigua 'Peineta', heredó el espíritu rojiblanco. Llevó el nombre comercial Wanda Metropolitano hasta 2022, año en que el acuerdo cambió a Cívitas. Un estadio hipermoderno que aloja a una de las hinchadas más pasionales de España.",
+      "lat": 40.43623,
+      "lng": -3.59948
     }
   ],
   "equipacion": [

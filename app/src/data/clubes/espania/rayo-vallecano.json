@@ -124,12 +124,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Campo de Fútbol de Vallecas",
+      "nombre": "Campo de Vallecas",
+      "capacidad": "8.000",
+      "inauguracion": "1957",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.392,-3.659",
+      "direccion": "Calle del Payaso Fofó, Madrid, España (Demolido)",
+      "descripcion": "El antiguo campo de gradas de madera en el humilde barrio que sentó las bases pasionales de la hinchada antes de ser demolido en los 70.",
+      "lat": 40.392,
+      "lng": -3.659
+    },
+    {
+      "nombre": "Estadio de Vallecas (Teresa Rivero 1999-2011)",
       "capacidad": "14.708",
       "inauguracion": "1976",
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20del%20Payaso%20Fof%C3%B3%2C%20s%2Fn%2C%2028018%20Madrid",
-      "direccion": "C. del Payaso Fofó, s/n, 28018 Madrid",
-      "descripcion": "Un pulmón obrero único metido a presión en medio del asfalto del barrio y custodiado por la implacable franja roja."
+      "url": "https://www.google.com/maps/search/?api=1&query=40.391944,-3.658889",
+      "direccion": "Calle del Payaso Fofó, s/n, 28018 Madrid, España",
+      "descripcion": "Construido en 1976 sobre el campo anterior. Durante la presidencia de la familia Ruiz-Mateos fue rebautizado temporalmente 'Teresa Rivero' (1999-2011). Un estadio asimétrico icónico, flanqueado por edificios del barrio.",
+      "lat": 40.391944,
+      "lng": -3.658889
     }
   ],
   "equipacion": [

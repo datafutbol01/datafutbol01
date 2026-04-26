@@ -124,12 +124,14 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio de la Cerámica (El Madrigal)",
-      "capacidad": "23.500",
+      "nombre": "Estadio de la Cerámica (Campo del Villarreal 1923-1925, El Madrigal 1925-2017)",
+      "capacidad": "23.000",
       "inauguracion": "1923",
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Blasco%20Ib%C3%A1%C3%B1ez%2C%202%2C%2012540%20Vila-real%2C%20Castell%C3%B3n",
-      "direccion": "C. Blasco Ibáñez, 2, 12540 Vila-real, Castellón",
-      "descripcion": "El acorazado amarillo envuelto en precioso azulejo. Una proeza titánica donde se ahogaron gigantes europeos enteros."
+      "url": "https://www.google.com/maps/search/?api=1&query=39.944167,-0.103611",
+      "direccion": "Calle Blasco Ibáñez, 2, 12540 Vila-real, Castellón, España",
+      "descripcion": "Inaugurado como modesto 'Campo del Villarreal' en 1923, fue conocido históricamente por más de 90 años como 'El Madrigal'. En 2017 adoptó el nombre 'Estadio de la Cerámica' como acuerdo global e industrial de patrocinio local. Un estadio que sienta a casi la mitad del pueblo en partidos europeos.",
+      "lat": 39.944167,
+      "lng": -0.103611
     }
   ],
   "equipacion": [

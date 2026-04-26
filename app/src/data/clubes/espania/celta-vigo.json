@@ -114,12 +114,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio de Balaídos",
+      "nombre": "Campo de Coia",
+      "capacidad": "4.000",
+      "inauguracion": "1923",
+      "url": "https://www.google.com/maps/search/?api=1&query=42.217,-8.736",
+      "direccion": "Barrio de Coia, Vigo, Pontevedra, España (Demolido)",
+      "descripcion": "El modesto campo original donde el recién fundado Celta jugó sus primeros cinco años, heredado de la fusión del Vigo Sporting.",
+      "lat": 42.217,
+      "lng": -8.736
+    },
+    {
+      "nombre": "Estadio Abanca-Balaídos (Estadio de Balaídos 1928-2018)",
       "capacidad": "24.791",
       "inauguracion": "1928",
-      "url": "https://www.google.com/maps/search/?api=1&query=R%C3%BAa%20de%20Bala%C3%ADdos%2C%20s%2Fn%2C%2036210%20Vigo%2C%20Pontevedra",
-      "direccion": "Rúa de Balaídos, s/n, 36210 Vigo, Pontevedra",
-      "descripcion": "Un bastión inquebrantable cerca de la ría gallega, donde el himno celta resuena a capela por su ferviente hinchada."
+      "url": "https://www.google.com/maps/search/?api=1&query=42.2125,-8.740278",
+      "direccion": "Av. de Balaídos, s/n, 36210 Vigo, Pontevedra, España",
+      "descripcion": "Inaugurado en 1928. En 2018 firmó un acuerdo de naming rights con la entidad bancaria Abanca. Histórico recinto gallego sometido a una ambiciosa reforma estructural moderna en la última década.",
+      "lat": 42.2125,
+      "lng": -8.740278
     }
   ],
   "equipacion": [

@@ -113,12 +113,24 @@
   ],
   "canchas": [
     {
+      "nombre": "Estadio de Nervión",
+      "capacidad": "20.000",
+      "inauguracion": "1928",
+      "url": "https://www.google.com/maps/search/?api=1&query=37.384,-5.972",
+      "direccion": "Barrio de Nervión, Sevilla, España (Demolido)",
+      "descripcion": "La casa originaria construida en pleno corazón del barrio, donde se gestó la leyenda nacional de los años 40 ganando campeonatos de Liga y Copa.",
+      "lat": 37.384,
+      "lng": -5.972
+    },
+    {
       "nombre": "Estadio Ramón Sánchez-Pizjuán",
       "capacidad": "43.883",
       "inauguracion": "1958",
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Sevilla%20F%C3%BAtbol%20Club%2C%20s%2Fn%2C%2041005%20Sevilla",
-      "direccion": "C. Sevilla Fútbol Club, s/n, 41005 Sevilla",
-      "descripcion": "Infierno ardiente rojiblanco y caldera inexpugnable donde se cimentaron implacables las grandes dinastías de UEFAs."
+      "url": "https://www.google.com/maps/search/?api=1&query=37.384039,-5.970583",
+      "direccion": "Calle Sevilla Fútbol Club, s/n, 41005 Sevilla, España",
+      "descripcion": "Inaugurado inconcluso en 1958 tras el fallecimiento de su mítico impulsor y presidente, a quien rinde honor inamoviblemente sin acuerdos comerciales. Es un recinto temible conocido como 'La Bombonera de Nervión'.",
+      "lat": 37.384039,
+      "lng": -5.970583
     }
   ],
   "equipacion": [

@@ -125,12 +125,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio de San Mamés (La Catedral)",
+      "nombre": "San Mamés [Antiguo]",
+      "capacidad": "39.750",
+      "inauguracion": "1913",
+      "url": "https://www.google.com/maps/search/?api=1&query=43.264167,-2.949444",
+      "direccion": "Rafael Moreno Pitxitxi Kalea, s/n, 48013 Bilbo, Bizkaia, España (Demolido)",
+      "descripcion": "Conocido en todo el país como 'La Catedral', este legendario campo erigido al lado del asilo de San Mamés fue el hogar centenario e invicto en mística de los Leones, albergando tardes lluviosas de puro fútbol británico.",
+      "lat": 43.264167,
+      "lng": -2.949444
+    },
+    {
+      "nombre": "San Mamés (Nuevo)",
       "capacidad": "53.289",
-      "inauguracion": "2013 (Original en 1913)",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rafael%20Moreno%20Pitxitxi%20Kalea%2C%20s%2Fn%2C%2048013%20Bilbo%2C%20Bizkaia",
-      "direccion": "Rafael Moreno Pitxitxi Kalea, s/n, 48013 Bilbo, Bizkaia",
-      "descripcion": "El mítico templo donde ruge el león vasco, erigido casi en la misma parcela de la vieja y mítica Catedral."
+      "inauguracion": "2013",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rafael+Moreno+Pitxitxi+Kalea,+s/n,+48013+Bilbo,+Bizkaia,+España",
+      "direccion": "Rafael Moreno Pitxitxi Kalea, s/n, 48013 Bilbo, Bizkaia, España",
+      "descripcion": "Construido en 2013 solapando parcialmente los terrenos del antiguo estadio para no perder la sagrada geolocalización de La Catedral. Un recinto colosal y ensordecedor que respeta al 100% la pureza institucional sin acuerdos de nombres comerciales.",
+      "lat": 43.264115,
+      "lng": -2.949352
     }
   ],
   "equipacion": [

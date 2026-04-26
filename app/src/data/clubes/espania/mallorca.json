@@ -114,12 +114,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadi de Son Moix",
+      "nombre": "Estadio Lluís Sitjar",
+      "capacidad": "18.000",
+      "inauguracion": "1945",
+      "url": "https://www.google.com/maps/search/?api=1&query=39.578611,2.639722",
+      "direccion": "Plaça de Barcelona, s/n, 07011 Palma, Illes Balears, España (Demolido)",
+      "descripcion": "La legendaria e intimidante 'olla a presión' del mallorquinismo durante más de cincuenta años. Sede de la primera gran época dorada del club antes de caer en el abandono tras la mudanza.",
+      "lat": 39.578611,
+      "lng": 2.639722
+    },
+    {
+      "nombre": "Estadi Mallorca Son Moix (Son Moix 1999-2006, Iberostar 2010-2017)",
       "capacidad": "23.142",
       "inauguracion": "1999",
-      "url": "https://www.google.com/maps/search/?api=1&query=Cam%C3%AD%20dels%20Reis%2C%20s%2Fn%2C%2007011%20Palma%2C%20Illes%20Balears",
-      "direccion": "Camí dels Reis, s/n, 07011 Palma, Illes Balears",
-      "descripcion": "La isla infernal bermellona; fortín heroico que atestiguó la gran conquista de la Copa del Rey para las Baleares."
+      "url": "https://www.google.com/maps/search/?api=1&query=39.589722,2.630278",
+      "direccion": "Camí dels Reis, s/n, 07011 Palma, Illes Balears, España",
+      "descripcion": "Construido en 1999 para una Universiada. Tuvo muchísimos cambios comerciales (ONO, Iberostar, Visit Mallorca). Recientemente reformado eliminando sus criticadas pistas de atletismo para acercar a los aficionados.",
+      "lat": 39.589722,
+      "lng": 2.630278
     }
   ],
   "equipacion": [

@@ -123,12 +123,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio Benito Villamarín",
+      "nombre": "Campo del Patronato Obrero",
+      "capacidad": "9.000",
+      "inauguracion": "1918",
+      "url": "https://www.google.com/maps/search/?api=1&query=37.382,-5.981",
+      "direccion": "Avenida Diego Martínez Barrio, Sevilla, España (Demolido)",
+      "descripcion": "Cuna del beticismo en sus orígenes, un campo humilde ubicado en la Huerta del Fraile de gran simbolismo histórico antes de la Exposición Iberoamericana.",
+      "lat": 37.382,
+      "lng": -5.981
+    },
+    {
+      "nombre": "Estadio Benito Villamarín (Heliópolis 1929-1961, Ruiz de Lopera 2000-2010)",
       "capacidad": "60.721",
       "inauguracion": "1929",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Heli%C3%B3polis%2C%20s%2Fn%2C%2041012%20Sevilla",
-      "direccion": "Av. de Heliópolis, s/n, 41012 Sevilla",
-      "descripcion": "Gigante verdiblanco hirviente de pasiones donde estallan las almas andaluzas exclamando el '¡Viva el Betis, manque pierda!'."
+      "url": "https://www.google.com/maps/search/?api=1&query=37.356389,-5.981389",
+      "direccion": "Av. de Heliópolis, s/n, 41012 Sevilla, España",
+      "descripcion": "Nacido como Estadio Heliópolis para la Exposición Iberoamericana de 1929. Nombrado Villamarín en 1961, padeció un polémico cambio a Manuel Ruiz de Lopera (2000-2010) tras comprarlo, hasta que la masa social recuperó legalmente el nombre original.",
+      "lat": 37.356389,
+      "lng": -5.981389
     }
   ],
   "equipacion": [

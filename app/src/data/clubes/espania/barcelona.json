@@ -115,12 +115,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Camp Nou",
+      "nombre": "Camp de Les Corts",
+      "capacidad": "60.000",
+      "inauguracion": "1922",
+      "url": "https://www.google.com/maps/search/?api=1&query=41.386111,2.133333",
+      "direccion": "Travessera de les Corts, 08028 Barcelona, España (Demolido)",
+      "descripcion": "La 'Catedral del Fútbol'. Fue el estadio que cobijó al Barça durante su crecimiento exponencial tras los años 20 hasta la llegada del legendario Kubala, lo que obligó a construir uno nuevo por la masiva afluencia de público.",
+      "lat": 41.386111,
+      "lng": 2.133333
+    },
+    {
+      "nombre": "Spotify Camp Nou (Camp Nou 1957-2022)",
       "capacidad": "99.354",
       "inauguracion": "1957",
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20d'Ar%C3%ADstides%20Maillol%2C%2012%2C%2008028%20Barcelona",
-      "direccion": "C. d'Arístides Maillol, 12, 08028 Barcelona",
-      "descripcion": "La gigantesca y mística casa del barcelonismo, escenario de milagros mundiales y noches doradas europeas."
+      "url": "https://www.google.com/maps/search/?api=1&query=C.+d'Arístides+Maillol,+12,+08028+Barcelona,+España",
+      "direccion": "C. d'Arístides Maillol, 12, 08028 Barcelona, España",
+      "descripcion": "Inaugurado en 1957 como Estadi del FC Barcelona y bautizado popularmente como Camp Nou. En 2022 incorporó su primer naming rights por acuerdos comerciales pasándose a llamar Spotify Camp Nou. Es el estadio más grande de toda Europa y un bastión inigualable del fútbol mundial.",
+      "lat": 41.380896,
+      "lng": 2.12282
     }
   ],
   "equipacion": [

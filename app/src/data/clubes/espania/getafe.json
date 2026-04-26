@@ -113,12 +113,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Coliseum",
+      "nombre": "Estadio de Las Margaritas",
+      "capacidad": "10.000",
+      "inauguracion": "1970",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.316,-3.722",
+      "direccion": "Av. de las Ciudades, Getafe, Madrid, España (Demolido)",
+      "descripcion": "La modesta pero intensa casa del antiguo Getafe Deportivo y los primeros años de la entidad actual, demolida en 1996.",
+      "lat": 40.316,
+      "lng": -3.722
+    },
+    {
+      "nombre": "Coliseum (Coliseum Alfonso Pérez 1998-2023)",
       "capacidad": "16.500",
       "inauguracion": "1998",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Teresa%20de%20Calcuta%2C%20s%2Fn%2C%2028903%20Getafe%2C%20Madrid",
-      "direccion": "Av. Teresa de Calcuta, s/n, 28903 Getafe, Madrid",
-      "descripcion": "Rudo y feroz coliseo del sur de Madrid, la pista forjadora de los sueños europeos de la armada azulona."
+      "url": "https://www.google.com/maps/search/?api=1&query=40.325556,-3.714722",
+      "direccion": "Av. Teresa de Calcuta, s/n, 28903 Getafe, Madrid, España",
+      "descripcion": "Inaugurado en 1998 con el nombre del jugador local Alfonso Pérez. En 2023, por desavenencias ideológicas con el exfutbolista, el Ayuntamiento retiró su nombre, quedando bautizado oficialmente a secas como 'Coliseum'.",
+      "lat": 40.325556,
+      "lng": -3.714722
     }
   ],
   "equipacion": [

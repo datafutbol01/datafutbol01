@@ -113,12 +113,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio de Anoeta",
-      "capacidad": "39.500",
+      "nombre": "Estadio de Atocha",
+      "capacidad": "27.400",
+      "inauguracion": "1913",
+      "url": "https://www.google.com/maps/search/?api=1&query=43.318889,-1.972778",
+      "direccion": "Avenida de Madrid, San Sebastián, Gipuzkoa, España (Demolido)",
+      "descripcion": "El alma txuri-urdin original. Un templo de gradas de madera y estilo puramente inglés donde el equipo fraguó y festejó su histórica época dorada de títulos en los años 80.",
+      "lat": 43.318889,
+      "lng": -1.972778
+    },
+    {
+      "nombre": "Reale Arena (Estadio de Anoeta 1993-2019)",
+      "capacidad": "40.000",
       "inauguracion": "1993",
-      "url": "https://www.google.com/maps/search/?api=1&query=Anoeta%20Pasalekua%2C%201%2C%2020014%20Donostia%2C%20Gipuzkoa",
-      "direccion": "Anoeta Pasalekua, 1, 20014 Donostia, Gipuzkoa",
-      "descripcion": "Majestuosa casa txuri-urdin remodelada sin la gélida pista de atletismo, acercando el grito sagrado vasco directo al pasto."
+      "url": "https://www.google.com/maps/search/?api=1&query=43.301389,-1.973611",
+      "direccion": "Anoeta Pasalekua, 1, 20014 Donostia, Gipuzkoa, España",
+      "descripcion": "Inaugurado como Estadio Municipal de Anoeta en 1993 y criticado duramente por su fría pista de atletismo. Recientemente se remodeló retirando las pistas, hundiendo el terreno de juego y adoptando el nombre comercial Reale Arena (2019).",
+      "lat": 43.301389,
+      "lng": -1.973611
     }
   ],
   "equipacion": [

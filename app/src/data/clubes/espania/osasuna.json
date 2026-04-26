@@ -114,12 +114,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio El Sadar",
+      "nombre": "Campo de San Juan",
+      "capacidad": "20.000",
+      "inauguracion": "1922",
+      "url": "https://www.google.com/maps/search/?api=1&query=42.812,-1.655",
+      "direccion": "Barrio de San Juan, Pamplona, Navarra, España (Demolido)",
+      "descripcion": "El entrañable primer templo rojillo que se quedó pequeño a medida que el club arraigaba fuertemente en el corazón de Navarra.",
+      "lat": 42.812,
+      "lng": -1.655
+    },
+    {
+      "nombre": "Estadio El Sadar (Reyno de Navarra 2005-2013)",
       "capacidad": "23.576",
       "inauguracion": "1967",
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20del%20Sadar%2C%20s%2Fn%2C%2031006%20Pamplona%2C%20Navarra",
-      "direccion": "C. del Sadar, s/n, 31006 Pamplona, Navarra",
-      "descripcion": "Ruidoso, asfixiante y vertical. El Muro Rojo donde los pamploneses derraman el fervor inquebrantable por Osasuna."
+      "url": "https://www.google.com/maps/search/?api=1&query=42.796667,-1.637222",
+      "direccion": "Calle del Sadar, s/n, 31006 Pamplona, Navarra, España",
+      "descripcion": "Inaugurado en 1967. Por un polémico patrocinio del gobierno de Navarra se llamó Reyno de Navarra entre 2005 y 2013, antes de recuperar por clamor popular su nombre original 'El Sadar'. Remodelado integralmente y techado en 2021.",
+      "lat": 42.796667,
+      "lng": -1.637222
     }
   ],
   "equipacion": [

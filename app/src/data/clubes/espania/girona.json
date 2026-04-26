@@ -112,12 +112,24 @@
   ],
   "canchas": [
     {
+      "nombre": "Camp de Vista Alegre",
+      "capacidad": "4.700",
+      "inauguracion": "1922",
+      "url": "https://www.google.com/maps/search/?api=1&query=41.977,2.822",
+      "direccion": "Carrer de Vista Alegre, Girona, España (Demolido)",
+      "descripcion": "El primer recinto cerrado que albergó los primeros 50 años de historia modesta del equipo en divisiones inferiores.",
+      "lat": 41.977,
+      "lng": 2.822
+    },
+    {
       "nombre": "Estadi Municipal de Montilivi",
       "capacidad": "14.624",
       "inauguracion": "1970",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Montilivi%2C%20141%2C%2017003%20Girona",
-      "direccion": "Av. Montilivi, 141, 17003 Girona",
-      "descripcion": "Santuario enclavado en la ladera catalana que vio ascender al equipo desde las cenizas hasta la élite de la Champions."
+      "url": "https://www.google.com/maps/search/?api=1&query=41.961389,2.827778",
+      "direccion": "Av. Montilivi, 141, 17003 Girona, España",
+      "descripcion": "Construido en 1970 por el Ayuntamiento, ha sido progresivamente ampliado con gradas supletorias tras la irrupción meteórica del club en Primera División y la Champions League en la era del City Football Group.",
+      "lat": 41.961389,
+      "lng": 2.827778
     }
   ],
   "equipacion": [

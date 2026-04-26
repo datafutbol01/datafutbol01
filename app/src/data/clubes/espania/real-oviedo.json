@@ -93,26 +93,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Estadio de Buenavista (Antiguo Carlos Tartiere)",
-      "direccion": "Buenavista, Oviedo",
-      "desde": 1932,
-      "hasta": 2000,
-      "estado": "Histórico",
-      "obs": "Estructura histórica sede mundialista. Fue clausurado tras considerarse deficiente para la asistencia.",
-      "lat": 43.3583,
-      "lng": -5.8647,
-      "url": "https://www.google.com/maps/search/?api=1&query=Buenavista%2C%20Oviedo"
+      "nombre": "Estadio de Buenavista",
+      "capacidad": "30.000",
+      "inauguracion": "1932",
+      "url": "https://www.google.com/maps/search/?api=1&query=43.361,-5.864",
+      "direccion": "Barrio de Buenavista, Oviedo, Asturias, España (Demolido)",
+      "descripcion": "Rebautizado posteriormente como el primer Carlos Tartiere. Fue el glorioso y temido fortín azul durante décadas, y una de las sedes oficiales del Mundial de 1982.",
+      "lat": 43.361,
+      "lng": -5.864
     },
     {
       "nombre": "Estadio Carlos Tartiere",
-      "direccion": "C. Isidro Lángara, s/n, Oviedo",
-      "desde": 2000,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Moderna construcción erigida con un perímetro integral de visualización rectilínea.",
-      "lat": 43.3581,
-      "lng": -5.8718,
-      "url": "https://www.google.com/maps/search/?api=1&query=C.%20Isidro%20L%C3%A1ngara%2C%20s%2Fn%2C%20Oviedo"
+      "capacidad": "30.500",
+      "inauguracion": "2000",
+      "url": "https://www.google.com/maps/search/?api=1&query=43.359722,-5.871111",
+      "direccion": "Calle Ricardo Vázquez Prada, s/n, 33013 Oviedo, Asturias, España",
+      "descripcion": "El nuevo recinto inaugurado en el año 2000 para modernizar las infraestructuras, conservando sagradamente el nombre del presidente fundador del club. Acogió la agónica resurrección del equipo desde el pozo de Tercera División.",
+      "lat": 43.359722,
+      "lng": -5.871111
     }
   ],
   "equipacion": [

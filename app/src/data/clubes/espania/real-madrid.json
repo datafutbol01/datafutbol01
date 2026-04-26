@@ -115,12 +115,24 @@
   ],
   "canchas": [
     {
+      "nombre": "Estadio de Chamartín",
+      "capacidad": "22.500",
+      "inauguracion": "1924",
+      "url": "https://www.google.com/maps/search/?api=1&query=40.453056,-3.688333",
+      "direccion": "Calle de la Castellana, Madrid, España (Demolido)",
+      "descripcion": "El histórico y primer gran hogar del club previo a la explosión del fútbol moderno, escenario de los primeros campeonatos de liga antes de quedarse pequeño.",
+      "lat": 40.453056,
+      "lng": -3.688333
+    },
+    {
       "nombre": "Estadio Santiago Bernabéu",
-      "capacidad": "81.044",
+      "capacidad": "85.000",
       "inauguracion": "1947",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Concha%20Espina%2C%201%2C%2028036%20Madrid",
-      "direccion": "Av. de Concha Espina, 1, 28036 Madrid",
-      "descripcion": "El corazón mundial inmaculado blanco. Un coliseo romano moderno testigo irrefutable del pavor que impone el rey de Europa."
+      "url": "https://www.google.com/maps/search/?api=1&query=Av.+de+Concha+Espina,+1,+28036+Madrid,+España",
+      "direccion": "Av. de Concha Espina, 1, 28036 Madrid, España",
+      "descripcion": "El inexpugnable templo blanco fundado originalmente como Nuevo Estadio Chamartín en 1947. Fue renombrado Santiago Bernabéu en 1955. Escenario de las mayores noches mágicas europeas y remodelado en el siglo XXI para ser un hito arquitectónico mundial.",
+      "lat": 40.453054,
+      "lng": -3.688344
     }
   ],
   "equipacion": [

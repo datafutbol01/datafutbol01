@@ -115,12 +115,24 @@
   ],
   "canchas": [
     {
-      "nombre": "Ciutat de València",
+      "nombre": "Campo de Vallejo",
+      "capacidad": "18.000",
+      "inauguracion": "1925",
+      "url": "https://www.google.com/maps/search/?api=1&query=39.486,-0.375",
+      "direccion": "Calle de Alboraya, Valencia, España (Demolido)",
+      "descripcion": "El mítico estadio de madera y tierra que albergó al club original. Escenario de sus primeras grandes batallas antes de venderse por deudas económicas y expropiación.",
+      "lat": 39.486,
+      "lng": -0.375
+    },
+    {
+      "nombre": "Estadio Ciutat de València (Nou Estadi 1969-1999)",
       "capacidad": "26.354",
-      "inauguracion": "1969",
-      "url": "https://www.google.com/maps/search/?api=1&query=C%2F%20San%20Vicente%20de%20Pa%C3%BAl%2C%2044%2C%2046019%20Valencia",
-      "direccion": "C/ San Vicente de Paúl, 44, 46019 Valencia",
-      "descripcion": "El histórico coliseo granota, inaugurado para dejar atrás Vallejo y que en los últimos años atravesó una colosal remodelación moderna que lo blindó de una mística innegable."
+      "inauguracion": "1968",
+      "url": "https://www.google.com/maps/search/?api=1&query=39.494722,-0.363889",
+      "direccion": "Carrer de Sant Vicent de Paül, 44, 46019 València, Valencia, España",
+      "descripcion": "Inaugurado originalmente como Estadio Antonio Román (y luego Nou Estadi). En 1999 adquirió su nombre actual, Ciutat de València. Sufrió una majestuosa remodelación en 2020 instalando una espectacular cubierta integral.",
+      "lat": 39.494722,
+      "lng": -0.363889
     }
   ],
   "equipacion": [
