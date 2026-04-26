@@ -3,6 +3,8 @@ import { useParams, Link, useNavigate, useLocation } from 'react-router-dom';
 import { getClubsByLeague, getLeagueHistory, getLeagueMatchups, getLeagues } from '../data/loader';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
+import ShareButton from '../components/ShareButton';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function League() {
   const { leagueId } = useParams();
@@ -13,7 +15,11 @@ export default function League() {
   const allLeagues = getLeagues();
   const currentLeague = allLeagues.find(l => l.id === leagueId) || { name: leagueId };
   const location = useLocation();
-  const [activeTab, setActiveTab] = useState(location.state?.tab || 'clubes');
+  
+  const searchParams = new URLSearchParams(location.search);
+  const h2hParam = searchParams.get('h2h');
+
+  const [activeTab, setActiveTab] = useState(location.state?.tab || (h2hParam ? 'enfrentamientos' : 'clubes'));
   const getDefaultTab = (id) => {
     switch(id) {
       case 'inglaterra': return 'premier';
@@ -409,7 +415,7 @@ export default function League() {
   const [selectedYearStr, setSelectedYearStr] = useState(null);
   const [selectedHistoryId, setSelectedHistoryId] = useState(null); // No renderizar tabla por defecto
   
-  const [selectedH2HTeamId, setSelectedH2HTeamId] = useState(null); // Nuevo estado
+  const [selectedH2HTeamId, setSelectedH2HTeamId] = useState(h2hParam ? h2hParam.split('-vs-')[0] : null); // Nuevo estado
   
   const yearsScrollRef = useRef(null);
   
@@ -550,41 +556,38 @@ export default function League() {
     }
   }, [clubs.length, activeTab]);
 
+  const breadcrumbPaths = [
+    { name: 'Clubes del Mundo', url: '/leagues' },
+    { name: currentLeague.name, url: `/liga/${leagueId}` }
+  ];
+  if (activeTab === 'temporadas') breadcrumbPaths.push({ name: 'Campeonatos' });
+  else if (activeTab === 'enfrentamientos') {
+    if (selectedH2HTeamId) {
+      const bClub = clubs.find(c => c.id === selectedH2HTeamId);
+      breadcrumbPaths.push({ name: 'Historiales', url: '#' }); // Mantiene en H2H
+      breadcrumbPaths.push({ name: bClub ? (bClub.datos?.nombre_corto || bClub.datos?.nombre_completo) : 'Equipo' });
+    } else {
+      breadcrumbPaths.push({ name: 'Historiales' });
+    }
+  }
+  else if (activeTab === 'actualidad') breadcrumbPaths.push({ name: 'Actualidad' });
+
+  const handleBack = () => {
+    if (activeTab === 'enfrentamientos' && selectedH2HTeamId) {
+        setSelectedH2HTeamId(null);
+    } else if (clubs.length === 0 || isCup) {
+        navigate(-1);
+    } else if (activeTab !== 'clubes') {
+        setActiveTab('clubes');
+    } else {
+        navigate('/');
+    }
+  };
+
   return (
-    <div style={{ padding: '4rem 2rem', minHeight: '100vh', maxWidth: '1400px', margin: '0 auto', position: 'relative' }}>
+    <div style={{ padding: '2rem', minHeight: '100vh', maxWidth: '1400px', margin: '0 auto', position: 'relative' }}>
       
-      <button
-        onClick={() => {
-          if (clubs.length === 0 || isCup) {
-            navigate(-1);
-          } else if (activeTab !== 'clubes') {
-            setActiveTab('clubes');
-          } else {
-            navigate('/leagues');
-          }
-        }}
-        className="glass-panel"
-        style={{
-          position: 'absolute',
-          top: '4rem',
-          left: '0',
-          width: '50px',
-          height: '50px',
-          borderRadius: '50%',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          border: 'none',
-          background: 'rgba(255,255,255,0.05)',
-          cursor: 'pointer',
-          transition: 'all 0.3s',
-          zIndex: 10
-        }}
-        onMouseOver={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
-        onMouseOut={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-      >
-        <ArrowLeft size={24} color="var(--accent-gold)" />
-      </button>
+      <Breadcrumbs paths={breadcrumbPaths} onBack={handleBack} />
 
       <h1 className="title-font animate-fade-in" style={{ fontSize: '3.5rem', marginBottom: '1rem', textAlign: 'center' }}>
         <span className="notranslate" style={{ color: 'var(--accent-gold)' }}>{currentLeague.name}</span>
@@ -1621,11 +1624,12 @@ export default function League() {
                         <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'center', fontSize: '0.95rem' }}>
                           <thead>
                             <tr style={{ background: 'rgba(0,0,0,0.5)', borderBottom: '2px solid var(--accent-gold)' }}>
-                              <th style={{ padding: '0.8rem', textAlign: 'left', width: '35%', color: 'white' }}>Equipo</th>
+                              <th style={{ padding: '0.8rem', textAlign: 'left', width: '30%', color: 'white' }}>Equipo</th>
                               <th style={{ padding: '0.8rem', color: '#4ade80' }}>G</th>
                               <th style={{ padding: '0.8rem', color: '#94a3b8' }}>E</th>
                               <th style={{ padding: '0.8rem', color: '#ef4444' }}>P</th>
-                              <th style={{ padding: '0.8rem', textAlign: 'right', width: '35%', color: 'var(--text-muted)' }}>Rival</th>
+                              <th style={{ padding: '0.8rem', textAlign: 'right', width: '30%', color: 'var(--text-muted)' }}>Rival</th>
+                              <th style={{ padding: '0.8rem', width: '10%' }}></th>
                             </tr>
                           </thead>
                           <tbody>
@@ -1704,6 +1708,14 @@ export default function League() {
                                   <td style={{ padding: '1rem', fontSize: '1.3rem', fontWeight: 'bold', color: '#94a3b8' }}>{pe}</td>
                                   <td style={{ padding: '1rem', fontSize: '1.3rem', fontWeight: 'bold', color: '#ef4444' }}>{pp}</td>
                                   <td style={{ padding: '1rem 1.2rem', textAlign: 'right', fontWeight: 'bold', color: 'var(--text-muted)' }}>{rivalName}</td>
+                                  <td style={{ padding: '1rem', textAlign: 'center' }}>
+                                    <ShareButton 
+                                      equipoA={baseName} 
+                                      equipoB={rivalName} 
+                                      urlShare={`${window.location.origin}${window.location.pathname}?h2h=${baseClub.id}-vs-${rival.id}`}
+                                      compact={true} 
+                                    />
+                                  </td>
                                 </tr>
                               );
                             })}

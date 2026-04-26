@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { ArrowLeft, Activity, Calendar as CalendarIcon, ChevronRight, ChevronDown, ChevronUp } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { TARGET_LEAGUES } from '../config/api_leagues';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 const groupedSidebarLeagues = {
   "COPAS": [
@@ -345,19 +346,12 @@ export default function LiveScoresHub() {
   return (
     <div style={{ minHeight: '100vh', background: 'var(--bg-main)', paddingTop: '2rem', position: 'relative', paddingBottom: '4rem' }}>
 
-      <button
-        onClick={() => { navigate(-1); }}
-        className="glass-panel"
-        style={{
-          position: 'absolute', top: '2rem', left: '2rem', width: '50px', height: '50px',
-          borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center',
-          border: 'none', background: 'rgba(255,255,255,0.05)', cursor: 'pointer', transition: 'all 0.3s', zIndex: 100
-        }}
-        onMouseOver={(e) => e.currentTarget.style.background = 'rgba(239, 68, 68, 0.2)'}
-        onMouseOut={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-      >
-        <ArrowLeft size={24} color="#ef4444" />
-      </button>
+      <div style={{ position: 'relative', zIndex: 100, marginBottom: '2rem', paddingLeft: '2rem' }}>
+        <Breadcrumbs 
+            paths={[{ name: 'Resultados en Vivo' }]} 
+            onBack={() => { navigate(-1); }} 
+        />
+      </div>
 
       <div style={{ padding: '0 2rem 2rem', borderBottom: '1px solid rgba(255,255,255,0.05)', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <h1 className="title-font animate-fade-in" style={{ fontSize: '2.5rem', color: 'white', display: 'flex', alignItems: 'center', gap: '0.8rem', margin: 0 }}>

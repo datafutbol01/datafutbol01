@@ -4,7 +4,8 @@ import { getClubById, getLeagues } from '../data/loader';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowLeft, Shield } from 'lucide-react';
+import { Shield } from 'lucide-react';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 
 export default function ClubDetail() {
@@ -88,31 +89,15 @@ export default function ClubDetail() {
         {/* Dark gradient overlay to make text pop */}
         <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(2,6,23,0.95) 0%, transparent 60%)' }}></div>
 
-        {/* Botones de retroceso */}
-        <div style={{ position: 'absolute', top: '2rem', left: '2rem', zIndex: 10, display: 'flex', gap: '1rem' }}>
-          {/* Volver atrás */}
-          <button
-            onClick={() => navigate(-1)}
-            className="glass-panel"
-            title="Volver atrás"
-            style={{ width: '45px', height: '45px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', border: '1px solid rgba(255,255,255,0.2)', cursor: 'pointer', background: 'rgba(255,255,255,0.05)' }}
-            onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
-            onMouseOut={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-          >
-            <ArrowLeft size={20} color="var(--accent-gold)" />
-          </button>
-
-          {/* Volver a Ligas */}
-          <Link
-            to="/leagues"
-            className="glass-panel"
-            style={{ borderRadius: '25px', padding: '0 1.5rem', display: 'flex', alignItems: 'center', color: 'white', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.2)', fontWeight: 'bold', background: 'rgba(255,255,255,0.05)' }}
-            onMouseOver={e => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
-            onMouseOut={e => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-          >
-            Volver a Ligas
-          </Link>
-        </div>
+        {/* Breadcrumbs de Navegación */}
+        <Breadcrumbs 
+          paths={[
+            { name: 'Clubes del Mundo', url: '/leagues' },
+            { name: currentLeague.name, url: `/liga/${leagueId}` },
+            { name: datos.nombre_corto || datos.nombre_completo }
+          ]} 
+          style={{ position: 'absolute', top: '1.5rem', left: '2rem', zIndex: 10, margin: 0, textShadow: '0 2px 4px rgba(0,0,0,0.8)' }} 
+        />
         
         <div style={{ position: 'relative', zIndex: 10, display: 'flex', alignItems: 'flex-end', gap: '2rem', maxWidth: '1100px', margin: '0 auto', width: '100%', paddingBottom: '0.5rem' }}>
           
@@ -314,12 +299,13 @@ export default function ClubDetail() {
               let historicStadiums = [];
 
               if (canchas && canchas.length > 0) {
-                let actives = canchas.filter(c => 
-                  !c.hasta || 
-                  String(c.hasta).toLowerCase() === 'presente' || 
-                  String(c.hasta).toLowerCase() === 'actualidad' ||
-                  (c.estado && (c.estado.toLowerCase().includes('activ') || c.estado.toLowerCase().includes('principal') || c.estado.toLowerCase().includes('actual')))
-                );
+                let actives = canchas.filter(c => {
+                  if (c.epoca) return c.epoca.toLowerCase().includes('presente');
+                  if (c.hasta) return String(c.hasta).toLowerCase() === 'presente' || String(c.hasta).toLowerCase() === 'actualidad';
+                  if (c.estado) return c.estado.toLowerCase().includes('activ') || c.estado.toLowerCase().includes('principal') || c.estado.toLowerCase().includes('actual');
+                  if (datos && datos.estadio_actual && c.nombre.toLowerCase().includes(datos.estadio_actual.split(' ')[0].toLowerCase())) return true;
+                  return !c.hasta && !c.epoca; // Fallback for old JSONs with only one stadium and no dates
+                });
                 
                 let historics = canchas.filter(c => !actives.includes(c));
 
@@ -401,41 +387,43 @@ export default function ClubDetail() {
                   </div>
                 ))}
 
-                <h3 className="title-font" style={{ fontSize: '1.8rem', marginBottom: '1.5rem' }}>Estadios Históricos</h3>
-                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
-                  {historicStadiums.map((estadio, idx) => (
-                    <div key={`historico-new-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
-                      <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{estadio.nombre}</h4>
-                      {estadio.inauguracion && <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>
-                        {estadio.inauguracion}
-                      </p>}
-                      {estadio.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {estadio.direccion}</p>}
-                      {estadio.apodo && <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>}
-                      
-                      {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) && (
-                        <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
-                          <MapContainer 
-                            center={[estadio.lat, estadio.lng]} 
-                            zoom={14} 
-                            scrollWheelZoom={false}
-                            style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
-                            key={`map-hist-${estadio.lat}-${estadio.lng}`}
-                          >
-                            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
-                            <Marker position={[estadio.lat, estadio.lng]}>
-                              <Popup className="notranslate">{estadio.nombre}</Popup>
-                            </Marker>
-                          </MapContainer>
+                {historicStadiums && historicStadiums.length > 0 && (
+                  <>
+                    <h3 className="title-font" style={{ fontSize: '1.8rem', marginBottom: '1.5rem' }}>Estadios Históricos</h3>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
+                      {historicStadiums.map((estadio, idx) => (
+                        <div key={`historico-new-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
+                          <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{estadio.nombre}</h4>
+                          {estadio.inauguracion && <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: estadio.epoca ? '0.2rem' : '1rem' }}>
+                            Inauguración: {estadio.inauguracion}
+                          </p>}
+                          {estadio.epoca && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)', marginBottom: '1rem' }}>
+                            Período de uso: {estadio.epoca}
+                          </p>}
+                          {estadio.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {estadio.direccion}</p>}
+                          {estadio.apodo && <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>}
+                          
+                          {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) && (
+                            <div style={{ height: '180px', borderRadius: '8px', overflow: 'hidden', marginTop: '1.5rem', border: '1px solid rgba(255,255,255,0.1)', position: 'relative' }}>
+                              <MapContainer 
+                                center={[estadio.lat, estadio.lng]} 
+                                zoom={14} 
+                                scrollWheelZoom={false}
+                                style={{ height: '100%', width: '100%', position: 'absolute', top: 0, left: 0 }}
+                                key={`map-hist-${estadio.lat}-${estadio.lng}`}
+                              >
+                                <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap" />
+                                <Marker position={[estadio.lat, estadio.lng]}>
+                                  <Popup className="notranslate">{estadio.nombre}</Popup>
+                                </Marker>
+                              </MapContainer>
+                            </div>
+                          )}
                         </div>
-                      )}
+                      ))}
                     </div>
-                  ))}
-
-                  {/* Notice if no historic stadiums */}
-                  {historicStadiums.length === 0 && (
-                    <p style={{ color: 'var(--text-muted)', fontSize: '1.1rem', gridColumn: '1 / -1' }}>No hay registros de estadios históricos documentados en esta biblioteca.</p>
-                  )}
-                </div>
+                  </>
+                )}
               </div>
               );
             })()}

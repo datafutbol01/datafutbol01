@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { getLeagues, getClubsByLeague } from '../data/loader';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function AuditHub() {
     // Protección de entorno: Si NO es localhost (desarrollo), se oculta la ruta
@@ -65,6 +66,9 @@ export default function AuditHub() {
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', color: 'white', padding: '2rem' }}>
             <div style={{ maxWidth: '1400px', margin: '0 auto' }}>
+                <div style={{ marginBottom: '2rem' }}>
+                    <Breadcrumbs paths={[{ name: 'Auditoría' }]} onBack={() => { window.location.href = '/'; }} />
+                </div>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem', borderBottom: '2px solid rgba(255,255,255,0.1)', paddingBottom: '1rem' }}>
                     <h1 className="title-font" style={{ fontSize: '3rem', margin: 0, color: 'var(--accent-gold)' }}>DASHBOARD DE AUDITORÍA</h1>
                     

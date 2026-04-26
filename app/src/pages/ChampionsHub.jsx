@@ -15,8 +15,11 @@ const getFlagUrl = (flag, size = 'w20') => {
     return `https://flagcdn.com/${size}/${flag}.png`;
 };
 
-const renderMatch = (m, isFinal = false, titleOverride = null) => {
+const renderMatch = (m, isFinal = false, titleOverride = null, getTeamFlag = null) => {
     if (!m) return null;
+    
+    const f1 = getTeamFlag ? getTeamFlag(m.id1) : (m.flag1 || m.country1);
+    const f2 = getTeamFlag ? getTeamFlag(m.id2) : (m.flag2 || m.country2);
     return (
         <div key={m.team1 + m.team2} style={{ background: isFinal ? 'rgba(251, 191, 36, 0.1)' : 'rgba(0,0,0,0.3)', border: isFinal ? '2px solid var(--accent-gold)' : '1px solid rgba(255,255,255,0.05)', borderRadius: '8px', padding: isFinal ? '1.2rem' : '0.8rem', boxShadow: isFinal ? '0 0 25px rgba(251, 191, 36, 0.2)' : '0 4px 15px rgba(0,0,0,0.2)', position: 'relative', width: '100%', boxSizing: 'border-box' }}>
             {titleOverride && <div style={{ textAlign: 'center', fontSize: '0.7rem', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: '0.5rem', letterSpacing: '1px' }}>{titleOverride}</div>}
@@ -25,7 +28,7 @@ const renderMatch = (m, isFinal = false, titleOverride = null) => {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.4rem' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: isFinal ? '1.1rem' : '0.9rem' }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, color: parseInt(m.score.split('-')[0]) > parseInt(m.score.split('-')[1]) || (m.penalties && parseInt(m.penalties.split('-')[0]) > parseInt(m.penalties.split('-')[1])) ? 'white' : 'var(--text-muted)' }}>
-                        <img src={`${getFlagUrl(m.flag1, 'w20')}`} alt={m.team1} style={{ width: isFinal ? '20px' : '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                        <img src={`${getFlagUrl(f1, 'w20')}`} alt={m.team1} style={{ width: isFinal ? '20px' : '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                         <span style={{ fontWeight: parseInt(m.score.split('-')[0]) >= parseInt(m.score.split('-')[1]) ? 'bold' : 'normal', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{m.team1}</span>
                     </div>
                     <div style={{ fontWeight: 'bold', color: 'white', paddingLeft: '0.5rem' }}>{m.score.split('-')[0]}</div>
@@ -33,7 +36,7 @@ const renderMatch = (m, isFinal = false, titleOverride = null) => {
 
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: isFinal ? '1.1rem' : '0.9rem' }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, color: parseInt(m.score.split('-')[1]) > parseInt(m.score.split('-')[0]) || (m.penalties && parseInt(m.penalties.split('-')[1]) > parseInt(m.penalties.split('-')[0])) ? 'white' : 'var(--text-muted)' }}>
-                        <img src={`${getFlagUrl(m.flag2, 'w20')}`} alt={m.team2} style={{ width: isFinal ? '20px' : '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                        <img src={`${getFlagUrl(f2, 'w20')}`} alt={m.team2} style={{ width: isFinal ? '20px' : '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                         <span style={{ fontWeight: parseInt(m.score.split('-')[1]) >= parseInt(m.score.split('-')[0]) ? 'bold' : 'normal', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{m.team2}</span>
                     </div>
                     <div style={{ fontWeight: 'bold', color: 'white', paddingLeft: '0.5rem' }}>{m.score.split('-')[1]}</div>
@@ -43,6 +46,26 @@ const renderMatch = (m, isFinal = false, titleOverride = null) => {
             {m.penalties && (
                 <div style={{ textAlign: 'center', fontSize: '0.65rem', color: 'var(--accent-gold)', background: 'rgba(251, 191, 36, 0.1)', borderRadius: '4px', marginTop: '0.6rem', padding: '0.2rem' }}>
                     PENALES: {m.penalties}
+                </div>
+            )}
+
+            {m.agg && (
+                <div style={{ textAlign: 'center', fontSize: '0.65rem', color: 'var(--text-muted)', marginTop: '0.6rem', padding: '0.2rem', display: 'flex', flexDirection: 'column', gap: '0.2rem' }}>
+                    <div style={{ fontWeight: 'bold' }}>GLOBAL: {m.agg}</div>
+                    {m.details && m.details.length > 0 && (
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', opacity: 0.8, marginTop: '0.5rem' }}>
+                            {m.details.map((d, i) => (
+                                <div key={i} style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem', padding: '0.2rem', background: 'rgba(255,255,255,0.03)', borderRadius: '4px' }}>
+                                    <span>[{d.leg}: {d.score}]</span>
+                                    {d.goals && d.goals.length > 0 && (
+                                        <div style={{ fontSize: '0.6rem', color: 'rgba(255,255,255,0.6)', fontStyle: 'italic', wordBreak: 'break-word' }}>
+                                            {d.goals.join(' | ')}
+                                        </div>
+                                    )}
+                                </div>
+                            ))}
+                        </div>
+                    )}
                 </div>
             )}
 
@@ -56,30 +79,20 @@ const renderMatch = (m, isFinal = false, titleOverride = null) => {
     );
 };
 
-export default function WorldCupsHub() {
-    const worldCups = [
-        { year: 1930, host: 'Uruguay' },
-        { year: 1934, host: 'Italia' },
-        { year: 1938, host: 'Francia' },
-        { year: 1950, host: 'Brasil' },
-        { year: 1954, host: 'Suiza' },
-        { year: 1958, host: 'Suecia' },
-        { year: 1962, host: 'Chile' },
-        { year: 1966, host: 'Inglaterra' },
-        { year: 1970, host: 'México' },
-        { year: 1974, host: 'Alemania Occidental' },
-        { year: 1978, host: 'Argentina' },
-        { year: 1982, host: 'España' },
-        { year: 1986, host: 'México' },
-        { year: 1990, host: 'Italia' },
-        { year: 1994, host: 'Estados Unidos' },
-        { year: 1998, host: 'Francia' },
-        { year: 2002, host: 'Corea/Japón' },
-        { year: 2006, host: 'Alemania' },
-        { year: 2010, host: 'Sudáfrica' },
-        { year: 2014, host: 'Brasil' },
-        { year: 2018, host: 'Rusia' },
-        { year: 2022, host: 'Qatar' }
+export default function ChampionsHub() {
+    const seasons = [
+        { year: 1956, host: 'París' },
+        { year: 1994, host: 'Atenas' },
+        { year: 1995, host: 'Viena' },
+        { year: 1996, host: 'Roma' },
+        { year: 1997, host: 'Múnich' },
+        { year: 1998, host: 'Ámsterdam' },
+        { year: 1999, host: 'Barcelona' },
+        { year: 2000, host: 'París' },
+        { year: 2001, host: 'Milán' },
+        { year: 2002, host: 'Glasgow' },
+        { year: 2003, host: 'Mánchester' },
+        { year: 2004, host: 'Gelsenkirchen' }
     ];
 
     const [selectedYear, setSelectedYear] = useState(null);
@@ -118,28 +131,18 @@ export default function WorldCupsHub() {
 
         let importPromise;
         switch (selectedYear) {
-            case 1930: importPromise = import('../data/mundiales/1930.json'); break;
-            case 1934: importPromise = import('../data/mundiales/1934.json'); break;
-            case 1938: importPromise = import('../data/mundiales/1938.json'); break;
-            case 1950: importPromise = import('../data/mundiales/1950.json'); break;
-            case 1954: importPromise = import('../data/mundiales/1954.json'); break;
-            case 1958: importPromise = import('../data/mundiales/1958.json'); break;
-            case 1962: importPromise = import('../data/mundiales/1962.json'); break;
-            case 1966: importPromise = import('../data/mundiales/1966.json'); break;
-            case 1970: importPromise = import('../data/mundiales/1970.json'); break;
-            case 1974: importPromise = import('../data/mundiales/1974.json'); break;
-            case 1978: importPromise = import('../data/mundiales/1978.json'); break;
-            case 1982: importPromise = import('../data/mundiales/1982.json'); break;
-            case 1986: importPromise = import('../data/mundiales/1986.json'); break;
-            case 1990: importPromise = import('../data/mundiales/1990.json'); break;
-            case 1994: importPromise = import('../data/mundiales/1994.json'); break;
-            case 1998: importPromise = import('../data/mundiales/1998.json'); break;
-            case 2002: importPromise = import('../data/mundiales/2002.json'); break;
-            case 2006: importPromise = import('../data/mundiales/2006.json'); break;
-            case 2010: importPromise = import('../data/mundiales/2010.json'); break;
-            case 2014: importPromise = import('../data/mundiales/2014.json'); break;
-            case 2018: importPromise = import('../data/mundiales/2018.json'); break;
-            case 2022: importPromise = import('../data/mundiales/2022.json'); break;
+            case 1956: importPromise = import('../data/copas/champions/1956.json'); break;
+            case 1994: importPromise = import('../data/copas/champions/1994.json'); break;
+            case 1995: importPromise = import('../data/copas/champions/1995.json'); break;
+            case 1996: importPromise = import('../data/copas/champions/1996.json'); break;
+            case 1997: importPromise = import('../data/copas/champions/1997.json'); break;
+            case 1998: importPromise = import('../data/copas/champions/1998.json'); break;
+            case 1999: importPromise = import('../data/copas/champions/1999.json'); break;
+            case 2000: importPromise = import('../data/copas/champions/2000.json'); break;
+            case 2001: importPromise = import('../data/copas/champions/2001.json'); break;
+            case 2002: importPromise = import('../data/copas/champions/2002.json'); break;
+            case 2003: importPromise = import('../data/copas/champions/2003.json'); break;
+            case 2004: importPromise = import('../data/copas/champions/2004.json'); break;
             default: importPromise = Promise.reject(new Error('Año no soportado'));
         }
 
@@ -183,10 +186,17 @@ export default function WorldCupsHub() {
         }
     };
 
-    const currentWc = worldCups.find(w => w.year === selectedYear);
+    const currentWc = seasons.find(w => w.year === selectedYear);
+
+    const getTeamFlag = (teamId) => {
+        if (!wcData || !wcData.participants) return null;
+        const team = wcData.participants.find(p => p.id === teamId);
+        if (!team) return null;
+        return team.flag || team.country;
+    };
 
     const coverImage = wcData?.coverImage ? wcData.coverImage : null;
-    const bgImage = coverImage || '/portada_mundiales_ai.png';
+    const bgImage = coverImage || null;
 
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
@@ -240,18 +250,18 @@ export default function WorldCupsHub() {
 
             <div style={{ position: 'relative', zIndex: 100, marginBottom: '2rem' }}>
                 <Breadcrumbs 
-                    paths={[{ name: 'Historia de los Mundiales' }]} 
+                    paths={[{ name: 'Champions League' }]} 
                     onBack={() => { window.location.href = '/'; }} 
                 />
             </div>
 
             <div style={{ textAlign: coverImage ? 'left' : 'center', marginBottom: '2rem', padding: coverImage ? '0 0.5rem' : '0 2rem' }}>
                 <h1 className="title-font animate-fade-in" style={{ fontSize: coverImage ? '2.5rem' : '3.5rem', color: 'white', display: 'flex', alignItems: 'center', justifyContent: coverImage ? 'flex-start' : 'center', gap: '1rem', flexWrap: 'wrap' }}>
-                    <Globe2 size={coverImage ? 32 : 40} color="var(--accent-gold)" />
-                    HISTORIA DE LOS MUNDIALES
+                    <Trophy size={coverImage ? 32 : 40} color="var(--accent-gold)" />
+                    CHAMPIONS LEAGUE
                 </h1>
                 <p style={{ color: 'var(--text-muted)', fontSize: coverImage ? '1rem' : '1.2rem', maxWidth: '800px', margin: coverImage ? '0' : '0 auto', fontWeight: '300' }}>
-                    Revive el certamen definitivo. Repasa sedes, selecciones míticas, y la llave paso a paso de cada edición.
+                    El archivo definitivo del torneo de clubes más importante de Europa.
                 </p>
             </div>
 
@@ -265,7 +275,7 @@ export default function WorldCupsHub() {
                     className="hide-scrollbar"
                     style={{ display: 'flex', overflowX: 'auto', flex: 1, scrollBehavior: 'smooth', padding: '0.5rem', scrollbarWidth: 'none', msOverflowStyle: 'none' }}
                 >
-                    {worldCups.map(wc => (
+                    {seasons.map(wc => (
                         <button
                             key={wc.year}
                             id={`wc-year-${wc.year}`}
@@ -320,7 +330,7 @@ export default function WorldCupsHub() {
                                 ELIGE UNA EDICIÓN
                             </h2>
                             <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto 3rem', lineHeight: '1.6' }}>
-                                Explora la cronología completa del torneo más importante del planeta. Desde el histórico certamen de 1930 hasta la consagración moderna, selecciona un año en el carrusel superior para revivir cada partido.
+                                Selecciona un año en el carrusel superior para revivir cada Champions.
                             </p>
                         </motion.div>
                     ) : (
@@ -335,7 +345,7 @@ export default function WorldCupsHub() {
                             <div style={{ padding: '0 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '-1rem' }}>
                                 <div style={{ position: 'relative', zIndex: 2 }}>
                                     <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
-                                        <span style={{ color: 'var(--accent-gold)' }}>COPA MUNDIAL</span> {currentWc?.host?.toUpperCase()} {selectedYear}
+                                        <span style={{ color: 'var(--accent-gold)' }}>CHAMPIONS LEAGUE</span> {selectedYear}
                                     </h2>
                                 </div>
                             </div>
@@ -350,7 +360,7 @@ export default function WorldCupsHub() {
                                         onClick={() => { setActiveTab('participantes'); setSelectedTeam(null); }}
                                         style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'participantes' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'participantes' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'participantes' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
                                     >
-                                        1. Países Participantes
+                                        1. Equipos Participantes
                                     </button>
 
                                     {wcData && wcData.groups && Object.keys(wcData.groups || {}).length > 0 && (
@@ -384,7 +394,7 @@ export default function WorldCupsHub() {
                                         style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'estadisticas' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'estadisticas' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'estadisticas' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
                                     >
                                         {wcData && wcData.groups && Object.keys(wcData.groups || {}).length === 0 ? '3. ' : (wcData?.secondStageGroups && Object.keys(wcData.secondStageGroups || {}).length > 0 ? '5. ' : '4. ')}
-                                        Estadísticas y Premios
+                                        Estadísticas
                                     </button>
                                 </div>
 
@@ -395,7 +405,7 @@ export default function WorldCupsHub() {
                                         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', height: '100%', borderStyle: 'dashed', borderColor: 'rgba(255,255,255,0.1)' }}>
                                             <AlertCircle size={64} color="rgba(255,255,255,0.2)" style={{ marginBottom: '1rem' }} />
                                             <h3 className="title-font" style={{ fontSize: '1.5rem', color: 'var(--text-muted)' }}>ARCHIVO NO DISPONIBLE</h3>
-                                            <p style={{ color: 'var(--text-muted)', maxWidth: '400px' }}>Aún no se ha inyectado la información para el Mundial de {selectedYear}.</p>
+                                            <p style={{ color: 'var(--text-muted)', maxWidth: '400px' }}>Aún no se ha inyectado la información para esta edición de {selectedYear}.</p>
                                         </div>
                                     ) : (
                                         <>
@@ -403,10 +413,10 @@ export default function WorldCupsHub() {
                                                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
                                                     <div style={{ marginBottom: '2rem' }}>
                                                         <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '0.5rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem', display: 'inline-block' }}>
-                                                            Naciones Clasificadas ({wcData.participants?.length})
+                                                            Equipos Clasificados ({wcData.participants?.length})
                                                         </h3>
                                                         <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem', fontStyle: 'italic', margin: 0 }}>
-                                                            Haz clic sobre una selección para ver su plantilla oficial.
+                                                            Haz clic sobre un equipo para ver su plantilla oficial.
                                                         </p>
                                                     </div>
                                                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1.5rem' }}>
@@ -438,13 +448,13 @@ export default function WorldCupsHub() {
                                                             >
                                                                 <div style={{ width: '40px', height: '30px', overflow: 'hidden', borderRadius: '4px', boxShadow: '0 2px 5px rgba(0,0,0,0.5)' }}>
                                                                     <img
-                                                                        src={`${getFlagUrl(team.flag, 'w40')}`}
+                                                                        src={`${getFlagUrl(team.flag || team.country, 'w40')}`}
                                                                         alt={team.name}
                                                                         style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                                                                         onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }}
                                                                     />
                                                                     <div style={{ display: 'none', background: 'rgba(255,255,255,0.1)', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '0.6rem' }}>
-                                                                        {team.flag?.toUpperCase()}
+                                                                        {(team.flag || team.country)?.toUpperCase()}
                                                                     </div>
                                                                 </div>
                                                                 <span style={{ color: 'white', fontWeight: 'bold', fontSize: '1.1rem' }}>{team.name}</span>
@@ -466,7 +476,7 @@ export default function WorldCupsHub() {
 
                                                     <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', marginBottom: '2rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem' }}>
                                                         <div style={{ width: '80px', height: '53px', borderRadius: '6px', overflow: 'hidden', boxShadow: '0 4px 10px rgba(0,0,0,0.5)' }}>
-                                                            <img src={`${getFlagUrl(selectedTeam.flag, 'w80')}`} alt={selectedTeam.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                                                            <img src={`${getFlagUrl(selectedTeam.flag || selectedTeam.country, 'w80')}`} alt={selectedTeam.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                                                         </div>
                                                         <div>
                                                             <h3 className="title-font" style={{ fontSize: '2.5rem', margin: 0, color: 'white' }}>{selectedTeam.name}</h3>
@@ -492,7 +502,10 @@ export default function WorldCupsHub() {
                                                                     </div>
 
                                                                     <div style={{ padding: '0.8rem 1rem', flex: 1, minWidth: 0 }}>
-                                                                        <div className="notranslate" style={{ color: 'white', fontWeight: 'bold', fontSize: '1.05rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{player.name}</div>
+                                                                        <div className="notranslate" style={{ color: 'white', fontWeight: 'bold', fontSize: '1.05rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                                                                            {player.flag && <img src={getFlagUrl(player.flag, 'w20')} alt={player.flag} style={{ width: '16px', borderRadius: '2px', objectFit: 'cover' }} onError={(e) => e.target.style.display = 'none'} />}
+                                                                            {player.name}
+                                                                        </div>
                                                                         <div style={{ color: 'var(--text-muted)', fontSize: '0.75rem', fontWeight: '800', display: 'flex', alignItems: 'center', gap: '0.4rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                                                                             <span>{player.pos}</span>
                                                                             {player.clubName && (
@@ -596,7 +609,7 @@ export default function WorldCupsHub() {
                                                                                     <tr key={t.team} style={{ borderBottom: '1px solid rgba(255,255,255,0.03)', color: 'white', background: i < 2 ? 'rgba(251, 191, 36, 0.05)' : 'transparent', transition: 'background 0.2s' }} onMouseOver={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'} onMouseOut={(e) => e.currentTarget.style.background = i < 2 ? 'rgba(251, 191, 36, 0.05)' : 'transparent'}>
                                                                                         <td style={{ padding: '0.8rem 0.5rem', display: 'flex', alignItems: 'center', gap: '0.6rem', fontWeight: i < 2 ? 'bold' : 'normal' }}>
                                                                                             <span style={{ color: 'var(--text-muted)', width: '16px', fontSize: '0.8rem', textAlign: 'center' }}>{i + 1}</span>
-                                                                                            <img src={`${getFlagUrl(t.flag, 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                            <img src={`${getFlagUrl(getTeamFlag(t.id), 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                             {t.team}
                                                                                         </td>
                                                                                         <td style={{ textAlign: 'center', fontWeight: '900', color: 'var(--accent-gold)' }}>{t.pts}</td>
@@ -622,11 +635,11 @@ export default function WorldCupsHub() {
                                                                                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: (m.goals1?.length || m.goals2?.length) ? '0.5rem' : '0' }}>
                                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, justifyContent: 'flex-end', fontWeight: parseInt(m.score.split('-')[0]) > parseInt(m.score.split('-')[1]) ? 'bold' : 'normal', color: 'white' }}>
                                                                                                 {m.team1}
-                                                                                                <img src={`${getFlagUrl(m.flag1, 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                                <img src={`${getFlagUrl(getTeamFlag(m.id1), 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                             </div>
                                                                                             <div style={{ padding: '0 1rem', fontWeight: '900', color: 'var(--accent-gold)', letterSpacing: '1px' }}>{m.score}</div>
                                                                                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, fontWeight: parseInt(m.score.split('-')[1]) > parseInt(m.score.split('-')[0]) ? 'bold' : 'normal', color: 'white' }}>
-                                                                                                <img src={`${getFlagUrl(m.flag2, 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                                <img src={`${getFlagUrl(getTeamFlag(m.id2), 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                                 {m.team2}
                                                                                             </div>
                                                                                         </div>
@@ -689,7 +702,7 @@ export default function WorldCupsHub() {
                                                                                 <tr key={t.team} style={{ borderBottom: '1px solid rgba(255,255,255,0.03)', color: 'white', background: i === 0 ? 'rgba(251, 191, 36, 0.1)' : 'transparent', transition: 'background 0.2s' }}>
                                                                                     <td style={{ padding: '0.8rem 0.5rem', display: 'flex', alignItems: 'center', gap: '0.6rem', fontWeight: i === 0 ? 'bold' : 'normal' }}>
                                                                                         <span style={{ color: 'var(--text-muted)', width: '16px', fontSize: '0.8rem', textAlign: 'center' }}>{i + 1}</span>
-                                                                                        <img src={`${getFlagUrl(t.flag, 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                        <img src={`${getFlagUrl(getTeamFlag(t.id), 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                         {t.team}
                                                                                     </td>
                                                                                     <td style={{ textAlign: 'center', fontWeight: '900', color: 'var(--accent-gold)' }}>{t.pts}</td>
@@ -714,11 +727,11 @@ export default function WorldCupsHub() {
                                                                                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                                                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, justifyContent: 'flex-end', fontWeight: parseInt(m.score.split('-')[0]) > parseInt(m.score.split('-')[1]) ? 'bold' : 'normal', color: 'white' }}>
                                                                                             {m.team1}
-                                                                                            <img src={`${getFlagUrl(m.flag1, 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                            <img src={`${getFlagUrl(getTeamFlag(m.id1), 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                         </div>
                                                                                         <div style={{ padding: '0 1rem', fontWeight: '900', color: 'var(--accent-gold)', letterSpacing: '1px' }}>{m.score}</div>
                                                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, fontWeight: parseInt(m.score.split('-')[1]) > parseInt(m.score.split('-')[0]) ? 'bold' : 'normal', color: 'white' }}>
-                                                                                            <img src={`${getFlagUrl(m.flag2, 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                            <img src={`${getFlagUrl(getTeamFlag(m.id2), 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                             {m.team2}
                                                                                         </div>
                                                                                     </div>
@@ -780,7 +793,7 @@ export default function WorldCupsHub() {
                                                                                 <tr key={t.team} style={{ borderBottom: '1px solid rgba(255,255,255,0.03)', color: 'white', background: i === 0 ? 'rgba(251, 191, 36, 0.1)' : 'transparent', transition: 'background 0.2s' }}>
                                                                                     <td style={{ padding: '0.8rem 0.5rem', display: 'flex', alignItems: 'center', gap: '0.6rem', fontWeight: i === 0 ? 'bold' : 'normal' }}>
                                                                                         <span style={{ color: 'var(--text-muted)', width: '16px', fontSize: '0.8rem', textAlign: 'center' }}>{i + 1}</span>
-                                                                                        <img src={`${getFlagUrl(t.flag, 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                        <img src={`${getFlagUrl(getTeamFlag(t.id), 'w20')}`} alt={t.team} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                         {t.team}
                                                                                     </td>
                                                                                     <td style={{ textAlign: 'center', fontWeight: '900', color: 'var(--accent-gold)' }}>{t.pts}</td>
@@ -806,11 +819,11 @@ export default function WorldCupsHub() {
                                                                                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                                                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, justifyContent: 'flex-end', fontWeight: parseInt(m.score.split('-')[0]) > parseInt(m.score.split('-')[1]) ? 'bold' : 'normal', color: 'white' }}>
                                                                                             {m.team1}
-                                                                                            <img src={`${getFlagUrl(m.flag1, 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                            <img src={`${getFlagUrl(getTeamFlag(m.id1), 'w20')}`} alt={m.team1} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                         </div>
                                                                                         <div style={{ padding: '0 1rem', fontWeight: '900', color: 'var(--accent-gold)', letterSpacing: '1px' }}>{m.score}</div>
                                                                                         <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flex: 1, fontWeight: parseInt(m.score.split('-')[1]) > parseInt(m.score.split('-')[0]) ? 'bold' : 'normal', color: 'white' }}>
-                                                                                            <img src={`${getFlagUrl(m.flag2, 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
+                                                                                            <img src={`${getFlagUrl(getTeamFlag(m.id2), 'w20')}`} alt={m.team2} style={{ width: '16px', borderRadius: '2px' }} onError={(e) => e.target.style.display = 'none'} />
                                                                                             {m.team2}
                                                                                         </div>
                                                                                     </div>
@@ -850,21 +863,21 @@ export default function WorldCupsHub() {
                                                                 {/* COL 1: Octavos */}
                                                                 {wcData.bracket.roundOf16 && wcData.bracket?.roundOf16?.length > 0 && (
                                                                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', gap: '1rem', width: '220px', position: 'relative' }}>
-                                                                        {wcData.bracket.roundOf16.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
+                                                                        {wcData.bracket.roundOf16.map((m, i) => <div key={i}>{renderMatch(m, false, null, getTeamFlag)}</div>)}
                                                                     </div>
                                                                 )}
 
                                                                 {/* COL 2: Cuartos */}
                                                                 {wcData.bracket.quarterFinals && wcData.bracket?.quarterFinals?.length > 0 && (
                                                                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', width: '220px', position: 'relative' }}>
-                                                                        {wcData.bracket.quarterFinals.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
+                                                                        {wcData.bracket.quarterFinals.map((m, i) => <div key={i}>{renderMatch(m, false, null, getTeamFlag)}</div>)}
                                                                     </div>
                                                                 )}
 
                                                                 {/* COL 3: Semis */}
                                                                 {wcData.bracket.semiFinals && wcData.bracket?.semiFinals?.length > 0 && (
                                                                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', width: '220px', position: 'relative' }}>
-                                                                        {wcData.bracket.semiFinals.map((m, i) => <div key={i}>{renderMatch(m)}</div>)}
+                                                                        {wcData.bracket.semiFinals.map((m, i) => <div key={i}>{renderMatch(m, false, null, getTeamFlag)}</div>)}
                                                                     </div>
                                                                 )}
 
@@ -872,12 +885,12 @@ export default function WorldCupsHub() {
                                                                 <div style={{ display: 'flex', flexDirection: 'column', width: '320px', position: 'relative' }}>
                                                                     {/* The final takes up the flex space to perfectly center against the semis */}
                                                                     <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                                                                        {renderMatch(wcData.bracket.final, true)}
+                                                                        {renderMatch(wcData.bracket.final, true, null, getTeamFlag)}
                                                                     </div>
 
                                                                     {/* Third place match pinned at the bottom corresponding to the lower semi */}
                                                                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', paddingBottom: '2.5rem' }}>
-                                                                        {renderMatch(wcData.bracket.thirdPlace, false, 'Tercer Puesto')}
+                                                                        {renderMatch(wcData.bracket.thirdPlace, false, 'Tercer Puesto', getTeamFlag)}
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -889,7 +902,7 @@ export default function WorldCupsHub() {
                                             {activeTab === 'estadisticas' && (
                                                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
                                                     <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '2rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem' }}>
-                                                        Estadísticas y Premios
+                                                        Estadísticas
                                                     </h3>
 
                                                     {importError && (
@@ -902,7 +915,7 @@ export default function WorldCupsHub() {
 
                                                     {!wcData.stats ? (
                                                         <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--text-muted)', borderStyle: 'dashed', borderWidth: '1px', borderColor: 'rgba(255,255,255,0.1)', borderRadius: '16px' }}>
-                                                            Las estadísticas detalladas y premios de este Mundial serán cargadas próximamente.
+                                                            Las estadísticas detalladas de esta edición serán cargadas próximamente.
                                                         </div>
                                                     ) : (
                                                         <div style={{ display: 'flex', flexDirection: 'column', gap: '3rem' }}>
@@ -945,25 +958,45 @@ export default function WorldCupsHub() {
 
                                                                     </div>
 
-                                                                    {/* Tercera fila: Guante de Oro y Fair Play */}
+                                                                    {/* Tercera fila: Guante de Oro y Fair Play o UEFA Awards */}
                                                                     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '3rem', flexWrap: 'wrap', marginTop: '2.5rem', paddingTop: '2rem', borderTop: '1px solid rgba(251, 191, 36, 0.2)' }}>
 
-                                                                        {wcData.stats?.awards.goldenGlove && (
+                                                                        {wcData.stats?.awards && !Array.isArray(wcData.stats.awards) && wcData.stats.awards.goldenGlove && (
                                                                             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
                                                                                 <div style={{ padding: '0.5rem 1rem', background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.2)', borderRadius: '8px', color: 'white', fontWeight: 'bold', fontSize: '0.9rem' }}>🧤 Guante de Oro</div>
                                                                                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                    <img src={getFlagUrl(wcData.stats?.awards.goldenGlove.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                    <span style={{ fontSize: '1.1rem' }}>{wcData.stats?.awards.goldenGlove.name}</span>
+                                                                                    <img src={getFlagUrl(wcData.stats.awards.goldenGlove.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                    <span style={{ fontSize: '1.1rem' }}>{wcData.stats.awards.goldenGlove.name}</span>
                                                                                 </div>
                                                                             </div>
                                                                         )}
 
-                                                                        {wcData.stats?.awards.fairPlay && (
+                                                                        {wcData.stats?.awards && !Array.isArray(wcData.stats.awards) && wcData.stats.awards.fairPlay && (
                                                                             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
                                                                                 <div style={{ padding: '0.5rem 1rem', background: 'rgba(52, 211, 153, 0.1)', border: '1px solid #34d399', borderRadius: '8px', color: '#34d399', fontWeight: 'bold', fontSize: '0.9rem' }}>🤝 Premio Fair Play</div>
                                                                                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-                                                                                    <img src={getFlagUrl(wcData.stats?.awards.fairPlay.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
-                                                                                    <span style={{ fontSize: '1.1rem', color: 'white' }}>{wcData.stats?.awards.fairPlay.name}</span>
+                                                                                    <img src={getFlagUrl(wcData.stats.awards.fairPlay.flag)} alt="" style={{ width: '24px', borderRadius: '4px' }} />
+                                                                                    <span style={{ fontSize: '1.1rem', color: 'white' }}>{wcData.stats.awards.fairPlay.name}</span>
+                                                                                </div>
+                                                                            </div>
+                                                                        )}
+
+                                                                        {wcData.stats?.awards && Array.isArray(wcData.stats.awards) && wcData.stats.awards.length > 0 && (
+                                                                            <div style={{ width: '100%', marginBottom: '1rem' }}>
+                                                                                <h4 style={{ color: 'var(--accent-gold)', marginBottom: '1.5rem', textAlign: 'center', fontSize: '1.4rem' }}>🏆 Premios del Torneo</h4>
+                                                                                <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '1.5rem' }}>
+                                                                                    {wcData.stats.awards.map((award, i) => (
+                                                                                        <div key={i} className="glass-panel" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem', padding: '1rem', borderRadius: '12px', background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.08)', minWidth: '180px' }}>
+                                                                                            <div style={{ color: 'var(--accent-gold)', fontWeight: 'bold', fontSize: '0.85rem', textTransform: 'uppercase', letterSpacing: '0.5px', textAlign: 'center' }}>
+                                                                                                {award.name}
+                                                                                            </div>
+                                                                                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.25rem' }}>
+                                                                                                <img src={getFlagUrl(award.flag)} alt="" style={{ width: '20px', borderRadius: '3px' }} />
+                                                                                                <span style={{ fontSize: '1.1rem', fontWeight: 'bold', color: 'white' }}>{award.player}</span>
+                                                                                            </div>
+                                                                                            <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{award.team}</div>
+                                                                                        </div>
+                                                                                    ))}
                                                                                 </div>
                                                                             </div>
                                                                         )}
@@ -991,7 +1024,10 @@ export default function WorldCupsHub() {
                                                                             {wcData.stats.topScorers.map((s, i) => (
                                                                                 <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '0.5rem', background: 'rgba(255,255,255,0.02)', borderRadius: '6px' }}>
                                                                                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                                                                                        <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', width: '20px' }}>{i + 1}.</span>
+                                                                                        {s.clubId ? (
+                                                                                            <img src={s.clubId.startsWith('/') || s.clubId.startsWith('http') ? s.clubId : `/escudos/${s.clubId}.png`} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'inline-block'; }} />
+                                                                                        ) : null}
+                                                                                        <span style={{ display: s.clubId ? 'none' : 'inline-block', color: 'var(--text-muted)', fontSize: '0.9rem', width: '24px', textAlign: 'center' }}>{i + 1}.</span>
                                                                                         <img src={getFlagUrl(s.flag)} alt="" style={{ width: '20px', borderRadius: '2px' }} />
                                                                                         <span>{s.name}</span>
                                                                                     </div>
@@ -1012,7 +1048,10 @@ export default function WorldCupsHub() {
                                                                             {wcData.stats.assists.map((s, i) => (
                                                                                 <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '0.5rem', background: 'rgba(255,255,255,0.02)', borderRadius: '6px' }}>
                                                                                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                                                                                        <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem', width: '20px' }}>{i + 1}.</span>
+                                                                                        {s.clubId ? (
+                                                                                            <img src={s.clubId.startsWith('/') || s.clubId.startsWith('http') ? s.clubId : `/escudos/${s.clubId}.png`} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'inline-block'; }} />
+                                                                                        ) : null}
+                                                                                        <span style={{ display: s.clubId ? 'none' : 'inline-block', color: 'var(--text-muted)', fontSize: '0.9rem', width: '24px', textAlign: 'center' }}>{i + 1}.</span>
                                                                                         <img src={getFlagUrl(s.flag)} alt="" style={{ width: '20px', borderRadius: '2px' }} />
                                                                                         <span>{s.name}</span>
                                                                                     </div>

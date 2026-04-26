@@ -6,6 +6,7 @@ import PwaPrompt from './components/PwaPrompt';
 import ReloadPrompt from './components/ReloadPrompt';
 import PullToRefresh from './components/PullToRefresh';
 import ErrorBoundary from './components/ErrorBoundary';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   const location = useLocation();
@@ -28,6 +29,7 @@ function App() {
         </main>
         <PwaPrompt />
         <ReloadPrompt />
+        <ScrollToTop />
       </div>
     </PullToRefresh>
   );

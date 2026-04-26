@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft } from 'lucide-react';
 import { getLeagues } from '../data/loader';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function Leagues() {
   const leagues = getLeagues().filter(l => !l.isHidden);
@@ -41,30 +42,9 @@ export default function Leagues() {
       {/* Content */}
       <div style={{ position: 'relative', zIndex: 10, padding: '2rem', minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         
-        {/* Back Button */}
-        <button
-          onClick={() => navigate('/')}
-          className="glass-panel"
-          style={{
-            position: 'absolute',
-            top: '2rem',
-            left: '2rem',
-            width: '50px',
-            height: '50px',
-            borderRadius: '50%',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            border: 'none',
-            background: 'rgba(255,255,255,0.05)',
-            cursor: 'pointer',
-            transition: 'all 0.3s'
-          }}
-          onMouseOver={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
-          onMouseOut={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.05)'}
-        >
-          <ArrowLeft size={24} color="var(--accent-gold)" />
-        </button>
+        <div style={{ alignSelf: 'flex-start', width: '100%', maxWidth: '1200px', margin: '0 auto' }}>
+          <Breadcrumbs paths={[{ name: 'Clubes del Mundo' }]} />
+        </div>
 
         <h1 className="title-font animate-fade-in text-white text-5xl md:text-6xl font-black text-center mt-4 mb-10 drop-shadow-2xl px-4 leading-tight">
           Historia de los <span className="text-accent-gold block md:inline mt-2 md:mt-0">Clubes de Fútbol</span>
