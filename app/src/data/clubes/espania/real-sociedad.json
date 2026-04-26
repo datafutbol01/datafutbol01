@@ -53,34 +53,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Alberto Górriz",
-        "partidos": "599",
-        "goles": "14",
-        "descripcion": "Defensa central estoico e inamovible, que atesora pacientemente el colosal récord oficial de mayor cantidad de presencias defendiendo la elástica."
+        "nombre": "Luis Arconada",
+        "partidos": "551",
+        "goles": "0",
+        "descripcion": "LEYENDA | Apodado 'El Pulpo'. Guardameta y capitán durante las décadas de los 70 y 80. Lideró desde la portería al equipo que conquistó de forma consecutiva las dos Ligas nacionales de la historia del club, siendo considerado uno de los mejores porteros del continente."
+      },
+      {
+        "nombre": "Roberto López Ufarte",
+        "partidos": "474",
+        "goles": "129",
+        "descripcion": "LEYENDA | Apodado 'El Pequeño Diablo'. Extremo izquierdo de los años 70 y 80. Su extraordinario regate, visión y letalidad lo convirtieron en el arma ofensiva principal en la época más laureada de la entidad."
       },
       {
         "nombre": "Jesús María Zamora",
         "partidos": "588",
         "goles": "79",
-        "descripcion": "Eterno '10', autor material del agónico y glorioso gol en Gijón que obsequió la anhelada primera Liga de la historia donostiarra."
-      },
-      {
-        "nombre": "Satrústegui",
-        "partidos": "374",
-        "goles": "162",
-        "descripcion": "El ariete vasco por excelencia, demoledor delantero letal que sostiene ininterrumpidamente el sitial como máximo artillero histórico de la institución."
+        "descripcion": "LEYENDA | Centrocampista de las décadas de los 70 y 80. Director de juego y autor del mítico gol en Gijón en 1981, bajo la lluvia y en el último minuto, que le otorgó al club el primer campeonato de Liga de su historia."
       },
       {
         "nombre": "Mikel Oyarzabal",
         "partidos": "330",
         "goles": "90",
-        "descripcion": "El canterano absoluto moderno, autor del gol decisivo del campeonato de Copa de 2020 frente al clásico y capitán indiscutible del éxito reciente."
+        "descripcion": "LEYENDA | Atacante y capitán contemporáneo (décadas de 2010 y 2020). Lideró la época moderna del equipo con profesionalismo y anotó el histórico gol de penalti en la final de la Copa del Rey 2020 para devolver un título a la vitrina del club tras 34 años."
+      },
+      {
+        "nombre": "Xabi Prieto",
+        "partidos": "532",
+        "goles": "74",
+        "descripcion": "LEYENDA | Centrocampista ofensivo de las décadas de 2000 y 2010. Desarrolló íntegramente su carrera deportiva en la institución, convirtiéndose en un emblema de fidelidad inquebrantable y un maestro en el lanzamiento de penaltis al estilo 'Panenka'."
+      },
+      {
+        "nombre": "Jesús María Satrústegui",
+        "partidos": "374",
+        "goles": "162",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Satrus'. Delantero centro de las décadas de los 70 y 80. Máximo artillero histórico de la entidad (162 goles). Fundamental en la obtención de los dos campeonatos de Liga consecutivos."
+      },
+      {
+        "nombre": "Roberto López Ufarte (Goleador)",
+        "partidos": "474",
+        "goles": "129",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Pequeño Diablo'. Años 70 y 80. Segundo máximo anotador histórico (129 goles). Cifra sobresaliente considerando su demarcación habitual como extremo izquierdo."
       },
       {
         "nombre": "Darko Kovačević",
         "partidos": "286",
         "goles": "107",
-        "descripcion": "Portentoso gigante goleador serbio que conformó la imponente e inolvidable sociedad de ataque en el mágico equipo de 2003 junto a Nihat."
+        "descripcion": "MÁXIMO GOLEADOR | Delantero serbio de las décadas de los 90 y 2000. Tercer goleador histórico (107 goles). Su poderoso remate de cabeza y fortaleza física lo convirtieron en el referente ofensivo de finales de siglo."
+      },
+      {
+        "nombre": "Pedro Uralde",
+        "partidos": "287",
+        "goles": "100",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero de la década de los 80. Cuarto anotador histórico, alcanzando exactamente el centenar de goles en competiciones oficiales."
+      },
+      {
+        "nombre": "José Mari Bakero",
+        "partidos": "287",
+        "goles": "91",
+        "descripcion": "MÁXIMO GOLEADOR | Centrocampista ofensivo y delantero de la década de los 80. Quinto goleador histórico (91 goles). Participó activamente en la conquista de las dos Ligas del club antes de continuar su carrera."
+      },
+      {
+        "nombre": "Alberto Górriz",
+        "partidos": "599",
+        "goles": "14",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'Bixio'. Defensa central de las décadas de los 80 y 90. Ostenta el récord absoluto de presencias en la historia del club rozando los 600 partidos oficiales (599)."
+      },
+      {
+        "nombre": "Juan Antonio Larrañaga",
+        "partidos": "589",
+        "goles": "22",
+        "descripcion": "MÁS PRESENCIAS | Defensa y mediocampista de los años 80 y 90. Segundo jugador con más presencias (589). Titular inamovible y pieza clave de estabilidad defensiva."
+      },
+      {
+        "nombre": "Jesús María Zamora (Presencias)",
+        "partidos": "588",
+        "goles": "79",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista de las décadas de los 70 y 80. Tercero en presencias (588). Participó en la totalidad de la época dorada institucional del equipo."
+      },
+      {
+        "nombre": "Luis Arconada (Presencias)",
+        "partidos": "551",
+        "goles": "0",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Pulpo'. Guardameta de las décadas de los 70 y 80. Cuarto con más partidos (551). Defendió la portería de forma ininterrumpida durante quince temporadas."
+      },
+      {
+        "nombre": "Xabi Prieto (Presencias)",
+        "partidos": "532",
+        "goles": "74",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista de las décadas de 2000 y 2010. Quinto jugador con más partidos. Ejemplo de profesionalidad militando exclusivamente en el club donostiarra."
       }
     ]
   },

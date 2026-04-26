@@ -55,34 +55,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Raúl González",
-        "partidos": "741",
-        "goles": "323",
-        "descripcion": "Apodado 'El Ángel de Madrid'. Disputó las décadas de los 90 y 2000. Es el jugador con más presencias en la historia de la institución (741 partidos). Formado en las categorías inferiores, anotó 323 goles y fue el capitán del equipo que conquistó tres Ligas de Campeones."
-      },
-      {
-        "nombre": "Iker Casillas",
-        "partidos": "725",
-        "goles": "0",
-        "descripcion": "Apodado 'San Iker'. Guardameta titular durante las décadas de 2000 y 2010. Ocupa el segundo lugar en presencias históricas (725 partidos). Su intervención en la final de Glasgow 2002 y su capitanía en 'La Décima' lo consolidaron como una figura clave en la portería."
-      },
-      {
-        "nombre": "Sergio Ramos",
-        "partidos": "671",
-        "goles": "101",
-        "descripcion": "Apodado 'El Faraón de Camas'. Defensa central y capitán en la década de 2010. Disputó 671 partidos oficiales. Destacó por su capacidad anotadora, registrando 101 goles, incluyendo el tanto decisivo en el tiempo de descuento de la final europea de 2014."
-      },
-      {
         "nombre": "Cristiano Ronaldo",
         "partidos": "438",
         "goles": "451",
-        "descripcion": "Apodado 'CR7'. Delantero de la década de 2010. Es el máximo goleador en la historia del club con 451 tantos en 438 presencias, promediando más de un gol por partido. Fue la principal figura ofensiva en la consecución de cuatro Ligas de Campeones en cinco años."
+        "descripcion": "LEYENDA | Apodado 'CR7'. Delantero de la década de 2010. Arribó en 2009 y redefinió la historia moderna del club. Promedió más de un gol por partido y lideró de forma absoluta la consecución de cuatro Ligas de Campeones en apenas cinco años, estableciéndose como uno de los referentes supremos del madridismo."
       },
       {
         "nombre": "Alfredo Di Stéfano",
         "partidos": "396",
         "goles": "308",
-        "descripcion": "Apodado 'La Saeta Rubia'. Delantero y eje táctico en los años 50 y 60. Registró 308 goles en 396 partidos. Su incorporación en 1953 marcó un punto de inflexión en la historia del club, liderando al equipo en la obtención de las cinco primeras Copas de Europa."
+        "descripcion": "LEYENDA | Apodado 'La Saeta Rubia'. Delantero y eje en los años 50 y 60. Su llegada en 1953 transformó por completo a la institución, siendo la piedra angular del equipo que levantó las primeras cinco Copas de Europa consecutivas mediante un despliegue de fútbol total."
+      },
+      {
+        "nombre": "Zinedine Zidane",
+        "partidos": "227",
+        "goles": "49",
+        "descripcion": "LEYENDA | Apodado 'Zizou'. Centrocampista de la década de 2000. Destacó por su inmensa elegancia técnica en la era de los 'Galácticos'. Su volea en la final de Glasgow de 2002 otorgó al club la Novena Copa de Europa, consolidando su estatus mítico."
+      },
+      {
+        "nombre": "Luka Modrić",
+        "partidos": "530",
+        "goles": "39",
+        "descripcion": "LEYENDA | Apodado 'El Mago de Zadar'. Centrocampista durante las décadas de 2010 y 2020. Su visión de juego y control del tempo lideraron el mediocampo blanco durante la consecución de cinco Ligas de Campeones, obteniendo el Balón de Oro en 2018."
+      },
+      {
+        "nombre": "Ferenc Puskás",
+        "partidos": "262",
+        "goles": "242",
+        "descripcion": "LEYENDA | Apodado 'Cañoncito Pum'. Delantero de las décadas de los 50 y 60. Su zurda demoledora conformó junto a Di Stéfano una dupla letal, contribuyendo decisivamente en las primeras Copas de Europa del club y dejando cifras anotadoras históricas."
+      },
+      {
+        "nombre": "Cristiano Ronaldo (Goleador)",
+        "partidos": "438",
+        "goles": "451",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'CR7'. Década de 2010. Máximo artillero histórico de la institución con 451 tantos, pulverizando todos los registros del fútbol español con un instinto anotador sin precedentes."
+      },
+      {
+        "nombre": "Karim Benzema",
+        "partidos": "648",
+        "goles": "354",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Gato'. Décadas de 2010 y 2020. Segundo máximo anotador histórico (354 goles). Combinó su enorme capacidad asociativa con letalidad en el área, coronándose Balón de Oro en 2022."
+      },
+      {
+        "nombre": "Raúl González (Goleador)",
+        "partidos": "741",
+        "goles": "323",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Ángel de Madrid'. Años 90 y 2000. Tercer máximo artillero histórico (323 goles). Destacó por su astucia e inteligencia en el área, siendo el emblema ofensivo nacional durante más de quince años."
+      },
+      {
+        "nombre": "Alfredo Di Stéfano (Goleador)",
+        "partidos": "396",
+        "goles": "308",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'La Saeta Rubia'. Años 50 y 60. Cuarto goleador histórico (308 goles). Su dominio absoluto del juego ofensivo estableció los primeros grandes récords de la Copa de Europa."
+      },
+      {
+        "nombre": "Santillana",
+        "partidos": "645",
+        "goles": "290",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Puma'. Años 70 y 80. Anotó 290 goles. Fue reconocido como uno de los mejores cabeceadores del continente, destacando por su imponente capacidad de salto en el área."
+      },
+      {
+        "nombre": "Raúl González (Presencias)",
+        "partidos": "741",
+        "goles": "323",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Gran Capitán'. Años 90 y 2000. Posee el récord absoluto de presencias en la historia del club con 741 partidos, liderando al equipo como capitán en tres finales de la Liga de Campeones."
+      },
+      {
+        "nombre": "Iker Casillas",
+        "partidos": "725",
+        "goles": "0",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'San Iker'. Décadas de 2000 y 2010. Segundo jugador con más partidos (725). Guardameta surgido de la cantera que protegió la portería con reflejos determinantes durante quince temporadas."
+      },
+      {
+        "nombre": "Manolo Sanchís",
+        "partidos": "710",
+        "goles": "40",
+        "descripcion": "MÁS PRESENCIAS | Capitán incombustible. Años 80 y 90. Tercero en presencias (710 partidos). Defensa central y único miembro de la 'Quinta del Buitre' que logró levantar la séptima Copa de Europa."
+      },
+      {
+        "nombre": "Sergio Ramos",
+        "partidos": "671",
+        "goles": "101",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Faraón de Camas'. Décadas de 2000 y 2010. Cuarto con más partidos (671). Defensa de jerarquía mundial que lideró la consecución de la histórica 'Décima' Copa de Europa."
+      },
+      {
+        "nombre": "Karim Benzema (Presencias)",
+        "partidos": "648",
+        "goles": "354",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Gato'. Décadas de 2010 y 2020. Quinto jugador con más partidos (648). Mantuvo una excepcional longevidad en la delantera madridista, siendo pieza clave en cinco títulos europeos."
       }
     ]
   },

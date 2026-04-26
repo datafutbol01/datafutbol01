@@ -58,31 +58,91 @@
         "nombre": "Lionel Messi",
         "partidos": "778",
         "goles": "672",
-        "descripcion": "Apodado 'La Pulga'. Atacante que desarrolló su etapa en el club entre los años 2000 y 2021. Posee el récord absoluto de presencias (778 partidos) y es el máximo goleador histórico (672 goles). Ganador de múltiples Balones de Oro, fue la pieza central del período más exitoso de la entidad."
-      },
-      {
-        "nombre": "Xavi Hernández",
-        "partidos": "767",
-        "goles": "85",
-        "descripcion": "Apodado 'La Computadora'. Centrocampista de las décadas de los 90, 2000 y 2010. Disputó 767 partidos oficiales. Su visión de juego y precisión en los pases definieron el estilo de posesión característico del equipo en la obtención de múltiples Ligas de Campeones."
-      },
-      {
-        "nombre": "Andrés Iniesta",
-        "partidos": "674",
-        "goles": "57",
-        "descripcion": "Apodado 'El Cerebro'. Centrocampista ofensivo durante las décadas de 2000 y 2010. Registró 674 presencias. Fue fundamental en el sistema táctico del equipo, destacando su gol en las semifinales europeas de 2009 que encaminó el primer 'Triplete' histórico."
-      },
-      {
-        "nombre": "Carles Puyol",
-        "partidos": "593",
-        "goles": "19",
-        "descripcion": "Apodado 'Tarzán'. Defensa central y capitán del equipo en los años 2000 y 2010. Completó 593 partidos oficiales. Destacó por su liderazgo defensivo y solvencia, levantando como capitán tres Ligas de Campeones y consolidando la zaga durante más de una década."
+        "descripcion": "LEYENDA | Apodado 'La Pulga'. Atacante de las décadas de 2000 y 2010. Posee el récord absoluto de presencias y goles. Ganador de múltiples Balones de Oro, fue la pieza central del período más exitoso de la entidad, obteniendo cuatro Ligas de Campeones."
       },
       {
         "nombre": "Johan Cruyff",
         "partidos": "180",
         "goles": "60",
-        "descripcion": "Apodado 'El Flaco'. Jugador holandés que militó en el club durante la década de los 70. Anotó 60 goles en 180 presencias. Su impacto trascendió los números, introduciendo conceptos tácticos que posteriormente sentaron las bases del estilo de juego moderno de la institución."
+        "descripcion": "LEYENDA | Apodado 'El Flaco'. Jugador holandés de la década de los 70. Su impacto trascendió los números, introduciendo conceptos tácticos que posteriormente sentaron las bases del estilo de juego moderno de la institución."
+      },
+      {
+        "nombre": "Xavi Hernández",
+        "partidos": "767",
+        "goles": "85",
+        "descripcion": "LEYENDA | Apodado 'La Computadora'. Centrocampista de las décadas de 2000 y 2010. Su visión de juego y precisión en los pases definieron el estilo de posesión característico del equipo en la obtención de múltiples tripletes."
+      },
+      {
+        "nombre": "Andrés Iniesta",
+        "partidos": "674",
+        "goles": "57",
+        "descripcion": "LEYENDA | Apodado 'El Cerebro'. Centrocampista ofensivo de las décadas de 2000 y 2010. Fue fundamental en el sistema táctico del equipo, destacando por su técnica inigualable y su gol decisivo en las semifinales europeas de 2009."
+      },
+      {
+        "nombre": "Ronaldinho",
+        "partidos": "207",
+        "goles": "94",
+        "descripcion": "LEYENDA | Apodado 'Dinho' o 'El Mago de Porto Alegre'. Atacante brasileño de la década de 2000. Devolvió la sonrisa al club tras años de crisis, liderando al equipo a ganar la Liga de Campeones en 2006 con un estilo vistoso y alegre."
+      },
+      {
+        "nombre": "Lionel Messi (Goleador)",
+        "partidos": "778",
+        "goles": "672",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'La Pulga'. Décadas de 2000 y 2010. Máximo artillero histórico de la institución con 672 goles, estableciendo marcas inalcanzables en la liga española."
+      },
+      {
+        "nombre": "César Rodríguez",
+        "partidos": "351",
+        "goles": "232",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Pelucas'. Década de los 40 y 50. Segundo máximo anotador histórico. Delantero centro de gran remate de cabeza que lideró el ataque del famoso 'Barça de las Cinco Copas'."
+      },
+      {
+        "nombre": "Luis Suárez",
+        "partidos": "283",
+        "goles": "198",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Pistolero'. Década de 2010. Tercer goleador histórico (198 goles). Formó parte del histórico tridente ofensivo sudamericano, aportando letalidad y garra."
+      },
+      {
+        "nombre": "Ladislao Kubala",
+        "partidos": "256",
+        "goles": "194",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Laszi'. Década de los 50. Cuarto goleador histórico (194 goles). Su impacto fue tan masivo que obligó al club a construir el Camp Nou ante la demanda de espectadores."
+      },
+      {
+        "nombre": "Samuel Eto'o",
+        "partidos": "199",
+        "goles": "130",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El León Indomable'. Década de 2000. Anotó 130 goles decisivos, incluyendo tantos en las finales de la Liga de Campeones de 2006 y 2009."
+      },
+      {
+        "nombre": "Lionel Messi (Presencias)",
+        "partidos": "778",
+        "goles": "672",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'La Pulga'. Décadas de 2000 y 2010. Posee el récord absoluto de presencias en la historia del club con 778 partidos oficiales."
+      },
+      {
+        "nombre": "Xavi Hernández (Presencias)",
+        "partidos": "767",
+        "goles": "85",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'La Computadora'. Décadas de 2000 y 2010. Segundo jugador con más partidos (767). Fue el director de orquesta indiscutido en la época de mayor dominio táctico culé."
+      },
+      {
+        "nombre": "Sergio Busquets",
+        "partidos": "722",
+        "goles": "18",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'Busi'. Décadas de 2010 y 2020. Tercero en presencias (722 partidos). Mediocentro defensivo que redefinió la posición con su inteligencia posicional e iniciación de juego."
+      },
+      {
+        "nombre": "Andrés Iniesta (Presencias)",
+        "partidos": "674",
+        "goles": "57",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Cerebro'. Décadas de 2000 y 2010. Cuarto con más partidos (674). Símbolo de la cantera (La Masia) y emblema del juego de pases cortos del equipo."
+      },
+      {
+        "nombre": "Gerard Piqué",
+        "partidos": "616",
+        "goles": "53",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'Geri'. Décadas de 2010 y 2020. Quinto jugador con más presencias (616). Defensa central con enorme capacidad de salida de balón que ganó todos los títulos posibles con el club."
       }
     ]
   },

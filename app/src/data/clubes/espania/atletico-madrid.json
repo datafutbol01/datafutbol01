@@ -64,34 +64,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Koke Resurrección",
-        "partidos": "630",
-        "goles": "47",
-        "descripcion": "Centrocampista formado en la cantera. Debutó en la década de 2010. Es el jugador con más presencias en la historia del club (más de 630 partidos). Bajo la dirección de Diego Simeone, capitaneó al equipo en la obtención de campeonatos de Liga y finales europeas."
-      },
-      {
-        "nombre": "Adelardo Rodríguez",
-        "partidos": "553",
-        "goles": "113",
-        "descripcion": "Apodado 'El Galgo'. Centrocampista de las décadas de los 60 y 70. Disputó 553 partidos, ostentando el récord de presencias durante medio siglo. Anotó 113 goles y formó parte del plantel que se coronó campeón de la Copa Intercontinental en 1974."
+        "nombre": "Luis Aragonés",
+        "partidos": "370",
+        "goles": "172",
+        "descripcion": "LEYENDA | Apodado 'El Sabio de Hortaleza'. Emblema de los años 60 y 70. Su figura trascendió el césped; como jugador fue un centrocampista con llegada letal y posteriormente se convirtió en el entrenador más importante del club."
       },
       {
         "nombre": "Fernando Torres",
         "partidos": "404",
         "goles": "129",
-        "descripcion": "Apodado 'El Niño'. Delantero que debutó a principios de los años 2000 y regresó en la década de 2010. Registró 129 goles en 404 presencias. Fue una figura clave y carismática para la afición, contribuyendo decisivamente en la obtención de la Europa League de 2018."
+        "descripcion": "LEYENDA | Apodado 'El Niño'. Delantero de las décadas de 2000 y 2010. Debutó en los duros años del descenso y regresó triunfal para levantar trofeos europeos, siendo la figura más querida por la afición rojiblanca."
+      },
+      {
+        "nombre": "Koke Resurrección",
+        "partidos": "630",
+        "goles": "47",
+        "descripcion": "LEYENDA | Apodado 'El Capitán'. Centrocampista de las décadas de 2010 y 2020. Surgido de la cantera, es el jugador con más presencias históricas, liderando en el campo el exitoso proyecto de Diego Simeone."
+      },
+      {
+        "nombre": "Diego Godín",
+        "partidos": "389",
+        "goles": "27",
+        "descripcion": "LEYENDA | Apodado 'El Faraón'. Defensa central uruguayo de la década de 2010. Líder espiritual de la zaga, anotó el histórico gol en el Camp Nou que le otorgó al club el campeonato de Liga en 2014."
+      },
+      {
+        "nombre": "José Eulogio Gárate",
+        "partidos": "241",
+        "goles": "109",
+        "descripcion": "LEYENDA | Apodado 'El Ingeniero del Área'. Delantero de las décadas de los 60 y 70. Reconocido por su extrema deportividad (nunca fue expulsado) y por obtener tres trofeos Pichichi vistiendo la camiseta colchonera."
       },
       {
         "nombre": "Antoine Griezmann",
         "partidos": "390",
         "goles": "180",
-        "descripcion": "Apodado 'El Principito'. Atacante francés que desarrolló sus principales etapas en las décadas de 2010 y 2020. Es el máximo goleador histórico del club con más de 180 tantos en cerca de 400 partidos, superando la marca histórica que poseía Luis Aragonés."
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Principito'. Décadas de 2010 y 2020. Máximo goleador histórico del club superando los 180 tantos. Atacante total que definió la ofensiva del equipo moderno."
       },
       {
-        "nombre": "Luis Aragonés",
+        "nombre": "Luis Aragonés (Goleador)",
         "partidos": "370",
         "goles": "172",
-        "descripcion": "Apodado 'El Sabio de Hortaleza'. Jugador emblemático en los años 60 y 70. Anotó 172 goles en 370 presencias, manteniéndose como el máximo anotador histórico durante décadas. Posteriormente extendió su legado al convertirse en el entrenador con más partidos dirigidos en el club."
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Zapatones'. Años 60 y 70. Segundo máximo artillero histórico (172 goles). Especialista consumado en el lanzamiento de tiros libres."
+      },
+      {
+        "nombre": "Paco Campos",
+        "partidos": "205",
+        "goles": "144",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Mago'. Años 40. Tercer goleador histórico (144 goles). Extremo e interior izquierdo que lideró la primera gran época de títulos nacionales tras la Guerra Civil."
+      },
+      {
+        "nombre": "José Eulogio Gárate (Goleador)",
+        "partidos": "241",
+        "goles": "109",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Ingeniero del Área'. Años 60 y 70. Cuarto anotador histórico. Delantero de gran elegancia y eficacia rematadora."
+      },
+      {
+        "nombre": "Fernando Torres (Goleador)",
+        "partidos": "404",
+        "goles": "129",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Niño'. Décadas de 2000 y 2010. Anotó 129 goles oficiales, aportando vitalidad y velocidad en dos etapas distintas en el club."
+      },
+      {
+        "nombre": "Koke Resurrección (Presencias)",
+        "partidos": "630",
+        "goles": "47",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Capitán'. Décadas de 2010 y 2020. Ostenta el récord absoluto de partidos jugados en la historia del club, superando las seis centenas."
+      },
+      {
+        "nombre": "Adelardo Rodríguez",
+        "partidos": "553",
+        "goles": "113",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Galgo'. Años 60 y 70. Segundo jugador con más presencias (553 partidos). Mantuvo el récord absoluto durante medio siglo hasta ser superado en la era moderna."
+      },
+      {
+        "nombre": "Tomás Reñones",
+        "partidos": "483",
+        "goles": "4",
+        "descripcion": "MÁS PRESENCIAS | Lateral derecho de las décadas de los 80 y 90. Tercero en presencias históricas (483 partidos). Fue el capitán del equipo que logró el histórico 'Doblete' de Liga y Copa en 1996."
+      },
+      {
+        "nombre": "Enrique Collar",
+        "partidos": "470",
+        "goles": "105",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Niño' (original). Extremo de los años 50 y 60. Cuarto jugador con más presencias (470). Conformó junto a Peiró el mítico dúo conocido como 'El Ala Infernal'."
+      },
+      {
+        "nombre": "Jan Oblak",
+        "partidos": "430",
+        "goles": "0",
+        "descripcion": "MÁS PRESENCIAS | Guardameta esloveno de las décadas de 2010 y 2020. Quinto con más partidos. Multiganador del Trofeo Zamora y considerado uno de los porteros más seguros de la historia de la liga española."
       }
     ]
   },

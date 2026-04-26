@@ -54,33 +54,93 @@
     "idolos": [
       {
         "nombre": "Jesús Navas",
-        "partidos": "680",
+        "partidos": "685",
         "goles": "39",
-        "descripcion": "El legendario 'Duende de Los Palacios'. El inagotable lateral, capitán y dueño del abrumador récord histórico absoluto de presencias y títulos con el escudo sevillista."
+        "descripcion": "LEYENDA | Apodado 'El Duende de Los Palacios'. Extremo y lateral derecho en las décadas de 2000, 2010 y 2020. Jugador con más partidos en la historia del club. Capitán emblemático y partícipe de múltiples títulos de la UEFA Europa League."
       },
       {
         "nombre": "Frédéric Kanouté",
         "partidos": "290",
         "goles": "136",
-        "descripcion": "Talentoso y espigado dios franco-maliense que con suma elegancia desató la época dorada contemporánea, marcando goles inolvidables en múltiples y épicas finales."
-      },
-      {
-        "nombre": "Campanal I",
-        "partidos": "260",
-        "goles": "218",
-        "descripcion": "El abrumador torbellino goleador de los orígenes. Es el intocable máximo anotador histórico que forjó a fuego el campeonato nacional y copero en los cuarenta."
+        "descripcion": "LEYENDA | Delantero franco-maliense de la década de 2000. Su inmensa calidad técnica y elegancia en el área lo erigieron como el pilar fundamental en la consecución de las primeras copas europeas de la época moderna."
       },
       {
         "nombre": "José Antonio Reyes",
         "partidos": "253",
         "goles": "39",
-        "descripcion": "La 'Perla' indomable de Utrera. Creció deslumbrando de chaval a toda Europa, aportando enormes sumas con su venta para salvar al club, regresando como profeta años después."
+        "descripcion": "LEYENDA | Apodado 'La Perla de Utrera'. Atacante de las décadas de 2000 y 2010. Surgido de la cantera, deslumbró con su desborde y calidad, regresando en su etapa madura para capitanear al equipo en la conquista de títulos europeos."
+      },
+      {
+        "nombre": "Juan Arza",
+        "partidos": "414",
+        "goles": "206",
+        "descripcion": "LEYENDA | Apodado 'El Niño de Oro'. Delantero de las décadas de los 40 y 50. Principal figura del equipo que conquistó la única Liga de la historia del club en 1946, siendo galardonado con el trofeo Pichichi en 1955."
       },
       {
         "nombre": "Antonio Puerta",
         "partidos": "88",
         "goles": "8",
-        "descripcion": "El mito trágico y eterno de 'La Zurda de Diamantes'. Su recordado y mágico zapatazo al Schalke 04 detonó la majestuosa era de glorias internacionales antes de su adiós."
+        "descripcion": "LEYENDA | Lateral izquierdo y extremo de la década de 2000. Su histórico gol en la prórroga ante el Schalke 04 abrió las puertas de la gloria europea. Su trágico y prematuro fallecimiento lo convirtió en el eterno símbolo espiritual del sevillismo."
+      },
+      {
+        "nombre": "Guillermo Campanal",
+        "partidos": "274",
+        "goles": "218",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Campanal I'. Delantero de las décadas de los 30 y 40. Es el máximo anotador en la historia del club con 218 goles y líder de la mítica 'Delantera Stuka'."
+      },
+      {
+        "nombre": "Juan Arza (Goleador)",
+        "partidos": "414",
+        "goles": "206",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Niño de Oro'. Años 40 y 50. Segundo máximo goleador histórico con 206 tantos, destacando su capacidad técnica y remate."
+      },
+      {
+        "nombre": "Juan Araujo",
+        "partidos": "242",
+        "goles": "159",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Pato'. Delantero de las décadas de los 40 y 50. Tercer anotador histórico (159 goles). Marcó el gol decisivo que certificó el campeonato de Liga de 1946."
+      },
+      {
+        "nombre": "Frédéric Kanouté (Goleador)",
+        "partidos": "290",
+        "goles": "136",
+        "descripcion": "MÁXIMO GOLEADOR | Años 2000. Cuarto máximo goleador (136 goles). Es el jugador extranjero con más anotaciones en la historia de la institución."
+      },
+      {
+        "nombre": "Álvaro Negredo",
+        "partidos": "180",
+        "goles": "85",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Tiburón de Vallecas'. Década de 2010. Delantero centro de gran potencia física que garantizó registros goleadores constantes en torneos nacionales y europeos."
+      },
+      {
+        "nombre": "Jesús Navas (Presencias)",
+        "partidos": "685",
+        "goles": "39",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Duende de Los Palacios'. Décadas de 2000, 2010 y 2020. Ostenta el abrumador récord histórico del club con más de 685 participaciones oficiales."
+      },
+      {
+        "nombre": "Pablo Blanco",
+        "partidos": "415",
+        "goles": "12",
+        "descripcion": "MÁS PRESENCIAS | Defensa y mediocampista de las décadas de los 70 y 80. Segundo jugador con más presencias (415 partidos). Conocido por su férreo marcaje y disciplina táctica."
+      },
+      {
+        "nombre": "Juan Arza (Presencias)",
+        "partidos": "414",
+        "goles": "206",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Niño de Oro'. Años 40 y 50. Tercero en presencias (414 partidos). Un registro excepcional para un jugador ofensivo en su época."
+      },
+      {
+        "nombre": "Manolo Jiménez",
+        "partidos": "413",
+        "goles": "1",
+        "descripcion": "MÁS PRESENCIAS | Lateral izquierdo de las décadas de los 80 y 90. Cuarto jugador con más participaciones (413 partidos). Destacó por su solidez defensiva a lo largo de 14 temporadas."
+      },
+      {
+        "nombre": "Marcelo Campanal",
+        "partidos": "403",
+        "goles": "3",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'Campanal II'. Defensa de las décadas de los 50 y 60. Quinto con más partidos (403). Famoso por su prodigiosa fortaleza física e ímpetu en los balones aéreos."
       }
     ]
   },

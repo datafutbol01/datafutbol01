@@ -54,34 +54,94 @@
     ],
     "idolos": [
       {
+        "nombre": "Javi Moreno",
+        "partidos": "146",
+        "goles": "52",
+        "descripcion": "LEYENDA | Delantero. Década de 2000. Lideró al equipo en la histórica gesta de alcanzar la final de la Copa de la UEFA en 2001, anotando dos goles en aquel legendario partido frente al Liverpool."
+      },
+      {
+        "nombre": "Martín Astudillo",
+        "partidos": "346",
+        "goles": "14",
+        "descripcion": "LEYENDA | Centrocampista defensivo argentino. Década de 2000. Eje táctico inamovible durante una década completa, siendo la pieza fundamental del mejor Alavés de la historia contemporánea."
+      },
+      {
         "nombre": "Manu García",
         "partidos": "308",
         "goles": "19",
-        "descripcion": "Capitán histórico en el siglo XXI, liderando al club desde la Segunda B hasta la final de la Copa del Rey de 2017."
+        "descripcion": "LEYENDA | Centrocampista y capitán. Década de 2010. Llevó al club desde las divisiones inferiores hasta la final de la Copa del Rey, siendo el emblema del compromiso y la identidad institucional local."
       },
       {
-        "nombre": "Fernando Pacheco",
-        "partidos": "253",
+        "nombre": "Carmelo Cédrun",
+        "partidos": "218",
         "goles": "0",
-        "descripcion": "Guardameta titular inamovible durante el exitoso periodo moderno en Primera División."
+        "descripcion": "LEYENDA | Guardameta. Décadas de 50 y 60. Su solvencia bajo palos y liderazgo lo consagraron como uno de los porteros vascos más destacados, forjando su leyenda antes de continuar su carrera en otros clubes."
       },
       {
-        "nombre": "Cosme",
-        "partidos": "220",
+        "nombre": "Cosmin Contra",
+        "partidos": "79",
+        "goles": "6",
+        "descripcion": "LEYENDA | Lateral derecho rumano. Década de 2000. Aunque su estadía fue breve, su extraordinaria proyección ofensiva y precisión lo convirtieron en un jugador de culto internacional tras la histórica campaña europea."
+      },
+      {
+        "nombre": "Javi Moreno (Goleador)",
+        "partidos": "146",
+        "goles": "52",
+        "descripcion": "MÁXIMO GOLEADOR | Década de 2000. Delantero letal que garantizó registros anotadores sobresalientes tanto en Liga como en las fases eliminatorias continentales."
+      },
+      {
+        "nombre": "Rubén Navarro",
+        "partidos": "180",
+        "goles": "41",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Década de 2000. Segundo anotador histórico en la etapa moderna. Mantuvo un alto nivel de regularidad ofensiva en la máxima categoría española."
+      },
+      {
+        "nombre": "Manolo Olivares",
+        "partidos": "86",
+        "goles": "42",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Década de 1930. Histórico delantero que brilló en los inicios del fútbol profesional, convirtiéndose en el primer gran goleador de la historia de la entidad."
+      },
+      {
+        "nombre": "Borja Viguera",
+        "partidos": "86",
+        "goles": "40",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Década de 2010. Sus goles fueron determinantes para el resurgimiento institucional del club y el ascenso desde las categorías inferiores."
+      },
+      {
+        "nombre": "Joselu Mato",
+        "partidos": "113",
+        "goles": "36",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero centro. Década de 2020. Garantizó de manera sistemática los goles necesarios para certificar las sucesivas permanencias del equipo en Primera División."
+      },
+      {
+        "nombre": "Martín Astudillo (Presencias)",
+        "partidos": "346",
         "goles": "14",
-        "descripcion": "Figura legendaria de las primeras décadas y del histórico ascenso a Primera División en 1930."
+        "descripcion": "MÁS PRESENCIAS | Centrocampista argentino. Década de 2000. Jugador con más presencias oficiales en la historia del club moderno, marcando una época de regularidad y profesionalismo."
       },
       {
-        "nombre": "Javi Moreno",
-        "partidos": "118",
-        "goles": "50",
-        "descripcion": "Goleador fundamental en el histórico subcampeonato de la Copa de la UEFA en la temporada 2000-01."
+        "nombre": "Manu García (Presencias)",
+        "partidos": "308",
+        "goles": "19",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista. Década de 2010. Segundo en presencias. Su capitanía y resiliencia devolvieron al equipo a la estabilidad en el máximo nivel del fútbol nacional."
       },
       {
-        "nombre": "Ibai Gómez",
-        "partidos": "92",
-        "goles": "17",
-        "descripcion": "Extremo fundamental en el regreso a Primera División, aportando goles decisivos."
+        "nombre": "Óscar Téllez",
+        "partidos": "236",
+        "goles": "5",
+        "descripcion": "MÁS PRESENCIAS | Defensa central. Década de 2000. Tercer jugador con mayor número de participaciones. Bastión inquebrantable de la zaga en la época dorada europea del equipo."
+      },
+      {
+        "nombre": "Víctor Laguardia",
+        "partidos": "285",
+        "goles": "12",
+        "descripcion": "MÁS PRESENCIAS | Defensa central. Décadas de 2010 y 2020. Cuarto en presencias. Destacó por su liderazgo defensivo y contundencia, capitaneando al club en múltiples temporadas."
+      },
+      {
+        "nombre": "Ibon Begoña",
+        "partidos": "205",
+        "goles": "7",
+        "descripcion": "MÁS PRESENCIAS | Lateral. Década de 2000. Quinto jugador con más partidos disputados, desempeñando un rol disciplinado y seguro durante la consolidación institucional."
       }
     ]
   },

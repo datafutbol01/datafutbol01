@@ -64,34 +64,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Míchel",
+        "nombre": "Míchel Sánchez",
         "partidos": "425",
-        "goles": "59",
-        "descripcion": "Zurdo histórico, capitán, máximo ídolo y el jugador con mayor cantidad total de presencias oficiales con la Franja."
+        "goles": "57",
+        "descripcion": "LEYENDA | Centrocampista zurdo de las décadas de los 90, 2000 y 2010. Máximo representante de los valores de la institución. Desarrolló su extensa carrera capitaneando al equipo y anotando goles inolvidables, siendo el alma innegable del barrio de Vallecas."
       },
       {
-        "nombre": "Jesús Diego Cota",
+        "nombre": "Cota",
         "partidos": "402",
-        "goles": "10",
-        "descripcion": "Guerrero absoluto de Vallecas. El lateral derecho dedicó sus 16 años de carrera profesional íntegramente al Rayo."
+        "goles": "16",
+        "descripcion": "LEYENDA | Lateral derecho y gran capitán de las décadas de los 80 y 90. Militó toda su trayectoria profesional en el club, superando los cuatrocientos partidos. Fue la imagen indiscutida de la resiliencia y sacrificio del equipo franjirrojo."
       },
       {
-        "nombre": "Isi Palazón",
-        "partidos": "180",
-        "goles": "30",
-        "descripcion": "Extremo fundamental en el vertiginoso ascenso y en las históricas recientes campañas en Primera del equipo obrero."
+        "nombre": "Piti",
+        "partidos": "252",
+        "goles": "57",
+        "descripcion": "LEYENDA | Atacante polivalente de las décadas de 2000 y 2010. Desempeñó un rol crucial anotando los goles que devolvieron al equipo a la élite tras años de estancamiento, consolidándose como uno de los máximos anotadores históricos."
       },
       {
         "nombre": "Guilherme",
-        "partidos": "153",
+        "partidos": "168",
+        "goles": "56",
+        "descripcion": "LEYENDA | Delantero brasileño de la década de los 90. Su instinto rematador en el área pequeña le permitió establecer destacados registros goleadores en la élite, siendo pieza central de la época más brillante del club en competiciones nacionales."
+      },
+      {
+        "nombre": "Roberto Trashorras",
+        "partidos": "219",
+        "goles": "7",
+        "descripcion": "LEYENDA | Centrocampista organizador de la década de 2010. Capitán del equipo bajo la dirección de Paco Jémez. Su estilo depurado de posesión y alta precisión en pases consolidaron una identidad de juego audaz e inconfundible a nivel mundial."
+      },
+      {
+        "nombre": "Míchel Sánchez (Goleador)",
+        "partidos": "425",
         "goles": "57",
-        "descripcion": "Letal goleador brasileño que resultó indispensable para llevar al club hasta la élite de Europa a inicios del milenio."
+        "descripcion": "MÁXIMO GOLEADOR | Centrocampista. Décadas de 90, 00 y 10. Es uno de los principales artilleros históricos con 57 tantos, cifra sobresaliente debido a su capacidad ejecutora desde la segunda línea."
+      },
+      {
+        "nombre": "Piti (Goleador)",
+        "partidos": "252",
+        "goles": "57",
+        "descripcion": "MÁXIMO GOLEADOR | Atacante. Décadas de 2000 y 2010. Segundo máximo anotador histórico (empatado con Míchel, 57 goles). Resolvió encuentros determinantes en la máxima competición liguera con certeros disparos."
+      },
+      {
+        "nombre": "Guilherme (Goleador)",
+        "partidos": "168",
+        "goles": "56",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Década de los 90. Tercer artillero histórico de la institución. Registró 56 goles oficiales asumiendo el principal peso ofensivo de la plantilla."
       },
       {
         "nombre": "Bolo",
-        "partidos": "141",
-        "goles": "38",
-        "descripcion": "Potente atacante nacional y figura goleadora determinante en la mágica e histórica participación europea en el año 2000."
+        "partidos": "146",
+        "goles": "46",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero centro de la década de 2000. Cuarto máximo anotador (46 tantos). Atacante aguerrido que lideró la mítica incursión del equipo en competiciones europeas."
+      },
+      {
+        "nombre": "Trejo",
+        "partidos": "260",
+        "goles": "39",
+        "descripcion": "MÁXIMO GOLEADOR | Mediapunta argentino. Décadas de 2010 y 2020. Quinto anotador. Capitán moderno cuyas acciones decisivas y creatividad garantizaron goles cruciales en finales y ascensos."
+      },
+      {
+        "nombre": "Míchel Sánchez (Presencias)",
+        "partidos": "425",
+        "goles": "57",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista. Décadas de 90 a 10. Lidera el primer puesto histórico en el registro de partidos jugados con 425 presencias oficiales, portando el brazalete de capitán repetidamente."
+      },
+      {
+        "nombre": "Cota (Presencias)",
+        "partidos": "402",
+        "goles": "16",
+        "descripcion": "MÁS PRESENCIAS | Lateral derecho. Décadas de 80 y 90. Segundo jugador con más presencias absolutas (402). Estableció un ejemplo inalcanzable de fidelidad al escudo, militando únicamente en la institución franjirroja."
+      },
+      {
+        "nombre": "Felines",
+        "partidos": "382",
+        "goles": "35",
+        "descripcion": "MÁS PRESENCIAS | Extremo. Décadas de 60 y 70. Tercero en el listado de apariciones formales (382 partidos). Fue el líder futbolístico del primer y heroico ascenso de la historia del club a la máxima división."
+      },
+      {
+        "nombre": "Uceda",
+        "partidos": "362",
+        "goles": "18",
+        "descripcion": "MÁS PRESENCIAS | Defensa de las décadas de los 70 y 80. Cuarto jugador con más participaciones (362). Su firmeza en los marcajes caracterizó la resistencia de la retaguardia del barrio."
+      },
+      {
+        "nombre": "Alcázar",
+        "partidos": "319",
+        "goles": "15",
+        "descripcion": "MÁS PRESENCIAS | Defensa y mediocampista de las décadas de los 90 y 2000. Quinto en presencias (319). Contribuyó con esfuerzo táctico en los mejores años que derivaron en clasificaciones de la UEFA."
       }
     ]
   },

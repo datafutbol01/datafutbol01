@@ -60,34 +60,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Vicente Latorre",
-        "partidos": "335",
-        "goles": "53",
-        "descripcion": "Delantero vital que ostentó registros altísimos de presencia durante toda la compleja y sufrida década de los 80."
+        "nombre": "José Luis Morales",
+        "partidos": "311",
+        "goles": "63",
+        "descripcion": "LEYENDA | Apodado 'El Comandante'. Extremo de las décadas de 2010 y 2020. Es el ídolo supremo de la etapa contemporánea. Sus galopadas desde campo propio y capacidad anotadora lo convirtieron en el estandarte institucional del equipo."
+      },
+      {
+        "nombre": "Sergio Ballesteros",
+        "partidos": "144",
+        "goles": "3",
+        "descripcion": "LEYENDA | Defensa central de la década de 2010. Capitán fornido e imponente que lideró la zaga en el mejor Levante de la historia, contribuyendo en la histórica y única clasificación europea obtenida por el club."
+      },
+      {
+        "nombre": "José Campaña",
+        "partidos": "165",
+        "goles": "10",
+        "descripcion": "LEYENDA | Centrocampista de las décadas de 2010 y 2020. Su depurada técnica y control absoluto de los tiempos de juego le otorgaron el estatus de líder futbolístico, llegando a ser convocado por la selección nacional."
+      },
+      {
+        "nombre": "Rubén Suárez",
+        "partidos": "136",
+        "goles": "35",
+        "descripcion": "LEYENDA | Mediapunta de la década de 2000 y 2010. Reconocido nacionalmente por su extraordinario talento para el lanzamiento de faltas directas, logrando goles espectaculares que consolidaron la permanencia del club en Primera División."
       },
       {
         "nombre": "Félix Ettien",
         "partidos": "324",
-        "goles": "23",
-        "descripcion": "El veloz extremo marfileño jugó más de doce temporadas en el club, superando graves crisis y obteniendo múltiples ascensos."
+        "goles": "21",
+        "descripcion": "LEYENDA | Extremo marfileño de las décadas de 1990 y 2000. Dedicó doce temporadas consecutivas al club, siendo un ejemplo inquebrantable de potencia atlética y lealtad institucional durante los periodos de transición en divisiones inferiores."
       },
       {
-        "nombre": "José Luis Morales",
+        "nombre": "José Luis Morales (Goleador)",
         "partidos": "311",
         "goles": "63",
-        "descripcion": "Apodado 'El Comandante'. Máximo goleador histórico en Primera, ídolo indiscutido de la hinchada durante el siglo XXI."
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Comandante'. Décadas de 2010 y 2020. Es el máximo artillero histórico de la entidad en la máxima categoría (63 goles), caracterizado por definiciones de alta complejidad técnica."
       },
       {
-        "nombre": "Sergio Ballesteros",
-        "partidos": "230",
-        "goles": "5",
-        "descripcion": "El robusto e intimidante defensor central ejerció como capitán indiscutido durante la mágica clasificación europea en 2011."
+        "nombre": "Roger Martí",
+        "partidos": "220",
+        "goles": "72",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero centro. Década de 2010 y 2020. Segundo anotador contemporáneo destacado (72 goles formales). Especialista letal en el remate a un solo toque dentro del área."
       },
       {
-        "nombre": "Paco Salillas",
-        "partidos": "114",
-        "goles": "52",
-        "descripcion": "Goleador incombustible clave a finales del siglo XX, vital para el resurgir del club y recordado por su inmensa efectividad frente al arco."
+        "nombre": "Rubén Suárez (Goleador)",
+        "partidos": "136",
+        "goles": "35",
+        "descripcion": "MÁXIMO GOLEADOR | Mediapunta asturiano. Décadas de 2000 y 2010. Tercer artillero de la etapa reciente. Sus precisas ejecuciones a balón parado fueron determinantes para sumar puntos clave."
+      },
+      {
+        "nombre": "David Barral",
+        "partidos": "75",
+        "goles": "20",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero centro. Década de 2010. Cuarto anotador contemporáneo (20 goles formales). Su carácter aguerrido encajó perfectamente con el estilo de juego directo propuesto por la entidad."
+      },
+      {
+        "nombre": "Félix Ettien (Goleador)",
+        "partidos": "324",
+        "goles": "21",
+        "descripcion": "MÁXIMO GOLEADOR | Extremo derecho marfileño. Años 90 y 2000. Quinto anotador contemporáneo. Su gran envergadura le permitió concretar goles decisivos basados en la velocidad y la fortaleza."
+      },
+      {
+        "nombre": "Félix Ettien (Presencias)",
+        "partidos": "324",
+        "goles": "21",
+        "descripcion": "MÁS PRESENCIAS | Extremo derecho. Décadas de 1990 y 2000. Registró 324 participaciones, estableciendo un alto estándar de regularidad física durante una prolongada y leal trayectoria profesional en el club."
+      },
+      {
+        "nombre": "José Luis Morales (Presencias)",
+        "partidos": "311",
+        "goles": "63",
+        "descripcion": "MÁS PRESENCIAS | Extremo y delantero. Décadas de 2010 y 2020. Segundo jugador con más presencias contemporáneas (311 partidos). Capitán indiscutible y referente en la época moderna de Primera División."
+      },
+      {
+        "nombre": "Roger Martí (Presencias)",
+        "partidos": "220",
+        "goles": "72",
+        "descripcion": "MÁS PRESENCIAS | Delantero centro. Década de 2010 y 2020. Tercero en apariciones oficiales. Su perseverancia frente a las adversidades físicas le permitió mantener una presencia constante en el frente de ataque."
+      },
+      {
+        "nombre": "José Campaña (Presencias)",
+        "partidos": "165",
+        "goles": "10",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista. Décadas de 2010 y 2020. Cuarto jugador con mayor número de partidos disputados. Asumió la completa organización táctica del mediocampo durante siete temporadas consecutivas."
+      },
+      {
+        "nombre": "Sergio Ballesteros (Presencias)",
+        "partidos": "144",
+        "goles": "3",
+        "descripcion": "MÁS PRESENCIAS | Defensa central de la década de 2010. Quinto en presencias oficiales de la época contemporánea, aportando rigor táctico y jerarquía en la era más gloriosa institucionalmente."
       }
     ]
   },

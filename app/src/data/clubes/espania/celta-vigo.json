@@ -54,34 +54,94 @@
     ],
     "idolos": [
       {
-        "nombre": "Manolo Rodríguez",
-        "partidos": "533",
-        "goles": "15",
-        "descripcion": "El 'Gran Capitán' celeste, jugador que ostenta el récord indiscutible de presencias históricas con el club."
-      },
-      {
         "nombre": "Iago Aspas",
-        "partidos": "490",
+        "partidos": "495",
         "goles": "205",
-        "descripcion": "El 'Príncipe de las Bateas'. Máximo goleador histórico y salvador de múltiples descensos. Ícono absoluto contemporáneo."
+        "descripcion": "LEYENDA | Apodado 'El Príncipe de las Bateas'. Delantero de las décadas de 2010 y 2020. Es el jugador con más presencias y máximo goleador histórico. Su talento insustituible ha rescatado al equipo del descenso en múltiples temporadas, siendo el emblema definitivo del club moderno."
       },
       {
         "nombre": "Aleksandr Mostovoi",
-        "partidos": "288",
+        "partidos": "290",
         "goles": "72",
-        "descripcion": "Apodado 'El Zar'. El líder creativo e indiscutido del legendario equipo del 'Eurocelta' en el cambio de milenio."
+        "descripcion": "LEYENDA | Apodado 'El Zar'. Centrocampista ofensivo ruso de la década de los 90 y 2000. Lideró la etapa más brillante y estética de la historia de la institución en Europa (conocida como el 'Eurocelta'), desplegando un fútbol de altísima calidad técnica y carácter volcánico."
+      },
+      {
+        "nombre": "Manolo Rodríguez",
+        "partidos": "533",
+        "goles": "1",
+        "descripcion": "LEYENDA | Apodado 'El Gran Capitán'. Defensa central de las décadas de los 70 y 80. Antes de la era moderna, fue el jugador con el mayor número de presencias históricas oficiales, caracterizado por una disciplina defensiva y un liderazgo intachables durante catorce años."
+      },
+      {
+        "nombre": "Hugo Mallo",
+        "partidos": "449",
+        "goles": "12",
+        "descripcion": "LEYENDA | Lateral derecho y capitán de la década de 2010 y 2020. Tercer jugador con más presencias de la historia de la entidad. Representó el profesionalismo y el compromiso constante de los jugadores surgidos de la cantera de A Madroa."
       },
       {
         "nombre": "Valery Karpin",
         "partidos": "218",
         "goles": "39",
-        "descripcion": "Mediocampista ruso de enorme carácter y jerarquía, formando una asociación legendaria junto a Mostovoi."
+        "descripcion": "LEYENDA | Centrocampista ruso de la década de los 90 y 2000. Su inagotable despliegue físico por la banda y su carácter sumamente competitivo lo convirtieron en un complemento perfecto de Mostovoi en la inolvidable época dorada del club en competiciones europeas."
+      },
+      {
+        "nombre": "Iago Aspas (Goleador)",
+        "partidos": "495",
+        "goles": "205",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Príncipe de las Bateas'. Años 2010 y 2020. Es el máximo artillero histórico de forma categórica con 205 goles oficiales en torneos nacionales y continentales."
+      },
+      {
+        "nombre": "Hermidita",
+        "partidos": "273",
+        "goles": "113",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero de las décadas de los 40 y 50. Segundo máximo anotador histórico (113 goles). Sus tantos fueron fundamentales durante el afianzamiento institucional en la posguerra."
+      },
+      {
+        "nombre": "Vlado Gudelj",
+        "partidos": "258",
+        "goles": "105",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero bosnio de la década de los 90. Tercer goleador histórico de la entidad (105 goles). Logró ser el máximo artillero en la temporada de ascenso de Segunda División."
       },
       {
         "nombre": "Pahiño",
-        "partidos": "80",
-        "goles": "57",
-        "descripcion": "Goleador histórico de los años 40 que guio al club a su primera final de Copa y luego triunfó en toda España."
+        "partidos": "93",
+        "goles": "91",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero de la década de los 40. Cuarto en la lista histórica. Promedió casi un gol por partido, obteniendo el prestigioso trofeo Pichichi vistiendo la elástica celeste."
+      },
+      {
+        "nombre": "Roig",
+        "partidos": "165",
+        "goles": "75",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Décadas de los 40 y 50. Quinto anotador histórico del club, completando una de las vanguardias más efectivas de la historia temprana de la institución."
+      },
+      {
+        "nombre": "Manolo Rodríguez (Presencias)",
+        "partidos": "533",
+        "goles": "1",
+        "descripcion": "MÁS PRESENCIAS | Defensa de las décadas de los 70 y 80. Lidera el récord histórico absoluto del club con 533 presencias formales en competiciones oficiales."
+      },
+      {
+        "nombre": "Iago Aspas (Presencias)",
+        "partidos": "495",
+        "goles": "205",
+        "descripcion": "MÁS PRESENCIAS | Delantero de las décadas de 2010 y 2020. Ocupa el segundo lugar en número de partidos oficiales, siendo el único jugador de la época contemporánea en alcanzar estas cifras."
+      },
+      {
+        "nombre": "Hugo Mallo (Presencias)",
+        "partidos": "449",
+        "goles": "12",
+        "descripcion": "MÁS PRESENCIAS | Lateral derecho de la década de 2010. Tercer jugador en partidos disputados, desempeñando el rol de primer capitán del equipo durante siete temporadas consecutivas."
+      },
+      {
+        "nombre": "Atilano Vecino",
+        "partidos": "393",
+        "goles": "2",
+        "descripcion": "MÁS PRESENCIAS | Defensa central de las décadas de los 80 y 90. Cuarto con mayor participación. Símbolo de regularidad y contundencia en el centro de la defensa celtiña."
+      },
+      {
+        "nombre": "Javier Maté",
+        "partidos": "364",
+        "goles": "0",
+        "descripcion": "MÁS PRESENCIAS | Guardameta de la década de los 80. Quinto jugador con más presencias. Defendió la portería del club de forma continua, convirtiéndose en el arquero con más partidos disputados."
       }
     ]
   },

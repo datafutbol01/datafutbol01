@@ -68,31 +68,91 @@
         "nombre": "José Ángel Iribar",
         "partidos": "614",
         "goles": "0",
-        "descripcion": "Apodado 'El Txopo'. Guardameta titular del equipo en las décadas de los 60 y 70. Ostenta el récord histórico de presencias con 614 partidos oficiales. Su sobriedad bajo los palos y vestimenta oscura lo convirtieron en la figura más representativa de la historia del club."
-      },
-      {
-        "nombre": "Iker Muniain",
-        "partidos": "560",
-        "goles": "76",
-        "descripcion": "Centrocampista ofensivo que desarrolló su carrera entre las décadas de 2010 y 2020. Disputó 560 partidos oficiales. Como capitán del primer equipo, culminó su trayectoria participando en la conquista de la Copa del Rey de 2024, título que el club no obtenía desde hacía 40 años."
-      },
-      {
-        "nombre": "Txetxu Rojo",
-        "partidos": "541",
-        "goles": "67",
-        "descripcion": "Extremo izquierdo que militó en la institución en las décadas de los 60 y 70. Registró 541 presencias y anotó 67 goles. Su técnica y capacidad de asistencia lo consolidaron como uno de los jugadores de campo con más partidos en la historia del equipo rojiblanco."
-      },
-      {
-        "nombre": "Dani Ruiz-Bazán",
-        "partidos": "402",
-        "goles": "199",
-        "descripcion": "Apodado 'Dani'. Delantero y capitán del equipo en los años 70 y 80. Disputó 402 partidos y anotó 199 goles. Fue el líder en el terreno de juego del conjunto que, bajo la dirección de Javier Clemente, obtuvo el doblete de Liga y Copa en la temporada 1983-84."
+        "descripcion": "LEYENDA | Apodado 'El Txopo'. Guardameta de las décadas de los 60 y 70. Su sobriedad bajo palos y su icónica vestimenta oscura lo convirtieron en la figura más representativa y sagrada de la historia institucional del club."
       },
       {
         "nombre": "Telmo Zarra",
         "partidos": "352",
         "goles": "335",
-        "descripcion": "Delantero centro de las décadas de los 40 y 50. Con 335 goles en 352 presencias, es el máximo goleador histórico del club. Fue el máximo anotador de la liga española durante décadas y conquistó seis trofeos Pichichi a lo largo de su carrera deportiva."
+        "descripcion": "LEYENDA | Apodado 'La Mejor Cabeza de Europa'. Delantero de los años 40 y 50. Máximo artillero histórico de la entidad. Sus inigualables remates de cabeza dominaron el fútbol nacional durante más de una década."
+      },
+      {
+        "nombre": "Pichichi (Rafael Moreno Aranzadi)",
+        "partidos": "89",
+        "goles": "83",
+        "descripcion": "LEYENDA | Apodado 'Pichichi'. Atacante de la década de 1910. Primer gran ídolo del fútbol español. Su letalidad goleadora fue tan inmensa que el premio al máximo goleador de la liga lleva su nombre en su honor."
+      },
+      {
+        "nombre": "Dani Ruiz-Bazán",
+        "partidos": "402",
+        "goles": "199",
+        "descripcion": "LEYENDA | Apodado 'Dani'. Delantero y capitán de los años 70 y 80. Lideró con garra al equipo que obtuvo el histórico doblete de Liga y Copa en 1984, destacando por su inquebrantable carácter competitivo."
+      },
+      {
+        "nombre": "Julen Guerrero",
+        "partidos": "430",
+        "goles": "116",
+        "descripcion": "LEYENDA | Apodado 'La Perla de Lezama'. Centrocampista ofensivo de los años 90. Rechazó ofertas millonarias de toda Europa por amor al club, convirtiéndose en el gran estandarte romántico de la afición vizcaína."
+      },
+      {
+        "nombre": "Telmo Zarra (Goleador)",
+        "partidos": "352",
+        "goles": "335",
+        "descripcion": "MÁXIMO GOLEADOR | Delantero. Décadas de 40 y 50. Máximo artillero histórico con 335 goles. Ganó seis trofeos al máximo goleador de la liga nacional española."
+      },
+      {
+        "nombre": "Bata (Agustín Sauto)",
+        "partidos": "208",
+        "goles": "208",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Bata'. Década de los 30. Segundo máximo goleador (208 goles). Promedió exactamente un gol por partido a lo largo de toda su carrera en el club."
+      },
+      {
+        "nombre": "Dani Ruiz-Bazán (Goleador)",
+        "partidos": "402",
+        "goles": "199",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Dani'. Años 70 y 80. Tercer máximo artillero histórico (199 goles). Especialista infalible en el cobro de penaltis."
+      },
+      {
+        "nombre": "Guillermo Gorostiza",
+        "partidos": "256",
+        "goles": "196",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'Bala Roja'. Década de los 30. Cuarto anotador histórico (196 goles). Extremo izquierdo de gran velocidad e instinto resolutivo."
+      },
+      {
+        "nombre": "José Iraragorri",
+        "partidos": "240",
+        "goles": "179",
+        "descripcion": "MÁXIMO GOLEADOR | Apodado 'El Chato'. Décadas de los 30 y 40. Quinto máximo goleador histórico. Miembro de la mítica primera delantera histórica del equipo previa a la Guerra Civil."
+      },
+      {
+        "nombre": "José Ángel Iribar (Presencias)",
+        "partidos": "614",
+        "goles": "0",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Txopo'. Décadas de 60 y 70. Es dueño del récord absoluto de presencias en el club con 614 partidos oficiales bajo los palos de 'La Catedral'."
+      },
+      {
+        "nombre": "Iker Muniain",
+        "partidos": "560",
+        "goles": "76",
+        "descripcion": "MÁS PRESENCIAS | Centrocampista ofensivo de las décadas de 2010 y 2020. Segundo jugador con más presencias (560). Capitaneó al club hacia la anhelada Copa del Rey de 2024."
+      },
+      {
+        "nombre": "Txetxu Rojo",
+        "partidos": "541",
+        "goles": "67",
+        "descripcion": "MÁS PRESENCIAS | Extremo izquierdo de los años 60 y 70. Tercero en presencias (541 partidos). Jugador de inmensa técnica individual y precisión en las asistencias."
+      },
+      {
+        "nombre": "Óscar de Marcos",
+        "partidos": "530",
+        "goles": "38",
+        "descripcion": "MÁS PRESENCIAS | Lateral y mediocampista de las décadas de 2010 y 2020. Cuarto jugador con más presencias. Destacó por su inagotable sacrificio físico y polivalencia táctica."
+      },
+      {
+        "nombre": "Joseba Etxeberria",
+        "partidos": "514",
+        "goles": "104",
+        "descripcion": "MÁS PRESENCIAS | Apodado 'El Gallo'. Extremo derecho de las décadas de los 90 y 2000. Quinto con más partidos (514). Se retiró jugando gratis su último año en agradecimiento al club."
       }
     ]
   },
