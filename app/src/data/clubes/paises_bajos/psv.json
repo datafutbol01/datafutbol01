@@ -1,0 +1,506 @@
+{
+    "id": "psv",
+    "meta": {
+        "etiquetas": [
+            "paises_bajos",
+            "eredivisie",
+            "psv"
+        ]
+    },
+    "datos": {
+        "nombre_completo": "Philips Sport Vereniging",
+        "sigla": "",
+        "fundacion": "31 de agosto de 1913",
+        "apodo": "Los Granjeros (Boeren), Rojiblancos",
+        "estadio_actual": "Philips Stadion",
+        "estadio_apodo": "",
+        "estadio_capacidad": 36500,
+        "estadio_inauguracion": "31 de agosto de 1913",
+        "estadio_lat": 51.4418,
+        "estadio_lng": 5.4674,
+        "estadio_direccion": "Frederiklaan 10A, 5616 NH Eindhoven, Países Bajos",
+        "socios": 45000,
+        "descripcion_corta": "El club respaldado por el imperio tecnológico Philips. Campeón europeo y parte del triunvirato de gigantes inamovibles del fútbol neerlandés.",
+        "paleta": [
+            {
+                "tag": "Rojo",
+                "hex": "#f00000"
+            },
+            {
+                "tag": "Blanco",
+                "hex": "#ffffff"
+            }
+        ],
+        "records": {
+            "maximo_goleador": "Willy van der Kuijlen (308 goles)",
+            "mas_presencias": "Willy van der Kuijlen (528 partidos)",
+            "mayor_goleada": "10-0 vs Feyenoord (Eredivisie 2010/11)"
+        },
+        "nombre_oficial": "Philips Sport Vereniging",
+        "nombre_corto": "PSV",
+        "escudo_actual": "/escudos/paises_bajos/psv/PSV-Logo-2020-present.webp"
+    },
+    "historia": [
+        {
+            "ano": "1913",
+            "hito": "La Fundación Corporativa de Philips",
+            "desc": "El Philips Sport Vereniging fue oficialmente fundado el 31 de agosto de 1913 como una iniciativa deportiva exclusiva para los trabajadores de la inmensa fábrica de iluminación de los hermanos Gerard y Anton Philips. La chispa germinal ocurrió en 1911, cuando un jovencito de 8 años llamado Frits Philips (quien luego sería el legendario presidente y símbolo máximo de la entidad) dio el puntapié inicial para el equipo precursor. Recién en 1928, el club abrió sus puertas a miembros ajenos a la empresa, comenzando su ascenso nacional."
+        },
+        {
+            "ano": "1929",
+            "hito": "El Primer Campeonato Neerlandés",
+            "desc": "Tras dominar las ligas regionales del sur de los Países Bajos durante la década del 20, el club logró acceder a la fase final nacional en 1929. Derrotando a las potencias tradicionales de Ámsterdam y Róterdam, el equipo conquistó su primer campeonato absoluto, forjando la piedra angular para convertirse definitivamente en el tercer gigante inamovible de la Eredivisie."
+        },
+        {
+            "ano": "1978",
+            "hito": "La Época de Oro y la Copa UEFA",
+            "desc": "Bajo la histórica conducción técnica de Kees Rijvers, y liderados en el campo por la leyenda absoluta Willy van der Kuijlen, el PSV trasladó su hegemonía nacional hacia el plano internacional. En 1978 alzaron su primer trofeo europeo al conquistar la Copa de la UEFA, aplastando al Sporting Club Bastia por 3-0 en la gran final de vuelta disputada en el Philips Stadion."
+        },
+        {
+            "ano": "1988",
+            "hito": "El Triplete y la Copa de Europa",
+            "desc": "Bajo el mando del emergente entrenador Guus Hiddink, el plantel firmó la temporada perfecta. Con Hans van Breukelen en el arco y la jerarquía de Ronald Koeman, el PSV ganó la Liga, la Copa KNVB y tocó el cielo con las manos el 25 de mayo de 1988 en Stuttgart. Tras empatar sin goles, vencieron al SL Benfica por penales (6-5) para coronarse Campeones de Europa, logrando un triplete histórico."
+        },
+        {
+            "ano": "2024",
+            "hito": "El Dominio Abrumador de Peter Bosz",
+            "desc": "Tras algunos años a la sombra del Ajax y del Feyenoord, el PSV resurgió de manera arrolladora en la temporada 2023-2024. Guiados por la táctica ultra-ofensiva del DT Peter Bosz y el olfato goleador de Luuk de Jong, el equipo arrasó con la Eredivisie firmando una primera rueda perfecta (17 victorias consecutivas) y adjudicándose el campeonato con cifras récord y un juego espectacular."
+        }
+    ],
+    "canchas": [
+        {
+            "nombre": "Philips Stadion",
+            "capacidad": 36500,
+            "desde": "31 de agosto de 1913",
+            "hasta": "Presente",
+            "estado": "Activo",
+            "url": "https://www.google.com/maps/place/Estadio+Philips/@51.4417753,5.4648795,17z/",
+            "direccion": "Frederiklaan 10A, 5616 NH Eindhoven, Países Bajos",
+            "obs": "Un caso de extrema rareza y lealtad geográfica en el fútbol mundial: el club juega exactamente en el mismo predio de Philipsdorp (la villa obrera de Philips) desde el mismo día de su fundación en 1913. Aunque ha sido remodelado hasta ser un recinto de máxima categoría UEFA, jamás ha cambiado de ubicación ni de nombre.",
+            "lat": 51.4418,
+            "lng": 5.4674
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1913,
+            "hasta": 1970,
+            "c1": "#f00000",
+            "c2": "#ffffff",
+            "sh": "#000000",
+            "me": "#ffffff",
+            "tipo": "rayas-verticales",
+            "desc": "Desde su fundación por la compañía tecnológica, el PSV se definió por las clásicas franjas verticales rojas y blancas con pantalones negros. Se cuenta que el patrón de bastones fue inspirado por las cintas de advertencia de peligro en las zonas de maquinaria de la fábrica Philips."
+        },
+        {
+            "desde": 1970,
+            "hasta": 1989,
+            "c1": "#f00000",
+            "c2": "#f00000",
+            "sh": "#ffffff",
+            "me": "#ffffff",
+            "tipo": "liso",
+            "desc": "El club rompió temporalmente con sus bastones históricos para adoptar una agresiva camiseta roja lisa (en ocasiones con finísimas líneas blancas imperceptibles a la distancia). Este fue el diseño que inmortalizó su Era Dorada absoluta, ganando la Copa de la UEFA 1978 y alzando la Copa de Europa (Champions) de 1988 con esta mítica indumentaria."
+        },
+        {
+            "desde": 1989,
+            "hasta": null,
+            "c1": "#f00000",
+            "c2": "#ffffff",
+            "sh": "#000000",
+            "me": "#ffffff",
+            "tipo": "rayas-verticales",
+            "desc": "Con el cambio de década y la modernización del fútbol, el club decidió abandonar el diseño rojo sólido para regresar definitivamente al purismo de sus raíces fundacionales: el icónico y permanente regreso a las franjas verticales rojiblancas."
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Willy van der Kuijlen",
+            "pos": "Delantero",
+            "desc": "Delantero de extraordinaria capacidad resolutiva que retiene el récord vigente como máximo goleador histórico de la Eredivisie con 311 tantos. Disputó más de quinientos encuentros ligueros con el club y participó activamente en la conquista de la Copa de la UEFA de 1978.",
+            "epoca": "1964-1981",
+            "apodo": "Skiete Willy",
+            "goles": "308",
+            "partidos": "528"
+        },
+        {
+            "nombre": "Romário",
+            "pos": "Delantero",
+            "desc": "Atacante internacional que desembarcó en Eindhoven en 1988. Durante su permanencia de cinco temporadas, revolucionó la liga neerlandesa registrando promedios de anotación excepcionales y proyectando la exposición global de la institución a nuevos mercados.",
+            "epoca": "1988-1993",
+            "apodo": "O Baixinho",
+            "goles": "165",
+            "partidos": "167"
+        },
+        {
+            "nombre": "Ronaldo Nazário",
+            "pos": "Delantero",
+            "desc": "El 'Fenómeno' brasileño en estado puro. Aterrizó en Eindhoven como un talento adolescente y deslumbró al mundo entero con una potencia y capacidad goleadora irreal. Promedió casi un gol por partido antes de saltar al Barcelona.",
+            "epoca": "1994-1996",
+            "apodo": "O Fenômeno",
+            "goles": "54",
+            "partidos": "58"
+        },
+        {
+            "nombre": "Hans van Breukelen",
+            "pos": "Arquero",
+            "desc": "Infranqueable bajo los tres palos y líder absoluto desde la portería. Fue pieza clave para la conquista de la Copa de Europa en 1988 atajando el penal decisivo en la gran final frente al Benfica.",
+            "epoca": "1984-1994",
+            "apodo": "Hans",
+            "goles": "0",
+            "partidos": "393"
+        },
+        {
+            "nombre": "Luc Nilis",
+            "pos": "Delantero",
+            "desc": "Delantero de suma precisión y elegancia en el manejo del balón. Conformó recordadas y productivas asociaciones ofensivas junto a Van Nistelrooy, siendo distinguido como el futbolista del año en los Países Bajos durante su ciclo.",
+            "epoca": "1994-2000",
+            "apodo": "El Mago",
+            "goles": "133",
+            "partidos": "212"
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "nombre": "Willy van der Kuijlen",
+            "goles": "308",
+            "partidos": "528",
+            "epoca": "1964-1981",
+            "apodo": "Skiete Willy"
+        },
+        {
+            "nombre": "Coen Dillen",
+            "goles": "288",
+            "partidos": "328",
+            "epoca": "1955-1961",
+            "apodo": ""
+        },
+        {
+            "nombre": "Piet Fransen",
+            "goles": "210",
+            "partidos": "315",
+            "epoca": "1948-1960",
+            "apodo": ""
+        },
+        {
+            "nombre": "Jan van den Broek",
+            "goles": "154",
+            "partidos": "220",
+            "epoca": "1927-1937",
+            "apodo": ""
+        },
+        {
+            "nombre": "Luuk de Jong",
+            "goles": "150",
+            "partidos": "288",
+            "epoca": "2014-2019 / 2022-Act.",
+            "apodo": ""
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "nombre": "Willy van der Kuijlen",
+            "partidos": "528",
+            "epoca": "1964-1981",
+            "apodo": "Skiete Willy",
+            "goles": "308"
+        },
+        {
+            "nombre": "Willy van de Kerkhof",
+            "partidos": "418",
+            "epoca": "1973-1988",
+            "apodo": "",
+            "goles": "57"
+        },
+        {
+            "nombre": "Jan Heintze",
+            "partidos": "395",
+            "epoca": "1982-1994 / 1999-2003",
+            "apodo": "",
+            "goles": "15"
+        },
+        {
+            "nombre": "Hans van Breukelen",
+            "partidos": "393",
+            "epoca": "1984-1994",
+            "apodo": "",
+            "goles": "0"
+        },
+        {
+            "nombre": "Berry van Aerle",
+            "partidos": "278",
+            "epoca": "1981-1994",
+            "apodo": "",
+            "goles": "13"
+        }
+    ],
+    "titulos": [
+        {
+            "nombre": "Eredivisie",
+            "cantidad": 25,
+            "anios": [
+                "1928-29",
+                "1934-35",
+                "1950-51",
+                "1962-63",
+                "1974-75",
+                "1975-76",
+                "1977-78",
+                "1985-86",
+                "1986-87",
+                "1987-88",
+                "1988-89",
+                "1990-91",
+                "1991-92",
+                "1996-97",
+                "1999-00",
+                "2000-01",
+                "2002-03",
+                "2004-05",
+                "2005-06",
+                "2006-07",
+                "2007-08",
+                "2014-15",
+                "2015-16",
+                "2017-18",
+                "2023-24"
+            ]
+        },
+        {
+            "nombre": "Copa KNVB",
+            "cantidad": 11,
+            "anios": [
+                "1949-50",
+                "1973-74",
+                "1975-76",
+                "1987-88",
+                "1988-89",
+                "1989-90",
+                "1995-96",
+                "2004-05",
+                "2011-12",
+                "2021-22",
+                "2022-23"
+            ]
+        },
+        {
+            "nombre": "Johan Cruyff Shield",
+            "cantidad": 14,
+            "anios": [
+                "1992",
+                "1996",
+                "1997",
+                "1998",
+                "2000",
+                "2001",
+                "2003",
+                "2008",
+                "2012",
+                "2015",
+                "2016",
+                "2021",
+                "2022",
+                "2023"
+            ]
+        },
+        {
+            "nombre": "Copa de Europa (UEFA Champions League)",
+            "cantidad": 1,
+            "anios": [
+                "1987-88"
+            ]
+        },
+        {
+            "nombre": "Copa de la UEFA",
+            "cantidad": 1,
+            "anios": [
+                "1977-78"
+            ]
+        }
+    ],
+    "evolucion_escudos": [
+        {
+            "ano": "1913-1917",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1913-1917.webp"
+        },
+        {
+            "ano": "1917-1933",
+            "url": "/escudos/paises_bajos/psv/PSV-Eindhoven4.-old-logo1917-1933.webp"
+        },
+        {
+            "ano": "1933-1937",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1933-1937.webp"
+        },
+        {
+            "ano": "1937-1948",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1937-1948.webp"
+        },
+        {
+            "ano": "1948-1953",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1948-1953.webp"
+        },
+        {
+            "ano": "1953-1960",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1953-1960.webp"
+        },
+        {
+            "ano": "1960-1974",
+            "url": "/escudos/paises_bajos/psv/PSV_Eindhoven_logo_1960-1974.webp"
+        },
+        {
+            "ano": "1974-1982",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1974-1982.webp"
+        },
+        {
+            "ano": "1982-1990",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1982-1990.webp"
+        },
+        {
+            "ano": "1991-1996",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-1991-1996.webp"
+        },
+        {
+            "ano": "1996-2013",
+            "url": "/escudos/paises_bajos/psv/PSV_Eindhoven_logo1996-2013.webp"
+        },
+        {
+            "ano": "2013-2014",
+            "url": "/escudos/paises_bajos/psv/PSV_Eindhoven_logo_2013-2014.webp"
+        },
+        {
+            "ano": "2014-2020",
+            "url": "/escudos/paises_bajos/psv/2014-2020.webp"
+        },
+        {
+            "ano": "Actualidad",
+            "url": "/escudos/paises_bajos/psv/PSV-Logo-2020-present.webp"
+        }
+    ],
+    "origen_apodos": [
+        {
+            "apodo": "Los Granjeros (Boeren)",
+            "origen": "Este apodo surge de la histórica dicotomía geográfica y cultural de los Países Bajos. Los hinchas del Ajax y del oeste urbanizado solían menospreciar a los habitantes de la provincia de Brabante Septentrional tildándolos de 'campesinos' o 'granjeros' (Boeren). Sin embargo, la hinchada del PSV apropió el término y lo convirtió en una medalla de inmenso orgullo, adoptándolo como un himno de identidad laburante, provinciana y gloriosa."
+        }
+    ],
+    "historial": [
+        {
+            "equipo": "Ajax",
+            "pj": 184,
+            "g": 58,
+            "e": 43,
+            "p": 83
+        },
+        {
+            "equipo": "AZ Alkmaar",
+            "pj": 98,
+            "g": 56,
+            "e": 18,
+            "p": 24
+        },
+        {
+            "equipo": "Excelsior",
+            "pj": 50,
+            "g": 40,
+            "e": 6,
+            "p": 4
+        },
+        {
+            "equipo": "Feyenoord",
+            "pj": 142,
+            "g": 50,
+            "e": 36,
+            "p": 56
+        },
+        {
+            "equipo": "Fortuna Sittard",
+            "pj": 54,
+            "g": 41,
+            "e": 7,
+            "p": 6
+        },
+        {
+            "equipo": "Go Ahead Eagles",
+            "pj": 78,
+            "g": 50,
+            "e": 13,
+            "p": 15
+        },
+        {
+            "equipo": "FC Groningen",
+            "pj": 98,
+            "g": 59,
+            "e": 21,
+            "p": 18
+        },
+        {
+            "equipo": "SC Heerenveen",
+            "pj": 78,
+            "g": 46,
+            "e": 18,
+            "p": 14
+        },
+        {
+            "equipo": "Heracles Almelo",
+            "pj": 46,
+            "g": 38,
+            "e": 6,
+            "p": 2
+        },
+        {
+            "equipo": "NAC Breda",
+            "pj": 96,
+            "g": 59,
+            "e": 22,
+            "p": 15
+        },
+        {
+            "equipo": "NEC Nijmegen",
+            "pj": 96,
+            "g": 63,
+            "e": 18,
+            "p": 15
+        },
+        {
+            "equipo": "PEC Zwolle",
+            "pj": 52,
+            "g": 39,
+            "e": 7,
+            "p": 6
+        },
+        {
+            "equipo": "Sparta Rotterdam",
+            "pj": 120,
+            "g": 78,
+            "e": 23,
+            "p": 19
+        },
+        {
+            "equipo": "Telstar",
+            "pj": 34,
+            "g": 22,
+            "e": 8,
+            "p": 4
+        },
+        {
+            "equipo": "FC Twente",
+            "pj": 136,
+            "g": 63,
+            "e": 46,
+            "p": 27
+        },
+        {
+            "equipo": "FC Utrecht",
+            "pj": 114,
+            "g": 76,
+            "e": 26,
+            "p": 12
+        },
+        {
+            "equipo": "FC Volendam",
+            "pj": 60,
+            "g": 45,
+            "e": 10,
+            "p": 5
+        }
+    ]
+}

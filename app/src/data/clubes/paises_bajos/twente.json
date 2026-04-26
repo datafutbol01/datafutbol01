@@ -1,0 +1,412 @@
+{
+    "id": "twente",
+    "meta": {
+        "etiquetas": [
+            "paises_bajos",
+            "eredivisie",
+            "fc twente"
+        ]
+    },
+    "datos": {
+        "nombre_completo": "Football Club Twente",
+        "sigla": "",
+        "fundacion": "1 de julio de 1965",
+        "apodo": "Los Tukkers (De Tukkers), Los Rojos (De Reds)",
+        "estadio_actual": "De Grolsch Veste",
+        "estadio_apodo": "El Infierno de Enschede",
+        "estadio_capacidad": 30205,
+        "estadio_inauguracion": "10 de mayo de 1998",
+        "estadio_lat": 52.2366,
+        "estadio_lng": 6.8375,
+        "estadio_direccion": "Colosseum 65, 7521 PP Enschede, Países Bajos",
+        "socios": 30000,
+        "descripcion_corta": "Orgullo absoluto de la región de Overijssel. Un club aguerrido y resiliente que alcanzó la cima del fútbol holandés rompiendo la hegemonía histórica.",
+        "paleta": [
+            {
+                "tag": "Rojo",
+                "hex": "#d30e15"
+            },
+            {
+                "tag": "Blanco",
+                "hex": "#ffffff"
+            }
+        ],
+        "records": {
+            "maximo_goleador": "Blaise Nkufo (114 goles)",
+            "mas_presencias": "Sander Boschker (696 partidos)",
+            "mayor_goleada": "8-0 (Registrado en múltiples ocasiones en Eredivisie)"
+        },
+        "nombre_oficial": "Football Club Twente",
+        "nombre_corto": "FC Twente",
+        "escudo_actual": "/escudos/paises_bajos/twente/FC_Twente_logo2006-actual.webp"
+    },
+    "historia": [
+        {
+            "ano": "1965",
+            "hito": "La Gran Fusión de Enschede",
+            "desc": "El FC Twente fue fundado oficialmente el 1 de julio de 1965 en la ciudad de Enschede. Su nacimiento fue el resultado de una histórica y tensa fusión entre dos enconados rivales locales: el Sportclub Enschede y el Enschedese Boys. La ambiciosa iniciativa fue impulsada por visionarios dirigentes como Cor Hilbrink y Henk Olijve, quienes comprendieron que la única forma de evitar la quiebra y mantener a la región compitiendo contra los gigantes del oeste era unificando fuerzas. Adoptaron el color rojo intenso para romper con los colores de sus predecesores y se instalaron en el Diekman Stadion."
+        },
+        {
+            "ano": "1974-1975",
+            "hito": "El Asalto a Europa",
+            "desc": "Bajo la dirección del legendario entrenador Antoine Kohn y liderados en el campo por el icónico defensor Epi Drost, el equipo experimentó una década dorada en los setenta. La cumbre de esta generación llegó en la temporada 1974-1975 de la Copa de la UEFA. Con una defensa de hierro, el Twente superó a potencias europeas como la Juventus de Turín en semifinales, alcanzando la gran final continental. Aunque terminaron cayendo ante el poderoso Borussia Mönchengladbach alemán, aquella campaña consagró al club en el escenario internacional."
+        },
+        {
+            "ano": "1977-2001",
+            "hito": "Los Reyes de Copas y la Resiliencia",
+            "desc": "Mientras el club se establecía como un clásico de la primera división, forjó su mística copera al conquistar la Copa de los Países Bajos (KNVB Beker) en 1977, venciendo al PEC Zwolle. Décadas más tarde, tras sobrevivir a severas crisis económicas en los años noventa y abandonar el viejo Diekman para mudarse al moderno Arke Stadion (hoy De Grolsch Veste), el equipo reverdeció laureles ganando su segunda Copa en 2001 tras una dramática tanda de penales frente al PSV Eindhoven."
+        },
+        {
+            "ano": "2010",
+            "hito": "La Conquista Histórica de la Eredivisie",
+            "desc": "El 2 de mayo de 2010 quedó grabado para siempre en la historia de Enschede. Bajo la dirección táctica del inglés Steve McClaren y comandados en ataque por figuras como Bryan Ruiz y el goleador Blaise Nkufo, el Twente logró lo impensado: romper la hegemonía de los tres gigantes históricos (Ajax, PSV y Feyenoord). Con una victoria por 2-0 ante el NAC Breda en la última jornada, se coronaron campeones de la Eredivisie por primera y única vez en su historia, desatando festejos sin precedentes en toda la región de Overijssel."
+        },
+        {
+            "ano": "2018-2024",
+            "hito": "Debacle Financiera y Resurrección",
+            "desc": "Tras alcanzar la cima del fútbol neerlandés, el club sufrió una dramática crisis financiera provocada por malos manejos administrativos que casi lo empujan a la bancarrota y derivaron en su doloroso descenso a segunda división en 2018. Sin embargo, sostenido incondicionalmente por su inmensa masa social, el FC Twente logró estabilizar sus cuentas y concretar su regreso inmediato a la Eredivisie en 2019. Su resiliencia se coronó definitivamente en la temporada 2023-2024 cuando el equipo alcanzó los puestos de clasificación a la UEFA Champions League, devolviéndole la gloria continental a la región."
+        }
+    ],
+    "canchas": [
+        {
+            "nombre": "De Grolsch Veste",
+            "capacidad": "30.205",
+            "inauguracion": "10 de mayo de 1998",
+            "url": "https://www.google.com/maps/place/De+Grolsch+Veste/@52.2366114,6.8349251,17z/data=!3m1!4b1!4m6!3m5!1s0x47b81467bd9f0cb1:0xec9ab9630c793ff6!8m2!3d52.2366114!4d6.8375!16zL20vMDd2MWwy",
+            "direccion": "Colosseum 65, 7521 PP Enschede, Países Bajos",
+            "descripcion": "Inaugurado originalmente como 'Arke Stadion', es una imponente fortaleza moderna conocida por su atmósfera ensordecedora y la extrema cercanía de las gradas al campo. En 2011 sufrió una tragedia durante unas obras de ampliación cuando el colapso del techo causó víctimas fatales, un suceso que marcó profundamente la historia de la ciudad y que es conmemorado anualmente en el estadio.",
+            "lat": 52.2366,
+            "lng": 6.8375,
+            "epoca": "1998 - Presente"
+        },
+        {
+            "nombre": "Diekman Stadion",
+            "capacidad": "13.500 (Original 22.000)",
+            "inauguracion": "1956",
+            "url": "https://www.google.com/maps/place/Stadion+Het+Diekman,+Enschede,+Pa%C3%ADses+Bajos/@52.20917,6.91417,17z/data=!3m1!4b1!4m5!3m4!1s0x47b8137f2a1b9d79:0x8ab9c7f1a5d4e1a!8m2!3d52.20917!4d6.91417",
+            "direccion": "J.J. van Deinselaan 28, 7541 BR Enschede, Países Bajos",
+            "descripcion": "El vetusto y nostálgico recinto original que albergó al club desde su fusión en 1965. Con su característica pista de atletismo, fue testigo presencial de las grandes epopeyas europeas de la década de los setenta. Quedó completamente obsoleto para las exigencias modernas y fue demolido tras la mudanza al nuevo estadio en 1998.",
+            "lat": 52.20917,
+            "lng": 6.91417,
+            "epoca": "1956 - 1998"
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1965,
+            "hasta": 1967,
+            "c1": "#d30e15",
+            "c2": "#d30e15",
+            "sh": "#ffffff",
+            "me": "#d30e15",
+            "tipo": "liso",
+            "desc": "Tras la conflictiva fusión que dio origen al club, la directiva decidió utilizar camisetas color rojo liso para no herir susceptibilidades usando los colores negro o verde de sus clubes predecesores. Durante los primeros dos años, combinaron esta camiseta roja con pantalones blancos."
+        },
+        {
+            "desde": 1967,
+            "hasta": null,
+            "c1": "#d30e15",
+            "c2": "#d30e15",
+            "sh": "#d30e15",
+            "me": "#d30e15",
+            "tipo": "liso",
+            "desc": "Poco después de su fundación, el club mutó a una estética inconfundiblemente monocromática que impone un fuerte impacto visual: camiseta, pantalones y medias en color rojo intenso continuo ('all red'). Esta decisión cromática forjó definitivamente una identidad visual puramente 'Tukker', diferenciándolos radicalmente de las tradicionales camisetas a franjas o combinadas del resto de los clubes neerlandeses."
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Sander Boschker",
+            "pos": "Arquero",
+            "desc": "Guardameta que defendió el arco de la institución a lo largo de tres décadas diferentes. Acumuló el récord absoluto de más de 600 presencias oficiales, convirtiéndose en el símbolo institucional por excelencia.",
+            "epoca": "1989-2003 / 2004-2014",
+            "apodo": "El Muro de Enschede",
+            "goles": "0",
+            "partidos": "696"
+        },
+        {
+            "nombre": "Epi Drost",
+            "pos": "Defensor",
+            "desc": "Defensor histórico y legendario líbero que definió toda una era en Enschede, sumando cientos de presencias y ganándose el mote de Mister Twente por su inquebrantable lealtad al club.",
+            "epoca": "1966-1980",
+            "apodo": "Epi",
+            "goles": "13",
+            "partidos": "423"
+        },
+        {
+            "nombre": "Blaise Nkufo",
+            "pos": "Delantero",
+            "desc": "Delantero centro internacional suizo que se estableció como el máximo goleador histórico del club en la liga. Su constancia anotadora durante siete temporadas culminó con el título de la Eredivisie en 2010.",
+            "epoca": "2003-2010",
+            "apodo": "La Bestia Suiza",
+            "goles": "114",
+            "partidos": "223"
+        },
+        {
+            "nombre": "Bryan Ruiz",
+            "pos": "Mediocampista",
+            "desc": "Atacante costarricense que tuvo un impacto inmediato en el rendimiento del plantel. Sus 24 anotaciones durante la campaña 2009-2010, muchas de ellas definiendo partidos cerrados, fueron determinantes para el campeonato.",
+            "epoca": "2009-2011",
+            "apodo": "La Comadreja",
+            "goles": "35",
+            "partidos": "65"
+        },
+        {
+            "nombre": "Wout Brama",
+            "pos": "Mediocampista",
+            "desc": "El gran emblema moderno del mediocampo. Se consagró campeón de liga en 2010 y regresó años después para liderar al equipo en sus momentos de reconstrucción institucional.",
+            "epoca": "2005-2014 / 2018-2023",
+            "apodo": "",
+            "goles": "9",
+            "partidos": "395"
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "nombre": "Blaise Nkufo",
+            "goles": "114",
+            "partidos": "223",
+            "epoca": "2003-2010",
+            "apodo": "La Bestia Suiza"
+        },
+        {
+            "nombre": "Jan Jeuring",
+            "goles": "103",
+            "partidos": "326",
+            "epoca": "1966-1977",
+            "apodo": ""
+        },
+        {
+            "nombre": "Luuk de Jong",
+            "goles": "59",
+            "partidos": "120",
+            "epoca": "2009-2012",
+            "apodo": ""
+        },
+        {
+            "nombre": "René van de Kerkhof",
+            "goles": "34",
+            "partidos": "99",
+            "epoca": "1970-1973",
+            "apodo": ""
+        },
+        {
+            "nombre": "Marc Janko",
+            "goles": "29",
+            "partidos": "61",
+            "epoca": "2010-2012",
+            "apodo": ""
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "nombre": "Sander Boschker",
+            "partidos": "696",
+            "epoca": "1989-2014",
+            "apodo": "El Muro de Enschede",
+            "goles": "0"
+        },
+        {
+            "nombre": "Epi Drost",
+            "partidos": "423",
+            "epoca": "1966-1980",
+            "apodo": "Epi",
+            "goles": "13"
+        },
+        {
+            "nombre": "Wout Brama",
+            "partidos": "395",
+            "epoca": "2005-2023",
+            "apodo": "",
+            "goles": "9"
+        },
+        {
+            "nombre": "Kick van der Vall",
+            "partidos": "352",
+            "epoca": "1967-1979",
+            "apodo": "",
+            "goles": "59"
+        },
+        {
+            "nombre": "Jeroen Heubach",
+            "partidos": "273",
+            "epoca": "1994-2010",
+            "apodo": "",
+            "goles": "2"
+        }
+    ],
+    "titulos": [
+        {
+            "nombre": "Eredivisie",
+            "cantidad": 1,
+            "anios": [
+                "2009-10"
+            ]
+        },
+        {
+            "nombre": "Copa KNVB",
+            "cantidad": 3,
+            "anios": [
+                "1976-77",
+                "2000-01",
+                "2010-11"
+            ]
+        },
+        {
+            "nombre": "Johan Cruyff Shield",
+            "cantidad": 2,
+            "anios": [
+                "2010",
+                "2011"
+            ]
+        }
+    ],
+    "evolucion_escudos": [
+        {
+            "ano": "1965-1979",
+            "url": "/escudos/paises_bajos/twente/FC_Twente_logo_1965-1979.webp"
+        },
+        {
+            "ano": "1979-1995",
+            "url": "/escudos/paises_bajos/twente/FC_Twente_1979-1995.webp"
+        },
+        {
+            "ano": "1995-2006",
+            "url": "/escudos/paises_bajos/twente/FC_Twente_logo_1995-2006.webp"
+        },
+        {
+            "ano": "Actualidad",
+            "url": "/escudos/paises_bajos/twente/FC_Twente_logo2006-actual.webp"
+        }
+    ],
+    "origen_apodos": [
+        {
+            "apodo": "Los Tukkers (De Tukkers)",
+            "origen": "Tukker es un término popular histórico utilizado para referirse a los habitantes de la región de Twente, en el este de los Países Bajos. Originalmente tenía connotaciones campesinas o rurales para la gente del oeste del país, pero los habitantes de Enschede lo adoptaron como un símbolo absoluto de orgullo local. Hoy en día, ser un 'Tukker' es sinónimo de lealtad, trabajo duro y pasión por el FC Twente."
+        },
+        {
+            "apodo": "Los Rojos (De Reds)",
+            "origen": "Al momento de la fundación del club en 1965 tras la fusión del Sportclub Enschede (que vestía de negro y verde) y el Enschedese Boys (verde y blanco), la directiva decidió que el nuevo equipo debía usar un color completamente diferente para evitar conflictos y favoritismos. Se eligió el rojo intenso ('all red'), color que se convirtió en su marca registrada inconfundible y dio origen a este apodo."
+        }
+    ],
+    "historial": [
+        {
+            "equipo": "Ajax",
+            "pj": 142,
+            "g": 28,
+            "e": 32,
+            "p": 82
+        },
+        {
+            "equipo": "AZ Alkmaar",
+            "pj": 96,
+            "g": 40,
+            "e": 23,
+            "p": 33
+        },
+        {
+            "equipo": "Excelsior",
+            "pj": 46,
+            "g": 23,
+            "e": 13,
+            "p": 10
+        },
+        {
+            "equipo": "Feyenoord",
+            "pj": 114,
+            "g": 26,
+            "e": 34,
+            "p": 54
+        },
+        {
+            "equipo": "Fortuna Sittard",
+            "pj": 64,
+            "g": 37,
+            "e": 13,
+            "p": 14
+        },
+        {
+            "equipo": "Go Ahead Eagles",
+            "pj": 70,
+            "g": 33,
+            "e": 18,
+            "p": 19
+        },
+        {
+            "equipo": "FC Groningen",
+            "pj": 104,
+            "g": 44,
+            "e": 31,
+            "p": 29
+        },
+        {
+            "equipo": "SC Heerenveen",
+            "pj": 78,
+            "g": 36,
+            "e": 18,
+            "p": 24
+        },
+        {
+            "equipo": "Heracles Almelo",
+            "pj": 46,
+            "g": 27,
+            "e": 11,
+            "p": 8
+        },
+        {
+            "equipo": "NAC Breda",
+            "pj": 96,
+            "g": 44,
+            "e": 23,
+            "p": 29
+        },
+        {
+            "equipo": "NEC Nijmegen",
+            "pj": 90,
+            "g": 40,
+            "e": 22,
+            "p": 28
+        },
+        {
+            "equipo": "PEC Zwolle",
+            "pj": 52,
+            "g": 24,
+            "e": 16,
+            "p": 12
+        },
+        {
+            "equipo": "PSV",
+            "pj": 136,
+            "g": 27,
+            "e": 46,
+            "p": 63
+        },
+        {
+            "equipo": "Sparta Rotterdam",
+            "pj": 114,
+            "g": 50,
+            "e": 31,
+            "p": 33
+        },
+        {
+            "equipo": "Telstar",
+            "pj": 46,
+            "g": 23,
+            "e": 13,
+            "p": 10
+        },
+        {
+            "equipo": "FC Utrecht",
+            "pj": 114,
+            "g": 50,
+            "e": 32,
+            "p": 32
+        },
+        {
+            "equipo": "FC Volendam",
+            "pj": 64,
+            "g": 33,
+            "e": 16,
+            "p": 15
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "id": "pec-zwolle",
+    "meta": {
+        "etiquetas": [
+            "paises_bajos",
+            "eredivisie",
+            "pec zwolle"
+        ]
+    },
+    "datos": {
+        "nombre_completo": "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+        "sigla": "",
+        "fundacion": "12 de junio de 1910",
+        "apodo": "Los Dedos Azules (Blauwvingers)",
+        "estadio_actual": "MAC³PARK stadion",
+        "estadio_apodo": "",
+        "estadio_capacidad": 14000,
+        "estadio_inauguracion": "2009",
+        "estadio_lat": 52.5161,
+        "estadio_lng": 6.1133,
+        "estadio_direccion": "Stadionplein 1, 8025 CP Zwolle, Países Bajos",
+        "socios": 6000,
+        "descripcion_corta": "Reconocidos en el país por la filosofía estética de su fútbol ofensivo y por ser los artífices de una de las palizas más humillantes en la historia de las finales holandesas contra el Ajax.",
+        "paleta": [
+            {
+                "tag": "Azul",
+                "hex": "#005baa"
+            },
+            {
+                "tag": "Blanco",
+                "hex": "#ffffff"
+            }
+        ],
+        "records": {
+            "maximo_goleador": "Leo Koopman (127 goles)",
+            "mas_presencias": "Bram van Polen (512 partidos)",
+            "mayor_goleada": "8-0 vs Vitesse (Eredivisie 1981/82)"
+        },
+        "nombre_oficial": "PEC Zwolle",
+        "nombre_corto": "PEC Zwolle",
+        "escudo_actual": "/escudos/paises_bajos/pec-zwolle/PEC_Zwolle_logo2012-actual.svg"
+    },
+    "historia": [
+        {
+            "ano": "1910",
+            "hito": "La Fusión Fundacional en Hotel Koenders",
+            "desc": "El club nació formalmente el 12 de junio de 1910 en el céntrico Hotel Koenders de Zwolle. Fue el producto de una fusión estratégica entre dos entidades amateur de la ciudad: Prins Hendrik (fundado en 1906 por la clase media) y Ende Desespereert Nimmer (creado en 1904 por trabajadores ferroviarios). Tras un intenso debate donde ninguna parte quería perder su identidad, el directivo Henk Steen propuso la solución salomónica: combinar ambos nombres bajo el acrónimo PEC (Prins Hendrik Ende Desespereert Nimmer Combinatie), uniendo a la ciudad para siempre."
+        },
+        {
+            "ano": "1955",
+            "hito": "El Ingreso al Profesionalismo",
+            "desc": "Tras décadas compitiendo en el amateurismo y tras el establecimiento del fútbol profesional en los Países Bajos por parte de la KNVB, el PEC Zwolle dio el salto de calidad en 1955. La transición profesional estuvo marcada por la letalidad de su histórico delantero Leo Koopman y por la mudanza y consolidación definitiva en su emblemático estadio, el Oosterenkstadion."
+        },
+        {
+            "ano": "1982",
+            "hito": "La Mayor Goleada Histórica",
+            "desc": "La década de los 80 trajo consigo momentos de gran vistosidad en el juego ofensivo del equipo, cimentando su reputación de fútbol alegre. El punto cumbre de esta era se registró durante la temporada de Eredivisie 1981-1982, cuando el equipo le propinó un histórico e inolvidable 8-0 al Vitesse, estableciendo la mayor goleada a favor en la historia de la institución."
+        },
+        {
+            "ano": "2014",
+            "hito": "La Paliza Histórica al Ajax",
+            "desc": "La temporada 2013-2014 consagró el capítulo más brillante en la historia deportiva del club. Comandados por Ron Jans, el plantel alcanzó la final de la Copa de los Países Bajos (KNVB Beker). En el partido definitorio disputado en Róterdam, el PEC Zwolle ofreció una exhibición magistral al aplastar sorpresivamente al todopoderoso Ajax por 5-1, agenciándose su primer título mayor."
+        },
+        {
+            "ano": "2014",
+            "hito": "Supercopa y Europa League",
+            "desc": "La inercia ganadora de la Copa Nacional le permitió al club disputar la Supercopa Johan Cruyff ese mismo año, derrotando nuevamente al Ajax (1-0). Este doblete histórico no solo llenó sus vitrinas por primera vez, sino que le otorgó el pasaporte directo para debutar en las competiciones continentales de la UEFA Europa League, escribiendo su nombre en el plano internacional."
+        }
+    ],
+    "canchas": [
+        {
+            "nombre": "MAC³PARK stadion",
+            "capacidad": 14000,
+            "desde": "29 de agosto de 2009",
+            "hasta": "Presente",
+            "estado": "Activo",
+            "url": "https://www.google.com/maps/place/MAC3PARK+stadion/@52.5161,6.1111,17z",
+            "direccion": "Stadionplein 1, Zwolle",
+            "obs": "Arena moderna, compacta e íntima que reemplazó al mítico y obsoleto Oosterenkstadion. Destaca en la liga por el uso histórico de césped artificial y por la acústica cerrada de sus gradas.",
+            "lat": 52.5161,
+            "lng": 6.1133
+        },
+        {
+            "nombre": "Oosterenkstadion",
+            "capacidad": "12.500",
+            "desde": 1934,
+            "hasta": 2009,
+            "estado": "Demolido",
+            "url": "https://www.google.com/maps/search/Oosterenkstadion+Zwolle/",
+            "direccion": "Oosterenk, Zwolle",
+            "obs": "El legendario templo a cielo abierto que sirvió como hogar del equipo durante 75 años ininterrumpidos. Fue testigo del ingreso al profesionalismo del club y albergó a varias generaciones de hinchas antes de ser desmantelado.",
+            "lat": 52.515,
+            "lng": 6.11
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1910,
+            "hasta": 1990,
+            "c1": "#008a38",
+            "c2": "#ffffff",
+            "sh": "#000000",
+            "me": "#008a38",
+            "tipo": "liso",
+            "desc": "Durante sus primeros 80 años de vida, la institución original (PEC) vistió histórica y tradicionalmente de color verde y blanco, acompañados normalmente por pantalones negros. Estos fueron los colores que forjaron la identidad inicial del club antes de la gran crisis financiera."
+        },
+        {
+            "desde": 1990,
+            "hasta": null,
+            "c1": "#ffffff",
+            "c2": "#005baa",
+            "sh": "#005baa",
+            "me": "#ffffff",
+            "tipo": "rayas-horizontales",
+            "desc": "Tras la quiebra institucional en 1990 y la posterior refundación bajo el nombre 'FC Zwolle', la directiva decidió cortar de raíz con el pasado verde. Adoptaron un diseño único en la Eredivisie: una llamativa camiseta a franjas horizontales (tipo aros) en azul brillante y blanco, colores que mantuvieron incluso tras recuperar el nombre PEC Zwolle en 2012."
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Bram van Polen",
+            "pos": "Defensor",
+            "desc": "Defensor lateral derecho considerado el símbolo institucional contemporáneo absoluto. Consolidó una estadía ininterrumpida de más de 15 temporadas asumiendo el rol de gran capitán.",
+            "epoca": "2007-2024",
+            "apodo": "Bram",
+            "goles": "34",
+            "partidos": "512"
+        },
+        {
+            "nombre": "Leo Koopman",
+            "pos": "Delantero",
+            "desc": "El artillero más temible y letal en toda la historia de la institución. Fue la gran figura durante el ingreso al profesionalismo marcando una era al acumular más de 127 goles oficiales.",
+            "epoca": "1955-1965",
+            "apodo": "",
+            "goles": "127",
+            "partidos": "150"
+        },
+        {
+            "nombre": "Ron Jans",
+            "pos": "Entrenador",
+            "desc": "Figura integral en la historia de la institución. Lideró tácticamente al plantel que obtuvo la histórica Copa Nacional de 2014, marcando la era más ganadora del club.",
+            "epoca": "2013-2017",
+            "apodo": "El Profesor",
+            "goles": "0",
+            "partidos": "0"
+        },
+        {
+            "nombre": "Albert van der Haar",
+            "pos": "Defensor",
+            "desc": "Lateral izquierdo histórico de la institución. Sumó casi 400 partidos formales defendiendo al equipo y se retiró como una auténtica leyenda local y modelo a seguir.",
+            "epoca": "1994-2001 / 2004-2011",
+            "apodo": "",
+            "goles": "26",
+            "partidos": "395"
+        },
+        {
+            "nombre": "Ryan Thomas",
+            "pos": "Mediocampista",
+            "desc": "Talentoso volante neozelandés que fue el motor creativo en la histórica conquista de la Copa KNVB de 2014, marcando diferencias con su dinámica y visión.",
+            "epoca": "2013-2018 / 2022-2024",
+            "apodo": "",
+            "goles": "10",
+            "partidos": "140"
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "nombre": "Leo Koopman",
+            "goles": "127",
+            "partidos": "150",
+            "epoca": "1955-1965",
+            "apodo": ""
+        },
+        {
+            "nombre": "Lennart Thy",
+            "goles": "40",
+            "partidos": "100",
+            "epoca": "2019-2020 / 2022-2024",
+            "apodo": ""
+        },
+        {
+            "nombre": "Bram van Polen",
+            "goles": "34",
+            "partidos": "512",
+            "epoca": "2007-2024",
+            "apodo": "Bram"
+        },
+        {
+            "nombre": "Sjoerd Ars",
+            "goles": "28",
+            "partidos": "34",
+            "epoca": "2010-2011",
+            "apodo": ""
+        },
+        {
+            "nombre": "Thomas van den Belt",
+            "goles": "16",
+            "partidos": "75",
+            "epoca": "2020-2023",
+            "apodo": ""
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "nombre": "Bram van Polen",
+            "partidos": "512",
+            "epoca": "2007-2024",
+            "apodo": "Bram",
+            "goles": "34"
+        },
+        {
+            "nombre": "Albert van der Haar",
+            "partidos": "395",
+            "epoca": "1994-2011",
+            "apodo": "",
+            "goles": "26"
+        },
+        {
+            "nombre": "Diederik Boer",
+            "partidos": "380",
+            "epoca": "2001-2014 / 2017-2019",
+            "apodo": "",
+            "goles": "0"
+        },
+        {
+            "nombre": "Mustafa Saymak",
+            "partidos": "250",
+            "epoca": "2011-2018 / 2020-2022",
+            "apodo": "",
+            "goles": "20"
+        },
+        {
+            "nombre": "Pelle Clement",
+            "partidos": "120",
+            "epoca": "2019-2022",
+            "apodo": "",
+            "goles": "5"
+        }
+    ],
+    "titulos": [
+        {
+            "nombre": "Copa KNVB",
+            "cantidad": 1,
+            "anios": [
+                "2013-14"
+            ]
+        },
+        {
+            "nombre": "Johan Cruyff Shield",
+            "cantidad": 1,
+            "anios": [
+                "2014"
+            ]
+        }
+    ],
+    "evolucion_escudos": [
+        {
+            "ano": "1970-1990",
+            "url": "/escudos/paises_bajos/pec-zwolle/PEC_Zwolle1970-1990.svg"
+        },
+        {
+            "ano": "1990-2012",
+            "url": "/escudos/paises_bajos/pec-zwolle/FC_Zwolle_logo1990-2012.svg"
+        },
+        {
+            "ano": "Actualidad",
+            "url": "/escudos/paises_bajos/pec-zwolle/PEC_Zwolle_logo2012-actual.svg"
+        }
+    ],
+    "origen_apodos": [
+        {
+            "apodo": "Los Dedos Azules (Blauwvingers)",
+            "origen": "Proviene de una famosa leyenda medieval entre las ciudades rivales de Zwolle y Kampen. Cuentan que Kampen le vendió a Zwolle una campana para la iglesia, pero Zwolle se vengó pagándole enteramente con las monedas de cobre de menor denominación existentes. Al tener que contar tal volumen monumental de monedas baratas, los habitantes de Kampen terminaron con los 'dedos azules', apodo que luego adoptó orgullosamente el club de Zwolle como identidad."
+        }
+    ],
+    "historial": [
+        {
+            "equipo": "Ajax",
+            "pj": 49,
+            "g": 4,
+            "e": 7,
+            "p": 38
+        },
+        {
+            "equipo": "AZ Alkmaar",
+            "pj": 46,
+            "g": 9,
+            "e": 13,
+            "p": 24
+        },
+        {
+            "equipo": "Excelsior",
+            "pj": 48,
+            "g": 19,
+            "e": 14,
+            "p": 15
+        },
+        {
+            "equipo": "Feyenoord",
+            "pj": 48,
+            "g": 6,
+            "e": 8,
+            "p": 34
+        },
+        {
+            "equipo": "Fortuna Sittard",
+            "pj": 52,
+            "g": 23,
+            "e": 11,
+            "p": 18
+        },
+        {
+            "equipo": "Go Ahead Eagles",
+            "pj": 96,
+            "g": 32,
+            "e": 23,
+            "p": 41
+        },
+        {
+            "equipo": "FC Groningen",
+            "pj": 50,
+            "g": 14,
+            "e": 14,
+            "p": 22
+        },
+        {
+            "equipo": "SC Heerenveen",
+            "pj": 50,
+            "g": 15,
+            "e": 11,
+            "p": 24
+        },
+        {
+            "equipo": "Heracles Almelo",
+            "pj": 60,
+            "g": 24,
+            "e": 14,
+            "p": 22
+        },
+        {
+            "equipo": "NAC Breda",
+            "pj": 58,
+            "g": 17,
+            "e": 18,
+            "p": 23
+        },
+        {
+            "equipo": "NEC Nijmegen",
+            "pj": 78,
+            "g": 26,
+            "e": 23,
+            "p": 29
+        },
+        {
+            "equipo": "PSV",
+            "pj": 52,
+            "g": 6,
+            "e": 7,
+            "p": 39
+        },
+        {
+            "equipo": "Sparta Rotterdam",
+            "pj": 52,
+            "g": 15,
+            "e": 14,
+            "p": 23
+        },
+        {
+            "equipo": "Telstar",
+            "pj": 52,
+            "g": 22,
+            "e": 14,
+            "p": 16
+        },
+        {
+            "equipo": "FC Twente",
+            "pj": 52,
+            "g": 12,
+            "e": 16,
+            "p": 24
+        },
+        {
+            "equipo": "FC Utrecht",
+            "pj": 52,
+            "g": 11,
+            "e": 18,
+            "p": 23
+        },
+        {
+            "equipo": "FC Volendam",
+            "pj": 52,
+            "g": 19,
+            "e": 14,
+            "p": 19
+        }
+    ]
+}

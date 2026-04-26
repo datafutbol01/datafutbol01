@@ -155,7 +155,7 @@ export default function Home() {
 
     // 4. Búsqueda por "Términos Genéricos" (Historiales, Posiciones)
     if (q.includes('historial') || q.includes('enfrentamiento')) {
-       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'champions'];
+       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'champions'];
        topLeagues.forEach(lId => {
           const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
           if (leagueObj) {
@@ -173,7 +173,7 @@ export default function Home() {
     }
 
     if (q.includes('posicion') || q.includes('tabla')) {
-       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'arg_nacional_b'];
+       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'arg_nacional_b'];
        topLeagues.forEach(lId => {
           const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
           if (leagueObj) {

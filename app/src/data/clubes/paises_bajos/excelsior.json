@@ -1,0 +1,390 @@
+{
+    "id": "excelsior",
+    "meta": {
+        "etiquetas": [
+            "paises_bajos",
+            "eredivisie",
+            "excelsior"
+        ]
+    },
+    "datos": {
+        "nombre_completo": "Stichting Betaald Voetbal Excelsior",
+        "sigla": "",
+        "fundacion": "23 de julio de 1902",
+        "apodo": "Los Kralingers (Kralingers), Papeleros (Oudpapierboeren)",
+        "estadio_actual": "Van Donge & De Roo Stadion (Woudestein)",
+        "estadio_apodo": "Woudestein",
+        "estadio_capacidad": 4500,
+        "estadio_inauguracion": "1902",
+        "estadio_lat": 51.9183,
+        "estadio_lng": 4.5169,
+        "estadio_direccion": "Honingerdijk 110, 3062 NX Rotterdam, Países Bajos",
+        "socios": 3500,
+        "descripcion_corta": "El persistente tercer club de Róterdam. Conocido por su espíritu de lucha en la zona baja de la tabla y su histórico estadio boutique con césped artificial.",
+        "paleta": [
+            {
+                "tag": "Negro",
+                "hex": "#000000"
+            },
+            {
+                "tag": "Rojo",
+                "hex": "#e30613"
+            }
+        ],
+        "records": {
+            "maximo_goleador": "Cees Schapendonk (110 goles)",
+            "mas_presencias": "Luigi Bruins (248 partidos)",
+            "mayor_goleada": "7-1 vs FC Volendam (Eredivisie 1984/85)"
+        },
+        "nombre_oficial": "Excelsior Rotterdam",
+        "nombre_corto": "Excelsior",
+        "escudo_actual": "/escudos/paises_bajos/excelsior/Excelsior_rotterdam_2021-actual.webp"
+    },
+    "historia": [
+        {
+            "ano": "1902",
+            "hito": "Formación en Kralingen",
+            "desc": "La organización deportiva Rotterdamse Voetbal en Atletiek Vereniging Excelsior se constituyó el 23 de julio de 1902 por un grupo de jóvenes amigos encabezados por Guy de Rover en el distrito de Kralingen. Nacido como un club de perfil humilde en comparación a sus masivos vecinos del Sparta y el Feyenoord, la entidad forjó una identidad comunitaria muy fuerte. Fue uno de los primeros equipos del país en contar con tribunas cubiertas para sus simpatizantes en el antiguo estadio Woudestein, consolidándose como el principal representante de la clase obrera de su vecindario."
+        },
+        {
+            "ano": "1930",
+            "hito": "Finalista de la Copa Nacional",
+            "desc": "A pesar de su estructura predominantemente amateur, el equipo estructuró una campaña histórica durante la Copa de los Países Bajos (KNVB Beker) de 1930. El plantel superó múltiples instancias eliminatorias hasta alcanzar la gran final del certamen. En el partido decisivo se enfrentó a su vecino y principal potencia de la ciudad, el Feyenoord, cayendo derrotado pero estableciendo el primer gran hito de competitividad a nivel nacional en la historia de la institución."
+        },
+        {
+            "ano": "1974-1987",
+            "hito": "Los Primeros Años Profesionales",
+            "desc": "Con la instauración del profesionalismo pleno en el fútbol neerlandés, el Excelsior asumió el rol de un club batallador y formador de talentos. En la temporada 1973-1974, la institución concretó su primer gran ascenso a la Eredivisie bajo la conducción de Thijs Libregts. Durante esta etapa y hasta finales de la década de 1980, el equipo osciló repetidamente entre la primera y segunda categoría, ganándose el apodo periodístico de 'El equipo ascensor' debido a su capacidad para reinventarse constantemente tras cada descenso."
+        },
+        {
+            "ano": "2006 y 2014",
+            "hito": "La Estabilización Moderna",
+            "desc": "Aprovechando un acuerdo de colaboración deportiva con el Feyenoord que le proveyó jóvenes talentos en calidad de préstamo (como Robin van Persie en sus divisiones inferiores), el club logró modernizarse estructuralmente. En la temporada 2005-2006 se coronó campeón de la Eerste Divisie logrando un ascenso directo. Años más tarde, tras un nuevo retorno a la élite en 2014, el club experimentó su etapa contemporánea más exitosa, permaneciendo cinco temporadas consecutivas en la máxima categoría (Eredivisie) por primera vez en su historia y consolidando a su estadio como un recinto inexpugnable para muchos visitantes."
+        },
+        {
+            "ano": "2022",
+            "hito": "Ascenso Épico a la Eredivisie",
+            "desc": "Tras descender en 2019, el club protagonizó una campaña memorable en la temporada 2021-2022 de la Eerste Divisie. Impulsados por una extraordinaria racha ofensiva del delantero Thijs Dallinga, quien anotó 32 goles, el Excelsior alcanzó los playoffs de ascenso. En una final dramática e inolvidable contra el ADO Den Haag, el equipo de Róterdam logró empatar el partido en los minutos finales de la prórroga para forzar los penales, imponiéndose luego en una infartante tanda (8-7) para concretar su heroico retorno a la máxima categoría del fútbol neerlandés."
+        }
+    ],
+    "canchas": [
+        {
+            "nombre": "Van Donge & De Roo Stadion",
+            "capacidad": "4.500",
+            "inauguracion": "1902",
+            "url": "https://www.google.com/maps/place/Van+Donge+%26+De+Roo+Stadion/@51.9183,4.5147,17z",
+            "direccion": "Honingerdijk 110, Róterdam",
+            "descripcion": "Históricamente conocido como Stadion Woudestein, es uno de los recintos más pequeños del fútbol profesional europeo. Fue uno de los primeros estadios de la liga en instalar césped artificial de manera permanente y es su hogar casi ininterrumpido desde su fundación.",
+            "lat": 51.9183,
+            "lng": 4.5147
+        },
+        {
+            "nombre": "Terrein Toepad",
+            "capacidad": "Desconocida",
+            "inauguracion": "1907",
+            "url": "https://www.google.com/maps/place/Toepad,+Rotterdam,+Pa%C3%ADses+Bajos/@51.911005,4.524458,17z",
+            "direccion": "Toepad, Róterdam",
+            "descripcion": "Terreno deportivo ubicado cerca del río Mosa. Excelsior se mudó aquí temporalmente en 1907 debido a regulaciones municipales sobre su predio original, disputando sus encuentros como local hasta que finalmente regresaron y se establecieron definitivamente en Woudestein en 1922.",
+            "lat": 51.911005,
+            "lng": 4.524458,
+            "epoca": "1907 - 1922"
+        }
+    ],
+    "equipacion": [
+        {
+            "desde": 1902,
+            "hasta": null,
+            "c1": "#000000",
+            "c2": "#e30613",
+            "sh": "#000000",
+            "me": "#000000",
+            "tipo": "liso",
+            "desc": "Los 'Roodzwarten' (Rojinegros) visten históricamente un sobrio uniforme de base predominantemente negra, adornado con finos detalles, bordes o acentos en rojo vivo. Esta elegancia oscura ha sido el sello visual inconfundible de los humildes guerreros de Kralingen frente a sus ruidosos rivales de la ciudad."
+        }
+    ],
+    "idolos": [
+        {
+            "nombre": "Luigi Bruins",
+            "pos": "Mediocampista",
+            "desc": "Volante ofensivo que desarrolló múltiples etapas profesionales en la entidad. Superó las 200 apariciones oficiales aportando volumen de juego y precisión en las acciones a balón parado.",
+            "epoca": "2005-2007 / 2014-2021",
+            "apodo": "El Arquitecto",
+            "goles": "27",
+            "partidos": "248"
+        },
+        {
+            "nombre": "Sander Fischer",
+            "pos": "Defensor",
+            "desc": "Defensor central que asumió la capitanía del equipo durante una de las etapas más estables del club. Lideró la retaguardia en el crucial ascenso de 2014 y aportó seguridad y goles de penal en la Eredivisie.",
+            "epoca": "2013-2016",
+            "apodo": "El Gran Capitán",
+            "goles": "4",
+            "partidos": "112"
+        },
+        {
+            "nombre": "Cees Schapendonk",
+            "pos": "Delantero",
+            "desc": "Centrodelantero letal que ostenta el récord como el máximo goleador histórico del club en el fútbol profesional con 110 anotaciones. Su extraordinario rendimiento individual fue el principal pilar ofensivo del equipo a principios de los años ochenta.",
+            "epoca": "1979-1982",
+            "apodo": "La Ametralladora",
+            "goles": "110",
+            "partidos": "150"
+        },
+        {
+            "nombre": "Ryan Koolwijk",
+            "pos": "Mediocampista",
+            "desc": "Mediocampista organizador que disputó más de 150 partidos con la institución. Su visión de juego y liderazgo en el centro del campo fueron esenciales durante las campañas de ascenso a la máxima categoría.",
+            "epoca": "2007-2011 / 2016-2019",
+            "apodo": "Ryan",
+            "goles": "14",
+            "partidos": "204"
+        },
+        {
+            "nombre": "Salomon Kalou",
+            "pos": "Delantero",
+            "desc": "Joven promesa marfileña que llegó cedido por el Feyenoord para ganar experiencia. Su impacto fue inmediato y devastador, anotando 15 goles en apenas 11 partidos, demostrando un nivel superlativo que precipitó su regreso a la élite europea.",
+            "epoca": "2003-2004",
+            "apodo": "La Gacela Marfileña",
+            "goles": "15",
+            "partidos": "11"
+        }
+    ],
+    "goleadores_historicos": [
+        {
+            "nombre": "Cees Schapendonk",
+            "goles": "110",
+            "partidos": "150",
+            "epoca": "1979-1982",
+            "apodo": "Cees"
+        },
+        {
+            "nombre": "Thijs Dallinga",
+            "goles": "32",
+            "partidos": "37",
+            "epoca": "2021-2022",
+            "apodo": ""
+        },
+        {
+            "nombre": "Tom van Weert",
+            "goles": "31",
+            "partidos": "70",
+            "epoca": "2014-2016",
+            "apodo": ""
+        },
+        {
+            "nombre": "Guyon Fernandez",
+            "goles": "28",
+            "partidos": "76",
+            "epoca": "2008-2011",
+            "apodo": ""
+        },
+        {
+            "nombre": "Luigi Bruins",
+            "goles": "27",
+            "partidos": "248",
+            "epoca": "2005-2021",
+            "apodo": "El Arquitecto"
+        }
+    ],
+    "presencias_historicas": [
+        {
+            "nombre": "Luigi Bruins",
+            "partidos": "248",
+            "epoca": "2005-2021",
+            "apodo": "El Arquitecto",
+            "goles": "27"
+        },
+        {
+            "nombre": "Ryan Koolwijk",
+            "partidos": "204",
+            "epoca": "2007-2019",
+            "apodo": "Ryan",
+            "goles": "14"
+        },
+        {
+            "nombre": "Jurgen Mattheij",
+            "partidos": "188",
+            "epoca": "2011-2019",
+            "apodo": "",
+            "goles": "8"
+        },
+        {
+            "nombre": "Kevin Vermeulen",
+            "partidos": "161",
+            "epoca": "2013-2018",
+            "apodo": "",
+            "goles": "13"
+        },
+        {
+            "nombre": "Rene van Dieren",
+            "partidos": "155",
+            "epoca": "1999-2005",
+            "apodo": "",
+            "goles": "1"
+        }
+    ],
+    "titulos": [
+        {
+            "nombre": "Eerste Divisie (2da División)",
+            "cantidad": 3,
+            "anios": [
+                "1973-74",
+                "1978-79",
+                "2005-06"
+            ]
+        }
+    ],
+    "evolucion_escudos": [
+        {
+            "ano": "1902-1985",
+            "url": "/escudos/paises_bajos/excelsior/SBV_Excelsior_1902-1985_logo.svg"
+        },
+        {
+            "ano": "1985-2002",
+            "url": "/escudos/paises_bajos/excelsior/SBV_Excelsior_1985-2002go.webp"
+        },
+        {
+            "ano": "2002-2021",
+            "url": "/escudos/paises_bajos/excelsior/SBV_Excelsior2002-2021.svg"
+        },
+        {
+            "ano": "2017-2018",
+            "url": "/escudos/paises_bajos/excelsior/2017-2018.webp"
+        },
+        {
+            "ano": "Actualidad",
+            "url": "/escudos/paises_bajos/excelsior/Excelsior_rotterdam_2021-actual.webp"
+        }
+    ],
+    "origen_apodos": [
+        {
+            "apodo": "Los Kralingers",
+            "origen": "El apodo deriva directamente de Kralingen, el tradicional barrio de Róterdam donde el club fue fundado y donde ha estado ubicado su histórico estadio a lo largo de toda su existencia. A diferencia del Feyenoord o el Sparta que tienen un alcance masivo o municipal, el Excelsior se enorgullece de su identidad netamente barrial y comunitaria."
+        },
+        {
+            "apodo": "Papeleros (Oudpapierboeren)",
+            "origen": "Durante los años económicamente más difíciles del club en el siglo XX, un grupo de hinchas voluntarios y directivos se dedicó a recorrer el vecindario recolectando papel viejo y cartón (Oud papier) para reciclarlo. El dinero obtenido de la venta de estos materiales reciclados se utilizó para pagar los gastos básicos y salvar al club de la bancarrota. Desde entonces, el apodo 'Papeleros' se convirtió en un símbolo de la resistencia de la clase trabajadora que fundó la institución."
+        }
+    ],
+    "historial": [
+        {
+            "equipo": "Ajax",
+            "pj": 53,
+            "g": 2,
+            "e": 9,
+            "p": 42
+        },
+        {
+            "equipo": "AZ Alkmaar",
+            "pj": 48,
+            "g": 12,
+            "e": 16,
+            "p": 20
+        },
+        {
+            "equipo": "Feyenoord",
+            "pj": 52,
+            "g": 8,
+            "e": 6,
+            "p": 38
+        },
+        {
+            "equipo": "Fortuna Sittard",
+            "pj": 58,
+            "g": 22,
+            "e": 16,
+            "p": 20
+        },
+        {
+            "equipo": "Go Ahead Eagles",
+            "pj": 64,
+            "g": 20,
+            "e": 18,
+            "p": 26
+        },
+        {
+            "equipo": "FC Groningen",
+            "pj": 46,
+            "g": 14,
+            "e": 14,
+            "p": 18
+        },
+        {
+            "equipo": "SC Heerenveen",
+            "pj": 46,
+            "g": 12,
+            "e": 8,
+            "p": 26
+        },
+        {
+            "equipo": "Heracles Almelo",
+            "pj": 44,
+            "g": 15,
+            "e": 8,
+            "p": 21
+        },
+        {
+            "equipo": "NAC Breda",
+            "pj": 70,
+            "g": 22,
+            "e": 18,
+            "p": 30
+        },
+        {
+            "equipo": "NEC Nijmegen",
+            "pj": 62,
+            "g": 15,
+            "e": 14,
+            "p": 33
+        },
+        {
+            "equipo": "PEC Zwolle",
+            "pj": 48,
+            "g": 15,
+            "e": 14,
+            "p": 19
+        },
+        {
+            "equipo": "PSV",
+            "pj": 50,
+            "g": 4,
+            "e": 6,
+            "p": 40
+        },
+        {
+            "equipo": "Sparta Rotterdam",
+            "pj": 64,
+            "g": 18,
+            "e": 14,
+            "p": 32
+        },
+        {
+            "equipo": "Telstar",
+            "pj": 72,
+            "g": 33,
+            "e": 18,
+            "p": 21
+        },
+        {
+            "equipo": "FC Twente",
+            "pj": 46,
+            "g": 10,
+            "e": 13,
+            "p": 23
+        },
+        {
+            "equipo": "FC Utrecht",
+            "pj": 50,
+            "g": 9,
+            "e": 14,
+            "p": 27
+        },
+        {
+            "equipo": "FC Volendam",
+            "pj": 78,
+            "g": 28,
+            "e": 16,
+            "p": 34
+        }
+    ]
+}

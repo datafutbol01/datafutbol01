@@ -11,7 +11,7 @@ const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
 const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 const paisesBajosModules = import.meta.glob('./clubes/paises_bajos/*.json', { eager: true });
-
+// Vite reload trigger
 import CryptoJS from 'crypto-js';
 
 const SECRET_KEY = "D4t4Fub0l_N1nj4_P4ss_2026";

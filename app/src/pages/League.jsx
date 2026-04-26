@@ -67,6 +67,7 @@ export default function League() {
     'dfb_pokal': 81,
     'copa_argentina': 130,
     'eredivisie': 88,
+    'paises_bajos': 88,
     'coppa_italia': 137,
     'fa_cup': 45
   };
@@ -384,6 +385,7 @@ export default function League() {
       else if (leagueId === 'escocia') setActiveTorneoTab('scottish_league');
       else if (leagueId === 'uruguay') setActiveTorneoTab('campeonato_uruguayo');
       else if (leagueId === 'brasil') setActiveTorneoTab('brasileirao');
+      else if (leagueId === 'paises_bajos') setActiveTorneoTab('eredivisie');
       else setActiveTorneoTab('metropolitano');
   }, [leagueId]);
   
@@ -454,6 +456,11 @@ export default function League() {
           if (activeTorneoTab === 'brasileirao') return name.includes('série a') || name.includes('brasileiro') || name.includes('taça brasil') || name.includes('roberto gomes') || name.includes('nacional de clubes') || name.includes('copa brasil') || name.includes('taça de ouro') || name.includes('joão havelange');
           if (activeTorneoTab === 'copa_do_brasil') return name.includes('copa do brasil');
           if (activeTorneoTab === 'supercopa_do_brasil') return name.includes('supercopa');
+      } else if (leagueId === 'paises_bajos') {
+          if (activeTorneoTab === 'eredivisie') return name.includes('eredivisie');
+          if (activeTorneoTab === 'hoofdklasse') return name.includes('campeonato');
+          if (activeTorneoTab === 'knvb_beker') return name.includes('knvb') || name.includes('beker') || name.includes('copa');
+          if (activeTorneoTab === 'johan_cruyff') return name.includes('johan cruyff') || name.includes('supercopa');
       } else {
           if (activeTorneoTab === 'copas') return name.includes('copa') || name.includes('superfinal') || name.includes('trofeo de campeones') || name.includes('honor');
           if (activeTorneoTab === 'nacional') return name.includes('nacional') && !name.includes('primera división') && !name.includes('internacional');
@@ -1290,6 +1297,21 @@ export default function League() {
                             Supercopa
                         </button>
                     </>
+                ) : leagueId === 'paises_bajos' ? (
+                    <>
+                        <button onClick={() => setActiveTorneoTab('eredivisie')} style={{ background: activeTorneoTab === 'eredivisie' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'eredivisie' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'eredivisie' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Eredivisie
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('hoofdklasse')} style={{ background: activeTorneoTab === 'hoofdklasse' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'hoofdklasse' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'hoofdklasse' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Camp. Neerlandés / Hoofdklasse
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('knvb_beker')} style={{ background: activeTorneoTab === 'knvb_beker' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'knvb_beker' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'knvb_beker' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            KNVB Beker
+                        </button>
+                        <button onClick={() => setActiveTorneoTab('johan_cruyff')} style={{ background: activeTorneoTab === 'johan_cruyff' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'johan_cruyff' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'johan_cruyff' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                            Johan Cruyff Schaal
+                        </button>
+                    </>
                 ) : (
                     <>
                         <button onClick={() => setActiveTorneoTab('metropolitano')} style={{ background: activeTorneoTab === 'metropolitano' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'metropolitano' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'metropolitano' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
@@ -1415,8 +1437,9 @@ export default function League() {
                                         // ITA
                                         "casale": "casale", "novese": "novese", "pro vercelli": "pro-vercelli", "sampdoria": "sampdoria", "vado": "vado", "venezia": "venezia", "vicenza": "vicenza",
                                         // GER
-                                        // GER
                                         "bayern munich": "bayern-munich", "borussia dortmund": "borussia-dortmund", "borussia monchengladbach": "borussia-monchengladbach", "borussia mönchengladbach": "borussia-monchengladbach", "werder bremen": "werder-bremen", "hamburger sv": "hamburger-sv", "vfb stuttgart": "vfb-stuttgart", "1. fc koln": "koln", "1. fc köln": "koln", "1. fc kaiserslautern": "kaiserslautern", "1. fc nurnberg": "nurnberg", "1. fc nürnberg": "nurnberg", "eintracht braunschweig": "eintracht-braunschweig", "1860 munich": "1860-munich", "vfl wolfsburg": "wolfsburg", "bayer leverkusen": "bayer-leverkusen", "schalke 04": "schalke-04", "rapid viena": "rapid-viena", "dresdner sc": "dresdner-sc", "first vienna": "first-vienna", "rot-weiss essen": "rot-weiss-essen", "karlsruher sc": "karlsruher-sc", "schwarz-weiß essen": "schwarz-weiss-essen", "kickers offenbach": "kickers-offenbach", "eintracht frankfurt": "eintracht-frankfurt", "fortuna dusseldorf": "fortuna-dusseldorf", "bayer uerdingen": "bayer-uerdingen", "hannover 96": "hannover-96", "rb leipzig": "rb-leipzig", "hertha bsc": "hertha-bsc", "vfb leipzig": "vfb-leipzig",
+                                        // NED
+                                        "psv eindhoven": "psv", "ajax amsterdam": "ajax", "feijenoord": "feyenoord", "heracles": "heracles-almelo", "go ahead eagles": "go-ahead-eagles", "twente": "twente", "az alkmaar": "az-alkmaar", "utrecht": "utrecht", "heerenveen": "heerenveen", "pec zwolle": "pec-zwolle", "fortuna sittard": "fortuna-sittard", "sparta rotterdam": "sparta-rotterdam", "nac breda": "nac-breda", "nec nijmegen": "nec-nijmegen", "excelsior": "excelsior", "volendam": "volendam", "groningen": "groningen",
                                         // ESC
                                         "3rd lanark rv": "third-lanark", "third lanark": "third-lanark", 
                                         "airdrie united": "airdrieonians", "airdrieonians (1878)": "airdrieonians", "airdrieonians": "airdrieonians",
