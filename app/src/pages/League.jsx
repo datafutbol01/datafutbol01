@@ -137,12 +137,22 @@ export default function League() {
                const dataFix = await resFix.json();
                if (dataFix.response) {
                    setFixtureData(dataFix.response);
-                   // Buscar la ronda actual (el primer partido no jugado o el último de la lista)
-                   const currentMatch = dataFix.response.find(f => f.fixture.status.short === 'NS' || f.fixture.status.short === 'TBD' || f.fixture.status.short === 'PST');
+                   // Buscar la ronda actual (ordenamos cronológicamente primero)
+                   const sortedMatches = [...dataFix.response].sort((a, b) => a.fixture.timestamp - b.fixture.timestamp);
+                   
+                   // 1. Buscar si hay algún partido en juego AHORA
+                   let currentMatch = sortedMatches.find(f => ['1H', '2H', 'HT', 'LIVE', 'ET', 'P', 'PEN'].includes(f.fixture.status.short));
+                   
+                   // 2. Si no hay en juego, buscar el próximo que aún no empezó
+                   if (!currentMatch) {
+                       currentMatch = sortedMatches.find(f => ['NS', 'TBD', 'PST'].includes(f.fixture.status.short));
+                   }
+
                    if (currentMatch) {
                        setSelectedRound(currentMatch.league.round);
-                   } else if (dataFix.response.length > 0) {
-                       setSelectedRound(dataFix.response[dataFix.response.length - 1].league.round);
+                   } else if (sortedMatches.length > 0) {
+                       // 3. Si todos terminaron, mostrar la última fecha jugada
+                       setSelectedRound(sortedMatches[sortedMatches.length - 1].league.round);
                    }
                }
                setLoadingFixtures(false);
