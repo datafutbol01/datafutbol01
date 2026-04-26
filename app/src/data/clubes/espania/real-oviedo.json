@@ -37,7 +37,52 @@
       "mayor_goleada": "9-2 a Sabadell",
       "maximo_goleador": "Isidro Lángara (281 goles)",
       "mas_presencias": "Berto (512 partidos)"
-    }
+    },
+    "historia": "A mediados de la convulsa década de los años 20 en la minera y señorial ciudad de Oviedo, la rivalidad atroz entre los dos gigantes locales amenazaba la viabilidad deportiva. Tras años de intensas negociaciones, el pacto fue impulsado y sellado el 26 de marzo de 1926 por el patriarca Don Carlos Tartiere: el Real Stadium Club Ovetense y el Real Club Deportivo Oviedo rubricaron su solemne fusión dando a luz al Real Oviedo. Instalados desde 1932 en su mítico estadio Buenavista (hoy Carlos Tartiere), cimentaron una trayectoria pasional reflejada en cuatro grandes hitos: el inolvidable ascenso y establecimiento en la élite durante la era de la prolífica y mítica 'Delantera Eléctrica' (Lángara, Herrerita) en los años 30; el resurgir glorioso en la temporada 1990-91 obteniendo su soñada clasificación a la Copa de la UEFA bajo Jabo Irureta; la trágica pero conmovedora epopeya de 2003 cuando, descendidos deportivamente y hundidos por deudas al pozo burocrático de la Tercera División, fueron rescatados únicamente por el masivo dinero y movilización de su incondicional hinchada; y la esperanzadora reconstrucción bajo el apadrinamiento de accionariado global moderno en el siglo XXI.",
+    "equipacion": [
+      {
+        "desde": 1926,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#0000ff",
+        "tipo": "liso",
+        "desc": "Símbolo de la fusión de ambos bandos, el Oviedo combinó los colores decidiendo vestir una impecable camiseta azul brillante lisa con el pecho libre, junto con pantalones predominantemente blancos."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Isidro Lángara",
+        "partidos": "220",
+        "goles": "281",
+        "descripcion": "Aplastante artillero de la mítica 'Delantera Eléctrica', quien logró tres veces consecutivas el prestigioso Trofeo Pichichi."
+      },
+      {
+        "nombre": "Carlos",
+        "partidos": "240",
+        "goles": "93",
+        "descripcion": "Atacante legendario que impulsó con su contundencia letal la histórica clasificación europea del equipo carbayón en los años 90."
+      },
+      {
+        "nombre": "Berto",
+        "partidos": "512",
+        "goles": "19",
+        "descripcion": "Emblemático centrocampista ovetense de un sacrificio incansable. Ostenta el inmenso récord de partidos oficiales defendiendo el escudo."
+      },
+      {
+        "nombre": "Herrerita",
+        "partidos": "230",
+        "goles": "119",
+        "descripcion": "Socio inquebrantable de Lángara y uno de los cerebros fundamentales que brillaron en el mágico Oviedo de la posguerra."
+      },
+      {
+        "nombre": "Esteban",
+        "partidos": "180",
+        "goles": "0",
+        "descripcion": "El portero y líder espiritual. Un ídolo moderno que dejó la comodidad y el dinero de Primera División para acudir al rescate del club en el abismo."
+      }
+    ]
   },
   "historia": [
     {

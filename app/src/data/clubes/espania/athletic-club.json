@@ -12,7 +12,7 @@
   "datos": {
     "nombre_completo": "Athletic Club",
     "sigla": "ATH",
-    "fundacion": "1898",
+    "fundacion": "5 de abril de 1898",
     "apodo": "Los Leones, Rojiblancos",
     "estadio_actual": "San Mamés",
     "estadio_apodo": "La Catedral",
@@ -39,7 +39,62 @@
       "mayor_goleada": "12-1 vs Barcelona (1931)"
     },
     "nombre_oficial": "Athletic Club",
-    "nombre_corto": "Athletic Bilbao"
+    "nombre_corto": "Athletic Bilbao",
+    "historia": "En 1898, en los bulliciosos muelles del Nervión y al calor de la revolución industrial en Bilbao, un grupo de jóvenes bilbaínos (entre los que destacaban Juan Astorquia, Alejandro Acha y Fernando Iraolagoitia) que habían regresado de estudiar en Gran Bretaña, decidieron fundar el Athletic Club. Su motivación fue formalizar los incipientes partidos de fútbol que disputaban contra marineros ingleses en la campa de Lamiako. Su inigualable filosofía de utilizar exclusivamente jugadores de la tierra ('Lezama') se ha mantenido inalterable y ha forjado cuatro grandes hitos: el asombroso dominio en la Copa del Rey durante las primeras décadas del siglo XX, forjando el apelativo de 'Rey de Copas'; la ininterrumpida permanencia en la Primera División desde su creación en 1928, honor compartido solo con Madrid y Barça; el glorioso doblete de liga y copa en 1984 bajo el mando de Javier Clemente; y la histórica reconquista de la Copa del Rey en 2024 tras cuarenta años de sequía.",
+    "equipacion": [
+      {
+        "desde": 1898,
+        "hasta": 1909,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#000000",
+        "tipo": "mitades",
+        "desc": "En sus orígenes, el equipo bilbaíno vestía un sobrio uniforme de camiseta dividida a mitades verticales en azul y blanco, inspirado en el Blackburn Rovers inglés."
+      },
+      {
+        "desde": 1910,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "rayas-verticales",
+        "desc": "El estudiante Juan Elorduy trajo desde Southampton camisetas rojiblancas. Se instauró la mítica camiseta a rayas verticales rojas y blancas, con pantalones y medias negras, bautizándolos como los 'Leones'."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "José Ángel Iribar",
+        "partidos": "614",
+        "goles": "0",
+        "descripcion": "El 'Txopo', legendario guardameta y jugador con el récord absoluto de presencias en la historia del club."
+      },
+      {
+        "nombre": "Telmo Zarra",
+        "partidos": "352",
+        "goles": "335",
+        "descripcion": "Máximo goleador histórico del Athletic y uno de los mayores artilleros en la historia del fútbol español."
+      },
+      {
+        "nombre": "Muniain",
+        "partidos": "560",
+        "goles": "76",
+        "descripcion": "Capitán moderno que dedicó toda su carrera al club, alzando la anhelada Copa del Rey de 2024."
+      },
+      {
+        "nombre": "Dani Ruiz-Bazán",
+        "partidos": "402",
+        "goles": "199",
+        "descripcion": "Extremo y capitán emblemático durante el histórico doblete de 1984 bajo la batuta de Clemente."
+      },
+      {
+        "nombre": "Txetxu Rojo",
+        "partidos": "541",
+        "goles": "67",
+        "descripcion": "Mediocampista ofensivo de gran clase y segundo jugador con más presencias en la historia del club."
+      }
+    ]
   },
   "historia": [
     {

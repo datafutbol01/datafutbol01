@@ -37,7 +37,52 @@
       "mas_presencias": "Alberto Górriz (599)"
     },
     "nombre_oficial": "Real Sociedad de Fútbol S.A.D.",
-    "nombre_corto": "Real Sociedad"
+    "nombre_corto": "Real Sociedad",
+    "historia": "En medio del intenso auge vacacional en la hermosa ciudad de San Sebastián, y frente al colapso interno del histórico San Sebastián Recreation Club debido a desencuentros por el uso de los terrenos, un grupo de valientes disidentes conformó el San Sebastián Football Club. Deseando ingresar al prestigioso Campeonato de España, optaron por formalizar sus papeles bajo los reglamentos y fundaron legalmente la Sociedad de Foot-Ball el 7 de septiembre de 1909. Respaldados rápidamente con la Corona (Real Sociedad) por el rey Alfonso XIII, han cimentado su mística donostiarra ('Txuri-urdines') a través de cuatro grandes hitos: el inolvidable éxtasis en El Molinón en la temporada 1980-81, donde un gol agónico de Zamora coronó el primer e invicto campeonato de la gloriosa liga española, refrendado por el bicampeonato (1981-82); la inolvidable y romántica temporada 2002-03 pugnando mano a mano la Liga frente a los 'Galácticos' del Madrid bajo las órdenes de Raynald Denoueix; la asombrosa reconquista del título de Copa del Rey 2020 frente al máximo rival (Athletic Club) en plena pandemia; y su excelsa consolidación moderna apostando a un juego vistoso y permanente de cantera, maravillando recurrentemente en la Liga de Campeones.",
+    "equipacion": [
+      {
+        "desde": 1909,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#0000ff",
+        "tipo": "rayas-verticales",
+        "desc": "Con honor al pendón de la ciudad de San Sebastián, han portado con orgullo su inamovible remera txuri-urdin (blanquiazul) con franjas verticales muy clásicas."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Jesús María Zamora",
+        "partidos": "588",
+        "goles": "79",
+        "descripcion": "Eterno '10', autor material del agónico y glorioso gol en Gijón que obsequió la anhelada primera Liga de la historia donostiarra."
+      },
+      {
+        "nombre": "Alberto Górriz",
+        "partidos": "599",
+        "goles": "14",
+        "descripcion": "Defensa central estoico e inamovible, que atesora pacientemente el colosal récord oficial de mayor cantidad de presencias defendiendo la elástica."
+      },
+      {
+        "nombre": "Darko Kovačević",
+        "partidos": "286",
+        "goles": "107",
+        "descripcion": "Portentoso gigante goleador serbio que conformó la imponente e inolvidable sociedad de ataque en el mágico equipo de 2003 junto a Nihat."
+      },
+      {
+        "nombre": "Mikel Oyarzabal",
+        "partidos": "330",
+        "goles": "90",
+        "descripcion": "El canterano absoluto moderno, autor del gol decisivo del campeonato de Copa de 2020 frente al clásico y capitán indiscutible del éxito reciente."
+      },
+      {
+        "nombre": "Satrústegui",
+        "partidos": "374",
+        "goles": "162",
+        "descripcion": "El ariete vasco por excelencia, demoledor delantero letal que sostiene ininterrumpidamente el sitial como máximo artillero histórico de la institución."
+      }
+    ]
   },
   "historia": [
     {

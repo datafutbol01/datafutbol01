@@ -36,7 +36,52 @@
       "maximo_goleador": "Cristhian Stuani",
       "mas_presencias": "Borja García"
     },
-    "nombre_corto": "Girona FC"
+    "nombre_corto": "Girona FC",
+    "historia": "En los albores de la Segunda República Española y tras la trágica disolución por quiebra financiera de la histórica Unión Deportiva Gerona, un grupo de aficionados impulsados por el abogado Albert de Quintana de León se reunió el 23 de julio de 1930 en el emblemático Café Norat, sobre la céntrica Rambla de la ciudad. Allí redactaron los estatutos fundacionales del Girona Futbol Club, asumiendo de Quintana la presidencia para revitalizar el fútbol en la provincia catalana. Acostumbrado históricamente al ostracismo de las divisiones menores, su explosión contemporánea se consolidó en cuatro grandes hitos: el soñado e histórico primer ascenso a Primera División en la temporada 2016-17; la adquisición de la entidad por parte del poderoso City Football Group, inyectando un profesionalismo sin precedentes; la inolvidable temporada 2023-24 bajo la dirección de Míchel, donde lograron una inaudita clasificación a la Liga de Campeones goleando al FC Barcelona y al Atlético Madrid; y la consolidación de Montilivi como un fortín de un fútbol ofensivo y atrevido.",
+    "equipacion": [
+      {
+        "desde": 1930,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#ffffff",
+        "sh": "#e32221",
+        "me": "#ffffff",
+        "tipo": "rayas-verticales",
+        "desc": "Con el escudo del Ayuntamiento de Gerona como emblema, el club ha vestido invariablemente el clásico patrón 'albirrojo': camiseta de rayas verticales estrechas rojas y blancas, junto a pantalones rojos o ocasionalmente azules."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Cristhian Stuani",
+        "partidos": "250",
+        "goles": "130",
+        "descripcion": "Máximo goleador histórico por un abrumador margen. El gran ídolo uruguayo lideró a la institución a la máxima élite europea."
+      },
+      {
+        "nombre": "Àlex Granell",
+        "partidos": "233",
+        "goles": "16",
+        "descripcion": "Mediocampista local formado en el club. Fue el gran capitán durante el épico primer ascenso a la máxima categoría."
+      },
+      {
+        "nombre": "Borja García",
+        "partidos": "233",
+        "goles": "21",
+        "descripcion": "Motor ofensivo fundamental del equipo y socio insustituible a lo largo de las distintas eras doradas en Primera División."
+      },
+      {
+        "nombre": "Portu",
+        "partidos": "180",
+        "goles": "36",
+        "descripcion": "Extremo veloz y pilar decisivo de las campañas más brillantes; autor del mítico gol de la victoria contra el Madrid en Montilivi."
+      },
+      {
+        "nombre": "Aleix García",
+        "partidos": "160",
+        "goles": "8",
+        "descripcion": "Arquitecto del mediocampo del equipo revelación de Míchel que concretó la mágica e impensada clasificación a la Liga de Campeones."
+      }
+    ]
   },
   "historia": [
     {

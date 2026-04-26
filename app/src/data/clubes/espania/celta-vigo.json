@@ -38,7 +38,52 @@
       "mas_presencias": "Iago Aspas (500+)"
     },
     "nombre_oficial": "Real Club Celta de Vigo S.A.D.",
-    "nombre_corto": "Celta de Vigo"
+    "nombre_corto": "Celta de Vigo",
+    "historia": "El 23 de agosto de 1923, en el contexto de una ciudad que ansiaba ser protagonista en el fútbol nacional, se consolidó un ambicioso proyecto en Vigo. Bajo el incesante empuje periodístico de Manuel de Castro 'Handicap' y el apoyo del alcalde Juan Baliño, se firmó la histórica fusión entre los grandes rivales locales: el Real Vigo Sporting y el Real Fortuna. Así emergió el Real Club Celta de Vigo, unificador del fútbol gallego. A lo largo del siglo, los célticos forjaron su prestigio apoyados en cuatro grandes hitos: la dolorosa pero meritoria disputa de sus tres históricas finales de la Copa del Rey (1948, 1994 y 2001); la vibrante etapa del 'Eurocelta' a principios de los 2000, dominando a gigantes de Europa e impulsada por jugadores como Karpin y Mostovoi; el ansiado debut en la fase de grupos de la Liga de Campeones en la temporada 2003-04; y su heroica marcha hasta las semifinales de la Liga Europa en 2017.",
+    "equipacion": [
+      {
+        "desde": 1923,
+        "hasta": null,
+        "c1": "#87ceeb",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#87ceeb",
+        "tipo": "liso",
+        "desc": "Desde su fundación, el club rinde homenaje a los colores de la bandera gallega con un uniforme limpio e inalterable: camiseta celeste lisa, combinada clásicamente con pantalones y medias blancas."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Iago Aspas",
+        "partidos": "490",
+        "goles": "205",
+        "descripcion": "El 'Príncipe de las Bateas'. Máximo goleador histórico y salvador de múltiples descensos. Ícono absoluto contemporáneo."
+      },
+      {
+        "nombre": "Manolo Rodríguez",
+        "partidos": "533",
+        "goles": "15",
+        "descripcion": "El 'Gran Capitán' celeste, jugador que ostenta el récord indiscutible de presencias históricas con el club."
+      },
+      {
+        "nombre": "Aleksandr Mostovoi",
+        "partidos": "288",
+        "goles": "72",
+        "descripcion": "Apodado 'El Zar'. El líder creativo e indiscutido del legendario equipo del 'Eurocelta' en el cambio de milenio."
+      },
+      {
+        "nombre": "Valery Karpin",
+        "partidos": "218",
+        "goles": "39",
+        "descripcion": "Mediocampista ruso de enorme carácter y jerarquía, formando una asociación legendaria junto a Mostovoi."
+      },
+      {
+        "nombre": "Pahiño",
+        "partidos": "80",
+        "goles": "57",
+        "descripcion": "Goleador histórico de los años 40 que guio al club a su primera final de Copa y luego triunfó en toda España."
+      }
+    ]
   },
   "historia": [
     {

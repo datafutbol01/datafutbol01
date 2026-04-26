@@ -34,7 +34,62 @@
     ],
     "nombre_oficial": "Levante Unión Deportiva, S.A.D.",
     "nombre_corto": "Levante UD",
-    "escudo_actual": "/escudos/espania/levante/levante.png"
+    "escudo_actual": "/escudos/espania/levante/levante.png",
+    "historia": "En el año 1909, motivado por la inauguración de una gran exposición regional en la capital del Turia, el pionero José Ballester formalizó el nacimiento del Levante Foot-ball Club (el club en vigencia más antiguo de la ciudad). Sin embargo, el estatus definitivo del equipo 'Granota' se moldeó en agosto de 1939 tras el drama de la Guerra Civil. Con el Levante perdiendo su estadio en los bombardeos y el Gimnástico FC habiendo perdido a sus jugadores, ambas entidades se fusionaron creando el actual Levante Unión Deportiva. Sobrevivientes por naturaleza, han dejado un legado sustentado en cuatro grandes hitos: la épica adjudicación de la Copa de la España Libre en 1937 en plena guerra; el legendario y primer ascenso a Primera División en 1963; la asombrosa campaña en 2011 bajo el mandato de Juan Ignacio Martínez que les clasificó a su única participación en la Liga Europa; y la inolvidable victoria sobre el FC Barcelona por 5-4 en la temporada 2017-18, arrebatándole el invicto al futuro campeón.",
+    "equipacion": [
+      {
+        "desde": 1909,
+        "hasta": 1939,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "rayas-verticales",
+        "desc": "El histórico Levante FC originario vestía uniformes con rayas verticales blancas y negras (o azul muy oscuro)."
+      },
+      {
+        "desde": 1939,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#e32221",
+        "sh": "#0000ff",
+        "me": "#e32221",
+        "tipo": "rayas-verticales",
+        "desc": "Tras la fusión con el Gimnástico FC en 1939, se adoptaron los célebres colores blaugranas de este último. Desde entonces, visten la clásica camiseta de gruesas franjas verticales granates y azules oscuras."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "José Luis Morales",
+        "partidos": "311",
+        "goles": "63",
+        "descripcion": "Apodado 'El Comandante'. Máximo goleador histórico en Primera, ídolo indiscutido de la hinchada durante el siglo XXI."
+      },
+      {
+        "nombre": "Félix Ettien",
+        "partidos": "324",
+        "goles": "23",
+        "descripcion": "El veloz extremo marfileño jugó más de doce temporadas en el club, superando graves crisis y obteniendo múltiples ascensos."
+      },
+      {
+        "nombre": "Sergio Ballesteros",
+        "partidos": "230",
+        "goles": "5",
+        "descripcion": "El robusto e intimidante defensor central ejerció como capitán indiscutido durante la mágica clasificación europea en 2011."
+      },
+      {
+        "nombre": "Vicente Latorre",
+        "partidos": "335",
+        "goles": "53",
+        "descripcion": "Delantero vital que ostentó registros altísimos de presencia durante toda la compleja y sufrida década de los 80."
+      },
+      {
+        "nombre": "Paco Salillas",
+        "partidos": "114",
+        "goles": "52",
+        "descripcion": "Goleador incombustible clave a finales del siglo XX, vital para el resurgir del club y recordado por su inmensa efectividad frente al arco."
+      }
+    ]
   },
   "historia": [
     {

@@ -37,7 +37,62 @@
       "mas_presencias": "Joaquín Sánchez (528)"
     },
     "nombre_oficial": "Real Betis Balompié S.A.D.",
-    "nombre_corto": "Real Betis"
+    "nombre_corto": "Real Betis",
+    "historia": "En el seno de los jóvenes estudiantes de la Escuela Politécnica de Sevilla nació en 1907 la sociedad 'Sevilla Balompié' (primera institución en usar la castiza palabra 'Balompié' en lugar de 'Football'). Simultáneamente, otro equipo disidente de la ciudad se organizó bajo el nombre de Betis FC (Betis era el vocablo romano para el río Guadalquivir). Tras un minucioso proceso, el 6 de diciembre de 1914 ambas escuadras formalizaron su gloriosa fusión naciendo el Real Betis Balompié (tras la concesión del título 'Real' por Alfonso XIII). Símbolo genuino del fervor popular andaluz bajo el grito del '¡Viva el Betis manque pierda!', cimentó su historia en cuatro grandes hitos: la asombrosa y pionera conquista de la Liga de Primera División en la temporada 1934-35 (siendo el primer club andaluz en lograrlo); la histórica obtención de la primera Copa del Rey moderna en 1977 derrotando al Athletic por penales; la brillante consagración copera de 2005 y posterior debut absoluto en la fase de grupos de la Liga de Campeones; y la inolvidable victoria por penales en La Cartuja que les dio la anhelada Copa del Rey de 2022 con Joaquín como eterno capitán.",
+    "equipacion": [
+      {
+        "desde": 1907,
+        "hasta": 1910,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#0000ff",
+        "tipo": "liso",
+        "desc": "Originalmente, el Sevilla Balompié vestía sobrias camisetas azules y blancas por herencia e influencia de diversas prendas."
+      },
+      {
+        "desde": 1911,
+        "hasta": null,
+        "c1": "#008000",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#008000",
+        "tipo": "rayas-verticales",
+        "desc": "Bajo la influencia del directivo Manuel Asensio, que trajo unas equipaciones rojinegras que fueron devueltas por defectuosas, decidieron confeccionar uniformes con las rayas verticales verdes y blancas de la bandera andaluza."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Joaquín Sánchez",
+        "partidos": "528",
+        "goles": "68",
+        "descripcion": "El eterno capitán, récord de partidos del club, figura cumbre de las Copas de 2005 y 2022 y leyenda absoluta verdiblanca."
+      },
+      {
+        "nombre": "Rubén Castro",
+        "partidos": "290",
+        "goles": "148",
+        "descripcion": "Implacable artillero canario. Es el máximo goleador de toda la historia centenaria del club de Heliópolis."
+      },
+      {
+        "nombre": "Julio Cardeñosa",
+        "partidos": "412",
+        "goles": "58",
+        "descripcion": "Elegante y mítico mediocampista ofensivo de gran visión que lideró al conjunto hacia el memorable título de Copa de 1977."
+      },
+      {
+        "nombre": "Rafael Gordillo",
+        "partidos": "411",
+        "goles": "38",
+        "descripcion": "Incansable leyenda mundial del carril izquierdo. Surgido de la casa, volaba por la banda con las medias bajas."
+      },
+      {
+        "nombre": "Alfonso Pérez",
+        "partidos": "234",
+        "goles": "80",
+        "descripcion": "El talentoso mago de las botas blancas que encandiló a la grada e impulsó las brillantes campañas europeas en los noventa."
+      }
+    ]
   },
   "historia": [
     {

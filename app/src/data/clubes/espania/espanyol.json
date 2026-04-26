@@ -37,7 +37,62 @@
       "mas_presencias": "Raúl Tamudo (389)"
     },
     "nombre_oficial": "R.C.D. Espanyol de Barcelona S.A.D.",
-    "nombre_corto": "Espanyol"
+    "nombre_corto": "Espanyol",
+    "historia": "El 28 de octubre de 1900, Ángel Rodríguez Ruiz, estudiante de ingeniería, reunió a un puñado de estudiantes universitarios catalanes en las aulas de la Universidad de Barcelona. En claro contraste ideológico frente al recién fundado FC Barcelona (cargado de jugadores extranjeros), establecieron la Sociedad Española de Foot-ball con el propósito de integrar exclusivamente a jugadores locales e hispanos. Consolidado posteriormente bajo patronazgo real como el RCD Espanyol, los 'pericos' construyeron un relato heroico en Barcelona, marcado a fuego por cuatro grandes hitos: la histórica conquista de su primera Copa de España en 1929 ('Copa del Agua'); la obtención del preciado título de la Copa del Rey en 2000 que cortó sesenta años de sequía en Montjuïc; el doloroso pero heroico subcampeonato en la Copa de la UEFA en dos ocasiones dramáticas (1988 y 2007, ambas perdidas por penales); y su resistencia institucional constante, siendo uno de los miembros fundadores históricos de La Liga.",
+    "equipacion": [
+      {
+        "desde": 1900,
+        "hasta": 1909,
+        "c1": "#ffff00",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "Curiosamente, el color fundacional fue el amarillo (usando unas telas cedidas por el padre del fundador). Combinaban camisas amarillas pálidas con pantalones negros."
+      },
+      {
+        "desde": 1910,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#ffffff",
+        "tipo": "rayas-verticales",
+        "desc": "En homenaje a los colores del blasón del almirante Roger de Llúria, adoptaron las definitivas franjas verticales azules y blancas ('blanquiazules'), pantalones azules y medias blancas."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Raúl Tamudo",
+        "partidos": "389",
+        "goles": "140",
+        "descripcion": "Máximo goleador histórico del club, capitán en las Copas de 2000 y 2006, y autor del legendario e inolvidable 'Tamudazo'."
+      },
+      {
+        "nombre": "Mauricio Pochettino",
+        "partidos": "320",
+        "goles": "14",
+        "descripcion": "El extranjero con más presencias en la historia. Defensor central férreo, ganador de Copa y salvador del club como técnico."
+      },
+      {
+        "nombre": "Thomas N'Kono",
+        "partidos": "333",
+        "goles": "0",
+        "descripcion": "Legendario arquero camerunés, titular absoluto e ídolo carismático de la afición perica a lo largo de casi toda la década de los 80."
+      },
+      {
+        "nombre": "Dani Jarque",
+        "partidos": "214",
+        "goles": "5",
+        "descripcion": "El 'Eterno Capitán', referente surgido de la cantera perica que entregó su vida y es homenajeado eternamente en el minuto 21."
+      },
+      {
+        "nombre": "Luis García",
+        "partidos": "262",
+        "goles": "60",
+        "descripcion": "Socio inquebrantable de Tamudo, artífice del título copero en 2006 y clave en la heroica campaña de la Copa de la UEFA 2007."
+      }
+    ]
   },
   "historia": [
     {

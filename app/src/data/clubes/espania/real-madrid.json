@@ -39,7 +39,52 @@
       "mayor_goleada": "11-1 vs Barcelona (1943)"
     },
     "nombre_oficial": "Real Madrid C. F.",
-    "nombre_corto": "Real Madrid"
+    "nombre_corto": "Real Madrid",
+    "historia": "En los albores de un Madrid cosmopolita, un entusiasta grupo impulsado por el pionero Julián Palacios y liderado por los visionarios hermanos empresarios catalanes Juan y Carlos Padrós, formalizó la constitución de la (Sociedad) Madrid Foot-ball Club el 6 de marzo de 1902. Aprobados sus estatutos, el incipiente club inauguró la era más colosal de la historia del fútbol. Recibiendo el título honorífico de 'Real' en 1920 por el Rey Alfonso XIII, el club forjó su estatus planetario mediante cuatro grandiosos hitos: el establecimiento inigualable en los años 50 con la conquista de cinco Copas de Europa de forma ininterrumpida por parte del mítico equipo de Di Stéfano, Puskas y Gento; la consolidación del dominio nacional arrollador de la entrañable y aguerrida 'Quinta del Buitre' ganando cinco ligas consecutivas en los años ochenta; el agónico e histórico cabezazo de Sergio Ramos ('La Décima') en el minuto 93 en Lisboa (2014) que rompió un maleficio de doce años; y el asombroso reinado de la era de Zinédine Zidane y Cristiano Ronaldo alzando tres Champions League consecutivas entre 2016 y 2018.",
+    "equipacion": [
+      {
+        "desde": 1902,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Instaurado y respetado casi de forma sacra desde sus primeros estatutos (inspirados libremente en los colores del Corinthians londinense): el equipo siempre ha portado la camisa blanca inmaculada lisa, completando el total de pantalón y medias."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Cristiano Ronaldo",
+        "partidos": "438",
+        "goles": "451",
+        "descripcion": "Una máquina voraz e inagotable. Máximo goleador histórico, ganador de 4 Champions con la entidad y símbolo absoluto de su era."
+      },
+      {
+        "nombre": "Alfredo Di Stéfano",
+        "partidos": "396",
+        "goles": "308",
+        "descripcion": "La 'Saeta Rubia'. El genio total que transformó al club para siempre y lideró la hazaña irrepetible de las primeras 5 Copas de Europa."
+      },
+      {
+        "nombre": "Raúl González",
+        "partidos": "741",
+        "goles": "323",
+        "descripcion": "El Gran Capitán, símbolo del madridismo. Jugador con la asombrosa e inalcanzable mayor cantidad de partidos en el equipo merengue."
+      },
+      {
+        "nombre": "Sergio Ramos",
+        "partidos": "671",
+        "goles": "101",
+        "descripcion": "Defensa de instinto ofensivo épico, héroe de La Décima y legendario capitán en la dinastía más gloriosa del siglo XXI."
+      },
+      {
+        "nombre": "Paco Gento",
+        "partidos": "600",
+        "goles": "182",
+        "descripcion": "Extremo supersónico inigualable, ostentando el récord mundial de seis Copas de Europa como jugador ('La Galerna del Cantábrico')."
+      }
+    ]
   },
   "historia": [
     {

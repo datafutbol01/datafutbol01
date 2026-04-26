@@ -38,7 +38,62 @@
       "mayor_goleada": "9-0 vs Hércules (1955)"
     },
     "nombre_oficial": "Club Atlético de Madrid S.A.D.",
-    "nombre_corto": "Atlético Madrid"
+    "nombre_corto": "Atlético Madrid",
+    "historia": "El 26 de abril de 1903, en la Sociedad Vasco-Navarra de la capital de España, tres jóvenes estudiantes vascos residentes en Madrid (Eduardo de Acha, Enrique Goiri y Ramón de Arancibia) materializaron su nostalgia deportiva fundando el Athletic Club Sucursal de Madrid. Su idea era crear un equipo que funcionara como extensión del Athletic Club de Bilbao. Tras independizarse definitivamente, el Atlético de Madrid cimentó una estirpe guerrera forjada a través de cuatro grandes hitos: la histórica conquista de la Recopa de Europa de 1962, primer gran título continental del club; el legendario triunfo en la Copa Intercontinental de 1974 de la mano de Luis Aragonés frente a Independiente; el célebre e inolvidable 'Doblete' de Liga y Copa en la temporada 1995-96 bajo la presidencia de Jesús Gil; y el renacimiento moderno liderado por Diego Simeone, obteniendo dos títulos de Liga (2014, 2021) y alcanzando la élite permanente del fútbol mundial.",
+    "equipacion": [
+      {
+        "desde": 1903,
+        "hasta": 1910,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "mitades",
+        "desc": "Al igual que su 'padre' bilbaíno, el club vistió en sus inicios la indumentaria arlequinada o a mitades azul y blanca, emulando al Blackburn Rovers."
+      },
+      {
+        "desde": 1911,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#e32221",
+        "tipo": "rayas-verticales",
+        "desc": "Se introducen definitivamente las telas rojiblancas compradas en Inglaterra. Nace el apodo 'Colchoneros' por la similitud con las telas de los colchones de la época. Conservaron el pantalón azul."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Koke Resurrección",
+        "partidos": "630",
+        "goles": "47",
+        "descripcion": "Capitán y jugador con el récord histórico de presencias, referente absoluto de la 'Era Simeone'."
+      },
+      {
+        "nombre": "Luis Aragonés",
+        "partidos": "370",
+        "goles": "172",
+        "descripcion": "El 'Sabio de Hortaleza', ícono total del club. Mediocampista goleador legendario y posterior técnico de la institución."
+      },
+      {
+        "nombre": "Antoine Griezmann",
+        "partidos": "390",
+        "goles": "180",
+        "descripcion": "Máximo goleador histórico de la entidad, superando las marcas de los legendarios Aragonés y Gárate."
+      },
+      {
+        "nombre": "Diego Godín",
+        "partidos": "389",
+        "goles": "27",
+        "descripcion": "El 'Faraón', líder de la defensa y autor del heroico gol de cabeza que selló el título de Liga de 2014 en el Camp Nou."
+      },
+      {
+        "nombre": "Adelardo Rodríguez",
+        "partidos": "553",
+        "goles": "113",
+        "descripcion": "Segundo jugador con mayor cantidad de partidos en el club, símbolo inquebrantable de los éxitos en los años 60 y 70."
+      }
+    ]
   },
   "historia": [
     {

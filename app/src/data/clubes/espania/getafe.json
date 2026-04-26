@@ -37,7 +37,52 @@
       "maximo_goleador": "Manu del Moral",
       "mas_presencias": "Damián Suárez (295 partidos)"
     },
-    "nombre_corto": "Getafe CF"
+    "nombre_corto": "Getafe CF",
+    "historia": "Si bien sus raíces en la ciudad se remontan a la creación del Club Getafe Deportivo en 1946 (entidad que desapareció absorbida por graves deudas en 1983), el club en su formato actual y purificado legalmente nació el 8 de julio de 1983. Impulsado por el empeño inquebrantable de Antonio de Miguel y un grupo de socios apasionados, se fundó el Getafe Club de Fútbol comenzando en las más bajas categorías regionales. La meteórica evolución del equipo 'azulón' se cinceló a base de esfuerzo y se resume en cuatro grandes hitos: el inolvidable y primer ascenso de su historia a la máxima categoría en 2004 bajo la conducción de Josu Uribe; las sorpresivas clasificaciones a dos finales consecutivas de la Copa del Rey (2007 y 2008), tumbando gigantes en el camino; el épico partido de cuartos de final de la Copa de la UEFA frente al poderoso Bayern Múnich en 2008; y la milagrosa consolidación moderna bajo la tutela de José Bordalás, llevando al equipo nuevamente a competiciones continentales.",
+    "equipacion": [
+      {
+        "desde": 1983,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#0000ff",
+        "tipo": "liso",
+        "desc": "El color característico del club desde la época de su predecesor es inamovible: una camiseta totalmente lisa color azul oscuro ('azulón'), tradicionalmente combinada con pantalones azules."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Damián Suárez",
+        "partidos": "295",
+        "goles": "4",
+        "descripcion": "Férreo lateral derecho uruguayo, jugador con más presencias en la historia del club en Primera División."
+      },
+      {
+        "nombre": "Manu del Moral",
+        "partidos": "191",
+        "goles": "39",
+        "descripcion": "Máximo goleador histórico del club en la máxima categoría. Clave en los mejores años y en la epopeya europea de 2008."
+      },
+      {
+        "nombre": "Javier Casquero",
+        "partidos": "231",
+        "goles": "25",
+        "descripcion": "Mediocampista organizador autor de un gol imborrable desde fuera del área frente al Bayern Múnich en cuartos de final."
+      },
+      {
+        "nombre": "David Soria",
+        "partidos": "230",
+        "goles": "0",
+        "descripcion": "Guardameta pilar fundamental del rígido y eficiente esquema defensivo de José Bordalás en la época moderna."
+      },
+      {
+        "nombre": "Jorge Molina",
+        "partidos": "163",
+        "goles": "52",
+        "descripcion": "Goleador clave que aterrizó con el equipo en Segunda y lo devolvió con sus goles a competir en los escenarios europeos."
+      }
+    ]
   },
   "historia": [
     {

@@ -37,7 +37,52 @@
       "mas_presencias": "Jesús Navas (680+)"
     },
     "nombre_oficial": "Sevilla Fútbol Club S.A.D.",
-    "nombre_corto": "Sevilla FC"
+    "nombre_corto": "Sevilla FC",
+    "historia": "Al arrullo del puerto cosmopolita a orillas del Guadalquivir, un grupo de aristócratas y directivos mercantes (mayormente escoceses y británicos) ligados a la naviera MacAndrews & Co. y la Compañía de Aguas de Sevilla se congregaron en un salón. Aquel 25 de enero de 1890, celebrando la tradicional 'Burns Night' del poeta escocés Robert Burns con cerveza y cantos, nació el primigenio Sevilla Football Club, coronando a Edward Farquharson Johnston como su primer y solemne presidente. Pese a que su registro administrativo legal debió formalizarse recién en 1905, los de Nervión se afianzaron forjando su mito a base de 'casta y coraje', marcando cuatro enormes hitos mundiales: el rotundo y deslumbrante campeonato de Liga española alzando el trofeo en la mítica temporada 1945-46; el doloroso abismo burocrático y deportivo a finales del milenio con amargos descensos a segunda; la asombrosa e inagotable apoteosis del milenio al levantar la histórica y soñada primera Copa de la UEFA en Eindhoven (2006) de la mano de Monchi, desatando la locura en la Giralda; y la instauración de una dominación brutal sin precedentes en la historia continental erigiéndose como heptacampeones ('Los Reyes') absolutos e inigualables de la UEFA Europa League hasta el año 2023.",
+    "equipacion": [
+      {
+        "desde": 1890,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#dc052d",
+        "sh": "#ffffff",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "Símbolo de prestigio ininterrumpido: portaron inamoviblemente su camisa blanquísima lisa y pura, agregándole vivos escarlatas muy finos, pantalón blanco inmaculado y calcetas oscuras inconfundibles."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Jesús Navas",
+        "partidos": "680",
+        "goles": "39",
+        "descripcion": "El legendario 'Duende de Los Palacios'. El inagotable lateral, capitán y dueño del abrumador récord histórico absoluto de presencias y títulos con el escudo sevillista."
+      },
+      {
+        "nombre": "Frédéric Kanouté",
+        "partidos": "290",
+        "goles": "136",
+        "descripcion": "Talentoso y espigado dios franco-maliense que con suma elegancia desató la época dorada contemporánea, marcando goles inolvidables en múltiples y épicas finales."
+      },
+      {
+        "nombre": "Campanal I",
+        "partidos": "260",
+        "goles": "218",
+        "descripcion": "El abrumador torbellino goleador de los orígenes. Es el intocable máximo anotador histórico que forjó a fuego el campeonato nacional y copero en los cuarenta."
+      },
+      {
+        "nombre": "Antonio Puerta",
+        "partidos": "88",
+        "goles": "8",
+        "descripcion": "El mito trágico y eterno de 'La Zurda de Diamantes'. Su recordado y mágico zapatazo al Schalke 04 detonó la majestuosa era de glorias internacionales antes de su adiós."
+      },
+      {
+        "nombre": "José Antonio Reyes",
+        "partidos": "253",
+        "goles": "39",
+        "descripcion": "La 'Perla' indomable de Utrera. Creció deslumbrando de chaval a toda Europa, aportando enormes sumas con su venta para salvar al club, regresando como profeta años después."
+      }
+    ]
   },
   "historia": [
     {

@@ -38,7 +38,52 @@
       "maximo_goleador": "Sabino Andonegui",
       "mas_presencias": "Patxi Puñal (513 partidos)"
     },
-    "nombre_corto": "CA Osasuna"
+    "nombre_corto": "CA Osasuna",
+    "historia": "En el año 1920, la desunión amenazaba el fútbol de Pamplona. Para evitar la desaparición de este deporte en Navarra, los socios de dos equipos disidentes (la Sociedad Sportiva y el New Club) decidieron reunirse en el mítico Café Kutz el 24 de octubre. Liderados por Eduardo Aizpún, acordaron una fusión bajo un nombre singular sugerido por Benjamín Andoian: 'Osasuna' (que en lengua euskera significa salud, fuerza y vigor). Siempre fiel a sus raíces navarras y a la cantera de Tajonar, el club escribió su heroica historia basada en cuatro grandes hitos: el inolvidable primer ascenso a la máxima categoría en 1935 bajo la batuta de Emilio Urdíroz; la épica e inesperada campaña de la temporada 2005-06 en la cual, bajo las órdenes del mexicano Javier Aguirre, lograron un histórico cuarto puesto y la clasificación a la ronda previa de la Liga de Campeones; la disputa de dos emotivas finales de la Copa del Rey (2005 ante el Betis y 2023 ante el Real Madrid); y la milagrosa y agónica salvación del descenso en Sabadell en 2015 que evitó la probable desaparición económica de la entidad.",
+    "equipacion": [
+      {
+        "desde": 1920,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#000040",
+        "sh": "#000040",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "El atuendo 'Rojillo' ha sido perenne: camiseta roja lisa e intensa contrastando invariablemente con unos pantalones azul marino oscuros y medias negras con detalles rojos."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Patxi Puñal",
+        "partidos": "513",
+        "goles": "22",
+        "descripcion": "El eterno gran capitán navarro. Ostenta el récord inalcanzable de partidos jugados con el club de sus amores."
+      },
+      {
+        "nombre": "Sabino Andonegui",
+        "partidos": "131",
+        "goles": "57",
+        "descripcion": "El letal goleador de la posguerra, dueño del récord histórico de más goles anotados por un jugador del equipo en Primera."
+      },
+      {
+        "nombre": "Jan Urban",
+        "partidos": "168",
+        "goles": "49",
+        "descripcion": "Atacante polaco que dejó una huella imborrable gracias a su recordado hat-trick frente al Real Madrid en el Bernabéu (0-4)."
+      },
+      {
+        "nombre": "Roberto Torres",
+        "partidos": "353",
+        "goles": "60",
+        "descripcion": "Surgido en Tajonar, líder técnico y espiritual clave en el resurgimiento y ascensos modernos en la década pasada."
+      },
+      {
+        "nombre": "César Cruchaga",
+        "partidos": "386",
+        "goles": "10",
+        "descripcion": "Impenetrable defensa central y emblema de la capitanía en la etapa dorada de clasificaciones europeas con Javier Aguirre."
+      }
+    ]
   },
   "historia": [
     {

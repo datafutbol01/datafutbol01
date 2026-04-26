@@ -39,7 +39,52 @@
       "mayor_goleada": "10-1 vs Gimnàstic de Tarragona (1949)"
     },
     "nombre_oficial": "F. C. Barcelona",
-    "nombre_corto": "Barcelona"
+    "nombre_corto": "Barcelona",
+    "historia": "El 29 de noviembre de 1899, en el gimnasio Solé de Barcelona, el entusiasmo cosmopolita cristalizó en uno de los proyectos deportivos más importantes de la historia. Hans Gamper, un contador y deportista suizo, había publicado semanas antes un anuncio en la revista 'Los Deportes' convocando a aficionados al fútbol. A su llamado acudieron once jóvenes, mezcla de extranjeros e industriales locales, que firmaron el acta fundacional del Football Club Barcelona. Desde su rol integrador en la sociedad catalana, el club construyó un palmarés de leyenda sostenido por cuatro grandes hitos: la irrupción del legendario 'Dream Team' de Johan Cruyff, que rompió el maleficio al ganar la primera Copa de Europa en 1992; el mágico e inigualable 'Sextete' conquistado en 2009 bajo la dirección de Pep Guardiola, revolucionando las tácticas del fútbol moderno; la conquista del segundo Triplete en 2015 con el tridente sudamericano (Messi, Suárez, Neymar); y su condición histórica como máximo ganador de la Copa del Rey y estandarte del 'Més que un club'.",
+    "equipacion": [
+      {
+        "desde": 1899,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#a50044",
+        "sh": "#0000ff",
+        "me": "#0000ff",
+        "tipo": "rayas-verticales",
+        "desc": "El club adoptó de inmediato el diseño inconfundible de camiseta azul y grana oscuro (inspirado presuntamente en los colores del FC Basilea o en escuelas suizas). A lo largo de más de un siglo, varió el ancho de sus franjas pero jamás la paleta."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Lionel Messi",
+        "partidos": "778",
+        "goles": "672",
+        "descripcion": "Máximo goleador histórico, máximo ganador de títulos y jugador con más partidos en el club. Una leyenda universal."
+      },
+      {
+        "nombre": "Xavi Hernández",
+        "partidos": "767",
+        "goles": "85",
+        "descripcion": "El cerebro de la época dorada. Director de orquesta inigualable que guio al club a múltiples Champions y ligas."
+      },
+      {
+        "nombre": "Andrés Iniesta",
+        "partidos": "674",
+        "goles": "57",
+        "descripcion": "Talento puro y forjado en La Masía, pieza fundamental de los mayores éxitos nacionales y continentales."
+      },
+      {
+        "nombre": "Carles Puyol",
+        "partidos": "593",
+        "goles": "19",
+        "descripcion": "El gran capitán. Símbolo de liderazgo, entrega física y compromiso absoluto con la institución culé."
+      },
+      {
+        "nombre": "Johan Cruyff",
+        "partidos": "180",
+        "goles": "60",
+        "descripcion": "Cambió para siempre la historia del club como jugador en los 70 y, especialmente, como el ideólogo moderno del banquillo."
+      }
+    ]
   },
   "historia": [
     {

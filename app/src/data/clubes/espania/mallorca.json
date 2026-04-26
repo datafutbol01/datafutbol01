@@ -38,7 +38,52 @@
       "maximo_goleador": "Samuel Eto'o (70 goles LFP)",
       "mas_presencias": "Paco Soler (419 partidos)"
     },
-    "nombre_corto": "RCD Mallorca"
+    "nombre_corto": "RCD Mallorca",
+    "historia": "El 5 de marzo de 1916, bajo el impetuoso liderazgo del ingeniero Adolfo Vázquez Humasqué, nació el Alfonso XIII Foot-Ball Club para honrar al monarca español reinante. Con la llegada de la Segunda República, la institución balear se despojó del nombre monárquico y pasó a llamarse Club Deportivo Mallorca, para finalmente adoptar el actual Real Club Deportivo Mallorca S.A.D. Desde su histórico campo del Lluís Sitjar, el club forjó un relato épico anclado en cuatro grandes hitos: el inolvidable debut en la máxima categoría en 1960; la gloriosa e histórica década dorada bajo la dirección de Héctor Cúper (finalistas de la Copa del Rey de 1998 y subcampeones de la última edición de la Recopa de Europa en 1999); la legendaria consagración en la Copa del Rey de 2003 con Samuel Eto'o destrozando al Recreativo de Huelva en Elche; y el épico milagro contemporáneo, cuando cayeron a la Segunda División B en 2017 y regresaron a Primera División en tan solo dos años consecutivos.",
+    "equipacion": [
+      {
+        "desde": 1916,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "El club adquirió su inconfundible indumentaria 'Bermellona' (Rojo Cinabrio) de manera casi inmediata, vistiendo camiseta enteramente roja con pantalones negros durante toda su existencia centenaria."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Samuel Eto'o",
+        "partidos": "165",
+        "goles": "70",
+        "descripcion": "Máximo goleador histórico del club en Primera, figura excluyente de la conquista copera de 2003."
+      },
+      {
+        "nombre": "Miguel Ángel Nadal",
+        "partidos": "255",
+        "goles": "28",
+        "descripcion": "Formado en el club, el 'Beast' retornó tras brillar en el Barça, capitaneando la histórica victoria en la Copa del Rey."
+      },
+      {
+        "nombre": "Paco Soler",
+        "partidos": "419",
+        "goles": "3",
+        "descripcion": "Mediocampista todoterreno y jugador con el récord inquebrantable de presencias oficiales de la institución."
+      },
+      {
+        "nombre": "Jovan Stankovic",
+        "partidos": "205",
+        "goles": "17",
+        "descripcion": "Brillante extremo serbio, protagonista inigualable de las finales de la Copa y la Recopa europea a finales de los 90."
+      },
+      {
+        "nombre": "Aritz Aduriz",
+        "partidos": "78",
+        "goles": "24",
+        "descripcion": "Delantero de enorme jerarquía que aportó cuotas vitales de gol durante los años de consolidación en Primera."
+      }
+    ]
   },
   "historia": [
     {

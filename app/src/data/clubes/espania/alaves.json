@@ -38,7 +38,52 @@
       "maximo_goleador": "Javi Moreno",
       "mas_presencias": "Martín Astudillo (346 partidos)"
     },
-    "nombre_corto": "Deportivo Alavés"
+    "nombre_corto": "Deportivo Alavés",
+    "historia": "El 23 de enero de 1921, en el vibrante corazón de Vitoria, se formalizó el nacimiento del Deportivo Alavés. El club surgió como un renacimiento del Sport Friend's Club, fundado meses antes, bajo el férreo impulso de figuras históricas como Amadeo García de Salazar. Movidos por la necesidad de aglutinar el entusiasmo futbolístico de la provincia de Álava, los fundadores cimentaron las bases de la institución. Su recorrido glorioso y combativo se define por cuatro grandes hitos: su debut temprano en la élite al ser el primer equipo ascendido a la Primera División en 1930; la milagrosa y sufrida clasificación a su primera competencia europea en 2000; la épica e inolvidable final de la Copa de la UEFA de 2001, donde cayeron 5-4 ante el Liverpool en uno de los partidos más memorables de la historia; y el regreso triunfal a la final de la Copa del Rey en 2017.",
+    "equipacion": [
+      {
+        "desde": 1921,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#0000ff",
+        "tipo": "rayas-verticales",
+        "desc": "Desde su refundación, el 'Glorioso' adoptó un patrón inquebrantable: camiseta a franjas verticales azules y blancas ('albiazul'), acompañadas tradicionalmente de pantalones azules y medias blancas o azules."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Manu García",
+        "partidos": "308",
+        "goles": "19",
+        "descripcion": "Capitán histórico en el siglo XXI, liderando al club desde la Segunda B hasta la final de la Copa del Rey de 2017."
+      },
+      {
+        "nombre": "Fernando Pacheco",
+        "partidos": "253",
+        "goles": "0",
+        "descripcion": "Guardameta titular inamovible durante el exitoso periodo moderno en Primera División."
+      },
+      {
+        "nombre": "Javi Moreno",
+        "partidos": "118",
+        "goles": "50",
+        "descripcion": "Goleador fundamental en el histórico subcampeonato de la Copa de la UEFA en la temporada 2000-01."
+      },
+      {
+        "nombre": "Cosme",
+        "partidos": "220",
+        "goles": "14",
+        "descripcion": "Figura legendaria de las primeras décadas y del histórico ascenso a Primera División en 1930."
+      },
+      {
+        "nombre": "Ibai Gómez",
+        "partidos": "92",
+        "goles": "17",
+        "descripcion": "Extremo fundamental en el regreso a Primera División, aportando goles decisivos."
+      }
+    ]
   },
   "historia": [
     {

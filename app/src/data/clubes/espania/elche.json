@@ -36,7 +36,62 @@
       "mayor_goleada": "8-1 a Sevilla",
       "maximo_goleador": "Nino",
       "mas_presencias": "Nino (475 partidos)"
-    }
+    },
+    "historia": "A finales del verano de 1922, la afición al fútbol en Elche estaba fragmentada. Tras meses de diálogo, el 10 de enero de 1923, en una curiosa reunión celebrada dentro de la cueva donde guardaban la pirotecnia de las fiestas locales, se oficializó la fusión de varios equipos de la ciudad (el Sporting, la Gimnástica y el Quiles). De aquella unión modesta surgió el Elche Club de Fútbol, con Mariano Aguilar asumiendo como el primer presidente de su historia. Desde el rústico campo del Altabix, la entidad ilicitana cimentó un prestigio nacional enmarcado en cuatro grandes hitos: el inolvidable ascenso a Primera División en 1959 impulsado por el ídolo César Rodríguez; su histórica incursión hasta la gran final de la Copa del Generalísimo en 1969; la construcción e inauguración del imponente estadio Martínez Valero en 1976 para acoger su creciente grandeza; y la hazaña moderna del doble ascenso consecutivo en 2020 bajo un ajustado límite salarial.",
+    "equipacion": [
+      {
+        "desde": 1923,
+        "hasta": 1926,
+        "c1": "#ffffff",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "En sus inicios, el conjunto ilicitano vestía un sobrio atuendo completamente blanco, típico de los clubes amateurs de los años 20."
+      },
+      {
+        "desde": 1927,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#008000",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "banda-horizontal",
+        "desc": "El técnico checo Antón Fivébr introdujo la emblemática 'Franja Verde' horizontal cruzando el pecho de la camiseta blanca. Desde entonces es el sello de identidad inalterable del equipo franjiverde."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Nino",
+        "partidos": "475",
+        "goles": "135",
+        "descripcion": "Delantero con récord absoluto de goles y presencias, referente eterno en las etapas más difíciles del club."
+      },
+      {
+        "nombre": "César Rodríguez",
+        "partidos": "89",
+        "goles": "33",
+        "descripcion": "Tras brillar en el Barça, llevó al Elche a Primera en 1959 ejerciendo una doble función de entrenador y jugador."
+      },
+      {
+        "nombre": "Miguel Quirant",
+        "partidos": "363",
+        "goles": "4",
+        "descripcion": "Defensor histórico y capitán emblemático durante los grandes años en la máxima categoría en los 60."
+      },
+      {
+        "nombre": "Eulogio Martínez",
+        "partidos": "45",
+        "goles": "12",
+        "descripcion": "Gran figura extranjera que lideró ofensivamente a la plantilla que arribó a la inolvidable final de Copa del Rey de 1969."
+      },
+      {
+        "nombre": "Fidel Chaves",
+        "partidos": "230",
+        "goles": "38",
+        "descripcion": "Extremo fundamental en la historia reciente, siendo clave en los agónicos y épicos ascensos a Primera del siglo XXI."
+      }
+    ]
   },
   "historia": [
     {

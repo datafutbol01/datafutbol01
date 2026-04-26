@@ -37,7 +37,62 @@
       "mas_presencias": "Fernando Gómez (553)"
     },
     "nombre_oficial": "Valencia Club de Fútbol, S.A.D.",
-    "nombre_corto": "Valencia CF"
+    "nombre_corto": "Valencia CF",
+    "historia": "En el vibrante ambiente fallero valenciano, un reducido grupo de aficionados apasionados, hastiados por la deficiente estructura futbolística tras los fracasos y la extinción de clubes locales previos, decidió citarse el 18 de marzo de 1919 en el legendario Bar Torino. Echando una temeraria moneda al aire para elegir los primeros cargos, Octavio Augusto Milego Díaz (cara) obtuvo la presidencia del recién fundado Valencia Foot-ball Club, superando a su buen amigo Gonzalo Medina (cruz). Instalados en su templo colosal de Mestalla inaugurado en 1923, han edificado un brillante y furibundo palmarés regido firmemente por cuatro grandes hitos inmortales: la letal etapa de posguerra dominada por la épica y abrumadora 'Delantera Eléctrica', que conquistó tres ligas nacionales en los 40; el fulgurante campeonato de liga bajo la disciplina del mítico Alfredo Di Stéfano y el memorable título europeo de la Recopa con el letal Mario Kempes en 1980; el amargo descenso de 1986 que generó la épica resurrección pasional del club en tan solo un año de suplicio; y el inconmensurable 'Doblelete' arrasador del colosal equipo entrenado por Rafa Benítez en 2004 (Liga de España y brillante Copa de la UEFA), dominando a galácticos e ingresando de lleno al olimpo internacional.",
+    "equipacion": [
+      {
+        "desde": 1919,
+        "hasta": 1924,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "Iniciaron la aventura portando camisa lisa totalmente blanca, la cual contrastaba drásticamente y elegantemente con pantalonetas íntegramente de color negro."
+      },
+      {
+        "desde": 1925,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Conformaron la imponente y luminosa configuración actual 'Ché': vestimenta pura en impoluto color blanco liso integrando tanto remera como las correspondientes calzas para Mestalla."
+      }
+    ],
+    "idolos": [
+      {
+        "nombre": "Mario Kempes",
+        "partidos": "246",
+        "goles": "149",
+        "descripcion": "El majestuoso e implacable 'Matador' argentino. Ídolo cumbre adorado por Mestalla que los impulsó de forma mágica a coronarse con la Recopa Europea, sumando además dos Trofeos Pichichi dorados."
+      },
+      {
+        "nombre": "Mundo",
+        "partidos": "287",
+        "goles": "269",
+        "descripcion": "Edmundo Suárez, el aplastante delantero principal que ejerció como destructor del gol absoluto durante las mágicas décadas de oro, estableciendo registros intocables como máximo anotador de su historia."
+      },
+      {
+        "nombre": "Fernando Gómez",
+        "partidos": "553",
+        "goles": "142",
+        "descripcion": "Legendario cerebro, estandarte del escudo durante quince valiosos años de constante entrega organizadora y líder con el prestigioso galardón del mayor número de encuentros jugados."
+      },
+      {
+        "nombre": "David Albelda",
+        "partidos": "485",
+        "goles": "9",
+        "descripcion": "Robusto capitán incansable e invaluable de contención del glorioso equipo indestructible del esplendor del nuevo milenio de Rafa Benítez."
+      },
+      {
+        "nombre": "Santiago Cañizares",
+        "partidos": "416",
+        "goles": "0",
+        "descripcion": "Carismático y feroz portero teñido, quien cimentó como fortín la portería valenciana obteniendo enormes reconocimientos y títulos nacionales en su épica trayectoria."
+      }
+    ]
   },
   "historia": [
     {
