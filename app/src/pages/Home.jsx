@@ -2,6 +2,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Search, Trophy, Shield, Globe2, Activity } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState, useEffect, useRef } from 'react';
+import DatoDelDia from '../components/DatoDelDia';
 
 export default function Home() {
   const [activeLang, setActiveLang] = useState('Español');
@@ -389,6 +390,11 @@ export default function Home() {
               </motion.div>
             )}
           </AnimatePresence>
+        </div>
+
+        {/* DATO DEL DÍA */}
+        <div className="animate-fade-in" style={{ width: '100%', maxWidth: '700px', marginTop: '-2rem', marginBottom: '3rem' }}>
+          <DatoDelDia />
         </div>
 
         {/* 4 GRANDES PILARES DE LA PÁGINA (MATRIX) */}

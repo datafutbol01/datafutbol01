@@ -1,0 +1,6179 @@
+{
+  "year": 2003,
+  "cup": "champions",
+  "participants": [
+    {
+      "id": "ac_milan",
+      "name": "AC Milan",
+      "country": "italia",
+      "dt": "Carlo Ancelotti",
+      "flag": "it",
+      "squad": [
+        {
+          "no": 12,
+          "name": "Dida",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "name": "Christian Abbiati",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 3,
+          "name": "Paolo Maldini",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 13,
+          "name": "Alessandro Nesta",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 19,
+          "name": "Alessandro Costacurta",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 4,
+          "name": "Kakha Kaladze",
+          "pos": "DEF",
+          "flag": "ge"
+        },
+        {
+          "no": 14,
+          "name": "Dario Šimić",
+          "pos": "DEF",
+          "flag": "hr"
+        },
+        {
+          "no": 24,
+          "name": "Martin Laursen",
+          "pos": "DEF",
+          "flag": "dk"
+        },
+        {
+          "no": 2,
+          "name": "Thomas Helveg",
+          "pos": "DEF",
+          "flag": "dk"
+        },
+        {
+          "no": 25,
+          "name": "Roque Júnior",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "name": "Gennaro Gattuso",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 21,
+          "name": "Andrea Pirlo",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 20,
+          "name": "Clarence Seedorf",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 10,
+          "name": "Rui Costa",
+          "pos": "MED",
+          "flag": "pt"
+        },
+        {
+          "no": 23,
+          "name": "Massimo Ambrosini",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 27,
+          "name": "Serginho",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "name": "Fernando Redondo",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 32,
+          "name": "Cristian Brocchi",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 7,
+          "name": "Andriy Shevchenko",
+          "pos": "DEL",
+          "flag": "ua"
+        },
+        {
+          "no": 9,
+          "name": "Filippo Inzaghi",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 11,
+          "name": "Rivaldo",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "name": "Jon Dahl Tomasson",
+          "pos": "DEL",
+          "flag": "dk"
+        }
+      ]
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus",
+      "country": "italia",
+      "dt": "Marcello Lippi",
+      "flag": "it",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Gianluigi Buffon",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 12,
+          "name": "Antonio Chimenti",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 2,
+          "name": "Ciro Ferrara",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 4,
+          "name": "Paolo Montero",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 21,
+          "name": "Lilian Thuram",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 15,
+          "name": "Alessandro Birindelli",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 13,
+          "name": "Mark Iuliano",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 7,
+          "name": "Gianluca Pessotto",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 5,
+          "name": "Igor Tudor",
+          "pos": "DEF",
+          "flag": "hr"
+        },
+        {
+          "no": 8,
+          "name": "Antonio Conte",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 3,
+          "name": "Alessio Tacchinardi",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 26,
+          "name": "Edgar Davids",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "name": "Pavel Nedvěd",
+          "pos": "MED",
+          "flag": "cz"
+        },
+        {
+          "no": 16,
+          "name": "Mauro Camoranesi",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 19,
+          "name": "Gianluca Zambrotta",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 10,
+          "name": "Alessandro Del Piero",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 17,
+          "name": "David Trezeguet",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 9,
+          "name": "Marcelo Salas",
+          "pos": "DEL",
+          "flag": "cl"
+        },
+        {
+          "no": 25,
+          "name": "Marcelo Zalayeta",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 20,
+          "name": "Marco Di Vaio",
+          "pos": "DEL",
+          "flag": "it"
+        }
+      ]
+    },
+    {
+      "id": "real_madrid",
+      "name": "Real Madrid",
+      "country": "espania",
+      "dt": "Vicente del Bosque",
+      "flag": "es",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Iker Casillas",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "name": "César Sánchez",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "name": "Míchel Salgado",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 3,
+          "name": "Roberto Carlos",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Fernando Hierro",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "name": "Iván Helguera",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 22,
+          "name": "Francisco Pavón",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 17,
+          "name": "Óscar Miñambres",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 5,
+          "name": "Zinedine Zidane",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 24,
+          "name": "Claude Makélélé",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 10,
+          "name": "Luís Figo",
+          "pos": "MED",
+          "flag": "pt"
+        },
+        {
+          "no": 14,
+          "name": "Guti",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 16,
+          "name": "Flávio Conceição",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 21,
+          "name": "Santiago Solari",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "name": "Steve McManaman",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 19,
+          "name": "Esteban Cambiasso",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "name": "Raúl",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 11,
+          "name": "Ronaldo",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "name": "Fernando Morientes",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 28,
+          "name": "Javier Portillo",
+          "pos": "DEL",
+          "flag": "es"
+        }
+      ]
+    },
+    {
+      "id": "inter",
+      "name": "Inter de Milán",
+      "country": "italia",
+      "dt": "Héctor Cúper",
+      "flag": "it",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Francesco Toldo",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 12,
+          "name": "Alberto Fontana",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 2,
+          "name": "Iván Córdoba",
+          "pos": "DEF",
+          "flag": "co"
+        },
+        {
+          "no": 4,
+          "name": "Javier Zanetti",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 23,
+          "name": "Marco Materazzi",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 13,
+          "name": "Fabio Cannavaro",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 77,
+          "name": "Francesco Coco",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 24,
+          "name": "Carlos Gamarra",
+          "pos": "DEF",
+          "flag": "py"
+        },
+        {
+          "no": 6,
+          "name": "Cristiano Zanetti",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 5,
+          "name": "Emre Belözoğlu",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 8,
+          "name": "Sabri Lamouchi",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 14,
+          "name": "Luigi Di Biagio",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 11,
+          "name": "Guly",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "name": "Sérgio Conceição",
+          "pos": "MED",
+          "flag": "pt"
+        },
+        {
+          "no": 3,
+          "name": "Mohamed Kallon",
+          "pos": "DEL",
+          "flag": "sl"
+        },
+        {
+          "no": 32,
+          "name": "Christian Vieri",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 9,
+          "name": "Hernán Crespo",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 20,
+          "name": "Álvaro Recoba",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 30,
+          "name": "Obafemi Martins",
+          "pos": "DEL",
+          "flag": "ng"
+        }
+      ]
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia",
+      "country": "espania",
+      "dt": "Rafa Benítez",
+      "flag": "es",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Santiago Cañizares",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "name": "Andrés Palop",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "name": "Mauricio Pellegrino",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "name": "Carlos Marchena",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "name": "Roberto Ayala",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "name": "Fábio Aurélio",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "name": "Amedeo Carboni",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 23,
+          "name": "Curro Torres",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 12,
+          "name": "Anthony Réveillère",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 6,
+          "name": "David Albelda",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "name": "Rubén Baraja",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 21,
+          "name": "Pablo Aimar",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "name": "Vicente",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 19,
+          "name": "Rufete",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 18,
+          "name": "Kily González",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Salva Ballesta",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 10,
+          "name": "Miguel Ángel Angulo",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 11,
+          "name": "John Carew",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 7,
+          "name": "Mista",
+          "pos": "DEL",
+          "flag": "es"
+        }
+      ]
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "country": "espania",
+      "dt": "Radomir Antić",
+      "flag": "es",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Roberto Bonano",
+          "pos": "POR",
+          "flag": "ar"
+        },
+        {
+          "no": 25,
+          "name": "Robert Enke",
+          "pos": "POR",
+          "flag": "de"
+        },
+        {
+          "no": 2,
+          "name": "Michael Reiziger",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 3,
+          "name": "Frank de Boer",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 5,
+          "name": "Carles Puyol",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "name": "Patrik Andersson",
+          "pos": "DEF",
+          "flag": "se"
+        },
+        {
+          "no": 12,
+          "name": "Philippe Christanval",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 33,
+          "name": "Oleguer",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "name": "Xavi",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "name": "Phillip Cocu",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 21,
+          "name": "Luis Enrique",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 28,
+          "name": "Thiago Motta",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "name": "Gerard",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 15,
+          "name": "Fábio Rochemback",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Juan Román Riquelme",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "name": "Gaizka Mendieta",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 7,
+          "name": "Javier Saviola",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Patrick Kluivert",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "name": "Marc Overmars",
+          "pos": "DEL",
+          "flag": "nl"
+        }
+      ]
+    },
+    {
+      "id": "manchester_united",
+      "name": "Manchester United",
+      "country": "inglaterra",
+      "dt": "Sir Alex Ferguson",
+      "flag": "gb-eng",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Fabien Barthez",
+          "pos": "POR",
+          "flag": "fr"
+        },
+        {
+          "no": 13,
+          "name": "Roy Carroll",
+          "pos": "POR",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 2,
+          "name": "Gary Neville",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 3,
+          "name": "Phil Neville",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 5,
+          "name": "Laurent Blanc",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 6,
+          "name": "Rio Ferdinand",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 24,
+          "name": "Wes Brown",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 27,
+          "name": "Mikaël Silvestre",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 22,
+          "name": "John O'Shea",
+          "pos": "DEF",
+          "flag": "ie"
+        },
+        {
+          "no": 7,
+          "name": "David Beckham",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 8,
+          "name": "Nicky Butt",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 11,
+          "name": "Ryan Giggs",
+          "pos": "MED",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 16,
+          "name": "Roy Keane",
+          "pos": "MED",
+          "flag": "ie"
+        },
+        {
+          "no": 18,
+          "name": "Paul Scholes",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 4,
+          "name": "Juan Sebastián Verón",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 25,
+          "name": "Quinton Fortune",
+          "pos": "MED",
+          "flag": "za"
+        },
+        {
+          "no": 10,
+          "name": "Ruud van Nistelrooy",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 20,
+          "name": "Ole Gunnar Solskjær",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 21,
+          "name": "Diego Forlán",
+          "pos": "DEL",
+          "flag": "uy"
+        }
+      ]
+    },
+    {
+      "id": "ajax",
+      "name": "Ajax",
+      "country": "paises-bajos",
+      "dt": "Ronald Koeman",
+      "flag": "nl",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Bogdan Lobonț",
+          "pos": "POR",
+          "flag": "ro"
+        },
+        {
+          "no": 21,
+          "name": "Joey Didulica",
+          "pos": "POR",
+          "flag": "hr"
+        },
+        {
+          "no": 2,
+          "name": "Hatem Trabelsi",
+          "pos": "DEF",
+          "flag": "tn"
+        },
+        {
+          "no": 3,
+          "name": "André Bergdølmo",
+          "pos": "DEF",
+          "flag": "no"
+        },
+        {
+          "no": 5,
+          "name": "Cristian Chivu",
+          "pos": "DEF",
+          "flag": "ro"
+        },
+        {
+          "no": 13,
+          "name": "Maxwell",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Tomáš Galásek",
+          "pos": "MED",
+          "flag": "cz"
+        },
+        {
+          "no": 6,
+          "name": "Richard Witschge",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 8,
+          "name": "Steven Pienaar",
+          "pos": "MED",
+          "flag": "za"
+        },
+        {
+          "no": 10,
+          "name": "Rafael van der Vaart",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 18,
+          "name": "John O'Brien",
+          "pos": "MED",
+          "flag": "us"
+        },
+        {
+          "no": 20,
+          "name": "Jari Litmanen",
+          "pos": "MED",
+          "flag": "fi"
+        },
+        {
+          "no": 23,
+          "name": "Wesley Sneijder",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 26,
+          "name": "Nigel de Jong",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 7,
+          "name": "Andy van der Meyde",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 9,
+          "name": "Zlatan Ibrahimović",
+          "pos": "DEL",
+          "flag": "se"
+        },
+        {
+          "no": 11,
+          "name": "Mido",
+          "pos": "DEL",
+          "flag": "eg"
+        },
+        {
+          "no": 17,
+          "name": "Wamberto",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "country": "inglaterra",
+      "dt": "Arsène Wenger",
+      "flag": "gb-eng",
+      "squad": [
+        {
+          "no": 1,
+          "name": "David Seaman",
+          "pos": "POR",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 13,
+          "name": "Stuart Taylor",
+          "pos": "POR",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 3,
+          "name": "Ashley Cole",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 5,
+          "name": "Martin Keown",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 12,
+          "name": "Lauren",
+          "pos": "DEF",
+          "flag": "cm"
+        },
+        {
+          "no": 23,
+          "name": "Sol Campbell",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 28,
+          "name": "Kolo Touré",
+          "pos": "DEF",
+          "flag": "ci"
+        },
+        {
+          "no": 18,
+          "name": "Pascal Cygan",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "name": "Patrick Vieira",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 7,
+          "name": "Robert Pires",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "name": "Freddie Ljungberg",
+          "pos": "MED",
+          "flag": "se"
+        },
+        {
+          "no": 15,
+          "name": "Ray Parlour",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 19,
+          "name": "Gilberto Silva",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "name": "Edu",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "name": "Francis Jeffers",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 10,
+          "name": "Dennis Bergkamp",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "name": "Sylvain Wiltord",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 14,
+          "name": "Thierry Henry",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 25,
+          "name": "Nwankwo Kanu",
+          "pos": "DEL",
+          "flag": "ng"
+        }
+      ]
+    },
+    {
+      "id": "roma",
+      "name": "Roma",
+      "country": "italia",
+      "dt": "Fabio Capello",
+      "flag": "it",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Francesco Antonioli",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 12,
+          "name": "Ivan Pelizzoli",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 2,
+          "name": "Cafu",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 32,
+          "name": "Vincent Candela",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "name": "Leandro Cufré",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "name": "Jonathan Zebina",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 19,
+          "name": "Walter Samuel",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "name": "Aldair",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 23,
+          "name": "Christian Panucci",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 14,
+          "name": "Christian Panucci",
+          "pos": "DEF",
+          "flag": "it"
+        },
+        {
+          "no": 8,
+          "name": "Francisco Lima",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "name": "Emerson",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "name": "Olivier Dacourt",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 17,
+          "name": "Damiano Tommasi",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 20,
+          "name": "Davide Bombardini",
+          "pos": "MED",
+          "flag": "it"
+        },
+        {
+          "no": 10,
+          "name": "Francesco Totti",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 9,
+          "name": "Vincenzo Montella",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 18,
+          "name": "Antonio Cassano",
+          "pos": "DEL",
+          "flag": "it"
+        },
+        {
+          "no": 24,
+          "name": "Marco Delvecchio",
+          "pos": "DEL",
+          "flag": "it"
+        }
+      ]
+    },
+    {
+      "id": "newcastle",
+      "name": "Newcastle United",
+      "country": "inglaterra",
+      "dt": "Sir Bobby Robson",
+      "flag": "gb-eng",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Shay Given",
+          "pos": "POR",
+          "flag": "ie"
+        },
+        {
+          "no": 12,
+          "name": "Steve Harper",
+          "pos": "POR",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 18,
+          "name": "Aaron Hughes",
+          "pos": "DEF",
+          "flag": "gb-nir"
+        },
+        {
+          "no": 5,
+          "name": "Andy O'Brien",
+          "pos": "DEF",
+          "flag": "ie"
+        },
+        {
+          "no": 19,
+          "name": "Titus Bramble",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 35,
+          "name": "Olivier Bernard",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 24,
+          "name": "Sylvain Distin",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "name": "Robbie Elliott",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 4,
+          "name": "Nolberto Solano",
+          "pos": "MED",
+          "flag": "pe"
+        },
+        {
+          "no": 8,
+          "name": "Kieron Dyer",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 11,
+          "name": "Gary Speed",
+          "pos": "MED",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 22,
+          "name": "Jermaine Jenas",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 32,
+          "name": "Laurent Robert",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 45,
+          "name": "Hugo Viana",
+          "pos": "MED",
+          "flag": "pt"
+        },
+        {
+          "no": 9,
+          "name": "Alan Shearer",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 10,
+          "name": "Craig Bellamy",
+          "pos": "DEL",
+          "flag": "gb-wls"
+        },
+        {
+          "no": 23,
+          "name": "Shola Ameobi",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 14,
+          "name": "Lomana LuaLua",
+          "pos": "DEL",
+          "flag": "cd"
+        }
+      ]
+    },
+    {
+      "id": "deportivo_la_coruna",
+      "name": "Deportivo La Coruña",
+      "country": "espania",
+      "dt": "Javier Irureta",
+      "flag": "es",
+      "squad": [
+        {
+          "no": 1,
+          "name": "José Molina",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "name": "Dani Mallo",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "name": "Manuel Pablo",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 3,
+          "name": "Enrique Romero",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "name": "Noureddine Naybet",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 14,
+          "name": "Jorge Andrade",
+          "pos": "DEF",
+          "flag": "pt"
+        },
+        {
+          "no": 15,
+          "name": "Joan Capdevila",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 5,
+          "name": "César Martín",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 20,
+          "name": "Donato",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "name": "Mauro Silva",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "name": "Sergio",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 18,
+          "name": "Víctor Sánchez",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 21,
+          "name": "Juan Carlos Valerón",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "name": "Djalminha",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Fran",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 22,
+          "name": "Aldo Duscher",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 23,
+          "name": "Lionel Scaloni",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "name": "Roy Makaay",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 9,
+          "name": "Diego Tristán",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 11,
+          "name": "José Amavisca",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 17,
+          "name": "Walter Pandiani",
+          "pos": "DEL",
+          "flag": "uy"
+        }
+      ]
+    },
+    {
+      "id": "bayer_leverkusen",
+      "name": "Bayer Leverkusen",
+      "country": "alemania",
+      "dt": "Klaus Toppmöller",
+      "flag": "de",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Hans-Jörg Butt",
+          "pos": "POR",
+          "flag": "de"
+        },
+        {
+          "no": 20,
+          "name": "Frank Juric",
+          "pos": "POR",
+          "flag": "au"
+        },
+        {
+          "no": 3,
+          "name": "Lúcio",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Juan",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "name": "Jens Nowotny",
+          "pos": "DEF",
+          "flag": "de"
+        },
+        {
+          "no": 35,
+          "name": "Diego Placente",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "name": "Boris Živković",
+          "pos": "DEF",
+          "flag": "hr"
+        },
+        {
+          "no": 26,
+          "name": "Zoltán Sebescen",
+          "pos": "DEF",
+          "flag": "de"
+        },
+        {
+          "no": 28,
+          "name": "Carsten Ramelow",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 25,
+          "name": "Bernd Schneider",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 10,
+          "name": "Yıldıray Baştürk",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 8,
+          "name": "Marko Babić",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 21,
+          "name": "Radosław Kałużny",
+          "pos": "MED",
+          "flag": "pl"
+        },
+        {
+          "no": 15,
+          "name": "Jurica Vranješ",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 9,
+          "name": "Kirsten",
+          "pos": "DEL",
+          "flag": "de"
+        },
+        {
+          "no": 11,
+          "name": "França",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "name": "Dimitar Berbatov",
+          "pos": "DEL",
+          "flag": "bg"
+        },
+        {
+          "no": 27,
+          "name": "Oliver Neuville",
+          "pos": "DEL",
+          "flag": "de"
+        }
+      ]
+    },
+    {
+      "id": "lyon",
+      "name": "Lyon",
+      "country": "francia",
+      "dt": "Paul Le Guen",
+      "flag": "fr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Grégory Coupet",
+          "pos": "POR",
+          "flag": "fr"
+        },
+        {
+          "no": 30,
+          "name": "Nicolas Puydebois",
+          "pos": "POR",
+          "flag": "fr"
+        },
+        {
+          "no": 2,
+          "name": "Eric Deflandre",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 3,
+          "name": "Edmílson",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Florent Laville",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 20,
+          "name": "Patrick Müller",
+          "pos": "DEF",
+          "flag": "ch"
+        },
+        {
+          "no": 23,
+          "name": "Jérémie Bréchet",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 31,
+          "name": "Cláudio Caçapa",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "name": "Philippe Violeau",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "name": "Juninho Pernambucano",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Eric Carrière",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 24,
+          "name": "Vikash Dhorasoo",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 7,
+          "name": "Mahamadou Diarra",
+          "pos": "MED",
+          "flag": "ml"
+        },
+        {
+          "no": 22,
+          "name": "Tony Vairelles",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 9,
+          "name": "Sonny Anderson",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "name": "Sidney Govou",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 18,
+          "name": "Péguy Luyindula",
+          "pos": "DEL",
+          "flag": "fr"
+        }
+      ]
+    },
+    {
+      "id": "lokomotiv_moscow",
+      "name": "Lokomotiv Moscow",
+      "flag": "ru",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Sergei Ovchinnikov",
+          "pos": "POR",
+          "flag": "ru"
+        },
+        {
+          "no": 2,
+          "name": "Gennadiy Nizhegorodov",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 4,
+          "name": "Jacob Lekgetho",
+          "pos": "DEF",
+          "flag": "za"
+        },
+        {
+          "no": 5,
+          "name": "Sergei Ignashevich",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 14,
+          "name": "Oleg Pashinin",
+          "pos": "DEF",
+          "flag": "uz"
+        },
+        {
+          "no": 16,
+          "name": "Vadim Evseev",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 17,
+          "name": "Dmitri Sennikov",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 6,
+          "name": "Narvik Sirkhayev",
+          "pos": "MED",
+          "flag": "az"
+        },
+        {
+          "no": 8,
+          "name": "Vladimir Maminov",
+          "pos": "MED",
+          "flag": "uz"
+        },
+        {
+          "no": 10,
+          "name": "Dmitri Loskov",
+          "pos": "MED",
+          "flag": "ru"
+        },
+        {
+          "no": 11,
+          "name": "Julio César",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Marat Izmailov",
+          "pos": "MED",
+          "flag": "ru"
+        },
+        {
+          "no": 9,
+          "name": "James Obiorah",
+          "pos": "DEL",
+          "flag": "ng"
+        },
+        {
+          "no": 15,
+          "name": "Maxim Buznikin",
+          "pos": "DEL",
+          "flag": "ru"
+        },
+        {
+          "no": 25,
+          "name": "Ruslan Pimenov",
+          "pos": "DEL",
+          "flag": "ru"
+        }
+      ]
+    },
+    {
+      "id": "basel",
+      "name": "FC Basel",
+      "flag": "ch",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Pascal Zuberbühler",
+          "pos": "POR",
+          "flag": "ch"
+        },
+        {
+          "no": 5,
+          "name": "Oliver Kreuzer",
+          "pos": "DEF",
+          "flag": "de"
+        },
+        {
+          "no": 15,
+          "name": "Murat Yakin",
+          "pos": "DEF",
+          "flag": "ch"
+        },
+        {
+          "no": 24,
+          "name": "Thimothée Atouba",
+          "pos": "DEF",
+          "flag": "cm"
+        },
+        {
+          "no": 3,
+          "name": "Julio Hernán Rossi",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "name": "Benjamin Huggel",
+          "pos": "MED",
+          "flag": "ch"
+        },
+        {
+          "no": 12,
+          "name": "Sébastien Barberis",
+          "pos": "MED",
+          "flag": "ch"
+        },
+        {
+          "no": 22,
+          "name": "Ivan Ergić",
+          "pos": "MED",
+          "flag": "yu"
+        },
+        {
+          "no": 8,
+          "name": "Carlos Varela",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 10,
+          "name": "Hakan Yakin",
+          "pos": "MED",
+          "flag": "ch"
+        },
+        {
+          "no": 33,
+          "name": "Mario Cantaluppi",
+          "pos": "MED",
+          "flag": "ch"
+        },
+        {
+          "no": 7,
+          "name": "Christian Giménez",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "name": "Hervé Tum",
+          "pos": "DEL",
+          "flag": "cm"
+        },
+        {
+          "no": 13,
+          "name": "Marco Streller",
+          "pos": "DEL",
+          "flag": "ch"
+        }
+      ]
+    },
+    {
+      "id": "galatasaray",
+      "name": "Galatasaray",
+      "flag": "tr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Faryd Mondragón",
+          "pos": "POR",
+          "flag": "co"
+        },
+        {
+          "no": 3,
+          "name": "Bülent Korkmaz",
+          "pos": "DEF",
+          "flag": "tr"
+        },
+        {
+          "no": 4,
+          "name": "Emre Aşık",
+          "pos": "DEF",
+          "flag": "tr"
+        },
+        {
+          "no": 22,
+          "name": "Ümit Davala",
+          "pos": "DEF",
+          "flag": "tr"
+        },
+        {
+          "no": 23,
+          "name": "Vedat İnceefe",
+          "pos": "DEF",
+          "flag": "tr"
+        },
+        {
+          "no": 57,
+          "name": "Hakan Ünsal",
+          "pos": "DEF",
+          "flag": "tr"
+        },
+        {
+          "no": 8,
+          "name": "Suat Kaya",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 11,
+          "name": "Hasan Şaş",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 18,
+          "name": "Ayhan Akman",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 67,
+          "name": "Ergün Penbe",
+          "pos": "MED",
+          "flag": "tr"
+        },
+        {
+          "no": 10,
+          "name": "Felipe",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Berkant Göktan",
+          "pos": "DEL",
+          "flag": "tr"
+        },
+        {
+          "no": 9,
+          "name": "Ümit Karan",
+          "pos": "DEL",
+          "flag": "tr"
+        },
+        {
+          "no": 17,
+          "name": "Fábio Pinto",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "name": "Christian",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "club_brugge",
+      "name": "Club Brugge",
+      "flag": "be",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Dany Verlinden",
+          "pos": "POR",
+          "flag": "be"
+        },
+        {
+          "no": 2,
+          "name": "Olivier De Cock",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 4,
+          "name": "Tjörven De Brul",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 5,
+          "name": "Peter Van Der Heyden",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 6,
+          "name": "Philippe Clement",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 26,
+          "name": "Birger Maertens",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 8,
+          "name": "Gaëtan Englebert",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 11,
+          "name": "Sandy Martens",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 10,
+          "name": "Alin Stoica",
+          "pos": "MED",
+          "flag": "ro"
+        },
+        {
+          "no": 16,
+          "name": "Serhiy Serebrennikov",
+          "pos": "MED",
+          "flag": "ua"
+        },
+        {
+          "no": 27,
+          "name": "Karel Geraerts",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 28,
+          "name": "Josip Šimić",
+          "pos": "DEL",
+          "flag": "hr"
+        },
+        {
+          "no": 9,
+          "name": "Bengt Sæternes",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 18,
+          "name": "Nastja Čeh",
+          "pos": "DEL",
+          "flag": "si"
+        },
+        {
+          "no": 19,
+          "name": "Rune Lange",
+          "pos": "DEL",
+          "flag": "no"
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "name": "Lens",
+      "flag": "fr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Guillaume Warmuz",
+          "pos": "POR",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "name": "Rigobert Song",
+          "pos": "DEF",
+          "flag": "cm"
+        },
+        {
+          "no": 4,
+          "name": "Adama Coulibaly",
+          "pos": "DEF",
+          "flag": "ml"
+        },
+        {
+          "no": 5,
+          "name": "Jocelyn Blanchard",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 2,
+          "name": "Éric Sikora",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "name": "Seydou Keita",
+          "pos": "MED",
+          "flag": "ml"
+        },
+        {
+          "no": 10,
+          "name": "Daniel Moreira",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 21,
+          "name": "Charles-Édouard Coridon",
+          "pos": "MED",
+          "flag": "mq"
+        },
+        {
+          "no": 7,
+          "name": "Antoine Sibierski",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 11,
+          "name": "Olivier Thomert",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 18,
+          "name": "Philippe Brunel",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 9,
+          "name": "John Utaka",
+          "pos": "DEL",
+          "flag": "ng"
+        },
+        {
+          "no": 28,
+          "name": "Daouda Jabi",
+          "pos": "DEL",
+          "flag": "gn"
+        },
+        {
+          "no": 24,
+          "name": "Abdoulaye Faye",
+          "pos": "DEF",
+          "flag": "sn"
+        },
+        {
+          "no": 20,
+          "name": "Bouba Diop",
+          "pos": "MED",
+          "flag": "sn"
+        }
+      ]
+    },
+    {
+      "id": "bayern_munich",
+      "name": "Bayern Múnich",
+      "flag": "de",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Oliver Kahn",
+          "pos": "POR",
+          "flag": "de"
+        },
+        {
+          "no": 2,
+          "name": "Willy Sagnol",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "name": "Bixente Lizarazu",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "name": "Samuel Kuffour",
+          "pos": "DEF",
+          "flag": "gh"
+        },
+        {
+          "no": 5,
+          "name": "Robert Kovač",
+          "pos": "DEF",
+          "flag": "hr"
+        },
+        {
+          "no": 25,
+          "name": "Thomas Linke",
+          "pos": "DEF",
+          "flag": "de"
+        },
+        {
+          "no": 7,
+          "name": "Mehmet Scholl",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 11,
+          "name": "Zé Roberto",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "name": "Michael Ballack",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 16,
+          "name": "Jens Jeremies",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 20,
+          "name": "Hasan Salihamidžić",
+          "pos": "MED",
+          "flag": "ba"
+        },
+        {
+          "no": 23,
+          "name": "Owen Hargreaves",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 26,
+          "name": "Sebastian Deisler",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 9,
+          "name": "Giovane Élber",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "name": "Claudio Pizarro",
+          "pos": "DEL",
+          "flag": "pe"
+        },
+        {
+          "no": 24,
+          "name": "Roque Santa Cruz",
+          "pos": "DEL",
+          "flag": "py"
+        }
+      ]
+    },
+    {
+      "id": "maccabi_haifa",
+      "name": "Maccabi Haifa",
+      "flag": "il",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Dudu Aouate",
+          "pos": "POR",
+          "flag": "il"
+        },
+        {
+          "no": 3,
+          "name": "Alon Harazi",
+          "pos": "DEF",
+          "flag": "il"
+        },
+        {
+          "no": 4,
+          "name": "Arik Benado",
+          "pos": "DEF",
+          "flag": "il"
+        },
+        {
+          "no": 6,
+          "name": "Adoram Keisi",
+          "pos": "DEF",
+          "flag": "il"
+        },
+        {
+          "no": 7,
+          "name": "Nenad Pralija",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 9,
+          "name": "Michael Zandberg",
+          "pos": "MED",
+          "flag": "il"
+        },
+        {
+          "no": 10,
+          "name": "Walid Badir",
+          "pos": "MED",
+          "flag": "il"
+        },
+        {
+          "no": 11,
+          "name": "Giovanni Rosso",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 16,
+          "name": "Ayiila Yussuf",
+          "pos": "MED",
+          "flag": "ng"
+        },
+        {
+          "no": 19,
+          "name": "Guillermo Israilevich",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 20,
+          "name": "Yaniv Katan",
+          "pos": "DEL",
+          "flag": "il"
+        },
+        {
+          "no": 28,
+          "name": "Yakubu",
+          "pos": "DEL",
+          "flag": "ng"
+        },
+        {
+          "no": 8,
+          "name": "Raimondas Žutautas",
+          "pos": "MED",
+          "flag": "lt"
+        },
+        {
+          "no": 5,
+          "name": "Tomer Ben Yosef",
+          "pos": "DEF",
+          "flag": "il"
+        },
+        {
+          "no": 24,
+          "name": "Rafi Cohen",
+          "pos": "DEL",
+          "flag": "il"
+        }
+      ]
+    },
+    {
+      "id": "spartak_moscow",
+      "name": "Spartak Moscow",
+      "flag": "ru",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Maxym Levytskyy",
+          "pos": "POR",
+          "flag": "ua"
+        },
+        {
+          "no": 2,
+          "name": "Yuri Kovtun",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 3,
+          "name": "Ibrahima Kébé",
+          "pos": "DEF",
+          "flag": "sn"
+        },
+        {
+          "no": 4,
+          "name": "Jerry-Christian Tchuissé",
+          "pos": "DEF",
+          "flag": "cm"
+        },
+        {
+          "no": 6,
+          "name": "Dmitri Ananko",
+          "pos": "DEF",
+          "flag": "ru"
+        },
+        {
+          "no": 18,
+          "name": "Dmitri Parfenov",
+          "pos": "DEF",
+          "flag": "ua"
+        },
+        {
+          "no": 7,
+          "name": "Vasili Baranov",
+          "pos": "MED",
+          "flag": "by"
+        },
+        {
+          "no": 9,
+          "name": "Yegor Titov",
+          "pos": "MED",
+          "flag": "ru"
+        },
+        {
+          "no": 10,
+          "name": "Eduard Tsykhmeystruk",
+          "pos": "MED",
+          "flag": "ua"
+        },
+        {
+          "no": 25,
+          "name": "Aleksandr Pavlenko",
+          "pos": "MED",
+          "flag": "ru"
+        },
+        {
+          "no": 24,
+          "name": "Marcelo Silva",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "name": "Vladimir Beschastnykh",
+          "pos": "DEL",
+          "flag": "ru"
+        },
+        {
+          "no": 14,
+          "name": "Aleksandr Shirko",
+          "pos": "DEL",
+          "flag": "ru"
+        },
+        {
+          "no": 20,
+          "name": "Aleksandr Danishevsky",
+          "pos": "DEL",
+          "flag": "ru"
+        },
+        {
+          "no": 21,
+          "name": "Roman Pavlyuchenko",
+          "pos": "DEL",
+          "flag": "ru"
+        }
+      ]
+    },
+    {
+      "id": "ae_athens",
+      "name": "AEK Athens",
+      "flag": "gr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Dionisis Chiotis",
+          "pos": "POR",
+          "flag": "gr"
+        },
+        {
+          "no": 4,
+          "name": "Michalis Kapsis",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 5,
+          "name": "Nikos Kostenoglou",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 16,
+          "name": "Nikos Georgeas",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 17,
+          "name": "Michalis Kasapis",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 32,
+          "name": "Mauricio Wright",
+          "pos": "DEF",
+          "flag": "cr"
+        },
+        {
+          "no": 6,
+          "name": "Theodoros Zagorakis",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 8,
+          "name": "Milen Petkov",
+          "pos": "MED",
+          "flag": "bg"
+        },
+        {
+          "no": 10,
+          "name": "Vasilios Tsiartas",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 20,
+          "name": "Sotirios Konstantinidis",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 21,
+          "name": "Katsouranis",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 23,
+          "name": "Vassilis Lakis",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 11,
+          "name": "Demis Nikolaidis",
+          "pos": "DEL",
+          "flag": "gr"
+        },
+        {
+          "no": 14,
+          "name": "Ilia Ivić",
+          "pos": "DEL",
+          "flag": "yu"
+        },
+        {
+          "no": 33,
+          "name": "Christos Kostis",
+          "pos": "DEL",
+          "flag": "gr"
+        }
+      ]
+    },
+    {
+      "id": "olympiacos",
+      "name": "Olympiacos",
+      "flag": "gr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Dimitrios Eleftheropoulos",
+          "pos": "POR",
+          "flag": "gr"
+        },
+        {
+          "no": 3,
+          "name": "Stylianos Venetidis",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 5,
+          "name": "Georgios Amanatidis",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 14,
+          "name": "Dimitris Mavrogenidis",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 18,
+          "name": "Paraskevas Antzas",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 19,
+          "name": "Athanasios Kostoulas",
+          "pos": "DEF",
+          "flag": "gr"
+        },
+        {
+          "no": 21,
+          "name": "Grigorios Georgatos",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 7,
+          "name": "Stelios Giannakopoulos",
+          "pos": "MED",
+          "flag": "gr"
+        },
+        {
+          "no": 8,
+          "name": "Christian Karembeu",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 11,
+          "name": "Predrag Đorđević",
+          "pos": "MED",
+          "flag": "yu"
+        },
+        {
+          "no": 20,
+          "name": "Pär Zetterberg",
+          "pos": "MED",
+          "flag": "se"
+        },
+        {
+          "no": 10,
+          "name": "Giovanni",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "name": "Peter Ofori-Quaye",
+          "pos": "DEL",
+          "flag": "gh"
+        },
+        {
+          "no": 30,
+          "name": "Alekos Alexandris",
+          "pos": "DEL",
+          "flag": "gr"
+        },
+        {
+          "no": 9,
+          "name": "Lampros Choutos",
+          "pos": "DEL",
+          "flag": "gr"
+        }
+      ]
+    },
+    {
+      "id": "feyenoord",
+      "name": "Feyenoord",
+      "flag": "nl",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Edwin Zoetebier",
+          "pos": "POR",
+          "flag": "nl"
+        },
+        {
+          "no": 2,
+          "name": "Christian Gyan",
+          "pos": "DEF",
+          "flag": "gh"
+        },
+        {
+          "no": 3,
+          "name": "Tomasz Rząsa",
+          "pos": "DEF",
+          "flag": "pl"
+        },
+        {
+          "no": 5,
+          "name": "Patrick Paauwe",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 8,
+          "name": "Kees van Wonderen",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 17,
+          "name": "Ferry de Haan",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 6,
+          "name": "Paul Bosvelt",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 14,
+          "name": "Shinji Ono",
+          "pos": "MED",
+          "flag": "jp"
+        },
+        {
+          "no": 18,
+          "name": "Leonardo",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "name": "Thomas Buffel",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 24,
+          "name": "Brett Emerton",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 7,
+          "name": "Bonaventure Kalou",
+          "pos": "DEL",
+          "flag": "ci"
+        },
+        {
+          "no": 9,
+          "name": "Pierre van Hooijdonk",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 22,
+          "name": "Mariano Bombarda",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "name": "Lurling",
+          "pos": "DEL",
+          "flag": "nl"
+        }
+      ]
+    },
+    {
+      "id": "auxerre",
+      "name": "Auxerre",
+      "flag": "fr",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Fabien Cool",
+          "pos": "POR",
+          "flag": "fr"
+        },
+        {
+          "no": 2,
+          "name": "Johan Radet",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "name": "Jean-Sébastien Jaurès",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "name": "Jean-Alain Boumsong",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 5,
+          "name": "Philippe Mexès",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 6,
+          "name": "Kanga Akalé",
+          "pos": "MED",
+          "flag": "ci"
+        },
+        {
+          "no": 7,
+          "name": "Benoît Cheyrou",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "name": "Yann Lachuer",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 10,
+          "name": "Teemu Tainio",
+          "pos": "MED",
+          "flag": "fi"
+        },
+        {
+          "no": 11,
+          "name": "Khalilou Fadiga",
+          "pos": "MED",
+          "flag": "sn"
+        },
+        {
+          "no": 14,
+          "name": "Lionel Mathis",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 21,
+          "name": "Amdy Faye",
+          "pos": "MED",
+          "flag": "sn"
+        },
+        {
+          "no": 9,
+          "name": "Djibril Cissé",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 15,
+          "name": "Olivier Kapo",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 23,
+          "name": "Benjamin Mwaruwari",
+          "pos": "DEL",
+          "flag": "zw"
+        }
+      ]
+    },
+    {
+      "id": "psv",
+      "name": "PSV Eindhoven",
+      "flag": "nl",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Ronald Waterreus",
+          "pos": "POR",
+          "flag": "nl"
+        },
+        {
+          "no": 2,
+          "name": "André Ooijer",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 3,
+          "name": "Kevin Hofland",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 5,
+          "name": "Wilfred Bouma",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 22,
+          "name": "Kasper Bøgelund",
+          "pos": "DEF",
+          "flag": "dk"
+        },
+        {
+          "no": 29,
+          "name": "Jürgen Colin",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 6,
+          "name": "Mark van Bommel",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 7,
+          "name": "Adil Ramzi",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 14,
+          "name": "Johann Vogel",
+          "pos": "MED",
+          "flag": "ch"
+        },
+        {
+          "no": 19,
+          "name": "Dennis Rommedahl",
+          "pos": "MED",
+          "flag": "dk"
+        },
+        {
+          "no": 24,
+          "name": "Leandro",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "name": "Jan Vennegoor of Hesselink",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 9,
+          "name": "Mateja Kežman",
+          "pos": "DEL",
+          "flag": "yu"
+        },
+        {
+          "no": 10,
+          "name": "Arnold Bruggink",
+          "pos": "DEL",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "name": "Arjen Robben",
+          "pos": "DEL",
+          "flag": "nl"
+        }
+      ]
+    },
+    {
+      "id": "dynamo_kyiv",
+      "name": "Dynamo Kyiv",
+      "flag": "ua",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Oleksandr Shovkovskyi",
+          "pos": "POR",
+          "flag": "ua"
+        },
+        {
+          "no": 4,
+          "name": "Olexandr Holovko",
+          "pos": "DEF",
+          "flag": "ua"
+        },
+        {
+          "no": 6,
+          "name": "Yuriy Dmitrulin",
+          "pos": "DEF",
+          "flag": "ua"
+        },
+        {
+          "no": 24,
+          "name": "László Bodnár",
+          "pos": "DEF",
+          "flag": "hu"
+        },
+        {
+          "no": 26,
+          "name": "Andriy Nesmachniy",
+          "pos": "DEF",
+          "flag": "ua"
+        },
+        {
+          "no": 32,
+          "name": "Goran Gavrančić",
+          "pos": "DEF",
+          "flag": "yu"
+        },
+        {
+          "no": 2,
+          "name": "Aliaksandr Khatskevich",
+          "pos": "MED",
+          "flag": "by"
+        },
+        {
+          "no": 8,
+          "name": "Valyantsin Byalkevich",
+          "pos": "MED",
+          "flag": "by"
+        },
+        {
+          "no": 9,
+          "name": "Tiberiu Ghioane",
+          "pos": "MED",
+          "flag": "ro"
+        },
+        {
+          "no": 10,
+          "name": "Florin Cernat",
+          "pos": "MED",
+          "flag": "ro"
+        },
+        {
+          "no": 14,
+          "name": "Andriy Husin",
+          "pos": "MED",
+          "flag": "ua"
+        },
+        {
+          "no": 36,
+          "name": "Jerko Leko",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 7,
+          "name": "Oleksandr Melashchenko",
+          "pos": "DEL",
+          "flag": "ua"
+        },
+        {
+          "no": 16,
+          "name": "Maxim Shatskikh",
+          "pos": "DEL",
+          "flag": "uz"
+        },
+        {
+          "no": 25,
+          "name": "Diogo Rincón",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "rosenborg",
+      "name": "Rosenborg",
+      "flag": "no",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Árni Gautur Arason",
+          "pos": "POR",
+          "flag": "is"
+        },
+        {
+          "no": 3,
+          "name": "Erik Hoftun",
+          "pos": "DEF",
+          "flag": "no"
+        },
+        {
+          "no": 5,
+          "name": "Christer Basma",
+          "pos": "DEF",
+          "flag": "no"
+        },
+        {
+          "no": 21,
+          "name": "Ståle Stensaas",
+          "pos": "DEF",
+          "flag": "no"
+        },
+        {
+          "no": 6,
+          "name": "Roar Strand",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 7,
+          "name": "Ørjan Berg",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 8,
+          "name": "Dagfinn Enerly",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 10,
+          "name": "Bent Skammelsrud",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 19,
+          "name": "Christer George",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 9,
+          "name": "Frode Johnsen",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 17,
+          "name": "Sigurd Rushfeldt",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 20,
+          "name": "Azar Karadas",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 22,
+          "name": "Harald Martin Brattbakk",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 11,
+          "name": "Jahn Ivar Jakobsen",
+          "pos": "MED",
+          "flag": "no"
+        },
+        {
+          "no": 14,
+          "name": "Lars Blixt",
+          "pos": "DEF",
+          "flag": "no"
+        }
+      ]
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "flag": "gb-eng",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Jerzy Dudek",
+          "pos": "POR",
+          "flag": "pl"
+        },
+        {
+          "no": 2,
+          "name": "Stéphane Henchoz",
+          "pos": "DEF",
+          "flag": "ch"
+        },
+        {
+          "no": 3,
+          "name": "Abel Xavier",
+          "pos": "DEF",
+          "flag": "pt"
+        },
+        {
+          "no": 4,
+          "name": "Sami Hyypiä",
+          "pos": "DEF",
+          "flag": "fi"
+        },
+        {
+          "no": 18,
+          "name": "John Arne Riise",
+          "pos": "DEF",
+          "flag": "no"
+        },
+        {
+          "no": 23,
+          "name": "Jamie Carragher",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 7,
+          "name": "Vladimír Šmicer",
+          "pos": "MED",
+          "flag": "cz"
+        },
+        {
+          "no": 13,
+          "name": "Danny Murphy",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 16,
+          "name": "Dietmar Hamann",
+          "pos": "MED",
+          "flag": "de"
+        },
+        {
+          "no": 17,
+          "name": "Steven Gerrard",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 25,
+          "name": "Igor Bišćan",
+          "pos": "MED",
+          "flag": "hr"
+        },
+        {
+          "no": 9,
+          "name": "El Hadji Diouf",
+          "pos": "DEL",
+          "flag": "sn"
+        },
+        {
+          "no": 10,
+          "name": "Michael Owen",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 5,
+          "name": "Milan Baroš",
+          "pos": "DEL",
+          "flag": "cz"
+        },
+        {
+          "no": 8,
+          "name": "Emile Heskey",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        }
+      ]
+    },
+    {
+      "id": "genk",
+      "name": "Genk",
+      "flag": "be",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Jan Moons",
+          "pos": "POR",
+          "flag": "be"
+        },
+        {
+          "no": 2,
+          "name": "Igor Tomašić",
+          "pos": "DEF",
+          "flag": "hr"
+        },
+        {
+          "no": 3,
+          "name": "Akram Roumani",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 4,
+          "name": "Didier Zokora",
+          "pos": "MED",
+          "flag": "ci"
+        },
+        {
+          "no": 6,
+          "name": "Josip Skoko",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 7,
+          "name": "Mirsad Bešlija",
+          "pos": "MED",
+          "flag": "ba"
+        },
+        {
+          "no": 10,
+          "name": "Bernd Thijs",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 14,
+          "name": "Koen Daerden",
+          "pos": "MED",
+          "flag": "be"
+        },
+        {
+          "no": 8,
+          "name": "Kevin Vandenbergh",
+          "pos": "DEL",
+          "flag": "be"
+        },
+        {
+          "no": 9,
+          "name": "Moumouni Dagano",
+          "pos": "DEL",
+          "flag": "bf"
+        },
+        {
+          "no": 19,
+          "name": "Wesley Sonck",
+          "pos": "DEL",
+          "flag": "be"
+        },
+        {
+          "no": 5,
+          "name": "Wilfried Delbroek",
+          "pos": "DEF",
+          "flag": "be"
+        },
+        {
+          "no": 11,
+          "name": "Kevin Hofland",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 15,
+          "name": "Seyfo Soley",
+          "pos": "MED",
+          "flag": "gm"
+        },
+        {
+          "no": 18,
+          "name": "Indriði Sigurðsson",
+          "pos": "DEF",
+          "flag": "is"
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "A": {
+      "name": "Grupo A",
+      "matches": [
+        {
+          "id1": "arsenal",
+          "id2": "borussia_dortmund",
+          "score": "2-0",
+          "goals1": [
+            "Bergkamp 62'",
+            "Ljungberg 77'"
+          ],
+          "goals2": [],
+          "team1": "Arsenal"
+        },
+        {
+          "id1": "auxerre",
+          "id2": "psv",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Auxerre",
+          "team2": "PSV Eindhoven"
+        },
+        {
+          "id1": "psv",
+          "id2": "arsenal",
+          "score": "0-4",
+          "goals1": [],
+          "goals2": [
+            "Gilberto 1'",
+            "Ljungberg 66'",
+            "Henry 81'",
+            "Henry 90'"
+          ],
+          "team1": "PSV Eindhoven",
+          "team2": "Arsenal"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "auxerre",
+          "score": "2-1",
+          "goals1": [
+            "Koller 6'",
+            "Amoroso 78'"
+          ],
+          "goals2": [
+            "Benjani 83'"
+          ],
+          "team2": "Auxerre"
+        },
+        {
+          "id1": "auxerre",
+          "id2": "arsenal",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Gilberto 48'"
+          ],
+          "team1": "Auxerre",
+          "team2": "Arsenal"
+        },
+        {
+          "id1": "psv",
+          "id2": "borussia_dortmund",
+          "score": "1-3",
+          "goals1": [
+            "Van der Schaaf 74'"
+          ],
+          "goals2": [
+            "Koller 21'",
+            "Rosický 69'",
+            "Amoroso 90'"
+          ],
+          "team1": "PSV Eindhoven"
+        },
+        {
+          "id1": "arsenal",
+          "id2": "auxerre",
+          "score": "1-2",
+          "goals1": [
+            "Kanu 53'"
+          ],
+          "goals2": [
+            "Kapo 8'",
+            "Fadiga 27'"
+          ],
+          "team1": "Arsenal",
+          "team2": "Auxerre"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "psv",
+          "score": "1-1",
+          "goals1": [
+            "Koller 10'"
+          ],
+          "goals2": [
+            "Bruggink 47'"
+          ],
+          "team2": "PSV Eindhoven"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "arsenal",
+          "score": "2-1",
+          "goals1": [
+            "Rosický 38'",
+            "Rosický 62' (p)"
+          ],
+          "goals2": [
+            "Henry 18'"
+          ],
+          "team2": "Arsenal"
+        },
+        {
+          "id1": "psv",
+          "id2": "auxerre",
+          "score": "3-0",
+          "goals1": [
+            "Bruggink 34'",
+            "Rommedahl 48'",
+            "Robben 64'"
+          ],
+          "goals2": [],
+          "team1": "PSV Eindhoven",
+          "team2": "Auxerre"
+        },
+        {
+          "id1": "arsenal",
+          "id2": "psv",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Arsenal",
+          "team2": "PSV Eindhoven"
+        },
+        {
+          "id1": "auxerre",
+          "id2": "borussia_dortmund",
+          "score": "1-0",
+          "goals1": [
+            "Benjani 76'"
+          ],
+          "goals2": [],
+          "team1": "Auxerre"
+        }
+      ],
+      "standings": [
+        {
+          "id": "arsenal",
+          "team": "Arsenal",
+          "pts": 10,
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 9,
+          "gc": 4
+        },
+        {
+          "id": "borussia_dortmund",
+          "team": "borussia_dortmund",
+          "pts": 10,
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 8,
+          "gc": 7
+        },
+        {
+          "id": "auxerre",
+          "team": "Auxerre",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 4,
+          "gc": 7
+        },
+        {
+          "id": "psv",
+          "team": "PSV Eindhoven",
+          "pts": 6,
+          "pj": 6,
+          "pg": 1,
+          "pe": 3,
+          "pp": 2,
+          "gf": 5,
+          "gc": 8
+        }
+      ]
+    },
+    "B": {
+      "name": "Grupo B",
+      "matches": [
+        {
+          "id1": "valencia",
+          "id2": "liverpool",
+          "score": "2-0",
+          "goals1": [
+            "Aimar 20'",
+            "Baraja 38'"
+          ],
+          "goals2": [],
+          "team1": "Valencia",
+          "team2": "Liverpool"
+        },
+        {
+          "id1": "basel",
+          "id2": "spartak_moscow",
+          "score": "2-0",
+          "goals1": [
+            "H. Yakin 50'",
+            "Rossi 55'"
+          ],
+          "goals2": [],
+          "team1": "FC Basel",
+          "team2": "Spartak Moscow"
+        },
+        {
+          "id1": "spartak_moscow",
+          "id2": "valencia",
+          "score": "0-3",
+          "goals1": [],
+          "goals2": [
+            "Angulo 6'",
+            "Mista 71'",
+            "Sánchez 85'"
+          ],
+          "team1": "Spartak Moscow",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "liverpool",
+          "id2": "basel",
+          "score": "1-1",
+          "goals1": [
+            "Baroš 34'"
+          ],
+          "goals2": [
+            "Rossi 43'"
+          ],
+          "team1": "Liverpool",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "spartak_moscow",
+          "id2": "liverpool",
+          "score": "1-3",
+          "goals1": [
+            "Danishevsky 23'"
+          ],
+          "goals2": [
+            "Owen 29'",
+            "Owen 70'",
+            "Owen 90'"
+          ],
+          "team1": "Spartak Moscow",
+          "team2": "Liverpool"
+        },
+        {
+          "id1": "basel",
+          "id2": "valencia",
+          "score": "2-2",
+          "goals1": [
+            "Ergić 32'",
+            "Ergić 90'"
+          ],
+          "goals2": [
+            "Baraja 36'",
+            "Curro Torres 72'"
+          ],
+          "team1": "FC Basel",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "liverpool",
+          "id2": "spartak_moscow",
+          "score": "5-0",
+          "goals1": [
+            "Heskey 7'",
+            "Cheyrou 15'",
+            "Hyypiä 28'",
+            "Diao 81'",
+            "Heskey 89'"
+          ],
+          "goals2": [],
+          "team1": "Liverpool",
+          "team2": "Spartak Moscow"
+        },
+        {
+          "id1": "valencia",
+          "id2": "basel",
+          "score": "6-2",
+          "goals1": [
+            "Carew 10'",
+            "Carew 13'",
+            "Fábio Aurélio 17'",
+            "Baraja 28'",
+            "Aimar 58'",
+            "Rufete 60'"
+          ],
+          "goals2": [
+            "Rossi 46'",
+            "H. Yakin 90'"
+          ],
+          "team1": "Valencia",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "liverpool",
+          "id2": "valencia",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Rufete 34'"
+          ],
+          "team1": "Liverpool",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "spartak_moscow",
+          "id2": "basel",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Rossi 18'",
+            "Giménez 89'"
+          ],
+          "team1": "Spartak Moscow",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "valencia",
+          "id2": "spartak_moscow",
+          "score": "3-0",
+          "goals1": [
+            "Sánchez 38'",
+            "Sánchez 46'",
+            "Fábio Aurélio 78'"
+          ],
+          "goals2": [],
+          "team1": "Valencia",
+          "team2": "Spartak Moscow"
+        },
+        {
+          "id1": "basel",
+          "id2": "liverpool",
+          "score": "3-3",
+          "goals1": [
+            "Rossi 2'",
+            "Giménez 22'",
+            "Atouba 29'"
+          ],
+          "goals2": [
+            "Murphy 61'",
+            "Šmicer 64'",
+            "Owen 85'"
+          ],
+          "team1": "FC Basel",
+          "team2": "Liverpool"
+        }
+      ],
+      "standings": [
+        {
+          "id": "valencia",
+          "team": "Valencia",
+          "pts": 16,
+          "pj": 6,
+          "pg": 5,
+          "pe": 1,
+          "pp": 0,
+          "gf": 17,
+          "gc": 4
+        },
+        {
+          "id": "basel",
+          "team": "FC Basel",
+          "pts": 9,
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 12,
+          "gc": 12
+        },
+        {
+          "id": "liverpool",
+          "team": "Liverpool",
+          "pts": 8,
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 12,
+          "gc": 8
+        },
+        {
+          "id": "spartak_moscow",
+          "team": "Spartak Moscow",
+          "pts": 0,
+          "pj": 6,
+          "pg": 0,
+          "pe": 0,
+          "pp": 6,
+          "gf": 1,
+          "gc": 18
+        }
+      ]
+    },
+    "C": {
+      "name": "Grupo C",
+      "matches": [
+        {
+          "id1": "roma",
+          "id2": "real_madrid",
+          "score": "0-3",
+          "goals1": [],
+          "goals2": [
+            "Guti 41'",
+            "Raúl 56'",
+            "Guti 74'"
+          ],
+          "team1": "Roma",
+          "team2": "Real Madrid"
+        },
+        {
+          "id1": "genk",
+          "id2": "ae_athens",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Genk",
+          "team2": "AEK Athens"
+        },
+        {
+          "id1": "ae_athens",
+          "id2": "roma",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "AEK Athens",
+          "team2": "Roma"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "genk",
+          "score": "6-0",
+          "goals1": [
+            "Zokora 44' (ag)",
+            "Salgado 45'",
+            "Figo 55'",
+            "Guti 64'",
+            "Celades 74'",
+            "Raúl 76'"
+          ],
+          "goals2": [],
+          "team1": "Real Madrid",
+          "team2": "Genk"
+        },
+        {
+          "id1": "ae_athens",
+          "id2": "real_madrid",
+          "score": "3-3",
+          "goals1": [
+            "Tsiartas 6'",
+            "Maladenis 25'",
+            "Nikolaidis 28'"
+          ],
+          "goals2": [
+            "Zidane 15'",
+            "Zidane 39'",
+            "Guti 60'"
+          ],
+          "team1": "AEK Athens",
+          "team2": "Real Madrid"
+        },
+        {
+          "id1": "genk",
+          "id2": "roma",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Cassano 81'"
+          ],
+          "team1": "Genk",
+          "team2": "Roma"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "ae_athens",
+          "score": "2-2",
+          "goals1": [
+            "McManaman 24'",
+            "McManaman 43'"
+          ],
+          "goals2": [
+            "Katsouranis 74'",
+            "Centeno 86'"
+          ],
+          "team1": "Real Madrid",
+          "team2": "AEK Athens"
+        },
+        {
+          "id1": "roma",
+          "id2": "genk",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Roma",
+          "team2": "Genk"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "roma",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Totti 27'"
+          ],
+          "team1": "Real Madrid",
+          "team2": "Roma"
+        },
+        {
+          "id1": "ae_athens",
+          "id2": "genk",
+          "score": "1-1",
+          "goals1": [
+            "Lakis 30'"
+          ],
+          "goals2": [
+            "Sonck 22'"
+          ],
+          "team1": "AEK Athens",
+          "team2": "Genk"
+        },
+        {
+          "id1": "roma",
+          "id2": "ae_athens",
+          "score": "1-1",
+          "goals1": [
+            "Delvecchio 40'"
+          ],
+          "goals2": [
+            "Centeno 90'"
+          ],
+          "team1": "Roma",
+          "team2": "AEK Athens"
+        },
+        {
+          "id1": "genk",
+          "id2": "real_madrid",
+          "score": "1-1",
+          "goals1": [
+            "Sonck 86'"
+          ],
+          "goals2": [
+            "Tote 21'"
+          ],
+          "team1": "Genk",
+          "team2": "Real Madrid"
+        }
+      ],
+      "standings": [
+        {
+          "id": "real_madrid",
+          "team": "Real Madrid",
+          "pts": 9,
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 15,
+          "gc": 7
+        },
+        {
+          "id": "roma",
+          "team": "Roma",
+          "pts": 9,
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 3,
+          "gc": 4
+        },
+        {
+          "id": "ae_athens",
+          "team": "AEK Athens",
+          "pts": 6,
+          "pj": 6,
+          "pg": 0,
+          "pe": 6,
+          "pp": 0,
+          "gf": 7,
+          "gc": 7
+        },
+        {
+          "id": "genk",
+          "team": "Genk",
+          "pts": 4,
+          "pj": 6,
+          "pg": 0,
+          "pe": 4,
+          "pp": 2,
+          "gf": 2,
+          "gc": 9
+        }
+      ]
+    },
+    "D": {
+      "name": "Grupo D",
+      "matches": [
+        {
+          "id1": "rosenborg",
+          "id2": "inter",
+          "score": "2-2",
+          "goals1": [
+            "Karadas 52'",
+            "Karadas 65'"
+          ],
+          "goals2": [
+            "Crespo 33'",
+            "Crespo 79'"
+          ],
+          "team1": "Rosenborg",
+          "team2": "Inter de Milán"
+        },
+        {
+          "id1": "ajax",
+          "id2": "lyon",
+          "score": "2-1",
+          "goals1": [
+            "Ibrahimović 11'",
+            "Ibrahimović 34'"
+          ],
+          "goals2": [
+            "Anderson 84'"
+          ],
+          "team1": "Ajax",
+          "team2": "Lyon"
+        },
+        {
+          "id1": "lyon",
+          "id2": "rosenborg",
+          "score": "5-0",
+          "goals1": [
+            "Carrière 14'",
+            "Vairelles 26'",
+            "Anderson 34'",
+            "Govou 41'",
+            "Luyindula 74'"
+          ],
+          "goals2": [],
+          "team1": "Lyon",
+          "team2": "Rosenborg"
+        },
+        {
+          "id1": "inter",
+          "id2": "ajax",
+          "score": "1-0",
+          "goals1": [
+            "Crespo 75'"
+          ],
+          "goals2": [],
+          "team1": "Inter de Milán",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "inter",
+          "id2": "lyon",
+          "score": "1-2",
+          "goals1": [
+            "Cannavaro 73'"
+          ],
+          "goals2": [
+            "Govou 21'",
+            "Anderson 60'"
+          ],
+          "team1": "Inter de Milán",
+          "team2": "Lyon"
+        },
+        {
+          "id1": "rosenborg",
+          "id2": "ajax",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Rosenborg",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "lyon",
+          "id2": "inter",
+          "score": "3-3",
+          "goals1": [
+            "Anderson 21'",
+            "Carrière 44'",
+            "Anderson 75'"
+          ],
+          "goals2": [
+            "Caçapa 31' (ag)",
+            "Crespo 56'",
+            "Crespo 66'"
+          ],
+          "team1": "Lyon",
+          "team2": "Inter de Milán"
+        },
+        {
+          "id1": "ajax",
+          "id2": "rosenborg",
+          "score": "1-1",
+          "goals1": [
+            "Ibrahimović 41'"
+          ],
+          "goals2": [
+            "Enerly 85'"
+          ],
+          "team1": "Ajax",
+          "team2": "Rosenborg"
+        },
+        {
+          "id1": "inter",
+          "id2": "rosenborg",
+          "score": "3-0",
+          "goals1": [
+            "Recoba 31'",
+            "Saarinen 52' (ag)",
+            "Crespo 72'"
+          ],
+          "goals2": [],
+          "team1": "Inter de Milán",
+          "team2": "Rosenborg"
+        },
+        {
+          "id1": "lyon",
+          "id2": "ajax",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Pienaar 7'",
+            "Van der Vaart 90'"
+          ],
+          "team1": "Lyon",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "rosenborg",
+          "id2": "lyon",
+          "score": "1-1",
+          "goals1": [
+            "Brattbakk 69'"
+          ],
+          "goals2": [
+            "Govou 84'"
+          ],
+          "team1": "Rosenborg",
+          "team2": "Lyon"
+        },
+        {
+          "id1": "ajax",
+          "id2": "inter",
+          "score": "1-2",
+          "goals1": [
+            "Van der Vaart 90'"
+          ],
+          "goals2": [
+            "Crespo 50'",
+            "Crespo 52'"
+          ],
+          "team1": "Ajax",
+          "team2": "Inter de Milán"
+        }
+      ],
+      "standings": [
+        {
+          "id": "inter",
+          "team": "Inter de Milán",
+          "pts": 11,
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 12,
+          "gc": 8
+        },
+        {
+          "id": "lyon",
+          "team": "Lyon",
+          "pts": 8,
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 12,
+          "gc": 9
+        },
+        {
+          "id": "ajax",
+          "team": "Ajax",
+          "pts": 8,
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 6,
+          "gc": 5
+        },
+        {
+          "id": "rosenborg",
+          "team": "Rosenborg",
+          "pts": 4,
+          "pj": 6,
+          "pg": 0,
+          "pe": 4,
+          "pp": 2,
+          "gf": 4,
+          "gc": 12
+        }
+      ]
+    },
+    "E": {
+      "name": "Grupo E",
+      "matches": [
+        {
+          "id1": "feyenoord",
+          "id2": "juventus",
+          "score": "1-1",
+          "goals1": [
+            "Van Hooijdonk 75'"
+          ],
+          "goals2": [
+            "Camoranesi 32'"
+          ],
+          "team1": "Feyenoord",
+          "team2": "Juventus"
+        },
+        {
+          "id1": "dynamo_kyiv",
+          "id2": "newcastle",
+          "score": "2-0",
+          "goals1": [
+            "Shatskikh 17'",
+            "Khatskevich 62'"
+          ],
+          "goals2": [],
+          "team1": "Dynamo Kyiv",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "feyenoord",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Pardo 4'"
+          ],
+          "team1": "Newcastle United",
+          "team2": "Feyenoord"
+        },
+        {
+          "id1": "juventus",
+          "id2": "dynamo_kyiv",
+          "score": "5-0",
+          "goals1": [
+            "Di Vaio 14'",
+            "Del Piero 22'",
+            "Di Vaio 52'",
+            "Davids 67'",
+            "Nedvěd 79'"
+          ],
+          "goals2": [],
+          "team1": "Juventus",
+          "team2": "Dynamo Kyiv"
+        },
+        {
+          "id1": "juventus",
+          "id2": "newcastle",
+          "score": "2-0",
+          "goals1": [
+            "Del Piero 66'",
+            "Del Piero 81'"
+          ],
+          "goals2": [],
+          "team1": "Juventus",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "feyenoord",
+          "id2": "dynamo_kyiv",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Feyenoord",
+          "team2": "Dynamo Kyiv"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "juventus",
+          "score": "1-0",
+          "goals1": [
+            "Griffin 62'"
+          ],
+          "goals2": [],
+          "team1": "Newcastle United",
+          "team2": "Juventus"
+        },
+        {
+          "id1": "dynamo_kyiv",
+          "id2": "feyenoord",
+          "score": "2-0",
+          "goals1": [
+            "Khatskevich 16'",
+            "Belkevich 47'"
+          ],
+          "goals2": [],
+          "team1": "Dynamo Kyiv",
+          "team2": "Feyenoord"
+        },
+        {
+          "id1": "juventus",
+          "id2": "feyenoord",
+          "score": "2-0",
+          "goals1": [
+            "Di Vaio 4'",
+            "Di Vaio 69'"
+          ],
+          "goals2": [],
+          "team1": "Juventus",
+          "team2": "Feyenoord"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "dynamo_kyiv",
+          "score": "2-1",
+          "goals1": [
+            "Speed 58'",
+            "Shearer 69' (p)"
+          ],
+          "goals2": [
+            "Shatskikh 47'"
+          ],
+          "team1": "Newcastle United",
+          "team2": "Dynamo Kyiv"
+        },
+        {
+          "id1": "feyenoord",
+          "id2": "newcastle",
+          "score": "2-3",
+          "goals1": [
+            "Bombarda 65'",
+            "Lurling 71'"
+          ],
+          "goals2": [
+            "Bellamy 45'",
+            "Viana 49'",
+            "Bellamy 90'"
+          ],
+          "team1": "Feyenoord",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "dynamo_kyiv",
+          "id2": "juventus",
+          "score": "1-2",
+          "goals1": [
+            "Shatskikh 50'"
+          ],
+          "goals2": [
+            "Salas 53'",
+            "Zalayeta 61'"
+          ],
+          "team1": "Dynamo Kyiv",
+          "team2": "Juventus"
+        }
+      ],
+      "standings": [
+        {
+          "id": "juventus",
+          "team": "Juventus",
+          "pts": 13,
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 12,
+          "gc": 3
+        },
+        {
+          "id": "newcastle",
+          "team": "Newcastle United",
+          "pts": 9,
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 6,
+          "gc": 8
+        },
+        {
+          "id": "dynamo_kyiv",
+          "team": "Dynamo Kyiv",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 6,
+          "gc": 9
+        },
+        {
+          "id": "feyenoord",
+          "team": "Feyenoord",
+          "pts": 5,
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 4,
+          "gc": 8
+        }
+      ]
+    },
+    "F": {
+      "name": "Grupo F",
+      "matches": [
+        {
+          "id1": "manchester_united",
+          "id2": "maccabi_haifa",
+          "score": "5-2",
+          "goals1": [
+            "Giggs 10'",
+            "Solskjær 35'",
+            "Verón 46'",
+            "Van Nistelrooy 54'",
+            "Forlán 89' (p)"
+          ],
+          "goals2": [
+            "Katan 8'",
+            "Cohen 85'"
+          ],
+          "team1": "Manchester United",
+          "team2": "Maccabi Haifa"
+        },
+        {
+          "id1": "olympiacos",
+          "id2": "bayer_leverkusen",
+          "score": "6-2",
+          "goals1": [
+            "Kleine 27' (ag)",
+            "Giannakopoulos 38'",
+            "Đorđević 44'",
+            "Đorđević 64'",
+            "Đorđević 73'",
+            "Zetterberg 87'"
+          ],
+          "goals2": [
+            "Eleftheropoulos 22' (ag)",
+            "Schneider 78' (p)"
+          ],
+          "team1": "Olympiacos",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "manchester_united",
+          "score": "1-2",
+          "goals1": [
+            "Berbatov 52'"
+          ],
+          "goals2": [
+            "Van Nistelrooy 31'",
+            "Van Nistelrooy 44'"
+          ],
+          "team1": "Bayer Leverkusen",
+          "team2": "Manchester United"
+        },
+        {
+          "id1": "maccabi_haifa",
+          "id2": "olympiacos",
+          "score": "3-0",
+          "goals1": [
+            "Yakubu 27'",
+            "Yakubu 60'",
+            "Yakubu 86'"
+          ],
+          "goals2": [],
+          "team1": "Maccabi Haifa",
+          "team2": "Olympiacos"
+        },
+        {
+          "id1": "maccabi_haifa",
+          "id2": "bayer_leverkusen",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Babić 31'",
+            "Juan 64'"
+          ],
+          "team1": "Maccabi Haifa",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "manchester_united",
+          "id2": "olympiacos",
+          "score": "4-0",
+          "goals1": [
+            "Giggs 19'",
+            "Verón 26'",
+            "Giggs 66'",
+            "Solskjær 77'"
+          ],
+          "goals2": [],
+          "team1": "Manchester United",
+          "team2": "Olympiacos"
+        },
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "maccabi_haifa",
+          "score": "2-1",
+          "goals1": [
+            "Babić 45'",
+            "Juan 67'"
+          ],
+          "goals2": [
+            "Pralija 53'"
+          ],
+          "team1": "Bayer Leverkusen",
+          "team2": "Maccabi Haifa"
+        },
+        {
+          "id1": "olympiacos",
+          "id2": "manchester_united",
+          "score": "2-3",
+          "goals1": [
+            "Choutos 70'",
+            "Đorđević 74'"
+          ],
+          "goals2": [
+            "Blanc 21'",
+            "Verón 59'",
+            "Scholes 84'"
+          ],
+          "team1": "Olympiacos",
+          "team2": "Manchester United"
+        },
+        {
+          "id1": "maccabi_haifa",
+          "id2": "manchester_united",
+          "score": "3-0",
+          "goals1": [
+            "Katan 40'",
+            "Žutautas 56'",
+            "Yakubu 77'"
+          ],
+          "goals2": [],
+          "team1": "Maccabi Haifa",
+          "team2": "Manchester United"
+        },
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "olympiacos",
+          "score": "2-0",
+          "goals1": [
+            "Juan 14'",
+            "Schneider 90' (p)"
+          ],
+          "goals2": [],
+          "team1": "Bayer Leverkusen",
+          "team2": "Olympiacos"
+        },
+        {
+          "id1": "manchester_united",
+          "id2": "bayer_leverkusen",
+          "score": "2-0",
+          "goals1": [
+            "Verón 42'",
+            "Van Nistelrooy 69'"
+          ],
+          "goals2": [],
+          "team1": "Manchester United",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "olympiacos",
+          "id2": "maccabi_haifa",
+          "score": "3-3",
+          "goals1": [
+            "Alexandris 37'",
+            "Niniadis 51'",
+            "Antzas 79'"
+          ],
+          "goals2": [
+            "Badir 9'",
+            "Yakubu 10'",
+            "Katan 41'"
+          ],
+          "team1": "Olympiacos",
+          "team2": "Maccabi Haifa"
+        }
+      ],
+      "standings": [
+        {
+          "id": "manchester_united",
+          "team": "Manchester United",
+          "pts": 15,
+          "pj": 6,
+          "pg": 5,
+          "pe": 0,
+          "pp": 1,
+          "gf": 16,
+          "gc": 8
+        },
+        {
+          "id": "bayer_leverkusen",
+          "team": "Bayer Leverkusen",
+          "pts": 9,
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 9,
+          "gc": 11
+        },
+        {
+          "id": "maccabi_haifa",
+          "team": "Maccabi Haifa",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 12,
+          "gc": 12
+        },
+        {
+          "id": "olympiacos",
+          "team": "Olympiacos",
+          "pts": 4,
+          "pj": 6,
+          "pg": 1,
+          "pe": 1,
+          "pp": 4,
+          "gf": 11,
+          "gc": 17
+        }
+      ]
+    },
+    "G": {
+      "name": "Grupo G",
+      "matches": [
+        {
+          "id1": "bayern_munich",
+          "id2": "deportivo_la_coruna",
+          "score": "2-3",
+          "goals1": [
+            "Salihamidžić 57'",
+            "Élber 64'"
+          ],
+          "goals2": [
+            "Makaay 12'",
+            "Makaay 45'",
+            "Makaay 77'"
+          ],
+          "team1": "Bayern Múnich",
+          "team2": "Deportivo La Coruña"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "lens",
+          "score": "2-1",
+          "goals1": [
+            "Inzaghi 57'",
+            "Inzaghi 61'"
+          ],
+          "goals2": [
+            "Moreira 75'"
+          ],
+          "team1": "AC Milan",
+          "team2": "Lens"
+        },
+        {
+          "id1": "lens",
+          "id2": "bayern_munich",
+          "score": "1-1",
+          "goals1": [
+            "Utaka 76'"
+          ],
+          "goals2": [
+            "Linke 23'"
+          ],
+          "team1": "Lens",
+          "team2": "Bayern Múnich"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "ac_milan",
+          "score": "0-4",
+          "goals1": [],
+          "goals2": [
+            "Seedorf 17'",
+            "Inzaghi 33'",
+            "Inzaghi 55'",
+            "Inzaghi 62'"
+          ],
+          "team1": "Deportivo La Coruña",
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "lens",
+          "score": "3-1",
+          "goals1": [
+            "Makaay 41'",
+            "Capdevila 79'",
+            "César 84'"
+          ],
+          "goals2": [
+            "Moreira 10'"
+          ],
+          "team1": "Deportivo La Coruña",
+          "team2": "Lens"
+        },
+        {
+          "id1": "bayern_munich",
+          "id2": "ac_milan",
+          "score": "1-2",
+          "goals1": [
+            "Pizarro 54'"
+          ],
+          "goals2": [
+            "Inzaghi 52'",
+            "Inzaghi 84'"
+          ],
+          "team1": "Bayern Múnich",
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "lens",
+          "id2": "deportivo_la_coruna",
+          "score": "3-1",
+          "goals1": [
+            "Coridon 61'",
+            "Moreira 79'",
+            "Thomert 89'"
+          ],
+          "goals2": [
+            "Makaay 15'"
+          ],
+          "team1": "Lens",
+          "team2": "Deportivo La Coruña"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "bayern_munich",
+          "score": "2-1",
+          "goals1": [
+            "Serginho 11'",
+            "Inzaghi 64'"
+          ],
+          "goals2": [
+            "Tarnat 23'"
+          ],
+          "team1": "AC Milan",
+          "team2": "Bayern Múnich"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "bayern_munich",
+          "score": "2-1",
+          "goals1": [
+            "Víctor 54'",
+            "Makaay 89'"
+          ],
+          "goals2": [
+            "Santa Cruz 77'"
+          ],
+          "team1": "Deportivo La Coruña",
+          "team2": "Bayern Múnich"
+        },
+        {
+          "id1": "lens",
+          "id2": "ac_milan",
+          "score": "2-1",
+          "goals1": [
+            "Moreira 41'",
+            "Utaka 49'"
+          ],
+          "goals2": [
+            "Shevchenko 31'"
+          ],
+          "team1": "Lens",
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "bayern_munich",
+          "id2": "lens",
+          "score": "3-3",
+          "goals1": [
+            "R. Kovač 6'",
+            "Salihamidžić 19'",
+            "Feulner 87'"
+          ],
+          "goals2": [
+            "Fink 20' (ag)",
+            "Bakari 54'",
+            "Blanchard 90'"
+          ],
+          "team1": "Bayern Múnich",
+          "team2": "Lens"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "deportivo_la_coruna",
+          "score": "1-2",
+          "goals1": [
+            "Tomasson 34'"
+          ],
+          "goals2": [
+            "Tristán 58'",
+            "Makaay 70'"
+          ],
+          "team1": "AC Milan",
+          "team2": "Deportivo La Coruña"
+        }
+      ],
+      "standings": [
+        {
+          "id": "ac_milan",
+          "team": "AC Milan",
+          "pts": 12,
+          "pj": 6,
+          "pg": 4,
+          "pe": 0,
+          "pp": 2,
+          "gf": 12,
+          "gc": 7
+        },
+        {
+          "id": "deportivo_la_coruna",
+          "team": "Deportivo La Coruña",
+          "pts": 12,
+          "pj": 6,
+          "pg": 4,
+          "pe": 0,
+          "pp": 2,
+          "gf": 11,
+          "gc": 12
+        },
+        {
+          "id": "lens",
+          "team": "Lens",
+          "pts": 8,
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 11,
+          "gc": 11
+        },
+        {
+          "id": "bayern_munich",
+          "team": "Bayern Múnich",
+          "pts": 2,
+          "pj": 6,
+          "pg": 0,
+          "pe": 2,
+          "pp": 4,
+          "gf": 9,
+          "gc": 13
+        }
+      ]
+    },
+    "H": {
+      "name": "Grupo H",
+      "matches": [
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "galatasaray",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Sarr 59'",
+            "Arif 81'"
+          ],
+          "team1": "Lokomotiv Moscow",
+          "team2": "Galatasaray"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "club_brugge",
+          "score": "3-2",
+          "goals1": [
+            "Luis Enrique 5'",
+            "Mendieta 40'",
+            "Saviola 44'"
+          ],
+          "goals2": [
+            "Simons 22' (p)",
+            "Englebert 85'"
+          ],
+          "team1": "Barcelona",
+          "team2": "Club Brugge"
+        },
+        {
+          "id1": "club_brugge",
+          "id2": "lokomotiv_moscow",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Club Brugge",
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "galatasaray",
+          "id2": "barcelona",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Kluivert 27'",
+            "Luis Enrique 59'"
+          ],
+          "team1": "Galatasaray",
+          "team2": "Barcelona"
+        },
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "barcelona",
+          "score": "1-3",
+          "goals1": [
+            "Obiorah 56'"
+          ],
+          "goals2": [
+            "Kluivert 29'",
+            "Saviola 32'",
+            "Saviola 49'"
+          ],
+          "team1": "Lokomotiv Moscow",
+          "team2": "Barcelona"
+        },
+        {
+          "id1": "galatasaray",
+          "id2": "club_brugge",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Galatasaray",
+          "team2": "Club Brugge"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "lokomotiv_moscow",
+          "score": "1-0",
+          "goals1": [
+            "F. de Boer 76'"
+          ],
+          "goals2": [],
+          "team1": "Barcelona",
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "club_brugge",
+          "id2": "galatasaray",
+          "score": "3-1",
+          "goals1": [
+            "Martens 45'",
+            "Verheyen 72'",
+            "Sæternes 90'"
+          ],
+          "goals2": [
+            "Fábio Pinto 56'"
+          ],
+          "team1": "Club Brugge",
+          "team2": "Galatasaray"
+        },
+        {
+          "id1": "galatasaray",
+          "id2": "lokomotiv_moscow",
+          "score": "1-2",
+          "goals1": [
+            "Hasan Şaş 73'"
+          ],
+          "goals2": [
+            "Loskov 70'",
+            "Evseev 75'"
+          ],
+          "team1": "Galatasaray",
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "club_brugge",
+          "id2": "barcelona",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Riquelme 64'"
+          ],
+          "team1": "Club Brugge",
+          "team2": "Barcelona"
+        },
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "club_brugge",
+          "score": "2-0",
+          "goals1": [
+            "Julio César 44'",
+            "Loskov 90'"
+          ],
+          "goals2": [],
+          "team1": "Lokomotiv Moscow",
+          "team2": "Club Brugge"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "galatasaray",
+          "score": "3-1",
+          "goals1": [
+            "Dani 10'",
+            "Gerard 44'",
+            "Geovanni 56'"
+          ],
+          "goals2": [
+            "Cihan 42'"
+          ],
+          "team1": "Barcelona",
+          "team2": "Galatasaray"
+        }
+      ],
+      "standings": [
+        {
+          "id": "barcelona",
+          "team": "Barcelona",
+          "pts": 18,
+          "pj": 6,
+          "pg": 6,
+          "pe": 0,
+          "pp": 0,
+          "gf": 13,
+          "gc": 4
+        },
+        {
+          "id": "lokomotiv_moscow",
+          "team": "Lokomotiv Moscow",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 5,
+          "gc": 7
+        },
+        {
+          "id": "club_brugge",
+          "team": "Club Brugge",
+          "pts": 5,
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 5,
+          "gc": 7
+        },
+        {
+          "id": "galatasaray",
+          "team": "Galatasaray",
+          "pts": 4,
+          "pj": 6,
+          "pg": 1,
+          "pe": 1,
+          "pp": 4,
+          "gf": 5,
+          "gc": 10
+        }
+      ]
+    }
+  },
+  "secondStageGroups": {
+    "A": {
+      "name": "Segunda Fase - Grupo A",
+      "matches": [
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "barcelona",
+          "score": "1-2",
+          "goals1": [
+            "Berbatov 39'"
+          ],
+          "goals2": [
+            "Saviola 48'",
+            "Overmars 88'"
+          ],
+          "team1": "Bayer Leverkusen",
+          "team2": "Barcelona"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "inter",
+          "score": "1-4",
+          "goals1": [
+            "Solano 72'"
+          ],
+          "goals2": [
+            "Morfeo 2'",
+            "Almeyda 35'",
+            "Crespo 45'",
+            "Recoba 81'"
+          ],
+          "team1": "Newcastle United",
+          "team2": "Inter de Milán"
+        },
+        {
+          "id1": "inter",
+          "id2": "bayer_leverkusen",
+          "score": "3-2",
+          "goals1": [
+            "Di Biagio 15'",
+            "Di Biagio 27'",
+            "Butt 80' (ag)"
+          ],
+          "goals2": [
+            "Živković 63'",
+            "França 90'"
+          ],
+          "team1": "Inter de Milán",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "newcastle",
+          "score": "3-1",
+          "goals1": [
+            "Dani 7'",
+            "Kluivert 35'",
+            "Motta 58'"
+          ],
+          "goals2": [
+            "Ameobi 24'"
+          ],
+          "team1": "Barcelona",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "inter",
+          "score": "3-0",
+          "goals1": [
+            "Saviola 7'",
+            "Cocu 29'",
+            "Kluivert 67'"
+          ],
+          "goals2": [],
+          "team1": "Barcelona",
+          "team2": "Inter de Milán"
+        },
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "newcastle",
+          "score": "1-3",
+          "goals1": [
+            "França 26'"
+          ],
+          "goals2": [
+            "Ameobi 5'",
+            "Ameobi 15'",
+            "Lualua 32'"
+          ],
+          "team1": "Bayer Leverkusen",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "inter",
+          "id2": "barcelona",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Inter de Milán",
+          "team2": "Barcelona"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "bayer_leverkusen",
+          "score": "3-1",
+          "goals1": [
+            "Shearer 5'",
+            "Shearer 11'",
+            "Shearer 36'"
+          ],
+          "goals2": [
+            "Babić 73'"
+          ],
+          "team1": "Newcastle United",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "barcelona",
+          "id2": "bayer_leverkusen",
+          "score": "2-0",
+          "goals1": [
+            "Saviola 17'",
+            "De Boer 49'"
+          ],
+          "goals2": [],
+          "team1": "Barcelona",
+          "team2": "Bayer Leverkusen"
+        },
+        {
+          "id1": "inter",
+          "id2": "newcastle",
+          "score": "2-2",
+          "goals1": [
+            "Vieri 47'",
+            "Córdoba 61'"
+          ],
+          "goals2": [
+            "Shearer 42'",
+            "Shearer 49'"
+          ],
+          "team1": "Inter de Milán",
+          "team2": "Newcastle United"
+        },
+        {
+          "id1": "bayer_leverkusen",
+          "id2": "inter",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Martins 36'",
+            "Emre 90'"
+          ],
+          "team1": "Bayer Leverkusen",
+          "team2": "Inter de Milán"
+        },
+        {
+          "id1": "newcastle",
+          "id2": "barcelona",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Kluivert 60'",
+            "Motta 75'"
+          ],
+          "team1": "Newcastle United",
+          "team2": "Barcelona"
+        }
+      ],
+      "standings": [
+        {
+          "id": "barcelona",
+          "team": "Barcelona",
+          "pts": 16,
+          "pj": 6,
+          "pg": 5,
+          "pe": 1,
+          "pp": 0,
+          "gf": 12,
+          "gc": 2
+        },
+        {
+          "id": "inter",
+          "team": "Inter de Milán",
+          "pts": 11,
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 11,
+          "gc": 8
+        },
+        {
+          "id": "newcastle",
+          "team": "Newcastle United",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 10,
+          "gc": 13
+        },
+        {
+          "id": "bayer_leverkusen",
+          "team": "Bayer Leverkusen",
+          "pts": 0,
+          "pj": 6,
+          "pg": 0,
+          "pe": 0,
+          "pp": 6,
+          "gf": 5,
+          "gc": 15
+        }
+      ]
+    },
+    "B": {
+      "name": "Segunda Fase - Grupo B",
+      "matches": [
+        {
+          "id1": "roma",
+          "id2": "arsenal",
+          "score": "1-3",
+          "goals1": [
+            "Cassano 4'"
+          ],
+          "goals2": [
+            "Henry 6'",
+            "Henry 70'",
+            "Henry 75'"
+          ],
+          "team1": "Roma",
+          "team2": "Arsenal"
+        },
+        {
+          "id1": "valencia",
+          "id2": "ajax",
+          "score": "1-1",
+          "goals1": [
+            "Angulo 90'"
+          ],
+          "goals2": [
+            "Ibrahimović 88'"
+          ],
+          "team1": "Valencia",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "ajax",
+          "id2": "roma",
+          "score": "2-1",
+          "goals1": [
+            "Ibrahimović 11'",
+            "Litmanen 66'"
+          ],
+          "goals2": [
+            "Batistuta 89'"
+          ],
+          "team1": "Ajax",
+          "team2": "Roma"
+        },
+        {
+          "id1": "arsenal",
+          "id2": "valencia",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Arsenal",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "arsenal",
+          "id2": "ajax",
+          "score": "1-1",
+          "goals1": [
+            "Wiltord 5'"
+          ],
+          "goals2": [
+            "De Jong 17'"
+          ],
+          "team1": "Arsenal",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "roma",
+          "id2": "valencia",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Carew 78'"
+          ],
+          "team1": "Roma",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "ajax",
+          "id2": "arsenal",
+          "score": "0-0",
+          "goals1": [],
+          "goals2": [],
+          "team1": "Ajax",
+          "team2": "Arsenal"
+        },
+        {
+          "id1": "valencia",
+          "id2": "roma",
+          "score": "0-3",
+          "goals1": [],
+          "goals2": [
+            "Totti 24'",
+            "Totti 30'",
+            "Emerson 36'"
+          ],
+          "team1": "Valencia",
+          "team2": "Roma"
+        },
+        {
+          "id1": "arsenal",
+          "id2": "roma",
+          "score": "1-1",
+          "goals1": [
+            "Vieira 12'"
+          ],
+          "goals2": [
+            "Cassano 45'"
+          ],
+          "team1": "Arsenal",
+          "team2": "Roma"
+        },
+        {
+          "id1": "ajax",
+          "id2": "valencia",
+          "score": "1-1",
+          "goals1": [
+            "Pasanen 57'"
+          ],
+          "goals2": [
+            "Kily González 28' (p)"
+          ],
+          "team1": "Ajax",
+          "team2": "Valencia"
+        },
+        {
+          "id1": "roma",
+          "id2": "ajax",
+          "score": "1-1",
+          "goals1": [
+            "Cassano 24'"
+          ],
+          "goals2": [
+            "Van der Meyde 1'"
+          ],
+          "team1": "Roma",
+          "team2": "Ajax"
+        },
+        {
+          "id1": "valencia",
+          "id2": "arsenal",
+          "score": "2-1",
+          "goals1": [
+            "Carew 34'",
+            "Carew 57'"
+          ],
+          "goals2": [
+            "Henry 49'"
+          ],
+          "team1": "Valencia",
+          "team2": "Arsenal"
+        }
+      ],
+      "standings": [
+        {
+          "id": "valencia",
+          "team": "Valencia",
+          "pts": 9,
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 5,
+          "gc": 6
+        },
+        {
+          "id": "ajax",
+          "team": "Ajax",
+          "pts": 8,
+          "pj": 6,
+          "pg": 1,
+          "pe": 5,
+          "pp": 0,
+          "gf": 6,
+          "gc": 5
+        },
+        {
+          "id": "arsenal",
+          "team": "Arsenal",
+          "pts": 7,
+          "pj": 6,
+          "pg": 1,
+          "pe": 4,
+          "pp": 1,
+          "gf": 6,
+          "gc": 5
+        },
+        {
+          "id": "roma",
+          "team": "Roma",
+          "pts": 5,
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 7,
+          "gc": 8
+        }
+      ]
+    },
+    "C": {
+      "name": "Segunda Fase - Grupo C",
+      "matches": [
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "borussia_dortmund",
+          "score": "1-2",
+          "goals1": [
+            "Ignashevich 31'"
+          ],
+          "goals2": [
+            "Frings 33'",
+            "Koller 43'"
+          ],
+          "team1": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "real_madrid",
+          "score": "1-0",
+          "goals1": [
+            "Shevchenko 40'"
+          ],
+          "goals2": [],
+          "team1": "AC Milan",
+          "team2": "Real Madrid"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "lokomotiv_moscow",
+          "score": "2-2",
+          "goals1": [
+            "Raúl 21'",
+            "Raúl 76'"
+          ],
+          "goals2": [
+            "Obiorah 47'",
+            "Mnguni 74'"
+          ],
+          "team1": "Real Madrid",
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "ac_milan",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Inzaghi 49'"
+          ],
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "borussia_dortmund",
+          "score": "2-1",
+          "goals1": [
+            "Raúl 43'",
+            "Ronaldo 56'"
+          ],
+          "goals2": [
+            "Koller 30'"
+          ],
+          "team1": "Real Madrid"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "lokomotiv_moscow",
+          "score": "1-0",
+          "goals1": [
+            "Tomasson 62'"
+          ],
+          "goals2": [],
+          "team1": "AC Milan",
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "real_madrid",
+          "score": "1-1",
+          "goals1": [
+            "Koller 23'"
+          ],
+          "goals2": [
+            "Portillo 90'"
+          ],
+          "team2": "Real Madrid"
+        },
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "ac_milan",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Rivaldo 34' (p)"
+          ],
+          "team1": "Lokomotiv Moscow",
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "real_madrid",
+          "id2": "ac_milan",
+          "score": "3-1",
+          "goals1": [
+            "Raúl 12'",
+            "Raúl 57'",
+            "Guti 86'"
+          ],
+          "goals2": [
+            "Rivaldo 81'"
+          ],
+          "team1": "Real Madrid",
+          "team2": "AC Milan"
+        },
+        {
+          "id1": "borussia_dortmund",
+          "id2": "lokomotiv_moscow",
+          "score": "3-0",
+          "goals1": [
+            "Frings 39'",
+            "Koller 58'",
+            "Amoroso 66'"
+          ],
+          "goals2": [],
+          "team2": "Lokomotiv Moscow"
+        },
+        {
+          "id1": "ac_milan",
+          "id2": "borussia_dortmund",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Koller 80'"
+          ],
+          "team1": "AC Milan"
+        },
+        {
+          "id1": "lokomotiv_moscow",
+          "id2": "real_madrid",
+          "score": "0-1",
+          "goals1": [],
+          "goals2": [
+            "Ronaldo 35'"
+          ],
+          "team1": "Lokomotiv Moscow",
+          "team2": "Real Madrid"
+        }
+      ],
+      "standings": [
+        {
+          "id": "ac_milan",
+          "team": "AC Milan",
+          "pts": 12,
+          "pj": 6,
+          "pg": 4,
+          "pe": 0,
+          "pp": 2,
+          "gf": 5,
+          "gc": 4
+        },
+        {
+          "id": "real_madrid",
+          "team": "Real Madrid",
+          "pts": 11,
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 9,
+          "gc": 6
+        },
+        {
+          "id": "borussia_dortmund",
+          "team": "borussia_dortmund",
+          "pts": 10,
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 8,
+          "gc": 5
+        },
+        {
+          "id": "lokomotiv_moscow",
+          "team": "Lokomotiv Moscow",
+          "pts": 1,
+          "pj": 6,
+          "pg": 0,
+          "pe": 1,
+          "pp": 5,
+          "gf": 3,
+          "gc": 10
+        }
+      ]
+    },
+    "D": {
+      "name": "Segunda Fase - Grupo D",
+      "matches": [
+        {
+          "id1": "basel",
+          "id2": "manchester_united",
+          "score": "1-3",
+          "goals1": [
+            "Giménez 1'"
+          ],
+          "goals2": [
+            "Van Nistelrooy 62'",
+            "Van Nistelrooy 63'",
+            "Solskjær 68'"
+          ],
+          "team1": "FC Basel",
+          "team2": "Manchester United"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "juventus",
+          "score": "2-2",
+          "goals1": [
+            "Tristán 9'",
+            "Makaay 11'"
+          ],
+          "goals2": [
+            "Birindelli 38'",
+            "Nedvěd 57'"
+          ],
+          "team1": "Deportivo La Coruña",
+          "team2": "Juventus"
+        },
+        {
+          "id1": "juventus",
+          "id2": "basel",
+          "score": "4-0",
+          "goals1": [
+            "Trezeguet 3'",
+            "Montero 34'",
+            "Tacchinardi 43'",
+            "Del Piero 51' (p)"
+          ],
+          "goals2": [],
+          "team1": "Juventus",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "manchester_united",
+          "id2": "deportivo_la_coruna",
+          "score": "2-0",
+          "goals1": [
+            "Van Nistelrooy 7'",
+            "Van Nistelrooy 55'"
+          ],
+          "goals2": [],
+          "team1": "Manchester United",
+          "team2": "Deportivo La Coruña"
+        },
+        {
+          "id1": "manchester_united",
+          "id2": "juventus",
+          "score": "2-1",
+          "goals1": [
+            "Brown 4'",
+            "Van Nistelrooy 85'"
+          ],
+          "goals2": [
+            "Nedvěd 90'"
+          ],
+          "team1": "Manchester United",
+          "team2": "Juventus"
+        },
+        {
+          "id1": "basel",
+          "id2": "deportivo_la_coruna",
+          "score": "1-0",
+          "goals1": [
+            "H. Yakin 30'"
+          ],
+          "goals2": [],
+          "team1": "FC Basel",
+          "team2": "Deportivo La Coruña"
+        },
+        {
+          "id1": "juventus",
+          "id2": "manchester_united",
+          "score": "0-3",
+          "goals1": [],
+          "goals2": [
+            "Giggs 15'",
+            "Giggs 41'",
+            "Van Nistelrooy 63'"
+          ],
+          "team1": "Juventus",
+          "team2": "Manchester United"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "basel",
+          "score": "1-0",
+          "goals1": [
+            "Tristán 4'"
+          ],
+          "goals2": [],
+          "team1": "Deportivo La Coruña",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "manchester_united",
+          "id2": "basel",
+          "score": "1-1",
+          "goals1": [
+            "G. Neville 53'"
+          ],
+          "goals2": [
+            "Giménez 14'"
+          ],
+          "team1": "Manchester United",
+          "team2": "FC Basel"
+        },
+        {
+          "id1": "juventus",
+          "id2": "deportivo_la_coruna",
+          "score": "3-2",
+          "goals1": [
+            "Ferrara 13'",
+            "Trezeguet 63'",
+            "Tudor 90'"
+          ],
+          "goals2": [
+            "Tristán 34'",
+            "Makaay 52'"
+          ],
+          "team1": "Juventus",
+          "team2": "Deportivo La Coruña"
+        },
+        {
+          "id1": "basel",
+          "id2": "juventus",
+          "score": "2-1",
+          "goals1": [
+            "Cantaluppi 38'",
+            "Giménez 46'"
+          ],
+          "goals2": [
+            "Tacchinardi 10'"
+          ],
+          "team1": "FC Basel",
+          "team2": "Juventus"
+        },
+        {
+          "id1": "deportivo_la_coruna",
+          "id2": "manchester_united",
+          "score": "2-0",
+          "goals1": [
+            "Víctor 32'",
+            "Lynch 47' (ag)"
+          ],
+          "goals2": [],
+          "team1": "Deportivo La Coruña",
+          "team2": "Manchester United"
+        }
+      ],
+      "standings": [
+        {
+          "id": "manchester_united",
+          "team": "Manchester United",
+          "pts": 13,
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 11,
+          "gc": 5
+        },
+        {
+          "id": "juventus",
+          "team": "Juventus",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 11,
+          "gc": 11
+        },
+        {
+          "id": "deportivo_la_coruna",
+          "team": "Deportivo La Coruña",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 7,
+          "gc": 8
+        },
+        {
+          "id": "basel",
+          "team": "FC Basel",
+          "pts": 7,
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 5,
+          "gc": 10
+        }
+      ]
+    }
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "id1": "real_madrid",
+        "team1": "Real Madrid",
+        "id2": "manchester_united",
+        "team2": "Manchester United",
+        "score": "6-5",
+        "agg": "6-5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-1"
+          },
+          {
+            "leg": "Vta",
+            "score": "3-4"
+          }
+        ],
+        "goals1": [
+          "Figo 12'",
+          "Raúl 28'",
+          "Raúl 49'",
+          "Ronaldo 12'",
+          "Ronaldo 50'",
+          "Ronaldo 59'"
+        ],
+        "goals2": [
+          "Van Nistelrooy 52'",
+          "Van Nistelrooy 43'",
+          "Helguera 52' (ag)",
+          "Beckham 71'",
+          "Beckham 85'"
+        ]
+      },
+      {
+        "id1": "ajax",
+        "team1": "Ajax",
+        "id2": "ac_milan",
+        "team2": "AC Milan",
+        "score": "2-3",
+        "agg": "2-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0"
+          },
+          {
+            "leg": "Vta",
+            "score": "2-3"
+          }
+        ],
+        "goals1": [
+          "Litmanen 63'",
+          "Pienaar 78'"
+        ],
+        "goals2": [
+          "Inzaghi 30'",
+          "Shevchenko 65'",
+          "Tomasson 90'"
+        ]
+      },
+      {
+        "id1": "inter",
+        "team1": "Inter de Milán",
+        "id2": "valencia",
+        "team2": "Valencia",
+        "score": "2-2",
+        "agg": "2-2 (v)",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0"
+          },
+          {
+            "leg": "Vta",
+            "score": "1-2"
+          }
+        ],
+        "goals1": [
+          "Vieri 14'",
+          "Vieri 5'"
+        ],
+        "goals2": [
+          "Aimar 7'",
+          "Baraja 51'"
+        ]
+      },
+      {
+        "id1": "juventus",
+        "team1": "Juventus",
+        "id2": "barcelona",
+        "team2": "Barcelona",
+        "score": "3-2",
+        "agg": "3-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-1"
+          },
+          {
+            "leg": "Vta",
+            "score": "2-1 (TE)"
+          }
+        ],
+        "goals1": [
+          "Montero 16'",
+          "Nedvěd 53'",
+          "Zalayeta 114'"
+        ],
+        "goals2": [
+          "Saviola 78'",
+          "Xavi 66'"
+        ]
+      }
+    ],
+    "semiFinals": [
+      {
+        "id1": "real_madrid",
+        "team1": "Real Madrid",
+        "id2": "juventus",
+        "team2": "Juventus",
+        "score": "3-4",
+        "agg": "3-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-1"
+          },
+          {
+            "leg": "Vta",
+            "score": "1-3"
+          }
+        ],
+        "goals1": [
+          "Ronaldo 23'",
+          "Roberto Carlos 73'",
+          "Zidane 89'"
+        ],
+        "goals2": [
+          "Trezeguet 45'",
+          "Trezeguet 12'",
+          "Del Piero 43'",
+          "Nedvěd 73'"
+        ]
+      },
+      {
+        "id1": "ac_milan",
+        "team1": "AC Milan",
+        "id2": "inter",
+        "team2": "Inter de Milán",
+        "score": "1-1",
+        "agg": "1-1 (v)",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0"
+          },
+          {
+            "leg": "Vta",
+            "score": "1-1"
+          }
+        ],
+        "goals1": [
+          "Shevchenko 45'"
+        ],
+        "goals2": [
+          "Martins 84'"
+        ]
+      }
+    ],
+    "final": {
+      "id1": "juventus",
+      "team1": "Juventus",
+      "id2": "ac_milan",
+      "team2": "AC Milan",
+      "score": "0-0",
+      "goals1": [],
+      "goals2": [],
+      "penalties": "2-3",
+      "penaltyDetails": "Milan wins on penalties. Dida saves 3 pens."
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Ruud van Nistelrooy",
+        "clubId": "manchester_united",
+        "value": 12,
+        "flag": "nl"
+      },
+      {
+        "name": "Filippo Inzaghi",
+        "clubId": "ac_milan",
+        "value": 10,
+        "flag": "it"
+      },
+      {
+        "name": "Roy Makaay",
+        "clubId": "deportivo_la_coruna",
+        "value": 9,
+        "flag": "nl"
+      },
+      {
+        "name": "Hernán Crespo",
+        "clubId": "inter",
+        "value": 9,
+        "flag": "ar"
+      },
+      {
+        "name": "Raúl",
+        "clubId": "real_madrid",
+        "value": 9,
+        "flag": "es"
+      },
+      {
+        "name": "Jan Koller",
+        "clubId": "borussia_dortmund",
+        "value": 8,
+        "flag": "cz"
+      }
+    ],
+    "assists": [
+      {
+        "name": "Pablo Aimar",
+        "clubId": "valencia",
+        "value": 5,
+        "flag": "ar"
+      },
+      {
+        "name": "Rui Costa",
+        "clubId": "ac_milan",
+        "value": 5,
+        "flag": "pt"
+      },
+      {
+        "name": "Ryan Giggs",
+        "clubId": "manchester_united",
+        "value": 5,
+        "flag": "gb-wls"
+      },
+      {
+        "name": "Juan Sebastián Verón",
+        "clubId": "manchester_united",
+        "value": 4,
+        "flag": "ar"
+      },
+      {
+        "name": "Zinedine Zidane",
+        "clubId": "real_madrid",
+        "value": 4,
+        "flag": "fr"
+      },
+      {
+        "name": "Xavi",
+        "clubId": "barcelona",
+        "value": 4,
+        "flag": "es"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Gianluigi Buffon",
+        "award": "UEFA Club Footballer of the Year",
+        "clubId": "juventus",
+        "flag": "it"
+      },
+      {
+        "name": "Paolo Maldini",
+        "award": "Best Defender",
+        "clubId": "ac_milan",
+        "flag": "it"
+      },
+      {
+        "name": "Pavel Nedvěd",
+        "award": "Best Midfielder",
+        "clubId": "juventus",
+        "flag": "cz"
+      },
+      {
+        "name": "Ruud van Nistelrooy",
+        "award": "Best Forward",
+        "clubId": "manchester_united",
+        "flag": "nl"
+      }
+    ]
+  }
+}

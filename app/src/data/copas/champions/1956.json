@@ -1,0 +1,1846 @@
+{
+  "fase_grupos": [],
+  "year": 1956,
+  "cup": "Copa de Campeones de Europa",
+  "participants": [
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "country": "es",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Juan Alonso",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Ángel Atienza",
+          "flag": "es"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Marquitos",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Rafael Lesmes",
+          "flag": "es"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Miguel Muñoz",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "José Zárraga",
+          "flag": "es"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "José Iglesias 'Joseíto'",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Ramón Marsal",
+          "flag": "es"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Alfredo Di Stéfano",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Héctor Rial",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Francisco Gento",
+          "flag": "es"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Javier Berasaluce",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Joaquín Navarro",
+          "flag": "es"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "José María Zárraga",
+          "flag": "es"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Heliodoro Castaño",
+          "flag": "es"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Enrique Mateos",
+          "flag": "es"
+        }
+      ],
+      "shield": "https://static.wikia.nocookie.net/logopedia/images/2/23/Real_Madrid_CF_%282001%29.svg"
+    },
+    {
+      "id": "stade-de-reims",
+      "name": "Stade de Reims",
+      "country": "fr",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "René-Jean Jacquet",
+          "flag": "fr"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Simon Zimny",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Robert Jonquet",
+          "flag": "fr"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Raoul Giraudo",
+          "flag": "fr"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Armand Penverne",
+          "flag": "fr"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Robert Siatka",
+          "flag": "fr"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Michel Hidalgo",
+          "flag": "fr"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Léon Glovacki",
+          "flag": "fr"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Raymond Kopa",
+          "flag": "fr"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "René Bliard",
+          "flag": "fr"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Jean Templin",
+          "flag": "fr"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Marcel Dantheny",
+          "flag": "fr"
+        },
+        {
+          "no": 13,
+          "pos": "Centrocampista",
+          "name": "Michel Leblond",
+          "flag": "fr"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Claude Dubaële",
+          "flag": "fr"
+        }
+      ],
+      "shield": "https://upload.wikimedia.org/wikipedia/en/1/19/Stade_de_Reims_logo.svg"
+    },
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "country": "it",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Lorenzo Buffon",
+          "flag": "it"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Cesare Maldini",
+          "flag": "it"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Francesco Zagatti",
+          "flag": "it"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Mario Bergamaschi",
+          "flag": "it"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Nils Liedholm",
+          "flag": "se"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Mario Fassone",
+          "flag": "it"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Amleto Frignani",
+          "flag": "it"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Juan Alberto Schiaffino",
+          "flag": "uy"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Gunnar Nordahl",
+          "flag": "se"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Giorgio Dal Monte",
+          "flag": "it"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Eduardo Ricagni",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Eros Beraldo",
+          "flag": "it"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Arturo Silvestri",
+          "flag": "it"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Eros Fassetta",
+          "flag": "it"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Adriano Bassetto",
+          "flag": "it"
+        }
+      ],
+      "shield": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"
+    },
+    {
+      "id": "hibernian",
+      "name": "Hibernian",
+      "country": "gb-sct",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Tommy Younger",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jock Govan",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Jock Paterson",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Hugh Howie",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Tommy Preston",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Jimmy Gallagher",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Gordon Smith",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Bobby Johnstone",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Lawrie Reilly",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Eddie Turnbull",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Willie Ormond",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Lawrie Leslie",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "John Grant",
+          "flag": "gb-sct"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Jock Buchanan",
+          "flag": "gb-sct"
+        }
+      ],
+      "shield": "https://upload.wikimedia.org/wikipedia/en/3/37/Hibernian_FC_logo.svg"
+    },
+    {
+      "id": "partizan",
+      "name": "Partizan Belgrado",
+      "country": "yu",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Milutin Šoškić",
+          "flag": "yu"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Bruno Belin",
+          "flag": "yu"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ratko Čolić",
+          "flag": "yu"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Čedomir Lazarević",
+          "flag": "yu"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Milorad Milutinović",
+          "flag": "yu"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Branko Zebec",
+          "flag": "yu"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Prvoslav Mihajlović",
+          "flag": "yu"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Miloš Milutinović",
+          "flag": "yu"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Marko Valok",
+          "flag": "yu"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Stjepan Bobek",
+          "flag": "yu"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Stanoje Jocić",
+          "flag": "yu"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Slavko Stojanović",
+          "flag": "yu"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Fahrudin Jusufi",
+          "flag": "yu"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Ranko Borozan",
+          "flag": "yu"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Antun Herceg",
+          "flag": "yu"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/partizan.svg"
+    },
+    {
+      "id": "mtk-budapest",
+      "name": "Vörös Lobogó (MTK Budapest)",
+      "country": "hu",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Árpád Fazekas",
+          "flag": "hu"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Mihály Lantos",
+          "flag": "hu"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "János Börzsei",
+          "flag": "hu"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "József Kovács",
+          "flag": "hu"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Ferenc Kovács",
+          "flag": "hu"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Imre Kovács",
+          "flag": "hu"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "József Zakariás",
+          "flag": "hu"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Nándor Hidegkuti",
+          "flag": "hu"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Péter Palotás",
+          "flag": "hu"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Károly Sándor",
+          "flag": "hu"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "István Szimcsák",
+          "flag": "hu"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Endre Kárász",
+          "flag": "hu"
+        },
+        {
+          "no": 13,
+          "pos": "Portero",
+          "name": "Gellért Bödör",
+          "flag": "hu"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Béla Szitás",
+          "flag": "hu"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/mtk-budapest.svg"
+    },
+    {
+      "id": "rapid-wien",
+      "name": "Rapid Viena",
+      "country": "at",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Walter Zeman",
+          "flag": "at"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Josef Höltl",
+          "flag": "at"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Franz Golobic",
+          "flag": "at"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Lothar Bilek",
+          "flag": "at"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Karl Giesser",
+          "flag": "at"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Gerhard Hanappi",
+          "flag": "at"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Paul Halla",
+          "flag": "at"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Erich Probst",
+          "flag": "at"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Robert Dienst",
+          "flag": "at"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Alfred Körner",
+          "flag": "at"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Bruno Mehsarosch",
+          "flag": "at"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Hans Riegler",
+          "flag": "at"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Milan Nikolić",
+          "flag": "yu"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/rapid-wien.svg"
+    },
+    {
+      "id": "djurgarden",
+      "name": "Djurgårdens IF",
+      "country": "se",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Arne Arvidsson",
+          "flag": "se"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Stig Gustafsson",
+          "flag": "se"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Karl-Erik Andersson",
+          "flag": "se"
+        },
+        {
+          "no": 4,
+          "pos": "Centrocampista",
+          "name": "Ola Forsberg",
+          "flag": "se"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Sigvard Parling",
+          "flag": "se"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Bernt Andersson",
+          "flag": "se"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Birger Stenman",
+          "flag": "se"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Stig Holmström",
+          "flag": "se"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hans Tvilling",
+          "flag": "se"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Sven 'Tumba' Johansson",
+          "flag": "se"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Gösta Sandberg",
+          "flag": "se"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "John Eriksson",
+          "flag": "se"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/djurgarden.svg"
+    },
+    {
+      "id": "servette",
+      "name": "Servette",
+      "country": "ch",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Anton Rüesch",
+          "flag": "ch"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Rudolf Gyger",
+          "flag": "ch"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Gilbert Dutoit",
+          "flag": "ch"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Werner Kaelin",
+          "flag": "ch"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Charles Casali",
+          "flag": "ch"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Franz Josefowsky",
+          "flag": "ch"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "André Nagy",
+          "flag": "hu"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Charles Kunz",
+          "flag": "ch"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hans-Peter Friedländer",
+          "flag": "ch"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Francis Anker",
+          "flag": "ch"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Bernard Coutaz",
+          "flag": "ch"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/servette.svg"
+    },
+    {
+      "id": "sporting-cp",
+      "name": "Sporting CP",
+      "country": "pt",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Gomes",
+          "flag": "pt"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Manuel Caldeira",
+          "flag": "pt"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "José Galaz",
+          "flag": "pt"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Barros",
+          "flag": "pt"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Manuel Passos",
+          "flag": "pt"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Juca",
+          "flag": "pt"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Pacheco",
+          "flag": "pt"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Sarmento",
+          "flag": "pt"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Manuel Vasques",
+          "flag": "pt"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "João Martins",
+          "flag": "pt"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "João Baptista Martins",
+          "flag": "pt"
+        },
+        {
+          "no": 12,
+          "pos": "Delantero",
+          "name": "Joaquim Almeida (Quim)",
+          "flag": "pt"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "Brandão de Castro",
+          "flag": "pt"
+        }
+      ],
+      "shield": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sporting_Clube_de_Portugal.svg"
+    },
+    {
+      "id": "agf-aarhus",
+      "name": "AGF Aarhus",
+      "country": "dk",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Henry From",
+          "flag": "dk"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Hans Christian Nielsen",
+          "flag": "dk"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "John Amdisen",
+          "flag": "dk"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jörgen Olesen",
+          "flag": "dk"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Per Knudsen",
+          "flag": "dk"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Svenning Pilgaard",
+          "flag": "dk"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Henning Bjerregaard",
+          "flag": "dk"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Gunnar Kjeldberg",
+          "flag": "dk"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Svend Thögersen",
+          "flag": "dk"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Erik Jensen",
+          "flag": "dk"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Aage Rou Jensen",
+          "flag": "dk"
+        },
+        {
+          "no": 12,
+          "pos": "Defensa",
+          "name": "Bjarke Gundlev",
+          "flag": "dk"
+        },
+        {
+          "no": 13,
+          "pos": "Delantero",
+          "name": "John Jensen",
+          "flag": "dk"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/agf-aarhus.svg"
+    },
+    {
+      "id": "psv",
+      "name": "PSV Eindhoven",
+      "country": "nl",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Lieuwe Steiger",
+          "flag": "nl"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Roel Wiersma",
+          "flag": "nl"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Sjen Rensen",
+          "flag": "nl"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Cor Smulders",
+          "flag": "nl"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Miel d'Hooghe",
+          "flag": "nl"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Toon Wouters",
+          "flag": "nl"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Toon van Esch",
+          "flag": "nl"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Harry van Elderen",
+          "flag": "nl"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Piet Fransen",
+          "flag": "nl"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Coen Dillen",
+          "flag": "nl"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Toon Brusselers",
+          "flag": "nl"
+        }
+      ],
+      "shield": "https://upload.wikimedia.org/wikipedia/en/0/05/PSV_Eindhoven.svg"
+    },
+    {
+      "id": "anderlecht",
+      "name": "Anderlecht",
+      "country": "be",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Henri Meert",
+          "flag": "be"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Arsène Vaillant",
+          "flag": "be"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Willy De Coster",
+          "flag": "be"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jacques Culot",
+          "flag": "be"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Martin Lippens",
+          "flag": "be"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Benoît Vercauteren",
+          "flag": "be"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Jef Mermans",
+          "flag": "be"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "René Vandewilt",
+          "flag": "be"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hippolyte van den Bosch",
+          "flag": "be"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Marcel De Corte",
+          "flag": "be"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Gaston De Wael",
+          "flag": "be"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/anderlecht.svg"
+    },
+    {
+      "id": "rot-weiss-essen",
+      "name": "Rot-Weiss Essen",
+      "country": "de",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Fritz Herkenrath",
+          "flag": "de"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Walter Zastrau",
+          "flag": "de"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Willi Köchling",
+          "flag": "de"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Heinz Wewers",
+          "flag": "de"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Joachim Jänisch",
+          "flag": "de"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Kurt Roetger",
+          "flag": "de"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Günther Steffens",
+          "flag": "de"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Fritz Abromeit",
+          "flag": "de"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Vitus Sauer",
+          "flag": "de"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Johannes Röhrig",
+          "flag": "de"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Willi Vordenbäumen",
+          "flag": "de"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/rot-weiss-essen.svg"
+    },
+    {
+      "id": "saarbrucken",
+      "name": "1. FC Saarbrücken",
+      "country": "de",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Dieter Schulze",
+          "flag": "de"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Waldemar Philippi",
+          "flag": "de"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Hermann Monter",
+          "flag": "de"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Theodor Puff",
+          "flag": "de"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Peter Momber",
+          "flag": "de"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Herbert Martin",
+          "flag": "de"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Peter Krieger",
+          "flag": "de"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Karl Schirra",
+          "flag": "de"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Kurt Clemens",
+          "flag": "de"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Albert Keck",
+          "flag": "de"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Werner Emser",
+          "flag": "de"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/saarbrucken.svg"
+    },
+    {
+      "id": "gwardia-warszawa",
+      "name": "Gwardia Warszawa",
+      "country": "pl",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Tomasz Stefaniszyn",
+          "flag": "pl"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Tadeusz Markowski",
+          "flag": "pl"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Zdzisław Maruszkiewicz",
+          "flag": "pl"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Zygmunt Ochmański",
+          "flag": "pl"
+        },
+        {
+          "no": 5,
+          "pos": "Defensa",
+          "name": "Wojciech Hodyra",
+          "flag": "pl"
+        },
+        {
+          "no": 6,
+          "pos": "Centrocampista",
+          "name": "Edmund Zientara",
+          "flag": "pl"
+        },
+        {
+          "no": 7,
+          "pos": "Centrocampista",
+          "name": "Ryszard Krajewski",
+          "flag": "pl"
+        },
+        {
+          "no": 8,
+          "pos": "Delantero",
+          "name": "Adam Brzozowski",
+          "flag": "pl"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Marian Norkowski",
+          "flag": "pl"
+        },
+        {
+          "no": 10,
+          "pos": "Delantero",
+          "name": "Ryszard Wiśniewski",
+          "flag": "pl"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Krzysztof Baszkiewicz",
+          "flag": "pl"
+        }
+      ],
+      "shield": "/escudos_historicos/champions1956/gwardia-warszawa.svg"
+    }
+  ],
+  "bracket": {
+    "roundOf16": [
+      {
+        "team1": "Sporting CP",
+        "team2": "Partizan Belgrado",
+        "score": "5-8",
+        "agg": "5-8",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-3",
+            "goals": [
+              "João Martins 14, 78 (SPO)",
+              "Quim 65 (SPO)",
+              "Milutinović 45, 50 (PAR)",
+              "Bobek 73 (PAR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-5",
+            "goals": [
+              "Milutinović 15, 29, 64, 74 (PAR)",
+              "Jocić 88 (PAR)",
+              "Brandão 49, 77 (SPO)"
+            ]
+          }
+        ],
+        "id1": "sporting-cp",
+        "id2": "partizan"
+      },
+      {
+        "team1": "Vörös Lobogó (MTK Budapest)",
+        "team2": "Anderlecht",
+        "score": "10-4",
+        "agg": "10-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "6-3",
+            "goals": [
+              "Szimcsák 8 (MTK)",
+              "Palotás 25, 59, 80 (MTK)",
+              "Hidegkuti 28 (MTK)",
+              "Sándor 83 (MTK)",
+              "Vandewilt 7 (AND)",
+              "Van den Bosch 39, 79 (AND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4-1",
+            "goals": [
+              "Van den Bosch 3 (AND)",
+              "Hidegkuti 25 (MTK)",
+              "Lantos 78 (MTK)",
+              "Palotás 85 (MTK)",
+              "Kovács 86 (MTK)"
+            ]
+          }
+        ],
+        "id1": "mtk-budapest",
+        "id2": "anderlecht"
+      },
+      {
+        "team1": "Servette",
+        "team2": "Real Madrid",
+        "score": "0-7",
+        "agg": "0-7",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-2",
+            "goals": [
+              "Muñoz 74 (RMA)",
+              "Rial 89 (RMA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-5",
+            "goals": [
+              "Di Stéfano 29, 61 (RMA)",
+              "Joseíto 44 (RMA)",
+              "Rial 46 (RMA)",
+              "Molowny 54 (RMA)"
+            ]
+          }
+        ],
+        "id1": "servette",
+        "id2": "real-madrid"
+      },
+      {
+        "team1": "Rot-Weiss Essen",
+        "team2": "Hibernian",
+        "score": "1-5",
+        "agg": "1-5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-4",
+            "goals": [
+              "Turnbull 35, 53 (HIB)",
+              "Reilly 53 (HIB)",
+              "Ormond 81 (HIB)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-1",
+            "goals": [
+              "Buchanan 5 (HIB)",
+              "Abromeit 90 (ESS)"
+            ]
+          }
+        ],
+        "id1": "rot-weiss-essen",
+        "id2": "hibernian"
+      },
+      {
+        "team1": "Djurgårdens IF",
+        "team2": "Gwardia Warszawa",
+        "score": "4-1",
+        "agg": "4-1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4-1",
+            "goals": [
+              "Baszkiewicz 14 (GWA)",
+              "Eriksson 5, 17, 22 (DJU)",
+              "Sandberg 29 (DJU)"
+            ]
+          }
+        ],
+        "id1": "djurgarden",
+        "id2": "gwardia-warszawa"
+      },
+      {
+        "team1": "AGF Aarhus",
+        "team2": "Stade de Reims",
+        "score": "2-4",
+        "agg": "2-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-2",
+            "goals": [
+              "Glovacki 7, 72 (SDR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-2",
+            "goals": [
+              "Glovacki 47 (SDR)",
+              "Bliard 60 (SDR)",
+              "Jensen 77 (AGF)",
+              "Bjerregaard 83 (AGF)"
+            ]
+          }
+        ],
+        "id1": "agf-aarhus",
+        "id2": "stade-de-reims"
+      },
+      {
+        "team1": "Rapid Viena",
+        "team2": "PSV Eindhoven",
+        "score": "6-2",
+        "agg": "6-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "6-1",
+            "goals": [
+              "A. Körner 12, 62, 81 (RAP)",
+              "Mehsarosch 55 (RAP)",
+              "Hanappi 56 (RAP)",
+              "Probst 60 (RAP)",
+              "Fransen 18 (PSV)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-1",
+            "goals": [
+              "Fransen 9 (PSV)"
+            ]
+          }
+        ],
+        "id1": "rapid-wien",
+        "id2": "psv"
+      },
+      {
+        "team1": "AC Milan",
+        "team2": "1. FC Saarbrücken",
+        "score": "7-5",
+        "agg": "7-5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-4",
+            "goals": [
+              "Frignani 15 (MIL)",
+              "Schiaffino 33 (MIL)",
+              "Dal Monte 37 (MIL)",
+              "Krieger 5 (SAA)",
+              "Philippi 43 (SAA)",
+              "Schirra 67 (SAA)",
+              "Martin 69 (SAA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4-1",
+            "goals": [
+              "Martin (e.c.) 75 (SAA)",
+              "Ricagni 16 (MIL)",
+              "Nordahl 31 (MIL)",
+              "Bassetto 75 (MIL)",
+              "Mariani 86 (MIL)"
+            ]
+          }
+        ],
+        "id1": "ac-milan",
+        "id2": "saarbrucken"
+      }
+    ],
+    "quarterFinals": [
+      {
+        "team1": "Djurgårdens IF",
+        "team2": "Hibernian",
+        "score": "1-4",
+        "agg": "1-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-3",
+            "goals": [
+              "Eriksson 24 (DJU)",
+              "Smith 18 (HIB)",
+              "Reilly 80 (HIB)",
+              "Turnbull 83 (HIB)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-1",
+            "goals": [
+              "Reilly 75 (HIB)"
+            ]
+          }
+        ],
+        "id1": "djurgarden",
+        "id2": "hibernian"
+      },
+      {
+        "team1": "Stade de Reims",
+        "team2": "Vörös Lobogó (MTK Budapest)",
+        "score": "8-6",
+        "agg": "8-6",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "4-2",
+            "goals": [
+              "Bliard 7 (SDR)",
+              "Templin 18, 78 (SDR)",
+              "Leblond 27 (SDR)",
+              "Sándor 35 (MTK)",
+              "Lantos 80 (MTK)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "4-4",
+            "goals": [
+              "Sándor 13, 74 (MTK)",
+              "Hidegkuti 25, 80 (MTK)",
+              "Bliard 10, 48 (SDR)",
+              "Kopa 40 (SDR)",
+              "Leblond 52 (SDR)"
+            ]
+          }
+        ],
+        "id1": "stade-de-reims",
+        "id2": "mtk-budapest"
+      },
+      {
+        "team1": "Real Madrid",
+        "team2": "Partizan Belgrado",
+        "score": "4-3",
+        "agg": "4-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "4-0",
+            "goals": [
+              "Di Stéfano 9, 64 (RMA)",
+              "Joseíto 18 (RMA)",
+              "Rial 36 (RMA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-3",
+            "goals": [
+              "Milutinović 24, 87 (PAR)"
+            ]
+          }
+        ],
+        "id1": "real-madrid",
+        "id2": "partizan"
+      },
+      {
+        "team1": "Rapid Viena",
+        "team2": "AC Milan",
+        "score": "3-8",
+        "agg": "3-8",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-1",
+            "goals": [
+              "E. Körner 17 (RAP)",
+              "Probst 33 (RAP)",
+              "A. Körner 54 (RAP)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-7",
+            "goals": [
+              "Nordahl 49, 76 (MIL)",
+              "Ricagni 86 (MIL)"
+            ]
+          }
+        ],
+        "id1": "rapid-wien",
+        "id2": "ac-milan"
+      }
+    ],
+    "semiFinals": [
+      {
+        "team1": "Real Madrid",
+        "team2": "AC Milan",
+        "score": "5-4",
+        "agg": "5-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "4-2",
+            "goals": [
+              "Rial 6 (RMA)",
+              "Joseíto 12, 57 (RMA)",
+              "Di Stéfano 24 (RMA)",
+              "Nordahl 9 (MIL)",
+              "Schiaffino 30 (MIL)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-2",
+            "goals": [
+              "Dal Monte 69, 86 (MIL)",
+              "Iglesias 65 (RMA)"
+            ]
+          }
+        ],
+        "id1": "real-madrid",
+        "id2": "ac-milan"
+      },
+      {
+        "team1": "Stade de Reims",
+        "team2": "Hibernian",
+        "score": "3-0",
+        "agg": "3-0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-0",
+            "goals": [
+              "Leblond 67 (SDR)",
+              "Bliard 89 (SDR)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-0",
+            "goals": [
+              "Glovacki 57 (SDR)"
+            ]
+          }
+        ],
+        "id1": "stade-de-reims",
+        "id2": "hibernian"
+      }
+    ],
+    "final": {
+      "team1": "Real Madrid",
+      "team2": "Stade de Reims",
+      "score": "4-3",
+      "id1": "real-madrid",
+      "id2": "stade-de-reims",
+      "goals1": [
+        "Di Stéfano 14",
+        "Rial 30, 79",
+        "Marquitos 67"
+      ],
+      "goals2": [
+        "Leblond 6",
+        "Templin 10",
+        "Hidalgo 62"
+      ]
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Miloš Milutinović",
+        "flag": "yu",
+        "value": 8,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/e/ed/FK_Partizan.svg"
+      },
+      {
+        "name": "Péter Palotás",
+        "flag": "hu",
+        "value": 6,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/e/ed/FK_Partizan.svg"
+      },
+      {
+        "name": "Léon Glovacki",
+        "flag": "fr",
+        "value": 6,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/f/f0/Stade_de_Reims_logo.png"
+      },
+      {
+        "name": "René Bliard",
+        "flag": "fr",
+        "value": 5,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/f/f0/Stade_de_Reims_logo.png"
+      },
+      {
+        "name": "Héctor Rial",
+        "flag": "ar",
+        "value": 5,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Real-Madrid.png"
+      },
+      {
+        "name": "Alfredo Di Stéfano",
+        "flag": "ar",
+        "value": 5,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Real-Madrid.png"
+      }
+    ],
+    "assists": [
+      {
+        "name": "Raymond Kopa",
+        "flag": "fr",
+        "value": 4,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/f/f0/Stade_de_Reims_logo.png"
+      },
+      {
+        "name": "Miguel Muñoz",
+        "flag": "es",
+        "value": 3,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Real-Madrid.png"
+      },
+      {
+        "name": "Stjepan Bobek",
+        "flag": "yu",
+        "value": 3,
+        "clubId": "https://static.wikia.nocookie.net/logopedia/images/e/ed/FK_Partizan.svg"
+      }
+    ]
+  }
+}

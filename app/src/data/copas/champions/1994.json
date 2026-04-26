@@ -5118,5 +5118,53 @@
         }
       ]
     }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Ronald Koeman",
+        "flag": "nl",
+        "value": 8,
+        "clubId": "espania/barcelona/barcelona"
+      },
+      {
+        "name": "Wynton Rufer",
+        "flag": "nz",
+        "value": 8,
+        "clubId": "/escudos/alemania/werder-bremen/werder-bremen.png"
+      },
+      {
+        "name": "Luc Nilis",
+        "flag": "be",
+        "value": 7,
+        "clubId": "anderlecht"
+      },
+      {
+        "name": "Hristo Stoichkov",
+        "flag": "bg",
+        "value": 7,
+        "clubId": "espania/barcelona/barcelona"
+      }
+    ],
+    "assists": [
+      {
+        "name": "Dejan Savićević",
+        "flag": "yu",
+        "value": 4,
+        "clubId": "milan"
+      },
+      {
+        "name": "Hristo Stoichkov",
+        "flag": "bg",
+        "value": 3,
+        "clubId": "espania/barcelona/barcelona"
+      },
+      {
+        "name": "Sergi Barjuan",
+        "flag": "es",
+        "value": 3,
+        "clubId": "espania/barcelona/barcelona"
+      }
+    ]
   }
 }

@@ -2753,5 +2753,71 @@
       ],
       "goals2": []
     }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "George Weah",
+        "flag": "lr",
+        "value": 7,
+        "clubId": "/escudos/francia/psg/psg.webp"
+      },
+      {
+        "name": "Jari Litmanen",
+        "flag": "fi",
+        "value": 6,
+        "clubId": "ajax"
+      },
+      {
+        "name": "Hakan Şükür",
+        "flag": "tr",
+        "value": 5,
+        "clubId": "galatasaray"
+      },
+      {
+        "name": "Marco Simone",
+        "flag": "it",
+        "value": 4,
+        "clubId": "milan"
+      },
+      {
+        "name": "Magnus Erlingmark",
+        "flag": "se",
+        "value": 4,
+        "clubId": "ifk_goteborg"
+      },
+      {
+        "name": "Romário",
+        "flag": "br",
+        "value": 4,
+        "clubId": "espania/barcelona/barcelona"
+      }
+    ],
+    "assists": [
+      {
+        "name": "Finidi George",
+        "flag": "ng",
+        "value": 4,
+        "clubId": "ajax"
+      },
+      {
+        "name": "Zvonimir Boban",
+        "flag": "hr",
+        "value": 3,
+        "clubId": "milan"
+      },
+      {
+        "name": "Ronald de Boer",
+        "flag": "nl",
+        "value": 3,
+        "clubId": "ajax"
+      },
+      {
+        "name": "David Ginola",
+        "flag": "fr",
+        "value": 3,
+        "clubId": "/escudos/francia/psg/psg.webp"
+      }
+    ]
   }
 }
