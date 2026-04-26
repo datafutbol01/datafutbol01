@@ -8,7 +8,7 @@
     "nombre_oficial": "1. FC Union Berlin",
     "nombre_corto": "Union Berlin",
     "apodo": "Die Eisernen (Los de Hierro)",
-    "fundacion": "1966",
+    "fundacion": "20 de enero de 1966",
     "estadio_actual": "Stadion An der Alten Försterei",
     "presidente": "",
     "entrenador": "",
@@ -38,7 +38,62 @@
       "maximo_goleador": "Karim Benyamina (87)",
       "mas_presencias": "Lutz Hendel (422)",
       "mayor_goleada": "8-0 vs Chemie Leipzig"
-    }
+    },
+    "historia": "El 20 de enero de 1966, como producto de una reorganización deportiva dictada por las autoridades de la Alemania Oriental, se fundó el 1. FC Union Berlin. Desde sus inicios, atrajo a la clase trabajadora y forjó una identidad de resistencia en Berlín Este. Su particular historia destaca por cuatro hitos inolvidables: la sorpresiva obtención de la Copa de la FDGB en 1968 frente a clubes estatales más poderosos; la profunda crisis financiera posterior a la reunificación alemana, salvada en 2008 cuando miles de aficionados donaron sangre y reconstruyeron el estadio con sus propias manos; el épico y primer ascenso a la Bundesliga en 2019; y la increíble escalada deportiva que los llevó, contra todo pronóstico, a disputar la Liga de Campeones en 2023.",
+    "idolos": [
+      {
+        "nombre": "Torsten Mattuschka",
+        "partidos": "281",
+        "goles": "61",
+        "descripcion": "Capitán icónico y especialista en tiros libres que lideró al club en el ascenso desde tercera a segunda división."
+      },
+      {
+        "nombre": "Christopher Trimmel",
+        "partidos": "310",
+        "goles": "6",
+        "descripcion": "Lateral derecho austríaco y capitán que comandó al equipo en su histórico ascenso a la Bundesliga y posterior clasificación a Champions League."
+      },
+      {
+        "nombre": "Lutz Hendel",
+        "partidos": "422",
+        "goles": "32",
+        "descripcion": "Jugador con el récord histórico de presencias en todas las competiciones oficiales del club."
+      },
+      {
+        "nombre": "Michael Parensen",
+        "partidos": "249",
+        "goles": "8",
+        "descripcion": "Jugador que permaneció en la plantilla a lo largo de diversas categorías, desde liga regional hasta la Bundesliga."
+      },
+      {
+        "nombre": "Sheraldo Becker",
+        "partidos": "104",
+        "goles": "24",
+        "descripcion": "Delantero veloz destacado en las temporadas de clasificación europea del club."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1966,
+        "hasta": 2005,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#dc052d",
+        "tipo": "liso",
+        "desc": "Durante sus duros años en Alemania Oriental, el equipo de 'Los de Hierro' vestía camisetas obreras lisas de color rojo intenso con pantalones blancos."
+      },
+      {
+        "desde": 2006,
+        "hasta": null,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#dc052d",
+        "me": "#dc052d",
+        "tipo": "rayas-verticales",
+        "desc": "En su heroico salto hasta la Champions League, han alternado el rojo liso profundo con diseños que incluyen franjas verticales blancas gruesas en alusión a uniformes retro."
+      }
+    ]
   },
   "historia": [
     {
@@ -140,7 +195,7 @@
       "nombre": "Sheraldo Becker",
       "periodo": "2019-2024",
       "pos": "Delantero",
-      "desc": "Extremo formador veloz que lideró con grandes llegadas ofensivas. Garantizó triunfos absolutos participando del momento estelar clasificando al legendario club en competiciones magnas del campeonato continental de Europa."
+      "desc": "Extremo formador veloz que lideró con grandes llegadas ofensivas. Garantizó triunfos absolutos participando del momento estelar clasificando al club en competiciones magnas del campeonato continental de Europa."
     }
   ],
   "goleadores_historicos": [

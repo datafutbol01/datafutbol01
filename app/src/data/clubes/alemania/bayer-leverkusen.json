@@ -14,7 +14,7 @@
     "nombre_oficial": "Bayer 04 Leverkusen",
     "nombre_corto": "Bayer Leverkusen",
     "apodo": "Die Werkself (Los Once de la Compañía)",
-    "fundacion": "1904",
+    "fundacion": "1 de julio de 1904",
     "estadio_actual": "BayArena",
     "presidente": "",
     "entrenador": "",
@@ -44,7 +44,82 @@
       "maximo_goleador": "Ulf Kirsten (233)",
       "mas_presencias": "Rüdiger Vollborn (483)",
       "mayor_goleada": "9-1 vs Ulm (2000)"
-    }
+    },
+    "historia": "El 1 de julio de 1904 nació el club como un proyecto social e industrial sin precedentes. El trabajador Wilhelm Hauschild redactó una carta, avalada por las firmas de 170 colegas de la planta farmacéutica Friedrich Bayer & Co., solicitando apoyo corporativo para crear un club deportivo que fomentara la salud física tras las extenuantes jornadas laborales en Leverkusen. La directiva aceptó y nació el Turn- und Spielverein der Farbenfabriken vormals Friedrich Bayer und Co. La historia futbolística de 'Los Once de la Compañía' se estructura en cuatro hitos cruciales: la consolidación de la sección de fútbol en 1907 y su largo peregrinar por el amateurismo regional; el ansiado ascenso a la máxima categoría de la Bundesliga en 1979, división de la cual jamás volvieron a descender; el primer gran impacto internacional al conquistar la Copa de la UEFA en 1988 tras revertir una dramática final ante el Espanyol; y la épica temporada 2023-24, donde, exhibiendo un fútbol coral brillante, lograron la primera Bundesliga de su historia de manera invicta y alzaron la Copa de Alemania.",
+    "idolos": [
+      {
+        "nombre": "Rüdiger Vollborn",
+        "partidos": "483",
+        "goles": "0",
+        "descripcion": "Arquero con el récord absoluto de presencias en la historia del club. Campeón de la Copa UEFA 1988."
+      },
+      {
+        "nombre": "Ulf Kirsten",
+        "partidos": "448",
+        "goles": "240",
+        "descripcion": "Máximo goleador histórico de la institución. Ganó el título de máximo anotador de la Bundesliga en tres ocasiones."
+      },
+      {
+        "nombre": "Stefan Kießling",
+        "partidos": "444",
+        "goles": "162",
+        "descripcion": "Delantero insignia del club durante más de una década y máximo anotador de la Bundesliga en la temporada 2012-13."
+      },
+      {
+        "nombre": "Carsten Ramelow",
+        "partidos": "437",
+        "goles": "24",
+        "descripcion": "Mediocampista defensivo y capitán del equipo que alcanzó la final de la Liga de Campeones en 2002."
+      },
+      {
+        "nombre": "Simon Rolfes",
+        "partidos": "377",
+        "goles": "49",
+        "descripcion": "Mediocentro de referencia y capitán, actual director deportivo de la institución."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1904,
+        "hasta": 1970,
+        "c1": "#000000",
+        "c2": "#e32221",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "mitades",
+        "desc": "La vestimenta fundacional y clásica de los trabajadores de la farmacéutica intercalaba gruesas líneas o mitades exactas en colores rojo y negro, representando los colores de la corporación."
+      },
+      {
+        "desde": 1971,
+        "hasta": 1995,
+        "c1": "#e32221",
+        "c2": "#ffffff",
+        "sh": "#e32221",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Durante esta etapa de ascenso y consolidación, predominó una camiseta totalmente roja lisa con cuello blanco, la misma con la que conquistaron la Copa de la UEFA en 1988."
+      },
+      {
+        "desde": 1996,
+        "hasta": 2010,
+        "c1": "#e32221",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#e32221",
+        "tipo": "rayas-verticales",
+        "desc": "Retorno definitivo a sus raíces cromáticas. Se popularizaron diseños con múltiples franjas verticales alternando entre rojo fuerte y negro profundo."
+      },
+      {
+        "desde": 2011,
+        "hasta": null,
+        "c1": "#000000",
+        "c2": "#e32221",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "banda-diagonal",
+        "desc": "En la era moderna, el club ha utilizado fondos oscuros cruzados por bandas diagonales rojas, o camisetas rojas con la cruz corporativa estampada en el pecho."
+      }
+    ]
   },
   "historia": [
     {

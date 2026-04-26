@@ -8,7 +8,7 @@
     "nombre_oficial": "RB Leipzig",
     "nombre_corto": "RB Leipzig",
     "apodo": "Die Roten Bullen (Los Toros Rojos)",
-    "fundacion": "2009",
+    "fundacion": "19 de mayo de 2009",
     "estadio_actual": "Red Bull Arena",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,52 @@
       "maximo_goleador": "Timo Werner (113)",
       "mas_presencias": "Yussuf Poulsen (350+)",
       "mayor_goleada": "8-0 vs Mainz (2019)"
-    }
+    },
+    "historia": "El 19 de mayo de 2009, la corporación austríaca Red Bull adquirió los derechos deportivos del modesto SSV Markranstädt de la quinta división, fundando oficialmente el RasenBallsport Leipzig con el objetivo de devolver el fútbol de élite a la región de Alemania del Este. Impulsado por un proyecto financiero y deportivo masivo, el club rompió todos los moldes logrando cuatro hitos formidables: un ascenso fulgurante ganando cuatro promociones en apenas siete años; el subcampeonato de la Bundesliga en su misma temporada de debut (2016-17); el histórico avance hasta las semifinales de la Liga de Campeones en 2020; y la consolidación de su palmarés oficial al conquistar títulos consecutivos en la Copa de Alemania (2022 y 2023).",
+    "idolos": [
+      {
+        "nombre": "Yussuf Poulsen",
+        "partidos": "370",
+        "goles": "85",
+        "descripcion": "Delantero danés y jugador con más presencias en la historia, acompañó al club desde la tercera división hasta la élite."
+      },
+      {
+        "nombre": "Emil Forsberg",
+        "partidos": "324",
+        "goles": "71",
+        "descripcion": "Mediocampista organizador clave en el ascenso a la Bundesliga y en la consolidación en competiciones europeas."
+      },
+      {
+        "nombre": "Peter Gulacsi",
+        "partidos": "285",
+        "goles": "0",
+        "descripcion": "Guardameta titular en la etapa más exitosa de la institución, incluyendo la obtención de la Copa de Alemania."
+      },
+      {
+        "nombre": "Willi Orbán",
+        "partidos": "280",
+        "goles": "26",
+        "descripcion": "Defensor central y capitán, pilar en la defensa desde su llegada en la segunda división."
+      },
+      {
+        "nombre": "Timo Werner",
+        "partidos": "213",
+        "goles": "113",
+        "descripcion": "Máximo goleador histórico del club en competiciones oficiales."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 2009,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#dc052d",
+        "sh": "#dc052d",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Alineados con la franquicia global Red Bull, impusieron un estándar estricto e inamovible: camiseta blanca muy limpia y moderna, pantalones rojos intensos y medias blancas con los toros en el pecho."
+      }
+    ]
   },
   "historia": [
     {
@@ -134,7 +179,7 @@
       "nombre": "Willi Orban",
       "periodo": "2015-Act",
       "pos": "Defensor",
-      "desc": "Defensor central y pilar defensivo absoluto. Portó la cinta de capitán siendo un jugador fundamental en la organización estelar a lo largo de nacionales y europeos campeonatos."
+      "desc": "Defensor central y defensor absoluto. Portó la cinta de capitán siendo un jugador fundamental en la organización estelar a lo largo de nacionales y europeos campeonatos."
     }
   ],
   "goleadores_historicos": [

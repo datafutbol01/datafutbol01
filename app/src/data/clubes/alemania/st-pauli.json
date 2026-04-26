@@ -11,7 +11,7 @@
   "datos": {
     "nombre_completo": "Fußball-Club St. Pauli von 1910 e. V.",
     "sigla": "FCSP",
-    "fundacion": "1910",
+    "fundacion": "15 de mayo de 1910",
     "apodo": "Die Kiezkicker / Freibeuter der Liga (Piratas de la Liga)",
     "estadio_actual": "Millerntor-Stadion",
     "estadio_apodo": "",
@@ -43,7 +43,62 @@
     },
     "nombre_oficial": "",
     "nombre_corto": "FC St. Pauli",
-    "escudo_actual": "/escudos/alemania/st-pauli/st-pauli.webp"
+    "escudo_actual": "/escudos/alemania/st-pauli/st-pauli.webp",
+    "historia": "El 15 de mayo de 1910 se oficializó la independencia de la sección de fútbol del club de gimnasia Hamburg-St.Pauli Turn-Verein (creado en 1862). Afincado en el vibrante barrio rojo de Hamburgo, el club trascendió lo meramente deportivo. Su historia se cimenta en cuatro grandes hitos: su progreso deportivo en la Oberliga Norte tras la Segunda Guerra Mundial; el profundo cambio cultural de los años ochenta, donde la adopción de la bandera pirata (Jolly Roger) y su fuerte postura antifascista lo convirtieron en un club de culto mundial; la recordada victoria liguera en 2002 frente al campeón intercontinental Bayern Múnich, ganándose el apodo 'Weltpokalsiegerbesieger'; y su eufórico regreso a la Bundesliga en la temporada 2023-24.",
+    "idolos": [
+      {
+        "nombre": "André Trulsen",
+        "partidos": "408",
+        "goles": "11",
+        "descripcion": "Jugador con el récord de presencias en el club. Defensor clave durante los ascensos a primera división."
+      },
+      {
+        "nombre": "Fabian Boll",
+        "partidos": "292",
+        "goles": "29",
+        "descripcion": "Mediocampista defensivo que jugó toda su carrera en el club mientras ejercía en paralelo como policía."
+      },
+      {
+        "nombre": "Marius Ebbers",
+        "partidos": "144",
+        "goles": "45",
+        "descripcion": "Delantero centro que resultó fundamental para el ascenso del equipo a la Bundesliga en el año 2010."
+      },
+      {
+        "nombre": "Holger Stanislawski",
+        "partidos": "260",
+        "goles": "4",
+        "descripcion": "Histórico jugador y posterior entrenador del club."
+      },
+      {
+        "nombre": "Karl Miller",
+        "partidos": "120",
+        "goles": "0",
+        "descripcion": "Histórico del club en la época previa a la Bundesliga, uno de los pocos convocados a la selección nacional."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1910,
+        "hasta": 1980,
+        "c1": "#ffffff",
+        "c2": "#4b2e1e",
+        "sh": "#4b2e1e",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "En sus inicios, utilizaron remeras lisas blancas. El color marrón (muy poco común en el fútbol) se integraba marginalmente en los pantalones y ribetes."
+      },
+      {
+        "desde": 1981,
+        "hasta": null,
+        "c1": "#4b2e1e",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#4b2e1e",
+        "tipo": "liso",
+        "desc": "Consolidación de su identidad contracultural: instauraron la camiseta enteramente marrón oscuro como primer equipo, añadiendo esporádicamente finas líneas verticales blancas."
+      }
+    ]
   },
   "historia": [
     {
@@ -89,7 +144,7 @@
       "inauguracion": "1963",
       "url": "https://www.google.com/maps/search/?api=1&query=Harald-Stender-Platz%201%2C%2020359%20Hamburg%2C%20Alemania",
       "direccion": "Harald-Stender-Platz 1, 20359 Hamburg, Alemania",
-      "descripcion": "Mítico estadio cultural. Un bastión impenetrable ideológicamente portuario bañado por calaveras antinazis (Jolly Roger) resonando fuerte The Hells Bells de AC/DC.",
+      "descripcion": " estadio cultural. Un bastión impenetrable ideológicamente portuario bañado por calaveras antinazis (Jolly Roger) resonando fuerte The Hells Bells de AC/DC.",
       "lat": 53.5534,
       "lng": 9.9678
     }

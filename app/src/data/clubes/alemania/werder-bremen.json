@@ -14,7 +14,7 @@
     "nombre_oficial": "SV Werder Bremen",
     "nombre_corto": "Werder Bremen",
     "apodo": "Die Werderaner / Die Grün-Weißen",
-    "fundacion": "1899",
+    "fundacion": "4 de febrero de 1899",
     "estadio_actual": "Weserstadion",
     "presidente": "",
     "entrenador": "",
@@ -44,7 +44,72 @@
       "maximo_goleador": "Claudio Pizarro (153)",
       "mas_presencias": "Dieter Burdenski (444)",
       "mayor_goleada": "8-1 vs Arminia Bielefeld"
-    }
+    },
+    "historia": "El 4 de febrero de 1899, un grupo de estudiantes de dieciséis años (entre los que destacaba Wilhelm Scharnow) que habían ganado material deportivo en un concurso escolar local, se organizó para fundar el FV Werder Bremen. Adoptaron la palabra 'Werder', que significa península fluvial, en honor al terreno a orillas del río Weser donde disputaban sus primeros encuentros. A lo largo del tiempo, la institución forjó una grandeza reflejada en cuatro hitos: la sorpresiva obtención de su primera Bundesliga en 1965; el glorioso triunfo internacional en la Recopa de Europa de 1992 bajo el inigualable mando de Otto Rehhagel; el brillante doblete de liga y copa nacional conseguido en 2004 con Thomas Schaaf en el banquillo; y su consolidación histórica como uno de los clubes con más temporadas en la élite alemana.",
+    "idolos": [
+      {
+        "nombre": "Dieter Burdenski",
+        "partidos": "582",
+        "goles": "1",
+        "descripcion": "Arquero legendario con el récord absoluto de partidos disputados en la historia del club."
+      },
+      {
+        "nombre": "Claudio Pizarro",
+        "partidos": "320",
+        "goles": "153",
+        "descripcion": "Máximo goleador histórico del club, disputó el torneo en cuatro etapas distintas."
+      },
+      {
+        "nombre": "Frank Baumann",
+        "partidos": "360",
+        "goles": "21",
+        "descripcion": "Mediocampista defensivo, capitán y referente en el equipo ganador del doblete nacional en 2004."
+      },
+      {
+        "nombre": "Torsten Frings",
+        "partidos": "449",
+        "goles": "52",
+        "descripcion": "Volante central que tuvo dos exitosas etapas en la institución, ganando diversos títulos de Copa."
+      },
+      {
+        "nombre": "Thomas Schaaf",
+        "partidos": "281",
+        "goles": "14",
+        "descripcion": "Defensor formado en la cantera que luego se convertiría en el entrenador más exitoso de la era moderna del club."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1899,
+        "hasta": 1970,
+        "c1": "#008000",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#008000",
+        "tipo": "liso",
+        "desc": "La histórica camiseta de sus primeros títulos era verde sólida, limpia y sobria, acompañada de pantalones blancos impecables y medias verdes."
+      },
+      {
+        "desde": 1971,
+        "hasta": 1999,
+        "c1": "#008000",
+        "c2": "#ffffff",
+        "sh": "#008000",
+        "me": "#ffffff",
+        "tipo": "rayas-verticales",
+        "desc": "El club comenzó a experimentar visualmente en la era europea de Rehhagel, introduciendo camisetas verdes surcadas por fuertes y contrastantes franjas verticales blancas o mitades asimétricas."
+      },
+      {
+        "desde": 2000,
+        "hasta": null,
+        "c1": "#008000",
+        "c2": "#ffffff",
+        "sh": "#008000",
+        "me": "#008000",
+        "tipo": "liso",
+        "desc": "Se han popularizado camisetas mitad verdes y mitad blancas, así como el uso de vivos color naranja en los ribetes, evocando el histórico doblete conseguido en 2004."
+      }
+    ]
   },
   "historia": [
     {
@@ -90,7 +155,7 @@
       "inauguracion": "1947",
       "url": "https://www.google.com/maps/search/?api=1&query=Franz-B%C3%B6hmert-Stra%C3%9Fe%201%2C%2028205%20Bremen%2C%20Alemania",
       "direccion": "Franz-Böhmert-Straße 1, 28205 Bremen, Alemania",
-      "descripcion": "Erguido a base de tierra a orillas del majestuoso río Weser, es la fosa portuaria en donde sucedieron los históricos 'Weserwunder'.",
+      "descripcion": "Erguido a base de tierra a orillas del río Weser, es la fosa portuaria en donde sucedieron los históricos 'Weserwunder'.",
       "lat": 53.0664,
       "lng": 8.8376
     }

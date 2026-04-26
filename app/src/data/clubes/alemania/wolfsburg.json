@@ -8,7 +8,7 @@
     "nombre_oficial": "VfL Wolfsburg",
     "nombre_corto": "VfL Wolfsburg",
     "apodo": "Die Wölfe (Los Lobos)",
-    "fundacion": "1945",
+    "fundacion": "12 de septiembre de 1945",
     "estadio_actual": "Volkswagen Arena",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,62 @@
       "maximo_goleador": "Edin Džeko (85)",
       "mas_presencias": "Diego Benaglio (259)",
       "mayor_goleada": "8-1 vs Augsburg (2019)"
-    }
+    },
+    "historia": "El 12 de septiembre de 1945, finalizada la Segunda Guerra Mundial, empleados locales y directivos de la fábrica de automóviles Volkswagen (fundada en 1938) vieron la necesidad imperiosa de fomentar la recreación deportiva entre sus trabajadores. Así, liderados por figuras como Josef Meyer, dieron vida al VfL Wolfsburg. El crecimiento del club ha estado directamente ligado al desarrollo industrial de la ciudad, marcando cuatro hitos insoslayables: el largo trayecto de profesionalización en las ligas del norte; el tan ansiado primer ascenso a la Bundesliga en 1997; la épica e inesperada consagración como campeones de Alemania en 2009 liderados por una ofensiva demoledora (Grafite y Džeko); y la victoria sobre el Dortmund para alzar su primera Copa de Alemania en 2015.",
+    "idolos": [
+      {
+        "nombre": "Diego Benaglio",
+        "partidos": "321",
+        "goles": "0",
+        "descripcion": "Arquero y capitán histórico que defendió la portería durante la obtención de la liga y la copa nacional."
+      },
+      {
+        "nombre": "Marcel Schäfer",
+        "partidos": "312",
+        "goles": "16",
+        "descripcion": "Lateral izquierdo clave en el equipo campeón de la Bundesliga, ostentando el récord de asistencias en su posición."
+      },
+      {
+        "nombre": "Edin Džeko",
+        "partidos": "142",
+        "goles": "85",
+        "descripcion": "Máximo goleador en la historia del club, fundamental con sus goles en el título liguero de 2009."
+      },
+      {
+        "nombre": "Maximilian Arnold",
+        "partidos": "380",
+        "goles": "38",
+        "descripcion": "Jugador con el récord de presencias absolutas, formado en la cantera de la institución."
+      },
+      {
+        "nombre": "Josué",
+        "partidos": "200",
+        "goles": "3",
+        "descripcion": "Mediocampista central y capitán del histórico plantel campeón del año 2009."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1945,
+        "hasta": 2000,
+        "c1": "#008000",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#008000",
+        "tipo": "liso",
+        "desc": "Uniforme directamente enlazado con la identidad municipal: camiseta lisa de un verde bosque profundo acompañada por el antiguo logo de la ciudad y Volkswagen."
+      },
+      {
+        "desde": 2001,
+        "hasta": null,
+        "c1": "#32cd32",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#32cd32",
+        "tipo": "liso",
+        "desc": "Transición hacia la era moderna: el club viró el tono de su camiseta hacia un estridente y luminoso verde neón claro, ocasionalmente atravesado por bandas diagonales o franjas anchas blancas."
+      }
+    ]
   },
   "historia": [
     {
@@ -126,13 +181,13 @@
       "nombre": "Grafite",
       "periodo": "2007-2011",
       "pos": "Delantero",
-      "desc": "Artillero letal ofensivo de Brasil. Alcanzó un rendimiento oficial majestuoso oficiando como máximo goleador indiscutido sumando al equipo durante la vital obtención del título de liga."
+      "desc": "Artillero letal ofensivo de Brasil. Alcanzó un rendimiento oficial oficiando como máximo goleador indiscutido sumando al equipo durante la vital obtención del título de liga."
     },
     {
       "nombre": "Edin Džeko",
       "periodo": "2007-2011",
       "pos": "Delantero",
-      "desc": "Poderoso centrodelantero internacional asiduo goleador de área. Conformó una inolvidable dupla de ataque ofensiva que posibilitó fuertemente el logro indiscutible para salir campeón de la primera."
+      "desc": "Poderoso centrodelantero internacional asiduo goleador de área. Conformó una inolvidable dupla de ataque ofensiva que posibilitó fuertemente el logro para salir campeón de la primera."
     },
     {
       "nombre": "Marcel Schäfer",

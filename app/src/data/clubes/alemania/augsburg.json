@@ -8,7 +8,7 @@
     "nombre_oficial": "FC Augsburg",
     "nombre_corto": "FC Augsburg",
     "apodo": "Fuggerstädter (Los Ciudadanos de Fugger)",
-    "fundacion": "1907",
+    "fundacion": "8 de agosto de 1907",
     "estadio_actual": "WWK Arena",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,62 @@
       "maximo_goleador": "Daniel Baier",
       "mas_presencias": "Daniel Baier",
       "mayor_goleada": "6-0 vs Stuttgart (2019)"
-    }
+    },
+    "historia": "El 8 de agosto de 1907, impulsados por el creciente interés hacia el fútbol en la región, un grupo de treinta miembros fundó el Fußball-Club Alemannia en la ciudad de Augsburgo. Tras diversas reorganizaciones tempranas, el club cimentó su estructura moderna el 15 de julio de 1969 mediante la fusión definitiva con el TSV Schwaben. Su trayectoria histórica se define por cuatro grandes hitos: el absoluto dominio en las divisiones bávaras amateurs durante el siglo XX; su regreso al profesionalismo con el ascenso a la 2. Bundesliga en 2006; el ansiado y primer ascenso a la máxima categoría de la Bundesliga en la temporada 2010-11; y su histórica clasificación a la Liga Europa de la UEFA en 2015, marcando su debut en competiciones internacionales.",
+    "idolos": [
+      {
+        "nombre": "Daniel Baier",
+        "partidos": "355",
+        "goles": "8",
+        "descripcion": "Mediocampista histórico y capitán del club durante la consolidación del equipo en la Bundesliga."
+      },
+      {
+        "nombre": "Helmut Haller",
+        "partidos": "85",
+        "goles": "24",
+        "descripcion": "Legendario jugador surgido del club que regresó en la década de 1970 tras triunfar en Italia."
+      },
+      {
+        "nombre": "Ulrich Biesinger",
+        "partidos": "148",
+        "goles": "105",
+        "descripcion": "Goleador histórico y el jugador más representativo del club en la época de posguerra. Campeón del mundo en 1954."
+      },
+      {
+        "nombre": "Tobias Werner",
+        "partidos": "208",
+        "goles": "36",
+        "descripcion": "Extremo determinante en la primera década del club en la máxima categoría del fútbol alemán."
+      },
+      {
+        "nombre": "Finn Dahmen",
+        "partidos": "40",
+        "goles": "0",
+        "descripcion": "Arquero titular en la etapa reciente del club en la Bundesliga."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1907,
+        "hasta": 1968,
+        "c1": "#ffffff",
+        "c2": "#dc052d",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Previo a la fusión, los colores históricos de los clubes fundadores alternaban entre el blanco predominante y vivos rojos, manteniendo uniformes lisos clásicos de la época."
+      },
+      {
+        "desde": 1969,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#008000",
+        "sh": "#ffffff",
+        "me": "#dc052d",
+        "tipo": "rayas-verticales",
+        "desc": "Tras la fusión que dio origen al FCA moderno, se consolidaron los colores de la bandera de la ciudad de Augsburgo: rojo, verde y blanco. Alternan anualmente entre camisetas blancas con franjas rojas o verdes."
+      }
+    ]
   },
   "historia": [
     {
@@ -62,7 +117,7 @@
     },
     {
       "ano": "2015",
-      "hito": "La Increíble Gesta Europea y la Quinta Plaza",
+      "hito": "La Gesta Europea y la Quinta Plaza",
       "desc": "Temporada y campaña relevante en el historial deportivo del primer equipo."
     },
     {

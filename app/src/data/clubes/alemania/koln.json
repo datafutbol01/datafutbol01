@@ -11,7 +11,7 @@
   "datos": {
     "nombre_completo": "1. Fußball-Club Köln 01/07 e. V.",
     "sigla": "KOE",
-    "fundacion": "1948",
+    "fundacion": "13 de febrero de 1948",
     "apodo": "Die Geißböcke (Los Machos Cabríos)",
     "estadio_actual": "RheinEnergieStadion",
     "estadio_apodo": "",
@@ -39,7 +39,62 @@
     },
     "nombre_oficial": "",
     "nombre_corto": "1. FC Köln",
-    "escudo_actual": "/escudos/alemania/koln/koln.webp"
+    "escudo_actual": "/escudos/alemania/koln/koln.webp",
+    "historia": "El 13 de febrero de 1948, en una ciudad devastada por la guerra, el dirigente Franz Kremer impulsó la fusión del Kölner BC 01 y el SpVgg Sülz 07 para crear una institución fuerte que uniera a Colonia. Kremer, primer presidente del club, fue el arquitecto del 1. FC Köln. La rica historia de 'Los Machos Cabríos' (apodo derivado de la mascota Hennes, regalada al club en 1950) se resume en cuatro grandes hitos: la histórica consagración como el primer campeón absoluto en la temporada inaugural de la Bundesliga (1963-64); la brillante obtención del doblete de liga y copa en 1978; la llegada a la final de la Copa de la UEFA en 1986; y la profunda lealtad de su masa social, que acompañó masivamente al equipo en sus etapas de reconstrucción durante el siglo XXI.",
+    "idolos": [
+      {
+        "nombre": "Toni Schumacher",
+        "partidos": "542",
+        "goles": "0",
+        "descripcion": "Guardameta titular en la época dorada y jugador con el récord histórico de presencias en el club."
+      },
+      {
+        "nombre": "Wolfgang Overath",
+        "partidos": "542",
+        "goles": "119",
+        "descripcion": "Mediocampista emblemático y campeón mundial, compartió el récord de presencias con Schumacher."
+      },
+      {
+        "nombre": "Pierre Littbarski",
+        "partidos": "504",
+        "goles": "144",
+        "descripcion": "Extremo habilidoso y figura clave durante catorce temporadas con la institución."
+      },
+      {
+        "nombre": "Dieter Müller",
+        "partidos": "326",
+        "goles": "231",
+        "descripcion": "Máximo goleador en la historia del club, fundamental para la obtención del doblete de liga y copa en 1978."
+      },
+      {
+        "nombre": "Lukas Podolski",
+        "partidos": "181",
+        "goles": "86",
+        "descripcion": "Delantero surgido de la cantera que se convirtió en un ícono moderno para la afición."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1948,
+        "hasta": 1980,
+        "c1": "#ffffff",
+        "c2": "#dc052d",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "La armadura clásica e inconfundible del multicampeón de Colonia: camiseta completamente blanca de algodón liso, con el gran escudo del macho cabrío Hennes en el pecho y cuello rojo."
+      },
+      {
+        "desde": 1981,
+        "hasta": null,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#dc052d",
+        "me": "#ffffff",
+        "tipo": "rayas-verticales",
+        "desc": "El club comenzó a intercambiar protagonismo entre el blanco y el rojo (colores de la ciudad). Hoy alternan camisetas completamente rojas con modelos atravesados por bandas verticales blancas."
+      }
+    ]
   },
   "historia": [
     {
@@ -85,7 +140,7 @@
       "inauguracion": "1923",
       "url": "https://www.google.com/maps/search/?api=1&query=Aachener%20Str.%2C%2050933%20K%C3%B6ln%2C%20Alemania",
       "direccion": "Aachener Str., 50933 Köln, Alemania",
-      "descripcion": "Monumental terreno y circuito antiguo provisto originalmente de pista de ciclismo de velocidad. Base formal para forjar el estadio final del bloque en Müngersdorf.",
+      "descripcion": " terreno y circuito antiguo provisto originalmente de pista de ciclismo de velocidad. Base formal para forjar el estadio final del bloque en Müngersdorf.",
       "lat": 50.9335,
       "lng": 6.8749
     }

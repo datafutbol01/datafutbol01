@@ -14,7 +14,7 @@
     "nombre_oficial": "FC Bayern München",
     "nombre_corto": "Bayern Múnich",
     "apodo": "Die Bayern (Los Bávaros) / Stern des Südens",
-    "fundacion": "1900",
+    "fundacion": "27 de febrero de 1900",
     "estadio_actual": "Allianz Arena",
     "presidente": "",
     "entrenador": "",
@@ -48,7 +48,82 @@
       "maximo_goleador": "Gerd Müller (568)",
       "mas_presencias": "Sepp Maier (706)",
       "mayor_goleada": "11-1 vs Dortmund (1971)"
-    }
+    },
+    "historia": "El 27 de febrero de 1900, en el ambiente bohemio del restaurante Gisela de Múnich, se gestó un acto de rebeldía que cambiaría la historia del fútbol alemán. Un grupo de once jóvenes deportistas, liderados por el fotógrafo berlinés Franz John, decidió separarse definitivamente del club de gimnasia MTV 1879 ante la severa negativa de la directiva a permitirles afiliarse a la Asociación de Fútbol del Sur de Alemania. Así nació el FC Bayern München. Desde aquellos primeros años de amateurismo, el club forjó una identidad sólida marcada por cuatro hitos fundamentales: la conquista de su primer campeonato nacional en 1932 bajo la dirección técnica de Richard Dombi; el renacer en la década de 1960 que los depositó en la recién creada Bundesliga; la época dorada internacional de los años setenta, donde el icónico eje conformado por Beckenbauer, Müller y Maier alzó tres Copas de Europa consecutivas; y, finalmente, la era moderna de dominio absoluto, coronada por los históricos tripletes de 2013 y 2020, que consolidaron al club bávaro como una de las instituciones más poderosas del deporte mundial.",
+    "idolos": [
+      {
+        "nombre": "Sepp Maier",
+        "partidos": "700",
+        "goles": "0",
+        "descripcion": "Guardameta titular en la época dorada del club en los años 70, ganando tres Copas de Europa consecutivas."
+      },
+      {
+        "nombre": "Thomas Müller",
+        "partidos": "707",
+        "goles": "242",
+        "descripcion": "Jugador con más partidos en la historia del club y figura clave en los dos tripletes obtenidos (2013 y 2020)."
+      },
+      {
+        "nombre": "Gerd Müller",
+        "partidos": "607",
+        "goles": "566",
+        "descripcion": "Máximo goleador histórico del club y de la historia de la Bundesliga. Pilar ofensivo durante la década de 1970."
+      },
+      {
+        "nombre": "Franz Beckenbauer",
+        "partidos": "582",
+        "goles": "74",
+        "descripcion": "Defensor central, revolucionó la posición de líbero y capitaneó al club a sus mayores éxitos continentales."
+      },
+      {
+        "nombre": "Oliver Kahn",
+        "partidos": "632",
+        "goles": "0",
+        "descripcion": "Arquero y capitán. Fundamental en la conquista de la Liga de Campeones de 2001."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1900,
+        "hasta": 1905,
+        "c1": "#ffffff",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "Camiseta totalmente blanca combinada con pantalones negros. Esta indumentaria inicial reflejaba los primeros años de amateurismo tras su separación del club de gimnasia."
+      },
+      {
+        "desde": 1906,
+        "hasta": 1967,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#dc052d",
+        "me": "#dc052d",
+        "tipo": "rayas-verticales",
+        "desc": "Tras afiliarse al Münchner Sport-Club en 1906, adoptaron los colores rojo y blanco. Durante décadas alternaron entre un rojo liso predominante y diseños con finas líneas verticales blancas."
+      },
+      {
+        "desde": 1968,
+        "hasta": 1995,
+        "c1": "#dc052d",
+        "c2": "#002244",
+        "sh": "#dc052d",
+        "me": "#002244",
+        "tipo": "rayas-verticales",
+        "desc": "En 1968, como homenaje a los colores de Baviera, se introdujeron gruesas franjas verticales azules sobre el fondo rojo, diseño icónico con el que ganaron las tres Copas de Europa en los 70."
+      },
+      {
+        "desde": 1996,
+        "hasta": null,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#dc052d",
+        "me": "#dc052d",
+        "tipo": "liso",
+        "desc": "Consolidación de la armadura moderna: un rojo profundo y liso como color hegemónico, con variaciones sutiles y vivos blancos, desterrando casi por completo el azul del kit titular."
+      }
+    ]
   },
   "historia": [
     {

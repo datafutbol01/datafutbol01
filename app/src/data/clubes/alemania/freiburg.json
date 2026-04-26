@@ -11,7 +11,7 @@
   "datos": {
     "nombre_completo": "Sport-Club Freiburg e. V.",
     "sigla": "SCF",
-    "fundacion": "1904",
+    "fundacion": "30 de mayo de 1904",
     "apodo": "Breisgau-Brasilianer (Los Brasileños de Breisgau)",
     "estadio_actual": "Europa-Park Stadion",
     "estadio_apodo": "",
@@ -43,7 +43,62 @@
     },
     "nombre_oficial": "",
     "nombre_corto": "SC Freiburg",
-    "escudo_actual": "/escudos/alemania/freiburg/freiburg.svg"
+    "escudo_actual": "/escudos/alemania/freiburg/freiburg.svg",
+    "historia": "El 30 de mayo de 1904, con el afán de promover el deporte atlético en la Selva Negra, nacieron paralelamente el Freiburger FV 04 y el FC Schwalbe. Tras diversas fusiones, el club tomó su forma definitiva y en 1912 adoptó el emblemático escudo con la cabeza del grifo. La institución ha forjado una identidad modesta pero tenaz, marcada por cuatro hitos clave: su primer y resonante ascenso a la Bundesliga en 1993 bajo la revolucionaria dirección técnica de Volker Finke; la sorpresiva obtención del tercer puesto liguero en la temporada 1994-95; la profunda transformación estructural de su cantera a inicios de los 2000; y la consolidación deportiva en la era moderna con Christian Streich en el banquillo, alcanzando la final de la Copa de Alemania en 2022 y compitiendo asiduamente en Europa.",
+    "idolos": [
+      {
+        "nombre": "Christian Günter",
+        "partidos": "400",
+        "goles": "12",
+        "descripcion": "Lateral izquierdo y capitán, jugador con más partidos disputados en la historia profesional del club."
+      },
+      {
+        "nombre": "Nils Petersen",
+        "partidos": "277",
+        "goles": "105",
+        "descripcion": "Máximo goleador en la historia del club."
+      },
+      {
+        "nombre": "Andreas Zeyer",
+        "partidos": "441",
+        "goles": "44",
+        "descripcion": "Mediocampista histórico con la mayor cantidad total de presencias oficiales combinando distintas divisiones."
+      },
+      {
+        "nombre": "Richard Golz",
+        "partidos": "253",
+        "goles": "0",
+        "descripcion": "Arquero titular durante la estabilización del club en la Bundesliga entre 1998 y 2006."
+      },
+      {
+        "nombre": "Vincenzo Grifo",
+        "partidos": "250",
+        "goles": "80",
+        "descripcion": "Referente ofensivo contemporáneo del club y especialista en balones parados."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1904,
+        "hasta": 1992,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Durante sus casi nueve décadas en el ascenso, el Friburgo vestía de blanco y negro liso. Ocasionalmente incorporaba detalles sutiles, pero el rojo aún no era predominante."
+      },
+      {
+        "desde": 1993,
+        "hasta": null,
+        "c1": "#dc052d",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#dc052d",
+        "tipo": "rayas-verticales",
+        "desc": "Al ascender a la Bundesliga, popularizaron la camiseta a rayas verticales rojas y negras, diseño que los ha acompañado durante toda su época dorada contemporánea."
+      }
+    ]
   },
   "historia": [
     {

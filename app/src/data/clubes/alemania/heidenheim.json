@@ -8,7 +8,7 @@
     "nombre_oficial": "1. FC Heidenheim",
     "nombre_corto": "Heidenheim",
     "apodo": "Ninguno",
-    "fundacion": "2007",
+    "fundacion": "14 de agosto de 1846",
     "estadio_actual": "Voith-Arena",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,62 @@
       "maximo_goleador": "Marc Schnatterer (122)",
       "mas_presencias": "Marc Schnatterer (427)",
       "mayor_goleada": "4-0 vs múltiple"
-    }
+    },
+    "historia": "El 14 de agosto de 1846 se fundó la Turngemeinde Heidenheim, una histórica asociación de gimnasia de donde, décadas más tarde, surgirían los primeros practicantes de fútbol de la localidad. Tras escindirse y reunificarse en múltiples ocasiones, el departamento de fútbol se independizó legalmente en 2007 bajo el nombre de 1. FC Heidenheim 1846 para poder profesionalizarse. Esta refundación moderna impulsó cuatro hitos trascendentales: el vertiginoso ascenso a la tercera división en 2009; la conquista del título de la 3. Liga en 2014 bajo el mando del icónico entrenador Frank Schmidt; la dramática consagración como campeones de la 2. Bundesliga en la última jornada de la temporada 2022-23; y el histórico y primer ascenso a la élite de la Bundesliga, compitiendo contra las potencias del país.",
+    "idolos": [
+      {
+        "nombre": "Marc Schnatterer",
+        "partidos": "427",
+        "goles": "122",
+        "descripcion": "Capitán y máximo goleador histórico. Jugó con el club desde divisiones regionales hasta el ascenso al profesionalismo."
+      },
+      {
+        "nombre": "Kevin Müller",
+        "partidos": "270",
+        "goles": "0",
+        "descripcion": "Arquero titular indiscutible que acompañó al club en su histórico ascenso a la Bundesliga."
+      },
+      {
+        "nombre": "Patrick Mainka",
+        "partidos": "200",
+        "goles": "18",
+        "descripcion": "Defensor central y capitán del equipo que logró el primer ascenso a la máxima categoría."
+      },
+      {
+        "nombre": "Tim Kleindienst",
+        "partidos": "158",
+        "goles": "83",
+        "descripcion": "Goleador fundamental en la obtención del título de la 2. Bundesliga en la temporada 2022-23."
+      },
+      {
+        "nombre": "Alper Bagceci",
+        "partidos": "193",
+        "goles": "15",
+        "descripcion": "Jugador clave durante la consolidación del club en la tercera y segunda división."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1846,
+        "hasta": 2006,
+        "c1": "#ffffff",
+        "c2": "#0000ff",
+        "sh": "#0000ff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "En sus largos años como departamento de una asociación deportiva amateur, utilizaron vestimenta predominantemente blanca con pantalones azules clásicos."
+      },
+      {
+        "desde": 2007,
+        "hasta": null,
+        "c1": "#e32221",
+        "c2": "#0000ff",
+        "sh": "#e32221",
+        "me": "#e32221",
+        "tipo": "rayas-verticales",
+        "desc": "Con la independencia y profesionalización del fútbol, el club instauró una identidad muy agresiva: camisetas totalmente rojas o surcadas por gruesas bandas verticales de color azul marino."
+      }
+    ]
   },
   "historia": [
     {

@@ -8,7 +8,7 @@
     "nombre_oficial": "Hamburger SV",
     "nombre_corto": "Hamburger SV",
     "apodo": "Der Dino (El Dinosaurio) / Rothosen (Pantalones Rojos)",
-    "fundacion": "1887",
+    "fundacion": "29 de septiembre de 1887",
     "estadio_actual": "Volksparkstadion",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,62 @@
       "maximo_goleador": "Uwe Seeler (507)",
       "mas_presencias": "Manfred Kaltz (744)",
       "mayor_goleada": "8-0 vs Kalsruher (1966)"
-    }
+    },
+    "historia": "El 29 de septiembre de 1887, un grupo de estudiantes del Wilhelm-Gymnasium de Hamburgo fundó el SC Germania, sentando las bases del club actual. Sin embargo, la institución tomó su nombre definitivo, Hamburger Sport-Verein, tras la fusión de tres equipos locales el 1 de junio de 1919. Símbolo del fútbol del norte de Alemania, su legado se divide en cuatro grandes hitos: el dominio nacional en la década de 1920 con sus primeros títulos oficiales; el período dorado de fines de los setenta y principios de los ochenta, coronado con la Copa de Europa de 1983 tras derrotar a la Juventus con gol de Felix Magath; la conquista de la Recopa de Europa en 1977; y el emblemático récord de haber sido el único equipo fundador de la Bundesliga en mantener la categoría de forma ininterrumpida durante 55 años, hasta 2018.",
+    "idolos": [
+      {
+        "nombre": "Manfred Kaltz",
+        "partidos": "744",
+        "goles": "96",
+        "descripcion": "Lateral derecho con el récord histórico de presencias en el club. Inventó el centro con efecto 'Bananenflanke'."
+      },
+      {
+        "nombre": "Uwe Seeler",
+        "partidos": "580",
+        "goles": "490",
+        "descripcion": "Máximo goleador histórico de la institución y una de las figuras más importantes en la historia del fútbol alemán."
+      },
+      {
+        "nombre": "Horst Hrubesch",
+        "partidos": "207",
+        "goles": "120",
+        "descripcion": "Delantero centro apodado 'El Monstruo de los Cabezazos', autor del gol en la final de la Copa de Europa 1983."
+      },
+      {
+        "nombre": "Felix Magath",
+        "partidos": "382",
+        "goles": "63",
+        "descripcion": "Mediocampista organizador que marcó el gol decisivo en la final de la Copa de Europa ante la Juventus."
+      },
+      {
+        "nombre": "Mehdi Mahdavikia",
+        "partidos": "263",
+        "goles": "30",
+        "descripcion": "Carrilero iraní que destacó por sus asistencias durante más de ocho temporadas en el club."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1887,
+        "hasta": 1920,
+        "c1": "#0000ff",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "liso",
+        "desc": "El equipo predecesor, SC Germania, vestía de azul y negro. Estos colores sobreviven únicamente en el emblemático escudo romboidal del club."
+      },
+      {
+        "desde": 1921,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#dc052d",
+        "sh": "#dc052d",
+        "me": "#0000ff",
+        "tipo": "liso",
+        "desc": "Tras adoptar los colores de la ciudad hanseática, establecieron una combinación inamovible: camiseta blanca lisa, pantalones rojos ('Rothosen') y medias azules con borde blanco y negro."
+      }
+    ]
   },
   "historia": [
     {
@@ -78,7 +133,7 @@
       "inauguracion": "1910",
       "url": "https://www.google.com/maps/search/?api=1&query=Rothenbaumchaussee%20119%2C%20Hamburg%2C%20Alemania",
       "direccion": "Rothenbaumchaussee 119, Hamburg, Alemania",
-      "descripcion": "Mítico polideportivo destruido tras cerca de una centuria activa de partidos e inauguración en céntricas zonas donde el hamburgo generaba su fervor masivo local.",
+      "descripcion": " polideportivo destruido tras cerca de una centuria activa de partidos e inauguración en céntricas zonas donde el hamburgo generaba su fervor masivo local.",
       "lat": 53.5683,
       "lng": 9.988
     },

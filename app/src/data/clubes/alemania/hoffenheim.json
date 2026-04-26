@@ -8,7 +8,7 @@
     "nombre_oficial": "TSG Hoffenheim",
     "nombre_corto": "Hoffenheim",
     "apodo": "Die Kraichgauer (Los de Kraichgau)",
-    "fundacion": "1899",
+    "fundacion": "1 de julio de 1899",
     "estadio_actual": "PreZero Arena",
     "presidente": "",
     "entrenador": "",
@@ -38,7 +38,62 @@
       "maximo_goleador": "Andrej Kramaric (132)",
       "mas_presencias": "Oliver Baumann (350+)",
       "mayor_goleada": "6-0 vs Colonia (2021)"
-    }
+    },
+    "historia": "El 1 de julio de 1899, los habitantes de la pequeña localidad de Sinsheim fundaron un modesto club de gimnasia. La rama futbolística cobró forma oficial tras el fin de la Segunda Guerra Mundial, en 1945, fusionándose con la entidad deportiva. El club permaneció en el más estricto anonimato amateur hasta que su historia se partió en dos con cuatro hitos fundamentales: el ingreso del inversor Dietmar Hopp (exjugador de las inferiores) en el año 2000; el ascenso meteórico que los llevó desde la quinta división hasta la máxima categoría en apenas ocho temporadas; el asombroso debut en la Bundesliga en 2008, donde se coronaron 'campeones de otoño' en su primer semestre; y la histórica primera clasificación a la Liga de Campeones en 2017, consolidando un proyecto deportivo de vanguardia tecnológica.",
+    "idolos": [
+      {
+        "nombre": "Oliver Baumann",
+        "partidos": "350",
+        "goles": "0",
+        "descripcion": "Arquero y capitán del equipo durante la mayor parte de su historia en la máxima categoría."
+      },
+      {
+        "nombre": "Andrej Kramaric",
+        "partidos": "260",
+        "goles": "120",
+        "descripcion": "Máximo goleador histórico del club y figura clave en la clasificación a competiciones europeas."
+      },
+      {
+        "nombre": "Sejad Salihovic",
+        "partidos": "249",
+        "goles": "67",
+        "descripcion": "Mediocampista bosnio especialista en tiros libres, parte fundamental del equipo que ascendió a la Bundesliga."
+      },
+      {
+        "nombre": "Andreas Beck",
+        "partidos": "237",
+        "goles": "3",
+        "descripcion": "Defensor y capitán durante la etapa de consolidación inicial en primera división."
+      },
+      {
+        "nombre": "Kevin Volland",
+        "partidos": "144",
+        "goles": "36",
+        "descripcion": "Delantero alemán que formó una destacada dupla ofensiva junto a Roberto Firmino."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1899,
+        "hasta": 1999,
+        "c1": "#ffffff",
+        "c2": "#0000ff",
+        "sh": "#0000ff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Uniformes genéricos de la liga amateur del Kraichgau, intercalando camisetas lisas blancas con vivos en color azul real."
+      },
+      {
+        "desde": 2000,
+        "hasta": null,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#0000ff",
+        "me": "#0000ff",
+        "tipo": "banda-diagonal",
+        "desc": "Durante su meteórico ascenso y estadía en Bundesliga, fijaron la camiseta enteramente azul marino, utilizando ocasionalmente cruces o sutiles bandas diagonales blancas en el torso."
+      }
+    ]
   },
   "historia": [
     {

@@ -14,7 +14,7 @@
     "nombre_oficial": "Borussia Mönchengladbach",
     "nombre_corto": "Borussia M'gladbach",
     "apodo": "Die Fohlen (Los Potros)",
-    "fundacion": "1900",
+    "fundacion": "1 de agosto de 1900",
     "estadio_actual": "Borussia-Park",
     "presidente": "",
     "entrenador": "",
@@ -48,7 +48,82 @@
       "maximo_goleador": "Jupp Heynckes (292)",
       "mas_presencias": "Berti Vogts (526)",
       "mayor_goleada": "12-0 vs Dortmund (1978)"
-    }
+    },
+    "historia": "El 1 de agosto de 1900, en el distrito de Eicken, Mönchengladbach, un grupo de jóvenes deportistas de la congregación católica de Marien formalizó su pasión por el balón. Deseosos de establecer una estructura deportiva más profesional que el equipo juvenil 'Germania' en el que jugaban, decidieron independizarse y fundar el FC Borussia, adoptando el término latino para referirse a Prusia. El equipo, profundamente arraigado en la región de Renania, cimentó su rica historia en cuatro grandes hitos: su debut en la élite al conseguir el ascenso a la Bundesliga en 1965; la explosiva década de oro de los años setenta, donde el plantel apodado 'Los Potros' deslumbró con un estilo ofensivo y vertiginoso que le otorgó cinco títulos de liga; la conquista del continente al ganar la Copa de la UEFA en dos ocasiones (1975 y 1979); y, tras el duro golpe del descenso en 1999, el resurgir estructural en el siglo XXI que devolvió a la institución a las noches de Liga de Campeones, recuperando su estatus de peso pesado en el fútbol alemán.",
+    "idolos": [
+      {
+        "nombre": "Berti Vogts",
+        "partidos": "526",
+        "goles": "42",
+        "descripcion": "Jugador con más presencias en la historia del club. Lateral derecho integrante del equipo dominante de los años 70."
+      },
+      {
+        "nombre": "Jupp Heynckes",
+        "partidos": "400",
+        "goles": "298",
+        "descripcion": "Máximo goleador histórico del club y figura decisiva en la conquista de los títulos nacionales y europeos de la década de 1970."
+      },
+      {
+        "nombre": "Herbert Wimmer",
+        "partidos": "461",
+        "goles": "68",
+        "descripcion": "Mediocampista que disputó toda su carrera profesional en el club, siendo vital en el esquema de la época dorada."
+      },
+      {
+        "nombre": "Günter Netzer",
+        "partidos": "349",
+        "goles": "125",
+        "descripcion": "Armador de juego y figura icónica del equipo campeón de la década de 1970."
+      },
+      {
+        "nombre": "Allan Simonsen",
+        "partidos": "246",
+        "goles": "107",
+        "descripcion": "Delantero danés ganador del Balón de Oro en 1977 mientras jugaba para el club."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1900,
+        "hasta": 1969,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Durante sus primeras siete décadas, 'Los Potros' lucieron una indumentaria muy sobria y limpia: camiseta enteramente blanca lisa con pantalones y medias haciendo juego."
+      },
+      {
+        "desde": 1970,
+        "hasta": 1985,
+        "c1": "#ffffff",
+        "c2": "#008000",
+        "sh": "#ffffff",
+        "me": "#000000",
+        "tipo": "rayas-verticales",
+        "desc": "La época dorada de los 70 trajo consigo la inclusión del color verde. Se hicieron icónicas las camisetas blancas surcadas por gruesas bandas verticales de color verde esmeralda y negro."
+      },
+      {
+        "desde": 1986,
+        "hasta": 2005,
+        "c1": "#ffffff",
+        "c2": "#008000",
+        "sh": "#000000",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Regreso al blanco liso como fondo predominante, manteniendo el verde y el negro únicamente en los remates del cuello, puños y en franjas horizontales finas secundarias."
+      },
+      {
+        "desde": 2006,
+        "hasta": null,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#ffffff",
+        "me": "#ffffff",
+        "tipo": "banda-diagonal",
+        "desc": "Consolidación de diseños dinámicos: el club alterna anualmente entre el blanco clásico y el uso de franjas anchas diagonales u horizontales en tonos verdes y negros."
+      }
+    ]
   },
   "historia": [
     {
@@ -94,7 +169,7 @@
       "inauguracion": "2004",
       "url": "https://www.google.com/maps/search/?api=1&query=Hennes-Weisweiler-Allee%201%2C%2041179%20M%C3%B6nchengladbach%2C%20Alemania",
       "direccion": "Hennes-Weisweiler-Allee 1, 41179 Mönchengladbach, Alemania",
-      "descripcion": "Reemplazó al querido pero obsoleto y mítico Bökelbergstadion para dotar a los 'Potros' de un infierno verde de élite y máxima comodidad.",
+      "descripcion": "Reemplazó al querido pero obsoleto y Bökelbergstadion para dotar a los 'Potros' de un infierno verde de élite y máxima comodidad.",
       "lat": 51.1746,
       "lng": 6.3855
     }

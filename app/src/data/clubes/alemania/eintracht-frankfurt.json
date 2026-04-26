@@ -8,7 +8,7 @@
     "nombre_oficial": "Eintracht Frankfurt",
     "nombre_corto": "Eintracht Frankfurt",
     "apodo": "Die Adler (Las Águilas)",
-    "fundacion": "1899",
+    "fundacion": "8 de marzo de 1899",
     "estadio_actual": "Deutsche Bank Park",
     "presidente": "",
     "entrenador": "",
@@ -42,7 +42,72 @@
       "maximo_goleador": "Bernd Hölzenbein (201)",
       "mas_presencias": "Charly Körbel (602)",
       "mayor_goleada": "9-1 vs Essen (1974)"
-    }
+    },
+    "historia": "El 8 de marzo de 1899, con el objetivo de consolidar la práctica del fútbol en la región del Meno, un grupo de pioneros locales liderados por Albert Wege creó las instituciones Frankfurter FC Victoria y Frankfurter FC Kickers. Ambas entidades se unieron en 1911 y se fusionaron definitivamente en 1920 con la asociación de gimnasia local, dando origen al nombre Eintracht. Su rica historia se sostiene en cuatro hitos ineludibles: la disputa de la legendaria final de la Copa de Europa de 1960 ante el Real Madrid (7-3); el triunfo continental al conquistar la Copa de la UEFA en 1980 en una final netamente alemana; la obtención de múltiples Copas de Alemania que forjaron su carácter copero; y la épica victoria en la Liga Europa 2021-22 tras superar al Rangers, uniendo a toda la ciudad en un festejo masivo.",
+    "idolos": [
+      {
+        "nombre": "Karl-Heinz Körbel",
+        "partidos": "720",
+        "goles": "38",
+        "descripcion": "Defensor con el récord absoluto de partidos disputados en la historia de la Bundesliga."
+      },
+      {
+        "nombre": "Bernd Hölzenbein",
+        "partidos": "532",
+        "goles": "201",
+        "descripcion": "Máximo goleador histórico de la institución y campeón mundial con Alemania en 1974."
+      },
+      {
+        "nombre": "Jürgen Grabowski",
+        "partidos": "526",
+        "goles": "137",
+        "descripcion": "Referente en la historia del club, ganador de la Copa de la UEFA en 1980 y campeón del mundo."
+      },
+      {
+        "nombre": "Kevin Trapp",
+        "partidos": "338",
+        "goles": "0",
+        "descripcion": "Guardameta determinante en la obtención de la Liga Europa de la UEFA en la temporada 2021-22."
+      },
+      {
+        "nombre": "Anthony Yeboah",
+        "partidos": "156",
+        "goles": "89",
+        "descripcion": "Delantero ghanés y dos veces máximo goleador de la Bundesliga en los años 90."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1899,
+        "hasta": 1970,
+        "c1": "#000000",
+        "c2": "#e32221",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "rayas-verticales",
+        "desc": "El diseño clásico de las 'Águilas' consistió casi ininterrumpidamente en una camiseta a finas rayas verticales rojas y negras, reflejando los colores de los clubes fundadores originarios."
+      },
+      {
+        "desde": 1971,
+        "hasta": 1999,
+        "c1": "#ffffff",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#ffffff",
+        "tipo": "liso",
+        "desc": "Durante sus grandes éxitos coperos, el club introdujo asiduamente camisetas totalmente blancas con el escudo del águila en negro, o diseños invertidos en blanco y negro."
+      },
+      {
+        "desde": 2000,
+        "hasta": null,
+        "c1": "#000000",
+        "c2": "#e32221",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "rayas-verticales",
+        "desc": "Retorno a la armadura tradicional: alternancia continua entre camisetas negras con franjas verticales rojas, o diseños modernos íntegramente negros con vivos blancos y rojos."
+      }
+    ]
   },
   "historia": [
     {
@@ -88,7 +153,7 @@
       "inauguracion": "1952",
       "url": "https://www.google.com/maps/search/?api=1&query=Richard-Herrmann-Platz%201%2C%2060386%20Frankfurt%20am%20Main%2C%20Alemania",
       "direccion": "Richard-Herrmann-Platz 1, 60386 Frankfurt am Main, Alemania",
-      "descripcion": "Instalación base ubicada en los vecindarios que dio lugar a las campañas del Eintracht previo a la concentración en el monumental Waldstadion ampliado.",
+      "descripcion": "Instalación base ubicada en los vecindarios que dio lugar a las campañas del Eintracht previo a la concentración en el Waldstadion ampliado.",
       "lat": 50.1283,
       "lng": 8.7303
     }

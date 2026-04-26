@@ -14,7 +14,7 @@
     "nombre_oficial": "Borussia Dortmund",
     "nombre_corto": "Borussia Dortmund",
     "apodo": "Die Schwarzgelben (Los Negriamarillos)",
-    "fundacion": "1909",
+    "fundacion": "19 de diciembre de 1909",
     "estadio_actual": "Signal Iduna Park",
     "presidente": "",
     "entrenador": "",
@@ -44,7 +44,82 @@
       "maximo_goleador": "Alfred Preissler (177)",
       "mas_presencias": "Michael Zorc (572)",
       "mayor_goleada": "11-1 vs Bielefeld (1982)"
-    }
+    },
+    "historia": "El 19 de diciembre de 1909, en una de las mesas de la cervecería Zum Wildschütz, en la plaza Borsigplatz de Dortmund, un grupo de dieciocho jóvenes obreros católicos tomó una decisión trascendental. Agotados por las estrictas reglas y la rotunda oposición al fútbol por parte del capellán Hubert Dewald en la Parroquia de la Trinidad, fundaron el Ballspielverein Borussia 09, tomando el nombre de una cervecería local. A lo largo del siglo, el club forjó una profunda conexión con la clase trabajadora de la cuenca del Ruhr, trazando su leyenda a través de cuatro grandes hitos: la conquista de sus primeros campeonatos alemanes en 1956 y 1957; el histórico triunfo en la Recopa de Europa de 1966, convirtiéndose en el primer club germano en ganar un trofeo continental; la gloriosa consagración en la Liga de Campeones de 1997 tras vencer a la Juventus bajo la batuta de Ottmar Hitzfeld; y su vibrante resurgimiento con el bicampeonato de Bundesliga (2011-2012), donde el estilo ofensivo impulsado por Jürgen Klopp redefinió el fútbol moderno alemán.",
+    "idolos": [
+      {
+        "nombre": "Michael Zorc",
+        "partidos": "572",
+        "goles": "159",
+        "descripcion": "Jugador con más presencias en la historia del club. Desempeñó el rol de mediocampista y posteriormente director deportivo."
+      },
+      {
+        "nombre": "Mats Hummels",
+        "partidos": "508",
+        "goles": "38",
+        "descripcion": "Defensor central clave en los campeonatos de Bundesliga bajo la conducción técnica de Jürgen Klopp."
+      },
+      {
+        "nombre": "Marco Reus",
+        "partidos": "429",
+        "goles": "170",
+        "descripcion": "Capitán histórico y referente ofensivo del club durante más de una década, a pesar de las recurrentes lesiones."
+      },
+      {
+        "nombre": "Alfred Preissler",
+        "partidos": "274",
+        "goles": "177",
+        "descripcion": "Máximo goleador del club previo a la era de la Bundesliga moderna, ganador de los primeros campeonatos en 1956 y 1957."
+      },
+      {
+        "nombre": "Manfred Burgsmüller",
+        "partidos": "258",
+        "goles": "158",
+        "descripcion": "Segundo máximo goleador histórico en competiciones oficiales."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1909,
+        "hasta": 1912,
+        "c1": "#0000ff",
+        "c2": "#ffffff",
+        "sh": "#000000",
+        "me": "#000000",
+        "tipo": "banda-diagonal",
+        "desc": "El uniforme fundacional consistía en una camiseta a rayas verticales azules y blancas, cruzada asimétricamente por una banda diagonal roja, con pantalones negros."
+      },
+      {
+        "desde": 1913,
+        "hasta": 1970,
+        "c1": "#fde100",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#fde100",
+        "tipo": "liso",
+        "desc": "Tras la fusión con otros clubes locales, el club adoptó definitivamente los colores de la ciudad de Dortmund: camiseta amarilla lisa y pantalones negros, forjando su identidad visual histórica."
+      },
+      {
+        "desde": 1971,
+        "hasta": 1996,
+        "c1": "#fde100",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#fde100",
+        "tipo": "liso",
+        "desc": "Mantenimiento del clásico amarillo liso, añadiendo progresivamente publicidades en el pecho y detalles sutiles en negro en los cuellos y puños."
+      },
+      {
+        "desde": 1997,
+        "hasta": null,
+        "c1": "#fde100",
+        "c2": "#000000",
+        "sh": "#000000",
+        "me": "#fde100",
+        "tipo": "rayas-verticales",
+        "desc": "A partir de la obtención de la Champions en 1997 (donde usaron vivos flúor), el club comenzó a alternar camisetas amarillo liso con agresivas rayas verticales y patrones geométricos negros."
+      }
+    ]
   },
   "historia": [
     {
@@ -60,7 +135,7 @@
     {
       "ano": "1997",
       "hito": "Tabulación Liguera Moderna",
-      "desc": "Imponente bicampeonato de Bundesliga consolidando un fútbol muy intenso y dinámico de la mano de Klopp."
+      "desc": " bicampeonato de Bundesliga consolidando un fútbol muy intenso y dinámico de la mano de Klopp."
     },
     {
       "ano": "2005",

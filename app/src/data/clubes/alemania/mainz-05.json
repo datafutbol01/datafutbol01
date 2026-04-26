@@ -8,7 +8,7 @@
     "nombre_oficial": "1. FSV Mainz 05",
     "nombre_corto": "Mainz 05",
     "apodo": "Die Nullfünfer (Los del 05) / Karnevalsverein",
-    "fundacion": "1905",
+    "fundacion": "16 de marzo de 1905",
     "estadio_actual": "Mewa Arena",
     "presidente": "",
     "entrenador": "",
@@ -38,7 +38,62 @@
       "maximo_goleador": "Michael Thurk (65)",
       "mas_presencias": "Nikolče Noveski (348)",
       "mayor_goleada": "5-0 vs SC Paderborn"
-    }
+    },
+    "historia": "El 16 de marzo de 1905, motivados por los partidos informales que se disputaban en los prados del río Rin, un grupo de jóvenes pioneros se reunió en el Café Neuf de Maguncia para fundar el 1. Mainzer Fussballclub Hassia 1905. Tras superar guerras y reestructuraciones, el club forjó una identidad carnavalesca y apasionada. Su recorrido histórico se apoya en cuatro grandes hitos: la estabilización y supervivencia en la Oberliga Südwest en la etapa de posguerra; décadas de estoica lucha en la segunda división; el histórico primer ascenso a la Bundesliga en 2004 con Jürgen Klopp como director técnico, gestando un hito en la ciudad; y el salto competitivo a nivel europeo bajo la conducción de Thomas Tuchel en 2011, instalándose como un club habitual de la máxima categoría.",
+    "idolos": [
+      {
+        "nombre": "Nikolce Noveski",
+        "partidos": "348",
+        "goles": "12",
+        "descripcion": "Defensor macedonio y jugador con mayor cantidad de partidos disputados con el club en la Bundesliga."
+      },
+      {
+        "nombre": "Dimo Wache",
+        "partidos": "406",
+        "goles": "0",
+        "descripcion": "Arquero titular y capitán que defendió el arco durante el primer ascenso a primera división."
+      },
+      {
+        "nombre": "Jürgen Klopp",
+        "partidos": "340",
+        "goles": "56",
+        "descripcion": "Histórico jugador que posteriormente se convirtió en el entrenador que logró el ascenso a la Bundesliga."
+      },
+      {
+        "nombre": "Yunus Malli",
+        "partidos": "146",
+        "goles": "32",
+        "descripcion": "Mediocampista ofensivo clave en la clasificación del equipo a competiciones europeas en la década de 2010."
+      },
+      {
+        "nombre": "Karim Onisiwo",
+        "partidos": "200",
+        "goles": "30",
+        "descripcion": "Delantero con larga trayectoria en el club en la historia reciente de primera división."
+      }
+    ],
+    "equipacion": [
+      {
+        "desde": 1905,
+        "hasta": 2003,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#dc052d",
+        "tipo": "liso",
+        "desc": "Durante sus décadas en el duro ascenso alemán, el Mainz mantuvo una línea de camisetas lisas de un rojo vibrante y apagado alternadamente, con escasos diseños disruptivos."
+      },
+      {
+        "desde": 2004,
+        "hasta": null,
+        "c1": "#dc052d",
+        "c2": "#ffffff",
+        "sh": "#ffffff",
+        "me": "#dc052d",
+        "tipo": "rayas",
+        "desc": "Desde su llegada a la élite con Klopp, modernizaron su vestuario. Suelen usar fondo rojo brillante con patrones modernos, ya sean pequeños rombos blancos o franjas irregulares cruzando el pecho."
+      }
+    ]
   },
   "historia": [
     {
