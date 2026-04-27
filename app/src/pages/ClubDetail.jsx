@@ -57,7 +57,12 @@ export default function ClubDetail() {
     return <div className="p-8 text-center text-red-500">Club no encontrado</div>;
   }
 
-  const { datos, historia, canchas, temporadas, equipacion, idolos, goleadores_historicos, presencias_historicas, titulos } = club;
+  const { datos, historia, canchas, temporadas, equipacion, titulos } = club;
+  
+  // Soporte retrocompatible y para el nuevo esquema matriz_humana
+  const idolos = club.idolos || club.matriz_humana?.idolos;
+  const goleadores_historicos = club.goleadores_historicos || club.matriz_humana?.goleadores_historicos;
+  const presencias_historicas = club.presencias_historicas || club.matriz_humana?.presencias_historicas;
 
   // Visual Theme Setup from equipacion
   const currentColors = equipacion?.[equipacion.length - 1] || { c1: '#334155', c2: '#0f172a' };

@@ -5,6 +5,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import ShareButton from '../components/ShareButton';
 import Breadcrumbs from '../components/Breadcrumbs';
+import LeagueTabs from '../components/LeagueTabs';
+import { useAppStore } from '../store/useAppStore';
 
 export default function League() {
   const { leagueId } = useParams();
@@ -19,7 +21,15 @@ export default function League() {
   const searchParams = new URLSearchParams(location.search);
   const h2hParam = searchParams.get('h2h');
 
-  const [activeTab, setActiveTab] = useState(location.state?.tab || (h2hParam ? 'enfrentamientos' : 'clubes'));
+  const storeActiveTab = useAppStore(state => state.activeLeagueTab);
+  const setStoreActiveTab = useAppStore(state => state.setActiveLeagueTab);
+  
+  const [activeTabLocal, setActiveTabLocal] = useState(location.state?.tab || (h2hParam ? 'enfrentamientos' : storeActiveTab));
+  const activeTab = activeTabLocal;
+  const setActiveTab = (tab) => {
+      setActiveTabLocal(tab);
+      setStoreActiveTab(tab);
+  };
   const getDefaultTab = (id) => {
     switch(id) {
       case 'inglaterra': return 'premier';
@@ -606,62 +616,7 @@ export default function League() {
         Explora todos los equipos de la élite o repasa el extenso historial de campeonatos.
       </p>
 
-      {/* Tabs System for League Hub */}
-      <div 
-        className="glass-panel animate-fade-in" 
-        style={{ 
-          display: 'flex', 
-          margin: '0 auto 3rem',
-          maxWidth: '800px',
-          borderRadius: '16px', 
-          padding: '0.5rem'
-        }}
-      >
-        <button
-          onClick={() => setActiveTab('actualidad')}
-          style={{
-            background: activeTab === 'actualidad' ? 'rgba(255,255,255,0.1)' : 'transparent',
-            color: activeTab === 'actualidad' ? 'var(--text-main)' : 'var(--text-muted)',
-            border: 'none', padding: '1rem', borderRadius: '12px', fontSize: '0.95rem', fontWeight: 'bold', cursor: 'pointer', flex: 1, transition: 'all 0.3s'
-          }}
-        >
-          Temporada Actual
-        </button>
-        {clubs.length > 0 && (
-          <>
-            <button
-              onClick={() => setActiveTab('clubes')}
-              style={{
-                background: activeTab === 'clubes' ? 'rgba(255,255,255,0.1)' : 'transparent',
-                color: activeTab === 'clubes' ? 'var(--text-main)' : 'var(--text-muted)',
-                border: 'none', padding: '1rem', borderRadius: '12px', fontSize: '0.95rem', fontWeight: 'bold', cursor: 'pointer', flex: 1, transition: 'all 0.3s'
-              }}
-            >
-              Equipos Actuales
-            </button>
-            <button
-              onClick={() => setActiveTab('temporadas')}
-              style={{
-                background: activeTab === 'temporadas' ? 'rgba(255,255,255,0.1)' : 'transparent',
-                color: activeTab === 'temporadas' ? 'var(--text-main)' : 'var(--text-muted)',
-                border: 'none', padding: '1rem', borderRadius: '12px', fontSize: '0.95rem', fontWeight: 'bold', cursor: 'pointer', flex: 1, transition: 'all 0.3s'
-              }}
-            >
-              Campeonatos
-            </button>
-            <button
-              onClick={() => setActiveTab('enfrentamientos')}
-              style={{
-                background: activeTab === 'enfrentamientos' ? 'rgba(255,255,255,0.1)' : 'transparent',
-                color: activeTab === 'enfrentamientos' ? 'var(--text-main)' : 'var(--text-muted)',
-                border: 'none', padding: '1rem', borderRadius: '12px', fontSize: '0.95rem', fontWeight: 'bold', cursor: 'pointer', flex: 1, transition: 'all 0.3s'
-              }}
-            >
-              Historial
-            </button>
-          </>
-        )}
-      </div>
+      <LeagueTabs activeTab={activeTab} setActiveTab={setActiveTab} clubsLength={clubs.length} />
 
       <AnimatePresence mode="wait">
         {activeTab === 'actualidad' && (

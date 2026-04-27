@@ -7,6 +7,11 @@ export default defineConfig({
   build: {
     target: 'esnext'
   },
+  test: {
+    globals: true,
+    environment: 'jsdom',
+    setupFiles: './src/setupTests.js',
+  },
   server: {
     port: 5174,
   },
