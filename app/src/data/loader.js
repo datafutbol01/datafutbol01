@@ -16,7 +16,7 @@ import CryptoJS from 'crypto-js';
 
 const SECRET_KEY = "D4t4Fub0l_N1nj4_P4ss_2026";
 
-const readData = (rawData) => {
+export const readData = (rawData) => {
   if (!rawData) return null;
   const data = rawData.default || rawData;
   if (data && data.payload) {
