@@ -604,6 +604,35 @@ export default function League() {
     }
   };
 
+  const getZoneStyle = (desc, rank) => {
+    if (!desc) return { color: 'transparent', title: '' };
+    const d = desc.toLowerCase();
+    
+    // Campeón / Primer lugar
+    if (rank === 1) return { color: '#fbbf24', title: 'Campeón / Líder' }; // Gold
+    
+    // Europa
+    if (d.includes('champions league')) return { color: '#3b82f6', title: desc }; // Blue
+    if (d.includes('europa league')) return { color: '#f97316', title: desc }; // Orange
+    if (d.includes('conference league')) return { color: '#22c55e', title: desc }; // Green
+    
+    // Sudamérica
+    if (d.includes('libertadores')) return { color: '#3b82f6', title: desc }; // Blue
+    if (d.includes('sudamericana')) return { color: '#10b981', title: desc }; // Emerald
+    
+    // Liguillas / Playoffs / Ascensos
+    if (d.includes('play-off') || d.includes('playoff') || d.includes('promotion') || d.includes('ascenso') || d.includes('liguilla') || d.includes('next round')) {
+        return { color: '#a855f7', title: desc }; // Purple
+    }
+    
+    // Descensos
+    if (d.includes('relegation') || d.includes('descenso')) {
+        return { color: '#ef4444', title: desc }; // Red
+    }
+    
+    return { color: 'transparent', title: '' };
+  };
+
   return (
     <div style={{ padding: '2rem', minHeight: '100vh', maxWidth: '1400px', margin: '0 auto', position: 'relative' }}>
       
@@ -973,10 +1002,12 @@ export default function League() {
                                              </tr>
                                          )) : (String(group[0].group).toLowerCase().includes('promedio') || String(group[0].group).toLowerCase().includes('relegation')) && loadingPromedios ? (
                                              <tr><td colSpan="7" style={{ padding: '2rem', color: 'var(--text-muted)' }}>Calculando promedios reales...</td></tr>
-                                         ) : group.map((t) => (
-                                             <tr key={t.team.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent' }}>
+                                         ) : group.map((t) => {
+                                             const zone = getZoneStyle(t.description, t.rank);
+                                             return (
+                                             <tr key={t.team.id} title={zone.title} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)', background: t.rank % 2 === 0 ? 'rgba(255,255,255,0.01)' : 'transparent', borderLeft: `4px solid ${zone.color}` }}>
                                                 <td style={{ textAlign: 'left', padding: '0.8rem', display: 'flex', alignItems: 'center', gap: '1rem', fontWeight: t.rank <= 4 ? 'bold' : 'normal', color: t.rank <= 4 ? 'white' : 'var(--text-muted)' }}>
-                                                   <span style={{ color: 'var(--text-muted)', width: '20px' }}>{t.rank}</span> 
+                                                   <span style={{ color: zone.color !== 'transparent' ? zone.color : 'var(--text-muted)', width: '20px', fontWeight: 'bold' }}>{t.rank}</span> 
                                                    <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
                                                    <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
                                                 </td>
@@ -986,7 +1017,8 @@ export default function League() {
                                                 <td style={{ color: 'var(--text-muted)' }}>{t.all.lose}</td>
                                                 <td style={{ fontWeight: 'bold', color: 'var(--accent-gold)', fontSize: '1.05rem' }}>{t.points}</td>
                                              </tr>
-                                         ))}
+                                             );
+                                         })}
                                       </tbody>
                                    </table>
                                </div>
