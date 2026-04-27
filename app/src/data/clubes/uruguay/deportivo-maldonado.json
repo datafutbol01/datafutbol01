@@ -5,9 +5,8 @@
     "nombre_corto": "Deportivo Maldonado",
     "sigla": "MAL",
     "fundacion": "25 de agosto de 1928",
-    "apodo": "Verdirrojos, Fernandinos",
     "socios": 2000,
-    "descripcion_corta": "Institución pionera del interior uruguayo en integrarse al profesionalismo formal de la capital, reconocida por originar el moderno modelo de Sociedad Anónima Deportiva.",
+    "descripcion_corta": "Institución pionera del interior uruguayo en integrarse al profesionalismo de la capital, reconocida por ser el primer club nacional administrado bajo el modelo de Sociedad Anónima Deportiva.",
     "paleta": [
       {
         "tag": "Verde",
@@ -18,191 +17,181 @@
         "hex": "#FF0000"
       }
     ],
-    "records": {
-      "maximo_goleador": "Maximiliano Cantera (42 goles)",
-      "mas_presencias": "Richard Pérez (145 partidos)",
-      "mayor_goleada": "4-0 vs Rocha (2004)"
+    "escudo_actual": "/escudos/uruguay/deportivo-maldonado/logo.png",
+    "apodos": [
+      "Fernandinos",
+      "Verdirrojos"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Domingo Burgueño Miguel",
+      "direccion": "Avenida Acuña de Figueroa, Maldonado, Uruguay",
+      "google_maps": "https://maps.app.goo.gl/9u7a9Sxgc1HkS9pW8",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio Domingo Burgueño Miguel",
+          "epoca": "1994-actualidad"
+        }
+      ],
+      "fundacion": "1994"
     },
-    "estadios": [
-      {
-        "inauguracion": "1994",
-        "lat": -34.9125,
-        "capacidad": 22000,
-        "nombre": "Estadio Domingo Burgueño Miguel",
-        "condicion": "actual",
-        "direccion": "Avenida Acuña de Figueroa, Maldonado, Uruguay",
-        "lng": -54.9575,
-        "apodo": "El Campus"
-      }
-    ],
-    "escudo_actual": "/escudos/uruguay/deportivo-maldonado/logo.png"
+    "viejas": []
   },
   "historia": [
     {
-      "ano": "1928",
-      "hito": "Fundación del Batacazo Football Club",
-      "desc": "El 25 de agosto de 1928, bajo el entusiasmo generado en el país por la consagración de la selección uruguaya en los Juegos Olímpicos de Ámsterdam, un grupo de vecinos y amigos vinculados a las tertulias de bar de la ciudad de Maldonado formalizó la creación de una nueva institución deportiva bajo el nombre original de Batacazo Football Club. La fundación fue impulsada entre otros dirigentes pioneros por Ginés Cairo Medina y Juan Delfino. El club compitió durante sus primeros cuatro años de existencia en los torneos regionales, utilizando desde sus inicios los colores rojo y verde que se convirtieron de forma inalterable en su identidad oficial."
+      "hito": "1928: Fundación original como Batacazo Football Club",
+      "desc": "El 25 de agosto de 1928, bajo el entusiasmo por la consagración olímpica de la selección uruguaya en Ámsterdam, un grupo de vecinos de Maldonado liderado por Ginés Cairo Medina y Juan Delfino fundó una nueva institución deportiva en una tertulia de bar. El nombre original registrado en actas fue Batacazo Football Club, adoptando inalterablemente los colores verde y rojo desde sus primeras competiciones."
     },
     {
-      "ano": "1932",
-      "hito": "Cambio de Nombre a Deportivo Maldonado",
-      "desc": "El 27 de junio de 1932, los socios directivos convocaron a una asamblea formal con el objetivo de dotar a la institución de una identidad más seria y representativa del departamento. En esa reunión, los afiliados votaron el cambio de nombre y el equipo pasó a registrarse legalmente como Club Deportivo Maldonado. A partir de esa modificación, el club afianzó su participación permanente en la Liga Departamental de Fútbol, destacándose dentro del circuito del fútbol amateur del este del país."
+      "hito": "1932: Cambio definitivo de denominación",
+      "desc": "El 27 de junio de 1932, los socios directivos convocaron a una asamblea formal con el objetivo de dotar a la institución de una identidad más representativa del departamento. En esa reunión votaron el cambio de nombre a Club Deportivo Maldonado. A partir de esta modificación, el club afianzó su participación permanente en la Liga Departamental de Fútbol, destacándose en el circuito amateur del este."
     },
     {
-      "ano": "1995",
-      "hito": "Afiliación Histórica a la AUF",
-      "desc": "Tras competir durante décadas en los torneos de la Organización del Fútbol del Interior (OFI), la dirigencia aprobó la desafiliación de dicha entidad para solicitar la inscripción directa en la Asociación Uruguaya de Fútbol. Al ser aceptada su solicitud en 1995 para jugar en la Segunda División Profesional, el Deportivo Maldonado se convirtió institucionalmente en el primer club del interior del país en competir dentro del esquema del fútbol profesional rentado organizado en Montevideo."
+      "hito": "1995: Afiliación histórica a la AUF",
+      "desc": "Tras competir durante décadas en la Organización del Fútbol del Interior (OFI), la dirigencia desafilió al equipo para solicitar su ingreso a la Asociación Uruguaya de Fútbol en Montevideo. Al ser aceptados en la Segunda División Profesional, Deportivo Maldonado se convirtió en el primer club del interior de la República en competir formalmente dentro del esquema del fútbol rentado de la capital."
     },
     {
-      "ano": "2009",
-      "hito": "La Primera Sociedad Anónima Deportiva",
-      "desc": "A fines del año 2009, con el propósito de resolver problemas financieros y atraer inversión para el plantel profesional, los directivos aprobaron la creación de Deportivo Maldonado S.A.D., una figura jurídica privada e independiente de la asociación civil originaria. En enero de 2010 se firmó el acuerdo mediante el cual la asociación civil transfirió a la nueva empresa la administración total del fútbol profesional y formativo, documentando así la primera aplicación operativa del sistema SAD en el fútbol uruguayo."
+      "hito": "2009: Conformación de la primera SAD de Uruguay",
+      "desc": "A fines de 2009, para resolver el estancamiento financiero y atraer inversión, los directivos aprobaron la creación de Deportivo Maldonado S.A.D. En enero de 2010 se firmó el acuerdo transfiriendo la administración total del fútbol a la empresa, documentando así la primera aplicación legal y operativa de una Sociedad Anónima Deportiva en la historia del fútbol profesional uruguayo."
     },
     {
-      "ano": "2022",
-      "hito": "Clasificación a la Copa Libertadores",
-      "desc": "Con Francisco Palladino como director técnico del primer equipo, el club finalizó la temporada 2022 obteniendo el tercer puesto en la Tabla Anual acumulada del Campeonato Uruguayo de Primera División. Esta suma de puntos y ubicación definitiva le permitió obtener la primera clasificación internacional en la historia de la institución, asegurando la disputa de la Fase 2 de la Copa Libertadores 2023, instancia en la que el plantel se enfrentó de forma oficial al club Fortaleza de Brasil."
+      "hito": "2022: Histórica clasificación a la Copa Libertadores",
+      "desc": "Bajo la dirección técnica de Francisco Palladino, el club completó una espectacular campaña en 2022 obteniendo el tercer puesto en la Tabla Anual acumulada de Primera División. Esta histórica sumatoria le otorgó al club la primera clasificación a torneos de la Conmebol, asegurando la disputa de la Fase 2 de la Copa Libertadores 2023, donde se enfrentaron oficialmente al club Fortaleza de Brasil."
     }
   ],
-  "palmares": {},
-  "titulos": [
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Maximiliano Cantera",
+        "pos": "Enganche",
+        "apodo": "Maxi",
+        "epoca": "2020-2023",
+        "desc": "El cerebro táctico y la brújula de la histórica clasificación a Libertadores. Su visión de juego y pases de tiralíneas elevaron al equipo fernandino a cimas deportivas jamás antes exploradas."
+      },
+      {
+        "nombre": "Danilo Lerda",
+        "pos": "Arquero",
+        "apodo": "Danilo",
+        "epoca": "2018-2021",
+        "desc": "El candado impenetrable de la portería verdirroja. Protagonizó tapadas épicas que resguardaron el ansiado ascenso y cimentaron la estructura en el retorno a la máxima categoría."
+      },
+      {
+        "nombre": "Facundo Tealde",
+        "pos": "Defensor Central",
+        "apodo": "Facu",
+        "epoca": "2018-2023",
+        "desc": "Guerrero de la zaga defensiva. Su entrega desmedida, sumada a una capitanía ejemplar, lo inmortalizaron como el referente del esfuerzo sostenido a lo largo del tiempo."
+      },
+      {
+        "nombre": "Eduardo Darias",
+        "pos": "Mediocampista",
+        "apodo": "Edu",
+        "epoca": "2019-2023",
+        "desc": "El pulmón del equipo. Desplegó un recorrido incansable en la medular, siendo fundamental para destruir el juego rival y edificar los feroces contragolpes de su era."
+      },
+      {
+        "nombre": "Francisco Palladino",
+        "pos": "Entrenador",
+        "apodo": "Paco",
+        "epoca": "2019-2022",
+        "desc": "El estratega soñador. No solo guio a la escuadra a Primera División, sino que rompió paradigmas logrando el histórico tercer puesto y pasaporte continental."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Maximiliano Cantera",
+        "apodo": "Maxi",
+        "goles": 28,
+        "epoca": "2020-2023",
+        "desc": "A su exquisita visión sumó una altísima y sorprendente tasa de anotación, convirtiéndose en el amo de las redes del equipo de la SAD."
+      },
+      {
+        "nombre": "Enzo Borges",
+        "apodo": "Enzo",
+        "goles": 20,
+        "epoca": "2021-2022",
+        "desc": "Artillero letal que aterrizó en el equipo para afianzar el poder de fuego ofensivo, despachando goles determinantes de cabeza y remate directo."
+      },
+      {
+        "nombre": "Eduardo Darias",
+        "apodo": "Edu",
+        "goles": 18,
+        "epoca": "2019-2023",
+        "desc": "Su descomunal despliegue físico lo llevaba siempre a pisar el área rival por sorpresa, concretando anotaciones definitivas en minutos de alto voltaje."
+      },
+      {
+        "nombre": "Hernán Toledo",
+        "apodo": "Hernán",
+        "goles": 15,
+        "epoca": "2020-2023",
+        "desc": "Extremo argentino de indescifrable gambeta, que coronó sus espectaculares cabalgatas por banda con precisas definiciones al ángulo."
+      },
+      {
+        "nombre": "Federico Anselmo",
+        "apodo": "Fede",
+        "goles": 14,
+        "epoca": "2021-2022",
+        "desc": "Nueve clásico y definidor implacable, sumó festejos vitales en partidos cerrados asegurando la ansiada cosecha de puntos intercontinentales."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Facundo Tealde",
+        "apodo": "Facu",
+        "partidos": 130,
+        "epoca": "2018-2023",
+        "desc": "La máxima autoridad presencial. Sumó cientos de batallas ininterrumpidas comandando la línea defensiva con absoluto heroísmo y dedicación."
+      },
+      {
+        "nombre": "Maximiliano Cantera",
+        "apodo": "Maxi",
+        "partidos": 115,
+        "epoca": "2020-2023",
+        "desc": "Consolidó su jerarquía indiscutible con una abultada cifra de titularidades como el armador oficial de la alineación titular."
+      },
+      {
+        "nombre": "Eduardo Darias",
+        "apodo": "Edu",
+        "partidos": 100,
+        "epoca": "2019-2023",
+        "desc": "Alcanzó el merecido centenar de apariciones defendiendo la camiseta verdirroja gracias a su imponente resistencia y constancia táctica."
+      },
+      {
+        "nombre": "Danilo Lerda",
+        "apodo": "Danilo",
+        "partidos": 95,
+        "epoca": "2018-2021",
+        "desc": "Fiel custodio del arco, se mantuvo estoico durante extensas temporadas donde el club experimentó su metamorfosis más grande."
+      },
+      {
+        "nombre": "Gastón Pagano",
+        "apodo": "Gastón",
+        "partidos": 90,
+        "epoca": "2018-2022",
+        "desc": "Zaguero expeditivo, compañero inseparable de Tealde, que conformó la dupla defensiva más temida de las recientes temporadas charrúas."
+      }
+    ]
+  },
+  "equipacion": [
     {
-      "nombre": "Liga Ernestina",
-      "cantidad": 5,
-      "años": [
-        "Amateur"
-      ]
-    },
+      "desde": 1928,
+      "hasta": null,
+      "c1": "#FF0000",
+      "c2": "#008000",
+      "sh": "#000000",
+      "me": "#008000",
+      "tipo": "mitad-vertical",
+      "desc": "Camiseta conformada históricamente por dos mitades verticales asimétricas de color rojo y verde. Pantalones y medias pueden alternar según la combinación, predominando el oscuro o blanco."
+    }
+  ],
+  "titulos": [
     {
       "nombre": "Segunda División Amateur",
       "cantidad": 1,
       "años": [
         "2019"
       ]
-    }
-  ],
-  "equipacion": [
-    {
-      "desde": 1928,
-      "hasta": null,
-      "c1": "#006600",
-      "c2": "#DA291C",
-      "sh": "#000000",
-      "me": "#006600",
-      "tipo": "mitad-vertical",
-      "desc": "Los orientales o rojiverdes vistieron perpetuamente mediante el escudo un patrón combinado de mitades verticales rojiverdes."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Maximiliano Cantera",
-      "pos": "Enganche",
-      "apodo": "Maxi",
-      "periodo": "2019-2023",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 2019-2023, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Facundo Tealde",
-      "pos": "Defensor Central",
-      "apodo": "Facu",
-      "periodo": "2018-2023",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 2018-2023, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Danilo Lerda",
-      "pos": "Arquero",
-      "apodo": "Dani",
-      "periodo": "2017-2022",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero durante el período 2017-2022, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Eduardo Darias",
-      "pos": "Mediocampista",
-      "apodo": "Edu",
-      "periodo": "2019-2023",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2019-2023, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Enzo Borges",
-      "pos": "Delantero",
-      "apodo": "Enzo",
-      "periodo": "2021-2023",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2021-2023, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Maximiliano Cantera",
-      "goles": 28,
-      "partidos": 115,
-      "periodo": "2019-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
-    },
-    {
-      "nombre": "Enzo Borges",
-      "goles": 20,
-      "partidos": 50,
-      "periodo": "2021-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2023."
-    },
-    {
-      "nombre": "Eduardo Darias",
-      "goles": 18,
-      "partidos": 100,
-      "periodo": "2019-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
-    },
-    {
-      "nombre": "Hernán Toledo",
-      "goles": 15,
-      "partidos": 45,
-      "periodo": "2022-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2022-2023."
-    },
-    {
-      "nombre": "Federico Anselmo",
-      "goles": 14,
-      "partidos": 35,
-      "periodo": "2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 14 goles en competiciones oficiales durante su trayectoria en el equipo entre 2022."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Facundo Tealde",
-      "partidos": 130,
-      "periodo": "2018-2023",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 130 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2023."
-    },
-    {
-      "nombre": "Maximiliano Cantera",
-      "partidos": 115,
-      "periodo": "2019-2023",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 115 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2023."
-    },
-    {
-      "nombre": "Eduardo Darias",
-      "partidos": 100,
-      "periodo": "2019-2023",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2023."
-    },
-    {
-      "nombre": "Danilo Lerda",
-      "partidos": 95,
-      "periodo": "2017-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 95 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2022."
-    },
-    {
-      "nombre": "Gastón Pagano",
-      "partidos": 90,
-      "periodo": "2019-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 90 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2022."
-    }
-  ],
-  "origen_apodos": [
-    {
-      "apodo": "Fernandinos",
-      "origen": "Gentilicio puramente burocrático y geográfico proveniente de la histórica nomenclatura colonial empleada al determinar la ciudad natal origen bajo la orden oficial de la Corona, estatuida territorialmente como San Fernando de Maldonado. Al conformar el plantel principal con representación absoluta y departamental la prensa de asunción asoció sus gestas como los representantes excluyentes y portadores del estandarte estricto de toda la jurisdicción oriental esteña."
     }
   ],
   "evolucion_escudos": [],
@@ -220,5 +209,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:55.312Z"
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
+  "origen_apodos": [
+    {
+      "apodo": "Fernandinos",
+      "origen": "Gentilicio geográfico y demográfico formal que agrupa a los residentes de la ciudad y el departamento de Maldonado, territorio fundado históricamente bajo la nomenclatura colonial de San Fernando de Maldonado."
+    },
+    {
+      "apodo": "Verdirrojos",
+      "origen": "Definición cromática estricta nacida de los dos colores inalterables que componen la vestimenta principal y el escudo del club desde su originaria fundación como Batacazo Football Club."
+    }
+  ]
 }

@@ -5,9 +5,8 @@
     "nombre_corto": "Peñarol",
     "sigla": "PEÑ",
     "fundacion": "28 de setiembre de 1891",
-    "apodo": "Carboneros, Aurinegros, Manya",
     "socios": 100000,
-    "descripcion_corta": "Institución deportiva central conformada originariamente en la industria ferroviaria, consagrada históricamente con múltiples títulos mundiales y continentales.",
+    "descripcion_corta": "Institución deportiva central conformada originariamente en la industria ferroviaria, consagrada estadísticamente con múltiples títulos mundiales y continentales a lo largo del siglo XX.",
     "paleta": [
       {
         "tag": "Amarillo",
@@ -18,63 +17,183 @@
         "hex": "#000000"
       }
     ],
-    "records": {
-      "maximo_goleador": "Fernando Morena (440 goles)",
-      "mas_presencias": "Néstor Gonçalves (574 partidos)",
-      "mayor_goleada": "11-2 vs Central Español (1908)"
+    "escudo_actual": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+    "apodos": [
+      "Manyas",
+      "Carboneros",
+      "Mirasoles",
+      "Aurinegros"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Campeón del Siglo",
+      "direccion": "Camino Mangangá s/n y Ruta 102, Montevideo, Uruguay",
+      "google_maps": "https://maps.app.goo.gl/wJ1oQd5mK2rFjXZM6",
+      "historia_nombres": [
+        {
+          "nombre": "Campeón del Siglo",
+          "epoca": "2016-actualidad"
+        }
+      ],
+      "fundacion": "2016"
     },
-    "estadios": [
+    "viejas": [
       {
-        "inauguracion": "19 de abril de 1916",
-        "lat": -34.8252,
-        "capacidad": 12000,
-        "nombre": "Estadio Las Acacias",
-        "condicion": "historico",
+        "nombre": "Estadio Las Acacias (Cr. José Pedro Damiani)",
         "direccion": "Possolo 4097, Montevideo, Uruguay",
-        "lng": -56.1432,
-        "apodo": "Las Acacias"
-      },
-      {
-        "inauguracion": "28 de marzo de 2016",
-        "lat": -34.7966,
-        "capacidad": 40700,
-        "nombre": "Campeón del Siglo",
-        "condicion": "actual",
-        "direccion": "Camino Mangangá s/n y Ruta 102, Montevideo, Uruguay",
-        "lng": -56.0664,
-        "apodo": "El CDS"
+        "epoca": "1916-actualidad (uso formativo)",
+        "google_maps": "https://maps.app.goo.gl/3QWz4dD7c4H2X8J27"
       }
-    ],
-    "escudo_actual": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp"
+    ]
   },
   "historia": [
     {
-      "ano": "1891",
-      "hito": "Los Orígenes en el CURCC",
-      "desc": "El 28 de septiembre de 1891, empleados y operarios de la empresa ferroviaria británica Central Uruguay Railway Company fundaron el Central Uruguay Railway Cricket Club (CURCC) en la localidad rural de Villa Peñarol. La asamblea constitutiva designó al administrador inglés Frank Henderson como primer presidente de la entidad. Los colores de fundación, amarillo y negro, fueron adoptados reglamentariamente en base a la cromática de la locomotora ferroviaria 'Rocket' y a la señalética de las barreras preventivas utilizadas en la red del trazado de túneles británicos instalados en el territorio."
+      "hito": "1891: Fundación como Central Uruguay Railway Cricket Club",
+      "desc": "El 28 de septiembre de 1891, empleados de la empresa ferroviaria británica Central Uruguay Railway Company fundaron el Central Uruguay Railway Cricket Club (CURCC) en las oficinas de la empresa ubicadas en la localidad rural de Peñarol. La asamblea constitutiva designó al administrador inglés Frank Henderson como primer presidente. Adoptaron el amarillo y negro en base a la cromática de la locomotora ferroviaria 'Rocket' y a la señalética de las barreras preventivas."
     },
     {
-      "ano": "1913-1914",
-      "hito": "La Transición a Club Atlético",
-      "desc": "Como consecuencia de diferencias estatutarias y operativas entre la gerencia administrativa de la empresa ferroviaria y la creciente afición por las competencias de fútbol en la capital, el 13 de diciembre de 1913 el departamento deportivo decidió independizarse por completo de la matriz corporativa civil. Impulsada por Jorge Pacheco, la institución pasó a denominarse definitivamente 'Club Atlético Peñarol', absorbiendo íntegramente la masa societaria y deportiva y formalizando su nuevo registro comercial ante la Asociación Uruguaya de Fútbol el 12 de marzo de 1914."
+      "hito": "1913: Independencia y denominación definitiva",
+      "desc": "El 13 de diciembre de 1913, debido a diferencias operativas entre la gerencia de la empresa ferroviaria y la afición por las competencias de fútbol en la capital, el departamento deportivo decidió independizarse de la matriz corporativa. Impulsada por Jorge Pacheco, la institución pasó a denominarse definitivamente 'Club Atlético Peñarol', formalizando su nuevo registro comercial ante la Asociación Uruguaya de Fútbol el 12 de marzo de 1914."
     },
     {
-      "ano": "1966",
-      "hito": "Supremacía Continental e Intercontinental",
-      "desc": "Bajo la dirección estratégica de Roberto Scarone primero, y posteriormente de Roque Gastón Máspoli, el plantel dominó el espectro competitivo regional adjudicándose la Copa Libertadores tras doblegar a River Plate de Argentina en un partido decisivo en Santiago de Chile. Ese mismo año, el conjunto oriental logró su coronación mundial al vencer en partidos de ida y vuelta al Real Madrid de España en el marco de la Copa Intercontinental, sosteniéndose en los registros estadísticos y el rendimiento del ecuatoriano Alberto Spencer, Pedro Virgilio Rocha y Julio César Abbadie."
+      "hito": "1960-1966: Primeras Copas Libertadores e Intercontinentales",
+      "desc": "Bajo la conducción técnica de Roberto Scarone y Roque Gastón Máspoli, el equipo dominó el espectro regional adjudicándose la primera edición de la Copa Libertadores en 1960. En 1961 y 1966 repitió el título continental. En 1961 logró su primera Copa Intercontinental frente al Benfica y en 1966 repitió la consagración mundial al vencer al Real Madrid de España en partidos de ida y vuelta, sustentado en la capacidad ofensiva del ecuatoriano Alberto Spencer."
     },
     {
-      "ano": "1982",
-      "hito": "Tercera Conquista Mundial en Japón",
-      "desc": "El 12 de diciembre de 1982, con la dirección técnica dictada por Hugo Bagnulo, el primer equipo superó a Cobreloa de Chile alcanzando la Copa Libertadores. Posteriormente viajó a disputar de forma unificada la Copa Intercontinental y superó geográficamente al Aston Villa de Inglaterra por 2-0 en el Estadio Olímpico de Japón en representación de Conmebol, fijando el récord sudamericano de ser el primer tricampeón del torneo intercontinental, con anotaciones precisas de los brasileños y uruguayos del plantel como Jair Ribeiro y Walkir Silva."
+      "hito": "1982: Tercera conquista Intercontinental en Japón",
+      "desc": "El 12 de diciembre de 1982, con la dirección técnica de Hugo Bagnulo, el equipo superó al Aston Villa de Inglaterra por 2-0 en el Estadio Olímpico de Tokio. Anteriormente, el club había alcanzado su cuarta Copa Libertadores superando a Cobreloa de Chile. Esta victoria en Japón fijó el récord sudamericano de ser la primera institución en lograr tres títulos mundiales de clubes oficiales."
     },
     {
-      "ano": "1987",
-      "hito": "El Cierre de las Gestas a Finales de Siglo",
-      "desc": "El 31 de octubre de 1987, la institución cimentó su quinta conquista oficial de la Copa Libertadores operando bajo las directivas tácticas de Óscar Washington Tabárez al revertir una fase final adversa ante el América de Cali en el Estadio Nacional de Chile. La final de desempate se concretó con un resultado a favor de 1-0 tras una ejecución de Diego Aguirre a falta de cinco segundos para el término de la prórroga, consolidando un triunfo que marcó la última obtención oficial internacional interoceánica del siglo XX para el equipo."
+      "hito": "1987: Quinta Copa Libertadores en Santiago de Chile",
+      "desc": "El 31 de octubre de 1987, la institución cimentó su quinta conquista oficial de la Copa Libertadores bajo las directivas tácticas de Óscar Washington Tabárez. Revertió una fase final adversa ante el América de Cali forzando un tercer partido de desempate en el Estadio Nacional de Chile, el cual se definió con un resultado a favor de 1-0 tras una ejecución de Diego Aguirre a falta de cinco segundos para el término de la prórroga."
     }
   ],
-  "palmares": {},
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Fernando Morena",
+        "pos": "Delantero Central",
+        "apodo": "Nando",
+        "epoca": "1973-1984",
+        "desc": "Máximo artillero histórico de la institución y prócer del gol sudamericano. Su olfato demoledor en el área sentenció innumerables campeonatos, incluyendo la gesta heroica de la Copa Libertadores y la Intercontinental en 1982."
+      },
+      {
+        "nombre": "Néstor Gonçalves",
+        "pos": "Mediocampista Central",
+        "apodo": "Tito",
+        "epoca": "1957-1970",
+        "desc": "Caudillo innegable y capitán vitalicio del mediocampo aurinegro. Lideró la época más gloriosa del club, alzando un récord insuperable de campeonatos uruguayos y erigiéndose como el futbolista con más coronas internacionales del país."
+      },
+      {
+        "nombre": "Pablo Bengoechea",
+        "pos": "Enganche",
+        "apodo": "El Profesor",
+        "epoca": "1993-2003",
+        "desc": "Cerebro táctico y ejecutor magistral de pelota quieta. Orquestó con guante blanco la histórica racha del Segundo Quinquenio de Oro, convirtiéndose en el faro absoluto de la década del noventa."
+      },
+      {
+        "nombre": "Alberto Spencer",
+        "pos": "Delantero",
+        "apodo": "Cabeza Mágica",
+        "epoca": "1960-1970",
+        "desc": "El legendario delantero ecuatoriano que revolucionó la definición ofensiva en el continente. Su letalidad acrobática y juego aéreo lo inmortalizaron como el goleador histórico supremo de la Copa Libertadores de América."
+      },
+      {
+        "nombre": "Obdulio Varela",
+        "pos": "Mediocampista Central",
+        "apodo": "El Negro Jefe",
+        "epoca": "1943-1955",
+        "desc": "Símbolo del temperamento y la garra charrúa. Antes de capitanear la proeza de Maracaná, consolidó en Peñarol una figura mítica de liderazgo absoluto, marcando a fuego el adn inquebrantable de la escuadra mirasol."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Fernando Morena",
+        "apodo": "Nando",
+        "goles": 440,
+        "epoca": "1973-1984",
+        "desc": "Delantero uruguayo. Ostenta el récord absoluto de goleo en la historia del profesionalismo charrúa, logrando una efectividad demoledora en clásicos y finales."
+      },
+      {
+        "nombre": "Alberto Spencer",
+        "apodo": "Cabeza Mágica",
+        "goles": 326,
+        "epoca": "1960-1970",
+        "desc": "Legendario artillero ecuatoriano, fundamental en el primer ciclo dorado del club a nivel transoceánico."
+      },
+      {
+        "nombre": "Óscar Míguez",
+        "apodo": "Cotorra",
+        "goles": 231,
+        "epoca": "1948-1959",
+        "desc": "Delantero acrobático y letal de la década de 1950, figura clave en la histórica Máquina del 49."
+      },
+      {
+        "nombre": "Pedro Young",
+        "apodo": "Tigre",
+        "goles": 144,
+        "epoca": "1932-1937",
+        "desc": "Artillero implacable de los primeros años de la era profesional, marcando un hito en los clásicos de la década del 30."
+      },
+      {
+        "nombre": "Pablo Bengoechea",
+        "apodo": "El Profesor",
+        "goles": 130,
+        "epoca": "1993-2003",
+        "desc": "Mediocampista ofensivo de excelsa técnica, responsable de una inmensa suma de goles de tiro libre y penal."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Néstor Gonçalves",
+        "apodo": "Tito",
+        "partidos": 574,
+        "epoca": "1957-1970",
+        "desc": "El hombre récord de la institución, vistiendo únicamente y de forma ininterrumpida la camiseta aurinegra durante toda su carrera."
+      },
+      {
+        "nombre": "Pablo Bengoechea",
+        "apodo": "El Profesor",
+        "partidos": 545,
+        "epoca": "1993-2003",
+        "desc": "Capitán y emblema del Segundo Quinquenio, manteniendo una regularidad abrumadora durante más de una década."
+      },
+      {
+        "nombre": "Fernando Morena",
+        "apodo": "Nando",
+        "partidos": 500,
+        "epoca": "1973-1984",
+        "desc": "Estadística imponente de presencias para un delantero centro, participando en la inmensa mayoría de encuentros oficiales de su era."
+      },
+      {
+        "nombre": "Julio César Abbadie",
+        "apodo": "El Pardo",
+        "partidos": 450,
+        "epoca": "1950-1969",
+        "desc": "Puntero derecho de regate elegante que sumó múltiples ciclos en el club, siendo vital en el ataque de las décadas del cincuenta y sesenta."
+      },
+      {
+        "nombre": "José Enrique Peña",
+        "apodo": "El Pelado",
+        "partidos": 410,
+        "epoca": "1984-1992",
+        "desc": "Volante y lateral aguerrido, estandarte del esfuerzo y la perseverancia durante las competiciones internacionales de finales de siglo."
+      }
+    ]
+  },
+  "equipacion": [
+    {
+      "desde": 1891,
+      "hasta": null,
+      "c1": "#FFD700",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Histórica camisa a bastones verticales amarillos y negros como representación eterna de la red ferroviaria británica."
+    }
+  ],
   "titulos": [
     {
       "nombre": "Campeonato Uruguayo",
@@ -153,148 +272,6 @@
         "1982",
         "1987"
       ]
-    }
-  ],
-  "equipacion": [
-    {
-      "desde": 1891,
-      "hasta": 1910,
-      "c1": "#FFCC00",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "mitad-vertical",
-      "desc": "Indumentaria pionera dividida en mitades y cuartos (arado ferroviario) conservando el amarillo y negro de la locomotora Rocket británica."
-    },
-    {
-      "desde": 1910,
-      "hasta": null,
-      "c1": "#FFCC00",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "rayas-verticales",
-      "desc": "Consolidación definitiva de la indumentaria a bastones verticales (rayas verticales) alternando oro y carbón, formato icónico mantenido inalterable al día de hoy."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Fernando Morena",
-      "pos": "Delantero",
-      "apodo": "Nando / Potrillo",
-      "periodo": "1973-1984",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1973-1984, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Pablo Bengoechea",
-      "pos": "Mediocampista Ofensivo",
-      "apodo": "El Profesor",
-      "periodo": "1993-2003",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista ofensivo durante el período 1993-2003, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Néstor Gonçalves",
-      "pos": "Mediocampista Central",
-      "apodo": "Tito",
-      "periodo": "1957-1970",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 1957-1970, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Alberto Spencer",
-      "pos": "Delantero",
-      "apodo": "Cabeza Mágica",
-      "periodo": "1960-1970",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1960-1970, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Antonio Pacheco",
-      "pos": "Enganche",
-      "apodo": "Tony",
-      "periodo": "1993-2015",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 1993-2015, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Fernando Morena",
-      "goles": 440,
-      "partidos": 457,
-      "periodo": "1973-1984",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 440 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1984."
-    },
-    {
-      "nombre": "Alberto Spencer",
-      "goles": 326,
-      "partidos": 510,
-      "periodo": "1960-1970",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 326 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1970."
-    },
-    {
-      "nombre": "Oscar Míguez",
-      "goles": 231,
-      "partidos": 300,
-      "periodo": "1948-1959",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 231 goles en competiciones oficiales durante su trayectoria en el equipo entre 1948-1959."
-    },
-    {
-      "nombre": "Pablo Bengoechea",
-      "goles": 166,
-      "partidos": 545,
-      "periodo": "1993-2003",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 166 goles en competiciones oficiales durante su trayectoria en el equipo entre 1993-2003."
-    },
-    {
-      "nombre": "Antonio Pacheco",
-      "goles": 140,
-      "partidos": 524,
-      "periodo": "1993-2015",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1993-2015."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Néstor Gonçalves",
-      "partidos": 574,
-      "periodo": "1957-1970",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 574 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1957-1970."
-    },
-    {
-      "nombre": "Pablo Bengoechea",
-      "partidos": 545,
-      "periodo": "1993-2003",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 545 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2003."
-    },
-    {
-      "nombre": "Antonio Pacheco",
-      "partidos": 524,
-      "periodo": "1993-2015",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 524 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2015."
-    },
-    {
-      "nombre": "Alberto Spencer",
-      "partidos": 510,
-      "periodo": "1960-1970",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 510 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1970."
-    },
-    {
-      "nombre": "Fernando Morena",
-      "partidos": 457,
-      "periodo": "1973-1984",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 457 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1984."
-    }
-  ],
-  "origen_apodos": [
-    {
-      "apodo": "Manya",
-      "origen": "El apodo tuvo su génesis formal en la década de 1930 a través del exjugador y técnico italiano Carlos Scarone. Tras solicitar a su padre abandonar temporalmente al CURCC para pasar a las filas de Nacional en busca de mejores ingresos económicos, fue reprochado con la dura frase institucional en piamontés 'Mangia merda' ('comes mierda'). La prensa gráfica capitalina se apropió del término, recortándolo fonéticamente a 'Manya' y generalizando su uso oficial sobre toda la parcialidad y el plantel."
-    },
-    {
-      "apodo": "Carboneros",
-      "origen": "El origen se desprende directamente de la base sociológica original del club formal. Fundado jurídicamente en 1891 como 'Central Uruguay Railway Cricket Club' (CURCC), conformó primariamente su nómina institucional y masa societaria con los obreros y operarios pertenecientes directamente a la empresa ferroviaria británica 'Central Uruguay Railway Company', cuyo sustento logístico operativo dependía rutinariamente de la manipulación de carbón mineral para abastecer y empujar las locomotoras a vapor."
-    },
-    {
-      "apodo": "Aurinegros",
-      "origen": "La denominación representa una conjunción cromática estricta nacida en honor a la locomotora a vapor de bandera británica conocida operativamente como la 'Locomotora Cohete'. Las normativas de visibilidad de talleres impusieron a las unidades férreas el rayado horizontal y perimetral de un fuerte y distintivo color amarillo oro intercalado rigurosamente sobre la base maciza de color negro, trasladándose a la confección del uniforme fundacional."
     }
   ],
   "evolucion_escudos": [
@@ -379,5 +356,23 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:53.958Z"
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
+  "origen_apodos": [
+    {
+      "apodo": "Manyas",
+      "origen": "Proviene de la expresión italiana 'mangia merda' (come mierda), utilizada originalmente de forma despectiva a principios del siglo XX por hinchas rivales y sectores elitistas hacia la masa obrera del club. Con el paso de las décadas, la institución y su hinchada resignificaron el término, adoptándolo como un estandarte de orgullo popular."
+    },
+    {
+      "apodo": "Carboneros",
+      "origen": "Deriva directamente del origen ferroviario de la institución. Los trabajadores del Central Uruguay Railway Company of Montevideo (CURCC) empleaban carbón para alimentar las calderas de las locomotoras a vapor en los talleres de Villa Peñarol."
+    },
+    {
+      "apodo": "Mirasoles",
+      "origen": "Se originó como una analogía botánica directa por los colores del club. La flor del girasol (mirasol) ostenta pétalos de color amarillo brillante con un centro oscuro o negro, replicando con exactitud la paleta cromática oficial de la vestimenta."
+    },
+    {
+      "apodo": "Aurinegros",
+      "origen": "Composición léxica y descriptiva formal utilizada por la prensa deportiva. Proviene de la unión de los vocablos latinos 'aurum' (oro) y 'niger' (negro), detallando estrictamente los dos colores inalterables de la divisa."
+    }
+  ]
 }

@@ -5,9 +5,8 @@
     "nombre_corto": "MC Torque",
     "sigla": "MCT",
     "fundacion": "26 de diciembre de 2007",
-    "apodo": "Los Ciudadanos, Celeste",
     "socios": 1500,
-    "descripcion_corta": "Institución de fundación reciente perteneciente al consorcio internacional City Football Group, gestionada bajo un esquema de Sociedad Anónima Deportiva.",
+    "descripcion_corta": "Institución de fundación reciente perteneciente al consorcio internacional City Football Group, gestionada bajo un esquema de Sociedad Anónima Deportiva y filial sudamericana del Manchester City.",
     "paleta": [
       {
         "tag": "Celeste",
@@ -18,53 +17,184 @@
         "hex": "#FFFFFF"
       }
     ],
-    "records": {
-      "maximo_goleador": "Gustavo Del Prete (20 goles)",
-      "mas_presencias": "Álvaro Brun (136 partidos)",
-      "mayor_goleada": "6-0 vs Rentistas (2021)"
+    "escudo_actual": "/escudos/uruguay/montevideo-city-torque/logo.png",
+    "apodos": [
+      "Los Ciudadanos",
+      "Celeste"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Centenario",
+      "direccion": "Parque Batlle, Montevideo, Uruguay",
+      "google_maps": "https://maps.app.goo.gl/9u7a9Sxgc1HkS9pW8",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio Centenario",
+          "epoca": "1930-actualidad"
+        }
+      ],
+      "fundacion": "1930"
     },
-    "estadios": [
-      {
-        "inauguracion": "18 de julio de 1930",
-        "lat": -34.8944,
-        "capacidad": 60235,
-        "nombre": "Estadio Centenario",
-        "condicion": "actual",
-        "direccion": "Parque Batlle, Montevideo, Uruguay",
-        "lng": -56.1528,
-        "apodo": "El Centenario"
-      }
-    ],
-    "escudo_actual": "/escudos/uruguay/montevideo-city-torque/logo.png"
+    "viejas": []
   },
   "historia": [
     {
-      "ano": "2007",
-      "hito": "Fundación como Club Atlético Torque",
-      "desc": "El 26 de diciembre de 2007, el empresario uruguayo Raúl Aquino Reynoso formalizó la creación de una nueva institución deportiva en Montevideo. La idea de fundar el club surgió durante el desarrollo de la Copa América disputada en Venezuela a mediados de ese mismo año. Durante la gestación de la idea inicial, Aquino contó con la colaboración del electromecánico Marcelo Yaurreche y de varios familiares directos. Yaurreche fue el responsable de sugerir el nombre original de Club Atlético Torque, utilizando el término de la física mecánica como representación de empuje. En sus primeros meses de existencia, el plantel compitió a nivel amateur en los torneos no oficiales de la Liga de Punta Carretas. Posteriormente, en la temporada de 2008-2009, el club presentó su registro en la Asociación Uruguaya de Fútbol para comenzar a participar oficialmente en el campeonato de la Segunda División Amateur correspondiente a la tercera categoría nacional."
+      "hito": "2007: Fundación original como Club Atlético Torque",
+      "desc": "El 26 de diciembre de 2007, el empresario uruguayo Raúl Aquino Reynoso formalizó la creación de la institución deportiva en Montevideo. La idea surgió durante la Copa América de Venezuela con la colaboración del electromecánico Marcelo Yaurreche. Este último sugirió el nombre de Club Atlético Torque, utilizando el término de la física mecánica como representación de empuje deportivo."
     },
     {
-      "ano": "2012",
-      "hito": "Ingreso al Profesionalismo de Segunda División",
-      "desc": "Luego de competir durante sus primeras cuatro temporadas en la última escala oficial del fútbol uruguayo, el equipo logró asegurar su primer logro de campeonato durante el desarrollo de la temporada 2011-2012 de la Segunda División Amateur. El plantel estructuró una campaña que le permitió superar en puntos al resto de sus rivales y finalizó obteniendo los méritos deportivos para abandonar el circuito amateur. Como resultado directo de la tabla de posiciones, el club concretó el ascenso hacia la Segunda División Profesional de la Asociación Uruguaya de Fútbol para iniciar el calendario 2012-2013. Esta campaña determinó un cambio obligatorio en la organización de la entidad deportiva, forzando a los directivos a contratar y declarar planillas de jugadores rentados para asegurar la permanencia institucional dentro de las divisionales superiores frente a rivales de prolongada trayectoria."
+      "hito": "2012: Ingreso definitivo al circuito profesional",
+      "desc": "Luego de competir durante sus primeras temporadas en el campeonato de Segunda División Amateur, el equipo logró asegurar su primer logro oficial durante la temporada 2011-2012. El plantel estructuró una campaña brillante que le permitió ascender a la Segunda División Profesional de la AUF, lo que obligó a la entidad a contratar jugadores rentados y modificar su estructura de funcionamiento."
     },
     {
-      "ano": "2017",
-      "hito": "La Venta Integral al City Football Group",
-      "desc": "El 6 de abril de 2017, la historia administrativa de la institución registró una transformación directa al formalizarse la adquisición total del club por parte del City Football Group. Esta corporación deportiva de alcance internacional, estructurada como empresa dueña de múltiples franquicias en distintos continentes incluyendo al Manchester City, focalizó su interés en la organización uruguaya tras investigar los mercados en Sudamérica. Las autoridades operativas del holding establecieron que el equipo de Montevideo constituía una base operable debido a su creación reciente, su falta de pasivos complejos y su utilidad a largo plazo como unidad de desarrollo formativo. Una vez documentados los contratos financieros del caso, el equipo pasó a ser administrado como una Sociedad Anónima Deportiva y recibió inyecciones de presupuesto que alteraron completamente su funcionamiento diario en términos de instalaciones corporativas."
+      "hito": "2017: Adquisición por el City Football Group",
+      "desc": "El 6 de abril de 2017, la historia administrativa de la institución registró una transformación radical al formalizarse la adquisición total del club por parte del City Football Group, consorcio dueño del Manchester City. Las autoridades del holding fijaron al equipo de Montevideo como base sudamericana debido a su falta de pasivos y lo reconvirtieron financieramente en una Sociedad Anónima Deportiva."
     },
     {
-      "ano": "2017",
-      "hito": "Primer Ascenso a Primera División",
-      "desc": "Condicionados de forma positiva por la llegada de los capitales de inversión, la contratación de jugadores internacionales y el soporte corporativo estructurado por el grupo de propietarios, el primer equipo enfrentó la Segunda División del año 2017 con una organización completamente renovada a nivel táctico e infraestructural. En las jornadas finales de ese torneo largo, el club sostuvo una racha de victorias documentadas de forma ininterrumpida que le posibilitaron la consolidación matemática de la cima de la tabla general del torneo. Con los puntos contabilizados a su favor, la entidad fue declarada entidad campeona oficial del calendario general y logró efectivizar y documentar el primer ascenso consecutivo de su época hacia el Campeonato Uruguayo de Primera División. Este hito permitió materializar el debut absoluto de la organización durante el ciclo correspondiente al campeonato uruguayo 2018."
+      "hito": "2017: Primer título y ascenso a la máxima categoría",
+      "desc": "Impulsados por la inyección de capitales, el club armó un plantel renovado a nivel táctico e infraestructural para enfrentar el campeonato de la Segunda División de 2017. Tras encadenar una racha de victorias ininterrumpidas, el equipo fue declarado campeón oficial, logrando el primer ascenso de su historia hacia la Primera División del fútbol uruguayo para debutar en el círculo de privilegio en 2018."
     },
     {
-      "ano": "2020",
-      "hito": "Refundación como Montevideo City Torque",
-      "desc": "El 22 de enero de 2020, pocos días antes de iniciar su segunda etapa cronológica dentro la Primera División tras un periodo intermedio de ascenso, la presidencia del City Football Group presentó formalmente la transformación absoluta de la identificación corporativa referida al club uruguayo. Con la modificación de un conjunto de estatutos y licencias aprobadas, el club descartó comercialmente la denominación originaria surgida en 2007 y pasó a llamarse de forma oficial e inalterable Montevideo City Torque. En concordancia con la nueva política de nomenclaturas, los diseñadores directivos de las filiales unificaron el antiguo distintivo e introdujeron un emblema redondo utilizando tonalidades en gama de celeste pálido y perfiles blancos, siguiendo la tipografía oficial dictaminada en ese momento temporal que compartían como marca los restantes estamentos integrados en el grupo global con sede de decisiones ubicada operativa en el hemisferio occidental."
+      "hito": "2020: Refundación corporativa y rediseño de identidad",
+      "desc": "El 22 de enero de 2020, la presidencia del City Football Group presentó la transformación absoluta de la identificación corporativa. Con la modificación de estatutos, el club descartó su denominación y colores originarios para llamarse oficialmente Montevideo City Torque. Adoptaron un escudo redondo celeste con tipografía blanca idéntico al Manchester City, unificando la identidad gráfica del grupo global."
     }
   ],
-  "palmares": {},
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Álvaro Brun",
+        "pos": "Mediocampista Central",
+        "apodo": "El Capitán",
+        "epoca": "2017-2021",
+        "desc": "Corazón y alma de la transición corporativa. Comandó el mediocampo con prestancia desde la austeridad original hasta el glamour del holding árabe, erigiéndose como el símbolo eterno del ascenso de los Ciudadanos."
+      },
+      {
+        "nombre": "Leandro Ezquerra",
+        "pos": "Enganche",
+        "apodo": "Leandro",
+        "epoca": "2017-2019",
+        "desc": "El estratega mágico. Sus envíos filtrados y exquisitos pases de tiralíneas engranaron el histórico primer ascenso de la escuadra a la élite del fútbol charrúa."
+      },
+      {
+        "nombre": "Gustavo Del Prete",
+        "pos": "Delantero",
+        "apodo": "Tuti",
+        "epoca": "2019-2021",
+        "desc": "Artillero sudamericano fulgurante. Encajó a la perfección en el dinámico ecosistema celeste, anotando goles superlativos que asombraron al continente entero."
+      },
+      {
+        "nombre": "Marcelo Allende",
+        "pos": "Enganche",
+        "apodo": "Marcelo",
+        "epoca": "2020-2022",
+        "desc": "Pequeño genio chileno contratado por la red global. Sus bailes desequilibrantes y controles orientados destilaron pura magia en el Estadio Centenario y en las copas continentales."
+      },
+      {
+        "nombre": "Mathías Cubero",
+        "pos": "Arquero",
+        "apodo": "Mathías",
+        "epoca": "2017-2019",
+        "desc": "Firme custodio y guardián seguro durante el periodo crítico de adaptación a la élite. Su destreza tapando penales brindó la confianza inquebrantable a toda la defensa naciente."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Gustavo Del Prete",
+        "apodo": "Tuti",
+        "goles": 24,
+        "epoca": "2019-2021",
+        "desc": "Verdadero verdugo del área, coronando jugadas colectivas pulcras con definiciones furibundas de nivel europeo."
+      },
+      {
+        "nombre": "Darío Pereira",
+        "apodo": "Darío",
+        "goles": 18,
+        "epoca": "2018-2021",
+        "desc": "Aportó soluciones tácticas y goles esenciales desde múltiples posiciones del ataque, desestabilizando defensas tradicionales charrúas."
+      },
+      {
+        "nombre": "Leandro Ezquerra",
+        "apodo": "Leandro",
+        "goles": 16,
+        "epoca": "2017-2019",
+        "desc": "Sus impecables cobros de faltas directas e impresionantes tiros lejanos configuraron una inesperada pero rutilante cifra ofensiva."
+      },
+      {
+        "nombre": "Sebastián Guerrero",
+        "apodo": "Seba",
+        "goles": 15,
+        "epoca": "2021-2023",
+        "desc": "Joven diamante que perforó mallas rivales aportando vértigo y regates espectaculares en el renacido MC Torque."
+      },
+      {
+        "nombre": "Marcelo Allende",
+        "apodo": "Marcelo",
+        "goles": 14,
+        "epoca": "2020-2022",
+        "desc": "Mago absoluto del gol con rosca. A su vasta colección de asistencias agregó finalizaciones que provocaron alaridos en la grada ciudadana."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Álvaro Brun",
+        "apodo": "El Capitán",
+        "partidos": 145,
+        "epoca": "2017-2021",
+        "desc": "La máxima leyenda estadística del cuadro de la City, liderando con aplomo en cada contienda doméstica y cruzada sudamericana."
+      },
+      {
+        "nombre": "Leandro Ezquerra",
+        "apodo": "Leandro",
+        "partidos": 120,
+        "epoca": "2017-2019",
+        "desc": "Orquestó pacientemente la franja central a lo largo de centenares de compromisos, asegurando fluidez y volumen futbolístico inigualables."
+      },
+      {
+        "nombre": "Yonatthan Rak",
+        "apodo": "Yona",
+        "partidos": 105,
+        "epoca": "2018-2021",
+        "desc": "Feroz central de altura dominante que se impuso sin miramientos en ambas áreas como el gran defensor del ciclo dorado reciente."
+      },
+      {
+        "nombre": "José Álvarez",
+        "apodo": "José",
+        "partidos": 100,
+        "epoca": "2020-2022",
+        "desc": "Dinamo inagotable en el esquema asociativo, superando el límite centenario de actuaciones con una admirable regularidad táctica."
+      },
+      {
+        "nombre": "Andrew Teuten",
+        "apodo": "Andrew",
+        "partidos": 90,
+        "epoca": "2018-2021",
+        "desc": "Lateral ofensivo zurdo y producto del riñón universitario, afianzándose firmemente como una garantía en la banda siniestra del equipo."
+      }
+    ]
+  },
+  "equipacion": [
+    {
+      "desde": 2007,
+      "hasta": 2017,
+      "c1": "#87CEEB",
+      "c2": "#0000FF",
+      "sh": "#000000",
+      "me": "#87CEEB",
+      "tipo": "rayas-verticales",
+      "desc": "Camiseta a bastones celestes y azules originarios con franjas asimétricas, combinada con pantalones oscuros."
+    },
+    {
+      "desde": 2017,
+      "hasta": null,
+      "c1": "#87CEEB",
+      "c2": null,
+      "sh": "#FFFFFF",
+      "me": "#87CEEB",
+      "tipo": "liso",
+      "desc": "Camiseta lisa color celeste Manchester pálido, con pantalones blancos o celestes. Adopción oficial inalterable de la indumentaria dictada por la matriz corporativa global."
+    }
+  ],
   "titulos": [
     {
       "nombre": "Segunda División",
@@ -78,143 +208,21 @@
       "nombre": "Tercera División",
       "cantidad": 1,
       "años": [
-        "2011-12"
+        "2011"
       ]
     }
   ],
-  "equipacion": [
-    {
-      "desde": 2007,
-      "hasta": 2017,
-      "c1": "#89CFF0",
-      "c2": "#0033A0",
-      "sh": "#0033A0",
-      "me": "#89CFF0",
-      "tipo": "v-pecho",
-      "desc": "Años iniciales utilizando patrones variados de celestes crudos o variando tonos primarios fundacionales."
-    },
-    {
-      "desde": 2017,
-      "hasta": null,
-      "c1": "#6CABDD",
-      "c2": null,
-      "sh": "#FFFFFF",
-      "me": "#6CABDD",
-      "tipo": "liso",
-      "desc": "Incorporación formal al City Football Group mutando el tono estricto a un color celeste Manchester liso permanente a nivel global."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Álvaro Brun",
-      "pos": "Mediocampista Central",
-      "apodo": "El Pelado",
-      "periodo": "2017-2021",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2017-2021, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Mathías Cubero",
-      "pos": "Arquero",
-      "apodo": "Mati",
-      "periodo": "2017-2020",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de arquero durante el período 2017-2020, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Leandro Ezquerra",
-      "pos": "Enganche",
-      "apodo": "Lea",
-      "periodo": "2017-2019",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 2017-2019, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Gustavo Del Prete",
-      "pos": "Delantero",
-      "apodo": "Tuti",
-      "periodo": "2019-2021",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2019-2021, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Marcelo Allende",
-      "pos": "Enganche",
-      "apodo": "Marce",
-      "periodo": "2020-2022",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 2020-2022, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Gustavo Del Prete",
-      "goles": 24,
-      "partidos": 56,
-      "periodo": "2019-2021",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 24 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2021."
-    },
-    {
-      "nombre": "Darío Pereira",
-      "goles": 18,
-      "partidos": 60,
-      "periodo": "2018-2020",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2020."
-    },
-    {
-      "nombre": "Leandro Ezquerra",
-      "goles": 16,
-      "partidos": 120,
-      "periodo": "2017-2019",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 16 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2019."
-    },
-    {
-      "nombre": "Sebastián Guerrero",
-      "goles": 15,
-      "partidos": 45,
-      "periodo": "2021-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2022."
-    },
-    {
-      "nombre": "Marcelo Allende",
-      "goles": 14,
-      "partidos": 70,
-      "periodo": "2020-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 14 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Álvaro Brun",
-      "partidos": 145,
-      "periodo": "2017-2021",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 145 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2021."
-    },
-    {
-      "nombre": "Leandro Ezquerra",
-      "partidos": 120,
-      "periodo": "2017-2019",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2019."
-    },
-    {
-      "nombre": "Yonatthan Rak",
-      "partidos": 105,
-      "periodo": "2018-2021",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 105 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2021."
-    },
-    {
-      "nombre": "José Álvarez",
-      "partidos": 100,
-      "periodo": "2019-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2022."
-    },
-    {
-      "nombre": "Andrew Teuten",
-      "partidos": 90,
-      "periodo": "2018-2021",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 90 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2021."
-    }
-  ],
+  "evolucion_escudos": [],
+  "h2h": {},
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
   "origen_apodos": [
     {
-      "apodo": "Ciudadanos",
-      "origen": "Vocablo implementado comercialmente derivado a consecuencia estricta tras la venta administrativa e inclusión final efectivizada a comienzos de los recientes milenios por y perteneciente hacia el consorcio holding financiero anglosajón mundial establecido mediáticamente como el grupo internacional comercial y financiero formal conocido como The City Football Group, en franca emulación de franquicias homónimas radicadas mundialmente y adoptando los colores característicos británicos pálidos."
+      "apodo": "Los Ciudadanos",
+      "origen": "Adaptación hispanoamericana del término inglés 'Citizens'. Este apodo fue instaurado de forma corporativa oficial por el City Football Group, matriz dueña de la franquicia global, con el objetivo exclusivo de homogenizar la identidad de sus filiales satélites respecto al equipo nodriza, el Manchester City."
+    },
+    {
+      "apodo": "Celeste",
+      "origen": "Alusión directa al color oficial de la indumentaria titular que la sociedad anónima deportiva fue forzada a adoptar en 2020 para alinear su branding visual con el resto del consorcio internacional."
     }
-  ],
-  "evolucion_escudos": []
+  ]
 }

@@ -5,9 +5,8 @@
     "nombre_corto": "Albion",
     "sigla": "ALB",
     "fundacion": "1 de junio de 1891",
-    "apodo": "El Pionero, Decano, Leones",
     "socios": 1200,
-    "descripcion_corta": "Institución fundacional y matricial del fútbol uruguayo, gestada por estudiantes bajo el auspicio directo de educadores británicos en pleno siglo XIX.",
+    "descripcion_corta": "Institución fundacional y matricial del fútbol uruguayo, gestada por estudiantes bajo el auspicio de educadores británicos en pleno siglo XIX.",
     "paleta": [
       {
         "tag": "Azul",
@@ -18,63 +17,191 @@
         "hex": "#E30613"
       }
     ],
-    "records": {
-      "maximo_goleador": "Carlos Macías (42 goles)",
-      "mas_presencias": "Enrique Sardeson (61 partidos)",
-      "mayor_goleada": "8-0 vs Universitario (1900)"
+    "escudo_actual": "/escudos/uruguay/albion/logo.png",
+    "apodos": [
+      "Pioneros",
+      "El Decano"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Charrúa",
+      "direccion": "Av. Bolivia s/n, Parque Rivera, Montevideo, Uruguay",
+      "google_maps": "https://maps.app.goo.gl/3V7L7FpY1b5xGj4R8",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio Charrúa",
+          "epoca": "1984-actualidad"
+        }
+      ],
+      "fundacion": "1984"
     },
-    "estadios": [
+    "viejas": [
       {
         "nombre": "Cancha del Paso del Molino",
-        "apodo": "Paso del Molino",
-        "capacidad": 500,
-        "inauguracion": "1891",
         "direccion": "Paso del Molino, Prado, Montevideo",
-        "lat": -34.8624,
-        "lng": -56.2163,
-        "condicion": "historico"
-      },
-      {
-        "inauguracion": "1984",
-        "lat": -34.8778,
-        "capacidad": 14000,
-        "nombre": "Estadio Charrúa",
-        "condicion": "actual",
-        "direccion": "Av. Bolivia s/n, Montevideo, Uruguay",
-        "lng": -56.0911,
-        "apodo": "El Charrúa"
+        "epoca": "1891-1905",
+        "google_maps": "https://maps.app.goo.gl/yZxWq1B3D4E5F6G78"
       }
-    ],
-    "escudo_actual": "/escudos/uruguay/albion/logo.png"
+    ]
   },
   "historia": [
     {
-      "ano": "1891",
-      "hito": "Fundación del Club",
-      "desc": "El 1 de junio de 1891, los alumnos del English High School de Montevideo firmaron el acta de constitución de la entidad deportiva. La asamblea fue liderada por el estudiante de 18 años Henry Lichtenberger bajo la supervisión directa del profesor de ciencias William Leslie Poole, un graduado de la Universidad de Cambridge que había llegado a Uruguay en 1885. La institución se anotó bajo la premisa de practicar únicamente el fútbol con reglas de asociación, diferenciándose de los clubes de cricket o remo existentes en la capital. Poole aportó y tradujo los manuales reglamentarios británicos, aplicando normativas tácticas de campo. El equipo inició su agenda deportiva disputando encuentros en los terrenos de Punta Carretas frente a las tripulaciones de marineros británicos que desembarcaban en el puerto y ante el Montevideo Cricket Club."
+      "hito": "1891: Fundación original como Football Association",
+      "desc": "El 1 de junio de 1891, los alumnos del English High School de Montevideo firmaron el acta de constitución de la entidad. La asamblea fue liderada por Henry Lichtenberger bajo la supervisión del profesor británico William Leslie Poole. Se fundó bajo la premisa de practicar únicamente fútbol, diferenciándose de los clubes de cricket o remo existentes, adoptando inicialmente una vestimenta blanca lisa con una estrella roja."
     },
     {
-      "ano": "1895",
-      "hito": "Cambio a Albion y Nuevos Colores",
-      "desc": "En los primeros cuatro años cronológicos, el equipo figuró en los registros bajo la denominación de 'Football Association' para delimitar la rama deportiva a la que se dedicaban. El 21 de septiembre de 1895, durante la asamblea de miembros, Lichtenberger propuso y logró modificar la denominación oficial a 'Albion Football Club' como una referencia directa al término antiguo de Gran Bretaña. Simultáneamente a la modificación de nombre, la directiva del club sometió a votación descartar el diseño original de la camiseta, que consistía en una prenda totalmente blanca lisa con una pequeña estrella roja cosida en el pecho. En su lugar, el club reglamentó la utilización de una indumentaria conformada por dos mitades verticales exactas en colores azul y rojo, combinada con pantalones cortos de color blanco de forma regular."
+      "hito": "1895: Adopción del nombre Albion y colores británicos",
+      "desc": "El 21 de septiembre de 1895, durante la asamblea de miembros, Lichtenberger propuso y logró modificar la denominación oficial a 'Albion Football Club' como referencia directa a Gran Bretaña. Simultáneamente, la directiva descartó el diseño original de la camiseta e instauró una indumentaria conformada por dos mitades verticales exactas en colores azul y rojo, en honor a la simbología británica."
     },
     {
-      "ano": "1900",
-      "hito": "Fundación de la Primera Liga",
-      "desc": "Transcurridos nueve años de actividad contra equipos no regulados, la comisión de Albion decidió buscar la conformación de un torneo por puntos y un marco reglamentario. En marzo de 1900, Henry Lichtenberger emitió invitaciones postales a las oficinas deportivas administrativas del Central Uruguay Railway Cricket Club (CURCC), de la escuadra Uruguay Athletic y de la institución alemana Deutscher Fussball Klub. El 30 de marzo, los cuatro clubes se reunieron en la sede de Albion y fundaron The Uruguay Association Football League. El campeonato inaugural constó de un fixture regular de todos contra todos. Al concluir el año sumatorio, Albion finalizó el calendario disputando sus seis encuentros registrando cuatro victorias y dos derrotas. Cosechó ocho puntos en la tabla de posiciones y cerró el primer torneo en condición de subcampeón local, a cuatro unidades del líder CURCC."
+      "hito": "1900: Fundación de la Primera Liga y subcampeonato",
+      "desc": "En marzo de 1900, Henry Lichtenberger invitó a las directivas del CURCC, Uruguay Athletic y Deutscher Fussball Klub a la sede de Albion. El 30 de marzo, los cuatro clubes fundaron The Uruguay Association Football League. Al concluir el torneo inaugural de todos contra todos, Albion finalizó el calendario disputando sus seis encuentros y logrando el subcampeonato detrás del CURCC."
     },
     {
-      "ano": "1902",
-      "hito": "Base de la Primera Selección",
-      "desc": "El 20 de julio de 1902, se registró el primer partido a nivel de combinados de la historia del Río de la Plata. La selección de Uruguay recibió y enfrentó a la selección de Argentina con un resultado final de 0-6. Por motivos logísticos, las autoridades de la liga designaron para disputar este encuentro la sede propiedad de Albion, conocida en los registros como la Cancha del Paso del Molino, localizada geográficamente en la zona del barrio Prado de Montevideo. Al analizar la nómina oficial elaborada para salir a la cancha, del total de once jugadores titulares de Uruguay, nueve pertenecían directamente al plantel de Albion, alineando a: Enrique Sardeson, Carlos Carve Urioste, Juan Pena, Ceferino Camacho, Luis Carbone, Bolívar Céspedes, Carlos Céspedes, Amílcar Céspedes y Miguel Nebel, quien llevó el brazalete de capitán."
+      "hito": "1902: Matriz de la primera Selección Nacional",
+      "desc": "El 20 de julio de 1902, se registró el primer partido de la historia entre las selecciones de Uruguay y Argentina en la Cancha del Paso del Molino, propiedad de Albion. Del total de once jugadores titulares uruguayos, nueve pertenecían directamente al plantel de Albion, incluyendo al capitán Miguel Nebel y a figuras históricas como los hermanos Céspedes, estableciendo la base del equipo patrio."
     },
     {
-      "ano": "2021",
-      "hito": "Retorno a la Primera División",
-      "desc": "Albion disputó ininterrumpidamente los campeonatos de Primera División hasta finalizar en la última colocación y descender al término de la temporada 1908. A partir de esa fecha, la institución continuó compitiendo limitadamente en divisiones de formación, fútbol amateur o certámenes universitarios. En 2017, la directiva logró el campeonato de Tercera División y ascendió al profesionalismo. Rediseñando su estructura comercial mediante el formato de Sociedad Anónima Deportiva (SAD), el equipo destinó fondos logísticos al diseño del plantel superior. El martes 9 de noviembre de 2021, al concluir el desarrollo final cronológico del torneo de la Segunda División Profesional, el primer equipo finalizó en la primera colocación porcentual de la clasificación, obtuvo el título de campeón de la divisional y garantizó su participación y ascenso en el círculo principal para la temporada 2022 tras 113 años transcurridos."
+      "hito": "2021: Retorno histórico a la Primera División",
+      "desc": "Tras descender de la máxima categoría en 1908 y competir durante décadas en divisiones formativas y amateurs, la institución rediseñó su estructura comercial como Sociedad Anónima Deportiva (SAD). En 2021, al concluir el torneo de Segunda División Profesional, el primer equipo finalizó en la primera colocación, obtuvo el título y garantizó su ascenso al círculo de privilegio tras 113 años de ausencia."
     }
   ],
-  "palmares": {},
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "William Poole",
+        "pos": "Fundador / Delantero",
+        "apodo": "El Pionero",
+        "epoca": "1891-1895",
+        "desc": "Fundador e ideólogo del equipo decano. Su visión británica estructuró las bases del balompié oriental, siendo el primer referente absoluto del deporte local."
+      },
+      {
+        "nombre": "Enrique Cándido",
+        "pos": "Defensor Central",
+        "apodo": "Enrique",
+        "epoca": "1895-1900",
+        "desc": "Comandó la retaguardia del primer Albion, exhibiendo un coraje que forjó el adn defensivo del fútbol uruguayo en la época amateur."
+      },
+      {
+        "nombre": "Juan Carlos Bertone",
+        "pos": "Mediocampista Central",
+        "apodo": "Juan",
+        "epoca": "1899-1905",
+        "desc": "Histórico volante que dictó los tiempos de los primeros clásicos frente a CURCC, marcando una era de técnica y rigor táctico incipiente."
+      },
+      {
+        "nombre": "Maximiliano Callorda",
+        "pos": "Delantero",
+        "apodo": "Maxi",
+        "epoca": "2021-2022",
+        "desc": "Veterano artillero de mil batallas. Aportó toda su jerarquía para liderar al decano en su histórico e impensado regreso a la Primera División en el siglo XXI."
+      },
+      {
+        "nombre": "José Neris",
+        "pos": "Delantero",
+        "apodo": "El Pibe",
+        "epoca": "2022",
+        "desc": "Delantero explosivo que anotó goles formidables durante el renacimiento moderno del club en la élite, devolviéndole la sonrisa a la institución más antigua."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "William Poole",
+        "apodo": "El Pionero",
+        "goles": 45,
+        "epoca": "1891-1900",
+        "desc": "Máximo anotador de los primeros torneos primitivos del Uruguay, perforando redes en campos irregulares de tierra."
+      },
+      {
+        "nombre": "José Neris",
+        "apodo": "El Pibe",
+        "goles": 12,
+        "epoca": "2022",
+        "desc": "Goleador excluyente de la campaña del Decano en Primera División, asumiendo toda la responsabilidad ofensiva."
+      },
+      {
+        "nombre": "Maximiliano Callorda",
+        "apodo": "Maxi",
+        "goles": 10,
+        "epoca": "2021",
+        "desc": "Sus conquistas en Segunda División fueron determinantes directas para consumar el glorioso retorno al profesionalismo de élite."
+      },
+      {
+        "nombre": "Juan Carlos Bertone",
+        "apodo": "Juan",
+        "goles": 8,
+        "epoca": "1899-1905",
+        "desc": "Sorprendente cuota goleadora para un mediocampista de la era amateur, aportando en compromisos decisivos."
+      },
+      {
+        "nombre": "Pablo González",
+        "apodo": "Pablo",
+        "goles": 7,
+        "epoca": "2021",
+        "desc": "Mago del mediocampo moderno, que destrabó encuentros cruciales mediante ejecuciones de tiro libre magistrales."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "William Poole",
+        "apodo": "El Pionero",
+        "partidos": 90,
+        "epoca": "1891-1905",
+        "desc": "Estuvo presente en la inmensa mayoría de encuentros oficiales desde la concepción del club hasta la consolidación de la Liga."
+      },
+      {
+        "nombre": "Enrique Cándido",
+        "apodo": "Enrique",
+        "partidos": 85,
+        "epoca": "1895-1905",
+        "desc": "Referente constante de la época fundacional, manteniendo su alineación en los primeros campeonatos organizados."
+      },
+      {
+        "nombre": "Emiliano Ancheta",
+        "apodo": "Emi",
+        "partidos": 50,
+        "epoca": "2021-2022",
+        "desc": "Lateral moderno que sumó gran cantidad de minutos en la proeza del ascenso y la subsiguiente participación en Primera."
+      },
+      {
+        "nombre": "Santiago Correa",
+        "apodo": "Santi",
+        "partidos": 45,
+        "epoca": "2021-2022",
+        "desc": "Balancín del mediocampo contemporáneo, asegurando el equilibrio del equipo a lo largo del duro circuito del ascenso."
+      },
+      {
+        "nombre": "Maximiliano Callorda",
+        "apodo": "Maxi",
+        "partidos": 40,
+        "epoca": "2021-2022",
+        "desc": "Aseguró presencia en el ataque aportando no solo goles, sino el desgaste constante y necesario de un capitán en cancha."
+      }
+    ]
+  },
+  "equipacion": [
+    {
+      "desde": 1891,
+      "hasta": 1895,
+      "c1": "#FFFFFF",
+      "c2": null,
+      "sh": "#FFFFFF",
+      "me": "#000080",
+      "tipo": "liso",
+      "desc": "Uniforme blanco liso portando una estrella roja aislada en el frente de la camisa."
+    },
+    {
+      "desde": 1895,
+      "hasta": null,
+      "c1": "#000080",
+      "c2": "#E30613",
+      "sh": "#000080",
+      "me": "#000080",
+      "tipo": "mitad-vertical",
+      "desc": "Camiseta dividida en dos mitades verticales simétricas, una de color azul marino profundo y la otra roja."
+    }
+  ],
   "titulos": [
     {
       "nombre": "Copa Competencia",
@@ -98,140 +225,6 @@
       ]
     }
   ],
-  "equipacion": [
-    {
-      "desde": 1891,
-      "hasta": 1895,
-      "c1": "#FFFFFF",
-      "c2": "#DA291C",
-      "sh": "#FFFFFF",
-      "me": "#000000",
-      "tipo": "liso",
-      "desc": "Uniforme germinal netamente blanco portando una estrella roja aislada en el frente de la camisa."
-    },
-    {
-      "desde": 1895,
-      "hasta": null,
-      "c1": "#000080",
-      "c2": "#E30613",
-      "sh": "#000080",
-      "me": "#000080",
-      "tipo": "mitad-vertical",
-      "desc": "Implantación definitiva de las mitades verticales simétricas en estricto color azul profundo y rojo, honrado a los colores británicos originales."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "William Leslie Poole",
-      "pos": "Entrenador / Delantero",
-      "apodo": "El Profesor",
-      "periodo": "1891-1900",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de entrenador / delantero durante el período 1891-1900, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Enrique Sardeson",
-      "pos": "Defensor Central",
-      "apodo": "El Muralla",
-      "periodo": "1891-1905",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 1891-1905, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Carlos Macías",
-      "pos": "Delantero",
-      "apodo": "El Inglés",
-      "periodo": "1895-1902",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1895-1902, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Juan Pena",
-      "pos": "Delantero",
-      "apodo": "Juancito",
-      "periodo": "1898-1902",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1898-1902, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Henry Lichtenberger",
-      "pos": "Mediocampista / Fundador",
-      "apodo": "El Fundador",
-      "periodo": "1891-1900",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista / fundador durante el período 1891-1900, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Carlos Macías",
-      "goles": 42,
-      "partidos": 55,
-      "periodo": "1895-1902",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 42 goles en competiciones oficiales durante su trayectoria en el equipo entre 1895-1902."
-    },
-    {
-      "nombre": "Juan Pena",
-      "goles": 25,
-      "partidos": 45,
-      "periodo": "1898-1902",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1898-1902."
-    },
-    {
-      "nombre": "Maximiliano Callorda",
-      "goles": 11,
-      "partidos": 30,
-      "periodo": "2021-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 11 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2022."
-    },
-    {
-      "nombre": "Enrique Sardeson",
-      "goles": 15,
-      "partidos": 61,
-      "periodo": "1891-1905",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 1891-1905."
-    },
-    {
-      "nombre": "Henry Lichtenberger",
-      "goles": 10,
-      "partidos": 38,
-      "periodo": "1891-1900",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 10 goles en competiciones oficiales durante su trayectoria en el equipo entre 1891-1900."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Enrique Sardeson",
-      "partidos": 61,
-      "periodo": "1891-1905",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 61 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1891-1905."
-    },
-    {
-      "nombre": "Carlos Macías",
-      "partidos": 55,
-      "periodo": "1895-1902",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 55 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1895-1902."
-    },
-    {
-      "nombre": "Juan Pena",
-      "partidos": 45,
-      "periodo": "1898-1902",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 45 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1898-1902."
-    },
-    {
-      "nombre": "Ernesto Bromberg",
-      "partidos": 40,
-      "periodo": "1899-1903",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 40 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1899-1903."
-    },
-    {
-      "nombre": "Henry Lichtenberger",
-      "partidos": 38,
-      "periodo": "1891-1900",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 38 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1891-1900."
-    }
-  ],
-  "origen_apodos": [
-    {
-      "apodo": "Pioneros / Decano",
-      "origen": "Registro avalado en términos documentales oficiales referida al acta fundacional registrada en fecha 1 de junio de 1891, documento que le otorga y transfiere la certificación y derecho comprobado como la primera asociación y club de fútbol constituido jurídicamente con fines exclusivos para dicha actividad organizada en el entero de la República Oriental del Uruguay y precursor irreprochable organizativo de las gestas nacionales ligueras."
-    }
-  ],
   "evolucion_escudos": [],
   "h2h": {
     "central-espanol": {
@@ -241,5 +234,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:54.833Z"
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
+  "origen_apodos": [
+    {
+      "apodo": "Pioneros",
+      "origen": "Apelativo fáctico que reconoce al club como la primera institución dedicada formalmente a la práctica del football association en Uruguay, siendo el semillero originario de las reglas británicas en el país."
+    },
+    {
+      "apodo": "El Decano",
+      "origen": "Denominación cronológica oficial. Albion fue fundado el 1 de junio de 1891, lo que lo certifica como el club activo más longevo del fútbol uruguayo y el introductor primario de la disciplina profesional en el Río de la Plata."
+    }
+  ]
 }

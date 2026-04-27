@@ -5,9 +5,8 @@
     "nombre_corto": "Progreso",
     "sigla": "PRO",
     "fundacion": "30 de abril de 1917",
-    "apodo": "Gauchos del Pantanoso",
     "socios": 1200,
-    "descripcion_corta": "Entidad fuertemente arraigada al barrio obrero de La Teja, portadora de un título histórico de Primera División en la temporada de 1989.",
+    "descripcion_corta": "Entidad fuertemente arraigada al barrio obrero de La Teja, portadora de una profunda identidad anarcosindicalista y de un título histórico de Primera División en la temporada de 1989.",
     "paleta": [
       {
         "tag": "Rojo",
@@ -18,53 +17,174 @@
         "hex": "#FFFF00"
       }
     ],
-    "records": {
-      "maximo_goleador": "Johnny Miqueiro (34 goles)",
-      "mas_presencias": "Carlos Canobbio (184 partidos)",
-      "mayor_goleada": "5-0 vs Defensor Sporting (1989)"
+    "escudo_actual": "/escudos/uruguay/progreso/logo.jpg",
+    "apodos": [
+      "Gauchos",
+      "Gauchos del Pantanoso"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Parque Abraham Paladino",
+      "direccion": "Emilio Romero y Concordia, La Teja, Montevideo",
+      "google_maps": "https://maps.app.goo.gl/9u7a9Sxgc1HkS9pW8",
+      "historia_nombres": [
+        {
+          "nombre": "Parque Abraham Paladino",
+          "epoca": "1926-actualidad"
+        }
+      ],
+      "fundacion": "1926"
     },
-    "estadios": [
-      {
-        "inauguracion": "1926",
-        "lat": -34.8624,
-        "capacidad": 5400,
-        "nombre": "Parque Abraham Paladino",
-        "condicion": "actual",
-        "direccion": "Emilio Romero y Concordia, La Teja, Montevideo",
-        "lng": -56.2238,
-        "apodo": "El Paladino"
-      }
-    ],
-    "escudo_actual": "/escudos/uruguay/progreso/logo.jpg"
+    "viejas": []
   },
   "historia": [
     {
-      "ano": "1917",
-      "hito": "Fundación en el Conventillo Balaro",
-      "desc": "El 30 de abril de 1917, un grupo de trabajadores pertenecientes al gremio de picapedreros de La Teja concretó la fundación oficial de una nueva entidad deportiva en Montevideo. Sus orígenes en el barrio se remontan al año 1914 dentro de las instalaciones del conventillo Balaro, bajo la organización de José Vázquez. Posteriormente, la firma del acta fundacional estableció al maestro de escuela Héctor Verdesio como el primer presidente de la institución. El contexto obrero marcó la identidad del club desde sus primeras asambleas vecinales. Durante este proceso, los fundadores eligieron diseñar el uniforme titular con franjas rojas y amarillas. Estos colores fueron seleccionados como un homenaje a la bandera de Cataluña, territorio de origen de los principios anarcosindicalistas compartidos por la mayoría de los trabajadores de la zona."
+      "hito": "1917: Fundación obrera en el Conventillo Balaro",
+      "desc": "El 30 de abril de 1917, un grupo de trabajadores pertenecientes al gremio de picapedreros de La Teja concretó la fundación oficial de la entidad deportiva en Montevideo, tras organizarse inicialmente en las instalaciones del conventillo Balaro por gestión de José Vázquez. El maestro de escuela Héctor Verdesio asumió como el primer presidente de la institución. Eligieron diseñar el uniforme titular con franjas rojas y amarillas como un homenaje directo a los colores de Cataluña, territorio de origen de los principios anarcosindicalistas compartidos por la mayoría de los trabajadores de la zona."
     },
     {
-      "ano": "1926",
-      "hito": "Inauguración del Parque Paladino",
-      "desc": "El primer predio en el cual el club comenzó a oficiar su condición de local fue un campo de juego inaugurado en el año 1926, lo que le permitió abandonar de forma definitiva la utilización de terrenos nómades o baldíos del barrio. Con el paso de los años, en los albores de la década de 1930, la asamblea de socios logró asegurar los derechos sobre un predio para afianzar permanentemente las actividades de entrenamiento y competencia del primer equipo. La dirigencia decidió nombrar ese recinto como Parque Abraham Paladino. La elección de dicho nombre se realizó a modo de reconocimiento institucional póstumo hacia la figura de Abraham Paladino, un socio que se desempeñó como presidente del equipo durante los primeros años y colaboró en el mantenimiento organizativo de la institución en las épocas de mayores carencias operativas."
+      "hito": "1926: Inauguración y denominación del Parque Paladino",
+      "desc": "Tras la utilización de campos nómades y baldíos del barrio para oficiar sus encuentros, el club inauguró en el año 1926 su primer predio deportivo formal. En la década de 1930, la asamblea de socios logró consolidar y asegurar los derechos sobre el recinto en La Teja de forma definitiva. La dirigencia decidió bautizar las instalaciones de entrenamiento y competencia como Parque Abraham Paladino a modo de reconocimiento póstumo hacia la figura del expresidente y socio que colaboró operativamente en mantener al club a flote en sus peores carencias económicas."
     },
     {
-      "ano": "1979",
-      "hito": "Retorno a la Primera División",
-      "desc": "Tras organizar el funcionamiento del plantel principal para competir dentro del certamen de Segunda División del año 1979, la institución deportiva logró consolidar un modelo de resultados positivos frente a los equipos de la categoría. Jugando con su localía en La Teja, el club dominó el esquema de puntajes logrando una suma consecutiva de victorias. Al finalizar el último encuentro estipulado en el calendario del torneo, el plantel obtuvo los puntos necesarios de la última fecha para coronarse campeón del certamen de ascenso de la Asociación Uruguaya de Fútbol. De esta manera, garantizó en actas su retorno y escalada a la máxima categoría del fútbol uruguayo en condición de campeón, estructurando las bases para mantener la representatividad competitiva del barrio desde temporadas futuras de su ciclo histórico."
+      "hito": "1979: Consolidación y ascenso a Primera División",
+      "desc": "Tras organizar el funcionamiento del plantel principal dentro del certamen de Segunda División en 1979, la institución logró establecer un sistema sólido de resultados. Jugando con su localía en La Teja, dominó el esquema y sumó una contundente racha consecutiva de victorias. Al finalizar el calendario del torneo, el equipo obtuvo los puntos necesarios en la última fecha para coronarse campeón del certamen de ascenso, garantizando el salto a la máxima categoría del fútbol uruguayo de forma definitiva."
     },
     {
-      "ano": "1989",
-      "hito": "Campeón Uruguayo de Primera",
-      "desc": "Durante la temporada del año 1989, el equipo de fútbol superó a clubes de mayor presupuesto dentro del campeonato organizado por la Asociación Uruguaya de Fútbol. El proyecto formativo funcionó bajo la presidencia institucional del Dr. Tabaré Vázquez, mientras que los entrenamientos del equipo de primera fueron conducidos por el técnico Saúl Rivero. Bajo un formato de temporada modificado que incluyó un sistema cerrado de trece fechas en una única rueda, el club completó la tabla de posiciones invicto logrando el puntaje más alto al finalizar el calendario. De este modo, Progreso reunió aritméticamente los puntos exigidos y se consolidó como Campeón Uruguayo absoluto. Esta campaña constituyó la documentación estadística del primer galardón máximo originado fuera de los equipos tradicionales centralizados habitualmente en la zona central de la ciudad de Montevideo."
+      "hito": "1989: Hazaña histórica como Campeón Uruguayo",
+      "desc": "Durante la temporada 1989, bajo la presidencia del Dr. Tabaré Vázquez y la dirección técnica de Saúl Rivero, el modesto equipo de La Teja superó a los clubes de mayor presupuesto del país. En un formato de temporada cerrado de trece fechas en única rueda, Progreso completó el calendario invicto y logró el puntaje más alto, consolidándose como Campeón Uruguayo absoluto en Primera División. Esta gesta constituyó el primer título de campeonato originado netamente fuera de la hegemonía institucional central del país."
     },
     {
-      "ano": "1990",
-      "hito": "Participación en Copa Libertadores",
-      "desc": "El título de campeonato de la temporada anterior generó la obligación de ingresar al esquema de competiciones continentales. Al confirmarse los registros en la asociación civil para el primer semestre del año 1990, la institución concretó su ingreso disputando la fase inicial de grupos de la Copa Libertadores de América. El plantel enfrentó las rondas compartiendo el esquema de cruces junto a los representantes provenientes de Perú, delegados a través de los equipos de Unión Huaral y Sporting Cristal. El conjunto uruguayo acumuló los puntos requeridos para acceder a la etapa directa de los octavos de final. En este segmento eliminatorio cruzó disputas cerradas contra el club Barcelona representativo de Ecuador, marcando su retiro participativo mediante fallos originados de tiros de definición desde el punto del penal tras igualar los juegos organizados de ambos encuentros."
+      "hito": "1990: Participación estelar en Copa Libertadores",
+      "desc": "El título de campeonato de 1989 posibilitó su estreno continental, clasificando al club a la fase de grupos de la Copa Libertadores de América de 1990. Progreso integró el cuadro junto a los representantes peruanos Unión Huaral y Sporting Cristal, además de Defensor Sporting. Tras clasificar superando la fase inicial de puntos, alcanzó la histórica etapa directa de los octavos de final. En este tramo decisivo se enfrentó ante el Barcelona de Ecuador, despidiéndose del torneo tras una dramática eliminación por tiros penales."
     }
   ],
-  "palmares": {},
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Pedro Pedrucci",
+        "pos": "Enganche",
+        "apodo": "Pedro",
+        "epoca": "1989",
+        "desc": "El arquitecto mágico del título. Orquestó desde el centro del campo la conquista del Campeonato Uruguayo de 1989 con su depurada técnica y liderazgo, inscribiendo su nombre en la leyenda de La Teja."
+      },
+      {
+        "nombre": "Johnny Miqueiro",
+        "pos": "Delantero",
+        "apodo": "Johnny",
+        "epoca": "1989",
+        "desc": "Artillero letal y verdugo absoluto en la finalísima del 89. Su instinto asesino dentro del área aseguró la vuelta olímpica que rompió para siempre la hegemonía de los gigantes."
+      },
+      {
+        "nombre": "Tabaré Vázquez",
+        "pos": "Presidente",
+        "apodo": "Tabaré",
+        "epoca": "1979-1989",
+        "desc": "El prócer institucional. Salvo al club de la bancarrota organizando peñas en el barrio, profesionalizó todas sus áreas y construyó la épica campaña que derivó en la consagración total."
+      },
+      {
+        "nombre": "Leonardo Ramos",
+        "pos": "Defensor Central",
+        "apodo": "Leo",
+        "epoca": "1989",
+        "desc": "Caudillo implacable. Su agresividad defensiva, orden y potencia en el juego aéreo fueron el cerrojo de la defensa campeona, impregnando al equipo de carácter y rudeza."
+      },
+      {
+        "nombre": "Joel Burgueño",
+        "pos": "Delantero",
+        "apodo": "Joel",
+        "epoca": "2019",
+        "desc": "Emblema moderno. Sus goles agónicos fueron el combustible necesario para lograr históricas clasificaciones y la vuelta de Progreso al plano internacional de competencias."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Johnny Miqueiro",
+        "apodo": "Johnny",
+        "goles": 42,
+        "epoca": "1985-1990",
+        "desc": "El máximo romperedes de la década dorada, certificando con su frialdad una racha goleadora insuperable en la historia moderna del club."
+      },
+      {
+        "nombre": "Julio César Dely Valdés",
+        "apodo": "El Panagol",
+        "goles": 28,
+        "epoca": "1990",
+        "desc": "Anotó goles de excelsa factura durante la aventura internacional de la Copa Libertadores, deslumbrando a toda Sudamérica."
+      },
+      {
+        "nombre": "Joel Burgueño",
+        "apodo": "Joel",
+        "goles": 25,
+        "epoca": "2019-2020",
+        "desc": "Garantizó un caudal ofensivo determinante para sostener al equipo en los primeros puestos y clasificar a certámenes Conmebol."
+      },
+      {
+        "nombre": "Federico Millacet",
+        "apodo": "Fede",
+        "goles": 20,
+        "epoca": "2018-2019",
+        "desc": "Volante picante que supo aportar definiciones acrobáticas y de media distancia para asegurar victorias en el Parque Paladino."
+      },
+      {
+        "nombre": "Alex Silva",
+        "apodo": "Alex",
+        "goles": 18,
+        "epoca": "2020",
+        "desc": "Imparable atacante que sumó una rápida y efectiva cuota de goles antes de buscar nuevos rumbos internacionales."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Carlos Canobbio",
+        "apodo": "Tano",
+        "partidos": 210,
+        "epoca": "2005-2015",
+        "desc": "Defensor de linaje e ícono del barrio, resistió en el club durante la travesía en el ascenso y en Primera, consolidándose como capitán."
+      },
+      {
+        "nombre": "Leonel Rocco",
+        "apodo": "Leo",
+        "partidos": 180,
+        "epoca": "1988-1992",
+        "desc": "Guardameta campeón y cerrojo de la historia, disputando cada encuentro de la era dorada con asombrosa solidez."
+      },
+      {
+        "nombre": "Pedro Pedrucci",
+        "apodo": "Pedro",
+        "partidos": 145,
+        "epoca": "1988-1991",
+        "desc": "Estuvo presente en todos los compromisos trascendentales de la época, demostrando enorme durabilidad técnica y táctica."
+      },
+      {
+        "nombre": "Emanuel Gularte",
+        "apodo": "Ema",
+        "partidos": 110,
+        "epoca": "2018-2020",
+        "desc": "Pilar defensivo forjado en el barrio, sumó una enorme cantidad de apariciones en la etapa de reinserción continental."
+      },
+      {
+        "nombre": "Nicola Pérez",
+        "apodo": "Nicola",
+        "partidos": 95,
+        "epoca": "2018-2020",
+        "desc": "Arquero seguro y líder vocal de la retaguardia, sumando casi un centenar de atajadas vitales y titularidad ininterrumpida."
+      }
+    ]
+  },
+  "equipacion": [
+    {
+      "desde": 1917,
+      "hasta": null,
+      "c1": "#FF0000",
+      "c2": "#FFFF00",
+      "sh": "#000000",
+      "me": "#FF0000",
+      "tipo": "rayas-verticales",
+      "desc": "Camiseta a bastones verticales alternados en rojo vivo y amarillo brillante, adoptando como referencia visual inalterable los históricos estandartes anarcosindicalistas catalanes representativos del gremio de obreros fundadores."
+    }
+  ],
   "titulos": [
     {
       "nombre": "Campeonato Uruguayo",
@@ -79,130 +199,6 @@
       "años": [
         "1985"
       ]
-    }
-  ],
-  "equipacion": [
-    {
-      "desde": 1917,
-      "hasta": null,
-      "c1": "#FFCC00",
-      "c2": "#DA291C",
-      "sh": "#000000",
-      "me": "#FFCC00",
-      "tipo": "rayas-verticales",
-      "desc": "Patrón a franjas o rayas verticales alternadas de amarillo y rojo continuo, representativos a los colores catalanes e históricos de la institución anarquista."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Pedro Pedrucci",
-      "pos": "Enganche",
-      "apodo": "Pedro",
-      "periodo": "1989",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de enganche durante el período 1989, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Leonardo Ramos",
-      "pos": "Defensor Central",
-      "apodo": "Leo",
-      "periodo": "1989-1992",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 1989-1992, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Johnny Miqueiro",
-      "pos": "Delantero",
-      "apodo": "El Goleador",
-      "periodo": "1988-1990",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1988-1990, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Julio César Dely Valdés",
-      "pos": "Delantero",
-      "apodo": "El Panameño",
-      "periodo": "1989-1992",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1989-1992, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Leandro Onetto",
-      "pos": "Mediocampista",
-      "apodo": "Lea",
-      "periodo": "2018-2020",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 2018-2020, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Johnny Miqueiro",
-      "goles": 38,
-      "partidos": 110,
-      "periodo": "1988-1990",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre 1988-1990."
-    },
-    {
-      "nombre": "Próspero Silva",
-      "goles": 35,
-      "partidos": 90,
-      "periodo": "1980s",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre 1980s."
-    },
-    {
-      "nombre": "Julio César Dely Valdés",
-      "goles": 28,
-      "partidos": 80,
-      "periodo": "1989-1992",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 28 goles en competiciones oficiales durante su trayectoria en el equipo entre 1989-1992."
-    },
-    {
-      "nombre": "Pedro Pedrucci",
-      "goles": 25,
-      "partidos": 130,
-      "periodo": "1989",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1989."
-    },
-    {
-      "nombre": "Gastón Colmán",
-      "goles": 20,
-      "partidos": 70,
-      "periodo": "2010s",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010s."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Carlos Canobbio",
-      "partidos": 150,
-      "periodo": "2000s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000s."
-    },
-    {
-      "nombre": "Pedro Pedrucci",
-      "partidos": 130,
-      "periodo": "1989",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 130 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989."
-    },
-    {
-      "nombre": "Leonardo Ramos",
-      "partidos": 120,
-      "periodo": "1989-1992",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-1992."
-    },
-    {
-      "nombre": "Johnny Miqueiro",
-      "partidos": 110,
-      "periodo": "1988-1990",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 110 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-1990."
-    },
-    {
-      "nombre": "Mathías Riquero",
-      "partidos": 100,
-      "periodo": "2010s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s."
-    }
-  ],
-  "origen_apodos": [
-    {
-      "apodo": "Gauchos del Pantanoso",
-      "origen": "El título dual combina el reconocimiento territorial del curso acuífero natural conocido catastralmente como el arroyo Pantanoso, borde limítrofe sobre el cual asienta el barrio y su complejo administrativo deportivo de La Teja. A su vez la figura folklórica 'Gaucho' fue anexada formal e institucionalmente de manera posterior en correlato a un diseño oficial impulsado y avalado internamente por líderes institucionales históricos adoptando definitivamente el personaje campestre indumentado sobre el escudo local en defensa y rescate por el origen patriota y purista oriental."
     }
   ],
   "evolucion_escudos": [],
@@ -220,5 +216,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:55.106Z"
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
+  "origen_apodos": [
+    {
+      "apodo": "Gauchos",
+      "origen": "Apelativo surgido en los orígenes del club, cuando los primeros campos de juego utilizados por la institución en la zona oeste de la capital presentaban malezas, pastos altos y características agrestes, asemejándose a las praderas donde habitaban los gauchos orientales."
+    },
+    {
+      "apodo": "Gauchos del Pantanoso",
+      "origen": "Variación geográfica del apodo original. Incorpora la referencia al arroyo Pantanoso, curso hídrico que bordea las inmediaciones del barrio La Teja y del Estadio Parque Abraham Paladino."
+    }
+  ]
 }

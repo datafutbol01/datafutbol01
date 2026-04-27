@@ -298,43 +298,39 @@ export default function ClubDetail() {
               let activeStadiums = [];
               let historicStadiums = [];
 
-              if (canchas && canchas.length > 0) {
-                let actives = canchas.filter(c => {
-                  if (c.epoca) return c.epoca.toLowerCase().includes('presente');
-                  if (c.hasta) return String(c.hasta).toLowerCase() === 'presente' || String(c.hasta).toLowerCase() === 'actualidad';
-                  if (c.estado) return c.estado.toLowerCase().includes('activ') || c.estado.toLowerCase().includes('principal') || c.estado.toLowerCase().includes('actual');
-                  if (datos && datos.estadio_actual && c.nombre.toLowerCase().includes(datos.estadio_actual.split(' ')[0].toLowerCase())) return true;
-                  return !c.hasta && !c.epoca; // Fallback for old JSONs with only one stadium and no dates
-                });
-                
-                let historics = canchas.filter(c => !actives.includes(c));
+              if (canchas && typeof canchas === 'object' && !Array.isArray(canchas)) {
+                // Nuevo formato: 5-pillar Schema (Object with 'actual' and 'viejas')
+                const extractLatLng = (gmapsUrl) => {
+                  if (!gmapsUrl) return { lat: null, lng: null };
+                  // Attempt to parse lat/lng from URL if available, else return nulls 
+                  // to show "Coordenadas no disponibles" or handle appropriately.
+                  // For now, we will assume standard coordinates or fallback.
+                  // Since we only have google_maps urls, we might not have lat/lng directly.
+                  // We'll leave them as null if they aren't provided explicitly.
+                  return { lat: null, lng: null };
+                };
 
-                if (actives.length === 0) {
-                  actives = [canchas[canchas.length - 1]];
-                  historics = canchas.slice(0, canchas.length - 1);
-                }
+                activeStadiums = canchas.actual ? [{
+                  nombre: canchas.actual.nombre,
+                  inauguracion: canchas.actual.fundacion || canchas.actual.inauguracion,
+                  direccion: canchas.actual.direccion,
+                  google_maps: canchas.actual.google_maps,
+                  historia_nombres: canchas.actual.historia_nombres,
+                  lat: canchas.actual.lat,
+                  lng: canchas.actual.lng
+                }] : [];
 
-                activeStadiums = actives.map(c => ({
+                historicStadiums = canchas.viejas ? canchas.viejas.map(c => ({
                   nombre: c.nombre,
-                  apodo: c.apodo,
-                  capacidad: c.capacidad || datos.estadio_capacidad,
-                  inauguracion: c.desde,
+                  epoca: c.epoca,
+                  inauguracion: c.fundacion || c.inauguracion,
                   direccion: c.direccion,
-                  lat: parseFloat(c.lat),
-                  lng: parseFloat(c.lng),
-                  obs: c.obs
-                }));
-
-                historicStadiums = historics.reverse().map(c => ({
-                  nombre: c.nombre,
-                  apodo: c.apodo || c.obs,
-                  inauguracion: c.desde ? `${c.desde} — ${c.hasta || ''}` : null,
-                  direccion: c.direccion,
-                  lat: parseFloat(c.lat),
-                  lng: parseFloat(c.lng),
-                  obs: c.obs
-                }));
-              } else if (datos.estadios) {
+                  google_maps: c.google_maps,
+                  historia_nombres: c.historia_nombres,
+                  lat: c.lat,
+                  lng: c.lng
+                })) : [];
+              } else if (canchas && canchas.length > 0) {
                 activeStadiums = datos.estadios.filter(e => e.condicion === 'actual').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
                 historicStadiums = datos.estadios.filter(e => e.condicion === 'historico').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));
               } else if (datos.estadio_actual) {
@@ -360,9 +356,21 @@ export default function ClubDetail() {
                       <h3 className="title-font notranslate" style={{ fontSize: '2rem', marginBottom: '1rem' }}>{estadio.nombre}</h3>
                       {estadio.apodo && <p className="notranslate" style={{ fontSize: '1.25rem', color: 'var(--accent-gold)', marginBottom: '1rem' }}>"{estadio.apodo}"</p>}
                       {estadio.capacidad && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Capacidad:</strong> {estadio.capacidad.toLocaleString()} espectadores</p>}
-                      {estadio.inauguracion && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Inauguración:</strong> {estadio.inauguracion}</p>}
+                      {estadio.inauguracion && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Fundación:</strong> {estadio.inauguracion}</p>}
                       {estadio.direccion && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Dirección:</strong> {estadio.direccion}</p>}
+                      {estadio.google_maps && <p style={{ color: 'var(--text-muted)', marginBottom: '0.5rem' }}><strong>Google Maps:</strong> <a href={estadio.google_maps} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-gold)' }}>Ver en el mapa</a></p>}
                       {estadio.obs && <p style={{ color: 'var(--text-muted)', marginTop: '1rem', lineHeight: 1.5 }}>{estadio.obs}</p>}
+                      
+                      {estadio.historia_nombres && estadio.historia_nombres.length > 0 && (
+                        <div style={{ marginTop: '1rem' }}>
+                          <strong style={{ color: 'white', display: 'block', marginBottom: '0.5rem' }}>Historia de Nombres Comerciales / Oficiales:</strong>
+                          <ul style={{ listStyleType: 'none', paddingLeft: 0, margin: 0, color: 'var(--text-muted)', fontSize: '0.9rem', display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
+                            {estadio.historia_nombres.map((hn, i) => (
+                              <li key={i}><span style={{ color: 'var(--accent-gold)' }}>{hn.epoca}</span>: {hn.nombre}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
                     </div>
                     <div style={{ height: '300px', borderRadius: '12px', overflow: 'hidden', position: 'relative' }}>
                       {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) ? (
@@ -379,8 +387,13 @@ export default function ClubDetail() {
                           </Marker>
                         </MapContainer>
                       ) : (
-                        <div style={{ height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.05)' }}>
-                          Coordenadas no disponibles
+                        <div style={{ height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.05)', flexDirection: 'column', gap: '1rem', padding: '2rem', textAlign: 'center' }}>
+                          <span style={{ color: 'var(--text-muted)' }}>Coordenadas geográficas no especificadas</span>
+                          {estadio.google_maps && (
+                            <a href={estadio.google_maps} target="_blank" rel="noopener noreferrer" style={{ background: 'rgba(255,255,255,0.1)', padding: '0.5rem 1rem', borderRadius: '8px', color: 'white', textDecoration: 'none' }}>
+                              Abrir Google Maps
+                            </a>
+                          )}
                         </div>
                       )}
                     </div>
@@ -395,12 +408,13 @@ export default function ClubDetail() {
                         <div key={`historico-new-${idx}`} className="glass-card" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column' }}>
                           <h4 className="notranslate" style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>{estadio.nombre}</h4>
                           {estadio.inauguracion && <p style={{ fontSize: '0.9rem', color: 'var(--accent-gold)', marginBottom: estadio.epoca ? '0.2rem' : '1rem' }}>
-                            Inauguración: {estadio.inauguracion}
+                            Fundación / Inauguración: {estadio.inauguracion}
                           </p>}
                           {estadio.epoca && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)', marginBottom: '1rem' }}>
                             Período de uso: {estadio.epoca}
                           </p>}
                           {estadio.direccion && <p style={{ fontSize: '0.9rem', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem' }}>📍 {estadio.direccion}</p>}
+                          {estadio.google_maps && <a href={estadio.google_maps} target="_blank" rel="noopener noreferrer" style={{ fontSize: '0.85rem', color: 'var(--accent-gold)', marginBottom: '0.5rem', display: 'inline-block' }}>Abrir en Google Maps</a>}
                           {estadio.apodo && <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.4, flex: 1 }}>{estadio.apodo}</p>}
                           
                           {(estadio.lat && estadio.lng && !isNaN(estadio.lat)) && (

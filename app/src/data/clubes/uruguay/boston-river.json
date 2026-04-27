@@ -5,9 +5,8 @@
     "nombre_corto": "Boston River",
     "sigla": "BOS",
     "fundacion": "20 de febrero de 1939",
-    "apodo": "El Sastre, Verdirrojo",
     "socios": 1500,
-    "descripcion_corta": "Entidad arraigada al barrio de Bolívar en Montevideo, modernizada como Sociedad Anónima Deportiva y consolidada en la máxima categoría durante el siglo XXI.",
+    "descripcion_corta": "Entidad originada en el barrio Bolívar de Montevideo, modernizada como Sociedad Anónima Deportiva y consolidada en la máxima categoría del fútbol profesional uruguayo durante el siglo XXI.",
     "paleta": [
       {
         "tag": "Rojo",
@@ -18,53 +17,174 @@
         "hex": "#008000"
       }
     ],
-    "records": {
-      "maximo_goleador": "Maximiliano Pérez (41 goles)",
-      "mas_presencias": "Guillermo Fratta (136 partidos)",
-      "mayor_goleada": "5-1 vs Danubio (2018)"
+    "escudo_actual": "/escudos/uruguay/boston-river/logo.png",
+    "apodos": [
+      "El Sastre",
+      "Verdirrojos"
+    ]
+  },
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Campeones Olímpicos",
+      "direccion": "Alejandro Gallinal s/n, Florida, Uruguay",
+      "google_maps": "https://maps.app.goo.gl/3V7L7FpY1b5xGj4R8",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio Campeones Olímpicos",
+          "epoca": "1932-actualidad"
+        }
+      ],
+      "fundacion": "1932"
     },
-    "estadios": [
-      {
-        "inauguracion": "1932",
-        "lat": -34.1017,
-        "capacidad": 7000,
-        "nombre": "Estadio Campeones Olímpicos",
-        "condicion": "actual",
-        "direccion": "Alejandro Gallinal s/n, Florida, Uruguay",
-        "lng": -56.2144,
-        "apodo": "Campeones Olímpicos"
-      }
-    ],
-    "escudo_actual": "/escudos/uruguay/boston-river/logo.png"
+    "viejas": []
   },
   "historia": [
     {
-      "ano": "1939",
-      "hito": "Fundación en el Barrio Bolívar",
-      "desc": "El 20 de febrero de 1939, un grupo de jóvenes vinculados al sector de la confección oficializó la creación de la entidad durante una asamblea organizativa celebrada en la Sastrería Boston, un local comercial radicado en el barrio Bolívar de Montevideo, bajo la tutela de Juan Ramos. El nombre institucional pactado fue el resultado de fusionar el sello mercantil de dicha sastrería con un homenaje directo al club argentino River Plate. A nivel estatutario, la asamblea dictaminó la utilización inalterable del color verde y rojo, fundamentado en una referencia cromática a la extinta compañía de tranvías 'La Comercial' de la capital."
+      "hito": "1939: Fundación en la Sastrería Boston",
+      "desc": "El 20 de febrero de 1939, bajo la tutela de Juan Ramos, un grupo de jóvenes vinculados a la confección oficializó la creación de la entidad durante una asamblea celebrada en la Sastrería Boston del barrio Bolívar de Montevideo. El nombre fue el resultado de fusionar el sello mercantil de la sastrería con un homenaje al club argentino River Plate. La asamblea dictaminó la utilización inalterable de los colores verde y rojo, en referencia cromática a la extinta compañía de tranvías 'La Comercial'."
     },
     {
-      "ano": "1954",
-      "hito": "Primer Título en la Órbita de AUF",
-      "desc": "Luego de integrar ligas competitivas independientes en la periferia barrial de Montevideo durante su etapa embrionaria, el equipo mayor gestionó su inscripción formal dentro de la pirámide de la Asociación Uruguaya de Fútbol. Posteriormente, en el cierre de la temporada 1954, la escuadra se adjudicó matemáticamente el campeonato absoluto de la Divisional Extra, el cual documentó el primer progreso y título oficial de la institución en el sistema de competencias oficial organizado por la federación nacional."
+      "hito": "1954: Primer campeonato oficial en la AUF",
+      "desc": "Luego de integrar ligas competitivas independientes en la periferia barrial durante su etapa embrionaria, el equipo gestionó su inscripción en la Asociación Uruguaya de Fútbol. En el cierre de la temporada 1954, la escuadra se adjudicó matemáticamente el campeonato absoluto de la Divisional Extra, el cual documentó el primer progreso y título oficial de la institución en el sistema de competencias organizado por la federación nacional."
     },
     {
-      "ano": "2006",
-      "hito": "Reconversión a Sociedad Anónima (SAD)",
-      "desc": "Confrontando un pronunciado estancamiento deportivo y económico acumulado durante el final del pasado siglo, los directivos y dueños avalaron por medio de una junta ejecutiva la transformación registral del esquema estructural civil, reconvirtiendo operativamente la administración bajo figura de Sociedad Anónima Deportiva (SAD). Esta maniobra corporativa permitió inyectar el capital financiero indispensable para profesionalizar los contratos de los futbolistas y asegurar la sostenibilidad institucional para lograr mantener la categoría de la Segunda División Profesional."
+      "hito": "2006: Reconversión a Sociedad Anónima Deportiva",
+      "desc": "Confrontando un pronunciado estancamiento económico acumulado durante el final del siglo XX, los directivos avalaron la transformación del esquema civil tradicional reconvirtiendo operativamente la administración a la figura de Sociedad Anónima Deportiva (SAD). Esta maniobra corporativa permitió inyectar capital financiero para profesionalizar los contratos del plantel y asegurar la sostenibilidad institucional."
     },
     {
-      "ano": "2016",
-      "hito": "El Inédito Ascenso a la Élite",
-      "desc": "En el marco del Campeonato Uruguayo de Segunda División de la temporada 2015-2016, y bajo el rigor táctico del entrenador titular Alejandro Apud, el cuerpo técnico consolidó una de las campañas más regulares en los registros del circuito. Durante los tramos finales del calendario, el equipo aseguró el ascenso directo y definitivo a la Primera División del fútbol uruguayo por primera ocasión en sus setenta y siete años de cronología deportiva tras sobrepasar positivamente a Cerro Largo."
+      "hito": "2016: El inédito ascenso a la élite",
+      "desc": "En el marco del Campeonato Uruguayo de Segunda División de la temporada 2015-2016, y bajo el rigor táctico del entrenador Alejandro Apud, el cuerpo técnico consolidó una campaña histórica. Durante los tramos finales del calendario, el equipo aseguró el ascenso directo a la Primera División del fútbol uruguayo por primera ocasión en sus 77 años de cronología deportiva, tras superar en puntos a Cerro Largo."
     },
     {
-      "ano": "2017",
-      "hito": "Expansión Continental bajo Regulación Conmebol",
-      "desc": "Transcurrida su temporada de debut orgánico logístico en la máxima categoría dentro del Campeonato Uruguayo Especial de 2016, el primer equipo acumuló el coeficiente de puntos obligatorios para sellar la clasificación oficial al tablado central de la Copa Sudamericana 2017. En esta irrupción oficial dentro de una organización transoceánica regida por Conmebol, el equipo aprobó su serie de estreno superando de forma global en los partidos de ida y vuelta a la institución Comerciantes Unidos de Perú."
+      "hito": "2017: Clasificación y debut internacional",
+      "desc": "Transcurrida su temporada de debut en la máxima categoría durante el Campeonato Uruguayo Especial de 2016, el primer equipo acumuló el coeficiente obligatorio para sellar su clasificación a la Copa Sudamericana 2017. En su irrupción en torneos de la Conmebol, el equipo aprobó con éxito su serie de estreno superando de forma global a la institución peruana Comerciantes Unidos."
     }
   ],
-  "palmares": {},
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Ronald Araújo",
+        "pos": "Defensor Central",
+        "apodo": "Ronald",
+        "epoca": "2017-2018",
+        "desc": "El diamante más valioso exportado por el Sastre. Su imponente presencia física y liderazgo maduro en la zaga central deslumbraron a Europa, marcando el hito financiero del club."
+      },
+      {
+        "nombre": "Guillermo Fratta",
+        "pos": "Defensor Central",
+        "apodo": "Guille",
+        "epoca": "2016-2020",
+        "desc": "Muralla inquebrantable de la defensa y amenaza constante en el juego aéreo rival. Su cabezazo histórico cimentó el poderío de la institución en Primera División."
+      },
+      {
+        "nombre": "Diego Gurri",
+        "pos": "Enganche",
+        "apodo": "Diego",
+        "epoca": "2015-2018",
+        "desc": "Dueño absoluto de la pelota parada y organizador táctico del ascenso. Anotó el magistral tiro libre que consolidó el primer viaje intercontinental a torneos de Conmebol."
+      },
+      {
+        "nombre": "Federico Rodríguez",
+        "pos": "Delantero",
+        "apodo": "Fede",
+        "epoca": "2016-2017",
+        "desc": "Atacante implacable y resolutivo, encargado de certificar las históricas campañas ofensivas durante los primeros años en la máxima categoría."
+      },
+      {
+        "nombre": "Alejandro Apud",
+        "pos": "Entrenador",
+        "apodo": "Turco",
+        "epoca": "2016-2018",
+        "desc": "El estratega arquitecto del ascenso. Condujo la nave a la Primera División y clasificó al club a su primera Copa Sudamericana, instaurando una mentalidad ganadora absoluta."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Federico Rodríguez",
+        "apodo": "Fede",
+        "goles": 22,
+        "epoca": "2016-2017",
+        "desc": "Puntería afinada y frialdad letal, sus tantos catapultaron al equipo a escenarios de protagonismo en su debut en Primera."
+      },
+      {
+        "nombre": "Facundo Rodríguez",
+        "apodo": "Facu",
+        "goles": 18,
+        "epoca": "2017-2018",
+        "desc": "Aportó enorme volumen de ataque y definición certera, consolidando la cuota goleadora de la escuadra en campañas cruciales."
+      },
+      {
+        "nombre": "Guillermo Fratta",
+        "apodo": "Guille",
+        "goles": 15,
+        "epoca": "2016-2020",
+        "desc": "Excepcional capacidad ofensiva para un zaguero, convirtiéndose en el rey del gol de cabeza en córners y tiros libres."
+      },
+      {
+        "nombre": "Ruben Olivera",
+        "apodo": "Pollo",
+        "goles": 14,
+        "epoca": "2017-2018",
+        "desc": "Retornado de Europa, demostró una inmensa jerarquía y anotó tantos de fenomenal factura estética."
+      },
+      {
+        "nombre": "Diego Gurri",
+        "apodo": "Diego",
+        "goles": 12,
+        "epoca": "2015-2018",
+        "desc": "Goles fundamentales para el ascenso y la mantención, casi todos provenientes de espectaculares cobros a balón parado."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Guillermo Fratta",
+        "apodo": "Guille",
+        "partidos": 135,
+        "epoca": "2016-2020",
+        "desc": "Símbolo ineludible en el campo, asegurando consistencia y capitanía a lo largo de varias temporadas ininterrumpidas."
+      },
+      {
+        "nombre": "Diego Scotti",
+        "apodo": "Diego",
+        "partidos": 110,
+        "epoca": "2016-2018",
+        "desc": "Volante de incansable trajinar que impuso orden y respeto en la medular durante los años fundacionales de élite."
+      },
+      {
+        "nombre": "Enrique Etcheverry",
+        "apodo": "Quique",
+        "partidos": 95,
+        "epoca": "2016-2019",
+        "desc": "Lateral rápido y disciplinado, siendo el comodín defensivo ideal para sostener el esquema táctico sastre."
+      },
+      {
+        "nombre": "Robert Flores",
+        "apodo": "Robert",
+        "partidos": 90,
+        "epoca": "2016-2019",
+        "desc": "Cerebro exquisito y paciente, manejó los hilos del equipo sumando una extensa cantidad de titularidades."
+      },
+      {
+        "nombre": "Gonzalo Falcón",
+        "apodo": "Gonzalo",
+        "partidos": 85,
+        "epoca": "2018-2020",
+        "desc": "Arquero seguro de formidables reflejos, garantizando una valla invicta en numerosos encuentros claves por el campeonato doméstico."
+      }
+    ]
+  },
+  "equipacion": [
+    {
+      "desde": 1939,
+      "hasta": null,
+      "c1": "#E30613",
+      "c2": "#008000",
+      "sh": "#FFFFFF",
+      "me": "#008000",
+      "tipo": "banda-diagonal",
+      "desc": "Camiseta dividida por una banda diagonal o una mitad vertical que emplea estrictamente los colores verde oscuro y rojo vivo. Estos colores son herencia directa de la compañía de tranvías La Comercial."
+    }
+  ],
   "titulos": [
     {
       "nombre": "Segunda División Amateur / Liga Metropolitana",
@@ -72,130 +192,6 @@
       "años": [
         "2006"
       ]
-    }
-  ],
-  "equipacion": [
-    {
-      "desde": 1939,
-      "hasta": null,
-      "c1": "#DA291C",
-      "c2": "#00A859",
-      "sh": "#FFFFFF",
-      "me": "#00A859",
-      "tipo": "franja-vertical",
-      "desc": "El equipo se identifica mediante un formato de banda diagonal o a veces mitad vertical ancha empleando los colores verde y rojo."
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Ronald Araújo",
-      "pos": "Defensor Central",
-      "apodo": "Ronnie",
-      "periodo": "2017-2018",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 2017-2018, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Carlos Valdez",
-      "pos": "Defensor Central",
-      "apodo": "El Hormiga",
-      "periodo": "2017-2022",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central durante el período 2017-2022, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Guillermo Fratta",
-      "pos": "Defensor",
-      "apodo": "Guille",
-      "periodo": "2016-2020",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor durante el período 2016-2020, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "Facundo Rodríguez",
-      "pos": "Delantero",
-      "apodo": "Facu",
-      "periodo": "2016-2019",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 2016-2019, consolidándose como uno de los futbolistas más representativos del equipo."
-    },
-    {
-      "nombre": "José Alberti",
-      "pos": "Mediocampista Central",
-      "apodo": "Josema",
-      "periodo": "2018-2022",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista central durante el período 2018-2022, consolidándose como uno de los futbolistas más representativos del equipo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Facundo Rodríguez",
-      "goles": 22,
-      "partidos": 80,
-      "periodo": "2016-2019",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2019."
-    },
-    {
-      "nombre": "Diego Gurri",
-      "goles": 19,
-      "partidos": 100,
-      "periodo": "2015-2019",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 19 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2019."
-    },
-    {
-      "nombre": "Bruno Foliados",
-      "goles": 17,
-      "partidos": 75,
-      "periodo": "2016-2018",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 17 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2018."
-    },
-    {
-      "nombre": "Cristian Olivera",
-      "goles": 15,
-      "partidos": 50,
-      "periodo": "2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 15 goles en competiciones oficiales durante su trayectoria en el equipo entre 2022."
-    },
-    {
-      "nombre": "Alexander Machado",
-      "goles": 12,
-      "partidos": 45,
-      "periodo": "2020-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 12 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "José Alberti",
-      "partidos": 135,
-      "periodo": "2018-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 135 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2022."
-    },
-    {
-      "nombre": "Carlos Valdez",
-      "partidos": 120,
-      "periodo": "2017-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 120 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2022."
-    },
-    {
-      "nombre": "Guillermo Fratta",
-      "partidos": 110,
-      "periodo": "2016-2020",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 110 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2020."
-    },
-    {
-      "nombre": "Diego Gurri",
-      "partidos": 100,
-      "periodo": "2015-2019",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 100 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-2019."
-    },
-    {
-      "nombre": "Pablo Álvarez",
-      "partidos": 95,
-      "periodo": "2016-2020",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 95 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2020."
-    }
-  ],
-  "origen_apodos": [
-    {
-      "apodo": "El Sastre",
-      "origen": "Acuñado en derivación explícita sobre el primer esponsor oficial y patrón logístico comercial de los organizadores fundacionales original: una modesta entidad de corte y confección artesanal comercial llamada formalmente Sastrería Boston, perteneciente directamente y con total plenitud dominial a uno de los ideológos iniciales fundadores y responsables administrativos Juan Gaspari, origen que delineó y rotuló su historia."
     }
   ],
   "evolucion_escudos": [],
@@ -207,5 +203,15 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:53.545Z"
+  "ultima_actualizacion": "2026-04-27T18:00:00.000Z",
+  "origen_apodos": [
+    {
+      "apodo": "El Sastre",
+      "origen": "Vinculado directamente con su origen fundacional en el barrio Bolívar. Los primeros socios y miembros creadores del club eran sastres vinculados a una sedería homónima propiedad de un ciudadano argentino, estableciendo este oficio como el sello eterno del club."
+    },
+    {
+      "apodo": "Verdirrojos",
+      "origen": "Término descriptivo y cromático empleado para abreviar la dupla inalterable de colores oficiales de la camiseta: el verde y el rojo."
+    }
+  ]
 }
