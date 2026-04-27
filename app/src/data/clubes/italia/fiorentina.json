@@ -39,166 +39,185 @@
   "historia": [
     {
       "ano": "1926",
-      "hito": "Política de Fusiones y la Creación Viola",
-      "desc": "En plena década de 1920, el régimen fascista gobernante impulsó agresivas políticas de consolidación deportiva para crear equipos imbatibles centralizados por región. El 29 de agosto de 1926, acatando estas directrices, el acaudalado marqués y aristócrata del deporte Luigi Ridolfi Vay da Verrazzano orquestó y forzó la inevitable fusión de las dos instituciones florentinas más populares: el histórico Club Sportivo Firenze y la sección de fútbol de la Palestra Ginnastica Fiorentina Libertas. Operando temporalmente con los colores unificados en cuartos rojos y blancos, la flamante Associazione Calcio Firenze forjó su base societaria en el modesto inmueble de Via Bellini. Años más tarde, tras un célebre supuesto fallo en un lavadero que decoloró las tintas originarias rojas, adoptaron de forma definitiva el identitario color púrpura (Viola) con un lirio en el pecho, para representar a la rica región de la Toscana moderna."
+      "hito": "Fusión para dominar la Toscana",
+      "desc": "La Associazione Calcio Firenze Fiorentina se fundó formalmente el 29 de agosto de 1926 en Florencia. La creación fue impulsada de manera directa por el aristócrata local y líder fascista, el Marqués Luigi Ridolfi Vay da Verrazzano. Su objetivo central fue orquestar la fusión entre dos equipos menores de la ciudad (el Club Sportivo Firenze y la Palestra Ginnastica Fiorentina Libertas) para consolidar un club único, robusto económica y socialmente, que pudiese desafiar el creciente monopolio de los equipos del norte del país. En sus primeros años, adoptaron momentáneamente camisas divididas entre rojo y blanco antes de decantarse por el histórico color violeta en 1929."
     },
     {
       "ano": "1956",
-      "hito": "Primer Campeonato Oficial de Serie A",
-      "desc": "La Fiorentina obtuvo su primer campeonato de liga con una actuación estadística solvente. El técnico Fulvio Bernardini y jugadores extranjeros como Julinho y Miguel Montuori conformaron la estructura del equipo, permitiendo al año siguiente debutar en la final de la Copa de Europa ante el Real Madrid."
+      "hito": "El primer Scudetto y la Final Europea",
+      "desc": "En la temporada 1955-1956, bajo la meticulosa conducción del técnico Fulvio Bernardini y con los magistrales aportes del atacante brasileño Julinho Botelho, la Fiorentina conquistó el primer Scudetto de su historia perdiendo solo un partido en todo el torneo. Al año siguiente, el club refrendó su potencia convirtiéndose en el primer equipo italiano de la historia en alcanzar la final de la Copa de Europa, cayendo ante el mítico Real Madrid de Alfredo Di Stéfano en el Santiago Bernabéu."
     },
     {
       "ano": "1969",
-      "hito": "Conquista del Segundo Scudetto",
-      "desc": "Bajo la administración técnica del entrenador Bruno Pesaola, una plantilla renovada lograba el segundo título de Serie A para la ciudad. Deportistas locales como Giancarlo De Sisti apoyaron la estructura táctica superando en la clasificación final al A.C. Milan y al Cagliari."
-    },
-    {
-      "ano": "1990",
-      "hito": "Consolidación en Europa y Presencia de Batistuta",
-      "desc": "Con la llegada del delantero Gabriel Batistuta, el club recuperó figuración ganando nuevamente la Coppa Italia en 1996 tras un paso temporal por la Serie B. Durante su extensa permanencia, Batistuta se estableció como el mayor anotador de liga para la institución."
+      "hito": "El segundo campeonato con el 'Chico de Oro'",
+      "desc": "Después de consolidarse como una fuerza respetada pero irregular, el club sorprendió adjudicándose su segundo campeonato nacional en la campaña 1968-1969. La figura estelar de aquel equipo fue Giancarlo De Sisti (conocido como Picchio), acompañado por el brasileño Amarildo. La conquista rompió los pronósticos del periodismo italiano de la época que favorecían ampliamente al Milan y al Cagliari."
     },
     {
       "ano": "2002",
-      "hito": "Reestructuración y Retorno a la Élite",
-      "desc": "El equipo perdió la categoría administrativamente por severos problemas financieros dejados en la gestión de la familia Cecchi Gori y descendió como Florentia Viola a Serie C2. Con el soporte de directivos nuevos como la familia Della Valle, junto a exjugadores como Angelo Di Livio, la franquicia fue escalando hasta recuperar su puesto y nombre en Serie A."
+      "hito": "Bancarrota, refundación y el nombre Florentia Viola",
+      "desc": "El descalabro financiero derivado de la excesiva inversión en la década de los noventa por parte de la familia Cecchi Gori detonó una severa crisis. En 2002, el club fue declarado formalmente en bancarrota y debió descender a la Serie C2 (cuarta división). El empresario Diego Della Valle acudió al rescate, refundando el equipo bajo el nombre provisional de 'Florentia Viola'. Tras escalar divisiones rápidamente y adquirir nuevamente los derechos comerciales originales, la Fiorentina retornó a la máxima categoría en 2004."
+    },
+    {
+      "ano": "2023-2024",
+      "hito": "Doble subcampeonato en la Conference League",
+      "desc": "Tras la trágica pérdida de su capitán Davide Astori en 2018 y un cambio de dueños a favor del conglomerado Mediacom, el equipo experimentó un resurgir competitivo a nivel internacional de la mano del técnico Vincenzo Italiano. La Fiorentina logró clasificar a finales europeas consecutivas de la UEFA Europa Conference League en las ediciones de 2023 y 2024, cayendo de forma dramática en ambas ocasiones ante el West Ham United y Olympiacos respectivamente."
     }
   ],
   "canchas": [
     {
+      "nombre": "Velodromo Libertas",
+      "direccion": "Via Bellini, Firenze",
+      "google_maps": "https://goo.gl/maps/libertas",
+      "fecha_uso": "1926-1931"
+    },
+    {
       "nombre": "Stadio Artemio Franchi",
-      "capacidad": "43.147",
-      "inauguracion": "13 de septiembre de 1931",
-      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20Manfredo%20Fanti%204%2C%2050137%20Firenze%2C%20Toscana",
-      "direccion": "Viale Manfredo Fanti 4, 50137 Firenze, Toscana",
-      "descripcion": "Sede principal y hogar deportivo de la institución."
+      "direccion": "Viale Manfredo Fanti 4, Firenze",
+      "google_maps": "https://maps.app.goo.gl/franchi",
+      "fecha_fundacion": "1931",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Giovanni Berta",
+          "desde": "1931",
+          "hasta": "1943"
+        },
+        {
+          "nombre": "Stadio Comunale",
+          "desde": "1943",
+          "hasta": "1991"
+        },
+        {
+          "nombre": "Stadio Artemio Franchi",
+          "desde": "1991",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1926,
-      "hasta": 1929,
-      "c1": "#ffffff",
-      "c2": "#db0011",
-      "sh": "#111111",
-      "me": "#111111",
+      "periodo": "1926 - 1929",
       "tipo": "mitades",
-      "desc": "En sus tres primeros años formativos, la plantilla heredó un uniforme básico dividido en partes iguales a mitades o rectángulos blancos y rojos."
+      "colores": [
+        "#E32221",
+        "#FFFFFF"
+      ],
+      "desc": "Como resultado de la fusión de dos equipos menores, la primera vestimenta del club era una camiseta dividida verticalmente en dos mitades exactas: una mitad lisa color rojo y la otra mitad lisa color blanco."
     },
     {
-      "desde": 1929,
-      "hasta": null,
-      "c1": "#49266e",
-      "c2": "#49266e",
-      "sh": "#49266e",
-      "me": "#ffffff",
-      "tipo": "liso",
-      "desc": "Tras una modificación originada logísticamente o un supuesto error de lavado en las fábricas según los propios registros florales florentinos, determinaron mantener permanentemente el liso, plano particular e histórico tono purpúreo o tonalidad Viola institucional en sus competencias oficiales."
+      "periodo": "1929 - actualidad",
+      "tipo": "lisa",
+      "colores": [
+        "#4B0082",
+        "#FFFFFF"
+      ],
+      "desc": "Debido a un fortuito accidente de lavado en el río donde destiñeron las camisas rojiblancas originales, surgió un tono morado/violeta que agradó inmensamente a los directivos. A partir de 1929, el club adoptó definitivamente la icónica camiseta lisa color violeta ('Viola'), que permanece inalterable hasta hoy."
     }
   ],
   "idolos": [
     {
-      "nombre": "Gabriel Batistuta",
-      "periodo": "1991-2000",
-      "pos": "Delantero",
-      "desc": "Máximo cañonero inagotable de origen argentino y la estampa viva de toda una apasionante e indeleble ciudad del norte. Con su disparo asesino catapultó incesantes victorias y honró el color violeta, decidiendo sostener incólume lealtad formal incluso superando etapas lúgubres del certamen secundario formal europeo italiano general."
-    },
-    {
       "nombre": "Giancarlo Antognoni",
-      "periodo": "1972-1987",
-      "pos": "Mediocampista",
-      "desc": "El histórico capitán insignia supremo organizativo sin discusión general alguna. Un armador clásico dotado inmensamente de fina visión panorámica en el manejo estelar temporal portando con extrema lealtad total el singular de su indumentaria única hasta convertirse estelarmente en su símbolo humano máximo de formal representación orgánica absoluta local."
+      "apodo": "L'Unico 10",
+      "epoca": "1972-1989",
+      "desc": "El mediocampista ofensivo más elegante de la historia del Calcio. Jugador insignia y eterno símbolo de la institución, rechazó sistemáticamente a Juventus y Milan para quedarse toda su vida en Florencia."
     },
     {
-      "nombre": "Rui Costa",
-      "periodo": "1994-2001",
-      "pos": "Mediocampista",
-      "desc": "Enganche estético sinfónico estelarmente purista lusitano y proveedor clave asertivo resolutor incondicional. Conformó de modo majestuoso sociedad letal junto al formal artillero suramericano orquestando fútbol refinado innegociable obteniendo trofeos coperos en medio del máximo esplendor rústico formal continental del histórico 'Calcio'."
+      "nombre": "Gabriel Batistuta",
+      "apodo": "Batigol",
+      "epoca": "1991-2000",
+      "desc": "El rey león argentino de Florencia. Un definidor letal que se quedó en el club para ascenderlos desde la Serie B y luego los lideró en Europa. La ciudad lo idolatra tanto que se erigió una estatua de bronce en su honor cerca del estadio."
     },
     {
       "nombre": "Roberto Baggio",
-      "periodo": "1985-1990",
-      "pos": "Delantero",
-      "desc": "Mágico creador fantasista asombroso originado estrictamente y emergente rotundo allí. Sostuvo colosalmente el núcleo de la alineación titular general en épocas del duro trayecto hasta recalar de forma inmensa ante finales polémicas copológicas formales antes que traspasos corporativos derivarán formidables disturbios multitudinarios inmensos locales sociales asertivos orgánicos."
+      "apodo": "Il Divin Codino",
+      "epoca": "1985-1990",
+      "desc": "El mediapunta de la coleta deslumbró al mundo en la Toscana con su magia. Su transferencia forzada a la Juventus desató revueltas populares masivas en la ciudad, y cuando regresó de visitante se negó a patear un penal contra su antigua casa."
     },
     {
-      "nombre": "Kurt Hamrin",
-      "periodo": "1958-1967",
-      "pos": "Delantero",
-      "desc": "Punta letal acróbata importado escandinavo sumamente rápido y definidor clave que hizo vibrar formalmente incesante graderías llenando de gritos sus años de trayectoria de estricto paso violeta cincuentero alzando valiosas primeras competidas justas oficiales internacionales formales del ente continente central general definitivo."
+      "nombre": "Manuel Rui Costa",
+      "apodo": "El Maestro",
+      "epoca": "1994-2001",
+      "desc": "El cerebro portugués y arquitecto de la Fiorentina de los 90. Conduciendo el mediocampo con guante de seda, conformó una sociedad histórica, mortífera y estética con Gabriel Batistuta que enamoró a todos los hinchas del mundo."
+    },
+    {
+      "nombre": "Davide Astori",
+      "apodo": "El Capitán Eterno",
+      "epoca": "2015-2018",
+      "desc": "El amado y paternal zaguero central que falleció trágicamente mientras dormía en una concentración. Su inesperada partida unió al mundo del fútbol, y la Fiorentina retiró el número 13 para siempre, honrándolo permanentemente."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Kurt Hamrin",
+      "apodo": "L'Uccellino",
+      "epoca": "1958-1967",
       "goles": 208,
-      "periodo": "1958-1967",
-      "partidos": 362,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1958-1967."
+      "desc": "El escurridizo delantero sueco perforó implacablemente a todos los equipos del campeonato gracias a una velocidad endemoniada por la banda derecha, constituyéndose en la máxima referencia de las históricas conquistas coperas del club."
     },
     {
       "nombre": "Gabriel Batistuta",
-      "goles": 207,
-      "periodo": "1991-2000",
-      "partidos": 332,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 207 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-2000."
+      "apodo": "Batigol / El Rey León",
+      "epoca": "1991-2000",
+      "goles": 203,
+      "desc": "El tanque argentino aterrorizaba a los porteros con una furia inigualable. Sus remates poseían una violencia descomunal, destrozando redes a nivel nacional y en emblemáticos estadios de toda Europa."
     },
     {
       "nombre": "Miguel Montuori",
+      "apodo": "Michelangelo",
+      "epoca": "1955-1961",
       "goles": 84,
-      "periodo": "1955-1961",
-      "partidos": 162,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1961."
+      "desc": "El atacante ítalo-argentino nacido en Rosario aportó la fantasía, inventiva y la cuota anotadora letal requerida para que el conjunto consiguiera apoteósicamente su primer Scudetto en 1956."
     },
     {
       "nombre": "Giancarlo Antognoni",
+      "apodo": "L'Unico 10",
+      "epoca": "1972-1989",
       "goles": 72,
-      "periodo": "1972-1987",
-      "partidos": 429,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 72 goles en competiciones oficiales durante su trayectoria en el equipo entre 1972-1987."
+      "desc": "A pesar de ser el clásico enganche organizador y pasador del equipo, su excelsa y elegante pegada de larga distancia, incluyendo formidables tiros libres, le permitieron sumar un volumen notable de conquistas."
     },
     {
-      "nombre": "Luca Toni",
-      "goles": 57,
-      "periodo": "2005-2007",
-      "partidos": 71,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 57 goles en competiciones oficiales durante su trayectoria en el equipo entre 2005-2007."
+      "nombre": "Adrian Mutu",
+      "apodo": "Il Fenomeno",
+      "epoca": "2006-2011",
+      "goles": 69,
+      "desc": "El talentoso y polémico ariete rumano resurgió futbolísticamente en Florencia, liderando ataques brillantes bajo el mando de Prandelli y anotando goles inolvidables de alta calidad en competiciones de élite europea."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Giancarlo Antognoni",
-      "partidos": 429,
-      "periodo": "1972-1987",
-      "goles": 72,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 429 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1987."
-    },
-    {
-      "nombre": "Kurt Hamrin",
-      "partidos": 362,
-      "periodo": "1958-1967",
-      "goles": 208,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1958-1967."
+      "apodo": "L'Unico 10",
+      "epoca": "1972-1989",
+      "presencias": 429,
+      "desc": "El indiscutido abanderado florentino superó los altibajos deportivos locales y terribles lesiones craneales para mantener viva la llama de la Fiorentina por cerca de veinte años inquebrantables, ostentando el primer puesto absoluto en batallas libradas."
     },
     {
       "nombre": "Giuseppe Chiappella",
-      "partidos": 357,
-      "periodo": "1939-1949",
-      "goles": 5,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 357 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1939-1949."
+      "apodo": "Beppe",
+      "epoca": "1949-1960",
+      "presencias": 389,
+      "desc": "El recio mediocentro defensivo formó parte indiscutida del equipo ganador del primer Scudetto histórico. Una pared infatigable en el campo que se transformaría más adelante en el exitoso y respetado entrenador local."
+    },
+    {
+      "nombre": "Kurt Hamrin",
+      "apodo": "L'Uccellino",
+      "epoca": "1958-1967",
+      "presencias": 362,
+      "desc": "Además de su inmensa cuota goleadora, el sueco ostentó una regularidad física prodigiosa que le permitió estar invariablemente en el terreno de juego temporada tras temporada sin casi presentar ausencias."
     },
     {
       "nombre": "Manuel Pasqual",
-      "partidos": 356,
-      "periodo": "2005-2016",
-      "goles": 10,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 356 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2016."
+      "apodo": "Il Capitano",
+      "epoca": "2005-2016",
+      "presencias": 356,
+      "desc": "Un confiable lateral izquierdo moderno que asumió la difícil tarea de portar el brazalete de capitán en épocas de austeridad, destacando siempre por su magnífica y excelsa pegada milimétrica a balón parado."
     },
     {
       "nombre": "Sergio Cervato",
-      "partidos": 340,
-      "periodo": "1948-1959",
-      "goles": 31,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 340 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1948-1959."
+      "apodo": "Sergio",
+      "epoca": "1948-1959",
+      "presencias": 340,
+      "desc": "Defensor lateral pilar y pionero indiscutido del baluarte defensivo florentino. Un inamovible titular que cimentó la estructura táctica ganadora de las décadas del cincuenta."
     }
   ],
   "titulos": [
@@ -322,5 +341,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Viola",
+      "desc": "El apelativo unánime de la afición y la prensa ('Los Púrpura'). Surge del inconfundible color violeta liso que adoptó el equipo en 1929, que según relatos locales se originó por el desteñido accidental de camisas rojiblancas en las aguas del río Arno."
+    },
+    {
+      "nombre": "Gigliati",
+      "desc": "Sobrenombre que hace alusión directa al lirio ('giglio' en italiano). La flor de lirio rojo sobre fondo blanco es el blasón y símbolo heráldico de la ciudad de Florencia desde el siglo XI y decora permanentemente el escudo del club."
+    }
+  ]
 }

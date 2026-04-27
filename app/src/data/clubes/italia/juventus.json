@@ -39,166 +39,192 @@
   "historia": [
     {
       "ano": "1897",
-      "hito": "Jóvenes, Turin y el Banco del Umberto",
-      "desc": "La semilla del club más laureado a nivel nacional de Italia germinó sorpresivamente desde las simples interacciones adolescentes a finales del siglo XIX frente al escenario de la bella D'Azeglio. El primero de noviembre de 1897, sentados casualmente en el ya legendario e histórico banco de madera que adornaba el antiguo paseo arbolado del Corso Re Umberto de Turín, un grupo formal de catorce eruditos estudiantes y cadetes liderados por los inmortales hermanos Eugenio y Enrico Canfari decidieron organizarse estatutariamente fundando el Sport Club Juventus. Adoptaron inicialmente vistosas e inexactas camisetas informales de tonos rosa salmón abrochadas con pajarita, hasta el arribo años después de las famosas rayas blanquinegras provistas formalmente e importadas textualmente del equipo inglés Notts County, para afianzar el poder central."
+      "hito": "Fundación estudiantil en un banco de Turín",
+      "desc": "El 1 de noviembre de 1897, un grupo de jóvenes estudiantes del prestigioso Liceo Classico Massimo d'Azeglio se reunió en un banco del Corso Re Umberto de Turín con la intención de formar un club deportivo. Liderados por los hermanos Eugenio y Enrico Canfari, el objetivo principal de la institución era fomentar la actividad física (incluyendo atletismo y ciclismo) entre los jóvenes de la ciudad. Bautizaron a la entidad como 'Sport-Club Juventus' (término en latín que significa juventud), adoptando inicialmente una camisa rosa con corbata negra antes del histórico cambio a las rayas bianconeras en 1903."
     },
     {
-      "ano": "1930",
-      "hito": "Récord Nacional de Títulos en Piamonte",
-      "desc": "Sostenido mediante vinculaciones tempranas con la gestión industrial de la familia Fiat (Agnelli), el club comenzó la secuencia de registros al estipular estadísticamente el primer 'Quinquennio d'Oro'. Revalidaron la liga local cinco años seguidos y proveyeron la mayor cantidad de integrantes a las plantillas campeonas de la Selección Italiana prebélica."
+      "ano": "1930-1935",
+      "hito": "El Quinquenio de Oro",
+      "desc": "La primera gran dinastía del fútbol italiano. Bajo el mando del entrenador Carlo Carcano y con la influencia dirigencial del presidente Edoardo Agnelli (familia fundadora de FIAT), la Juventus conquistó cinco campeonatos de Serie A consecutivos. Este bloque, repleto de talentos como Raimundo Orsi, Luis Monti y Renato Cesarini, no solo dominó el país, sino que formó la columna vertebral de la Selección Italiana campeona del mundo en 1934."
     },
     {
       "ano": "1985",
-      "hito": "Primera Consagración Europea y Tragedia Operativa",
-      "desc": "Organizado liderado por el internacional Michel Platini y dirigido por Trapattoni, la Juventus derrotó 1-0 al Liverpool gracias al gol de su mediocampista. El trofeo, la Liga de Campeones, fue obtenido en el estadio belga Heysel marcado por el fallecimiento masivo de hinchas italianos frente al hundimiento de la estructura y acciones extra-deportivas."
+      "hito": "La conquista continental manchada por la tragedia",
+      "desc": "El 29 de mayo de 1985, la Juventus de Giovanni Trapattoni y Michel Platini alcanzó la cima de Europa al vencer al Liverpool por 1-0 en el estadio Heysel de Bruselas, logrando su primera Copa de Europa. Sin embargo, el triunfo deportivo quedó ensombrecido permanentemente por la Tragedia de Heysel, donde 39 aficionados perdieron la vida antes del inicio del encuentro a causa de una avalancha provocada por hooligans ingleses, marcando una de las horas más lúgubres del fútbol."
     },
     {
-      "ano": "2006",
-      "hito": "Procesos Disciplinarios Extradeportivos y Retorno a Serie A",
-      "desc": "Un análisis realizado a las relaciones directivas del calcio (Calciopoli) decretó la retroactividad de campeonatos asignados y estableció forzosamente la relegación disciplinaria a la Serie B por un año. Reforzados en los líderes Gianluigi Buffon o Alessandro Del Piero que se mantuvieron dentro de los registros, completaron la primera categoría a la temporada siguiente."
+      "ano": "1996",
+      "hito": "La segunda Copa de Europa en Roma",
+      "desc": "Dirigidos por Marcello Lippi, un equipo caracterizado por una intensidad física implacable y el liderazgo ofensivo de Alessandro Del Piero y Gianluca Vialli conquistó la segunda Liga de Campeones del club. En la final disputada en el Estadio Olímpico de Roma, empataron 1-1 frente al talentoso Ajax de Ámsterdam, imponiéndose finalmente por 4-2 en una dramática tanda de penales."
     },
     {
-      "ano": "2012",
-      "hito": "Aprobación Sistemática Constante (9 Scudettos Logrados)",
-      "desc": "Bajo la asistencia directiva primero de Antonio Conte y seguidamente de Massimiliano Allegri, el conjunto inició un modelo rotundo de eficacia posicional nacional. Confirmó, estructurando varias formaciones con cambios en la zaga o sistema ofensivo, el mayor periodo de victorias sucesivas finalizando en nueve entorchados de Serie A oficiales en cadena."
+      "ano": "2006-2012",
+      "hito": "El descenso, Calciopoli y el renacimiento",
+      "desc": "En 2006, la institución sufrió el golpe institucional más duro de su historia al ser descendida administrativamente a la Serie B tras el escándalo de arreglos arbitrales conocido como 'Calciopoli', siéndole revocados dos títulos de liga. Impulsados por la lealtad de figuras icónicas como Buffon, Del Piero y Nedved, el club ascendió inmediatamente. La redención definitiva llegó en la temporada 2011-2012, cuando inauguraron su nuevo Juventus Stadium y conquistaron la Serie A de forma invicta bajo la tutela de Antonio Conte, dando inicio a una racha récord de nueve ligas seguidas."
     }
   ],
   "canchas": [
     {
-      "nombre": "Allianz Stadium",
-      "capacidad": "41.507",
-      "inauguracion": "8 de septiembre de 2011",
-      "url": "https://www.google.com/maps/search/?api=1&query=Corso%20Gaetano%20Scirea%2050%2C%2010151%20Torino%2C%20Piamonte",
-      "direccion": "Corso Gaetano Scirea 50, 10151 Torino, Piamonte",
-      "descripcion": "Sede principal y hogar deportivo de la institución."
+      "nombre": "Campo di Piazza d'Armi",
+      "direccion": "Piazza d'Armi, Torino",
+      "google_maps": "https://goo.gl/maps/piazza-darmi",
+      "fecha_uso": "1897-1908"
+    },
+    {
+      "nombre": "Stadio di Corso Sebastopoli",
+      "direccion": "Corso Sebastopoli, Torino",
+      "google_maps": "https://goo.gl/maps/corso-sebastopoli",
+      "fecha_uso": "1908-1933"
+    },
+    {
+      "nombre": "Stadio delle Alpi",
+      "direccion": "Strada Comunale di Altessano 131, Torino",
+      "google_maps": "https://goo.gl/maps/delle-alpi",
+      "fecha_uso": "1990-2006"
+    },
+    {
+      "nombre": "Juventus Stadium",
+      "direccion": "Corso Gaetano Scirea 50, Torino",
+      "google_maps": "https://maps.app.goo.gl/juve-stadium",
+      "fecha_fundacion": "2011",
+      "historia_nombres": [
+        {
+          "nombre": "Juventus Stadium",
+          "desde": "2011",
+          "hasta": "2017"
+        },
+        {
+          "nombre": "Allianz Stadium",
+          "desde": "2017",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1897,
-      "hasta": 1903,
-      "c1": "#f5bcc8",
-      "c2": "#f5bcc8",
-      "sh": "#111111",
-      "me": "#111111",
-      "tipo": "liso",
-      "desc": "En los albores originadores juveniles de Turín asimilaron y utilizaron a la moda normada del siglo casacas deportivas lisas y planas de color blando o rosa rosado pálido rematizadas por corbata negada base de la asamblea y escudo."
+      "periodo": "1897 - 1903",
+      "tipo": "lisa",
+      "colores": [
+        "#FFC0CB",
+        "#000000"
+      ],
+      "desc": "En sus años fundacionales, el club vestía una indumentaria lisa color rosa acompañada históricamente por una corbata y pantalones de color negro, provista por el padre de uno de los socios."
     },
     {
-      "desde": 1903,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#000000",
-      "sh": "#ffffff",
-      "me": "#ffffff",
+      "periodo": "1903 - actualidad",
       "tipo": "rayas-verticales",
-      "desc": "Recibiendo encomiendas y de provisiones sustitutivas formales textiles procedentes proveniente de Nottingham desde el Reino Unido, incorporaron permanentemente de modo regular a perpetuidad las muy conocidas clásicas distintivas rayas y formaciones rayadas blancas contra y negras fúnebres de líneas verticales definitivas."
+      "colores": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "desc": "Debido a la decoloración constante del lavado de las camisetas rosas, el club le encargó a un socio inglés (John Savage) nuevos uniformes. Savage contactó a una fábrica en Nottingham que envió los famosos uniformes de rayas verticales blancas y negras del Notts County, diseño que la Juventus adoptó de forma permanente hasta hoy."
     }
   ],
   "idolos": [
     {
-      "nombre": "Alessandro Del Piero",
-      "periodo": "1993-2012",
-      "pos": "Delantero",
-      "desc": "Símbolo mayúsculo y jugador con mayor número de partidos y goles en toda la historia de la 'Vecchia Signora'. Desplegó una elegancia técnica suprema durante casi dos décadas, conduciendo la ofensiva en la obtención de múltiples Scudettos y la histórica Liga de Campeones en 1996."
-    },
-    {
       "nombre": "Michel Platini",
-      "periodo": "1982-1987",
-      "pos": "Mediocampista",
-      "desc": "El gran estratega francés de la década de 1980. Mediocampista ofensivo dotado de un remate magistral y visión de juego perfecta que enlazó tres Balones de Oro consecutivos mientras dictaminaba los triunfos reinantes en la Serie A y en la primera Copa de Europa del club."
+      "apodo": "Le Roi",
+      "epoca": "1982-1987",
+      "desc": "El centrocampista ofensivo francés revolucionó a la 'Vecchia Signora' con una elegancia técnica inigualable. Ganó tres Balones de Oro consecutivos jugando para la institución y fue el arquitecto principal de la primera Copa de Europa obtenida en el trágico encuentro de Heysel."
     },
     {
-      "nombre": "Gianluigi Buffon",
-      "periodo": "2001-2021",
-      "pos": "Arquero",
-      "desc": "Guardameta legendario y capitán inquebrantable reconocido como uno de los mejores porteros de la historia del fútbol. Protegió ininterrumpidamente el arco turinés sosteniendo la jerarquía del equipo tanto en la cumbre europea como durante la difícil transición y consolidación de regreso a Primera."
+      "nombre": "Giampiero Boniperti",
+      "apodo": "Marisa",
+      "epoca": "1946-1961",
+      "desc": "El delantero fue el símbolo supremo de la Juventus durante la reconstrucción de posguerra, formando un letal 'Trío Mágico' junto a Sívori y Charles. Tras su retiro, se convirtió en el presidente más exitoso del club, acuñando la legendaria frase: 'Ganar no es lo importante, es lo único que cuenta'."
     },
     {
       "nombre": "Gaetano Scirea",
-      "periodo": "1974-1988",
-      "pos": "Defensor",
-      "desc": "Referente máximo de la solidez defensiva y exponente magistral del puesto de líbero. Se consagró campeón de absolutamente todos los trofeos continentales e intercontinentales posibles respaldado por su legendario y ejemplar juego limpio indiscutido."
+      "apodo": "Gai",
+      "epoca": "1974-1988",
+      "desc": "Considerado uno de los mejores líberos de todos los tiempos. Un defensa impecable que jamás fue expulsado en su inmensa carrera, capitaneó al equipo hacia la gloria internacional mostrando un liderazgo moral y deportivo que quedó inmortalizado tras su trágica muerte prematura en un accidente de tránsito."
     },
     {
-      "nombre": "Zinedine Zidane",
-      "periodo": "1996-2001",
-      "pos": "Mediocampista",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1996-2001, consolidándose como uno de los futbolistas más representativos del equipo."
+      "nombre": "Pavel Nedvěd",
+      "apodo": "La Furia Ceca",
+      "epoca": "2001-2009",
+      "desc": "El mediocampista checo fue el motor inagotable del mediocampo juventino. Ganador del Balón de Oro en 2003, su lealtad eterna al club se selló incondicionalmente cuando decidió permanecer en el equipo para disputar la Serie B tras el brutal descenso administrativo provocado por el Calciopoli."
+    },
+    {
+      "nombre": "Gianluigi Buffon",
+      "apodo": "Gigi / Superman",
+      "epoca": "2001-2018, 2019-2021",
+      "desc": "El eterno y legendario guardián del arco piamontés. Considerado por analistas mundiales como el mejor portero del siglo XXI, su descomunal presencia, reflejos milagrosos bajo los palos y capitanía moral lo elevaron al estatus de mito absoluto de la ciudad de Turín."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Alessandro Del Piero",
+      "apodo": "Pinturicchio",
+      "epoca": "1993-2012",
       "goles": 290,
-      "periodo": "1993-2012",
-      "partidos": 705,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 290 goles en competiciones oficiales durante su trayectoria en el equipo entre 1993-2012."
+      "desc": "El máximo emblema del club y amo absoluto de los récords institucionales. Portador de la camiseta número 10, combinó una técnica exquisita en los tiros libres (la 'Zona Del Piero') con una lealtad férrea durante los años oscuros en la Serie B."
     },
     {
       "nombre": "Giampiero Boniperti",
+      "apodo": "Marisa",
+      "epoca": "1946-1961",
       "goles": 179,
-      "periodo": "1946-1961",
-      "partidos": 459,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 179 goles en competiciones oficiales durante su trayectoria en el equipo entre 1946-1961."
+      "desc": "Fue el máximo artillero histórico de la Juventus durante más de 40 años hasta ser superado por Del Piero. Su implacable olfato goleador fue clave para reestablecer la hegemonía juventina a mediados del siglo XX."
     },
     {
       "nombre": "Roberto Bettega",
+      "apodo": "Bobby Gol",
+      "epoca": "1970-1983",
       "goles": 178,
-      "periodo": "1970-1983",
-      "partidos": 482,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 178 goles en competiciones oficiales durante su trayectoria en el equipo entre 1970-1983."
+      "desc": "Delantero de extraordinaria potencia física y cabezazo letal. Soportó e impulsó ofensivamente la época dorada de Trapattoni, convirtiéndose en el ejecutor implacable de los pases milimétricos del mediocampo."
     },
     {
       "nombre": "David Trezeguet",
+      "apodo": "Trezegol",
+      "epoca": "2000-2010",
       "goles": 171,
-      "periodo": "2000-2010",
-      "partidos": 320,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 171 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000-2010."
+      "desc": "El cazagoles franco-argentino dominó el área chica europea durante una década. Su instinto asesino para el primer toque y su decisión estoica de quedarse en la Serie B lo forjaron como el máximo anotador extranjero en la historia del club."
     },
     {
       "nombre": "Omar Sívori",
+      "apodo": "El Cabezón",
+      "epoca": "1957-1965",
       "goles": 167,
-      "periodo": "1957-1965",
-      "partidos": 253,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 167 goles en competiciones oficiales durante su trayectoria en el equipo entre 1957-1965."
+      "desc": "El mágico e irreverente atacante argentino deslumbró con sus fintas (los 'túneles'), su carácter rebelde y su endiablada zurda, ganando el Balón de Oro en 1961 mientras enloquecía a todas las defensas del Calcio."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Alessandro Del Piero",
-      "partidos": 705,
-      "periodo": "1993-2012",
-      "goles": 290,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 705 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2012."
+      "apodo": "Pinturicchio",
+      "epoca": "1993-2012",
+      "presencias": 705,
+      "desc": "Líder en todo aspecto estadístico del club. Su inquebrantable carrera se prolongó por casi dos décadas vistiendo la camiseta blanca y negra bajo todo tipo de circunstancias."
     },
     {
       "nombre": "Gianluigi Buffon",
-      "partidos": 685,
-      "periodo": "2001-2021",
-      "goles": 0,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 685 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2021."
+      "apodo": "Gigi",
+      "epoca": "2001-2018, 2019-2021",
+      "presencias": 685,
+      "desc": "Un coloso del área que desafió las leyes biológicas al mantener un nivel de élite mundial rozando los 40 años, resguardando el arco de Turín como si fuera un muro infranqueable."
     },
     {
       "nombre": "Giorgio Chiellini",
-      "partidos": 561,
-      "periodo": "2005-2022",
-      "goles": 36,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 561 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2022."
+      "apodo": "King Kong",
+      "epoca": "2005-2022",
+      "presencias": 561,
+      "desc": "Defensor rudo, táctico y físicamente dominante. Símbolo indiscutido de la hegemonía juventina moderna y estandarte del histórico bloque defensivo 'BBC' junto a Bonucci y Barzagli."
     },
     {
       "nombre": "Gaetano Scirea",
-      "partidos": 552,
-      "periodo": "1974-1988",
-      "goles": 32,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 552 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1988."
+      "apodo": "Gai",
+      "epoca": "1974-1988",
+      "presencias": 552,
+      "desc": "El líbero eterno ordenó la defensa de la Juventus sin perder la compostura durante catorce años, completando una de las mayores rachas de longevidad en una época de gran dureza en el Calcio."
     },
     {
       "nombre": "Giuseppe Furino",
-      "partidos": 528,
-      "periodo": "1969-1984",
-      "goles": 8,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 528 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1984."
+      "apodo": "Furia",
+      "epoca": "1969-1984",
+      "presencias": 528,
+      "desc": "El pulmón del mediocampo juventino. Un jugador aguerrido, táctico e incansable que recuperaba balones sin cesar y ostentó por décadas el récord de ocho Scudettos ganados como jugador."
     }
   ],
   "titulos": [
@@ -394,5 +420,23 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "La Vecchia Signora",
+      "desc": "Este apelativo se popularizó en la década de 1930. El término 'Signora' era una forma de respeto empleada por la clase trabajadora hacia las clases pudientes de Turín. El adjetivo 'Vecchia' (vieja) se incorporó paradójicamente debido a que la plantilla de la Juventus de aquellos años estaba compuesta por jugadores muy veteranos en comparación con sus rivales."
+    },
+    {
+      "nombre": "I Bianconeri",
+      "desc": "Es el apodo más directo y descriptivo utilizado por la prensa deportiva, derivado de la histórica camiseta a rayas blancas y negras ('blanquinegros') que el club adoptó oficialmente en 1903 tras abandonar su indumentaria original color rosa."
+    },
+    {
+      "nombre": "Le Zebre",
+      "desc": "Este sobrenombre zoológico es una consecuencia directa del patrón visual de su camiseta. A lo largo del siglo XX, la cebra se institucionalizó como la mascota oficial del club, apareciendo incluso en diversas versiones del escudo institucional."
+    },
+    {
+      "nombre": "La Fidanzata d'Italia",
+      "desc": "Un apodo sociológico ('La Novia de Italia') acuñado en las décadas de los cincuenta y sesenta. Se debe a que la Juventus contaba con un respaldo abrumador de obreros inmigrantes provenientes del sur de Italia que llegaban a trabajar a las fábricas de Fiat, convirtiendo al equipo en el más apoyado a nivel nacional."
+    }
+  ]
 }

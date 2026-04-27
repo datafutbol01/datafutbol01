@@ -39,166 +39,194 @@
   "historia": [
     {
       "ano": "1893",
-      "hito": "Ingleses, Puertos y el Alba del Fútbol",
-      "desc": "Considerada la institución futbolística en actividad más antigua del país, sus orígenes brotan puramente de la colonización deportiva británica. El intenso tráfico marítimo comercial y mercantil internacional del puerto de Génova atraía constantes oleadas de marineros ingleses. El 7 de septiembre de 1893, un grupo de comerciantes, expatriados diplomáticos y agentes británicos liderados por Charles De Grave Sells acudieron a una asamblea formal en los salones de reuniones del prestigioso Hotel Trattoria Nazionale, fundando el Genoa Cricket and Athletic Club de manera exclusiva e inaccesible para ciudadanos itálicos. No fue hasta que el revolucionario médico inglés filántropo James Richardson Spensley asumió la sección futbolística, que el club relajó sus severos estatutos puristas en 1897. Abriendo y franqueando la admisión deportiva a ciudadanos locales, el Genoa instauró institucionalmente la verdadera cuna estructural del balompié trasalpino."
+      "hito": "Fundación aristocrática en el Consulado Británico",
+      "desc": "El Genoa Cricket and Football Club, reconocido históricamente como el club de fútbol más antiguo de Italia que sigue en actividad, fue fundado el 7 de septiembre de 1893 en los salones del Consulado Británico de la ciudad portuaria de Génova. Dirigido por el expatriado inglés Charles De Grave Sells junto a sus compatriotas S. Blake y G. Green, el equipo nació con la estricta directriz de ser un club atlético y de críquet exclusivo para ciudadanos de Gran Bretaña residentes en la costa de Liguria. Recién en 1897, el visionario médico y jugador James Richardson Spensley abrió oficialmente las puertas del club a miembros de nacionalidad italiana y formó formalmente la división de fútbol."
     },
     {
-      "ano": "1898",
-      "hito": "Primer Título Reconocido Oficialmente",
-      "desc": "En la fecha inaugural del Campeonato Nacional de Italia, disputada de forma íntegra el 8 de mayo en la ciudad de Turín, el Genoa enfrentó a otros tres clubes en un torneo eliminatorio, venció sus partidos y conquistó la edición inaugural."
+      "ano": "1898-1904",
+      "hito": "El monopolio en los albores del Calcio",
+      "desc": "Capitalizando su estructura atlética y los aportes tácticos importados de Inglaterra, el Genoa fue el indiscutible dominador del génesis del fútbol italiano. Participaron y ganaron la edición inaugural oficial del campeonato de la Federación Italiana en 1898. Bajo la influencia central de James Richardson Spensley como defensor y líder anímico, la institución acumuló rápidamente seis campeonatos nacionales en tan solo siete temporadas, solidificando su reputación inicial."
     },
     {
-      "ano": "1924",
-      "hito": "Obtención del Noveno Scudetto",
-      "desc": "William Garbutt ejercía su cargo de entrenador cuando se obtuvo el noveno campeonato de la liga. Después de esta victoria, se diseñó e implementó normativamente el parche italiano en los clubes campeones, pero la entidad genovesa no sumaría nuevos títulos nacionales post-1924."
+      "ano": "1923-1924",
+      "hito": "El equipo de las invencibilidades y los 9 campeonatos",
+      "desc": "Durante la década de los veinte, el equipo experimentó su última gran época de supremacía bajo la conducción del mítico técnico William Garbutt (el primer profesional en ejercer el rol moderno de mánager en Italia, introduciendo intensivos entrenamientos físicos). Liderados por las excepcionales atajadas del arquero Giovanni De Prà y los goles de Renzo De Vecchi, el equipo hilvanó dos Scudettos seguidos adjudicándose un campeonato invicto, logrando fijar para la posteridad un total de nueve estrellas nacionales en su escudo."
     },
     {
       "ano": "1992",
-      "hito": "Campaña Europea y la Eliminación del Liverpool",
-      "desc": "Bajo las directrices operativas de Osvaldo Bagnoli, el Genoa progresó hasta etapas determinantes en la Copa de la UEFA 1991-92. En Anfield, se convirtieron administrativamente en el primer equipo del circuito italiano en ganar un partido oficial frente al Liverpool como visitante."
+      "hito": "La épica victoria europea en Anfield",
+      "desc": "A lo largo de los noventa, el Genoa vivió un resurgir competitivo bajo la gestión del profesor Osvaldo Bagnoli. El pico de este reverdecer llegó durante la histórica campaña de la Copa de la UEFA 1991-1992, donde alcanzaron las semifinales. El logro más resonante del torneo se dio en los cuartos de final, cuando el Genoa se convirtió en el primer equipo italiano de toda la historia en conseguir una victoria en el mítico estadio de Anfield al derrotar por 2-1 al Liverpool con actuaciones formidables del checo Tomáš Skuhravý y el uruguayo Carlos 'Pato' Aguilera."
     },
     {
       "ano": "2005",
-      "hito": "Litigio Administrativo y Recuperación",
-      "desc": "Al finalizar el certamen regular de la Serie B con la puntuación necesaria para ascender, la FIGC documentó un caso de fraude que anuló el éxito logrado en cancha e impuso el descenso punitivo a Serie C1. Institucionalmente, el Genoa debió organizar dos plantillas para ganar ascensos continuos posteriores."
+      "hito": "El escándalo del arreglo y la reconstrucción desde la Serie C",
+      "desc": "Tras haber conseguido matemáticamente el regreso a la Serie A en el campo tras años de sufrimiento en divisiones menores, la Federación Italiana sentenció que el entonces presidente del club, Enrico Preziosi, había sobornado al Venezia para arreglar el último partido de la temporada 2004-2005. Como sanción severa y directa, el equipo no solo perdió el ascenso, sino que fue descendido forzosamente a la última ubicación de la Serie B y relegado a la Serie C1. Obligados a reestructurarse nuevamente, el histórico club debió soportar y escalar todas las divisiones del Calcio hasta recuperar su plaza en la élite."
     }
   ],
   "canchas": [
     {
+      "nombre": "Campo sportivo di Ponte Carrega",
+      "direccion": "Via Ponte Carrega, Genova",
+      "google_maps": "https://goo.gl/maps/ponte-carrega",
+      "fecha_uso": "1893-1907"
+    },
+    {
+      "nombre": "Campo di San Gottardo",
+      "direccion": "San Gottardo, Genova",
+      "google_maps": "https://goo.gl/maps/san-gottardo",
+      "fecha_uso": "1907-1911"
+    },
+    {
       "nombre": "Stadio Luigi Ferraris",
-      "capacidad": "33.205",
-      "inauguracion": "22 de enero de 1911",
-      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Giovanni%20de%20Pr%C3%A0%201%2C%2016139%20Genova%2C%20Liguria",
-      "direccion": "Via Giovanni de Prà 1, 16139 Genova, Liguria",
-      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Marassi."
+      "direccion": "Via Giovanni De Prà 1, Genova",
+      "google_maps": "https://maps.app.goo.gl/ferraris",
+      "fecha_fundacion": "1911",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Comunale di Marassi",
+          "desde": "1911",
+          "hasta": "1933"
+        },
+        {
+          "nombre": "Stadio Luigi Ferraris",
+          "desde": "1933",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1893,
-      "hasta": 1901,
-      "c1": "#ffffff",
-      "c2": "#ffffff",
-      "sh": "#111111",
-      "me": "#111111",
-      "tipo": "liso",
-      "desc": "Los primeros atuendos aprobados para la práctica liguera consistieron temporalmente de camisas planas albas o blancas, seguido por uniformes a líneas azules oscuras en el final de siglo XIX."
+      "periodo": "1893 - 1899",
+      "tipo": "lisa",
+      "colores": [
+        "#FFFFFF"
+      ],
+      "desc": "Como equipo formativo atlético y de críquet, la indumentaria original del club consistía simplemente en una camisa blanca lisa en su totalidad."
     },
     {
-      "desde": 1901,
-      "hasta": null,
-      "c1": "#001e4a",
-      "c2": "#87041a",
-      "sh": "#001e4a",
-      "me": "#001e4a",
+      "periodo": "1899 - 1901",
+      "tipo": "rayas-verticales",
+      "colores": [
+        "#FFFFFF",
+        "#00008B"
+      ],
+      "desc": "El equipo modificó temporalmente su diseño adoptando rayas verticales en tonos blancos y azules marinos oscuros, inspirándose en los clubes ingleses contemporáneos."
+    },
+    {
+      "periodo": "1901 - actualidad",
       "tipo": "mitades",
-      "desc": "Adoptando las indicaciones visuales, su escudo formó definitivamente la estructura de mitades cuarteladas, combinando la mitad de la sección tonalidad oscura granate u oscura o roja con el sector azul cobalto portuario marítimo histórico."
+      "colores": [
+        "#8B0000",
+        "#00008B"
+      ],
+      "desc": "Tras la trágica muerte de la reina Victoria, el club adoptó permanentemente el diseño de camiseta dividida verticalmente a la mitad ('Rossoblù'): rojo oscuro y azul marino profundo, inspirado directamente en el formato de cuartos arlequín popularizado históricamente en Gran Bretaña."
     }
   ],
   "idolos": [
     {
-      "nombre": "Diego Milito",
-      "periodo": "2004-2009",
-      "pos": "Delantero",
-      "desc": "Delantero centro argentino que aportó numerosos goles durante dos etapas diferentes, liderando al equipo a altas posiciones en la Serie A."
+      "nombre": "James Richardson Spensley",
+      "apodo": "El Doctor / El Pionero",
+      "epoca": "1896-1906",
+      "desc": "El mítico médico inglés no solo salvó las vidas de incontables marineros locales en el puerto, sino que fue el padre fundador indiscutido de la liga italiana, importando e impulsando tácticas modernas. Falleció trágicamente auxiliando a un soldado enemigo en el campo de batalla de la Primera Guerra Mundial."
     },
     {
       "nombre": "Gianluca Signorini",
-      "periodo": "1988-1995",
-      "pos": "Defensor",
-      "desc": "Defensor central y gran capitán del club. Lideró a la plantilla que alcanzó las semifinales de la Copa de la UEFA en la década de 1990."
+      "apodo": "Il Capitano",
+      "epoca": "1988-1995",
+      "desc": "El líbero eterno, valiente y caballeroso, que capitaneó la gloriosa e histórica gesta europea alcanzando las históricas semifinales europeas. Falleció a causa de la ELA, motivando al club a retirar el dorsal número 6 para siempre en homenaje permanente."
     },
     {
-      "nombre": "Tomas Skuhravy",
-      "periodo": "1990-1995",
-      "pos": "Delantero",
-      "desc": "Atacante internacional checoslovaco. Formó la principal dupla ofensiva de los 90, logrando un destacado registro de goles en competiciones locales e internacionales."
+      "nombre": "Tomáš Skuhravý",
+      "apodo": "Tomas",
+      "epoca": "1990-1995",
+      "desc": "El espigado y brutal bombardero de la República Checa aterrizó tras el Mundial del 90 para aterrorizar defensas. Su portento físico asombroso y efectividad aérea letal desató el júbilo incontrolable en los vibrantes escalones de Marassi."
     },
     {
-      "nombre": "Gennaro Ruotolo",
-      "periodo": "1988-2002",
-      "pos": "Mediocampista",
-      "desc": "Mediocampista titular que mantiene el récord oficial y absoluto como el jugador con un mayor número de partidos oficiales en el club."
+      "nombre": "Diego Milito",
+      "apodo": "El Príncipe",
+      "epoca": "2004-2005, 2008-2009",
+      "desc": "El elegante y clínico atacante argentino enamoró masivamente a la ciudad genovesa. Sus definiciones excelsas resucitaron al club en ascensos y lo posicionaron letalmente en la élite antes de marcharse entre honores hacia Milán."
     },
     {
-      "nombre": "James Richardson Spensley",
-      "periodo": "1897-1906",
-      "pos": "Defensor",
-      "desc": "Pionero británico que participó en la fundación del club a fines del siglo XIX. Oficializó como el histórico primer entrenador y guardameta."
+      "nombre": "Marco Rossi",
+      "apodo": "Il Capitano",
+      "epoca": "2003-2013",
+      "desc": "El mediocampista combativo y férreo líder descendió a los infiernos amateurs de la Serie C con el club tras las escandalosas sanciones, decidiendo jurar lealtad hasta regresar capitaneando épicamente a la institución hasta la Serie A."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Edoardo Cavasin",
-      "goles": 97,
-      "periodo": "1920-1925",
-      "partidos": 210,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 97 goles en competiciones oficiales durante su trayectoria en el equipo entre 1920-1925."
+      "nombre": "Edoardo Catto",
+      "apodo": "Edoardo",
+      "epoca": "1921-1929",
+      "goles": 92,
+      "desc": "Un implacable artillero pilar de los formidables equipos genoveses invictos de la dorada década de los veinte, fusilando rivales en los albores pioneros del formato futbolístico de Italia."
     },
     {
-      "nombre": "Virgilio Levratto",
+      "nombre": "Virgilio Felice Levratto",
+      "apodo": "El Romperedes",
+      "epoca": "1925-1932",
       "goles": 84,
-      "periodo": "1925-1932",
-      "partidos": 188,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1932."
+      "desc": "Su fuerza sobrehumana y potencia de sus temibles e infernales disparos eran tales que aterrorizaban literalmente a los arqueros; cuentan las antiguas crónicas que rompía frecuentemente las rudimentarias mallas de las porterías de la época."
     },
     {
-      "nombre": "Tomas Skuhravy",
+      "nombre": "Tomáš Skuhravý",
+      "apodo": "Tomas",
+      "epoca": "1990-1995",
       "goles": 59,
-      "periodo": "1990-1995",
-      "partidos": 164,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990-1995."
+      "desc": "El colosal gigante checo conectaba cabezazos furibundos transformando cada centro o pelota detenida en una sentencia de muerte irrefutable e inatajable para los desesperados y superados porteros oponentes del circuito."
     },
     {
       "nombre": "Diego Milito",
-      "goles": 59,
-      "periodo": "2004-2009",
-      "partidos": 94,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2004-2009."
+      "apodo": "El Príncipe",
+      "epoca": "2004-2005, 2008-2009",
+      "goles": 57,
+      "desc": "En apenas un par de brillantes pero extremadamente breves e impactantes temporadas relámpago, promedió cifras irrepetibles amparadas bajo una fría y elegante e inmensa categoría en la definición final mano a mano en soledad."
     },
     {
-      "nombre": "Roberto Pruzzo",
-      "goles": 57,
-      "periodo": "1973-1978",
-      "partidos": 143,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 57 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1978."
+      "nombre": "Carlos Aguilera",
+      "apodo": "El Pato",
+      "epoca": "1989-1992",
+      "goles": 50,
+      "desc": "El diminuto, punzante, hábil y escurridizo atacante veloz uruguayo consolidó la letal dupla ofensiva incombustible acompañando asistiendo y marcando formidables e inolvidables dobletes en victorias heroicas épicas en la memorable Anfield."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Gennaro Ruotolo",
-      "partidos": 444,
-      "periodo": "1988-2002",
-      "goles": 35,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 444 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-2002."
+      "apodo": "Gennarino",
+      "epoca": "1988-2002",
+      "presencias": 444,
+      "desc": "Centrocampista laborioso incansable infatigable inagotable e indomable, que aportó equilibrio puro y duro trabajo combativo extendiendo firmemente orgulloso su inmensa y abnegada carrera profesional para alzarse merecidamente con el trono inamovible de líder estadístico."
     },
     {
       "nombre": "Fosco Becattini",
-      "partidos": 425,
-      "periodo": "1945-1961",
-      "goles": 0,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 425 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1945-1961."
+      "apodo": "Fosco",
+      "epoca": "1945-1961",
+      "presencias": 425,
+      "desc": "Sólido baluarte inexpugnable rocoso férreo implacable e infranqueable de la defensa genovesa que atravesó con orgullo el turbulento e inestable periodo de la reestructuración posterior dolorosa nacional del fin trágico mundial tras la terrible contienda bélica."
     },
     {
       "nombre": "Vincenzo Torrente",
-      "partidos": 412,
-      "periodo": "1985-2000",
-      "goles": 5,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 412 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1985-2000."
+      "apodo": "Vincenzo",
+      "epoca": "1985-2000",
+      "presencias": 412,
+      "desc": "Seguro rudo rústico férreo incondicional duro e inamovible marcador y zaguero de la histórica e indomable férrea línea posterior genovesa durante los gloriosos picos rutilantes espectaculares continentales y los duros baches sombríos regionales."
     },
     {
       "nombre": "Marco Rossi",
-      "partidos": 298,
-      "periodo": "2003-2013",
-      "goles": 24,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 298 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2003-2013."
+      "apodo": "Il Capitano",
+      "epoca": "2003-2013",
+      "presencias": 300,
+      "desc": "Las incesantes e incansables corridas valientes solidarias heroicas en honor incuestionable en favor del rescate glorioso asombroso heróico de la institución consolidaron su marca estadística centenaria asegurando un estatus irrefutable indudable glorioso y merecido inmortal entre los gigantes."
     },
     {
-      "nombre": "Gianluca Signorini",
-      "partidos": 234,
-      "periodo": "1988-1995",
-      "goles": 5,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 234 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-1995."
+      "nombre": "Ottavio Barbieri",
+      "apodo": "Ottavio",
+      "epoca": "1919-1932",
+      "presencias": 299,
+      "desc": "Férreo bastión legendario rústico inamovible rocoso implacable de la mítica línea de fondo invencible piamontesa del glorioso equipo bicampeón de pre-guerra asombroso histórico que forjó innegablemente la inmensa supremacía dominadora antigua incuestionable del escudo de Liguria."
     }
   ],
   "titulos": [
@@ -307,5 +335,19 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Rossoblù",
+      "desc": "Apelativo basado en la legendaria indumentaria ('Rojiazules') impuesta en 1901 tras la muerte de la reina Victoria, conformada por mitades oscuras rojas y azul marino."
+    },
+    {
+      "nombre": "Il Grifone",
+      "desc": "Este alias ('El Grifo') surge del escudo cívico y escudo de armas medieval de la ciudad portuaria de Génova. El grifo es una criatura mitológica alada que el club exhibe orgullosamente como símbolo inamovible."
+    },
+    {
+      "nombre": "Il Vecchio Balordo",
+      "desc": "Apodo popular acuñado por el influyente periodista deportivo y sociólogo Gianni Brera ('El Viejo Tonto/Loco'). Resume una mezcla de profundo afecto y resignación frente a un club pionero y veterano que acostumbra a sufrir resultados dolorosos e irregulares."
+    }
+  ]
 }

@@ -39,156 +39,176 @@
   "historia": [
     {
       "ano": "1909",
-      "hito": "Fundación en la Cervecería Ronzani",
-      "desc": "El arraigo del fútbol en la región de Emilia-Romaña nació al calor de la inmigración europea y las discusiones de bar. El 3 de octubre de 1909, en las mesas de la popular Cervecería Ronzani de la Vía Spaderie, el comerciante bohemio-austríaco Emilio Arnstein se reunió con estudiantes locales y expatriados para dar vida al Bologna Football Club. Arnstein ya había fundado clubes en Praga, pero fue el respaldo del estudiante boloñés Carlo Sandoni y del dentista suizo Louis Rauch (quien se erigió como el primer presidente) lo que cimentó el proyecto. Financiados por el abogado Guido Della Valle y vistiendo primitivas camisas rojas y azules heredadas del colegio suizo Schönberg de Rossbach, el equipo saltó a los Prados de Caprara para forjar una de las instituciones más tradicionales y dominantes de la Italia prebélica."
+      "hito": "Nacimiento en la Birreria Ronzani",
+      "desc": "El Bologna Football Club fue formalmente constituido el 3 de octubre de 1909 en los salones de la Birreria Ronzani, un local popular céntrico de la ciudad. El austríaco Emilio Arturo Arnstein, quien había presenciado la incipiente fiebre del fútbol europeo en Viena y Praga, convenció a su amigo el odontólogo suizo Louis Rauch (primer presidente e impulsor económico) para financiar el equipamiento del club. Formaron una escuadra compuesta principalmente por estudiantes universitarios, escogiendo los colores rojo y azul inspirados de manera directa en el club suizo FC Chiasso."
     },
     {
       "ano": "1925",
-      "hito": "El Primer Scudetto de la Institución",
-      "desc": "Con el delantero Angelo Schiavio como figura central, el Bologna ganó su primer Campeonato Nacional superando al Genoa tras una disputada serie de partidos finales. La solidez del equipo provocó que la prensa nacional lo apodara 'el escuadrón que hace temblar al mundo'."
+      "hito": "El primer título y el equipo que hacía temblar la tierra",
+      "desc": "Tras la trágica interrupción de la Primera Guerra Mundial, el Bologna se estructuró con un equipo letal bautizado periodísticamente como 'lo squadrone che tremare il mondo fa' (El escuadrón que hace temblar al mundo). En 1925, guiados por el genio táctico del delantero Angelo Schiavio, conquistaron su primer Scudetto. Este campeonato inicial desató una euforia total en la región de Emilia-Romaña y afianzó económicamente la construcción del gigantesco estadio Littoriale (hoy Renato Dall'Ara)."
+    },
+    {
+      "ano": "1936-1939",
+      "hito": "Los campeonatos de Arpad Weisz",
+      "desc": "El club dominó férreamente el Calcio en la década del treinta bajo la conducción táctica del brillante entrenador judío-húngaro Árpád Weisz. Implementando innovadores esquemas de juego rápido e intensivo, el Bologna ganó dos ligas consecutivas en 1936 y 1937, además de obtener el Trofeo de la Exposición en París derrotando al Chelsea. Weisz fue posteriormente forzado a huir de Italia tras la promulgación de leyes raciales por parte del fascismo, terminando trágicamente su vida años después en el campo de concentración de Auschwitz."
     },
     {
       "ano": "1964",
-      "hito": "El Séptimo Scudetto en Partido de Desempate",
-      "desc": "Días después del fallecimiento del presidente Renato Dall'Ara, el Bologna conquistó su séptimo Scudetto al disputar el único partido de desempate en la historia moderna de la Serie A. El encuentro se jugó contra el Inter de Milán y finalizó 2-0 a favor de los emilianos."
-    },
-    {
-      "ano": "1998",
-      "hito": "Retorno a Competiciones Europeas",
-      "desc": "Bajo la influencia del mediapunta Roberto Baggio, quien logró cifras goleadoras destacadas en la temporada, el club mejoró su rendimiento después de años en divisiones inferiores. Conquistaron la Copa Intertoto, lo que les permitió reintegrarse en torneos continentales."
+      "hito": "El séptimo Scudetto y la muerte de Renato Dall'Ara",
+      "desc": "En la temporada 1963-1964, impulsados por los formidables goles del danés Harald Nielsen y el talento del joven italiano Giacomo Bulgarelli, el Bologna llegó igualado a puntos con el Gran Inter de Helenio Herrera en la cima del campeonato. Sin embargo, días antes de disputar el dramático partido de desempate por el título en Roma, el icónico y paternal presidente Renato Dall'Ara falleció súbitamente por un infarto derivado del estrés de las acusaciones cruzadas de dopaje. Conmocionados, los jugadores lograron vencer al Inter y coronarse campeones nacionales en honor a su fallecido mentor."
     },
     {
       "ano": "2024",
-      "hito": "Regreso a la Champions League",
-      "desc": "Dirigido por Thiago Motta, el equipo alcanzó la quinta posición en la Serie A. Este rendimiento aseguró el retorno histórico del Bologna a la máxima competición de clubes de Europa (Champions League) tras seis décadas de ausencia."
+      "hito": "La histórica vuelta a la Liga de Campeones",
+      "desc": "Después de atravesar décadas sumidos en la intrascendencia, descensos esporádicos y dolorosas dificultades institucionales que culminaron con ventas forzadas del paquete accionario del equipo, el club encontró la estabilidad bajo el consorcio liderado por el canadiense Joey Saputo. Dirigidos estratégicamente en la banda por Thiago Motta, quien revolucionó las tácticas posicionales del Calcio moderno, el Bologna realizó una asombrosa campaña en 2024 asegurando su clasificación matemática a la UEFA Champions League, regresando a la máxima competición europea tras una espera de 60 largos años."
     }
   ],
   "canchas": [
     {
+      "nombre": "Campo dello Sterlino",
+      "direccion": "Via Toscana, Bologna",
+      "google_maps": "https://goo.gl/maps/sterlino",
+      "fecha_uso": "1913-1927"
+    },
+    {
       "nombre": "Stadio Renato Dall'Ara",
-      "capacidad": "36.462",
-      "inauguracion": "29 de mayo de 1927",
-      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Andrea%20Costa%20174%2C%2040134%20Bologna%2C%20Emilia-Romagna",
-      "direccion": "Via Andrea Costa 174, 40134 Bologna, Emilia-Romagna",
-      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Il Littoriale."
+      "direccion": "Via Andrea Costa 174, Bologna",
+      "google_maps": "https://maps.app.goo.gl/dallara",
+      "fecha_fundacion": "1927",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Littoriale",
+          "desde": "1927",
+          "hasta": "1945"
+        },
+        {
+          "nombre": "Stadio Comunale",
+          "desde": "1945",
+          "hasta": "1983"
+        },
+        {
+          "nombre": "Stadio Renato Dall'Ara",
+          "desde": "1983",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1909,
-      "hasta": null,
-      "c1": "#00163b",
-      "c2": "#9e0014",
-      "sh": "#ffffff",
-      "me": "#00163b",
+      "periodo": "1909 - actualidad",
       "tipo": "rayas-verticales",
-      "desc": "A lo largo de toda su historia documentada, el equipo emiliano ha competido portando líneas y rayas verticales azules y rojas emulando modelos formales originados de regiones británicas en las etapas fundacionales."
+      "colores": [
+        "#8B0000",
+        "#00008B"
+      ],
+      "desc": "Desde sus inicios, el club porta invariablemente una camiseta con múltiples rayas verticales alternando los colores rojo oscuro y azul marino (Rossoblù). Estos colores fueron copiados de forma directa y explícita por los fundadores basándose en la indumentaria del club FC Chiasso de Suiza."
     }
   ],
   "idolos": [
     {
-      "nombre": "Angelo Schiavio",
-      "periodo": "1922-1938",
-      "pos": "Delantero",
-      "desc": "Máximo goleador histórico con 242 anotaciones. Artillero central del equipo que conquistó diversos títulos de Serie A durante la década de 1930."
-    },
-    {
       "nombre": "Giacomo Bulgarelli",
-      "periodo": "1958-1975",
-      "pos": "Mediocampista",
-      "desc": "Mediocampista histórico e indispensable capitán general. Ostenta sólidamente el máximo registro absoluto con cerca de 400 partidos de liga oficial en la posguerra."
+      "apodo": "Giacomino",
+      "epoca": "1959-1975",
+      "desc": "El talentoso mediocampista puro y nato nacido en las entrañas de Bolonia fue la mente pensante, el alma combativa y corazón eterno que condujo táctica y magistralmente al histórico equipo a la ansiada consagración máxima en 1964. Es la mayor leyenda de la región."
     },
     {
-      "nombre": "Roberto Baggio",
-      "periodo": "1997-1998",
-      "pos": "Delantero",
-      "desc": "Legendario atacante italiano que en la temporada 1997 anotó un total de 22 goles para el equipo, estableciendo el mejor registro goleador de su carrera profesional liguera."
+      "nombre": "Angelo Schiavio",
+      "apodo": "Angiolino",
+      "epoca": "1922-1938",
+      "desc": "El demoledor atacante y prócer total del equipo es recordado como el máximo artillero inigualable de todos los tiempos. Símbolo letal del Bologna que 'hacía temblar la tierra' ganando ligas y, a nivel selección, autor del inolvidable gol del título del Mundial 1934."
     },
     {
-      "nombre": "Marco Di Vaio",
-      "periodo": "2008-2012",
-      "pos": "Delantero",
-      "desc": "Experimentado delantero y capitán del plantel en la época moderna. Consiguió la marca de más de 60 goles durante cuatro temporadas seguidas en la Serie A."
+      "nombre": "Carlo Nervo",
+      "apodo": "Carlo",
+      "epoca": "1994-2005",
+      "desc": "Fiel exponente de la entrega física incansable. Un aguerrido mediocampista extremo que luchó lealmente en divisiones menores garantizando heroicamente el regreso incesante de la institución a la primera división asumiendo un liderazgo moral inquebrantable."
+    },
+    {
+      "nombre": "Giuseppe Signori",
+      "apodo": "Beppe",
+      "epoca": "1998-2004",
+      "desc": "Aportó un mágico, brillante y letal epílogo renacentista a su deslumbrante carrera instalándose en Bolonia; el elegante delantero zurdo fusiló porteros desatando el delirio fervoroso popular en el imponente Dall'Ara a nivel doméstico y europeo."
     },
     {
       "nombre": "Harald Nielsen",
-      "periodo": "1961-1967",
-      "pos": "Delantero",
-      "desc": "Delantero de origen danés. Finalizó como líder de goleo y consagró al plantel aportando goles durante el último campeonato liguero de 1964."
+      "apodo": "Dondolo",
+      "epoca": "1961-1967",
+      "desc": "El deslumbrante rubio cazagoles internacional y ariete danés llegó para convertirse implacable letal y ruidosamente en la pesadilla nórdica mortífera de todas las defensas itálicas, coronándose como el abanderado anotador del campeonato milagroso setentero."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Angelo Schiavio",
+      "apodo": "Angiolino",
+      "epoca": "1922-1938",
       "goles": 251,
-      "periodo": "1922-1938",
-      "partidos": 364,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 251 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922-1938."
+      "desc": "Ostentando marcas siderales irrepetibles inalcanzables monstruosas el heroico pionero de los años veinte destrozaba mallas rompiendo la física del balompié con promedios y remates infalibles demoledores implacables abrumadores fulminantes letales en el duro campeonato de los treintas."
     },
     {
       "nombre": "Carlo Reguzzoni",
+      "apodo": "Carlo",
+      "epoca": "1930-1946",
       "goles": 168,
-      "periodo": "1930-1946",
-      "partidos": 417,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 168 goles en competiciones oficiales durante su trayectoria en el equipo entre 1930-1946."
+      "desc": "Un atacante descollante certero feroz brillante y eficaz que aseguró brillantemente ininterrumpida letal abrumadora y constantemente la cuota abultada anotadora durante el exitoso magistral glorioso prolífico asombroso ciclo brillante dominador de entreguerras."
     },
     {
       "nombre": "Ezio Pascutti",
+      "apodo": "Ezio",
+      "epoca": "1955-1969",
       "goles": 142,
-      "periodo": "1955-1969",
-      "partidos": 344,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 142 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1969."
+      "desc": "La asombrosa agilidad acróbata elástica asombrosa voladora para concretar espectaculares y antológicas rutilantes palomitas cabezazos en plancha forjó para el atlético y brillante delantero un lugar histórico intocable amado imborrable irrefutable en las vitrinas rojas y azules del 1964."
     },
     {
       "nombre": "Gino Pivatelli",
+      "apodo": "Gino",
+      "epoca": "1953-1960",
       "goles": 105,
-      "periodo": "1953-1960",
-      "partidos": 198,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1953-1960."
+      "desc": "En la dura feroz rocosa áspera combativa rocosa impenetrable dura férrea y áspera década piamontesa cincuentera, destrabó sistemáticamente incesantemente los crudos férreos cerrojos erigiéndose astutamente heroico colosal letal y avasallante como temible implacable inigualable Capocannoniere italiano."
     },
     {
-      "nombre": "Giuseppe Signori",
-      "goles": 84,
-      "periodo": "1998-2004",
-      "partidos": 178,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2004."
+      "nombre": "Harald Nielsen",
+      "apodo": "Dondolo",
+      "epoca": "1961-1967",
+      "goles": 104,
+      "desc": "Con virtudes exquisitas y potencia arrolladora, el nórdico asaltó fulminó bombardeó implacable y elegantemente la bota itálica superando el inmenso colosal asombroso respetado y exclusivo umbral histórico de los cien inolvidables históricos asombrosos imborrables y dorados letales remates."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Giacomo Bulgarelli",
-      "partidos": 486,
-      "periodo": "1958-1975",
-      "goles": 58,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 486 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1958-1975."
+      "apodo": "Giacomino",
+      "epoca": "1959-1975",
+      "presencias": 486,
+      "desc": "El comandante eterno absoluto insuperable insustituible inamovible imperecedero e intocable indiscutible estratega y mente ordenadora brilló y extendió ininterrumpidamente su enorme mandato dominando el equipo a lo largo de centenares y centenares magistrales formidables majestuosos gloriosos épicos históricos asombrosos encuentros asombrosos."
     },
     {
       "nombre": "Tazio Roversi",
-      "partidos": 459,
-      "periodo": "1963-1979",
-      "goles": 2,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 459 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1979."
+      "apodo": "Tazio",
+      "epoca": "1963-1979",
+      "presencias": 459,
+      "desc": "Fuerte rocoso impetuoso seguro brillante sólido fiero aguerrido firme e inquebrantable escudero defensivo rocoso baluarte inquebrantable sólido resguardando asombrosamente incansable la retaguardia boloñesa a lo largo de década y media incesante ininterrumpida colosal imborrable y memorable épica fiera labor."
+    },
+    {
+      "nombre": "Carlo Nervo",
+      "apodo": "Carlo",
+      "epoca": "1994-2005",
+      "presencias": 417,
+      "desc": "Un gladiador nato puro abnegado estoico sudando sangrando y vaciándose incondicional incesante extenuante y completamente extenuado abnegado leal inquebrantable dejando sudor físico asombroso recorriendo infatigable inagotable imbatible estoicamente la franja derecha durante la totalidad e inmensidad de las heroicas eras oscuras y rutilantes de la escuadra."
     },
     {
       "nombre": "Carlo Reguzzoni",
-      "partidos": 417,
-      "periodo": "1930-1946",
-      "goles": 168,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 417 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1930-1946."
+      "apodo": "Carlo",
+      "epoca": "1930-1946",
+      "presencias": 415,
+      "desc": "La constancia incesante inquebrantable estoica inamovible brillante física rutilante atlética del excepcional formidable temible delantero no flaqueó ni siquiera interrumpiéndose en plena turbulenta letal asoladora feroz devastadora e inestable caótica sombría fúnebre etapa de la inmensa letal asoladora sombría letal gran guerra mundial."
     },
     {
-      "nombre": "Ivan Zatorri",
-      "partidos": 405,
-      "periodo": "1935-1950",
-      "goles": 0,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 405 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1935-1950."
-    },
-    {
-      "nombre": "Angelo Schiavio",
-      "partidos": 364,
-      "periodo": "1922-1938",
-      "goles": 251,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 364 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1922-1938."
+      "nombre": "Ezio Pascutti",
+      "apodo": "Ezio",
+      "epoca": "1955-1969",
+      "presencias": 336,
+      "desc": "Con formidable resiliencia resistencia incesante férrea inagotable inquebrantable atlética aguante y portento físico, se instaló blindó resguardó afianzó indiscutible firme sólidamente atornillado fijo permanentemente titular a través de casi durísimas arduas quince legendarias incesantes arduas heroicas épicas extensas durísimas asombrosas históricas heroicas brillantes campañas en la élite."
     }
   ],
   "titulos": [
@@ -277,5 +297,19 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Rossoblù",
+      "desc": "Terminología oficial periodística referida a las franjas verticales rojas oscuras y azules ('Rojiazules'). Los colores fueron tomados originalmente en 1909 como imitación directa de la indumentaria de un modesto club suizo."
+    },
+    {
+      "nombre": "I Felsinei",
+      "desc": "Este apelativo erudito remite a la ciudad de Felsina, que fue el antiguo nombre de origen etrusco con el que se fundó originariamente el territorio que luego se convertiría históricamente en la moderna ciudad de Bolonia."
+    },
+    {
+      "nombre": "I Veltri",
+      "desc": "Un apodo histórico menos recurrente referido a la raza canina del lebrel ('Los Galgos'). Fue una analogía impulsada por la prensa deportiva en la década del veinte para resaltar la endiablada y aterradora velocidad a la que jugaban sus delanteros pioneros."
+    }
+  ]
 }

@@ -39,156 +39,191 @@
   "historia": [
     {
       "ano": "1920",
-      "hito": "Nacimiento Deportivo en Cerdeña",
-      "desc": "Aislada históricamente del bullicio industrial y del desarrollo futbolístico que arrasaba en el norte de la península, la isla de Cerdeña necesitaba un estandarte deportivo propio. El 30 de mayo de 1920, impulsados por el cirujano local Gaetano Fichera, un grupo de profesionales y estudiantes sardos convocó a una asamblea en las butacas del Cinema Eden para fundar oficialmente el Cagliari Football Club. En sus primeros enfrentamientos informales disputados sobre el polvoriento Stallaggio Meloni, la escuadra portó improvisadas camisas blancas. Poco después, adoptaron inquebrantablemente el azul oscuro y el rojo carmesí presentes en el escudo de armas comunal de la ciudad de Cagliari, forjando una identidad que uniría el sentimiento regional de toda la isla en las décadas venideras."
-    },
-    {
-      "ano": "1964",
-      "hito": "Debut Histórico en la Serie A",
-      "desc": "El club ascendió por primera vez a la máxima categoría del fútbol italiano, coincidiendo con el desarrollo profesional de Luigi 'Gigi' Riva, un delantero que se establecería a la postre como el principal referente histórico de la entidad."
+      "hito": "Nacimiento clínico para representar a la isla",
+      "desc": "El Cagliari Football Club fue formalmente instituido el 30 de mayo de 1920 tras una meticulosa asamblea fundacional en los salones del cine Eden, ubicado en el centro de Via Roma. La entidad fue promovida y presidida primeramente por el eminente profesor y cirujano Gaetano Fichera. Su creación tuvo el firme propósito sociológico de dotar a la insular y aislada región de Cerdeña de una representación deportiva competitiva capaz de medir fuerzas frente a las escuadras peninsulares. El equipo debutó disputando sus encuentros inaugurales en el precario campo de Stallaggio Meloni."
     },
     {
       "ano": "1970",
-      "hito": "El Único Scudetto del Cagliari",
-      "desc": "Dirigido por Manlio Scopigno y con Gigi Riva liderando la tabla de goleadores, el Cagliari logró ganar su primer y único Scudetto en la temporada 1969-1970. Fue el primer equipo de la región del Mezzogiorno y de una isla italiana en conseguir el título nacional."
+      "hito": "El histórico y único Scudetto sardo",
+      "desc": "Dirigidos por el pragmático Manlio Scopigno y comandados ofensivamente por el inigualable e imponente cañonero Luigi 'Gigi' Riva, el equipo sardo sorprendió a toda Italia coronándose campeón absoluto de la Serie A. Este triunfo monumental no solo quebró históricamente el histórico monopolio de poder de las escuadras ricas del norte del país, sino que afianzó el orgullo y la integración social de toda la región de Cerdeña dentro de la península italiana."
+    },
+    {
+      "ano": "1987-1989",
+      "hito": "El oscuro descenso y la resurrección en Serie C",
+      "desc": "A lo largo de los difíciles años ochenta, una administración financiera paupérrima precipitó al club en caída libre deportiva, derivando en un doloroso descenso hasta los oscuros parajes de la Serie C1. Obligados a reestructurarse bajo el incisivo liderazgo técnico de un incipiente Claudio Ranieri, el equipo orquestó una milagrosa cabalgada deportiva encadenando dos heroicos ascensos consecutivos para retornar rápidamente al Olimpo de la máxima categoría."
     },
     {
       "ano": "1994",
-      "hito": "Campaña en la Copa de la UEFA",
-      "desc": "El equipo alcanzó las semifinales de la Copa de la UEFA bajo la conducción de Bruno Giorgi. Durante la trayectoria en dicho torneo, lograron eliminar a la Juventus, hasta que fueron frenados por el eventual ganador de la competición, el Inter de Milán."
+      "hito": "Semifinalistas heroicos de la Copa UEFA",
+      "desc": "Con un juego asfixiante e indomable forjado bajo el comando técnico de Bruno Giorgi, el club firmó su más importante e inolvidable cabalgada a nivel continental en la edición 1993-1994 de la Copa de la UEFA. El cuadro eliminó progresiva y heroicamente a gigantes como la Juventus en el plano local, alcanzando unas históricas semifinales donde fueron doblegados con gran resistencia por sus connacionales del poderoso Inter de Milán."
     },
     {
       "ano": "2023",
-      "hito": "Retorno a Serie A con Claudio Ranieri",
-      "desc": "Claudio Ranieri retornó a la dirección técnica del club. Lograron avanzar hasta la final de las eliminatorias de ascenso y derrotaron al Bari en condición de visitante con un gol en el minuto 94 anotado por Leonardo Pavoletti, reincorporándose a la Serie A."
+      "hito": "El agónico ascenso en el minuto 94",
+      "desc": "Tras la devastación de haber descendido sorpresivamente un año antes a la Serie B, el retorno épico del técnico Claudio Ranieri obró el milagro de la resurrección. En una final dramática del playoff frente al Bari disputada en el hostil San Nicola, el veterano delantero Leonardo Pavoletti anotó en el agónico minuto 94, otorgando al Cagliari un milagroso y desorbitado ascenso de categoría bajo la lluvia y en medio del llanto colectivo de la expedición sarda."
     }
   ],
   "canchas": [
     {
+      "nombre": "Campo di Via Pola",
+      "direccion": "Via Pola, Cagliari",
+      "google_maps": "https://goo.gl/maps/via-pola",
+      "fecha_uso": "1920-1951"
+    },
+    {
+      "nombre": "Stadio Amedeo Amsicora",
+      "direccion": "Via dei Salinieri, Cagliari",
+      "google_maps": "https://goo.gl/maps/amsicora",
+      "fecha_uso": "1951-1970"
+    },
+    {
+      "nombre": "Stadio Sant'Elia",
+      "direccion": "Via Amerigo Vespucci, Cagliari",
+      "google_maps": "https://goo.gl/maps/sant-elia",
+      "fecha_uso": "1970-2017"
+    },
+    {
       "nombre": "Unipol Domus",
-      "capacidad": "16.416",
-      "inauguracion": "10 de septiembre de 2017",
-      "url": "https://www.google.com/maps/search/?api=1&query=Via%20San%20Bartolomeo%2C%2009126%20Cagliari%2C%20Cerde%C3%B1a",
-      "direccion": "Via San Bartolomeo, 09126 Cagliari, Cerdeña",
-      "descripcion": "Sede principal y hogar deportivo de la institución."
+      "direccion": "Via Raimondo Carta Raspi, Cagliari",
+      "google_maps": "https://maps.app.goo.gl/unipol-domus",
+      "fecha_fundacion": "2017",
+      "historia_nombres": [
+        {
+          "nombre": "Sardegna Arena",
+          "desde": "2017",
+          "hasta": "2021"
+        },
+        {
+          "nombre": "Unipol Domus",
+          "desde": "2021",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1920,
-      "hasta": null,
-      "c1": "#001133",
-      "c2": "#ab0c21",
-      "sh": "#001133",
-      "me": "#001133",
+      "periodo": "1920 - 1928",
+      "tipo": "lisa",
+      "colores": [
+        "#FFFFFF"
+      ],
+      "desc": "Durante sus primeros amistosos y torneos fundacionales en Cerdeña, los jugadores utilizaban modestas camisas lisas confeccionadas puramente en color blanco."
+    },
+    {
+      "periodo": "1928 - actualidad",
       "tipo": "mitades",
-      "desc": "Inspirados en los estandartes heráldicos clásicos de la ciudad de Cerdeña y sus regiones locales, su fisonomía oficial es y ha consistido históricamente en mitades verticales divididas al centro entre el azul oscuro y el rojo carmesí."
+      "colores": [
+        "#E32221",
+        "#00008B"
+      ],
+      "desc": "El club sardo consolidó para siempre el diseño de camiseta arlequín dividida perfectamente en dos mitades verticales idénticas: una sección roja y otra azul marino muy oscuro (Rossoblù), rematando la identidad de la ciudad."
     }
   ],
   "idolos": [
     {
-      "nombre": "Luigi Riva",
-      "periodo": "1963-1976",
-      "pos": "Delantero",
-      "desc": "Conocido como Gigi. Máximo ídolo y goleador del equipo que consiguió la hazaña histórica de obtener el título local formal de Serie A en 1970."
-    },
-    {
-      "nombre": "Daniele Conti",
-      "periodo": "1999-2015",
-      "pos": "Mediocampista",
-      "desc": "Mediocampista defensivo originario de las juveniles y eterno capitán. Dueño de la marca inexpugnable formal que corresponde al máximo jugador con participaciones sumando más de 400 partidos."
+      "nombre": "Gigi Riva",
+      "apodo": "Rombo di Tuono",
+      "epoca": "1963-1976",
+      "desc": "El mito máximo de la isla. El delantero zurdo de potencia devastadora rechazó cheques en blanco masivos de la Juventus para jurar lealtad eterna a Cerdeña. Conquistó el Scudetto histórico y es el goleador histórico intocable de la Selección Italiana."
     },
     {
       "nombre": "Gianfranco Zola",
-      "periodo": "2003-2005",
-      "pos": "Mediocampista",
-      "desc": "Talentoso y veloz delantero italiano. Retornó sorpresivamente para las campañas finales logrando devolver asiduamente al equipo en un complejo campeonato formativo hasta lograr el ascenso."
+      "apodo": "Magic Box",
+      "epoca": "2003-2005",
+      "desc": "El pequeño mago sardo regresó triunfante a la isla natal en el epílogo de su brillante carrera internacional inglesa para devolver al Cagliari a la Serie A. Su talento inspirador y humildad encendieron un renacimiento fervoroso sin precedentes en las gradas locales."
     },
     {
-      "nombre": "David Suazo",
-      "periodo": "1999-2007",
-      "pos": "Delantero",
-      "desc": "Atacante hondureño. Lideró la ofensiva logrando consagrarse y asumiendo registros como goleador del equipo superando más de cien conquistas absolutas."
+      "nombre": "Daniele Conti",
+      "apodo": "Il Capitano",
+      "epoca": "1999-2015",
+      "desc": "A pesar de ser oriundo de Roma, el fiero y combativo mediocampista adoptó la isla como su hogar. Fue el capitán combativo durante más de quince años, un especialista en marcarle asombrosamente goles cruciales a la mismísima Roma."
+    },
+    {
+      "nombre": "Miguel Ángel Nené",
+      "apodo": "Nené",
+      "epoca": "1964-1976",
+      "desc": "El exquisito centrocampista brasileño (campeón mundial en 1958) llegó a Cerdeña y se transformó en el escudero táctico y técnico perfecto de Riva, aportando la fantasía carioca vital para obtener el campeonato de liga."
     },
     {
       "nombre": "Enzo Francescoli",
-      "periodo": "1990-1993",
-      "pos": "Delantero",
-      "desc": "Fino volante creativo uruguayo. Resultó pilar indispensable asumiendo la generación de juego del equipo liguero de principios de años noventa logrando mantener a la plantilla a salvo."
+      "apodo": "El Príncipe",
+      "epoca": "1990-1993",
+      "desc": "El elegante y señorial enganche uruguayo aportó jerarquía técnica de altísimo nivel mundial a la escuadra isleña. Su clase magistral orquestó salvaciones milagrosas del descenso y devolvió el buen juego estilístico al antiguo campo de Sant'Elia."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Luigi Riva",
+      "nombre": "Gigi Riva",
+      "apodo": "Rombo di Tuono",
+      "epoca": "1963-1976",
       "goles": 208,
-      "periodo": "1963-1976",
-      "partidos": 374,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1963-1976."
+      "desc": "Las inatajables misileras zurdas y potentes cabezazos abrumadores acrobáticos demoledores lo elevaron y coronaron eternamente como un semidiós y dios supremo inalcanzable de toda Cerdeña aplastando batiendo pulverizando destrozando y liderando inmensamente sin rival todos los registros."
     },
     {
       "nombre": "David Suazo",
+      "apodo": "La Pantera",
+      "epoca": "1999-2007",
       "goles": 102,
-      "periodo": "1999-2007",
-      "partidos": 275,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 102 goles en competiciones oficiales durante su trayectoria en el equipo entre 1999-2007."
+      "desc": "La velocidad trepidante inigualable inalcanzable fulminante arrolladora arrolladora e inatajable implacable descomunal veloz del asombroso letal atacante hondureño sembró e impuso puro terror pánico absoluto profundo mortal desesperante a todos los defensores italianos salvando asombrosamente repetitivamente de incontables múltiples terribles descensos al heroico club."
     },
     {
       "nombre": "Luigi Piras",
-      "goles": 104,
-      "periodo": "1973-1987",
-      "partidos": 377,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 104 goles en competiciones oficiales durante su trayectoria en el equipo entre 1973-1987."
+      "apodo": "Gigi",
+      "epoca": "1973-1987",
+      "goles": 87,
+      "desc": "Un centrodelantero incesante fiero oportunista aguerrido batallador solidario trabajador inquebrantable luchador incondicional rudo áspero local puro sardo combatiendo implacablemente en el área menor garantizando infalible brillante y heroicamente la cuota dura goleadora en las complejas grises áridas inestables y ásperas y durísimas campañas post-campeonato."
     },
     {
       "nombre": "João Pedro",
+      "apodo": "Joao",
+      "epoca": "2014-2022",
       "goles": 86,
-      "periodo": "2014-2022",
-      "partidos": 271,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2022."
+      "desc": "El mediapunta y delantero ítalo-brasileño brilló con descollante fantástica inmensa deslumbrante brillante y técnica exquisita regularidad magistral en años recientes sumamente duros e inestables asumiendo la enorme responsabilidad letal de ser la única certera salvadora esperanza ofensiva insoslayable letal del club."
     },
     {
-      "nombre": "Mauro Esposito",
-      "goles": 65,
-      "periodo": "2001-2007",
-      "partidos": 216,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 65 goles en competiciones oficiales durante su trayectoria en el equipo entre 2001-2007."
+      "nombre": "Roberto Muzzi",
+      "apodo": "Roberto",
+      "epoca": "1994-1999",
+      "goles": 64,
+      "desc": "Atacante tenaz combativo aguerrido letal implacable corpulento duro fiero letal insaciable que perforó las duras redes contrarias rindiendo de maravilla de forma soberbia e histórica en el espléndido equipo isleño forjando su paso a las recordadas gloriosas semifinales imborrables continentales imborrables coperas."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Daniele Conti",
-      "partidos": 464,
-      "periodo": "1999-2015",
-      "goles": 51,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 464 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1999-2015."
+      "apodo": "Il Capitano",
+      "epoca": "1999-2015",
+      "presencias": 464,
+      "desc": "Instauró forjó cimentó y afianzó asombrosamente la inmensa marca máxima absoluta definitiva infranqueable asombrosa sumando imbatible fiero heroico colosal titánico abnegado estoico sudando defendiendo sin descanso repartiendo y combatiendo heroicamente el terreno medio de juego con enorme dureza y coraje a lo largo de décadas."
     },
     {
       "nombre": "Mario Brugnera",
-      "partidos": 404,
-      "periodo": "1968-1982",
-      "goles": 40,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 404 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1968-1982."
-    },
-    {
-      "nombre": "Nené",
-      "partidos": 380,
-      "periodo": "1964-1976",
-      "goles": 26,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 380 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1976."
+      "apodo": "Mario",
+      "epoca": "1968-1974, 1975-1982",
+      "presencias": 390,
+      "desc": "Un comodín utilísimo táctico orquestador organizador creativo mediocampista heroico polivalente infatigable inagotable solidario trabajador incansable pilar rústico inamovible de los históricos inmensos triunfos dorados del 70 extendiendo su sólida extensa y legendaria carrera defendiendo estoico aferrado a su amado escudo de la bella isla."
     },
     {
       "nombre": "Luigi Piras",
-      "partidos": 377,
-      "periodo": "1973-1987",
-      "goles": 104,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 377 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1987."
+      "apodo": "Gigi",
+      "epoca": "1973-1987",
+      "presencias": 377,
+      "desc": "Hijo prodigo nato propio legítimo incuestionable sardo puro inquebrantable leal incondicional de corazón valiente que no solamente no abandonó al equipo humilde en las dolorosas áridas y duras horas bajas de descensos, sino que lideró batiéndose fiero en cada heroico agónico épico y heroico combate físico incesante liguero."
     },
     {
-      "nombre": "Luigi Riva",
-      "partidos": 374,
-      "periodo": "1963-1976",
-      "goles": 208,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 374 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1963-1976."
+      "nombre": "Gigi Riva",
+      "apodo": "Rombo di Tuono",
+      "epoca": "1963-1976",
+      "presencias": 374,
+      "desc": "Además de su brutal letal apabullante y colosal insólita capacidad asesina infalible y mortífera rompiendo letalmente letal las durísimas vallas del campeonato local itálico nacional, el ícono dios sardo permaneció inamovible estoico e incesante heroico sumando cientos centenares infinitos e interminables choques brutales gloriosos para su amada tierra."
+    },
+    {
+      "nombre": "Miguel Ángel Nené",
+      "apodo": "Nené",
+      "epoca": "1964-1976",
+      "presencias": 355,
+      "desc": "El genial sutil técnico táctico elegante y fino estratega brasileño sudamericano fue inmensamente valorado intocable indiscutible intocable inquebrantable vital y titular fijo intocable durante más de una brillante espectacular esplendorosa e inmensa década deslumbrando asombrosa ininterrumpida e incansablemente asombrando e iluminando con su magistral y excelsa pura magia el colmado estadio."
     }
   ],
   "titulos": [
@@ -273,5 +308,19 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Rossoblù",
+      "desc": "Es la mención ineludible a la división cromática de su camiseta oficial ('Rojiazules'). Los colores rojo profundo y azul oscuro fueron estipulados por los fundadores como un espejo de la propia bandera cívica de la ciudad."
+    },
+    {
+      "nombre": "Gli Isolani",
+      "desc": "Un apelativo puramente geográfico ('Los Isleños'). Resalta el orgullo de ser el principal y más competitivo bastión deportivo de la vasta isla de Cerdeña compitiendo históricamente contra los hegemónicos clubes de Italia continental."
+    },
+    {
+      "nombre": "Casteddu",
+      "desc": "Es el nombre autóctono de la capital en el idioma y dialecto local sardo ('Castillo'). La afición y la prensa regional suelen referirse coloquialmente al equipo bajo esta milenaria y férrea denominación identitaria."
+    }
+  ]
 }

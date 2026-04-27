@@ -39,156 +39,172 @@
   "historia": [
     {
       "ano": "1900",
-      "hito": "Atletas en la Piazza della Libertà",
-      "desc": "El 9 de enero de 1900, lejos de los aristocráticos campos de césped y en el frío mármol de un banco público a orillas del río Tíber en la céntrica Piazza della Libertà de Roma, el suboficial de los Bersaglieri y atleta Luigi Bigiarelli convocó a un grupo de nueve deportistas y corredores romanos. Su ambición principal era sortear estatutos restrictivos de atletismo y poder competir legalmente. Constituyeron allí mismo la Società Podistica Lazio. Rechazando monopolizar el nombre de 'Roma', Bigiarelli adoptó el título de 'Lazio' para abarcar e integrar a toda la región extendida. Eligieron orgullosamente colores blancos y azules, inspirándose fuertemente y homenajeando el país de origen de los Juegos Olímpicos originarios de Grecia."
+      "hito": "Fundación como club de atletismo pedestre",
+      "desc": "La Società Sportiva Lazio fue fundada el 9 de enero de 1900 en las cercanías de la céntrica Piazza della Libertà de Roma. El proyecto fue ideado por Luigi Bigiarelli (un suboficial de los Bersaglieri) y ocho amigos cercanos. El objetivo original no estaba vinculado al fútbol, sino que la entidad nació como un club de corredores de atletismo y pedestrismo (Società Podistica Lazio) cuyo propósito primario era participar y competir en el naciente Giro del Castel Giubileo. Eligieron la denominación 'Lazio' y el símbolo del águila imperial romana con el fin de proyectar una identidad regional que englobara y trascendiera a la propia ciudad."
     },
     {
       "ano": "1974",
-      "hito": "Primer Campeonato de Serie A del Club",
-      "desc": "Con el mando deportivo del exjugador y técnico Tommaso Maestrelli, la Società Sportiva Lazio alcanzó el Scudetto estadísticamente por delante de competidores como Juventus. El delantero centro, Giorgio Chinaglia, contribuyó funcionalmente como eje principal en los partidos, estableciendo un primer hito liguero."
+      "hito": "El primer Scudetto y el equipo rebelde de Maestrelli",
+      "desc": "Tras la formación de una sección de fútbol formal en 1910, la Lazio debió esperar hasta 1974 para probar la gloria máxima. Dirigidos por el paternal Tommaso Maestrelli, este plantel es recordado como el más conflictivo, excéntrico y armado de la historia del Calcio (muchos jugadores llevaban armas a la concentración y estaban divididos en clanes enfrentados). A pesar de los conflictos internos feroces, en el campo conformaban una máquina letal liderada por el implacable artillero Giorgio Chinaglia, coronándose campeones de la Serie A."
     },
     {
-      "ano": "1999",
-      "hito": "Expansión Europea y Torneos UEFA",
-      "desc": "A lo largo de los noventa bajo la presidencia del grupo accionario de Sergio Cragnotti, el grupo sumó fichajes de impacto internacional y el entrenador Sven-Göran Eriksson. Ganaron la final en disputa por la Recopa de Europa ganándole en formato final al RCD Mallorca, seguido de la correspondiente Supercopa UEFA."
+      "ano": "1998-2000",
+      "hito": "La era dorada de Cragnotti y el segundo campeonato",
+      "desc": "La adquisición del club por parte del empresario Sergio Cragnotti revolucionó la inversión institucional de la entidad. Desembolsando millones en fichajes de jerarquía mundial (Nedved, Verón, Nesta, Vieri), la escuadra fue liderada por Sven-Göran Eriksson. La inmensa superioridad de este proyecto derivó en la obtención de la Recopa de Europa de 1999 y culminó con la conquista matemática del histórico segundo Scudetto en el cierre dramático de la campaña 1999-2000."
     },
     {
-      "ano": "2000",
-      "hito": "Segundo Scudetto en el Año de Aniversario",
-      "desc": "La plantilla obtuvo su segunda presea de liga finalizando el último partido con un marcador favorable contra la Juventus en días contiguos. Equipos integrados por centrocampistas de prestigio general como Juan Sebastián Verón afianzaron los logros del período."
+      "ano": "2002-2004",
+      "hito": "La crisis del grupo Cirio y la reestructuración",
+      "desc": "La era de excesos de Cragnotti estalló financieramente con la quiebra absoluta de su imperio agroalimentario Cirio. La Lazio enfrentó una deuda abismal que obligó al club a vender a prácticamente la totalidad de sus figuras internacionales en precios de remate y recortar salvajemente los salarios de la plantilla. El club se salvó de la quiebra definitiva por la intervención legal del presidente Claudio Lotito en 2004, quien instauró un régimen económico severo."
     },
     {
       "ano": "2013",
-      "hito": "Último Trofeo Copero Exclusivo contra AS Roma",
-      "desc": "Las dos representaciones principales de la ciudad se enfrentaron tácticamente en el marco de una final correspondiente a la Coppa Italia. El único gol y tanto diferencial del enfrentamiento fue señalado por el volante de banda Senad Lulić con marcador definitivo (1-0)."
+      "hito": "La victoria eterna en la final del Derbi de Roma",
+      "desc": "El 26 de mayo de 2013 es recordado como el capítulo más agudo e importante de la rivalidad capitalina. La Lazio y la Roma se enfrentaron por primera y única vez en una Final absoluta de la Coppa Italia en el Estadio Olímpico. Los 'Biancocelesti', dirigidos por Vladimir Petković, ganaron 1-0 con un histórico y agónico gol del mediocampista bosnio Senad Lulić, un triunfo de valor emocional incalculable para sus fanáticos frente al histórico rival."
     }
   ],
   "canchas": [
     {
+      "nombre": "Stadio della Rondinella",
+      "direccion": "Viale Tiziano, Roma",
+      "google_maps": "https://goo.gl/maps/rondinella",
+      "fecha_uso": "1914-1931"
+    },
+    {
+      "nombre": "Stadio Nazionale del PNF",
+      "direccion": "Via Flaminia, Roma",
+      "google_maps": "https://goo.gl/maps/pnf",
+      "fecha_uso": "1931-1953"
+    },
+    {
       "nombre": "Stadio Olimpico di Roma",
-      "capacidad": "70.634",
-      "inauguracion": "17 de mayo de 1953",
-      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20dei%20Gladiatori%2C%2000135%20Roma%2C%20Lacio",
-      "direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
-      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Olimpico."
+      "direccion": "Viale dei Gladiatori, Roma",
+      "google_maps": "https://maps.app.goo.gl/olimpico-roma",
+      "fecha_fundacion": "1953",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Olimpico",
+          "desde": "1953",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1900,
-      "hasta": null,
-      "c1": "#7ec1e8",
-      "c2": "#7ec1e8",
-      "sh": "#ffffff",
-      "me": "#7ec1e8",
-      "tipo": "liso",
-      "desc": "Con honorabilidades alusivas y olímpicas originales de Grecia como principal motivo del equipo atlético, su modelo fundacional consiste invariablemente a través de las décadas en un color cielo o celeste de base totalmente plana o lisa."
+      "periodo": "1900 - actualidad",
+      "tipo": "lisa",
+      "colores": [
+        "#87CEEB",
+        "#FFFFFF"
+      ],
+      "desc": "La institución escogió una indumentaria lisa color azul cielo (celeste) acompañada de detalles y pantalones blancos (Biancoceleste). La paleta de colores fue elegida meticulosamente por los fundadores como un homenaje explícito y directo a la bandera de Grecia, cuna de los Juegos Olímpicos y los valores deportivos clásicos."
     }
   ],
   "idolos": [
     {
       "nombre": "Giorgio Chinaglia",
-      "periodo": "1969-1976",
-      "pos": "Delantero",
-      "desc": "Carismático icono ofensivo temperamental idolatrado en demasía por parte estricta sectorial del pasional graderío olímpico a fines formales de los setenta. Pieza vital abrumadora e indiscutida en aquella consagratoria primera conquista heroica del legendario título doméstico nacional disputando las mayores lides de jerarquía."
+      "apodo": "Long John",
+      "epoca": "1969-1976",
+      "desc": "El carismático y rebelde atacante fue el símbolo absoluto del salvaje e histórico equipo de 1974. Un artillero colosal, polémico y amado profundamente por la Curva Nord, liderando a un grupo de jugadores inmanejables hacia su primer Scudetto."
     },
     {
       "nombre": "Alessandro Nesta",
-      "periodo": "1993-2002",
-      "pos": "Defensor",
-      "desc": "Imponente zaguero e insoslayable producto originario surgido impecablemente de sus propias divisiones básicas en la academia de formación. De estirpe imperial, comandó una impenetrable e impenetrable estructura defensiva asombrosa guiando asertivamente por pasillos al formal equipo ganador de la liga del 2000."
+      "apodo": "Sandro",
+      "epoca": "1993-2002",
+      "desc": "Surgido de la propia cantera, el elegantísimo defensor central se convirtió en el capitán estandarte de la época dorada de Sergio Cragnotti, alzando como líder incuestionable de la zaga el histórico Scudetto del año 2000."
+    },
+    {
+      "nombre": "Giuseppe Signori",
+      "apodo": "Beppe",
+      "epoca": "1992-1997",
+      "desc": "Delantero zurdo indescifrable que destrozó las redes del Calcio en los años noventa. Famoso por cobrar los penales sin tomar carrera, fue Capocannoniere en tres ocasiones distintas y un ídolo indiscutido de la hinchada romana."
     },
     {
       "nombre": "Silvio Piola",
-      "periodo": "1934-1943",
-      "pos": "Delantero",
-      "desc": "Ariete letal y contundente sin parangón en el historial general formal del certamen nacional italiano. En su etapa lazial dictaminó registros irrepetibles imponiendo brutalmente sus cifras máximas estatuarias de goleador total oficial para este icónico conjunto del norte de la estricta urbe romana."
+      "apodo": "Il Silvio",
+      "epoca": "1934-1943",
+      "desc": "El legendario delantero italiano (máximo goleador de la historia de la Serie A) forjó sus años dorados más temibles vistiendo la camiseta celeste, aportando un instinto anotador sobrehumano en la era de los años treinta."
     },
     {
-      "nombre": "Ciro Immobile",
-      "periodo": "2016-2024",
-      "pos": "Delantero",
-      "desc": "Artillero abrumador originario del siglo actual. Batió por largo la mítica cantidad acumulativa formal en la parte delantera consagrándose férreamente repetidas campañas completas en un goleador rotundo del afamado 'Capocannoniere' a base letal de resolución y contundencia directa incontestable."
-    },
-    {
-      "nombre": "Pavel Nedvěd",
-      "periodo": "1996-2001",
-      "pos": "Mediocampista",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de mediocampista durante el período 1996-2001, consolidándose como uno de los futbolistas más representativos del equipo."
+      "nombre": "Paolo Di Canio",
+      "apodo": "Paolino",
+      "epoca": "1985-1990, 2004-2006",
+      "desc": "Un hincha fanático que bajó de la Curva Nord para jugar en el césped. Atacante temperamental, polémico e inmensamente dotado, su regreso al club para marcarle a la Roma en el derbi en el epílogo de su carrera lo elevó al grado de mito."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Ciro Immobile",
+      "apodo": "King Ciro",
+      "epoca": "2016-2024",
       "goles": 207,
-      "periodo": "2016-2024",
-      "partidos": 340,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 207 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2024."
+      "desc": "El implacable y contemporáneo cazagoles napolitano rompió todos los moldes estadísticos preexistentes de la institución, convirtiéndose en el artillero más prolífico de la historia del club ganando múltiples premios de Capocannoniere y la Bota de Oro europea en 2020."
     },
     {
       "nombre": "Silvio Piola",
-      "goles": 149,
-      "periodo": "1934-1943",
-      "partidos": 227,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 149 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1943."
+      "apodo": "Il Silvio",
+      "epoca": "1934-1943",
+      "goles": 159,
+      "desc": "Mantuvo estoicamente el cetro de máximo goleador biancoceleste por más de siete décadas. Su efectividad física dentro del área chica dominó un fútbol sumamente férreo en la Italia de entreguerras."
     },
     {
       "nombre": "Giuseppe Signori",
+      "apodo": "Beppe",
+      "epoca": "1992-1997",
       "goles": 127,
-      "periodo": "1992-1997",
-      "partidos": 195,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 127 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-1997."
+      "desc": "El zurdo infernal se dedicó a fulminar porteros con latigazos imparables desde cualquier sector ofensivo, transformándose en el ícono letal indiscutido de la Lazio durante casi toda la década de los 90."
     },
     {
       "nombre": "Giorgio Chinaglia",
+      "apodo": "Long John",
+      "epoca": "1969-1976",
       "goles": 122,
-      "periodo": "1969-1976",
-      "partidos": 263,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 122 goles en competiciones oficiales durante su trayectoria en el equipo entre 1969-1976."
+      "desc": "Su descomunal potencia atlética le permitía cargar contra las duras defensas del Catenaccio casi sin asistencia. Anotó 24 vitales goles en la inolvidable campaña campeona de 1974."
     },
     {
       "nombre": "Bruno Giordano",
+      "apodo": "Bruno",
+      "epoca": "1975-1985",
       "goles": 108,
-      "periodo": "1975-1985",
-      "partidos": 258,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1985."
+      "desc": "Surgido en Trastevere, fue el sucesor natural de Chinaglia. Un atacante dotado de una habilidad técnica exquisita que deslumbró a la afición manteniéndose fiel a la escuadra durante los oscuros y durísimos años de descenso en los 80."
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Stefan Radu",
-      "partidos": 427,
-      "periodo": "2008-2023",
-      "goles": 8,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 427 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2023."
+      "nombre": "Ștefan Radu",
+      "apodo": "Il Boss",
+      "epoca": "2008-2023",
+      "presencias": 427,
+      "desc": "El aguerrido defensor rumano escribió su nombre en oro al convertirse silenciosa y ferozmente en el hombre con más presencias de todos los tiempos. Un soldado incansable e inamovible en la defensa capitalina durante quince años."
     },
     {
       "nombre": "Giuseppe Favalli",
-      "partidos": 401,
-      "periodo": "1992-2004",
-      "goles": 6,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 401 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2004."
+      "apodo": "Beppe",
+      "epoca": "1992-2004",
+      "presencias": 401,
+      "desc": "El sólido lateral izquierdo fue el capitán de los inmensos triunfos de la época dorada, levantando ocho títulos oficiales, entre ellos el ansiado Scudetto del año 2000, con una constancia defensiva ejemplar."
     },
     {
       "nombre": "Giuseppe Wilson",
-      "partidos": 394,
-      "periodo": "1969-1980",
-      "goles": 6,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1980."
+      "apodo": "Pino",
+      "epoca": "1969-1980",
+      "presencias": 394,
+      "desc": "El líbero nacido en Inglaterra fue el capitán de la mítica 'banda armada' de Maestrelli. Ordenaba la férrea defensa con autoridad incontestable liderando tácticamente a los rebeldes hacia la gloria de 1974."
     },
     {
       "nombre": "Paolo Negro",
-      "partidos": 376,
-      "periodo": "1993-2005",
-      "goles": 24,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 376 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1993-2005."
+      "apodo": "Paolo",
+      "epoca": "1993-2005",
+      "presencias": 376,
+      "desc": "Defensor versátil y sacrificado, pieza vital del andamiaje defensivo de la era Cragnotti. Cubrió todas las posiciones de la retaguardia durante más de una década brindando garantías absolutas."
     },
     {
-      "nombre": "Senad Lulic",
-      "partidos": 371,
-      "periodo": "2011-2021",
-      "goles": 34,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 371 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2011-2021."
+      "nombre": "Senad Lulić",
+      "apodo": "Lulic 71",
+      "epoca": "2011-2021",
+      "presencias": 371,
+      "desc": "El incansable volante bosnio quedó inmortalizado por toda la eternidad al marcar el glorioso gol decisivo en el minuto 71 en la histórica final de Coppa Italia de 2013 ante la Roma, erigiéndose como un prócer moderno con cientos de batallas."
     }
   ],
   "titulos": [
@@ -328,5 +344,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Biancocelesti",
+      "desc": "Referencia literal a su indumentaria originaria ('Blanquicelestes'). Los fundadores del club a principios de siglo escogieron el celeste y el blanco como homenaje a la bandera de Grecia, reconociendo el origen del ideal deportivo de los Juegos Olímpicos."
+    },
+    {
+      "nombre": "Le Aquile",
+      "desc": "Apodo que remite a 'Las Águilas'. El club adoptó esta majestuosa ave de presa porque representaba las legiones imperiales del Antiguo Imperio Romano, enmarcándola permanentemente en el pecho de sus camisetas y escudos."
+    }
+  ]
 }

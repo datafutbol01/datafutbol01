@@ -39,156 +39,193 @@
   "historia": [
     {
       "ano": "1906",
-      "hito": "Alfred Dick y la Gran Escisión en la Voigt",
-      "desc": "Las calles gélidas invernales de Turín y el monopolio administrativo absoluto albergaban tensas rencillas. A fines de 1906, el iracundo magnate y ex presidente de la Juventus, el empresario suizo Alfred Dick, no toleró y se reveló ferozmente al ser derrocado normativamente del control oficial del club piamontés. Arrastrando y llevándose logísticamente a varios jugadores disidentes y uniéndose e instalándose a los ya formados delegados del Football Club Torinese, la gélida y oscura noche fundacional del 3 de diciembre se congregaron de forma clandestina en las atestadas y ruidosas mesas y bancos de madera de la mítica Cervecería Voigt sobre Via Pietro Micca. Allí fundaron orgánicamente de modo oficial el FBC Torino, juramentándose constituir al némesis rebelde cívico y adoptando oficialmente el oscuro color rojo granate extraído ceremonialmente del escudo ducal pasional piamontés."
+      "hito": "La secesión y el pacto en la Birreria Voigt",
+      "desc": "El Torino Football Club fue fundado el 3 de diciembre de 1906 tras una histórica reunión nocturna en la Birreria Voigt de Turín. La gestación de la entidad provino directamente de un cisma dentro de la Juventus. El influyente empresario suizo Alfred Dick (quien acababa de ser expulsado de la presidencia juventina) impulsó la fundación de un nuevo equipo apoyado por Vittorio Pozzo y disidentes del FC Torinese. El nuevo club eligió el color granate como identidad visual, dando inicio a uno de los derbis ciudadanos más profundos de la península itálica."
     },
     {
-      "ano": "1928",
-      "hito": "Compilación Primer Logro y Campeo Nato Absoluto Oficial",
-      "desc": "Constituidos orgánicamente mediante acciones y soporte provisto a presidencia de Enrico Marone conformaron línea atacante consolidada internamente base tripartita (Julio Libonatti junto los correspondientes adjuntos) adjudicándose el registro de liga estipulado superando deficiencias normativas pasadas de revocatoria estricta reglamentaria y así convalidar el título histórico primero de la lista local general nacional de su competencia y vitrina."
+      "ano": "1943-1949",
+      "hito": "El dominio absoluto del 'Grande Torino'",
+      "desc": "A lo largo de la década de los cuarenta, el Torino forjó una alineación legendaria bautizada mundialmente como 'Il Grande Torino'. Construido por el presidente Ferruccio Novo y liderado en el campo por el inigualable capitán Valentino Mazzola, este equipo deslumbrante introdujo revolucionarios esquemas de juego ofensivo y avasalló el fútbol italiano adjudicándose cinco Scudettos consecutivos, marcando récords de goleo y aportando hasta diez jugadores titulares simultáneos a la Selección Italiana."
     },
     {
       "ano": "1949",
-      "hito": "Eventualidad Fatal Directa y Reconocimiento Quíntuple Regular Oficial",
-      "desc": "La obtención documentada y en forma continuada estableciendo periodos con un total cinco marcas logradas continuas ligueras Serie A avalaron registro denominado local el 'Grande Torino'. En circunstancias aéreas del traslado de base oficial retornando por labores en mayo acaeció siniestro documentado conocido técnicamente con un accidente en zona geográfica Superga. La liga documentó la adjudicación final respetiva."
+      "hito": "La Tragedia de Superga",
+      "desc": "El 4 de mayo de 1949 se escribió la página más dolorosa y definitoria del fútbol mundial contemporáneo. Tras disputar un encuentro de exhibición en Portugal frente al Benfica, el avión Fiat G.212 que transportaba de regreso a todo el plantel, cuerpo técnico y directivos del 'Grande Torino' se estrelló contra el muro posterior de la Basílica de Superga, en las colinas de Turín, debido a una espesa niebla. Los 31 pasajeros perecieron instantáneamente. El trágico evento diezmó al club y enlutó a una nación entera que decretó semanas de duelo."
     },
     {
       "ano": "1976",
-      "hito": "Resolución Posterior al Periodo Reestructurativo Tras Perida Larga Nacional",
-      "desc": "Desarrollando normativas tras tres décadas post operativas reorganizadas bajo técnica impuesta interna al mando central a campo del entrenador táctico Luigi Radice junto con el sistema funcional en delanteros Paolo Pulici obtuvieron puntos computados generales válidos suficientes durante campaña oficial ligada restando posición última a su competidor garantizando al listado final su validación formal oficial campeonato ligueros séptimo sumatorio liguero Serie A."
+      "hito": "El renacer granate: El Scudetto post-Superga",
+      "desc": "Tras más de dos décadas de enorme sufrimiento institucional e inestabilidad deportiva para intentar llenar el vacío de Superga, el equipo finalmente logró ensamblar un plantel ganador bajo las órdenes del técnico Luigi Radice. Impulsados por una letal y sincronizada dupla ofensiva bautizada como los 'Gemelli del Gol' (Paolo Pulici y Francesco Graziani), el Torino ganó la Serie A en 1976, recuperando su orgullo en el derbi ante la poderosa Juventus y sanando la histórica herida de su afición."
     },
     {
       "ano": "1992",
-      "hito": "Operador Competidor Finalista Regular A Torneo Europa Ámsterdam Regulado",
-      "desc": "Efectuando sumatorias a escala competición dispuesta en Copa organizada nivel normado continente Europa, la alineación operada tácticamente y reglada formal accedió como representante liguera calificada a partido definitivo resolutivo con serie emparejada finalizando contienda oficial de trámite versus sociedad de la región holandes Ajax siendo eliminados de cupo campeonato reglamentado internacional a contienda resolutiva sin adjudicación ganadora resolviendo finalista subcampeón histórico regular oficial europeo estatuario estipulado UEFA regular normado."
+      "hito": "La trágica final continental ante el Ajax",
+      "desc": "El Torino protagonizó una memorable cabalgata europea eliminando al poderoso Real Madrid para alcanzar la Final de la Copa de la UEFA de 1992, donde se enfrentaron al mítico Ajax holandés dirigido por Louis van Gaal. En una definición a doble partido decidida por la regla del gol de visitante, el Torino empató globalmente pero se quedó sin el trofeo continental, en un encuentro recordado amargamente por los hinchas tras impactar hasta tres disparos seguidos en los postes durante el partido de vuelta en Ámsterdam."
     }
   ],
   "canchas": [
     {
+      "nombre": "Velodromo Umberto I",
+      "direccion": "Corso Duca degli Abruzzi, Torino",
+      "google_maps": "https://goo.gl/maps/umberto-1",
+      "fecha_uso": "1906-1910"
+    },
+    {
+      "nombre": "Campo Stradale Stupinigi",
+      "direccion": "Corso Unione Sovietica, Torino",
+      "google_maps": "https://goo.gl/maps/stupinigi",
+      "fecha_uso": "1913-1926"
+    },
+    {
+      "nombre": "Stadio Filadelfia",
+      "direccion": "Via Filadelfia 36, Torino",
+      "google_maps": "https://goo.gl/maps/filadelfia",
+      "fecha_uso": "1926-1963"
+    },
+    {
       "nombre": "Stadio Olimpico Grande Torino",
-      "capacidad": "28.177",
-      "inauguracion": "14 de mayo de 1933",
-      "url": "https://www.google.com/maps/search/?api=1&query=Via%20Filadelfia%2096%2Fb%2C%2010134%20Torino%2C%20Piamonte",
-      "direccion": "Via Filadelfia 96/b, 10134 Torino, Piamonte",
-      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Comunale."
+      "direccion": "Via Filadelfia 96, Torino",
+      "google_maps": "https://maps.app.goo.gl/grande-torino",
+      "fecha_fundacion": "1933",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Municipale Benito Mussolini",
+          "desde": "1933",
+          "hasta": "1945"
+        },
+        {
+          "nombre": "Stadio Comunale",
+          "desde": "1945",
+          "hasta": "2006"
+        },
+        {
+          "nombre": "Stadio Olimpico",
+          "desde": "2006",
+          "hasta": "2016"
+        },
+        {
+          "nombre": "Stadio Olimpico Grande Torino",
+          "desde": "2016",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1906,
-      "hasta": null,
-      "c1": "#870423",
-      "c2": "#870423",
-      "sh": "#ffffff",
-      "me": "#870423",
-      "tipo": "liso",
-      "desc": "Basado y fundamentado logísticamente sobre las asambleas desprendidas de la original turinesa, y como estandarte a banderas suízas o duques históricos emplearon de forma perenne plana una camisa llanamente de textura base granate roja oscura o bordó."
+      "periodo": "1906 - actualidad",
+      "tipo": "lisa",
+      "colores": [
+        "#800000",
+        "#FFFFFF"
+      ],
+      "desc": "El club viste su característica y emblemática camiseta lisa de color rojo oscuro o granate ('Granata'). Su adopción deriva del color que utilizaba el histórico club Servette suizo (país del primer presidente Alfred Dick), o en homenaje al color de la sangre derramada por la brigada Saboya que liberó Turín en 1706."
     }
   ],
   "idolos": [
     {
       "nombre": "Valentino Mazzola",
-      "periodo": "1942-1949",
-      "pos": "Mediocampista",
-      "desc": "Histórico mediocampista ofensivo y capitán que lideró al fantástico equipo que dominó la liga italiana en la década de 1940."
+      "apodo": "Il Capitano",
+      "epoca": "1942-1949",
+      "desc": "La leyenda absoluta del 'Grande Torino'. Mediocampista ofensivo de una completitud, carácter y liderazgo insuperables en la época mundial; famoso por remangarse las mangas de la camiseta para mandar al equipo a demoler rivales, pereció trágicamente en el desastre aéreo de Superga."
     },
     {
       "nombre": "Paolo Pulici",
-      "periodo": "1967-1982",
-      "pos": "Delantero",
-      "desc": "Reconocido atacante del elenco. Se estableció como titular indiscutido para convertirse en el máximo artillero de la historia del club."
+      "apodo": "Paolino / Puliciclone",
+      "epoca": "1967-1982",
+      "desc": "El goleador impetuoso y corazón del renacimiento piamontés de los años setenta. Su agresividad física y lealtad visceral hacia la entidad granate sanaron las profundas heridas que la afición arrastraba tras la tragedia, ganando el anhelado Scudetto en 1976."
+    },
+    {
+      "nombre": "Francesco Graziani",
+      "apodo": "Ciccio",
+      "epoca": "1973-1981",
+      "desc": "Compañero inseparable de Pulici formando los inmortales 'Gemelos del Gol'. Delantero potente, solidario y tácticamente genial, fue clave en la recuperación gloriosa de la institución y el triunfo del Scudetto."
     },
     {
       "nombre": "Giorgio Ferrini",
-      "periodo": "1959-1975",
-      "pos": "Mediocampista",
-      "desc": "Mediocampista de quite defensivo que disputó toda su extensa carrera profesional en el club. Posee el récord de mayor cantidad absoluta de presencias."
+      "apodo": "Il Capitano",
+      "epoca": "1959-1975",
+      "desc": "El verdadero símbolo del 'tremendismo granata' (la mentalidad combativa del club). Un fiero mediocampista que dejaba hasta la última gota de sangre en el césped, amado por no dar nunca una pelota por perdida ni achicarse en los derbis ante Juventus."
     },
     {
       "nombre": "Claudio Sala",
-      "periodo": "1969-1980",
-      "pos": "Mediocampista",
-      "desc": "Creativo delantero asistente que garantizó certeros pases para los delanteros estrellas del club obteniendo el campeonato inicial de los años 70."
-    },
-    {
-      "nombre": "Andrea Belotti",
-      "periodo": "2015-2022",
-      "pos": "Delantero",
-      "desc": "Vigoroso delantero centro de la era moderna. Superó tranquilamente la línea de cien tantos en el equipo asumiendo capitanías a lo largo de torneos recientes."
+      "apodo": "El Poeta",
+      "epoca": "1969-1980",
+      "desc": "Un creativo extremo de fantasía y pases mágicos. Asistía continuamente con centros divinos al letal dúo Pulici-Graziani. Su destreza técnica brillante aportó el esteticismo necesario al fiero equipo campeón de los setenta."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Paolo Pulici",
+      "apodo": "Puliciclone",
+      "epoca": "1967-1982",
       "goles": 172,
-      "periodo": "1967-1982",
-      "partidos": 437,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 172 goles en competiciones oficiales durante su trayectoria en el equipo entre 1967-1982."
+      "desc": "El inatajable huracán del área. Capocannoniere en tres distintas y formidables ocasiones, combinó una inquebrantable contundencia acróbata y potente para fijar para siempre el registro máximo histórico goleador institucional."
     },
     {
       "nombre": "Julio Libonatti",
-      "goles": 150,
-      "periodo": "1925-1934",
-      "partidos": 241,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 150 goles en competiciones oficiales durante su trayectoria en el equipo entre 1925-1934."
+      "apodo": "Julio",
+      "epoca": "1925-1934",
+      "goles": 157,
+      "desc": "El primer y brillante astro sudamericano (oriundo de Rosario) importado al balompié peninsular. El atacante argentino dictó cátedra anotando asombrosamente goles cruciales para conquistar en los locos años 20 los primeros títulos regionales."
     },
     {
       "nombre": "Gino Rossetti",
+      "apodo": "Gino",
+      "epoca": "1926-1933",
       "goles": 144,
-      "periodo": "1926-1933",
-      "partidos": 219,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 144 goles en competiciones oficiales durante su trayectoria en el equipo entre 1926-1933."
+      "desc": "Componente esencial del letal y pionero 'Trío de las Maravillas' (junto a Baloncieri y Libonatti), fusilaba con una frialdad temible a los porteros contemporáneos consolidando la primera época dorada de pre-guerra."
     },
     {
       "nombre": "Guglielmo Gabetto",
+      "apodo": "Guglielmo",
+      "epoca": "1941-1949",
       "goles": 127,
-      "periodo": "1941-1949",
-      "partidos": 219,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 127 goles en competiciones oficiales durante su trayectoria en el equipo entre 1941-1949."
+      "desc": "El centrodelantero inamovible de la colosal y legendaria escuadra del 'Grande Torino'. Su destreza acrobática permitía inflar permanentemente las redes, siendo trágica y tristemente una de las víctimas mortales en Superga."
     },
     {
-      "nombre": "Marco Ferrante",
-      "goles": 125,
-      "periodo": "1996-2004",
-      "partidos": 251,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 125 goles en competiciones oficiales durante su trayectoria en el equipo entre 1996-2004."
+      "nombre": "Francesco Graziani",
+      "apodo": "Ciccio",
+      "epoca": "1973-1981",
+      "goles": 122,
+      "desc": "Un artillero solidario que desbordaba a pura potencia física. En 1976 y 1977 logró registros goleadores fenomenales que sentaron las bases para alzar el título liguero soñado por toda una sufriente parcialidad turinesa."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Giorgio Ferrini",
-      "partidos": 566,
-      "periodo": "1959-1975",
-      "goles": 56,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 566 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1959-1975."
+      "apodo": "Il Capitano",
+      "epoca": "1959-1975",
+      "presencias": 566,
+      "desc": "El combativo líder eterno sobre el césped no conoció otra camiseta ni otros escudos. Dejó su alma disputando una estratosférica cantidad de partidos y su dorsal es reverenciado perpetuamente como símbolo de máxima lucha y espíritu granate."
     },
     {
       "nombre": "Paolo Pulici",
-      "partidos": 437,
-      "periodo": "1967-1982",
-      "goles": 172,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 437 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1967-1982."
+      "apodo": "Paolino",
+      "epoca": "1967-1982",
+      "presencias": 437,
+      "desc": "Durante quince largas, duras y brillantes campañas, el implacable anotador demostró que su fidelidad y su físico también estaban a la inmensa altura de la exigencia brutal de la rigurosa e implacable primera división de la liga."
     },
     {
       "nombre": "Renato Zaccarelli",
-      "partidos": 413,
-      "periodo": "1974-1987",
-      "goles": 22,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 413 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1987."
+      "apodo": "Zac",
+      "epoca": "1974-1987",
+      "presencias": 413,
+      "desc": "Polifuncional mediocampista que luego retrasó magistralmente su posición. Aportaba calma al furioso esquema combativo, orquestando y defendiendo en más de cuatrocientos épicos encuentros hasta lograr colgar las botas como leyenda absoluta."
     },
     {
       "nombre": "Claudio Sala",
-      "partidos": 360,
-      "periodo": "1969-1980",
-      "goles": 33,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 360 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1980."
+      "apodo": "El Poeta",
+      "epoca": "1969-1980",
+      "presencias": 360,
+      "desc": "La mente brillante de los dorados años 70 brindó una infinita cantidad inagotable y mágica de asistencias a lo largo de centenares de disputas encarnizadas por todo el largo y espeso territorio de Italia."
     },
     {
       "nombre": "Lido Vieri",
-      "partidos": 357,
-      "periodo": "1958-1969",
-      "goles": 0,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 357 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1958-1969."
+      "apodo": "Lido",
+      "epoca": "1958-1969",
+      "presencias": 357,
+      "desc": "El histórico guardameta construyó una sólida y larguísima carrera protegiendo valientemente los palos granates durante los complicados instantes previos a la explosión gloriosa, erigiéndose firmemente como un bastión de seguridad."
     }
   ],
   "titulos": [
@@ -280,5 +317,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Granata",
+      "desc": "Apodo principal derivado del color rojo oscuro intenso de su indumentaria ('Los Granates'). Existen dos versiones rigurosas sobre su origen: un homenaje al club Servette suizo de su presidente fundador o un tributo a la histórica Brigada Saboya."
+    },
+    {
+      "nombre": "Il Toro",
+      "desc": "Referencia heráldica directa al escudo de la ciudad de Turín (Torino significa literalmente 'pequeño toro'). Este animal es sinónimo de la fuerza física y el espíritu combativo ('tremendismo') inquebrantable que caracteriza históricamente al club."
+    }
+  ]
 }

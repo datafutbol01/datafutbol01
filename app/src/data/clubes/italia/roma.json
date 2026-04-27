@@ -39,156 +39,178 @@
   "historia": [
     {
       "ano": "1927",
-      "hito": "El Mandato Estatal y el Nacimiento Imperial",
-      "desc": "A lo largo de los años 20, la ciudad de Roma contaba administrativamente con un fútbol sumamente fragmentado que era presa fácil del aplastante y rico dominio norteño de Lombardía y Piamonte. Entendiendo la necesidad política y demográfica de construir un titán capaz de rivalizar con la Juventus, el ambicioso secretario del régimen en Roma, Italo Foschi, operó e impulsó activamente un mandato estatal para fusionar y unir administrativamente el 7 de junio de 1927 a tres clubes emblemáticos y endebles de la capital: Alba-Audace, el Roman y la histórica Fortitudo (dejando afuera exclusivamente a la Lazio). Así conformó y estructuró a la majestuosa Associazione Sportiva Roma. Apropiándose rigurosamente del fiero estandarte fundacional de la loba capitolina y de los colores inamovibles ocre y carmín imperial de la ciudad eterna fundadora, la escuadra forjó rápidamente su destino de grandeza pasional."
+      "hito": "Fusión para desafiar al norte industrial",
+      "desc": "La Associazione Sportiva Roma se fundó el 7 de junio de 1927 en el edificio de Via Forlì 16. La iniciativa fue ejecutada por el secretario federal del Partido Nacional Fascista de la ciudad, Italo Foschi. Siguiendo las directrices políticas de consolidación del régimen, Foschi orquestó la fusión forzosa de tres equipos preexistentes de la capital: Alba-Audace, Roman y Fortitudo-Pro Roma. El propósito institucional fue crear una entidad unificada con suficiente peso deportivo, económico y popular capaz de desafiar la abrumadora superioridad de los clubes del norte de Italia."
     },
     {
       "ano": "1942",
-      "hito": "Validación Exitosa del Primer Campeonato",
-      "desc": "Establecidos como local en la infraestructura Campo Testaccio, el club dirigido logísticamente por el entrenador Alfréd Schaffer y contando con los registros logrados estadísticamente por Amedeo Amadei, capitalizó las etapas de liga para aventajar en cifras por primera oportunidad en la tabla de cómputos totales, logrando así su primer Scudetto."
+      "hito": "El primer Scudetto de la Loba",
+      "desc": "En plena efervescencia y dificultades por el desarrollo de la Segunda Guerra Mundial, la escuadra capitalina logró adjudicarse su primer campeonato de la Serie A en la temporada 1941-1942. Guiados tácticamente por el técnico húngaro Alfréd Schaffer y liderados en el terreno por la implacable cuota goleadora del ídolo local Amedeo Amadei, la Roma cimentó su prestigio en una época sumamente austera."
     },
     {
       "ano": "1983",
-      "hito": "Establecimiento del Segundo Entorchado Liguero",
-      "desc": "Operados y regidos fácticamente durante una etapa competitiva a partir del cargo manejado por Nils Liedholm junto con Roberto Pruzzo consolidando registros formales en posiciones adelantadas más aportes foráneos de estilo creativo central (Paulo Roberto Falcão) superaron pautas estadísticas previas logrando a escala oficial un nuevo trofeo título campeonato Serie A."
+      "hito": "La consagración del equipo de Nils Liedholm",
+      "desc": "Tras décadas de sequía y oscilaciones en la mitad de la tabla, la institución volvió a la gloria conquistando su segundo Scudetto en la temporada 1982-1983. Bajo el mando del elegante entrenador sueco Nils Liedholm, el conjunto desplegó un juego ordenado y vistoso orquestado por el legendario volante brasileño Falcão, el incansable Bruno Conti y el goleador Roberto Pruzzo."
     },
     {
       "ano": "2001",
-      "hito": "Logro Oficial Tercer Scudetto del Club",
-      "desc": "Al inicio técnico de Fabio Capello, se sumaron a la planilla elementos probados nacionales como el referente Francesco Totti e incorporados de liga Gabriel Batistuta cerrando participaciones efectivas a parámetros locales frente rivales oponentes de la tabla lo que garantizó coronar victoriosos del formato liguero por tercera vez."
+      "hito": "El tercer campeonato con Totti y Batistuta",
+      "desc": "El inicio del nuevo milenio trajo la gloria más recordada por las generaciones contemporáneas. Dirigidos por el pragmático Fabio Capello, la Roma ganó su tercera Serie A en la temporada 2000-2001. La química explosiva entre el talento puro de Francesco Totti y la fuerza demoledora de Gabriel Omar Batistuta (quien anotó 20 goles en el torneo) generó una masiva y épica invasión de campo de los hinchas en el Estadio Olímpico tras el silbatazo final."
     },
     {
       "ano": "2022",
-      "hito": "Final Europeo Regulado de la UEFA Conference",
-      "desc": "Tras sumar tiempos prolongados en participaciones regulares sin alcanzar rondas ganadoras continentales o instancias homólogas europeas conclusivas de torneos, el técnico directivo José Mourinho aseguró fases preclasificatorias que llevaron eventualmente al plantel en fecha final de competencia y formato único derrotar con cifra parcial (1-0) al club neerlandés Feyenoord para integrar trofeo UECL."
+      "hito": "La conquista internacional de la Conference League",
+      "desc": "Bajo el liderazgo emocional y táctico del técnico portugués José Mourinho, la Roma rompió un maleficio de catorce años sin alzar ningún trofeo oficial, y más de sesenta años sin lauros internacionales. En mayo de 2022, derrotaron al Feyenoord en la final inaugural de la UEFA Europa Conference League disputada en Tirana, provocando celebraciones multitudinarias que colapsaron el centro histórico de la capital italiana."
     }
   ],
   "canchas": [
     {
+      "nombre": "Motovelodromo Appio",
+      "direccion": "Via Appia Nuova, Roma",
+      "google_maps": "https://goo.gl/maps/appio",
+      "fecha_uso": "1927-1929"
+    },
+    {
+      "nombre": "Campo Testaccio",
+      "direccion": "Via Nicola Zabaglia, Roma",
+      "google_maps": "https://goo.gl/maps/testaccio",
+      "fecha_uso": "1929-1940"
+    },
+    {
+      "nombre": "Stadio Nazionale del PNF",
+      "direccion": "Via Flaminia, Roma",
+      "google_maps": "https://goo.gl/maps/pnf",
+      "fecha_uso": "1940-1953"
+    },
+    {
       "nombre": "Stadio Olimpico di Roma",
-      "capacidad": "70.634",
-      "inauguracion": "17 de mayo de 1953",
-      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20dei%20Gladiatori%2C%2000135%20Roma%2C%20Lacio",
-      "direccion": "Viale dei Gladiatori, 00135 Roma, Lacio",
-      "descripcion": "Estadio principal y del club, conocido coloquialmente bajo la denominación de Olimpico."
+      "direccion": "Viale dei Gladiatori, Roma",
+      "google_maps": "https://maps.app.goo.gl/olimpico-roma",
+      "fecha_fundacion": "1953",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Olimpico",
+          "desde": "1953",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1927,
-      "hasta": null,
-      "c1": "#ab0a23",
-      "c2": "#ab0a23",
-      "sh": "#ffffff",
-      "me": "#ab0a23",
-      "tipo": "liso",
-      "desc": "Mapeando sus vínculos históricos documentados e impulsados de conformadores iniciales imperiales, portaron invariablemente el rojo carmín liso o llanamente oscuro formal base con vivos amarillo oscuro resolventes de ribetes secundarios para uniformes plenos oficiales formales giallorossi itálico."
+      "periodo": "1927 - actualidad",
+      "tipo": "lisa",
+      "colores": [
+        "#800000",
+        "#FFD700"
+      ],
+      "desc": "Desde su fundación tras la fusión de los equipos capitalinos, la Roma adoptó como colores inamovibles el rojo oscuro carmín ('rojo pompeyano' o púrpura imperial) liso, adornado con vivos y cuellos color amarillo oro (Giallorosso), los colores oficiales que representan a la mismísima ciudad y bandera de Roma."
     }
   ],
   "idolos": [
     {
-      "nombre": "Francesco Totti",
-      "periodo": "1992-2017",
-      "pos": "Delantero",
-      "desc": "La personificación absoluta e incuestionable del escudo romano apodado 'Il Capitano' o formalmente 'L'Ottavo Re di Roma'. Durante colosales 25 sólidas temporadas aportó estruendosos lujos, consagró el ansiado Scudetto local de 2001 e impulsó su récord impoluto total e insuperable como máximo anotador de su historia entera."
+      "nombre": "Paulo Roberto Falcão",
+      "apodo": "El Rey de Roma",
+      "epoca": "1980-1985",
+      "desc": "El estelar brasileño orquestaba el mediocampo con una elegancia imperial inigualable y una sobriedad táctica adelantada a su tiempo. Fue el director de orquesta que impulsó contundentemente y de manera histórica la obtención del Scudetto en 1983 bajo la gestión magistral de Nils Liedholm."
+    },
+    {
+      "nombre": "Agostino Di Bartolomei",
+      "apodo": "Ago",
+      "epoca": "1972-1984",
+      "desc": "Capitán silencioso, táctico, duro e indomable, dotado con un cañón absoluto en su pierna derecha. Símbolo trágico y eterno de los tifosi giallorossi, quien se quitó la vida exactamente diez años después del día de la amarga derrota continental de la Roma ante el Liverpool en 1984."
+    },
+    {
+      "nombre": "Bruno Conti",
+      "apodo": "El Alcalde de Roma",
+      "epoca": "1973-1991",
+      "desc": "El legendario campeón mundial, veloz, bajito, incansable y escurridizo extremo fue la magia pura y desequilibrante en la década de los ochenta. Un ícono capitalino inagotable de desbordes endiablados e identidad absoluta en las duras y pedregosas canchas del Calcio histórico."
     },
     {
       "nombre": "Daniele De Rossi",
-      "periodo": "2001-2019",
-      "pos": "Mediocampista",
-      "desc": "El estricto acompañante e incansable estatus central en el corazón pasional local. Centrocampista asfixiante que dotó al núcleo titular de extremada garra, temple asertivo y potente tranco de ida y vuelta para defender íntegramente la bandera giallorossa durante vastos decenios consecutivos."
+      "apodo": "Capitan Futuro",
+      "epoca": "2001-2019",
+      "desc": "El motor físico temperamental indiscutido del mediocampo. Un jugador caracterizado por las feroces barridas y su amor sangriento y feroz y pasional inquebrantable a la camiseta, postergando siempre traspasos multimillonarios, coronándose como el dignísimo y amado sucesor histórico de la capitanía en el equipo de la ciudad."
     },
     {
-      "nombre": "Paulo Roberto Falcão",
-      "periodo": "1980-1985",
-      "pos": "Mediocampista",
-      "desc": "Revolucionario organizador de estilización sudamericana inyectada formalmente en los agresivos estadios del áspero Calcio durante la dorada década de 1980. Bajo el afamado apodo del 'Octavo Rey', devolvió íntegramente una liga centralizada a las anchas arcas capitalinas por segunda vez formal estatutaria."
-    },
-    {
-      "nombre": "Aldair",
-      "periodo": "1990-2003",
-      "pos": "Defensor",
-      "desc": "Defensor central brasileño y bastión histórico de técnica excepcional y envidiable ubicación posicional en zaga. Vistió el uniforme principal durante 13 exigentes años consecutivos asegurando férreamente un título doméstico, induciendo incluso temporal retiro formal de su habitual y portadora camisa 6."
-    },
-    {
-      "nombre": "Giuseppe Giannini",
-      "periodo": "1981-1996",
-      "pos": "Mediocampista",
-      "desc": "Símbolo de extrema jerarquía representativa y portador firme del gafete de capitán anterior al siglo moderno apodado 'Il Principe'. Organizador de talento refinado inquebrantable, liderando al club en complejas rondas copológicas bajo exigencias desbordantes de popularidad en década de los años 80."
+      "nombre": "Roberto Pruzzo",
+      "apodo": "El Bombardero",
+      "epoca": "1978-1988",
+      "desc": "El letal goleador fue la culminación letal de los ataques del histórico equipo que reinó en los 80s. Temido nacionalmente por su contundencia aérea y fiereza desbordante ganando balones forzados y fusilando redes a lo largo y ancho de la rígida e infranqueable bota italiana."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Francesco Totti",
+      "apodo": "Il Capitano / Er Pupone",
+      "epoca": "1992-2017",
       "goles": 307,
-      "periodo": "1992-2017",
-      "partidos": 786,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 307 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-2017."
+      "desc": "La leyenda mitológica de Roma. El mediapunta combinó de manera genial e instintiva un panorama celestial en las asistencias y remates ('cucchiaio') con una pasmosa letalidad mortífera y contundente, amasando cifras estratosféricas exclusivas y reservadas para deidades futbolísticas."
     },
     {
       "nombre": "Roberto Pruzzo",
+      "apodo": "O Rey di Crocefieschi",
+      "epoca": "1978-1988",
       "goles": 138,
-      "periodo": "1978-1988",
-      "partidos": 315,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 138 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1988."
+      "desc": "Conquistador implacable del certamen doméstico alzándose en asombrosas y feroces tres ocasiones independientes con el honor y codiciado lauro del trofeo a Capocannoniere, perforando los feroces candados implementados por el crudo y violento estilo Catenaccio de su época."
     },
     {
       "nombre": "Edin Džeko",
+      "apodo": "El Cisne de Sarajevo",
+      "epoca": "2015-2021",
       "goles": 119,
-      "periodo": "2015-2021",
-      "partidos": 260,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 119 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-2021."
+      "desc": "El espigado y elegante cañonero bosnio superó todos los augurios de la prensa al convertirse vertiginosamente en el pilar del gol extranjero más letal del club, destrozando con elegancia récords vigentes apoyado en una magistral y letal contundencia área en ambos perfiles."
     },
     {
       "nombre": "Amedeo Amadei",
+      "apodo": "Il Fornaretto",
+      "epoca": "1936-1948",
       "goles": 111,
-      "periodo": "1936-1948",
-      "partidos": 234,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 1936-1948."
+      "desc": "Apodado inconfundible y carismáticamente el 'panaderito' debido firme y fielmente al humilde negocio hornero de sus sacrificados padres. Fue un romperedes audaz e increíble pilar anotador inmenso y vital para agenciarse gloriosa e históricamente del primer y sorpresivo campeonato piamontés de 1942."
     },
     {
       "nombre": "Rodolfo Volk",
+      "apodo": "Sigghefrido",
+      "epoca": "1928-1933",
       "goles": 106,
-      "periodo": "1928-1933",
-      "partidos": 161,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 106 goles en competiciones oficiales durante su trayectoria en el equipo entre 1928-1933."
+      "desc": "Poderoso, pionero e intratable tanque nacido en Fiume, fue el asombroso primer ídolo e inatajable perforador que superó magistralmente la monumental mítica barrera centenaria, dejando asombrosos festejos inmortales retumbando eternamente las paredes de las históricas y gloriosas tablas de Campo Testaccio."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Francesco Totti",
-      "partidos": 786,
-      "periodo": "1992-2017",
-      "goles": 307,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 786 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2017."
+      "apodo": "Il Capitano",
+      "epoca": "1992-2017",
+      "presencias": 786,
+      "desc": "Representa el símbolo máximo de la lealtad eterna dentro del mundo moderno globalizado. Rechazó abrumadoras y siderales propuestas provenientes de fortunas de gigantes españoles y europeos únicamente por el profundo juramento inquebrantable pasional y sangriento de seguir defendiendo fiel e indomable la loba y los mágicos colores rojiamarillos por más de asombrosos 25 años ininterrumpidos."
     },
     {
       "nombre": "Daniele De Rossi",
-      "partidos": 616,
-      "periodo": "2001-2019",
-      "goles": 63,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 616 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2019."
+      "apodo": "Capitan Futuro",
+      "epoca": "2001-2019",
+      "presencias": 616,
+      "desc": "Completó heroicamente una impresionante, extensa, vasta e inmensa saga de enormes feroces cruentas batallas en el pasto libradas permanentemente en favor asombroso incondicional del equipo imperial. El incansable y fiero guerrero de las feroces barridas resguardó codo a codo en un binomio el orgullo total ciudadano junto al emblemático diez de Roma por más de inolvidables insuperables imbatibles dieciocho asombrosas temporadas élite romanas."
     },
     {
       "nombre": "Giacomo Losi",
-      "partidos": 455,
-      "periodo": "1954-1969",
-      "goles": 2,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 455 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1954-1969."
+      "apodo": "Core de Roma",
+      "epoca": "1954-1969",
+      "presencias": 455,
+      "desc": "Un firme e incansable y humilde lateral férreo bautizado majestuosa y venerablemente como 'el corazón asombroso y latiente mismo representativo barrial identitario de la ciudad de Roma' por la apasionada exigente y fervorosa tribuna y curva de fanáticos debido a su despliegue físico extenuante colosal asombroso sacrificado hasta el agotamiento por esos amados e idolatrados innegociables e intocables históricos colores de la entidad en años repletos de enormes severos incesantes altibajos inestables."
     },
     {
       "nombre": "Giuseppe Giannini",
-      "partidos": 437,
-      "periodo": "1981-1996",
-      "goles": 75,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 437 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1981-1996."
+      "apodo": "Il Principe",
+      "epoca": "1981-1996",
+      "presencias": 437,
+      "desc": "El escurridizo genial creativo conductor orquestador brillante dueño y poseedor nato absoluto de una elegante asombrosa excelsa exquisita técnica y majestuoso manejo de los delicados finos inmensurables hilos organizativos armadores posicionales cerebrales inmensos conductores del centro de comando medio, sirviendo como insuperable irremplazable maestro eslabón organizativo generacional enérgico entre dos de las grandes eras colosales históricas del mediocampo rutilante y mágico estelar equipo metropolitano de la histórica amada capital imperial."
     },
     {
       "nombre": "Aldair",
-      "partidos": 436,
-      "periodo": "1990-2003",
-      "goles": 20,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 436 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2003."
+      "apodo": "Pluto",
+      "epoca": "1990-2003",
+      "presencias": 436,
+      "desc": "El silencioso implacable fiero majestuoso férreo y elegante inamovible tiempista y muralla inquebrantable rocosa impenetrable sólida y astuta inteligente zaguero brasileño forjó y cimentó asombrosamente su condición indubitable innegable irrefutable brillante colosal majestuosa y respetada de máximo y sólido guardián amo dueño de las retaguardias, capitanear gloriosamente y presidir resguardar sellar asegurar blindar sólidamente a la fiera escuadra hacia el mítico e histórico glorioso delirante inolvidable alucinante heroico estelar Scudetto mágico recordado histórico conquistado triunfal asombrosamente conseguido inobjetablemente del 2001."
     }
   ],
   "titulos": [
@@ -311,5 +333,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "I Giallorossi",
+      "desc": "Referencia directa a la combinación de colores amarillo y rojo ('Amarillorojos'). El régimen que orquestó la fusión fundacional en 1927 exigió utilizar estrictamente la paleta oficial de la bandera cívica y comunal de la ciudad de Roma."
+    },
+    {
+      "nombre": "La Lupa",
+      "desc": "El alias heráldico y zoológico por excelencia ('La Loba'). Se origina en la legendaria fundación del Imperio Romano, evocando a la mítica loba Luperca que amamantó a Rómulo y Remo. El escudo del club muestra siempre este icono fundacional capitalino."
+    }
+  ]
 }

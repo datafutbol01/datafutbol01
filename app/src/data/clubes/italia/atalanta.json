@@ -39,166 +39,190 @@
   "historia": [
     {
       "ano": "1907",
-      "hito": "Fundación del Atalanta Bergamasca Calcio",
-      "desc": "A principios del siglo XX, la ciudad de Bérgamo experimentaba una clara división deportiva dominada por las vetustas asociaciones de gimnasia de la Ciudad Alta. Buscando romper con ese rigor conservador, el 17 de octubre de 1907, cinco jóvenes estudiantes del Liceo Clásico Paolo Sarpi (Eugenio Urio, Giulio y Ferruccio Amati, Alessandro Forlini y Giovanni Roberti) decidieron fundar un club íntegramente dedicado al novedoso deporte del foot-ball. Rechazando alianzas con la aristocracia local, bautizaron a la institución en honor a Atalanta, la heroína cazadora y atleta inalcanzable de la mitología griega. Tras una prolongada rivalidad regional, en 1920 absorbieron definitivamente a la sociedad Bergamasca di Ginnastica e Scherma, forjando el ADN moderno del club y adoptando para siempre la característica indumentaria de rayas verticales negras y azules."
+      "hito": "Fundación estudiantil en honor a la mitología griega",
+      "desc": "La 'Società Bergamasca di Ginnastica e Sports Atletici Atalanta' fue instituida el 17 de octubre de 1907 en el seno de un humilde local de las calles de Bérgamo. La iniciativa surgió exclusivamente de jóvenes estudiantes del prestigioso Liceo Classico Paolo Sarpi (entre ellos Eugenio Urio y los hermanos Amati), quienes buscaban estructurar formalmente competiciones atléticas. En una clara muestra de erudición, bautizaron a la institución deportiva con el nombre de 'Atalanta', haciendo alusión directa a la imbatible e infatigable heroína de la mitología griega conocida por su inigualable velocidad en las carreras pedestres."
     },
     {
       "ano": "1963",
-      "hito": "Primer Título Nacional: Coppa Italia",
-      "desc": "El 2 de junio de 1963, el club logró su primer título importante al vencer 3-1 al Torino en la final de la Coppa Italia disputada en Milán. El equipo estaba capitaneado por Angelo Domenghini y dirigido por el técnico Paolo Tabanelli."
+      "hito": "La conquista de la Copa Italia",
+      "desc": "Históricamente consolidada como una escuadra humilde encargada de foguear canteranos en el Calcio (razón por la cual es apodada 'La Reina de los Provinciales'), la Atalanta vivió su primer destello de gloria nacional bajo el mando de Paolo Tabanelli. En 1963 lograron su primer título mayor oficial al superar sistemáticamente las etapas eliminatorias y sorprender con un 3-1 en la final de la Coppa Italia contra el poderoso Torino, cimentando las bases de una afición local increíblemente pasional."
     },
     {
       "ano": "1988",
-      "hito": "Semifinales de la Recopa de Europa desde Serie B",
-      "desc": "Bajo la dirección de Emiliano Mondonico, la Atalanta compitió en la Recopa de Europa mientras militaba en la Serie B. El club alcanzó las semifinales del torneo eliminando al Sporting de Lisboa y otros equipos, estableciendo un registro histórico para un equipo de segunda división en torneos continentales."
+      "hito": "La hazaña de la Recopa Europea jugando en Serie B",
+      "desc": "A pesar de transitar un difícil período deportivo tras haber perdido repentinamente la categoría en 1987, la Atalanta sorprendió a todo el continente futbolístico participando con éxito en la Recopa de Europa (a la que habían clasificado como subcampeones de copa). Lograron abrirse paso de manera épica hasta las semifinales del certamen europeo, marcando el mejor desempeño histórico que jamás haya registrado en competencias UEFA un equipo que militaba en una segunda división del escalafón nacional."
     },
     {
-      "ano": "2019",
-      "hito": "Clasificación Histórica a la Champions League",
-      "desc": "Con Gian Piero Gasperini en el banquillo, el club implementó un sistema de juego ofensivo y finalizó en la tercera posición de la Serie A. Este puesto otorgó a la institución su primera clasificación a la UEFA Champions League, consolidando su estatus moderno."
+      "ano": "2016-2020",
+      "hito": "La revolución táctica bajo Gian Piero Gasperini",
+      "desc": "La asunción del técnico Gian Piero Gasperini en 2016 transformó permanentemente la matriz de la institución. Instalando un abrumador, agotador y ultracompetitivo sistema de presión asfixiante con marcajes individuales en todo el terreno, el equipo de los provinciales destrozó los pronósticos del Calcio. Consolidaron participaciones históricas en la Serie A superando permanentemente a presupuestos de élite e inscribieron al equipo en sucesivas campañas de la UEFA Champions League, alcanzando heroicamente los cuartos de final frente al Paris Saint-Germain."
     },
     {
       "ano": "2024",
-      "hito": "Campeones de la Europa League",
-      "desc": "La Atalanta obtuvo su primer título internacional al vencer 3-0 al Bayer Leverkusen en la final de la UEFA Europa League disputada en Dublín. Ademola Lookman anotó un triplete (hat-trick) en el partido decisivo para asegurar el trofeo."
+      "hito": "El triunfo colosal en la Europa League",
+      "desc": "En mayo de 2024, la filosofía estructurada de Gasperini y la consistencia directiva de los Percassi alcanzaron el pináculo histórico definitivo. En una noche pletórica en Dublín, la Atalanta conquistó de manera aplastante su primer torneo internacional al fulminar por 3-0 en la final de la UEFA Europa League al invicto y temible Bayer Leverkusen de Xabi Alonso. La consagración se selló mediante un hat-trick espectacular del extremo Ademola Lookman, inmortalizando el triunfo más grande que haya visto Bérgamo en el transcurso de un siglo."
     }
   ],
   "canchas": [
     {
+      "nombre": "Campo della Clementina",
+      "direccion": "Via Broseta, Bergamo",
+      "google_maps": "https://goo.gl/maps/clementina",
+      "fecha_uso": "1914-1928"
+    },
+    {
       "nombre": "Gewiss Stadium",
-      "capacidad": "21.300",
-      "inauguracion": "1 de noviembre de 1928",
-      "url": "https://www.google.com/maps/search/?api=1&query=Viale%20Giulio%20Cesare%2018%2C%2024124%20Bergamo%2C%20Lombardia",
-      "direccion": "Viale Giulio Cesare 18, 24124 Bergamo, Lombardia",
-      "descripcion": "Sede principal y hogar deportivo de la institución."
+      "direccion": "Viale Giulio Cesare 18, Bergamo",
+      "google_maps": "https://maps.app.goo.gl/gewiss",
+      "fecha_fundacion": "1928",
+      "historia_nombres": [
+        {
+          "nombre": "Stadio Mario Brumana",
+          "desde": "1928",
+          "hasta": "1945"
+        },
+        {
+          "nombre": "Stadio Comunale",
+          "desde": "1945",
+          "hasta": "1994"
+        },
+        {
+          "nombre": "Stadio Atleti Azzurri d'Italia",
+          "desde": "1994",
+          "hasta": "2019"
+        },
+        {
+          "nombre": "Gewiss Stadium",
+          "desde": "2019",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "equipacion": [
     {
-      "desde": 1907,
-      "hasta": 1920,
-      "c1": "#ffffff",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
+      "periodo": "1907 - 1920",
       "tipo": "rayas-verticales",
-      "desc": "En sus años fundacionales tras su creación en 1907, la escuadra portó camisetas con finas rayas verticales en colores blanco y negro."
+      "colores": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "desc": "En sus años formativos e inaugurales, los estudiantes fundadores compitieron vistiendo uniformes de delgadas rayas verticales en tonos blancos y negros (Bianconero)."
     },
     {
-      "desde": 1920,
-      "hasta": null,
-      "c1": "#1a428a",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
+      "periodo": "1920 - actualidad",
       "tipo": "rayas-verticales",
-      "desc": "Tras la fusión administrativa con la sociedad Bergamasca, el club adoptó permanentemente el patrón de franjas verticales uniendo el azul y el negro."
+      "colores": [
+        "#005CA5",
+        "#000000"
+      ],
+      "desc": "Tras fusionarse oficialmente con la escuadra local Bergamasca, el club combinó los colores de ambos equipos para instituir su indumentaria definitiva de clásicas y amplias rayas verticales intercalando colores negro y azul real oscuro (Nerazzurri)."
     }
   ],
   "idolos": [
     {
-      "nombre": "Glenn Strömberg",
-      "periodo": "1984-1992",
-      "pos": "Mediocampista",
-      "desc": "Capitán histórico sueco. Jugó ininterrumpidamente ocho temporadas en el club durante la década de 1980 en Primera y Segunda División."
-    },
-    {
       "nombre": "Gianpaolo Bellini",
-      "periodo": "1998-2016",
-      "pos": "Defensor",
-      "desc": "Defensor lateral surgido de la cantera. Posee el récord absoluto de presencias en la historia del club superando los 400 encuentros oficiales."
-    },
-    {
-      "nombre": "Alejandro 'Papu' Gómez",
-      "periodo": "2014-2021",
-      "pos": "Delantero",
-      "desc": "Volante ofensivo argentino y capitán histórico. Máximo asistente del club que lideró al equipo en su primera participación oficial en la Liga de Campeones en 2019."
+      "apodo": "Il Capitano",
+      "epoca": "1998-2016",
+      "desc": "El leal y silencioso defensor zurdo es la definición pura del amor a los colores. Jugó toda su vida exclusivamente en la Atalanta, atravesando descensos dolorosos y ascensos gloriosos con la banda de capitán siempre en su brazo izquierdo."
     },
     {
       "nombre": "Cristiano Doni",
-      "periodo": "1998-2011",
-      "pos": "Mediocampista",
-      "desc": "Mediocampista goleador. Se mantiene como el máximo anotador estadístico histórico de la institución superando la cifra de cien goles oficiales."
+      "apodo": "Cristiano",
+      "epoca": "1998-2003, 2006-2011",
+      "desc": "El talentoso y carismático mediocampista ofensivo se transformó en el líder carismático de la afición. Aportó una cuota de fantasía deslumbrante y goles vitales para sostener la categoría durante más de una década."
     },
     {
-      "nombre": "Claudio Caniggia",
-      "periodo": "1989-1992",
-      "pos": "Delantero",
-      "desc": "Veloz delantero internacional argentino que jugó en la institución en torneos regulares logrando la histórica clasificación a la Copa de la UEFA en 1989."
+      "nombre": "Glenn Strömberg",
+      "apodo": "El Sueco",
+      "epoca": "1984-1992",
+      "desc": "Con su icónica cabellera rubia y estampa de guerrero vikingo, el centrocampista sueco dominó el mediocampo de la Atalanta. Comandó la gesta histórica que alcanzó las semifinales europeas militando heroicamente en la segunda división."
+    },
+    {
+      "nombre": "Alejandro Gómez",
+      "apodo": "El Papu",
+      "epoca": "2014-2021",
+      "desc": "El pequeño y endiablado creativo argentino fue el director de orquesta absoluto de la mágica y revolucionaria Atalanta de Gasperini. Asistidor prolífico y líder del equipo que deslumbró y conquistó admiradores en toda la Liga de Campeones."
+    },
+    {
+      "nombre": "Marten de Roon",
+      "apodo": "Marten",
+      "epoca": "2015-2016, 2017-actualidad",
+      "desc": "El tenaz, táctico y sacrificado mediocentro neerlandés se ha convertido en el engranaje inamovible de los éxitos recientes. Su inagotable capacidad de despliegue físico encarna a la perfección la exigente ética de trabajo innegociable de la ciudad."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Cristiano Doni",
+      "apodo": "Cristiano",
+      "epoca": "1998-2003, 2006-2011",
       "goles": 112,
-      "periodo": "1998-2011",
-      "partidos": 323,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 112 goles en competiciones oficiales durante su trayectoria en el equipo entre 1998-2011."
+      "desc": "Dominador inamovible e implacable de la cima estadística goleadora bergamasca. A pesar de no ser un ariete, su certero olfato y mortíferos cobros a balón parado lo mantuvieron como un gigante intocable en el área rival."
     },
     {
       "nombre": "Duván Zapata",
+      "apodo": "El Toro",
+      "epoca": "2018-2023",
       "goles": 82,
-      "periodo": "2018-2023",
-      "partidos": 191,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 82 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2023."
+      "desc": "El imponente y físico portento delantero colombiano destrozó a los centrales del Calcio con una potencia brutal indetenible. Máxima figura de la consolidación continental del club con promedios anotadores descollantes y feroces."
     },
     {
       "nombre": "Severo Cominelli",
-      "goles": 62,
-      "periodo": "1934-1947",
-      "partidos": 261,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 62 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1947."
+      "apodo": "Severo",
+      "epoca": "1934-1941, 1943-1947",
+      "goles": 65,
+      "desc": "Referencia letal histórica pionera en las oscuras y tempranas décadas bélicas, sosteniendo con gran coraje e infalibilidad implacable ofensiva los primeros destellos deportivos rutilantes asombrosos del modesto cuadro provinciano lombardo."
     },
     {
-      "nombre": "Alejandro 'Papu' Gómez",
+      "nombre": "Josip Iličić",
+      "apodo": "La Abuela / Jojo",
+      "epoca": "2017-2022",
+      "goles": 60,
+      "desc": "Un zurdo mágico de fantasía pura que protagonizó exhibiciones ofensivas formidables antológicas y memorables. Su asombroso e histórico póker de goles al Valencia en Champions League coronó su etapa dorada y legendaria letal asombrosa y magistral."
+    },
+    {
+      "nombre": "Alejandro Gómez",
+      "apodo": "El Papu",
+      "epoca": "2014-2021",
       "goles": 59,
-      "periodo": "2014-2021",
-      "partidos": 252,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2014-2021."
-    },
-    {
-      "nombre": "Germán Denis",
-      "goles": 56,
-      "periodo": "2011-2016",
-      "partidos": 158,
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 56 goles en competiciones oficiales durante su trayectoria en el equipo entre 2011-2016."
+      "desc": "Sumado a sus siderales asistencias, el diminuto atacante concretaba formidables magistrales e irrepetibles definiciones espectaculares inatajables fulminantes e históricas sellando brillantes triunfos en la mejor etapa heroica gloriosa de toda su inmensa centenaria vida."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Gianpaolo Bellini",
-      "partidos": 435,
-      "periodo": "1998-2016",
-      "goles": 12,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 435 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1998-2016."
-    },
-    {
-      "nombre": "Valter Bonacina",
-      "partidos": 331,
-      "periodo": "1986-1999",
-      "goles": 19,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 331 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1986-1999."
-    },
-    {
-      "nombre": "Stefano Angeleri",
-      "partidos": 324,
-      "periodo": "1949-1960",
-      "goles": 4,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1949-1960."
-    },
-    {
-      "nombre": "Cristian Raimondi",
-      "partidos": 313,
-      "periodo": "2001-2017",
-      "goles": 5,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 313 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2017."
+      "apodo": "Il Capitano",
+      "epoca": "1998-2016",
+      "presencias": 435,
+      "desc": "El leal incansable abnegado innegociable fiero heroico lateral fijó la marca máxima de presencias enarbolando con un inmenso colosal admirable orgullo y estoica fidelidad los oscuros oscuros duros duros y también los efervescentes tiempos históricos gloriosos rutilantes asombrosos colores."
     },
     {
       "nombre": "Marten de Roon",
-      "partidos": 300,
-      "periodo": "2015-presente",
-      "goles": 16,
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 300 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-presente."
+      "apodo": "Marten",
+      "epoca": "2015-2016, 2017-actualidad",
+      "presencias": 345,
+      "desc": "El pulmon inagotable infatigable holandés de acero corre incesantemente abarcando colosal y físicamente la inmensidad infinita completa agotadora del terreno, siendo la columna táctica irremplazable titular férreo asombroso en la conquista inmensa europea histórica gigante inigualable del 2024."
+    },
+    {
+      "nombre": "Valter Bonacina",
+      "apodo": "Valter",
+      "epoca": "1986-1994",
+      "presencias": 331,
+      "desc": "Dueño y amo inamovible fiero táctico rústico inteligente combativo señor pacificador del equilibrado mediocampo en los turbulentos aguerridos históricos duros años de los 80, aportando equilibrio incesante abnegado inagotable para garantizar la hazaña histórica impensada europea recopera."
+    },
+    {
+      "nombre": "Stefano Angeleri",
+      "apodo": "Gabbiano",
+      "epoca": "1949-1960",
+      "presencias": 324,
+      "desc": "Inquebrantable silencioso y tenaz férreo sólido estandarte duro e infranqueable rocoso defensor de la áspera inestable ruda violenta difícil y competitiva época post-guerra itálica imponiendo una marca inmensa legendaria centenaria de persistencia duradera firme solidez y enorme respeto."
+    },
+    {
+      "nombre": "Cristiano Doni",
+      "apodo": "Cristiano",
+      "epoca": "1998-2003, 2006-2011",
+      "presencias": 323,
+      "desc": "El talentoso mediocampista creador creativo orquestador mágico mágico incesante conductor y caudillo acumuló heroica magistral asombrosa e incesantemente decenas y centenas infinitas de memorables asombrosas y durísimas aguerridas e históricas batallas guiando salvando asombrosa e incansablemente resucitando permanentemente a la escuadra."
     }
   ],
   "titulos": [
@@ -283,5 +307,19 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.336Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.336Z",
+  "apodos": [
+    {
+      "nombre": "La Dea",
+      "desc": "El apodo ('La Diosa') rinde homenaje directo al nombre y la imagen institucional del club. Se basa en Atalanta, la heroína mitológica y cazadora imbatible de la mitología griega, cuyo perfil ilustra permanentemente el escudo oficial del equipo."
+    },
+    {
+      "nombre": "Gli Orobici",
+      "desc": "Un gentilicio sociológico ('Los Oróbicos') utilizado rigurosamente por la prensa italiana para definir a los habitantes y las entidades provenientes de los Alpes y valles oróbicos, la cadena montañosa adyacente que rodea y protege la ciudad de Bérgamo."
+    },
+    {
+      "nombre": "I Nerazzurri",
+      "desc": "Este alias descriptivo remite ('Negriazules') de manera exclusiva al diseño histórico de bastones de su camiseta, adoptado formalmente tras la fusión de los clubes locales Atalanta y Bergamasca."
+    }
+  ]
 }
