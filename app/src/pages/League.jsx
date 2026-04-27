@@ -576,10 +576,17 @@ export default function League() {
     }
   }, [clubs.length, activeTab]);
 
-  const breadcrumbPaths = [
+  const isFromLive = location.state?.fromLive;
+
+  const breadcrumbPaths = isFromLive ? [
+    { name: 'Inicio', url: '/' },
+    { name: 'Resultados en Vivo', url: '/en-vivo' },
+    { name: currentLeague.name, url: `/liga/${leagueId}` }
+  ] : [
     { name: 'Clubes del Mundo', url: '/leagues' },
     { name: currentLeague.name, url: `/liga/${leagueId}` }
   ];
+
   if (activeTab === 'temporadas') breadcrumbPaths.push({ name: 'Campeonatos' });
   else if (activeTab === 'enfrentamientos') {
     if (selectedH2HTeamId) {
@@ -595,7 +602,7 @@ export default function League() {
   const handleBack = () => {
     if (activeTab === 'enfrentamientos' && selectedH2HTeamId) {
         setSelectedH2HTeamId(null);
-    } else if (clubs.length === 0 || isCup) {
+    } else if (clubs.length === 0 || isCup || isFromLive) {
         navigate(-1);
     } else if (activeTab !== 'clubes') {
         setActiveTab('clubes');

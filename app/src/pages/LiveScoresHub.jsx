@@ -564,7 +564,7 @@ export default function LiveScoresHub() {
                 {!isClosed && apiToSlug[liga.id] && (
                   <div style={{ padding: '1rem', display: 'flex', justifyContent: 'center', background: 'rgba(0,0,0,0.2)' }}>
                     <button
-                      onClick={() => navigate(`/liga/${apiToSlug[liga.id]}`, { state: { tab: 'actualidad' } })}
+                      onClick={() => navigate(`/liga/${apiToSlug[liga.id]}`, { state: { tab: 'actualidad', fromLive: true } })}
                       className="glass-panel"
                       style={{ background: 'rgba(251, 191, 36, 0.1)', border: '1px solid rgba(251, 191, 36, 0.3)', color: '#fde68a', padding: '0.6rem 1.5rem', borderRadius: '50px', cursor: 'pointer', fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.5rem', transition: 'all 0.3s', fontSize: '0.9rem' }}
                       onMouseOver={e => e.currentTarget.style.background = 'rgba(251, 191, 36, 0.2)'}
@@ -619,7 +619,7 @@ export default function LiveScoresHub() {
                       {leagues.map(l => (
                         <div
                           key={l.slug}
-                          onClick={() => navigate(`/liga/${l.slug}`)}
+                          onClick={() => navigate(`/liga/${l.slug}`, { state: { fromLive: true } })}
                           style={{ color: 'var(--text-muted)', fontSize: '0.9rem', padding: '0.4rem 0.5rem', borderRadius: '8px', cursor: 'pointer', transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: '0.5rem' }}
                           onMouseOver={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.05)'; e.currentTarget.style.color = 'white'; }}
                           onMouseOut={e => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.color = 'var(--text-muted)'; }}
