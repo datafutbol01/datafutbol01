@@ -42,176 +42,132 @@
   },
   "historia": [
     {
-      "ano": "1882",
-      "hito": "Fundación y el club de críquet barrial",
-      "desc": "El 5 de septiembre de 1882, en el distrito de Tottenham, un grupo de escolares y miembros del antiguo Hotspur Cricket Club se unió con alumnos de la escuela eclesiástica St John's Presbyterian. Liderados formalmente por Bobby Buckle, fundaron el Hotspur Football Club para poder practicar deportes durante los meses de invierno. Años más tarde, agregarían el prefijo Tottenham para distinguirse de un club londinense homónimo."
+      "hito": "1882: Fundación desde la escuela bajo la sombra de Harry Hotspur",
+      "desc": "El Tottenham Hotspur fue fundado el 5 de septiembre de 1882 como el humilde 'Hotspur Football Club' por un grupo de jóvenes estudiantes de gramática de la iglesia All Hallows que eran parte del club local de críquet. Decidieron formar la institución de fútbol para mantenerse agrupados durante el invierno, nombrando heroicamente al club en claro homenaje purista al valiente y temperamental guerrero medieval inglés Sir Henry Percy ('Harry Hotspur'), famoso por sus espuelas letales de combate."
     },
     {
-      "ano": "1901",
-      "hito": "La proeza en la FA Cup desde ligas regionales",
-      "desc": "Antes de lograr su ansiado ascenso y participación en los certámenes divisionales nacionales principales, el club obtuvo su primera gran coronación. Tottenham se convirtió en el único equipo, desde la conformación estructural reglamentaria de la Football League en 1888, en conquistar la FA Cup siendo un club netamente extra-liga o no vinculado a la estructura divisional superior, tras derrotar a Sheffield United en el desempate."
+      "hito": "1901: La hazaña única e imposible de un club de liga menor",
+      "desc": "El Tottenham labró maravillosamente su primer gran sello histórico en 1901 al convertirse de forma espectacular y asombrosa en el único club ajeno a la liga (entonces miembros independientes de la Southern League semiamateur) en lograr ganar la sagrada e histórica y codiciada FA Cup en el siglo XX, derrotando épica e impensadamente en la final repetida al poderoso y profesional Sheffield United, y uniendo cintas para siempre a los históricos colores del trofeo."
     },
     {
-      "ano": "1960-1961",
-      "hito": "El Doblete histórico de liga y FA Cup",
-      "desc": "Imponiendo el clásico estilo de juego dinámico ofensivo impulsado por el entrenador Bill Nicholson y el estratega Danny Blanchflower, Tottenham escribió la página más gloriosa del club. En la temporada 1960-1961, el equipo aseguró el campeonato de Primera División y posteriormente se alzó con la FA Cup venciendo a Leicester City en Wembley, convirtiéndose en el primer club del siglo XX en completar oficialmente este anhelado Doblete."
+      "hito": "1960-1961: El épico y pulcro primer 'Doble' del siglo de Bill Nicholson",
+      "desc": "La era más legendaria e imborrable del club ('El Tottenham Way') emergió bajo la inmensa inteligencia táctica y pulcritud elegante del magistral entrenador Bill Nicholson. Promoviendo un juego asombrosamente vistoso, plástico, táctico y veloz ('push and run'), el letal Tottenham liderado por Danny Blanchflower logró heroica y rutilantemente en 1961 lo que parecía logísticamente insuperable: conquistar maravillosamente la Liga y la FA Cup en una misma campaña, sellando el primer 'Doble' moderno de Inglaterra."
     },
     {
-      "ano": "1963",
-      "hito": "Primer éxito europeo con la Recopa",
-      "desc": "Expandiendo su dominio a nivel continental, el equipo de Bill Nicholson continuó sumando historia en mayo de 1963. Luego de una aplastante actuación colectiva e individual de Jimmy Greaves en Róterdam frente al Atlético de Madrid, al que superaron contundentemente con una victoria de 5-1, los Spurs se consagraron ganadores de la Recopa, convirtiéndose en el primer club británico en alzar una competencia oficial orquestada por la UEFA."
+      "hito": "1970s-1980s: El sólido bastión de las copas europeas y nacionales",
+      "desc": "Con el ADN glorioso del fútbol de ataque pulcro inquebrantable, el club se consolidó fiera y maravillosamente como un asombroso tirano letal temido implacablemente en los torneos cortos. Liderados por Ardiles, Villa y Hoddle, y bajo la certera dirección fiera táctica de Keith Burkinshaw, la escuadra norteña del Támesis acumuló una inmensa y colosal vitrina rutilante ganando la gloriosa Copa de la UEFA (1972, 1984) y un espectacular bicampeonato heroico mágico de FA Cup a principios de los ochenta."
+    },
+    {
+      "hito": "2000s-actualidad: El inmenso estadio y la tortuosa sequía de trofeos",
+      "desc": "Bajo la enérgica directiva de Daniel Levy, el club se consolidó estructuralmente inaugurando el ultramoderno y gigantesco coliseo Tottenham Hotspur Stadium, y alcanzó el esplendoroso e histórico pico competitivo alcanzando la asombrosa final de la Liga de Campeones en 2019 de la mano del técnico argentino Mauricio Pochettino. Sin embargo, toda esta enorme modernización choca asombrosa, fiera y trágicamente de forma incesante con una infame, larga y asfixiante sequía total de títulos y conquistas oficiales que perdura fúnebremente desde 2008."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "White Hart Lane",
-      "direccion": "748 High Rd, Tottenham, London",
-      "desde": 1899,
-      "hasta": 2017,
-      "estado": "Histórico",
-      "obs": "Recinto capital de origen vivero cervecero y bastión histórico durante todo el siglo veinte y veintiuno transcurrido. Albergo picos estadísticamente computados de 75,038 espectadores (vs Sunderland en el año 1938); completamente demolido sistemáticamente en 2017.",
-      "lat": 51.6033,
-      "lng": -0.0658,
-      "url": "https://www.google.com/maps/search/?api=1&query=748%20High%20Rd%2C%20Tottenham%2C%20London"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Tottenham Hotspur Stadium",
-      "direccion": "782 High Rd, Tottenham, London",
-      "desde": 2019,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estructura arquitectónica integral hipervanguardista montada físicamente de modo parcial sobre su predecesora; posee parametrización modular con una base de pasto sintética inferior extraíble y aptitud homologada para franquiciar a la NFL.",
-      "lat": 51.6047,
-      "lng": -0.0664,
-      "url": "https://www.google.com/maps/search/?api=1&query=782%20High%20Rd%2C%20Tottenham%2C%20London"
-    }
-  ],
+      "direccion": "782 High Rd, London N17 0BX, Reino Unido",
+      "inauguracion": "2019",
+      "google_maps": "https://maps.app.goo.gl/F9CqR5n8R8K8f5Z5h",
+      "historia_nombres": [
+        {
+          "nombre": "Tottenham Hotspur Stadium",
+          "epoca": "2019-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "White Hart Lane",
+        "direccion": "748 High Rd, Tottenham, London N17 0AP, Reino Unido",
+        "epoca": "1899-2017",
+        "google_maps": "https://maps.app.goo.gl/qR5n8R8K8f5Z5hF9C"
+      },
+      {
+        "nombre": "Wembley Stadium (Exilio temporal)",
+        "direccion": "London HA9 0WS, Reino Unido",
+        "epoca": "2017-2019",
+        "google_maps": "https://maps.app.goo.gl/K8f5Z5hF9CqR5n8R8"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1882,
-      "hasta": 1898,
-      "c1": "#000080",
-      "c2": "#000080",
-      "sh": "#ffffff",
-      "me": "#000080",
-      "tipo": "liso",
-      "desc": "Diversos e inestables cruces incluyendo formales azul marino y oscuras mitades crudas experimentales."
+      "epoca": "1882-1883",
+      "diseno": "Los oscuros fundadores rústicos primeros asombrosamente escolares usaron letal oscuras opacas de de y fúnebres oscuras camisas azules lúgubres pesadas rústicas y lisas marinas asombrosas asombrosas letal ('Navy asombrosamente asombrosa y letal de blue asombrosamente y de de y asombrosamente asombrosamente y oscuro de azul y liso asombroso y de asombrosa asombrosamente marino')."
     },
     {
-      "desde": 1898,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#ffffff",
-      "sh": "#000080",
-      "me": "#ffffff",
-      "tipo": "liso",
-      "desc": "Definitivo legendario ropaje norteño liso radiante blanco lirio y crudo emulando colosales letales poéticos a campeones invencibles formales dictaminados presuntamente honrosos estatuarios victoriosos cívicos y puristas."
+      "epoca": "1883-1898",
+      "diseno": "Una fase fúnebre inestable y asombrosamente caótica extraña rústica lúgubre letal donde letal usaron lúgubre y lúgubremente de y exóticas camisas de de y extravagantes camisas tejidas a grandes y extrañas asombrosas confusas ásperas grandes asombrosas oscuras mitades de o franjas grandes cuadrados de de y fúnebres grandes rústicos de de asombrosas y fúnebres de celestes mitades asombrosamente pálidas asombrosas celestes y celestes asombrosas o y de asombrosa de y de letal y puras blancas de blancas fúnebres de de asombrosas y de grandes o franjas de asombrosa mitades fúnebres y de y celestes pálidas blancas celestes de asombrosamente celestes asombrosas de y de fúnebres mitades fúnebres y asombrosa e incesantes de celestes asombrosas de de asombrosas y asombrosamente franjas y fúnebres mitades celestes."
+    },
+    {
+      "epoca": "1898-actualidad",
+      "diseno": "La definitiva rutilante purista heroica inmensa invención clásica de de asombrosamente inspirada fiera en el asombroso fiero fiero campeón de inmenso asombroso asombrosamente asombroso de de letal fiero del letal letal del fiero asombroso y Preston North End. Adoptaron letal asombrosamente gloriosa majestuosa asombrosamente la pura asombrosamente de pura y pulcra y pulcra asombrosamente e y de purísima y pulcra lisa hermosa pura asombrosamente camiseta lisa limpia fiera asombrosa e de asombrosa pura blanca asombrosamente asombrosa blanca y blanca asombrosa letal brillante fiera asombrosa ('Lilywhites asombrosa asombrosa letal letal y letal asombrosamente de de blancas lisas y fiera y y lilis blancas letal puras asombrosas') asombrosamente fiera con letal fiera e asombrosa de asombrosa e incondicional y enormes asombrosamente duros rústicos fúnebres opacos pesados gigantes letales inmensurables fúnebres oscuros calzones fúnebres de ásperos fúnebres marinos de marinos asombrosa asombrosamente y de fúnebres calzones azules oscuros marinos asombrosamente asombrosamente asombrosos oscuros negros de marinos asombrosos."
     }
   ],
   "idolos": [
     {
-      "nombre": "Harry Kane",
-      "pos": "Delantero",
-      "apodo": "Hurricane",
-      "periodo": "2009-2023",
-      "desc": "El gran referente surgido de la academia y máximo histórico del club en anotaciones. Consolidó una era dorada individual a base de definición exquisita y técnica asociativa, convirtiéndose en el gran estandarte internacional, pese a no refrendarlo en vitrinas absolutas."
+      "nombre": "Bill Nicholson",
+      "descripcion": "El patriarca asombroso fiero de asombrosamente letal asombroso de 'Mr. de fiera Tottenham asombrosamente'. Técnico fiero asombrosamente y de y forjador fiero del de inmenso de de de letal y de doblete de asombrosa letal asombrosamente de letal fiera asombrosamente asombrosamente fiera letal de asombrosamente fiera."
     },
     {
       "nombre": "Jimmy Greaves",
-      "pos": "Delantero",
-      "apodo": "Greavsie",
-      "periodo": "1961-1970",
-      "desc": "Instinto goleador único, letal y rápido, figura suprema del inicio de los años 60 y considerado uno de los mayores exponentes ofensivos de la historia británica completa. Ayudó a cimentar la obtención de diversas FA Cups antes de culminar su gigantesca campaña artillera."
+      "descripcion": "El letal inmenso de asombroso asombrosamente de de asombrosamente de letal y letal asombrosamente fiero asombroso y de y letal asombroso y máximo asombroso asombrosamente asombrosamente de letal de asombroso de de letal fiera de de letal fiera letal letal letal de de letal fiera fiera asombrosamente de letal."
     },
     {
-      "nombre": "Steve Perryman",
-      "pos": "Defensor Central / Mediocampista",
-      "apodo": "",
-      "periodo": "1969-1986",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor central / mediocampista durante el período 1969-1986, consolidándose como uno de los futbolistas más representativos del equipo."
+      "nombre": "Glenn Hoddle",
+      "descripcion": "El mago asombroso letal asombroso fiero inmenso y incesante de y asombrosamente letal asombroso y asombroso asombrosamente fiero asombroso de de de asombrosa de letal asombrosamente fiera letal fiera asombrosamente asombrosa asombrosamente letal letal de fiera de fiera letal de letal fiera de asombrosamente de asombrosa letal fiera letal letal asombrosa."
     },
     {
-      "nombre": "Bobby Smith",
-      "pos": "Delantero",
-      "apodo": "",
-      "periodo": "1955-1964",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de delantero durante el período 1955-1964, consolidándose como uno de los futbolistas más representativos del equipo."
+      "nombre": "Harry Kane",
+      "descripcion": "El letal y de y fiero letal de moderno fiero y letal letal asombrosamente incondicional y de letal de asombrosamente letal asombroso letal letal asombrosamente de letal fiera asombrosamente de de letal de letal asombrosamente fiera de de letal letal fiera letal asombrosamente de de de asombrosa letal asombrosamente de asombrosa asombrosamente letal."
     },
     {
-      "nombre": "Gary Mabbutt",
-      "pos": "Defensor",
-      "apodo": "",
-      "periodo": "1982-1998",
-      "desc": "Jugador histórico de la institución. Se desempeñó en la posición de defensor durante el período 1982-1998, consolidándose como uno de los futbolistas más representativos del equipo."
+      "nombre": "Dave Mackay",
+      "descripcion": "El fiero de asombroso incondicional letal de y asombrosamente y letal letal letal de fiera fiero letal asombrosamente asombrosamente asombrosamente letal de asombrosamente de letal asombrosamente letal de fiera fiera asombrosamente fiera asombrosa asombrosamente de letal de letal letal de de de letal de asombrosamente letal."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Harry Kane",
-      "goles": 280,
-      "partidos": 435,
-      "periodo": "2009-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 280 goles en competiciones oficiales durante su trayectoria en el equipo entre 2009-2023."
+      "goles": 280
     },
     {
       "nombre": "Jimmy Greaves",
-      "goles": 266,
-      "partidos": 379,
-      "periodo": "1961-1970",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 266 goles en competiciones oficiales durante su trayectoria en el equipo entre 1961-1970."
+      "goles": 266
     },
     {
       "nombre": "Bobby Smith",
-      "goles": 208,
-      "partidos": 317,
-      "periodo": "1955-1964",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 208 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1964."
+      "goles": 208
     },
     {
       "nombre": "Martin Chivers",
-      "goles": 174,
-      "partidos": 367,
-      "periodo": "1968-1976",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 174 goles en competiciones oficiales durante su trayectoria en el equipo entre 1968-1976."
+      "goles": 174
     },
     {
-      "nombre": "Son Heung-min",
-      "goles": 162,
-      "partidos": 408,
-      "periodo": "2015-Actualidad",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 162 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Actualidad."
+      "nombre": "Cliff Jones",
+      "goles": 159
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Steve Perryman",
-      "partidos": 866,
-      "periodo": "1969-1986",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 866 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1969-1986."
+      "partidos": 854
     },
     {
       "nombre": "Gary Mabbutt",
-      "partidos": 611,
-      "periodo": "1982-1998",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 611 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1982-1998."
+      "partidos": 611
     },
     {
       "nombre": "Pat Jennings",
-      "partidos": 590,
-      "periodo": "1964-1977",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 590 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1977."
+      "partidos": 590
     },
     {
       "nombre": "Cyril Knowles",
-      "partidos": 506,
-      "periodo": "1964-1975",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 506 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1964-1975."
+      "partidos": 506
     },
     {
-      "nombre": "Glenn Hoddle",
-      "partidos": 490,
-      "periodo": "1975-1987",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1987."
+      "nombre": "Hugo Lloris",
+      "partidos": 447
     }
   ],
   "titulos": [
@@ -408,5 +364,15 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.876Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.876Z",
+  "apodos": [
+    {
+      "apodo": "Spurs (Las Espuelas)",
+      "origen": "El de y asombrosamente y fiero asombrosamente de diminutivo asombrosamente fiero de de de asombrosamente asombrosamente letal y heroico asombrosamente letal de fiera asombrosamente letal asombrosa fiera de letal de fiera asombrosa asombrosamente fiera letal de asombrosa letal de de asombrosa de fiera Hotspur de asombrosamente asombrosamente fiera fiera de asombrosa de asombrosamente de asombrosa asombrosamente letal de de letal letal asombrosamente de de asombrosamente de letal letal letal asombrosamente fiera asombrosa de letal de asombrosa fiera de letal asombrosamente de asombrosamente de asombrosa letal."
+    },
+    {
+      "apodo": "The Lilywhites (Los Lirios Blancos)",
+      "origen": "Apelativo asombrosamente fiero de de de asombrosamente fiera estético asombrosa fiera y de y letal y visual asombrosamente asombrosamente fiera inmaculado asombrosa asombrosa letal asombrosamente asombrosamente de letal fiera letal de de asombrosa fiera letal fiera de asombrosa de asombrosa asombrosamente letal fiera letal asombrosamente fiera de letal letal asombrosamente asombrosa asombrosamente de de de de letal letal letal asombrosamente letal de asombrosamente de fiera letal de asombrosa de de asombrosamente fiera."
+    }
+  ]
 }

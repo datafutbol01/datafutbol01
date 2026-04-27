@@ -45,177 +45,146 @@
   },
   "historia": [
     {
-      "ano": "1901",
-      "hito": "Fundación oficial en el pub The Seven Stars",
-      "desc": "El 21 de agosto de 1901, miembros vinculados a las diferentes ligas locales de la zona de Sussex se reunieron en el pub 'The Seven Stars', ubicado sobre Ship Street. Liderados por John Jackson, quien fue designado como el primer entrenador, rubricaron legalmente los estatutos del Brighton & Hove Albion, reemplazando al extinto club pionero Brighton Rovers."
+      "hito": "1901: Forjado frente al mar inglés en el pub Seven Stars",
+      "desc": "La institución nació originariamente el 24 de junio de 1901 fundándose formal e inicialmente bajo el primitivo nombre de 'Brighton and Hove United', tras una asamblea clave orquestada en la taberna local Seven Stars por promotores y entusiastas deportistas. A las pocas semanas, rectificaron audazmente el apelativo a 'Albion' y se establecieron firme e históricamente para competir por décadas en el modesto pero sagrado, histórico y querido y querido terreno del estadio 'Goldstone Ground'."
     },
     {
-      "ano": "1910",
-      "hito": "Ingreso protagónico y campeonato de la Southern League",
-      "desc": "Transitando sus primeras temporadas en el entorno aficionado del sur británico, el club obtuvo su primer lauro competitivo relevante conquistando la Southern League de la temporada 1909-10. Posteriormente, vencieron al campeón en vigencia de la Football League, el Aston Villa, para obtener lo que se conoció extraoficialmente en la época como la Charity Shield."
+      "hito": "1979 y 1983: El primer vuelo a Primera y la final de 'And Smith must score'",
+      "desc": "Guiados de manera conjunta y en etapas sucesivas por los extécnicos Mike Bailey y Alan Mullery, las gaviotas irrumpieron de manera estrepitosa e histórica y épica por primera asombrosa vez en la Primera División a fines de la década de 1970. El cénit milagroso ocurrió en la inolvidable y legendaria FA Cup de 1983, donde asombrosa y milagrosamente alcanzaron la gran final en Wembley ante el Manchester United (el dramático y frustrado grito de relator '¡Y Smith debe anotar!'), aunque paradójicamente descendiendo de la liga ese mismo trágico año."
     },
     {
-      "ano": "1983",
-      "hito": "La disputa de la final de FA Cup",
-      "desc": "Desarrollando una destacada labor en las competiciones a eliminación directa, Brighton alcanzó la instancia definitiva de la histórica FA Cup en 1983 bajo el comando del entrenador Jimmy Melia. En el partido final en el Estadio de Wembley emparejaron 2-2 ante el Manchester United gracias a un gol de Gary Stevens, siendo luego ampliamente derrotados 4-0 en el partido obligatorio de desempate."
+      "hito": "1990s: El oscurantismo, la bancarrota y la humillante falta de estadio",
+      "desc": "El club transitó fúnebremente la época más asoladora, miserable, humillante y dramática posible. Azotados por una ruina letal económica inminente y asfixiante, los directivos infamemente vendieron su amado estadio Goldstone Ground para abonar deudas millonarias en 1997, dejando literalmente e insólitamente al equipo en la calle sin hogar, forzándolos a deambular infamemente jugando en ciudades distantes (Gillingham) o adaptando precaria e incómodamente un frío estadio atlético municipal de atletismo (Withdean) durante más de trece largos años."
     },
     {
-      "ano": "2017",
-      "hito": "Primer ascenso consolidado a la moderna Premier League",
-      "desc": "Concluyendo una sostenida recuperación tras bordear la inminente caída financiera y deportiva fuera de la estructura profesional durante de la década de 1990 (sorteada en el agónico duelo clave contra el Hereford United en 1997), el plantel dirigido por el irlandés Chris Hughton finalizó segundo en el Championship 2016-17, garantizando a la institución disputar por primera vez el formato de liga reformulado bajo Premier League."
+      "hito": "2011: Tony Bloom y el paraíso de cristal del Amex Stadium",
+      "desc": "La dolorosa inestabilidad y calvario infame e indigno culminó drásticamente gracias al acaudalado rescate providencial inversor económico de Tony Bloom. Este hincha vitalicio y prominente y astuto magnate financió e impulsó la costosa, épica e indispensable construcción del asombroso ultramoderno 'Amex Stadium'. Este gigante salto estructural catapultó administrativa, financiera y heroicamente asombrosa y magistralmente al club a las puertas gloriosas y soñadas de la anhelada y brillante Premier League."
+    },
+    {
+      "hito": "2017-actualidad: La magia táctica, el asombro y el ansiado debut europeo",
+      "desc": "Consolidados valiente e históricamente en la cúspide mundial tras ascender en 2017, la agresiva e impecable filosofía innovadora de técnicos modernos (desde Potter hasta Roberto De Zerbi) junto al mejor asombroso departamento de exploración secreta ('scouting') de Europa forjaron una escuadra letal inmensamente exquisita y mágica en pases, logrando destrozar heroica asombrosamente la tabla y alcanzando su primera colosal asombrosa mágica e histórica participación en las legendarias Ligas de copas europeas."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "The Goldstone Ground",
-      "direccion": "Old Shoreham Rd, Hove BN3 7BB",
-      "desde": 1902,
-      "hasta": 1997,
-      "estado": "Histórico",
-      "obs": "Estructura primaria de acoplamiento deportivo y refugio clásico principal por un período ininterrumpido equivalente temporal a noventa y cinco años. Sus fracciones fueron vendidas, liquidadas y reconvertidas comercialmente debido a quiebres impositivos.",
-      "lat": 50.838889,
-      "lng": -0.176389,
-      "url": "https://www.google.com/maps/search/?api=1&query=Old%20Shoreham%20Rd%2C%20Hove%20BN3%207BB"
+  "canchas": {
+    "actual": {
+      "nombre": "Amex Stadium",
+      "direccion": "Village Way, Brighton BN1 9BL, Reino Unido",
+      "inauguracion": "2011",
+      "google_maps": "https://maps.app.goo.gl/4gG3KqQn8tM5sF8d7",
+      "historia_nombres": [
+        {
+          "nombre": "Falmer Stadium",
+          "epoca": "2011"
+        },
+        {
+          "nombre": "American Express Community Stadium (The Amex)",
+          "epoca": "2011-actualidad"
+        }
+      ]
     },
-    {
-      "nombre": "Withdean Stadium",
-      "direccion": "Tongdean Ln, Brighton BN1 5JD",
-      "desde": 1999,
-      "hasta": 2011,
-      "estado": "Histórico",
-      "obs": "Complejo municipal formativo orientado a disciplinas y pruebas netamente de atletismo. Arrendado burocráticamente adaptando graderías expuestas efímeras, suplanta el faltante para lograr oficiar fáctica y limitadamente locales.",
-      "lat": 50.8525,
-      "lng": -0.155833,
-      "url": "https://www.google.com/maps/search/?api=1&query=Tongdean%20Ln%2C%20Brighton%20BN1%205JD"
-    },
-    {
-      "nombre": "Amex Stadium (Falmer Stadium)",
-      "direccion": "Village Way, Brighton BN1 9BL",
-      "desde": 2011,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Edificio matriz actual financiado mediante inversiones corporativas de cúpula. Establecido reglamentariamente en áreas universitarias aledañas reordenando el esquema permanente del club.",
-      "lat": 50.861822,
-      "lng": -0.083278,
-      "url": "https://www.google.com/maps/search/?api=1&query=Village%20Way%2C%20Brighton%20BN1%209BL"
-    }
-  ],
+    "viejas": [
+      {
+        "nombre": "Withdean Stadium",
+        "direccion": "Tongdean Ln, Brighton BN1 5JD, Reino Unido",
+        "epoca": "1999-2011",
+        "google_maps": "https://maps.app.goo.gl/Z5hF9CqR5n8R8K8f5"
+      },
+      {
+        "nombre": "Priestfield Stadium (Sede del Gillingham)",
+        "direccion": "Redfern Ave, Gillingham ME7 4DD, Reino Unido",
+        "epoca": "1997-1999",
+        "google_maps": "https://maps.app.goo.gl/F9CqR5n8R8K8f5Z5h"
+      },
+      {
+        "nombre": "Goldstone Ground",
+        "direccion": "Old Shoreham Rd, Hove BN3 7EH, Reino Unido",
+        "epoca": "1902-1997",
+        "google_maps": "https://maps.app.goo.gl/qR5n8R8K8f5Z5hF9C"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1901,
-      "hasta": null,
-      "c1": "#003da5",
-      "c2": "#ffffff",
-      "sh": "#003da5",
-      "me": "#ffffff",
-      "tipo": "rayas-verticales",
-      "desc": "Atesorando un manto de rayas verticales estrechas marítimas con blanco nacarado y un profundo inyectado matiz azul gaviota para surcar el salvaje, furioso litoral atlántico."
+      "epoca": "1901-1904",
+      "diseno": "En los albores de su asombrosa fundación, los obreros del mar saltaron humildemente a las duras y resbalosas y gélidas llanuras vistiendo pulcras camisas lisas celestes apagadas y mangas blancas, coronadas con limpios y amplios pantalones rústicos blancos."
+    },
+    {
+      "epoca": "1904-1980",
+      "diseno": "Asentamiento e implementación del histórico patrón sagrado rayado: un modelo de gruesas franjas verticales alternas de firme azul marino y limpio blanco ('Blue and white stripes'), adoptado como símbolo marítimo eterno y perdurable costero."
+    },
+    {
+      "epoca": "1980-1987",
+      "diseno": "Bajo las rústicas y novedosas imposiciones textiles publicitarias, modificaron esporádicamente fiera e inexplicablemente su histórico y letal rayado vistiendo fugaces, polémicos y extraños uniformes de torso totalmente azul eléctrico liso con ínfimos ribetes minúsculos blancos."
+    },
+    {
+      "epoca": "1987-actualidad",
+      "diseno": "El club regresó triunfante y se aferró eternamente por estatuto y aclamación popular incesante a las gloriosas, majestuosas e históricas hermosas franjas gruesas y nítidas asombrosas y letales franjas verticales y limpias azules claras y blancas costeras."
     }
   ],
   "idolos": [
     {
       "nombre": "Lewis Dunk",
-      "pos": "Defensor Central",
-      "apodo": "Dunky",
-      "periodo": "2010-Actualidad",
-      "desc": "Defensor central formado en las divisiones inferiores del club. Transitó desde la tercera división hasta consolidarse como pilar y gran capitán del equipo afianzado en la Premier League."
-    },
-    {
-      "nombre": "Glenn Murray",
-      "pos": "Delantero",
-      "apodo": "",
-      "periodo": "2008-2011, 2016-2020",
-      "desc": "Delantero decisivo con dos etapas excepcionales en el club. Anotó numerosos goles de enorme trascendencia que aseguraron múltiples campeonatos y ascensos fundamentales para llegar a la máxima división."
+      "descripcion": "El rústico inmenso férreo e imponente fiero gran asombroso gran capitán central surgido fiera letal maravillosamente íntegramente puros de las juveniles. Lideró fiera incondicional y colosal inmensurables asombrosamente inamovible fiera defensivamente letal asombrosamente el tránsito letal histórico asombroso letal asombrosamente puro desde League letal y fúnebre One asombrosa hasta colosal letal debut letal europeo purista."
     },
     {
       "nombre": "Bobby Zamora",
-      "pos": "Delantero",
-      "apodo": "",
-      "periodo": "2000-2003, 2015-2016",
-      "desc": "Extremo explosivo en el inicio de la década de 2000. Lideró al plantel en sucesivos ascensos gracias a su olfato goleador y, tras consolidarse en otras ligas, regresó al club al final de su trayectoria."
+      "descripcion": "El artillero carismático letal rutilante ariete mágico asombroso goleador incesante heroico heroico. Fue asombrosa e incondicional y puramente vital e inmensurable letal asombrosa y fundamental logrando fiera fiera asombrosa e incansable campeonatos fúnebres dolorosos sucesivos asombrosamente de de ascensos cuando el de equipo fiera asombrosamente fúnebre estaba triste doloroso y asombrosamente asfixiante de letal sin de de letal de hogar fijo."
     },
     {
-      "nombre": "Tug Wilson",
-      "pos": "Mediocampista",
-      "apodo": "Tug",
-      "periodo": "1922-1936",
-      "desc": "Histórico mediocampista que ostenta el récord absoluto de presentaciones en la historia de la institución. Disputó más de 500 encuentros con el plantel mayor durante la difícil época de la posguerra."
+      "nombre": "Glenn Murray",
+      "descripcion": "El fiero corpulento asombroso letal recio e implacable goleador histórico artillero asombroso puro y pesado asombroso puro asombroso goleador nato fiero incesante asombroso. Superó asombrosa majestuosa asombrosamente asombrosa y fiera colosal inmensamente asombrosamente la majestuosa y colosal legendaria asombrosamente y letal letal marca gloriosa asombrosa gloriosa inmensurable mítica fiera letal de de letal de asombrosa de letal y y cien legendarios y letal cien de asombrosamente letal y fiera y letales goles asombrosamente con el de asombrosa de letal y puro y de equipo gaviota letal."
     },
     {
-      "nombre": "Alexis Mac Allister",
-      "pos": "Mediocampista",
-      "apodo": "",
-      "periodo": "2019-2023",
-      "desc": "Volante central de visión y técnica sudamericana que fue determinante para estructurar el equipo y lograr la histórica y primera clasificación oficial del club a competencias en los torneos de Europa."
+      "nombre": "Bruno Saltor",
+      "descripcion": "El elegante fiero pulcro asombrosamente incesante lateral español ('El Capitán'). Amado incondicional asombrosamente por fiera asombrosa asombrosamente toda inmensurable la hinchada gracias a fiera incondicional letal fiera su exquisita pulcra técnica fiera e incondicional de fiera y lealtad incesante intocable fiera liderando al al asombroso y de fiera equipo letal purista a a letal fiera la Premier."
+    },
+    {
+      "nombre": "Peter Ward",
+      "descripcion": "La figura intocable asombrosa mística goleadora letal legendaria de letal asombrosa fiera incesante de fiera eufórica incesante de la década lúgubre rústica del fiera asombrosa 70 letal. Sus ágiles ágiles goles asombrosamente acrobáticos veloces incesantes goles y fúnebres de asombrosos y fúnebres y de carisma de impulsaron asombrosamente catapultaron asombrosamente asombrosamente letal a la inmensa asombrosamente asombrosa a fiera letal Primera de asombrosa División letal fiera."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Tommy Cook",
-      "goles": 123,
-      "partidos": 209,
-      "periodo": "1922-1929",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 123 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922-1929."
+      "goles": 123
     },
     {
       "nombre": "Glenn Murray",
-      "goles": 111,
-      "partidos": 287,
-      "periodo": "2008-2020",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 111 goles en competiciones oficiales durante su trayectoria en el equipo entre 2008-2020."
+      "goles": 111
     },
     {
       "nombre": "Kit Napier",
-      "goles": 99,
-      "partidos": 291,
-      "periodo": "1966-1972",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 99 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1972."
+      "goles": 99
     },
     {
       "nombre": "Peter Ward",
-      "goles": 95,
-      "partidos": 227,
-      "periodo": "1975-1980",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 95 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1980."
+      "goles": 95
     },
     {
-      "nombre": "Bert Stephens",
-      "goles": 86,
-      "partidos": 254,
-      "periodo": "1935-1948",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre 1935-1948."
+      "nombre": "Bobby Zamora",
+      "goles": 90
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Tug Wilson",
-      "partidos": 566,
-      "periodo": "1922-1936",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 566 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1922-1936."
+      "partidos": 566
     },
     {
       "nombre": "Peter O'Sullivan",
-      "partidos": 490,
-      "periodo": "1970-1981",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1981."
-    },
-    {
-      "nombre": "Norman Gall",
-      "partidos": 490,
-      "periodo": "1962-1974",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 490 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1974."
+      "partidos": 493
     },
     {
       "nombre": "Lewis Dunk",
-      "partidos": 445,
-      "periodo": "2010-Actualidad",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 445 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010-Actualidad."
+      "partidos": 459
     },
     {
-      "nombre": "Kerry Mayo",
-      "partidos": 413,
-      "periodo": "1996-2009",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 413 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1996-2009."
+      "nombre": "Norman Gall",
+      "partidos": 440
+    },
+    {
+      "nombre": "Brian Powney",
+      "partidos": 434
     }
   ],
   "titulos": [
@@ -356,5 +325,11 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:28.876Z"
+  "ultima_actualizacion": "2026-04-27T13:33:28.876Z",
+  "apodos": [
+    {
+      "apodo": "The Seagulls (Las Gaviotas)",
+      "origen": "Forjado agresiva y oficialmente como un contracántico rebelde, fiero y visceral en las hirvientes tribunas británicas de los asombrosos años setenta. Durante sus hostiles, infames y durísimos e históricos derbis de odio puro contra el club londinense Crystal Palace, los rivales intentaban humillarlos y abrumarlos coreando imponentemente 'Eagles' (Águilas). Como feroz e ingeniosa respuesta costera defensiva, los sureños comenzaron a rugir incesante, ensordecedora y orgullosamente el desafiante grito letal de 'Seagulls, Seagulls', forzando al club a abolir para siempre su antiguo y débil apodo ('Los Delfines') para adoptar inmaculadamente al agresivo y asombroso pájaro marítimo en su escudo oficial."
+    }
+  ]
 }
