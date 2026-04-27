@@ -46,40 +46,49 @@
   "historia": [
     {
       "ano": "1875",
-      "hito": "Fundación por inmigrantes irlandeses",
-      "desc": "En agosto de 1875, el sacerdote católico Edward Joseph Hannan y el dirigente Michael Whelahan fundaron el club en el distrito de Cowgate en Edimburgo. Orientado a la comunidad de inmigrantes irlandeses de la zona, el equipo adoptó el nombre 'Hibernian' en alusión a la denominación romana para Irlanda. Durante sus primeros años, se enfrentaron a dificultades para inscribirse en las competiciones regulares de la Asociación Escocesa de Fútbol debido a tensiones de índole sectaria."
+      "hito": "Fundación en Cowgate, Edimburgo",
+      "desc": "Hibernian Football Club fue fundado en agosto de 1875 por inmigrantes católicos irlandeses residenciados en la empobrecida zona de Cowgate, Edimburgo. Impulsado por el canónigo Edward Joseph Hannan y el seglar Michael Whelahan, el club se formó para mantener a los jóvenes irlandeses involucrados en la iglesia a través del deporte. La denominación 'Hibernian' proviene de la palabra en latín usada para designar a la isla de Irlanda."
     },
     {
-      "ano": "1887",
-      "hito": "Primera Copa de Escocia y 'Gira Británica'",
-      "desc": "Tras ser plenamente admitido en el sistema de torneos, el club ganó su primer título importante en 1887 al obtener la Copa de Escocia venciendo 2-1 al Dumbarton. Semanas después, el 13 de agosto, disputaron un partido amistoso en su propio estadio contra el equipo inglés Preston North End, uno de los clubes más fuertes de aquel momento. Hibernian se llevó la victoria y retuvo de forma extraoficial el título honorífico de 'Campeones del mundo de fútbol asocación'."
+      "ano": "1903",
+      "hito": "Conquista del primer título de Liga",
+      "desc": "Después de consolidarse como una fuerza importante y ganar su primera Copa de Escocia en 1887, Hibernian capturó su primer campeonato de la Scottish League en la temporada 1902-1903, estableciendo la intensa rivalidad de la capital frente al Hearts."
     },
     {
       "ano": "1948-1952",
-      "hito": "La etapa de los 'Famous Five'",
-      "desc": "La institución vivió su período más exitoso una vez finalizada la Segunda Guerra Mundial, bajo la gestión del entrenador Hugh Shaw. El éxito del equipo se construyó sobre su recordada línea de cinco atacantes (Gordon Smith, Bobby Johnstone, Lawrie Reilly, Eddie Turnbull y Willie Ormond). Fieles a un estilo marcadamente ofensivo, consiguieron el Campeonato Nacional de Primera División en tres ocasiones consecutivas o muy cercanas: 1948, 1951 y 1952."
+      "hito": "La era de 'The Famous Five'",
+      "desc": "Hibernian conformó una de las delanteras más legendarias de la historia del fútbol escocés: Gordon Smith, Bobby Johnstone, Lawrie Reilly, Eddie Turnbull y Willie Ormond. Bautizados como 'The Famous Five', lideraron al club a conquistar los campeonatos de liga en 1948, 1951 y 1952, desplegando un fútbol ofensivo de altísimo nivel."
     },
     {
-      "ano": "1955-1956",
-      "hito": "Primera participación británica en torneos UEFA",
-      "desc": "Aprovechando el prestigio adquirido a nivel interno, en 1955 el club fue formalmente invitado a participar en la edición inaugural de la recién creada Copa de Campeones de Europa. Esto convirtió al Hibernian en el primer club del Reino Unido en competir de manera oficial en un torneo regido por la UEFA. En dicha edición, el equipo alcanzó las semifinales internacionales, donde finalmente cayeron eliminados ante el conjunto francés Stade de Reims."
+      "ano": "1955",
+      "hito": "Pioneros en la Copa de Europa",
+      "desc": "En 1955, a pesar de no haber ganado la liga local ese año, Hibernian se convirtió en el primer equipo británico en participar en la recién creada Copa de Campeones de Europa, alcanzando las semifinales del torneo antes de caer ante el Stade de Reims francés."
     },
     {
       "ano": "2016",
-      "hito": "Fin de la sequía de 114 años en la Copa de Escocia",
-      "desc": "A lo largo del siglo XX y principios del XXI, el club mantuvo un registro adverso en la Copa de Escocia perdiendo diez finales consecutivas en la competencia. En mayo de 2016, bajo el mando técnico de Alan Stubbs, la institución cortó definitivamente la racha al derrotar por 3-2 al Rangers en el estadio Hampden Park. Este triunfo terminó con un lapso exacto de 114 años sin poder adjudicarse este título, consolidando uno de los hitos documentados más festejados por el club moderno."
+      "hito": "El fin de la maldición de la Copa de Escocia",
+      "desc": "Tras padecer una histórica sequía de 114 años sin levantar la Copa de Escocia, Hibernian finalmente se consagró campeón el 21 de mayo de 2016. Dirigidos por Alan Stubbs, superaron a Rangers por 3-2 con un gol agónico del capitán David Gray en tiempo de descuento, desatando una celebración masiva en Edimburgo."
     }
   ],
   "canchas": [
     {
-      "nombre": "Easter Road Stadium (Easter Road)",
-      "capacidad": "20421",
-      "inauguracion": "1892",
-      "url": "https://www.google.com/maps/search/?api=1&query=12%20Albion%20Pl%2C%20Edimburgo%20EH7%205QG%2C%20Reino%20Unido",
-      "direccion": "12 Albion Pl, Edimburgo EH7 5QG, Reino Unido",
-      "lat": 55.9616,
-      "lng": -3.1655,
-      "descripcion": ""
+      "nombre": "Hibernian Park",
+      "direccion": "Drummond Street, Edinburgh",
+      "google_maps": "https://goo.gl/maps/hibernian-park",
+      "fecha_uso": "1880-1891"
+    },
+    {
+      "nombre": "Easter Road",
+      "direccion": "12 Albion Pl, Edinburgh EH7 5QG",
+      "google_maps": "https://maps.app.goo.gl/bM5zUuKzLq6N1GgZ8",
+      "fecha_fundacion": "1893",
+      "historia_nombres": [
+        {
+          "nombre": "Easter Road",
+          "desde": "1893",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "titulos": [
@@ -115,13 +124,23 @@
   "equipacion": [
     {
       "desde": 1875,
+      "hasta": 1879,
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "sh": "#ffffff",
+      "me": "#008000",
+      "tipo": "liso",
+      "desc": "Camiseta blanca adornada con un emblema central que presentaba una gran arpa irlandesa de color verde bordada en el pecho."
+    },
+    {
+      "desde": 1879,
       "hasta": 1938,
       "c1": "#008000",
       "c2": "#ffffff",
       "sh": "#ffffff",
       "me": "#008000",
       "tipo": "liso",
-      "desc": "Uniforme fundacional atado estructuralmente a los colores irlandeses con los que operaron comunitariamente en Edimburgo, conformando la pieza superior de una única y lisa capa uniforme enteramente pintada de color esperanza."
+      "desc": "El equipo pasa a utilizar una camiseta enteramente verde lisa de corte clásico, conservando los pantalones blancos."
     },
     {
       "desde": 1938,
@@ -131,44 +150,40 @@
       "sh": "#ffffff",
       "me": "#008000",
       "tipo": "mangas-distintas",
-      "desc": "Fuerte reformulación estética y visual fuertemente inspirada por la legendaria indumentaria adoptada en la capital inglesa por el Arsenal londinense; desde este año pasaron drásticamente a combinar el bloque central liso verde flanqueado sistemáticamente por dos mangas blancas puras y lisas que cortan tajantemente en los hombros."
+      "desc": "Se introdujo el histórico diseño de cuerpo verde con mangas blancas, emulando la estética impuesta por el Arsenal inglés en esa misma década. Este patrón es la seña de identidad visual del club."
     }
   ],
   "idolos": [
     {
       "nombre": "Gordon Smith",
-      "pos": "Leyenda / Referente",
+      "pos": "Extremo Derecho",
       "periodo": "1941-1959",
-      "desc": "El jugador más emblemático de la historia del club e integrante estelar de los célebres 'Famous Five'. Con técnica excelsa generó asistencias incontables y festejó múltiples campeonatos de Primera División estableciendo una dinastía indiscutible de posguerra.",
-      "apodo": "The Prince of Wingers"
+      "desc": "Considerado el mejor jugador en la historia del club. Formó parte del mítico quinteto 'The Famous Five' y fue tricampeón de liga en la década dorada de los cincuenta.",
+      "apodo": "The Gay Gordon"
     },
     {
       "nombre": "Lawrie Reilly",
-      "pos": "Leyenda / Referente",
+      "pos": "Delantero",
       "periodo": "1946-1958",
-      "desc": "Defensor de los colores verde y blanco durante toda la extensión de su extraordinaria carrera. Su olfato goleador nato coronó las construcciones ofensivas que atemorizaron a las estructuras defensivas británicas en los heroicos años cincuenta.",
-      "apodo": "Last Minute Lawrie"
-    },
-    {
-      "nombre": "Franck Sauzée",
-      "pos": "Leyenda / Referente",
-      "periodo": "1999-2001",
-      "desc": "Exquisito centrocampista francés que lideró tácticamente el renacer del conjunto en el cierre de la década del noventa. Comandó al plantel garantizando el retorno inminente a la división mayor ostentando un talento continental innegable.",
-      "apodo": "Le God"
+      "desc": "Máximo goleador histórico absoluto en el marco liguero. Artillero central del grupo 'The Famous Five', famoso por su enorme eficacia en el área penal."
     },
     {
       "nombre": "Pat Stanton",
-      "pos": "Leyenda / Referente",
+      "pos": "Defensa / Mediocampista",
       "periodo": "1963-1976",
-      "desc": "Inagotable baluarte defensivo nacido en cuna hiberniana. Alzó como gran capitán la histórica Copa de la Liga de 1972 terminando con sequías previas y asegurando estadísticas formidables a través de exhibiciones monumentales.",
-      "apodo": "Pat"
+      "desc": "Sobrino nieto de uno de los fundadores del club, ejerció como capitán indiscutido durante trece temporadas seguidas. Símbolo de elegancia en la marca."
     },
     {
-      "nombre": "Scott Brown",
-      "pos": "Leyenda / Referente",
-      "periodo": "2002-2007",
-      "desc": "El juvenil producto de las inferiores plasmó tenacidad impetuosa imponiéndose físicamente a toda adversidad central. Su participación vital facilitó la victoria copera antes del inevitable fichaje multimillonario escocés definitivo.",
-      "apodo": "Broony"
+      "nombre": "Lewis Stevenson",
+      "pos": "Lateral Izquierdo",
+      "periodo": "2005-2024",
+      "desc": "Único jugador en la historia del club que ha ganado la Copa de la Liga (2007) y la Copa de Escocia (2016), ostentando el récord histórico moderno de apariciones ligueras."
+    },
+    {
+      "nombre": "Franck Sauzée",
+      "pos": "Mediocampista / Libero",
+      "periodo": "1999-2001",
+      "desc": "Llegó al club en el ocaso de su carrera y revitalizó al equipo. Su clase mundial y técnica depurada le valieron la adoración absoluta en Easter Road, donde se lo apodó 'Le God'."
     }
   ],
   "goleadores_historicos": [
@@ -176,63 +191,65 @@
       "nombre": "Gordon Smith",
       "goles": 303,
       "periodo": "1941-1959",
-      "desc": "Máxima figura asumiendo el techo goleador histórico mediante espectaculares y apabullantes trescientos tres tantos, propiciando triunfos dorados ligueros al culminar formidables asistencias de sus talentosos parceros letales en cancha."
-    },
-    {
-      "nombre": "Willie MacFadyen",
-      "goles": 245,
-      "periodo": "1921-1936",
-      "desc": "Descolló batiendo registros históricos durante los años de entreguerras marcando con asombrosa regularidad. Su gran marca incluye registros casi irrompibles posicionándolo firmemente como secundario histórico indiscutido certero."
+      "apodo": "The Gay Gordon",
+      "desc": "Extremo de clase mundial y máximo exponente del 'Famous Five'. Su inigualable técnica y capacidad anotadora lo posicionaron como el goleador histórico absoluto."
     },
     {
       "nombre": "Lawrie Reilly",
       "goles": 238,
       "periodo": "1946-1958",
-      "desc": "Exponente estelar que aportó una descomunal efectividad frente al arco dictaminando goles cruciales en duelos de época que sellaron incontables celebraciones campeonísimas y definitivas a nivel doméstico y fáctico oficial."
+      "desc": "El centrodelantero perfecto. Anotó 238 goles oficiales siendo el artillero más letal en competiciones domésticas durante el tricampeonato liguero."
     },
     {
       "nombre": "Eddie Turnbull",
       "goles": 202,
       "periodo": "1946-1959",
-      "desc": "La máquina impulsora del flanco ofensivo izquierdo completando el pentágono legendario de estrellas sumando dos centenares de rúbricas oficiales y consolidando registros estadísticos formales asiduos totales y completos lícitos reales rústicos puros pautados victoriosos."
+      "desc": "Mediocampista ofensivo de poderoso remate. Aportó más de doscientos goles y posteriormente regresó como entrenador para ganar títulos históricos."
+    },
+    {
+      "nombre": "Willie Ormond",
+      "goles": 189,
+      "periodo": "1946-1961",
+      "desc": "Interior izquierdo de tremenda habilidad. Completó la artillería letal del Famous Five, atormentando defensas rivales por más de 15 años."
     },
     {
       "nombre": "Joe Baker",
       "goles": 158,
-      "periodo": "1957-1961",
-      "desc": "Artillero fulminante ostentando pasmosa proporción contundente registrando anotaciones casi a ritmo de gol por contienda antes de concretar y cruzar dictaminadas millonarias firmas paramétricas rústicas extranjeras continentales europeas comprobadas lícitas dulces pletóricas milagrosas majestuosas."
+      "periodo": "1957-1961 / 1971-1972",
+      "desc": "A pesar de no ser convocado por Escocia al haber nacido accidentalmente en Inglaterra, destrozó las redes escocesas con un impresionante promedio antes de partir al Torino."
     }
   ],
   "presencias_historicas": [
     {
+      "nombre": "Gordon Smith",
+      "presencias": 636,
+      "periodo": "1941-1959",
+      "apodo": "The Gay Gordon",
+      "desc": "Además de ser el líder goleador de toda la historia, su longevidad lo situó entre los máximos emblemas de presencias durante las décadas doradas de los cuarenta y cincuenta."
+    },
+    {
       "nombre": "Arthur Duncan",
-      "partidos": 623,
-      "periodo": "1969-1981",
-      "desc": "Incansable portador paramétrico extremo estipulado cruzando más de seiscientos registros a base veloz constante asumiendo registros insuperables directos de apariciones dictaminadas históricamente exactas completas absolutas y puras románticas de comprobaciones escocesas fijadas lícitas pletóricas celestiales."
+      "presencias": 626,
+      "periodo": "1969-1984",
+      "desc": "Extremo de largo recorrido que ostenta el récord histórico absoluto de la institución con más de 600 partidos disputados en todas las competiciones oficiales."
     },
     {
       "nombre": "Pat Stanton",
-      "partidos": 617,
+      "presencias": 617,
       "periodo": "1963-1976",
-      "desc": "Oficializando y dictando rígidamente su estatus como segundo baluarte de mayores marcas temporales aportando purista inamovible titularidad sólida certera fáctica completa y de gran porcentaje glorificador paramétrico innegablemente directo puro asiduo fáctico escocés oficial absoluto pleno."
+      "desc": "Elegante y respetado por igual. El mediocampista central lideró al club durante 13 años con un estilo depurado y una marca implacable."
     },
     {
       "nombre": "Lewis Stevenson",
-      "partidos": 599,
+      "presencias": 597,
       "periodo": "2005-2024",
-      "desc": "Defensor multiuso prolongando su estancia en la élite moderna sumando parámetros continuos de gloriosos rescates coperos oficiales directos fácticos estipulados nominales rozando cifras legendarias en registros continuos asiduos paramétricos inmaculados."
+      "desc": "Lateral izquierdo de culto. Único jugador en haber ganado la Copa de Escocia y la Copa de la Liga con el club, sosteniendo casi 600 presencias a lo largo del siglo XXI."
     },
     {
       "nombre": "Paul Hanlon",
-      "partidos": 560,
+      "presencias": 563,
       "periodo": "2008-2024",
-      "desc": "Permanente garante defensivo registrando dictámenes prolongados acompañando proezas de Copa escocesa y ascendente rústica formalidad estadística certera absoluta directa y táctica plena exacta segura real burocrática inamovible."
-    },
-    {
-      "nombre": "Gordon Hunter",
-      "partidos": 409,
-      "periodo": "1983-1997",
-      "desc": "Firme protector del área penal registrando un enorme historial cronológico que estipuló sus más de cuatrocientos encuentros fácticos plenos asiduos pautados reales oficiales numéricamente contables puros celestiales románticos históricos absolutos."
+      "desc": "Defensa central surgido en la cantera local. Formó una zaga inquebrantable y un liderazgo continuo, coronando su carrera con la agónica Copa de Escocia en 2016."
     }
   ],
   "evolucion_escudos": [
@@ -247,12 +264,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "Hibs",
-      "origen": "Corresponde exclusivamente a una contracción verbal rudimentaria de la palabra 'Hibernian'. Instaurada desde la génesis de la institución a finales del siglo decimonónico por agilidad literaria y oral en las reseñas de los encuentros que reportaba la prensa de la capital escocesa."
-    },
-    {
-      "apodo": "The Cabbage",
-      "origen": "Al igual que ciertos clubes de la región, el término proviene del histórico argot de rima escocés (rhyming slang). La frase matricial originaria 'Cabbage and Ribs' (Repollo y Costillas) se utilizó entre los obreros industriales del siglo XIX para fonetizar cómicamente la sigla fonética 'Hibs'. Con el paso de los años, el término quedó simplemente comojado en 'The Cabbage'."
+      "apodo": "The Hibees",
+      "origen": "Derivado del nombre oficial de la institución (Hibernian). El término 'Hibees' nació como una abreviatura popular fonética entre los aficionados de la ciudad de Edimburgo."
     }
   ],
   "h2h": {

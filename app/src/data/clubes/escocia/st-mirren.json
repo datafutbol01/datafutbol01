@@ -45,51 +45,64 @@
   "historia": [
     {
       "ano": "1877",
-      "hito": "Fundación en la localidad obrera de Paisley",
-      "desc": "El club se fundó en la localidad de Paisley a finales de 1877 como una asociación deportiva enfocada originalmente en el críquet y el rugby. Durante sus primeros años, el equipo mutó rápidamente hacia el fútbol de asociación debido al creciente interés popular de sus afiliados. La organización adoptó la denominación 'St. Mirren' en honor directo a San Mirin, el santo patrono histórico de la ciudad. Tras establecerse como club de fútbol formal, incorporaron posteriormente sus tradicionales camisetas y escudos blanquinegros a rayas y organizaron su campo oficial hacia los recintos de 'Love Street' en 1894."
+      "hito": "Formación inicial como club de Rugby y Cricket",
+      "desc": "St. Mirren fue fundado en Paisley en 1877, pero sus orígenes fueron netamente vinculados a la práctica de cricket y rugby en ligas de la nobleza e industriales de la ciudad. Hacia la última parte del año, la demanda popular volcó las actividades institucionales hacia la naciente disciplina del fútbol asociación, adoptando de forma oficial el nombre del santo patrón de Paisley, San Mirin."
     },
     {
-      "ano": "1926 y 1959",
-      "hito": "Las primeras victorias en la Copa de Escocia",
-      "desc": "El primer éxito deportivo absoluto de la institución se registró en abril de 1926. En la final de la Copa de Escocia de aquel año, la escuadra venció por 2-0 al Celtic ante una concurrencia que albergó cerca de cien mil asistentes en las instalaciones de Hampden Park, conquistando su primer trofeo. Este logro fue igualado en la temporada 1959, cuando el equipo sumó nuevamente un título en dicho torneo tras superar por un contundente marcador de 3-1 en la final ante la filial del Aberdeen, reforzando la representatividad competitiva del cuadro fuera de la esfera capitalina metropolitana."
+      "ano": "1926",
+      "hito": "La primera Copa de Escocia",
+      "desc": "A lo largo de un exhaustivo torneo eliminatorio, el cuadro aurinegro sorprendió a propios y extraños logrando vencer en la final nacional disputada en Hampden Park. Este campeonato cimentó las bases económicas para afianzar el proyecto en la localidad de Paisley frente al predominio de la capital."
     },
     {
-      "ano": "1980",
-      "hito": "El triunfo honorífico Anglo-Escocés",
-      "desc": "Transitando sus mejores años institucionales de posguerra mediante el impulso generado previamente desde el banco por el joven y ascendente técnico Alex Ferguson (quien comandó administrativamente el ascenso a primera del club de 1974 a 1978), la institución cosechó resultados atípicos internacionales de relevancia. En la campaña 1979-1980, dirigidos por el sucesor técnico Jim Clunie, participaron del torneo transfronterizo eliminatorio Copa Anglo-Escocesa. Consiguieron acceder hasta un cruce final eliminatorio adjudicándose luego estadísticamente la copa definitiva ante el plantel del Bristol City derrotándole los asaltos globales; convirtiéndose de esta forma documentada en la primera y única organización escocesa registrada formalmente en triunfar bajo este formato competitivo extinto."
+      "ano": "1959",
+      "hito": "Triunfo masivo frente al Aberdeen",
+      "desc": "En la final de la Copa de Escocia de 1959, el St. Mirren derrotó de manera abultada al Aberdeen por un categórico 3-1. Este partido es uno de los hitos dorados del club, presenciado por una de las audiencias más multitudinarias (más de 108.000 personas) que acudieron a ver el certamen en aquella temporada."
     },
     {
       "ano": "1987",
-      "hito": "Captura de la tercera Copa de Escocia",
-      "desc": "Consolidado como un equipo fuerte en etapas definitorias a nivel nacional, St. Mirren obtuvo su tercera Copa de Escocia oficial en mayo de 1987. Bajo la administración táctica de Alex Smith, el plantel logró llegar a la gran final donde enfrentó al gran favorito de la época, el Dundee United (que venía disputando la final de la Copa de la UEFA). El partido finalizó con un victoria de 1-0 gracias al gol anotado por Ian Ferguson durante el tiempo de prórroga suplementaria."
+      "hito": "La tercera corona histórica bajo los reflectores",
+      "desc": "Capitaneados por el incansable Tony Fitzpatrick, el St. Mirren conquistó su tercera Copa de Escocia tras un extenuante duelo final ante el favorito Dundee United (que ese mismo año jugaba la final de la UEFA). El triunfo los devolvió al plano internacional durante las clasificatorias europeas subsiguientes."
     },
     {
       "ano": "2013",
-      "hito": "Primera consagración en Copa de la Liga Escocesa",
-      "desc": "Tras la coronación en 1987, transcurrió un largo proceso deportivo de 26 años consecutivos en donde el equipo no sumó torneos mayores a su historial. La racha adversa terminó formalmente durante la gestión del técnico Danny Lennon en marzo de 2013. Logrando llegar a la final de la Scottish League Cup en el estadio neutral de Hampden Park, disputaron el encuentro decisivo ante el Heart of Midlothian. El duelo finalizó con un resultado a su favor por 3-2, permitiéndoles alzar de manera oficial y por primera vez el título de la Copa de la Liga Escocesa."
+      "hito": "Victoria histórica en la Copa de la Liga",
+      "desc": "En una tarde imborrable en la memoria contemporánea del club, el St. Mirren doblegó 3-2 a los Hearts en el estadio de Hampden Park, conquistando por primera y única vez en sus extensos registros históricos el ansiado trofeo de la Copa de la Liga Escocesa."
     }
   ],
   "canchas": [
     {
-      "nombre": "Love Street (St. Mirren Park)",
-      "capacidad": "aprox. 10.800",
-      "inauguracion": "1894",
-      "hasta": "2009",
-      "url": "https://www.google.com/maps/search/?api=1&query=Love%20Street%2C%20Paisley%2C%20PA3%202EJ%2C%20Reino%20Unido",
-      "direccion": "Love Street, Paisley, PA3 2EJ, Reino Unido",
-      "lat": 55.8504,
-      "lng": -4.4328,
-      "descripcion": "Recinto histórico y el hogar formativo de La institución durante más de cien años. Fue descontinuado y demolido para aliviar las deudas comerciales de la entidad en 2009."
+      "nombre": "Love Street (St Mirren Park)",
+      "direccion": "Love St, Paisley PA3 2EA",
+      "google_maps": "https://goo.gl/maps/love-street",
+      "fecha_uso": "1894-2009"
     },
     {
-      "nombre": "St. Mirren Park (The SMISA Stadium)",
-      "capacidad": "7937",
-      "inauguracion": "2009",
-      "url": "https://www.google.com/maps/search/?api=1&query=Greenhill%20Rd%2C%20Paisley%20PA3%201RU%2C%20Reino%20Unido",
-      "direccion": "Greenhill Rd, Paisley PA3 1RU, Reino Unido",
-      "lat": 55.8504,
-      "lng": -4.4449,
-      "descripcion": ""
+      "nombre": "St Mirren Park",
+      "direccion": "Greenhill Rd, Paisley PA3 1RU",
+      "google_maps": "https://maps.app.goo.gl/St9G6wK9z6Z9xZz6",
+      "fecha_fundacion": "2009",
+      "historia_nombres": [
+        {
+          "nombre": "St Mirren Park",
+          "desde": "2009",
+          "hasta": "2015"
+        },
+        {
+          "nombre": "Paisley 2021 Stadium",
+          "desde": "2015",
+          "hasta": "2018"
+        },
+        {
+          "nombre": "The Simple Digital Arena",
+          "desde": "2018",
+          "hasta": "2020"
+        },
+        {
+          "nombre": "The SMiSA Stadium",
+          "desde": "2020",
+          "hasta": "actualidad"
+        }
+      ]
     }
   ],
   "titulos": [
@@ -126,108 +139,105 @@
       "sh": "#000000",
       "me": "#000000",
       "tipo": "rayas-verticales",
-      "desc": "Los miembros fundadores fijaron inmediatamente una inquebrantable postura arquitectónica sobre su ropaje oficial optando drásticamente por el diseño blanquinegro; su historia está tallada sin descanso mediante la intercalación simétrica obligatoria de rústicas líneas rayas verticales sin presencia de terceras coloraciones."
+      "desc": "La institución adoptó de inmediato el diseño de franjas verticales blancas y negras (idéntico a la Juventus de Turín o al Notts County), convirtiéndolo en su rasgo de identidad visual permanente."
     }
   ],
   "idolos": [
     {
       "nombre": "Tony Fitzpatrick",
-      "pos": "Leyenda / Referente",
-      "periodo": "1973-1989",
-      "desc": "Inmenso capitán del equipo vencedor en lides coperas gloriosas asumiendo también luego roles directivos para resguardar la identidad del cuadro sumando un legendario respeto.",
-      "apodo": "Fitzy"
+      "pos": "Mediocampista / Defensa",
+      "periodo": "1973-1979 / 1981-1989",
+      "desc": "Nombrado capitán a los 17 años, lideró al club dentro y fuera del campo. Ganó la histórica Copa de Escocia de 1987, siendo una figura insigne de la ciudad."
     },
     {
       "nombre": "Hugh Murray",
-      "pos": "Leyenda / Referente",
+      "pos": "Mediocampista",
       "periodo": "1997-2012",
-      "desc": "Contención incansable que sobrepasó marcas absolutas fijando un enorme registro inquebrantable asombrosamente sostenido frente al desgaste del esquema nacional de competición estricto.",
-      "apodo": "Shug"
+      "desc": "Jugador con mayor cantidad de partidos en la historia del club. Símbolo del trabajo silencioso, la marca aguerrida y la dedicación total en más de quince años.",
+      "apodo": "Shuggie"
+    },
+    {
+      "nombre": "Frank McGarvey",
+      "pos": "Delantero",
+      "periodo": "1975-1979 / 1985-1990",
+      "desc": "Anotador clínico, vital en los grandes triunfos del club durante los años 80, destacando por su entrega física y su rol clave en la obtención de la Copa de 1987."
+    },
+    {
+      "nombre": "David Lapsley",
+      "pos": "Lateral",
+      "periodo": "1931-1950",
+      "desc": "Con más de cuatrocientos partidos de liga disputados, fue el ancla defensiva de entreguerras y posguerra, reconocido unánimemente por su profesionalismo en épocas duras."
     },
     {
       "nombre": "Steven Thompson",
-      "pos": "Leyenda / Referente",
+      "pos": "Delantero",
       "periodo": "2011-2016",
-      "desc": "Atacante letal coronado de honores rompiendo redes en la triunfante Copa de la Liga de 2013, siendo un asertivo e indiscutible favorito general del público estricto.",
-      "apodo": "Thommo"
-    },
-    {
-      "nombre": "Cammy Bell",
-      "pos": "Leyenda / Referente",
-      "periodo": "2005-2012",
-      "desc": "Portero de grandes hazañas consolidando seguridad extrema e impulsando salvaguardas continuas para resistir presiones ofensivas implacables durante la élite competitiva escocesa.",
-      "apodo": "Cammy"
-    },
-    {
-      "nombre": "Mark Yardley",
-      "pos": "Leyenda / Referente",
-      "periodo": "1995-2003",
-      "desc": "Artillero robusto infundiendo terror al contrincante y marcando remates explosivos que le significaron cuantiosas conquistas vitales para la salvación asidua anual constante.",
-      "apodo": "Yardley"
+      "desc": "Llegó al club en la última etapa de su carrera pero rápidamente se erigió como referente goleador y capitán, anotando goles decisivos para evitar descensos y ganar la Copa de la Liga."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "David McCrae",
-      "goles": 251,
+      "goles": 222,
       "periodo": "1923-1934",
-      "desc": "Líder artillero aplastante fijando un récord irrebatible estipulando la abismal barrera de los 251 goles asumiendo supremacía irrompible del periodo pre guerra en Escocia central."
+      "desc": "Máximo anotador de todos los tiempos. Un pionero del área que lideró la obtención de la primera Copa de Escocia de la entidad en 1926."
+    },
+    {
+      "nombre": "Frank McGarvey",
+      "goles": 102,
+      "periodo": "1975-1979 / 1985-1990",
+      "desc": "Artillero de época. Selló el ansiado triunfo de la Copa de Escocia de 1987 demostrando su jerarquía ante la presión."
     },
     {
       "nombre": "Steven Thompson",
       "goles": 54,
       "periodo": "2011-2016",
-      "desc": "Goleador contemporáneo de impacto inmediato coronándose afortunadamente en fases culminantes como autor fundamental e insustituible de históricas copas modernas locales plenas."
+      "desc": "Ídolo moderno. Fue el delantero definitorio en la histórica conquista de la Copa de la Liga 2013 ante Hearts, elevándose como héroe local."
     },
     {
-      "nombre": "Mark Yardley",
-      "goles": 75,
-      "periodo": "1995-2003",
-      "desc": "Definidor de imponente estructura física dictaminando y aportando goles claves rompiendo el muro adverso estipulando un formidable y efectivo registro constante en su paso contundente."
+      "nombre": "Gudjon Thordarson",
+      "goles": 40,
+      "periodo": "1980-1984",
+      "desc": "El atacante islandés fue una sensación y aportó un gran volumen goleador en competiciones europeas y ligueras de los años ochenta."
     },
     {
       "nombre": "John Sutton",
-      "goles": 37,
+      "goles": 38,
       "periodo": "2005-2007",
-      "desc": "Fijo delantero sumando formidables tantos con excelente posicionamiento, un definidor contundente que garantizó anotaciones necesarias y efectivas fácticas de precisión exacta e incontestable."
-    },
-    {
-      "nombre": "Barry Lavety",
-      "goles": 34,
-      "periodo": "1992-2003 (Múltiples periodos)",
-      "desc": "Astuto artillero logrando sumar victorias determinantes a la sumatoria global con un rústico juego frontal fáctico resolutivo cerrando de forma completa su currículum estelar."
+      "desc": "Delantero centro de área pesada. Aseguró valiosos tantos para mantener la categoría durante etapas sumamente ajustadas."
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Hugh Murray",
-      "partidos": 462,
+      "presencias": 462,
       "periodo": "1997-2012",
-      "desc": "Dictando su autoridad sobrepasó todos los historiales vigentes asegurando con persistencia inusitada casi quinientos desempeños profesionales pletos de lealtad imbatible."
-    },
-    {
-      "nombre": "Campbell Money",
-      "partidos": 400,
-      "periodo": "1981-1993",
-      "desc": "Guardian tapando remates letales de los duros certámenes de ochenta, asumiendo su registro asombrosamente firme estipulado certero lográndose confirmar un liderazgo estricto de garantía titular."
+      "apodo": "Shuggie",
+      "desc": "Símbolo de la lealtad moderna. Completó 462 apariciones oficiales liderando y conteniendo el mediocampo de The Buddies por más de quince años."
     },
     {
       "nombre": "Tony Fitzpatrick",
-      "partidos": 458,
-      "periodo": "1973-1989",
-      "desc": "Consagrado capitán histórico coronando de formidables pautas medievicas el juego mediocentro de una constancia férrea sumando a más estables cifras de puros dictámenes plenos estelares plenos tácticos fijos puros."
+      "presencias": 458,
+      "periodo": "1973-1979 / 1981-1989",
+      "desc": "El capitán supremo. Quedó a escasas apariciones del récord histórico, alzando la icónica Copa de 1987 como bastión del equipo."
     },
     {
-      "nombre": "Jim Mair",
-      "partidos": 313,
-      "periodo": "1974-1983",
-      "desc": "Defensor seguro cerrando pasillos atacantes cediendo su físico dictando rústicos y férreos dictámenes defensivos para sostener divisiones cruzando umbrales estadísticos estáticos seguros estelares inamovibles."
+      "nombre": "David Lapsley",
+      "presencias": 420,
+      "periodo": "1931-1950",
+      "desc": "Su resistencia táctica y física lo cimentó como inamovible en la zaga central durante toda la difícil transición de la época de entreguerras."
     },
     {
-      "nombre": "Tommy Turner",
-      "partidos": 310,
-      "periodo": "1989-1998",
-      "desc": "Medio rústico y versátil operando franjas cruzadas asiduamente conteniendo la presión táctica aportando estipuladas estadísticas plenas totales fácticas inmaculadas estables burocráticas lícitas fijos plenos y de gran asombro."
+      "nombre": "Campbell Money",
+      "presencias": 384,
+      "periodo": "1978-1993",
+      "desc": "Guardameta de la época dorada ochentera. Custodió las mallas con la sobriedad y los reflejos de un portero de clase alta."
+    },
+    {
+      "nombre": "Mark McWalter",
+      "presencias": 342,
+      "periodo": "1984-1995",
+      "desc": "Aportó profundidad por la franja izquierda completando más de trescientos cotejos para la causa de Love Street."
     }
   ],
   "evolucion_escudos": [
@@ -251,11 +261,7 @@
   "origen_apodos": [
     {
       "apodo": "The Buddies",
-      "origen": "El mote trasciende las barreras del club para encarnar el gentilicio demográfico histórico oficial de la región. Los ciudadanos nacidos y criados en la ciudad industrial de Paisley son reconocidos nacionalmente bajo la clasificación dialectal de 'Buddies'. El periodismo local aplicó el término al equipo de fútbol por carácter de propiedad representativa geográfica."
-    },
-    {
-      "apodo": "The Saints",
-      "origen": "Al igual que con su par de Perth, el título recae llanamente en la derivación del prefijo 'Santo' (Saint) en honor al santo patrono fundador irlandés de origen católico que le concede su nomenclatura oficial tanto al club de fútbol como a la abadía central que cimentó la ciudad."
+      "origen": "Deriva del gentilicio local utilizado históricamente en Escocia para referirse a los habitantes nacidos en la ciudad de Paisley (conocidos cariñosamente como 'buddies')."
     }
   ],
   "h2h": {
