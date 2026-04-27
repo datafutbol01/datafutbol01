@@ -1,402 +1,402 @@
 {
-    "id": "go-ahead-eagles",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "go ahead eagles"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Go Ahead Eagles",
-        "sigla": "",
-        "fundacion": "2 de diciembre de 1902",
-        "apodo": "El Orgullo del IJssel (Trots aan de IJssel), Las Águilas",
-        "estadio_actual": "De Adelaarshorst",
-        "estadio_apodo": "El Nido del Águila",
-        "estadio_capacidad": 9909,
-        "estadio_inauguracion": "2 de mayo de 1920",
-        "estadio_lat": 52.2619,
-        "estadio_lng": 6.1664,
-        "estadio_direccion": "Vetkampstraat 1, 7416 WK Deventer, Países Bajos",
-        "socios": 7000,
-        "descripcion_corta": "El gigante dormido de Deventer. Cuatro veces campeón nacional en el amateurismo y poseedor de uno de los estadios más hostiles y británicos del país.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#e30613"
-            },
-            {
-                "tag": "Amarillo",
-                "hex": "#ffde00"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Ruud Geels (35 goles oficiales post-fusión)",
-            "mas_presencias": "John Oude Wesselink (415 partidos)",
-            "mayor_goleada": "8-0 vs Telstar (Eredivisie 1971/72)"
-        },
-        "nombre_oficial": "Go Ahead Eagles",
-        "nombre_corto": "Go Ahead Eagles",
-        "escudo_actual": "/escudos/paises_bajos/go-ahead-eagles/Go_Ahead_Eagles2007-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1902",
-            "hito": "Fundación y Cambio de Identidad",
-            "desc": "El club nació oficialmente el 2 de diciembre de 1902 en la ciudad de Deventer, por iniciativa de los hermanos Karel y Han Hollander junto a su amigo Leo zur Kleinsmiede, bajo la denominación inicial de 'Be Quick'. Apenas tres años más tarde, tras solicitar su ingreso a la federación nacional (KNVB), la directiva descubrió que ya existía un equipo registrado con ese mismo nombre en Groninga. Obligados a modificar su identidad para poder competir, adoptaron la designación inglesa Go Ahead, sentando las bases de la histórica institución."
-        },
-        {
-            "ano": "1922-1933",
-            "hito": "Ciclo de Tetracampeonatos",
-            "desc": "Previo a la instauración de la liga Eredivisie profesional, el club atravesó su etapa de mayor esplendor deportivo. Compitiendo en los campeonatos regionales y nacionales, el equipo se adjudicó cuatro títulos absolutos de los Países Bajos (1922, 1930, 1932 y 1933). Durante este periodo, la institución se consolidó como uno de los equipos más poderosos del país oriental, cimentando una sólida estructura deportiva en torno al estadio Adelaarshorst."
-        },
-        {
-            "ano": "1965",
-            "hito": "Finalista de Copa y Debut Europeo",
-            "desc": "El club vivió uno de sus momentos más destacados de la era moderna al alcanzar la final de la Copa de los Países Bajos en la temporada 1964-1965. Aunque perdieron la final contra el Feyenoord, lograron clasificar a la Recopa de Europa debido a que su rival también había ganado la liga. Este hito marcó el debut continental del club, permitiéndoles enfrentarse al mítico Celtic de Glasgow en una eliminatoria histórica para la institución."
-        },
-        {
-            "ano": "1971",
-            "hito": "La Era de Barry Hughes y el Nombre 'Eagles'",
-            "desc": "Bajo la dirección del carismático entrenador británico Barry Hughes, el club no solo experimentó un fútbol dinámico y atractivo, sino también una revolución en su identidad. Fue Hughes quien impulsó a la directiva a incorporar el sufijo 'Eagles' (Águilas) al nombre oficial del equipo en 1971, otorgándole una proyección internacional y una marca distintiva que perdura con orgullo hasta nuestros días."
-        },
-        {
-            "ano": "2024",
-            "hito": "El Inesperado Regreso a Europa",
-            "desc": "Tras décadas de altibajos y pelear en la parte baja de la tabla, el Go Ahead Eagles protagonizó una campaña memorable en la Eredivisie 2023-2024. Contra todo pronóstico y cimentando su fortaleza en el inexpugnable estadio De Adelaarshorst, el equipo logró asegurar un boleto para las competiciones europeas (Conference League) después de casi 60 años de ausencia continental, desatando la locura total en las calles de Deventer."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "De Adelaarshorst",
-            "capacidad": 9909,
-            "desde": "2 de mayo de 1920",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/De+Adelaarshorst/@52.2619,6.1642,17z",
-            "direccion": "Vetkampstraat 1, Deventer",
-            "obs": "El estadio respira esencia pura del fútbol inglés. Incrustado literalmente en medio de un barrio residencial, sus gradas caen verticalmente sobre el campo de juego, generando un ruido infernal apodado 'El Nido del Águila' (Inaugurado el 2 de mayo de 1920).",
-            "lat": 52.2619,
-            "lng": 6.1664
-        },
-        {
-            "nombre": "De Ossenwaard (De Zes Veldjes)",
-            "capacidad": "Terreno Abierto",
-            "desde": 1908,
-            "hasta": 1920,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/search/Ossenwaard+Deventer/",
-            "direccion": "De Ossenwaard, Deventer",
-            "obs": "Antes de asentar sus raíces definitivas, el club llevó una vida nómade. Uno de sus principales recintos de juego amateur fueron los campos conocidos como 'De Zes Veldjes', ubicados en las llanuras aluviales al oeste del río IJssel.",
-            "lat": 52.2519,
-            "lng": 6.145
-        },
-        {
-            "nombre": "De Halve Maan",
-            "capacidad": "Terreno Abierto",
-            "desde": 1906,
-            "hasta": 1908,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/search/Diepenveen/",
-            "direccion": "Diepenveen, Deventer",
-            "obs": "Tras abandonar las instalaciones prestadas del UD, el club se instaló durante dos temporadas en este terreno ubicado en el municipio de Diepenveen.",
-            "lat": 52.2819,
-            "lng": 6.1464
-        },
-        {
-            "nombre": "UD Terrein",
-            "capacidad": "Terreno Compartido",
-            "desde": 1902,
-            "hasta": 1906,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/place/Deventer/",
-            "direccion": "Deventer, Países Bajos",
-            "obs": "El punto de partida geográfico del club tras su fundación en 1902. Durante sus primeros cuatro años de existencia, el equipo careció de cancha propia y tuvo que jugar de prestado en los terrenos de la Uitspanning Na Inspanning (UD), el club más antiguo de la ciudad.",
-            "lat": 52.253,
-            "lng": 6.155
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1902,
-            "hasta": null,
-            "c1": "#e30613",
-            "c2": "#ffde00",
-            "sh": "#e30613",
-            "me": "#e30613",
-            "tipo": "franja-central",
-            "desc": "Desde sus albores fundacionales, las Águilas visten una de las indumentarias más gloriosas e intactas del fútbol neerlandés: una camiseta roja cortada en el pecho por una gruesa e inconfundible franja central vertical amarilla. Acompañada casi siempre por pantalones rojos, este diseño clásico refleja a la perfección la ferocidad del águila heráldica de la ciudad de Deventer."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "John Oude Wesselink",
-            "pos": "Mediocampista",
-            "desc": "El verdadero hombre récord del club. Con un total de 415 partidos de liga defendiendo la camiseta, es la máxima leyenda de la institución en cuanto a presencias a lo largo de 17 temporadas.",
-            "epoca": "1969-1986",
-            "apodo": "",
-            "goles": "27",
-            "partidos": "415"
-        },
-        {
-            "nombre": "Paul Bosvelt",
-            "pos": "Mediocampista",
-            "desc": "Centrocampista de enorme talento y despliegue que inició su brillante carrera profesional en el club de Deventer, dejando grandes actuaciones antes de triunfar a nivel nacional y en la selección.",
-            "epoca": "1989-1994",
-            "apodo": "",
-            "goles": "27",
-            "partidos": "139"
-        },
-        {
-            "nombre": "Marc Overmars",
-            "pos": "Extremo",
-            "desc": "Extremo de marcada velocidad que cursó su etapa formativa y sus primeros pasos como profesional en la institución. Su desequilibrio individual atrajo rápidamente el interés de los grandes clubes.",
-            "epoca": "1990-1991 / 2008-2009",
-            "apodo": "El Correcaminos",
-            "goles": "1",
-            "partidos": "35"
-        },
-        {
-            "nombre": "Ruud Geels",
-            "pos": "Delantero",
-            "desc": "Goleador implacable que perfeccionó su instinto anotador en la entidad. Su breve pero arrollador paso dejó una marca imborrable con un promedio espectacular antes de ser fichado por el Ajax.",
-            "epoca": "1970-1972",
-            "apodo": "La Máquina de Goles",
-            "goles": "35",
-            "partidos": "62"
-        },
-        {
-            "nombre": "Bas Kuipers",
-            "pos": "Defensor",
-            "desc": "Lateral y capitán moderno. Lideró al equipo desde el ascenso y fue pieza fundamental en la histórica y reciente clasificación del club a competiciones europeas.",
-            "epoca": "2020-2024",
-            "apodo": "",
-            "goles": "12",
-            "partidos": "134"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Harry Kramp",
-            "goles": "78",
-            "partidos": "200",
-            "epoca": "1960-1968",
-            "apodo": ""
-        },
-        {
-            "nombre": "Sam Hendriks",
-            "goles": "38",
-            "partidos": "65",
-            "epoca": "2016-2018",
-            "apodo": ""
-        },
-        {
-            "nombre": "Ruud Geels",
-            "goles": "35",
-            "partidos": "62",
-            "epoca": "1970-1972",
-            "apodo": "La Máquina de Goles"
-        },
-        {
-            "nombre": "Leon de Kogel",
-            "goles": "25",
-            "partidos": "50",
-            "epoca": "2015-2017",
-            "apodo": ""
-        },
-        {
-            "nombre": "Inigo Cordoba",
-            "goles": "15",
-            "partidos": "35",
-            "epoca": "2021-2022",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "John Oude Wesselink",
-            "partidos": "415",
-            "epoca": "1969-1986",
-            "apodo": "",
-            "goles": "27"
-        },
-        {
-            "nombre": "Jeroen Veldmate",
-            "partidos": "150",
-            "epoca": "2018-2022",
-            "apodo": "",
-            "goles": "8"
-        },
-        {
-            "nombre": "Bas Kuipers",
-            "partidos": "134",
-            "epoca": "2020-2024",
-            "apodo": "",
-            "goles": "12"
-        },
-        {
-            "nombre": "Luuk Brouwers",
-            "partidos": "120",
-            "epoca": "2020-2023",
-            "apodo": "",
-            "goles": "10"
-        },
-        {
-            "nombre": "Mats Deijl",
-            "partidos": "105",
-            "epoca": "2021-Act.",
-            "apodo": "",
-            "goles": "5"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Campeonato Nacional Neerlandés (Amateur)",
-            "cantidad": 4,
-            "anios": [
-                "1921-22",
-                "1929-30",
-                "1931-32",
-                "1932-33"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/go-ahead-eagles/Go_Ahead_Eagles2007-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "El Orgullo del IJssel (Trots aan de IJssel)",
-            "origen": "Este apodo rinde tributo a la profunda conexión geográfica e identitaria del club con la ciudad de Deventer, la cual está históricamente asentada a orillas del majestuoso río IJssel. El equipo se erige como el principal embajador deportivo de esta ribera oriental de los Países Bajos."
-        },
-        {
-            "apodo": "Las Águilas (The Eagles)",
-            "origen": "Adoptado oficialmente en 1971 por sugerencia del visionario entrenador galés Barry Hughes. La intención era modernizar la imagen de la institución y darle una proyección internacional imponente. El águila se convirtió instantáneamente en el símbolo absoluto de la ferocidad y el espíritu competitivo del club."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 74,
-            "g": 8,
-            "e": 10,
-            "p": 56
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 72,
-            "g": 20,
-            "e": 19,
-            "p": 33
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 64,
-            "g": 26,
-            "e": 18,
-            "p": 20
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 84,
-            "g": 16,
-            "e": 18,
-            "p": 50
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 52,
-            "g": 20,
-            "e": 14,
-            "p": 18
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 52,
-            "g": 15,
-            "e": 18,
-            "p": 19
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 32,
-            "g": 6,
-            "e": 10,
-            "p": 16
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 14,
-            "e": 11,
-            "p": 21
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 78,
-            "g": 24,
-            "e": 23,
-            "p": 31
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 78,
-            "g": 20,
-            "e": 26,
-            "p": 32
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 96,
-            "g": 41,
-            "e": 23,
-            "p": 32
-        },
-        {
-            "equipo": "PSV",
-            "pj": 78,
-            "g": 15,
-            "e": 13,
-            "p": 50
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 94,
-            "g": 29,
-            "e": 23,
-            "p": 42
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 64,
-            "g": 28,
-            "e": 14,
-            "p": 22
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 70,
-            "g": 19,
-            "e": 18,
-            "p": 33
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 64,
-            "g": 14,
-            "e": 18,
-            "p": 32
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 78,
-            "g": 28,
-            "e": 18,
-            "p": 32
-        }
+  "id": "go-ahead-eagles",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "go ahead eagles"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Go Ahead Eagles",
+    "sigla": "",
+    "fundacion": "2 de diciembre de 1902",
+    "apodo": "El Orgullo del IJssel (Trots aan de IJssel), Las Águilas",
+    "estadio_actual": "De Adelaarshorst",
+    "estadio_apodo": "El Nido del Águila",
+    "estadio_capacidad": 9909,
+    "estadio_inauguracion": "2 de mayo de 1920",
+    "estadio_lat": 52.2619,
+    "estadio_lng": 6.1664,
+    "estadio_direccion": "Vetkampstraat 1, 7416 WK Deventer, Países Bajos",
+    "socios": 7000,
+    "descripcion_corta": "El gigante dormido de Deventer. Cuatro veces campeón nacional en el amateurismo y poseedor de uno de los estadios más hostiles y británicos del país.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#e30613"
+      },
+      {
+        "tag": "Amarillo",
+        "hex": "#ffde00"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Ruud Geels (35 goles oficiales post-fusión)",
+      "mas_presencias": "John Oude Wesselink (415 partidos)",
+      "mayor_goleada": "8-0 vs Telstar (Eredivisie 1971/72)"
+    },
+    "nombre_oficial": "Go Ahead Eagles",
+    "nombre_corto": "Go Ahead Eagles",
+    "escudo_actual": "/escudos/paises_bajos/go-ahead-eagles/Go_Ahead_Eagles2007-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1902",
+      "hito": "Fundación y Cambio de Identidad",
+      "desc": "El club nació oficialmente el 2 de diciembre de 1902 en la ciudad de Deventer, por iniciativa de los hermanos Karel y Han Hollander junto a su amigo Leo zur Kleinsmiede, bajo la denominación inicial de 'Be Quick'. Apenas tres años más tarde, tras solicitar su ingreso a la federación nacional (KNVB), la directiva descubrió que ya existía un equipo registrado con ese mismo nombre en Groninga. Obligados a modificar su identidad para poder competir, adoptaron la designación inglesa Go Ahead, sentando las bases de la histórica institución."
+    },
+    {
+      "ano": "1922-1933",
+      "hito": "Ciclo de Tetracampeonatos",
+      "desc": "Previo a la instauración de la liga Eredivisie profesional, el club atravesó su etapa de mayor esplendor deportivo. Compitiendo en los campeonatos regionales y nacionales, el equipo se adjudicó cuatro títulos absolutos de los Países Bajos (1922, 1930, 1932 y 1933). Durante este periodo, la institución se consolidó como uno de los equipos más poderosos del país oriental, cimentando una sólida estructura deportiva en torno al estadio Adelaarshorst."
+    },
+    {
+      "ano": "1965",
+      "hito": "Finalista de Copa y Debut Europeo",
+      "desc": "El club vivió uno de sus momentos más destacados de la era moderna al alcanzar la final de la Copa de los Países Bajos en la temporada 1964-1965. Aunque perdieron la final contra el Feyenoord, lograron clasificar a la Recopa de Europa debido a que su rival también había ganado la liga. Este hito marcó el debut continental del club, permitiéndoles enfrentarse al mítico Celtic de Glasgow en una eliminatoria histórica para la institución."
+    },
+    {
+      "ano": "1971",
+      "hito": "La Era de Barry Hughes y el Nombre 'Eagles'",
+      "desc": "Bajo la dirección del carismático entrenador británico Barry Hughes, el club no solo experimentó un fútbol dinámico y atractivo, sino también una revolución en su identidad. Fue Hughes quien impulsó a la directiva a incorporar el sufijo 'Eagles' (Águilas) al nombre oficial del equipo en 1971, otorgándole una proyección internacional y una marca distintiva que perdura con orgullo hasta nuestros días."
+    },
+    {
+      "ano": "2024",
+      "hito": "El Inesperado Regreso a Europa",
+      "desc": "Tras décadas de altibajos y pelear en la parte baja de la tabla, el Go Ahead Eagles protagonizó una campaña memorable en la Eredivisie 2023-2024. Contra todo pronóstico y cimentando su fortaleza en el inexpugnable estadio De Adelaarshorst, el equipo logró asegurar un boleto para las competiciones europeas (Conference League) después de casi 60 años de ausencia continental, desatando la locura total en las calles de Deventer."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "De Adelaarshorst",
+      "capacidad": 9909,
+      "desde": "2 de mayo de 1920",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/De+Adelaarshorst/@52.2619,6.1642,17z",
+      "direccion": "Vetkampstraat 1, Deventer",
+      "obs": "El estadio respira esencia pura del fútbol inglés. Incrustado literalmente en medio de un barrio residencial, sus gradas caen verticalmente sobre el campo de juego, generando un ruido infernal apodado 'El Nido del Águila' (Inaugurado el 2 de mayo de 1920).",
+      "lat": 52.2619,
+      "lng": 6.1664
+    },
+    {
+      "nombre": "De Ossenwaard (De Zes Veldjes)",
+      "capacidad": "Terreno Abierto",
+      "desde": 1908,
+      "hasta": 1920,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/search/Ossenwaard+Deventer/",
+      "direccion": "De Ossenwaard, Deventer",
+      "obs": "Antes de asentar sus raíces definitivas, el club llevó una vida nómade. Uno de sus principales recintos de juego amateur fueron los campos conocidos como 'De Zes Veldjes', ubicados en las llanuras aluviales al oeste del río IJssel.",
+      "lat": 52.2519,
+      "lng": 6.145
+    },
+    {
+      "nombre": "De Halve Maan",
+      "capacidad": "Terreno Abierto",
+      "desde": 1906,
+      "hasta": 1908,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/search/Diepenveen/",
+      "direccion": "Diepenveen, Deventer",
+      "obs": "Tras abandonar las instalaciones prestadas del UD, el club se instaló durante dos temporadas en este terreno ubicado en el municipio de Diepenveen.",
+      "lat": 52.2819,
+      "lng": 6.1464
+    },
+    {
+      "nombre": "UD Terrein",
+      "capacidad": "Terreno Compartido",
+      "desde": 1902,
+      "hasta": 1906,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/place/Deventer/",
+      "direccion": "Deventer, Países Bajos",
+      "obs": "El punto de partida geográfico del club tras su fundación en 1902. Durante sus primeros cuatro años de existencia, el equipo careció de cancha propia y tuvo que jugar de prestado en los terrenos de la Uitspanning Na Inspanning (UD), el club más antiguo de la ciudad.",
+      "lat": 52.253,
+      "lng": 6.155
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1902,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#ffde00",
+      "sh": "#e30613",
+      "me": "#e30613",
+      "tipo": "franja-central",
+      "desc": "Desde sus albores fundacionales, las Águilas visten una de las indumentarias más gloriosas e intactas del fútbol neerlandés: una camiseta roja cortada en el pecho por una gruesa e inconfundible franja central vertical amarilla. Acompañada casi siempre por pantalones rojos, este diseño clásico refleja a la perfección la ferocidad del águila heráldica de la ciudad de Deventer."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "John Oude Wesselink",
+      "pos": "Mediocampista",
+      "desc": "El verdadero hombre récord del club. Con un total de 415 partidos de liga defendiendo la camiseta, es la máxima leyenda de la institución en cuanto a presencias a lo largo de 17 temporadas.",
+      "epoca": "1969-1986",
+      "apodo": "",
+      "goles": "27",
+      "partidos": "415"
+    },
+    {
+      "nombre": "Paul Bosvelt",
+      "pos": "Mediocampista",
+      "desc": "Centrocampista de enorme talento y despliegue que inició su brillante carrera profesional en el club de Deventer, dejando grandes actuaciones antes de triunfar a nivel nacional y en la selección.",
+      "epoca": "1989-1994",
+      "apodo": "",
+      "goles": "27",
+      "partidos": "139"
+    },
+    {
+      "nombre": "Marc Overmars",
+      "pos": "Extremo",
+      "desc": "Extremo de marcada velocidad que cursó su etapa formativa y sus primeros pasos como profesional en la institución. Su desequilibrio individual atrajo rápidamente el interés de los grandes clubes.",
+      "epoca": "1990-1991 / 2008-2009",
+      "apodo": "El Correcaminos",
+      "goles": "1",
+      "partidos": "35"
+    },
+    {
+      "nombre": "Ruud Geels",
+      "pos": "Delantero",
+      "desc": "Goleador implacable que perfeccionó su instinto anotador en la entidad. Su breve pero arrollador paso dejó una marca imborrable con un promedio espectacular antes de ser fichado por el Ajax.",
+      "epoca": "1970-1972",
+      "apodo": "La Máquina de Goles",
+      "goles": "35",
+      "partidos": "62"
+    },
+    {
+      "nombre": "Bas Kuipers",
+      "pos": "Defensor",
+      "desc": "Lateral y capitán moderno. Lideró al equipo desde el ascenso y fue pieza fundamental en la histórica y reciente clasificación del club a competiciones europeas.",
+      "epoca": "2020-2024",
+      "apodo": "",
+      "goles": "12",
+      "partidos": "134"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Harry Kramp",
+      "goles": "78",
+      "partidos": "200",
+      "epoca": "1960-1968",
+      "apodo": ""
+    },
+    {
+      "nombre": "Sam Hendriks",
+      "goles": "38",
+      "partidos": "65",
+      "epoca": "2016-2018",
+      "apodo": ""
+    },
+    {
+      "nombre": "Ruud Geels",
+      "goles": "35",
+      "partidos": "62",
+      "epoca": "1970-1972",
+      "apodo": "La Máquina de Goles"
+    },
+    {
+      "nombre": "Leon de Kogel",
+      "goles": "25",
+      "partidos": "50",
+      "epoca": "2015-2017",
+      "apodo": ""
+    },
+    {
+      "nombre": "Inigo Cordoba",
+      "goles": "15",
+      "partidos": "35",
+      "epoca": "2021-2022",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "John Oude Wesselink",
+      "partidos": "415",
+      "epoca": "1969-1986",
+      "apodo": "",
+      "goles": "27"
+    },
+    {
+      "nombre": "Jeroen Veldmate",
+      "partidos": "150",
+      "epoca": "2018-2022",
+      "apodo": "",
+      "goles": "8"
+    },
+    {
+      "nombre": "Bas Kuipers",
+      "partidos": "134",
+      "epoca": "2020-2024",
+      "apodo": "",
+      "goles": "12"
+    },
+    {
+      "nombre": "Luuk Brouwers",
+      "partidos": "120",
+      "epoca": "2020-2023",
+      "apodo": "",
+      "goles": "10"
+    },
+    {
+      "nombre": "Mats Deijl",
+      "partidos": "105",
+      "epoca": "2021-Act.",
+      "apodo": "",
+      "goles": "5"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato Nacional Neerlandés (Amateur)",
+      "cantidad": 4,
+      "anios": [
+        "1921-22",
+        "1929-30",
+        "1931-32",
+        "1932-33"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/go-ahead-eagles/Go_Ahead_Eagles2007-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Orgullo del IJssel (Trots aan de IJssel)",
+      "origen": "Este apodo rinde tributo a la profunda conexión geográfica e identitaria del club con la ciudad de Deventer, la cual está históricamente asentada a orillas del majestuoso río IJssel. El equipo se erige como el principal embajador deportivo de esta ribera oriental de los Países Bajos."
+    },
+    {
+      "apodo": "Las Águilas (The Eagles)",
+      "origen": "Adoptado oficialmente en 1971 por sugerencia del visionario entrenador galés Barry Hughes. La intención era modernizar la imagen de la institución y darle una proyección internacional imponente. El águila se convirtió instantáneamente en el símbolo absoluto de la ferocidad y el espíritu competitivo del club."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 74,
+      "g": 8,
+      "e": 10,
+      "p": 56
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 72,
+      "g": 20,
+      "e": 19,
+      "p": 33
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 64,
+      "g": 26,
+      "e": 18,
+      "p": 20
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 84,
+      "g": 16,
+      "e": 18,
+      "p": 50
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 52,
+      "g": 20,
+      "e": 14,
+      "p": 18
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 52,
+      "g": 15,
+      "e": 18,
+      "p": 19
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 32,
+      "g": 6,
+      "e": 10,
+      "p": 16
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 14,
+      "e": 11,
+      "p": 21
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 78,
+      "g": 24,
+      "e": 23,
+      "p": 31
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 78,
+      "g": 20,
+      "e": 26,
+      "p": 32
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 96,
+      "g": 41,
+      "e": 23,
+      "p": 32
+    },
+    {
+      "equipo": "PSV",
+      "pj": 78,
+      "g": 15,
+      "e": 13,
+      "p": 50
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 94,
+      "g": 29,
+      "e": 23,
+      "p": 42
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 64,
+      "g": 28,
+      "e": 14,
+      "p": 22
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 70,
+      "g": 19,
+      "e": 18,
+      "p": 33
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 64,
+      "g": 14,
+      "e": 18,
+      "p": 32
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 78,
+      "g": 28,
+      "e": 18,
+      "p": 32
+    }
+  ]
 }

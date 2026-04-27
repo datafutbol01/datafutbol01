@@ -76,119 +76,119 @@ export default function Home() {
       'tigres': 'mex_liga_mx'
     };
 
-    const rawMatches = allItems.current.filter(item => 
-      item.name.toLowerCase().includes(q) || 
+    const rawMatches = allItems.current.filter(item =>
+      item.name.toLowerCase().includes(q) ||
       (item.leagueName && item.leagueName.toLowerCase().includes(q))
     ).slice(0, 2); // Tomamos 2 clubes para dejar lugar a los atajos de torneos
 
     let expandedResults = [];
-    
+
     rawMatches.forEach(match => {
-       // 1. Agregamos el club como primera opción (La Ficha Histórica)
-       expandedResults.push(match);
-       
-       if (match.type === 'club') {
-          let shortcutsAdded = 0;
+      // 1. Agregamos el club como primera opción (La Ficha Histórica)
+      expandedResults.push(match);
 
-          // 2. Agregamos su liga doméstica
-          if (!expandedResults.find(r => r.id === `shortcut_${match.leagueId}`)) {
-             expandedResults.push({
-                type: 'shortcut',
-                id: `shortcut_${match.leagueId}`,
-                name: `🏆 Ir a tabla de ${match.leagueName}`,
-                country: 'Torneo Local',
-                url: `/liga/${match.leagueId}`,
-                shield: null
-             });
-             shortcutsAdded++;
-          }
+      if (match.type === 'club') {
+        let shortcutsAdded = 0;
 
-          // 3. Torneos dinámicos leyendo el JSON (máximo 2 para no romper la pantalla)
-          if (match.palmares && match.palmares.length > 0) {
-             const addedSlugs = new Set();
-             match.palmares.forEach(trophy => {
-                if (shortcutsAdded >= 3) return; // Freno: máximo 1 liga y 2 copas extras
+        // 2. Agregamos su liga doméstica
+        if (!expandedResults.find(r => r.id === `shortcut_${match.leagueId}`)) {
+          expandedResults.push({
+            type: 'shortcut',
+            id: `shortcut_${match.leagueId}`,
+            name: `🏆 Ir a tabla de ${match.leagueName}`,
+            country: 'Torneo Local',
+            url: `/liga/${match.leagueId}`,
+            shield: null
+          });
+          shortcutsAdded++;
+        }
 
-                const tName = trophy.torneo.toLowerCase();
-                let targetSlug = null;
-                for (const [key, slug] of Object.entries(trophyToSlug)) {
-                   if (tName.includes(key)) {
-                      targetSlug = slug;
-                      break;
-                   }
-                }
+        // 3. Torneos dinámicos leyendo el JSON (máximo 2 para no romper la pantalla)
+        if (match.palmares && match.palmares.length > 0) {
+          const addedSlugs = new Set();
+          match.palmares.forEach(trophy => {
+            if (shortcutsAdded >= 3) return; // Freno: máximo 1 liga y 2 copas extras
 
-                if (targetSlug && !addedSlugs.has(targetSlug) && targetSlug !== match.leagueId) {
-                   addedSlugs.add(targetSlug);
-                   if (!expandedResults.find(r => r.id === `shortcut_${targetSlug}`)) {
-                       expandedResults.push({
-                          type: 'shortcut',
-                          id: `shortcut_${targetSlug}`,
-                          name: `⭐ Ver ${trophy.torneo}`,
-                          country: 'Trofeo Ganado',
-                          url: `/liga/${targetSlug}`,
-                          shield: null
-                       });
-                       shortcutsAdded++;
-                   }
-                }
-             });
-          }
-       }
+            const tName = trophy.torneo.toLowerCase();
+            let targetSlug = null;
+            for (const [key, slug] of Object.entries(trophyToSlug)) {
+              if (tName.includes(key)) {
+                targetSlug = slug;
+                break;
+              }
+            }
+
+            if (targetSlug && !addedSlugs.has(targetSlug) && targetSlug !== match.leagueId) {
+              addedSlugs.add(targetSlug);
+              if (!expandedResults.find(r => r.id === `shortcut_${targetSlug}`)) {
+                expandedResults.push({
+                  type: 'shortcut',
+                  id: `shortcut_${targetSlug}`,
+                  name: `⭐ Ver ${trophy.torneo}`,
+                  country: 'Trofeo Ganado',
+                  url: `/liga/${targetSlug}`,
+                  shield: null
+                });
+                shortcutsAdded++;
+              }
+            }
+          });
+        }
+      }
     });
 
     // 4. Si el usuario buscó un equipo que no tiene JSON, pero está en el diccionario de atajos:
     Object.entries(leagueKeywords).forEach(([keyword, lId]) => {
       if (keyword.includes(q)) {
-         const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
-         if (leagueObj && !expandedResults.find(r => r.id === `shortcut_${lId}`)) {
-             expandedResults.push({
-                type: 'shortcut',
-                id: `shortcut_${lId}`,
-                name: `🏆 Ir a tabla de ${leagueObj.name} (Torneo Local)`,
-                country: leagueObj.country,
-                url: `/liga/${lId}`,
-                shield: null
-             });
-         }
+        const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+        if (leagueObj && !expandedResults.find(r => r.id === `shortcut_${lId}`)) {
+          expandedResults.push({
+            type: 'shortcut',
+            id: `shortcut_${lId}`,
+            name: `🏆 Ir a tabla de ${leagueObj.name} (Torneo Local)`,
+            country: leagueObj.country,
+            url: `/liga/${lId}`,
+            shield: null
+          });
+        }
       }
     });
 
     // 4. Búsqueda por "Términos Genéricos" (Historiales, Posiciones)
     if (q.includes('historial') || q.includes('enfrentamiento')) {
-       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'champions'];
-       topLeagues.forEach(lId => {
-          const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
-          if (leagueObj) {
-             expandedResults.push({
-                type: 'shortcut',
-                id: `historial_${lId}`,
-                name: `📊 Historiales de ${leagueObj.name}`,
-                country: 'Sección de Liga',
-                url: `/liga/${lId}`,
-                state: { tab: 'enfrentamientos' },
-                shield: null
-             });
-          }
-       });
+      const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'champions'];
+      topLeagues.forEach(lId => {
+        const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+        if (leagueObj) {
+          expandedResults.push({
+            type: 'shortcut',
+            id: `historial_${lId}`,
+            name: `📊 Historiales de ${leagueObj.name}`,
+            country: 'Sección de Liga',
+            url: `/liga/${lId}`,
+            state: { tab: 'enfrentamientos' },
+            shield: null
+          });
+        }
+      });
     }
 
     if (q.includes('posicion') || q.includes('tabla')) {
-       const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'arg_nacional_b'];
-       topLeagues.forEach(lId => {
-          const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
-          if (leagueObj) {
-             expandedResults.push({
-                type: 'shortcut',
-                id: `tabla_${lId}`,
-                name: `📈 Tabla de ${leagueObj.name}`,
-                country: 'Sección de Liga',
-                url: `/liga/${lId}`,
-                state: { tab: 'actualidad' },
-                shield: null
-             });
-          }
-       });
+      const topLeagues = ['argentina', 'inglaterra', 'espania', 'italia', 'paises_bajos', 'arg_nacional_b'];
+      topLeagues.forEach(lId => {
+        const leagueObj = allItems.current.find(i => i.type === 'league' && i.id === lId);
+        if (leagueObj) {
+          expandedResults.push({
+            type: 'shortcut',
+            id: `tabla_${lId}`,
+            name: `📈 Tabla de ${leagueObj.name}`,
+            country: 'Sección de Liga',
+            url: `/liga/${lId}`,
+            state: { tab: 'actualidad' },
+            shield: null
+          });
+        }
+      });
     }
 
     // Filtramos para no mostrar más de 6 u 8 resultados en total para que no quede gigante

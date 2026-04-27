@@ -1,5 +1,6 @@
 import { Outlet, useLocation } from 'react-router-dom';
-import { useEffect } from 'react';
+import { useEffect, Suspense } from 'react';
+import { AnimatePresence, motion } from 'framer-motion';
 import ReactGA from 'react-ga4';
 import Navbar from './components/Navbar';
 import PwaPrompt from './components/PwaPrompt';
@@ -24,7 +25,23 @@ function App() {
         {!hideNavbar && <Navbar />}
         <main className={!hideNavbar ? "pt-20" : ""}>
           <ErrorBoundary>
-            <Outlet />
+            <AnimatePresence mode="wait">
+              <motion.div
+                key={location.pathname}
+                initial={{ opacity: 0, y: 15 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -15 }}
+                transition={{ duration: 0.3, ease: "easeOut" }}
+              >
+                <Suspense fallback={
+                  <div className="flex items-center justify-center min-h-[60vh]">
+                    <div className="w-12 h-12 border-4 border-[#fbbf24] border-t-transparent rounded-full animate-spin drop-shadow-md"></div>
+                  </div>
+                }>
+                  <Outlet />
+                </Suspense>
+              </motion.div>
+            </AnimatePresence>
           </ErrorBoundary>
         </main>
         <PwaPrompt />

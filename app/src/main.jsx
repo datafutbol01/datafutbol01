@@ -2,14 +2,14 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import App from './App.jsx'
-import Home from './pages/Home.jsx'
-import Leagues from './pages/Leagues.jsx'
-import League from './pages/League.jsx'
-import ClubDetail from './pages/ClubDetail.jsx'
-import WorldCupsHub from './pages/WorldCupsHub.jsx'
-import ChampionsHub from './pages/ChampionsHub.jsx'
-import LiveScoresHub from './pages/LiveScoresHub.jsx'
-import AuditHub from './pages/AuditHub.jsx'
+const Home = React.lazy(() => import('./pages/Home.jsx'));
+const Leagues = React.lazy(() => import('./pages/Leagues.jsx'));
+const League = React.lazy(() => import('./pages/League.jsx'));
+const ClubDetail = React.lazy(() => import('./pages/ClubDetail.jsx'));
+const WorldCupsHub = React.lazy(() => import('./pages/WorldCupsHub.jsx'));
+const ChampionsHub = React.lazy(() => import('./pages/ChampionsHub.jsx'));
+const LiveScoresHub = React.lazy(() => import('./pages/LiveScoresHub.jsx'));
+const AuditHub = React.lazy(() => import('./pages/AuditHub.jsx'));
 import './index.css'
 import { inject } from '@vercel/analytics';
 import ReactGA from 'react-ga4';

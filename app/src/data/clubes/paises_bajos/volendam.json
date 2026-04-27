@@ -1,378 +1,378 @@
 {
-    "id": "volendam",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "fc volendam"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Football Club Volendam",
-        "sigla": "",
-        "fundacion": "1 de junio de 1920",
-        "apodo": "El Otro Naranja (Het Andere Oranje), Los Chicos Pescadores (Palingboeren)",
-        "estadio_actual": "Kras Stadion",
-        "estadio_apodo": "",
-        "estadio_capacidad": 7384,
-        "estadio_inauguracion": "1975",
-        "estadio_lat": 52.4939,
-        "estadio_lng": 5.0683,
-        "estadio_direccion": "Sportlaan 10, 1131 BK Volendam, Países Bajos",
-        "socios": 4000,
-        "descripcion_corta": "Un exótico club originario de un pequeño puerto católico de pescadores. Conocidos universalmente por su récord de ascensos/descensos (El Barco Ida y Vuelta) y la producción inagotable de cracks.",
-        "paleta": [
-            {
-                "tag": "Naranja",
-                "hex": "#ff6600"
-            },
-            {
-                "tag": "Negro",
-                "hex": "#000000"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Dick Tol (276 goles)",
-            "mas_presencias": "Johan Steur (468 partidos)",
-            "mayor_goleada": "8-1 vs FC Dordrecht (Eredivisie 1993/94)"
-        },
-        "nombre_oficial": "FC Volendam",
-        "nombre_corto": "FC Volendam",
-        "escudo_actual": "/escudos/paises_bajos/volendam/FC_Volendam_logo.webp"
-    },
-    "historia": [
-        {
-            "ano": "1920",
-            "hito": "Los Pescadores Fundan el 'Victoria'",
-            "desc": "El 1 de junio de 1920, un grupo de pescadores que jugaban en las calles de la aldea portuaria decidieron formalizar su pasión. La reunión fundacional histórica tuvo lugar en el clásico café 'De Oude Lutine', donde se firmó el acta constitutiva del equipo, bautizado originariamente como 'Victoria'. La primera junta directiva quedó conformada por figuras locales: Jaap Veerman (Presidente), Pauw de Boer (Tesorero) y Anton Veldhuizen (Secretario), integrando un plantel de rústicos marineros como Dirk Plat, Kees Karregat y Japie Hansen."
-        },
-        {
-            "ano": "1923",
-            "hito": "La Intervención Católica y el RKSV",
-            "desc": "Apenas unos años después de su nacimiento, la profunda influencia religiosa de la aldea se hizo sentir. Bajo presión directa de la iglesia católica local, el club fue obligado a integrarse a la federación cristiana, viéndose forzado a abandonar el nombre Victoria para pasar a llamarse oficialmente 'RKSV (Rooms Katholieke Sportvereniging) Volendam'."
-        },
-        {
-            "ano": "1958 y 1995",
-            "hito": "Las Grandes Finales de Copa",
-            "desc": "Durante el siglo XX, a pesar de sus inmensas limitaciones geográficas y económicas frente a los gigantes de la ciudad, el disciplinado equipo católico logró la hazaña histórica de alcanzar en dos oportunidades distintas (1958 y 1995) la final de la Copa Nacional KNVB, estableciendo a Volendam como un respetado bastión del fútbol formativo."
-        },
-        {
-            "ano": "1977",
-            "hito": "El Cisma Profesional (Nace el FC)",
-            "desc": "Para poder sostener económicamente el feroz ritmo de la era profesional sin comprometer el espíritu recreativo del pueblo, la directiva tomó la dolorosa decisión de dividir la institución. El brazo profesional se escindió definitivamente formando el moderno 'FC Volendam', mientras que el club madre continuó como el gigante amateur RKAV Volendam que todavía existe hoy."
-        },
-        {
-            "ano": "Histórico",
-            "hito": "El Barco de Ida y Vuelta",
-            "desc": "Al club se lo conoce nacionalmente como el 'Heen-en-weer club' (El equipo ascensor o el barco que va y viene). Este apodo refleja el asombroso e inigualable récord del FC Volendam de ser el equipo con mayor cantidad de ascensos y descensos entre la primera y la segunda división de los Países Bajos, siendo un sobreviviente eterno de las crisis."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Kras Stadion",
-            "capacidad": 7384,
-            "desde": "1975",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Kras+Stadion/@52.4939,5.0661,17z",
-            "direccion": "Sportlaan 10, 1131 BK Volendam, Países Bajos",
-            "obs": "Estadio íntimo, sintético y con gradas sin esquinas. Rodeado del aire marítimo del Markermeer, su grada local se caracteriza por consumir cantidades récord de anguila ahumada y cerveza durante los noventa minutos del partido.",
-            "lat": 52.4939,
-            "lng": 5.0683
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1920,
-            "hasta": 1923,
-            "c1": "#ff0000",
-            "c2": "#000000",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "rayas-verticales",
-            "desc": "En los primeros tres años tras la fundación del club bajo el nombre de 'Victoria', los pescadores no tenían un uniforme estandarizado. Eventualmente adoptaron un diseño de franjas rojas y negras con pantalones negros como su primera indumentaria oficial."
-        },
-        {
-            "desde": 1923,
-            "hasta": null,
-            "c1": "#ff6600",
-            "c2": "#ff6600",
-            "sh": "#000000",
-            "me": "#ff6600",
-            "tipo": "liso",
-            "desc": "Tras la intervención católica y el cambio de nombre a Volendam, el club adoptó definitivamente el color Naranja liso. Es el único club de renombre local autorizado extraoficialmente a vestir del mismo color Naranja furioso que la Selección Nacional ('Het Andere Oranje'). Lo combinan impecablemente con pantalón negro."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Dick Tol",
-            "pos": "Delantero",
-            "desc": "Apodado 'De Knoest', es el goleador legendario y definitivo de la historia del club. Sus impactantes 276 goles en liga lo consolidan como el máximo artillero del pequeño pueblo pesquero.",
-            "epoca": "1955-1973",
-            "apodo": "",
-            "goles": "276",
-            "partidos": "350"
-        },
-        {
-            "nombre": "Wim Jonk",
-            "pos": "Mediocampista",
-            "desc": "Mediocampista de características organizativas y técnica depurada. Inició su carrera profesional en el plantel, aportando volumen de juego y claridad en la transición antes de incorporarse a equipos de élite, para luego volver como mánager y DT.",
-            "epoca": "1986-1988",
-            "apodo": "El Cerebro",
-            "goles": "28",
-            "partidos": "59"
-        },
-        {
-            "nombre": "Gerrie Mühren",
-            "pos": "Mediocampista",
-            "desc": "Legendario mediocampista neerlandés. Ganó tres Copas de Europa con el Ajax en los setenta, pero inició y terminó su carrera en el Volendam, el club de su ciudad natal, donde es considerado un héroe absoluto.",
-            "epoca": "1963-1968 / 1978-1980 / 1984-1985",
-            "apodo": "",
-            "goles": "14",
-            "partidos": "102"
-        },
-        {
-            "nombre": "Arnold Mühren",
-            "pos": "Mediocampista",
-            "desc": "Elegante volante zurdo de clase mundial que comenzó y finalizó ciclos en el club local de su ciudad natal, deslumbrando antes y después de conquistarlo todo en Europa.",
-            "epoca": "1970-1971 / 1979",
-            "apodo": "",
-            "goles": "2",
-            "partidos": "26"
-        },
-        {
-            "nombre": "Robert Mühren",
-            "pos": "Delantero",
-            "desc": "Heredero de una ilustre dinastía futbolística local. Su olfato goleador fue fundamental en la historia reciente del club para asegurar el retorno a la máxima categoría.",
-            "epoca": "2011-2014 / 2021-Act.",
-            "apodo": "",
-            "goles": "88",
-            "partidos": "160"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Dick Tol",
-            "goles": "276",
-            "partidos": "350",
-            "epoca": "1955-1973",
-            "apodo": "De Knoest"
-        },
-        {
-            "nombre": "Jack Tuyp",
-            "goles": "140",
-            "partidos": "300",
-            "epoca": "2002-2013",
-            "apodo": "El Goleador del Pueblo"
-        },
-        {
-            "nombre": "Robert Mühren",
-            "goles": "88",
-            "partidos": "160",
-            "epoca": "2011-2024",
-            "apodo": ""
-        },
-        {
-            "nombre": "Henk Veerman",
-            "goles": "51",
-            "partidos": "105",
-            "epoca": "2013-2015 / 2022-2023",
-            "apodo": ""
-        },
-        {
-            "nombre": "Samuele Mulattieri",
-            "goles": "19",
-            "partidos": "32",
-            "epoca": "2020-2021",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Johan Steur",
-            "partidos": "468",
-            "epoca": "1980-1995",
-            "apodo": "Johan",
-            "goles": "0"
-        },
-        {
-            "nombre": "Klaas Zwarthoed",
-            "partidos": "440",
-            "epoca": "1975-1990",
-            "apodo": "Vracht",
-            "goles": "0"
-        },
-        {
-            "nombre": "Henny Schilder",
-            "partidos": "429",
-            "epoca": "2006-2018",
-            "apodo": "Henny",
-            "goles": "5"
-        },
-        {
-            "nombre": "Dick de Boer",
-            "partidos": "423",
-            "epoca": "1970-1985",
-            "apodo": "Dick",
-            "goles": "0"
-        },
-        {
-            "nombre": "Jack Tuyp",
-            "partidos": "391",
-            "epoca": "2002-2013",
-            "apodo": "El Goleador del Pueblo",
-            "goles": "140"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Eerste Divisie (2da Categoría)",
-            "cantidad": 6,
-            "anios": [
-                "1958-59",
-                "1960-61",
-                "1966-67",
-                "1969-70",
-                "1986-87",
-                "2007-08"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/volendam/FC_Volendam_logo.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "El Otro Naranja (Het Andere Oranje)",
-            "origen": "Como la Selección Nacional de los Países Bajos juega de Naranja (por la Casa Real de Orange), tradicionalmente no se permiten clubes que utilicen ese color íntegramente. El Volendam es la eterna y legendaria excepción de la regla, convirtiéndose oficialmente en 'El Otro Naranja' del país."
-        },
-        {
-            "apodo": "Los Vendedores de Anguilas (Palingboeren)",
-            "origen": "Deriva de la cultura popular e industrial de la pequeña aldea de Volendam, que fue históricamente un puerto pesquero dedicado obsesivamente a la caza, venta y consumo de Paling (anguila ahumada), el símbolo gastronómico de la zona."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 58,
-            "g": 6,
-            "e": 10,
-            "p": 42
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 58,
-            "g": 12,
-            "e": 18,
-            "p": 28
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 78,
-            "g": 34,
-            "e": 16,
-            "p": 28
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 58,
-            "g": 8,
-            "e": 9,
-            "p": 41
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 68,
-            "g": 25,
-            "e": 15,
-            "p": 28
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 78,
-            "g": 32,
-            "e": 18,
-            "p": 28
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 52,
-            "g": 12,
-            "e": 14,
-            "p": 26
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 46,
-            "g": 12,
-            "e": 8,
-            "p": 26
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 52,
-            "g": 19,
-            "e": 13,
-            "p": 20
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 56,
-            "g": 20,
-            "e": 14,
-            "p": 22
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 58,
-            "g": 21,
-            "e": 14,
-            "p": 23
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 52,
-            "g": 19,
-            "e": 14,
-            "p": 19
-        },
-        {
-            "equipo": "PSV",
-            "pj": 60,
-            "g": 5,
-            "e": 10,
-            "p": 45
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 70,
-            "g": 24,
-            "e": 18,
-            "p": 28
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 88,
-            "g": 39,
-            "e": 21,
-            "p": 28
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 64,
-            "g": 15,
-            "e": 16,
-            "p": 33
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 78,
-            "g": 20,
-            "e": 25,
-            "p": 33
-        }
+  "id": "volendam",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "fc volendam"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Football Club Volendam",
+    "sigla": "",
+    "fundacion": "1 de junio de 1920",
+    "apodo": "El Otro Naranja (Het Andere Oranje), Los Chicos Pescadores (Palingboeren)",
+    "estadio_actual": "Kras Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 7384,
+    "estadio_inauguracion": "1975",
+    "estadio_lat": 52.4939,
+    "estadio_lng": 5.0683,
+    "estadio_direccion": "Sportlaan 10, 1131 BK Volendam, Países Bajos",
+    "socios": 4000,
+    "descripcion_corta": "Un exótico club originario de un pequeño puerto católico de pescadores. Conocidos universalmente por su récord de ascensos/descensos (El Barco Ida y Vuelta) y la producción inagotable de cracks.",
+    "paleta": [
+      {
+        "tag": "Naranja",
+        "hex": "#ff6600"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Dick Tol (276 goles)",
+      "mas_presencias": "Johan Steur (468 partidos)",
+      "mayor_goleada": "8-1 vs FC Dordrecht (Eredivisie 1993/94)"
+    },
+    "nombre_oficial": "FC Volendam",
+    "nombre_corto": "FC Volendam",
+    "escudo_actual": "/escudos/paises_bajos/volendam/FC_Volendam_logo.webp"
+  },
+  "historia": [
+    {
+      "ano": "1920",
+      "hito": "Los Pescadores Fundan el 'Victoria'",
+      "desc": "El 1 de junio de 1920, un grupo de pescadores que jugaban en las calles de la aldea portuaria decidieron formalizar su pasión. La reunión fundacional histórica tuvo lugar en el clásico café 'De Oude Lutine', donde se firmó el acta constitutiva del equipo, bautizado originariamente como 'Victoria'. La primera junta directiva quedó conformada por figuras locales: Jaap Veerman (Presidente), Pauw de Boer (Tesorero) y Anton Veldhuizen (Secretario), integrando un plantel de rústicos marineros como Dirk Plat, Kees Karregat y Japie Hansen."
+    },
+    {
+      "ano": "1923",
+      "hito": "La Intervención Católica y el RKSV",
+      "desc": "Apenas unos años después de su nacimiento, la profunda influencia religiosa de la aldea se hizo sentir. Bajo presión directa de la iglesia católica local, el club fue obligado a integrarse a la federación cristiana, viéndose forzado a abandonar el nombre Victoria para pasar a llamarse oficialmente 'RKSV (Rooms Katholieke Sportvereniging) Volendam'."
+    },
+    {
+      "ano": "1958 y 1995",
+      "hito": "Las Grandes Finales de Copa",
+      "desc": "Durante el siglo XX, a pesar de sus inmensas limitaciones geográficas y económicas frente a los gigantes de la ciudad, el disciplinado equipo católico logró la hazaña histórica de alcanzar en dos oportunidades distintas (1958 y 1995) la final de la Copa Nacional KNVB, estableciendo a Volendam como un respetado bastión del fútbol formativo."
+    },
+    {
+      "ano": "1977",
+      "hito": "El Cisma Profesional (Nace el FC)",
+      "desc": "Para poder sostener económicamente el feroz ritmo de la era profesional sin comprometer el espíritu recreativo del pueblo, la directiva tomó la dolorosa decisión de dividir la institución. El brazo profesional se escindió definitivamente formando el moderno 'FC Volendam', mientras que el club madre continuó como el gigante amateur RKAV Volendam que todavía existe hoy."
+    },
+    {
+      "ano": "Histórico",
+      "hito": "El Barco de Ida y Vuelta",
+      "desc": "Al club se lo conoce nacionalmente como el 'Heen-en-weer club' (El equipo ascensor o el barco que va y viene). Este apodo refleja el asombroso e inigualable récord del FC Volendam de ser el equipo con mayor cantidad de ascensos y descensos entre la primera y la segunda división de los Países Bajos, siendo un sobreviviente eterno de las crisis."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Kras Stadion",
+      "capacidad": 7384,
+      "desde": "1975",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Kras+Stadion/@52.4939,5.0661,17z",
+      "direccion": "Sportlaan 10, 1131 BK Volendam, Países Bajos",
+      "obs": "Estadio íntimo, sintético y con gradas sin esquinas. Rodeado del aire marítimo del Markermeer, su grada local se caracteriza por consumir cantidades récord de anguila ahumada y cerveza durante los noventa minutos del partido.",
+      "lat": 52.4939,
+      "lng": 5.0683
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1920,
+      "hasta": 1923,
+      "c1": "#ff0000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "En los primeros tres años tras la fundación del club bajo el nombre de 'Victoria', los pescadores no tenían un uniforme estandarizado. Eventualmente adoptaron un diseño de franjas rojas y negras con pantalones negros como su primera indumentaria oficial."
+    },
+    {
+      "desde": 1923,
+      "hasta": null,
+      "c1": "#ff6600",
+      "c2": "#ff6600",
+      "sh": "#000000",
+      "me": "#ff6600",
+      "tipo": "liso",
+      "desc": "Tras la intervención católica y el cambio de nombre a Volendam, el club adoptó definitivamente el color Naranja liso. Es el único club de renombre local autorizado extraoficialmente a vestir del mismo color Naranja furioso que la Selección Nacional ('Het Andere Oranje'). Lo combinan impecablemente con pantalón negro."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Dick Tol",
+      "pos": "Delantero",
+      "desc": "Apodado 'De Knoest', es el goleador legendario y definitivo de la historia del club. Sus impactantes 276 goles en liga lo consolidan como el máximo artillero del pequeño pueblo pesquero.",
+      "epoca": "1955-1973",
+      "apodo": "",
+      "goles": "276",
+      "partidos": "350"
+    },
+    {
+      "nombre": "Wim Jonk",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista de características organizativas y técnica depurada. Inició su carrera profesional en el plantel, aportando volumen de juego y claridad en la transición antes de incorporarse a equipos de élite, para luego volver como mánager y DT.",
+      "epoca": "1986-1988",
+      "apodo": "El Cerebro",
+      "goles": "28",
+      "partidos": "59"
+    },
+    {
+      "nombre": "Gerrie Mühren",
+      "pos": "Mediocampista",
+      "desc": "Legendario mediocampista neerlandés. Ganó tres Copas de Europa con el Ajax en los setenta, pero inició y terminó su carrera en el Volendam, el club de su ciudad natal, donde es considerado un héroe absoluto.",
+      "epoca": "1963-1968 / 1978-1980 / 1984-1985",
+      "apodo": "",
+      "goles": "14",
+      "partidos": "102"
+    },
+    {
+      "nombre": "Arnold Mühren",
+      "pos": "Mediocampista",
+      "desc": "Elegante volante zurdo de clase mundial que comenzó y finalizó ciclos en el club local de su ciudad natal, deslumbrando antes y después de conquistarlo todo en Europa.",
+      "epoca": "1970-1971 / 1979",
+      "apodo": "",
+      "goles": "2",
+      "partidos": "26"
+    },
+    {
+      "nombre": "Robert Mühren",
+      "pos": "Delantero",
+      "desc": "Heredero de una ilustre dinastía futbolística local. Su olfato goleador fue fundamental en la historia reciente del club para asegurar el retorno a la máxima categoría.",
+      "epoca": "2011-2014 / 2021-Act.",
+      "apodo": "",
+      "goles": "88",
+      "partidos": "160"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Dick Tol",
+      "goles": "276",
+      "partidos": "350",
+      "epoca": "1955-1973",
+      "apodo": "De Knoest"
+    },
+    {
+      "nombre": "Jack Tuyp",
+      "goles": "140",
+      "partidos": "300",
+      "epoca": "2002-2013",
+      "apodo": "El Goleador del Pueblo"
+    },
+    {
+      "nombre": "Robert Mühren",
+      "goles": "88",
+      "partidos": "160",
+      "epoca": "2011-2024",
+      "apodo": ""
+    },
+    {
+      "nombre": "Henk Veerman",
+      "goles": "51",
+      "partidos": "105",
+      "epoca": "2013-2015 / 2022-2023",
+      "apodo": ""
+    },
+    {
+      "nombre": "Samuele Mulattieri",
+      "goles": "19",
+      "partidos": "32",
+      "epoca": "2020-2021",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Johan Steur",
+      "partidos": "468",
+      "epoca": "1980-1995",
+      "apodo": "Johan",
+      "goles": "0"
+    },
+    {
+      "nombre": "Klaas Zwarthoed",
+      "partidos": "440",
+      "epoca": "1975-1990",
+      "apodo": "Vracht",
+      "goles": "0"
+    },
+    {
+      "nombre": "Henny Schilder",
+      "partidos": "429",
+      "epoca": "2006-2018",
+      "apodo": "Henny",
+      "goles": "5"
+    },
+    {
+      "nombre": "Dick de Boer",
+      "partidos": "423",
+      "epoca": "1970-1985",
+      "apodo": "Dick",
+      "goles": "0"
+    },
+    {
+      "nombre": "Jack Tuyp",
+      "partidos": "391",
+      "epoca": "2002-2013",
+      "apodo": "El Goleador del Pueblo",
+      "goles": "140"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Eerste Divisie (2da Categoría)",
+      "cantidad": 6,
+      "anios": [
+        "1958-59",
+        "1960-61",
+        "1966-67",
+        "1969-70",
+        "1986-87",
+        "2007-08"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/volendam/FC_Volendam_logo.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "El Otro Naranja (Het Andere Oranje)",
+      "origen": "Como la Selección Nacional de los Países Bajos juega de Naranja (por la Casa Real de Orange), tradicionalmente no se permiten clubes que utilicen ese color íntegramente. El Volendam es la eterna y legendaria excepción de la regla, convirtiéndose oficialmente en 'El Otro Naranja' del país."
+    },
+    {
+      "apodo": "Los Vendedores de Anguilas (Palingboeren)",
+      "origen": "Deriva de la cultura popular e industrial de la pequeña aldea de Volendam, que fue históricamente un puerto pesquero dedicado obsesivamente a la caza, venta y consumo de Paling (anguila ahumada), el símbolo gastronómico de la zona."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 58,
+      "g": 6,
+      "e": 10,
+      "p": 42
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 58,
+      "g": 12,
+      "e": 18,
+      "p": 28
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 78,
+      "g": 34,
+      "e": 16,
+      "p": 28
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 58,
+      "g": 8,
+      "e": 9,
+      "p": 41
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 68,
+      "g": 25,
+      "e": 15,
+      "p": 28
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 78,
+      "g": 32,
+      "e": 18,
+      "p": 28
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 52,
+      "g": 12,
+      "e": 14,
+      "p": 26
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 46,
+      "g": 12,
+      "e": 8,
+      "p": 26
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 52,
+      "g": 19,
+      "e": 13,
+      "p": 20
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 56,
+      "g": 20,
+      "e": 14,
+      "p": 22
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 58,
+      "g": 21,
+      "e": 14,
+      "p": 23
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 52,
+      "g": 19,
+      "e": 14,
+      "p": 19
+    },
+    {
+      "equipo": "PSV",
+      "pj": 60,
+      "g": 5,
+      "e": 10,
+      "p": 45
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 70,
+      "g": 24,
+      "e": 18,
+      "p": 28
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 88,
+      "g": 39,
+      "e": 21,
+      "p": 28
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 64,
+      "g": 15,
+      "e": 16,
+      "p": 33
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 78,
+      "g": 20,
+      "e": 25,
+      "p": 33
+    }
+  ]
 }

@@ -1,432 +1,432 @@
 {
-    "id": "nec-nijmegen",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "nec nijmegen"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Nijmegen Eendracht Combinatie",
-        "sigla": "",
-        "fundacion": "15 de noviembre de 1900",
-        "apodo": "Los de Nimega (De Nijmegenaren)",
-        "estadio_actual": "Goffertstadion",
-        "estadio_apodo": "El Foso de Sangre (De Bloedkuil)",
-        "estadio_capacidad": 12500,
-        "estadio_inauguracion": "8 de julio de 1939",
-        "estadio_lat": 51.8242,
-        "estadio_lng": 5.8361,
-        "estadio_direccion": "Goffertweg 17, 6532 CP Nijmegen, Países Bajos",
-        "socios": 10000,
-        "descripcion_corta": "Surgido de las calles de la ciudad más antigua del país. Conocidos por su estadio incrustado en el suelo, su aguerrida afición y el histórico derbi de Güeldres contra el Vitesse.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#e30613"
-            },
-            {
-                "tag": "Verde",
-                "hex": "#008a38"
-            },
-            {
-                "tag": "Negro",
-                "hex": "#000000"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Frans Janssen (126 goles)",
-            "mas_presencias": "Sije Visser (342 partidos)",
-            "mayor_goleada": "7-0 vs MVV Maastricht (Eredivisie 1997/98)"
-        },
-        "nombre_oficial": "N.E.C.",
-        "nombre_corto": "NEC Nijmegen",
-        "escudo_actual": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo2001-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1900",
-            "hito": "Fundación de Eendracht",
-            "desc": "El embrión de la institución nació el 15 de noviembre de 1900 bajo el nombre de 'Eendracht' (Unidad) en las calles del barrio obrero Benedenstad en Nimega. Tres jóvenes entusiastas de clase trabajadora, August Lodenstijn, Antoon Kuypers y Wouter de Lent, fundaron el club como un acto de rebeldía al no ser aceptados en la elitista escuadra vecina Quick 1888, plantando la semilla de un club de auténtico arraigo popular."
-        },
-        {
-            "ano": "1910",
-            "hito": "La Fusión que creó al NEC",
-            "desc": "Buscando unificar el talento local y volverse competitivos a nivel nacional, en abril de 1910 el club Eendracht oficializó su fusión con el NVV Nijmegen. De esta unión estratégica surgió el nombre definitivo e histórico del club: Nijmegen Eendracht Combinatie (NEC), adoptando orgullosamente los colores rojo, verde y negro que distinguirían a la institución en el siglo venidero."
-        },
-        {
-            "ano": "1939-1942",
-            "hito": "La Inauguración de De Goffert",
-            "desc": "El 8 de julio de 1939 se inauguró el mítico estadio Goffertstadion, construido como un ambicioso proyecto de la ciudad. Inicialmente, el NEC se negó a abandonar su histórico campo de Hazenkampseweg para no pagar alquiler municipal. Sin embargo, en 1942, forzados por el inicio de la ocupación y posteriormente por los daños de la Segunda Guerra Mundial, el club finalmente se mudó a De Goffert, convirtiéndolo en su fortaleza inexpugnable."
-        },
-        {
-            "ano": "2003 y 2008",
-            "hito": "El Salto Continental en la UEFA",
-            "desc": "Consolidado como un equipo aguerrido y sumamente difícil de quebrar en su estadio, el club estructuró rendimientos estelares en la liga que le abrieron las puertas del escenario internacional. Sus clasificaciones y participaciones en la Copa de la UEFA 2003-2004 y, especialmente, en la edición 2008-2009 bajo el mando de Mario Been, representan los picos de mayor gloria y exposición europea en el historial del club."
-        },
-        {
-            "ano": "2024",
-            "hito": "Campaña Histórica y Regreso a Finales",
-            "desc": "El club vivió un renacer futbolístico notable al alcanzar la gran final de la Copa KNVB en la temporada 2023-2024. Acompañados por una movilización masiva de su ferviente hinchada a Róterdam, el equipo rozó la gloria nacional, consolidando el proyecto deportivo que lo devolvió a la mitad alta de la clasificación en la Eredivisie tras años de inestabilidad."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Goffertstadion",
-            "capacidad": 12500,
-            "desde": "8 de julio de 1939",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Goffertstadion/@51.8242,5.8339,17z",
-            "direccion": "Goffertweg 17, Nimega",
-            "obs": "Apodado históricamente 'De Bloedkuil' (El foso de sangre) porque la cancha está excavada bajo el nivel del suelo, obligando a las aficiones visitantes a mirar el infierno desde arriba. Fue inaugurado el 8 de julio de 1939 y es la casa permanente del club desde 1942.",
-            "lat": 51.8242,
-            "lng": 5.8361
-        },
-        {
-            "nombre": "Hazenkampseweg",
-            "capacidad": "Terreno de Juego",
-            "desde": 1920,
-            "hasta": 1942,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/search/Hazenkampseweg+Nijmegen/",
-            "direccion": "Hazenkampseweg, Nimega",
-            "obs": "El primer recinto propio y formal del club. Adquirido en la década del 20, albergó el crecimiento institucional previo a la mudanza forzada por la guerra hacia el colosal Goffertstadion.",
-            "lat": 51.82,
-            "lng": 5.845
-        },
-        {
-            "nombre": "Terrein Benedenstad",
-            "capacidad": "Campos Barriales",
-            "desde": 1900,
-            "hasta": 1920,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/search/Benedenstad+Nijmegen/",
-            "direccion": "Benedenstad, Nimega",
-            "obs": "En sus inicios como el incipiente club obrero Eendracht, el equipo llevó una vida nómade jugando únicamente amistosos en diversos potreros y terrenos prestados en la zona baja de la ciudad.",
-            "lat": 51.848,
-            "lng": 5.86
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1910,
-            "hasta": 2001,
-            "c1": "#e30613",
-            "c2": "#008a38",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "franja-horizontal",
-            "desc": "Desde la fusión de 1910, la identidad histórica absoluta del club es el mítico 'Balkenshirt'. Consiste en una camiseta de base roja, atravesada en el pecho por una ancha franja horizontal verde con bordes o vivos negros. Estos tres colores representan la fusión de las entidades fundadoras y la heráldica de la ciudad."
-        },
-        {
-            "desde": 2001,
-            "hasta": 2016,
-            "c1": "#e30613",
-            "c2": "#008a38",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "mitades",
-            "desc": "A principios del milenio, la directiva rompió con la tradición del Balkenshirt y comenzó la llamada era 'Arlequín'. Durante 15 años, el equipo vistió camisetas divididas en mitades (o a veces cuartos) de color rojo y verde. Aunque coincidió con sus mejores campañas europeas, este diseño jamás terminó de ser aceptado por los hinchas más puristas."
-        },
-        {
-            "desde": 2016,
-            "hasta": null,
-            "c1": "#e30613",
-            "c2": "#008a38",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "franja-horizontal",
-            "desc": "Agotados del diseño a mitades, los hinchas organizaron una masiva campaña para recuperar su identidad. En 2016, la directiva sometió el diseño a una votación democrática entre los socios, donde triunfó el regreso del histórico 'Balkenshirt'. Desde entonces, el NEC volvió a usar con orgullo su camiseta roja con la banda horizontal verde en el pecho."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Sije Visser",
-            "pos": "Defensor",
-            "desc": "El verdadero y absoluto hombre récord de Nimega. Defendió la camiseta del NEC de forma incondicional en más de trescientos partidos oficiales a lo largo de 15 años.",
-            "epoca": "1971-1986",
-            "apodo": "",
-            "goles": "21",
-            "partidos": "342"
-        },
-        {
-            "nombre": "Frans Janssen",
-            "pos": "Delantero",
-            "desc": "Símbolo de fidelidad y perseverancia. Disputó una extensa carrera ininterrumpida en la institución, convirtiéndose en el máximo artillero histórico para ganarse el cariño eterno de las gradas de De Goffert.",
-            "epoca": "1977-1992",
-            "apodo": "",
-            "goles": "126",
-            "partidos": "240"
-        },
-        {
-            "nombre": "Gábor Babos",
-            "pos": "Arquero",
-            "desc": "Guardameta de nacionalidad húngara que ofreció seguridad y regularidad bajo los tres palos durante casi una década. Acumuló un volumen enorme de titularidades ininterrumpidas.",
-            "epoca": "2005-2013",
-            "apodo": "El Húngaro Volador",
-            "goles": "0",
-            "partidos": "246"
-        },
-        {
-            "nombre": "Lasse Schöne",
-            "pos": "Mediocampista",
-            "desc": "Volante organizador danés de destacada lectura de juego. Regresó al club para retirarse siendo un ícono, habiendo superado los 190 encuentros con alta eficacia en tiros libres.",
-            "epoca": "2008-2012 / 2021-Act.",
-            "apodo": "El Maestro Danés",
-            "goles": "38",
-            "partidos": "190"
-        },
-        {
-            "nombre": "Jasper Cillessen",
-            "pos": "Arquero",
-            "desc": "Canterano de lujo que, tras un exitoso periplo por la élite internacional y la selección nacional, regresó a su casa para aportar jerarquía bajo los tres palos.",
-            "epoca": "2010-2011 / 2022-2024",
-            "apodo": "",
-            "goles": "0",
-            "partidos": "170"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Frans Janssen",
-            "goles": "126",
-            "partidos": "240",
-            "epoca": "1977-1992",
-            "apodo": ""
-        },
-        {
-            "nombre": "Christian Santos",
-            "goles": "41",
-            "partidos": "70",
-            "epoca": "2014-2016",
-            "apodo": ""
-        },
-        {
-            "nombre": "Lasse Schöne",
-            "goles": "38",
-            "partidos": "190",
-            "epoca": "2008-2012 / 2021-Act.",
-            "apodo": "El Maestro Danés"
-        },
-        {
-            "nombre": "Björn Vleminckx",
-            "goles": "31",
-            "partidos": "63",
-            "epoca": "2009-2011",
-            "apodo": ""
-        },
-        {
-            "nombre": "Sjoerd Ars",
-            "goles": "28",
-            "partidos": "35",
-            "epoca": "2014-2015",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Sije Visser",
-            "partidos": "342",
-            "epoca": "1971-1986",
-            "apodo": "",
-            "goles": "21"
-        },
-        {
-            "nombre": "Rens van Eijden",
-            "partidos": "260",
-            "epoca": "2009-2016 / 2018-2022",
-            "apodo": "",
-            "goles": "15"
-        },
-        {
-            "nombre": "Gábor Babos",
-            "partidos": "246",
-            "epoca": "2005-2013",
-            "apodo": "El Húngaro Volador",
-            "goles": "0"
-        },
-        {
-            "nombre": "Frans Janssen",
-            "partidos": "240",
-            "epoca": "1977-1992",
-            "apodo": "",
-            "goles": "126"
-        },
-        {
-            "nombre": "Lasse Schöne",
-            "partidos": "190",
-            "epoca": "2008-2024",
-            "apodo": "El Maestro Danés",
-            "goles": "38"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Campeón de Eerste Divisie (2da Categoría)",
-            "cantidad": 2,
-            "anios": [
-                "1974-75",
-                "2014-15"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1960-1970",
-            "url": "/escudos/paises_bajos/nec-nijmegen/NEC_1960-1970.webp"
-        },
-        {
-            "ano": "1970-1983",
-            "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen1970-1983.webp"
-        },
-        {
-            "ano": "1983-1984",
-            "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo_1983-1984.webp"
-        },
-        {
-            "ano": "1984-1990",
-            "url": "/escudos/paises_bajos/nec-nijmegen/Nec_Nijmegen_old_logo_1984-1990.webp"
-        },
-        {
-            "ano": "1990-2001",
-            "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_1990-2001.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo2001-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Los de Nimega (De Nijmegenaren)",
-            "origen": "Se trata de un gentilicio formal que enaltece el origen geográfico del club como representante máximo de la ciudad más antigua de todos los Países Bajos, vinculando indisolublemente la identidad de la institución con los habitantes y la historia bimilenaria de Nimega."
-        },
-        {
-            "apodo": "El Foso de Sangre (De Bloedkuil)",
-            "origen": "Este apodo extraoficial y temido refiere específicamente al Goffertstadion. Nace de su particular diseño arquitectónico de los años 30, ya que la cancha fue construida en una hondonada excavada bajo el nivel del suelo del parque circundante. La afición local utiliza esta ventaja de altura para generar un efecto caldera acústico, amedrentando a los rivales que ingresan desde abajo hacia el 'foso'."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 89,
-            "g": 3,
-            "e": 18,
-            "p": 68
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 88,
-            "g": 22,
-            "e": 28,
-            "p": 38
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 62,
-            "g": 33,
-            "e": 14,
-            "p": 15
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 90,
-            "g": 17,
-            "e": 18,
-            "p": 55
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 78,
-            "g": 36,
-            "e": 23,
-            "p": 19
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 78,
-            "g": 32,
-            "e": 26,
-            "p": 20
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 86,
-            "g": 29,
-            "e": 29,
-            "p": 28
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 78,
-            "g": 20,
-            "e": 18,
-            "p": 40
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 64,
-            "g": 35,
-            "e": 14,
-            "p": 15
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 84,
-            "g": 31,
-            "e": 23,
-            "p": 30
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 78,
-            "g": 29,
-            "e": 23,
-            "p": 26
-        },
-        {
-            "equipo": "PSV",
-            "pj": 96,
-            "g": 15,
-            "e": 18,
-            "p": 63
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 96,
-            "g": 33,
-            "e": 24,
-            "p": 39
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 52,
-            "g": 26,
-            "e": 14,
-            "p": 12
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 90,
-            "g": 28,
-            "e": 22,
-            "p": 40
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 96,
-            "g": 28,
-            "e": 26,
-            "p": 42
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 58,
-            "g": 23,
-            "e": 14,
-            "p": 21
-        }
+  "id": "nec-nijmegen",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "nec nijmegen"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Nijmegen Eendracht Combinatie",
+    "sigla": "",
+    "fundacion": "15 de noviembre de 1900",
+    "apodo": "Los de Nimega (De Nijmegenaren)",
+    "estadio_actual": "Goffertstadion",
+    "estadio_apodo": "El Foso de Sangre (De Bloedkuil)",
+    "estadio_capacidad": 12500,
+    "estadio_inauguracion": "8 de julio de 1939",
+    "estadio_lat": 51.8242,
+    "estadio_lng": 5.8361,
+    "estadio_direccion": "Goffertweg 17, 6532 CP Nijmegen, Países Bajos",
+    "socios": 10000,
+    "descripcion_corta": "Surgido de las calles de la ciudad más antigua del país. Conocidos por su estadio incrustado en el suelo, su aguerrida afición y el histórico derbi de Güeldres contra el Vitesse.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#e30613"
+      },
+      {
+        "tag": "Verde",
+        "hex": "#008a38"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Frans Janssen (126 goles)",
+      "mas_presencias": "Sije Visser (342 partidos)",
+      "mayor_goleada": "7-0 vs MVV Maastricht (Eredivisie 1997/98)"
+    },
+    "nombre_oficial": "N.E.C.",
+    "nombre_corto": "NEC Nijmegen",
+    "escudo_actual": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo2001-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "Fundación de Eendracht",
+      "desc": "El embrión de la institución nació el 15 de noviembre de 1900 bajo el nombre de 'Eendracht' (Unidad) en las calles del barrio obrero Benedenstad en Nimega. Tres jóvenes entusiastas de clase trabajadora, August Lodenstijn, Antoon Kuypers y Wouter de Lent, fundaron el club como un acto de rebeldía al no ser aceptados en la elitista escuadra vecina Quick 1888, plantando la semilla de un club de auténtico arraigo popular."
+    },
+    {
+      "ano": "1910",
+      "hito": "La Fusión que creó al NEC",
+      "desc": "Buscando unificar el talento local y volverse competitivos a nivel nacional, en abril de 1910 el club Eendracht oficializó su fusión con el NVV Nijmegen. De esta unión estratégica surgió el nombre definitivo e histórico del club: Nijmegen Eendracht Combinatie (NEC), adoptando orgullosamente los colores rojo, verde y negro que distinguirían a la institución en el siglo venidero."
+    },
+    {
+      "ano": "1939-1942",
+      "hito": "La Inauguración de De Goffert",
+      "desc": "El 8 de julio de 1939 se inauguró el mítico estadio Goffertstadion, construido como un ambicioso proyecto de la ciudad. Inicialmente, el NEC se negó a abandonar su histórico campo de Hazenkampseweg para no pagar alquiler municipal. Sin embargo, en 1942, forzados por el inicio de la ocupación y posteriormente por los daños de la Segunda Guerra Mundial, el club finalmente se mudó a De Goffert, convirtiéndolo en su fortaleza inexpugnable."
+    },
+    {
+      "ano": "2003 y 2008",
+      "hito": "El Salto Continental en la UEFA",
+      "desc": "Consolidado como un equipo aguerrido y sumamente difícil de quebrar en su estadio, el club estructuró rendimientos estelares en la liga que le abrieron las puertas del escenario internacional. Sus clasificaciones y participaciones en la Copa de la UEFA 2003-2004 y, especialmente, en la edición 2008-2009 bajo el mando de Mario Been, representan los picos de mayor gloria y exposición europea en el historial del club."
+    },
+    {
+      "ano": "2024",
+      "hito": "Campaña Histórica y Regreso a Finales",
+      "desc": "El club vivió un renacer futbolístico notable al alcanzar la gran final de la Copa KNVB en la temporada 2023-2024. Acompañados por una movilización masiva de su ferviente hinchada a Róterdam, el equipo rozó la gloria nacional, consolidando el proyecto deportivo que lo devolvió a la mitad alta de la clasificación en la Eredivisie tras años de inestabilidad."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Goffertstadion",
+      "capacidad": 12500,
+      "desde": "8 de julio de 1939",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Goffertstadion/@51.8242,5.8339,17z",
+      "direccion": "Goffertweg 17, Nimega",
+      "obs": "Apodado históricamente 'De Bloedkuil' (El foso de sangre) porque la cancha está excavada bajo el nivel del suelo, obligando a las aficiones visitantes a mirar el infierno desde arriba. Fue inaugurado el 8 de julio de 1939 y es la casa permanente del club desde 1942.",
+      "lat": 51.8242,
+      "lng": 5.8361
+    },
+    {
+      "nombre": "Hazenkampseweg",
+      "capacidad": "Terreno de Juego",
+      "desde": 1920,
+      "hasta": 1942,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/search/Hazenkampseweg+Nijmegen/",
+      "direccion": "Hazenkampseweg, Nimega",
+      "obs": "El primer recinto propio y formal del club. Adquirido en la década del 20, albergó el crecimiento institucional previo a la mudanza forzada por la guerra hacia el colosal Goffertstadion.",
+      "lat": 51.82,
+      "lng": 5.845
+    },
+    {
+      "nombre": "Terrein Benedenstad",
+      "capacidad": "Campos Barriales",
+      "desde": 1900,
+      "hasta": 1920,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/search/Benedenstad+Nijmegen/",
+      "direccion": "Benedenstad, Nimega",
+      "obs": "En sus inicios como el incipiente club obrero Eendracht, el equipo llevó una vida nómade jugando únicamente amistosos en diversos potreros y terrenos prestados en la zona baja de la ciudad.",
+      "lat": 51.848,
+      "lng": 5.86
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1910,
+      "hasta": 2001,
+      "c1": "#e30613",
+      "c2": "#008a38",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "franja-horizontal",
+      "desc": "Desde la fusión de 1910, la identidad histórica absoluta del club es el mítico 'Balkenshirt'. Consiste en una camiseta de base roja, atravesada en el pecho por una ancha franja horizontal verde con bordes o vivos negros. Estos tres colores representan la fusión de las entidades fundadoras y la heráldica de la ciudad."
+    },
+    {
+      "desde": 2001,
+      "hasta": 2016,
+      "c1": "#e30613",
+      "c2": "#008a38",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "mitades",
+      "desc": "A principios del milenio, la directiva rompió con la tradición del Balkenshirt y comenzó la llamada era 'Arlequín'. Durante 15 años, el equipo vistió camisetas divididas en mitades (o a veces cuartos) de color rojo y verde. Aunque coincidió con sus mejores campañas europeas, este diseño jamás terminó de ser aceptado por los hinchas más puristas."
+    },
+    {
+      "desde": 2016,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#008a38",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "franja-horizontal",
+      "desc": "Agotados del diseño a mitades, los hinchas organizaron una masiva campaña para recuperar su identidad. En 2016, la directiva sometió el diseño a una votación democrática entre los socios, donde triunfó el regreso del histórico 'Balkenshirt'. Desde entonces, el NEC volvió a usar con orgullo su camiseta roja con la banda horizontal verde en el pecho."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Sije Visser",
+      "pos": "Defensor",
+      "desc": "El verdadero y absoluto hombre récord de Nimega. Defendió la camiseta del NEC de forma incondicional en más de trescientos partidos oficiales a lo largo de 15 años.",
+      "epoca": "1971-1986",
+      "apodo": "",
+      "goles": "21",
+      "partidos": "342"
+    },
+    {
+      "nombre": "Frans Janssen",
+      "pos": "Delantero",
+      "desc": "Símbolo de fidelidad y perseverancia. Disputó una extensa carrera ininterrumpida en la institución, convirtiéndose en el máximo artillero histórico para ganarse el cariño eterno de las gradas de De Goffert.",
+      "epoca": "1977-1992",
+      "apodo": "",
+      "goles": "126",
+      "partidos": "240"
+    },
+    {
+      "nombre": "Gábor Babos",
+      "pos": "Arquero",
+      "desc": "Guardameta de nacionalidad húngara que ofreció seguridad y regularidad bajo los tres palos durante casi una década. Acumuló un volumen enorme de titularidades ininterrumpidas.",
+      "epoca": "2005-2013",
+      "apodo": "El Húngaro Volador",
+      "goles": "0",
+      "partidos": "246"
+    },
+    {
+      "nombre": "Lasse Schöne",
+      "pos": "Mediocampista",
+      "desc": "Volante organizador danés de destacada lectura de juego. Regresó al club para retirarse siendo un ícono, habiendo superado los 190 encuentros con alta eficacia en tiros libres.",
+      "epoca": "2008-2012 / 2021-Act.",
+      "apodo": "El Maestro Danés",
+      "goles": "38",
+      "partidos": "190"
+    },
+    {
+      "nombre": "Jasper Cillessen",
+      "pos": "Arquero",
+      "desc": "Canterano de lujo que, tras un exitoso periplo por la élite internacional y la selección nacional, regresó a su casa para aportar jerarquía bajo los tres palos.",
+      "epoca": "2010-2011 / 2022-2024",
+      "apodo": "",
+      "goles": "0",
+      "partidos": "170"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Frans Janssen",
+      "goles": "126",
+      "partidos": "240",
+      "epoca": "1977-1992",
+      "apodo": ""
+    },
+    {
+      "nombre": "Christian Santos",
+      "goles": "41",
+      "partidos": "70",
+      "epoca": "2014-2016",
+      "apodo": ""
+    },
+    {
+      "nombre": "Lasse Schöne",
+      "goles": "38",
+      "partidos": "190",
+      "epoca": "2008-2012 / 2021-Act.",
+      "apodo": "El Maestro Danés"
+    },
+    {
+      "nombre": "Björn Vleminckx",
+      "goles": "31",
+      "partidos": "63",
+      "epoca": "2009-2011",
+      "apodo": ""
+    },
+    {
+      "nombre": "Sjoerd Ars",
+      "goles": "28",
+      "partidos": "35",
+      "epoca": "2014-2015",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Sije Visser",
+      "partidos": "342",
+      "epoca": "1971-1986",
+      "apodo": "",
+      "goles": "21"
+    },
+    {
+      "nombre": "Rens van Eijden",
+      "partidos": "260",
+      "epoca": "2009-2016 / 2018-2022",
+      "apodo": "",
+      "goles": "15"
+    },
+    {
+      "nombre": "Gábor Babos",
+      "partidos": "246",
+      "epoca": "2005-2013",
+      "apodo": "El Húngaro Volador",
+      "goles": "0"
+    },
+    {
+      "nombre": "Frans Janssen",
+      "partidos": "240",
+      "epoca": "1977-1992",
+      "apodo": "",
+      "goles": "126"
+    },
+    {
+      "nombre": "Lasse Schöne",
+      "partidos": "190",
+      "epoca": "2008-2024",
+      "apodo": "El Maestro Danés",
+      "goles": "38"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeón de Eerste Divisie (2da Categoría)",
+      "cantidad": 2,
+      "anios": [
+        "1974-75",
+        "2014-15"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1960-1970",
+      "url": "/escudos/paises_bajos/nec-nijmegen/NEC_1960-1970.webp"
+    },
+    {
+      "ano": "1970-1983",
+      "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen1970-1983.webp"
+    },
+    {
+      "ano": "1983-1984",
+      "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo_1983-1984.webp"
+    },
+    {
+      "ano": "1984-1990",
+      "url": "/escudos/paises_bajos/nec-nijmegen/Nec_Nijmegen_old_logo_1984-1990.webp"
+    },
+    {
+      "ano": "1990-2001",
+      "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_1990-2001.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/nec-nijmegen/NEC_Nijmegen_logo2001-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los de Nimega (De Nijmegenaren)",
+      "origen": "Se trata de un gentilicio formal que enaltece el origen geográfico del club como representante máximo de la ciudad más antigua de todos los Países Bajos, vinculando indisolublemente la identidad de la institución con los habitantes y la historia bimilenaria de Nimega."
+    },
+    {
+      "apodo": "El Foso de Sangre (De Bloedkuil)",
+      "origen": "Este apodo extraoficial y temido refiere específicamente al Goffertstadion. Nace de su particular diseño arquitectónico de los años 30, ya que la cancha fue construida en una hondonada excavada bajo el nivel del suelo del parque circundante. La afición local utiliza esta ventaja de altura para generar un efecto caldera acústico, amedrentando a los rivales que ingresan desde abajo hacia el 'foso'."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 89,
+      "g": 3,
+      "e": 18,
+      "p": 68
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 88,
+      "g": 22,
+      "e": 28,
+      "p": 38
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 62,
+      "g": 33,
+      "e": 14,
+      "p": 15
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 90,
+      "g": 17,
+      "e": 18,
+      "p": 55
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 78,
+      "g": 36,
+      "e": 23,
+      "p": 19
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 78,
+      "g": 32,
+      "e": 26,
+      "p": 20
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 86,
+      "g": 29,
+      "e": 29,
+      "p": 28
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 78,
+      "g": 20,
+      "e": 18,
+      "p": 40
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 64,
+      "g": 35,
+      "e": 14,
+      "p": 15
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 84,
+      "g": 31,
+      "e": 23,
+      "p": 30
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 78,
+      "g": 29,
+      "e": 23,
+      "p": 26
+    },
+    {
+      "equipo": "PSV",
+      "pj": 96,
+      "g": 15,
+      "e": 18,
+      "p": 63
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 96,
+      "g": 33,
+      "e": 24,
+      "p": 39
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 52,
+      "g": 26,
+      "e": 14,
+      "p": 12
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 90,
+      "g": 28,
+      "e": 22,
+      "p": 40
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 96,
+      "g": 28,
+      "e": 26,
+      "p": 42
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 58,
+      "g": 23,
+      "e": 14,
+      "p": 21
+    }
+  ]
 }

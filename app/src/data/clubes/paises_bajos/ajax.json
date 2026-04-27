@@ -1,555 +1,555 @@
 {
-    "id": "ajax",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "ajax"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Amsterdamsche Football Club Ajax",
-        "sigla": "AJX",
-        "fundacion": "18 de marzo de 1900",
-        "apodo": "Los Hijos de los Dioses (de Godenzonen)",
-        "estadio_actual": "Johan Cruyff Arena",
-        "estadio_apodo": "De Arena",
-        "estadio_capacidad": 55865,
-        "estadio_inauguracion": "14 de agosto de 1996",
-        "estadio_lat": 52.3143,
-        "estadio_lng": 4.9419,
-        "estadio_direccion": "Johan Cruijff Boulevard 1, 1100 DL Amsterdam, Países Bajos",
-        "socios": 120000,
-        "descripcion_corta": "Gigante europeo y máximo exponente del fútbol total, famoso mundialmente por su legendaria cantera 'De Toekomst'.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#D2122E"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#FFFFFF"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Piet van Reenen (278 goles)",
-            "mas_presencias": "Sjaak Swart (603 partidos)",
-            "mayor_goleada": "13-0 vs VVV-Venlo (Eredivisie 2020/21)"
-        },
-        "nombre_oficial": "Amsterdamsche Football Club Ajax",
-        "nombre_corto": "Ajax",
-        "escudo_actual": "/escudos/paises_bajos/ajax/AFC_Ajax_logo2022-2024.webp"
-    },
-    "historia": [
-        {
-            "ano": "1900",
-            "hito": "Fundación en las mesas del Oost-Indië",
-            "desc": "El 18 de marzo de 1900, durante una asamblea celebrada en el Café Oost-Indië situado en la calle Kalverstraat de Ámsterdam, se redactó el acta constitutiva del Amsterdamsche Football Club Ajax. La iniciativa fue impulsada por Floris Stempel, Carel Reeser y el estudiante Han Dade, quienes decidieron reactivar un proyecto deportivo previo que había cesado operaciones en 1894. Stempel, elegido como primer presidente de la entidad, determinó que el club llevara el nombre de Áyax el Grande, héroe de la mitología griega reconocido por combatir en la Guerra de Troya. La institución se afilió de inmediato a las asociaciones de fútbol de la capital neerlandesa, comenzando a competir formalmente en septiembre de ese mismo año en un terreno alquilado en la zona norte de la ciudad."
-        },
-        {
-            "ano": "1911-1918",
-            "hito": "La Era Reynolds y la Franja Roja",
-            "desc": "Tras conseguir su primer ascenso a la máxima categoría en 1911 bajo la presidencia de Willem Egeman, la federación neerlandesa dictaminó que el equipo debía modificar su uniforme original para evitar confusiones con el Sparta Róterdam. En respuesta, adoptaron la característica camiseta blanca con una franja roja vertical central. En 1915, la contratación del entrenador británico Jack Reynolds marcó un punto de inflexión estructural; Reynolds introdujo metodologías de entrenamiento físico y táctico sin precedentes en el país, impulsando al club a adjudicarse su primera Copa Nacional en 1917 y coronándose campeones invictos de la liga de Primera División en la campaña 1917-1918."
-        },
-        {
-            "ano": "1971-1973",
-            "hito": "La Revolución Táctica del Fútbol Total",
-            "desc": "A principios de la década de 1970, bajo la conducción táctica sucesiva de Rinus Michels y Stefan Kovács, el club consolidó la aplicación del sistema de 'Fútbol Total' (Totaalvoetbal). Esta filosofía, basada en la fluidez posicional, la presión alta y la posesión de balón, alteró los paradigmas del deporte a nivel global. Comandados en el terreno de juego por la visión de Johan Cruyff, junto a figuras internacionales como Johan Neeskens, Piet Keizer y Ruud Krol, el equipo de Ámsterdam estableció una hegemonía continental irrefutable al conquistar tres Copas de Europa de forma ininterrumpida (1971, 1972 y 1973), sumando además la Copa Intercontinental en 1972 frente a Independiente."
-        },
-        {
-            "ano": "1995",
-            "hito": "El Invicto Continental de Van Gaal",
-            "desc": "Durante la década de 1990, el entrenador Louis van Gaal articuló un plantel fundamentado casi en su totalidad por talentos egresados de la academia juvenil 'De Toekomst'. La plantilla, que integraba a jóvenes promesas como Clarence Seedorf, Edgar Davids, Edwin van der Sar y Patrick Kluivert, complementada con el retorno del experimentado Frank Rijkaard, ejecutó un fútbol de altísima precisión técnica y táctica. El ciclo alcanzó su máxima dimensión en la temporada 1994-1995, cuando el club se alzó con la Liga de Campeones de la UEFA sin registrar una sola derrota, venciendo al AC Milan en la final disputada en Viena con una anotación en los minutos finales, y coronando el año natural con la obtención de la Copa Intercontinental en Tokio."
-        },
-        {
-            "ano": "2018-2019",
-            "hito": "El Resurgimiento bajo Erik ten Hag",
-            "desc": "Tras dos décadas sin alcanzar instancias finales a nivel continental, el Ajax experimentó un notable resurgimiento bajo la dirección técnica de Erik ten Hag. Liderados por una nueva generación de canteranos como Matthijs de Ligt y Frenkie de Jong, complementada por el experimentado Dušan Tadić, el equipo conquistó el doblete doméstico (Eredivisie y Copa KNVB). En el plano internacional, el club alcanzó las semifinales de la Liga de Campeones de la UEFA, eliminando al Real Madrid y a la Juventus en condición de visitante y ejecutando un sistema de juego de presión alta e intercambio posicional que le devolvió el estatus de élite en Europa."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Johan Cruyff Arena",
-            "capacidad": "55.865",
-            "inauguracion": "14 de agosto de 1996",
-            "url": "https://www.google.com/maps/place/Johan+Cruijff+ArenA/@52.314366,4.939223,17z/data=!3m1!4b1!4m6!3m5!1s0x47c60b9736eab27b:0xba1ff9051d9d9361!8m2!3d52.314366!4d4.9417979!16zL20vMDIyemhf",
-            "direccion": "Johan Cruijff Boulevard 1, 1100 DL Amsterdam, Países Bajos",
-            "descripcion": "El actual recinto del club. Originalmente inaugurado como 'Amsterdam Arena' y rebautizado en 2018 en honor a su leyenda máxima tras su fallecimiento. Fue el primer estadio europeo con techo retráctil.",
-            "lat": 52.3143,
-            "lng": 4.9419,
-            "epoca": "1996 - Presente"
-        },
-        {
-            "nombre": "De Meer Stadion",
-            "capacidad": "29.500 (reducida a 19.000)",
-            "inauguracion": "9 de diciembre de 1934",
-            "url": "https://www.google.com/maps/place/Estadio+De+Meer/@52.3458428,4.9463519,17z/data=!3m1!4b1!4m6!3m5!1s0x47c60965e648c669:0xf81307b66ec01fa!8m2!3d52.3458428!4d4.9489268!16s%2Fm%2F06x6ks9",
-            "direccion": "Middenweg 401, 1098 AA Amsterdam, Países Bajos",
-            "descripcion": "El templo sagrado e histórico del club donde se fraguó el Fútbol Total. Fue la casa del Ajax durante más de seis décadas hasta que exigencias de seguridad obligaron su demolición en 1998, siendo reemplazado por un barrio residencial (Park de Meer) cuyas calles llevan los nombres de escenarios donde el club ganó títulos europeos.",
-            "lat": 52.3458428,
-            "lng": 4.9463519,
-            "epoca": "1934 - 1996"
-        },
-        {
-            "nombre": "Olympisch Stadion",
-            "capacidad": "64.000",
-            "inauguracion": "17 de mayo de 1928",
-            "url": "https://www.google.com/maps/place/Olympisch+Stadion/@52.343513,4.8517244,17z/data=!3m1!4b1!4m6!3m5!1s0x47c5e20ef93bc3c5:0xb977799797bf6da4!8m2!3d52.343513!4d4.8542993!16zL20vMGJ2MjE",
-            "direccion": "Olympisch Stadion 2, 1076 DE Amsterdam, Países Bajos",
-            "descripcion": "Si bien no era su estadio propio, el Ajax utilizó este inmenso recinto construido para los Juegos Olímpicos de 1928 durante décadas para albergar sus grandes noches de Copa de Europa y los derbis contra el Feyenoord, ya que De Meer carecía de la capacidad e iluminación necesarias.",
-            "lat": 52.343513,
-            "lng": 4.8517244,
-            "epoca": "1928 - 1996 (Eventos especiales)"
-        },
-        {
-            "nombre": "Het Houten Stadion",
-            "capacidad": "10.000",
-            "inauguracion": "1907",
-            "url": "https://www.google.com/maps/place/Middenweg+86,+1097+BS+Amsterdam,+Pa%C3%ADses+Bajos/@52.353347,4.931707,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6096ed8eefb25:0xe89ad69408e01fa3!8m2!3d52.353347!4d4.9342819!16s%2Fg%2F11b8v4tlnx",
-            "direccion": "Middenweg 86, 1097 BS Amsterdam, Países Bajos",
-            "descripcion": "El 'Estadio de Madera'. Fue la primera casa oficial del Ajax, pero carecía de gradas adecuadas y terminó quedando minúsculo para el fervor que despertaba el equipo tras su ascenso a la máxima división, obligando la mudanza al cercano De Meer.",
-            "lat": 52.353347,
-            "lng": 4.931707,
-            "epoca": "1907 - 1934"
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1900,
-            "hasta": 1901,
-            "c1": "#000000",
-            "c2": "#000000",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "liso-con-faja",
-            "desc": "El primer uniforme de la historia del Ajax no fue ni blanco ni de franjas rojas. En su fundación en 1900, los jugadores vestían indumentaria completamente negra (fácil de conseguir en la época) atravesada por una faja roja amarrada a la cintura, representando así los colores de la bandera de Ámsterdam."
-        },
-        {
-            "desde": 1901,
-            "hasta": 1911,
-            "c1": "#d2122e",
-            "c2": "#ffffff",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "rayas-verticales",
-            "desc": "Para celebrar su primer aniversario en 1901, el club abandonó el negro y adoptó una clásica camiseta a franjas verticales rojas y blancas, acompañada de pantalones negros. Este diseño a bastones los acompañó durante toda su etapa amateur."
-        },
-        {
-            "desde": 1911,
-            "hasta": null,
-            "c1": "#ffffff",
-            "c2": "#d2122e",
-            "sh": "#ffffff",
-            "me": "#ffffff",
-            "tipo": "franja-central",
-            "desc": "Al lograr su histórico primer ascenso a la máxima categoría, la federación los obligó a cambiar su uniforme a bastones, ya que era idéntico al del Sparta Róterdam (y en esa época no existían las camisetas alternativas). Adoptaron entonces la legendaria e inconfundible camiseta blanca con una ancha franja roja vertical en el centro, diseño que se convirtió en un símbolo mundial."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Johan Cruyff",
-            "pos": "Delantero",
-            "desc": "Mediocampista ofensivo y principal ejecutor del sistema táctico de Fútbol Total. Acumuló 271 goles en 369 presencias, liderando la obtención de tres Copas de Europa consecutivas en los años 70 y estructurando la filosofía deportiva moderna del club.",
-            "epoca": "1964-1973 / 1981-1983",
-            "apodo": "El Flaco",
-            "goles": "271",
-            "partidos": "369"
-        },
-        {
-            "nombre": "Sjaak Swart",
-            "pos": "Extremo",
-            "desc": "Extremo derecho que desarrolló la totalidad de su prolongada trayectoria profesional defendiendo los colores de la institución. Ostenta el récord histórico absoluto de apariciones con 603 partidos oficiales, anotando 228 tantos en su carrera.",
-            "epoca": "1956-1973",
-            "apodo": "Sjaak",
-            "goles": "228",
-            "partidos": "603"
-        },
-        {
-            "nombre": "Frank Rijkaard",
-            "pos": "Mediocampista",
-            "desc": "Mediocampista central de gran jerarquía posicional egresado de las divisiones juveniles. Tras una extensa etapa en el exterior, regresó en 1993 para liderar el mediocampo del plantel que conquistó la Liga de Campeones de 1995 en condición de invicto.",
-            "epoca": "1980-1987 / 1993-1995",
-            "apodo": "El Cometa",
-            "goles": "71",
-            "partidos": "328"
-        },
-        {
-            "nombre": "Marco van Basten",
-            "pos": "Delantero",
-            "desc": "Centrodelantero de depurada técnica que se adjudicó el título de máximo goleador de la Eredivisie en cuatro ediciones consecutivas. Convirtió 152 goles en 172 compromisos ligueros antes de concretar su traspaso al balompié italiano en 1987.",
-            "epoca": "1981-1987",
-            "apodo": "El Cisne de Utrecht",
-            "goles": "152",
-            "partidos": "172"
-        },
-        {
-            "nombre": "Piet Keizer",
-            "pos": "Extremo Izquierdo",
-            "desc": "Extremo izquierdo de desequilibrio constante y precisión en los servicios ofensivos. Completó 489 apariciones formales con el primer equipo y se consolidó como una pieza indispensable en la estructura titular durante los títulos europeos de su era.",
-            "epoca": "1961-1974",
-            "apodo": "Las Tijeras",
-            "goles": "189",
-            "partidos": "489"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Piet van Reenen",
-            "goles": "278",
-            "partidos": "237",
-            "epoca": "1929-1942",
-            "apodo": "Goaltjes-Piet"
-        },
-        {
-            "nombre": "Johan Cruyff",
-            "goles": "271",
-            "partidos": "369",
-            "epoca": "1964-1983",
-            "apodo": "El Flaco"
-        },
-        {
-            "nombre": "Sjaak Swart",
-            "goles": "228",
-            "partidos": "603",
-            "epoca": "1956-1973",
-            "apodo": "Sjaak"
-        },
-        {
-            "nombre": "Henk Groot",
-            "goles": "207",
-            "partidos": "305",
-            "epoca": "1959-1969",
-            "apodo": "El Gran Henk"
-        },
-        {
-            "nombre": "Piet Keizer",
-            "goles": "189",
-            "partidos": "489",
-            "epoca": "1961-1974",
-            "apodo": "Las Tijeras"
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Sjaak Swart",
-            "partidos": "603",
-            "epoca": "1956-1973",
-            "apodo": "Sjaak",
-            "goles": "228"
-        },
-        {
-            "nombre": "Wim Suurbier",
-            "partidos": "509",
-            "epoca": "1964-1977",
-            "apodo": "Wim",
-            "goles": "19"
-        },
-        {
-            "nombre": "Danny Blind",
-            "partidos": "493",
-            "epoca": "1986-1999",
-            "apodo": "El Capitán",
-            "goles": "36"
-        },
-        {
-            "nombre": "Piet Keizer",
-            "partidos": "489",
-            "epoca": "1961-1974",
-            "apodo": "Las Tijeras",
-            "goles": "189"
-        },
-        {
-            "nombre": "Ruud Krol",
-            "partidos": "457",
-            "epoca": "1968-1980",
-            "apodo": "Snabbel",
-            "goles": "30"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Eredivisie",
-            "cantidad": 36,
-            "anios": [
-                "1917-18",
-                "1918-19",
-                "1930-31",
-                "1931-32",
-                "1933-34",
-                "1936-37",
-                "1938-39",
-                "1946-47",
-                "1956-57",
-                "1959-60",
-                "1965-66",
-                "1966-67",
-                "1967-68",
-                "1969-70",
-                "1971-72",
-                "1972-73",
-                "1976-77",
-                "1978-79",
-                "1979-80",
-                "1981-82",
-                "1982-83",
-                "1984-85",
-                "1989-90",
-                "1993-94",
-                "1994-95",
-                "1995-96",
-                "1997-98",
-                "2001-02",
-                "2003-04",
-                "2010-11",
-                "2011-12",
-                "2012-13",
-                "2013-14",
-                "2018-19",
-                "2020-21",
-                "2021-22"
-            ]
-        },
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 20,
-            "anios": [
-                "1916-17",
-                "1942-43",
-                "1960-61",
-                "1966-67",
-                "1969-70",
-                "1970-71",
-                "1971-72",
-                "1978-79",
-                "1982-83",
-                "1985-86",
-                "1986-87",
-                "1992-93",
-                "1997-98",
-                "1998-99",
-                "2001-02",
-                "2005-06",
-                "2006-07",
-                "2009-10",
-                "2018-19",
-                "2020-21"
-            ]
-        },
-        {
-            "nombre": "Johan Cruyff Shield",
-            "cantidad": 9,
-            "anios": [
-                "1993",
-                "1994",
-                "1995",
-                "2002",
-                "2005",
-                "2006",
-                "2007",
-                "2013",
-                "2019"
-            ]
-        },
-        {
-            "nombre": "UEFA Champions League",
-            "cantidad": 4,
-            "anios": [
-                "1970-71",
-                "1971-72",
-                "1972-73",
-                "1994-95"
-            ]
-        },
-        {
-            "nombre": "Copa Intercontinental",
-            "cantidad": 2,
-            "anios": [
-                "1972",
-                "1995"
-            ]
-        },
-        {
-            "nombre": "Copa de la UEFA",
-            "cantidad": 1,
-            "anios": [
-                "1991-92"
-            ]
-        },
-        {
-            "nombre": "Recopa de Europa",
-            "cantidad": 1,
-            "anios": [
-                "1986-87"
-            ]
-        },
-        {
-            "nombre": "Supercopa de Europa",
-            "cantidad": 2,
-            "anios": [
-                "1973",
-                "1995"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1900-1911",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1900-1911_logo.webp"
-        },
-        {
-            "ano": "1911-1928",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1911-1928_logo.webp"
-        },
-        {
-            "ano": "1928-1990",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1928-1990.webp"
-        },
-        {
-            "ano": "1991-2020",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1991-2020.webp"
-        },
-        {
-            "ano": "2021-2022",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_2021-2022webp.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/ajax/AFC_Ajax_logo2022-2024.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Los Hijos de los Dioses (De Godenzonen)",
-            "origen": "Apodo derivado directamente del nombre de la institución. Al estar bautizados en honor al imbatible héroe mitológico griego Áyax el Grande, quien luchó en la Guerra de Troya, los jugadores y aficionados se autoproclamaron orgullosamente como la estirpe y herederos de la divinidad helénica."
-        },
-        {
-            "apodo": "Los Judíos (De Joden)",
-            "origen": "Adoptado por la propia hinchada en la década de 1970 como un acto de desafío y resistencia. Dado que su histórico estadio De Meer estaba próximo al barrio judío de Ámsterdam, las aficiones rivales les propinaban insultos antisemitas. Los fans del Ajax neutralizaron el ataque adoptando la Estrella de David y las banderas de Israel como símbolos de orgullo inquebrantable."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Telstar",
-            "pj": 35,
-            "g": 27,
-            "e": 6,
-            "p": 2,
-            "gf": 108,
-            "gc": 32
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 114,
-            "g": 64,
-            "e": 22,
-            "p": 28,
-            "gf": 243,
-            "gc": 138
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 53,
-            "g": 42,
-            "e": 9,
-            "p": 2
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 209,
-            "g": 96,
-            "e": 49,
-            "p": 64
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 50,
-            "g": 39,
-            "e": 7,
-            "p": 4
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 74,
-            "g": 56,
-            "e": 10,
-            "p": 8
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 115,
-            "g": 81,
-            "e": 20,
-            "p": 14
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 73,
-            "g": 51,
-            "e": 12,
-            "p": 10
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 48,
-            "g": 34,
-            "e": 8,
-            "p": 6
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 106,
-            "g": 81,
-            "e": 15,
-            "p": 10
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 89,
-            "g": 68,
-            "e": 18,
-            "p": 3
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 49,
-            "g": 38,
-            "e": 7,
-            "p": 4
-        },
-        {
-            "equipo": "PSV",
-            "pj": 184,
-            "g": 83,
-            "e": 43,
-            "p": 58
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 124,
-            "g": 81,
-            "e": 21,
-            "p": 22
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 142,
-            "g": 82,
-            "e": 32,
-            "p": 28
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 110,
-            "g": 66,
-            "e": 23,
-            "p": 21
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 58,
-            "g": 42,
-            "e": 10,
-            "p": 6
-        }
+  "id": "ajax",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "ajax"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Amsterdamsche Football Club Ajax",
+    "sigla": "AJX",
+    "fundacion": "18 de marzo de 1900",
+    "apodo": "Los Hijos de los Dioses (de Godenzonen)",
+    "estadio_actual": "Johan Cruyff Arena",
+    "estadio_apodo": "De Arena",
+    "estadio_capacidad": 55865,
+    "estadio_inauguracion": "14 de agosto de 1996",
+    "estadio_lat": 52.3143,
+    "estadio_lng": 4.9419,
+    "estadio_direccion": "Johan Cruijff Boulevard 1, 1100 DL Amsterdam, Países Bajos",
+    "socios": 120000,
+    "descripcion_corta": "Gigante europeo y máximo exponente del fútbol total, famoso mundialmente por su legendaria cantera 'De Toekomst'.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#D2122E"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Piet van Reenen (278 goles)",
+      "mas_presencias": "Sjaak Swart (603 partidos)",
+      "mayor_goleada": "13-0 vs VVV-Venlo (Eredivisie 2020/21)"
+    },
+    "nombre_oficial": "Amsterdamsche Football Club Ajax",
+    "nombre_corto": "Ajax",
+    "escudo_actual": "/escudos/paises_bajos/ajax/AFC_Ajax_logo2022-2024.webp"
+  },
+  "historia": [
+    {
+      "ano": "1900",
+      "hito": "Fundación en las mesas del Oost-Indië",
+      "desc": "El 18 de marzo de 1900, durante una asamblea celebrada en el Café Oost-Indië situado en la calle Kalverstraat de Ámsterdam, se redactó el acta constitutiva del Amsterdamsche Football Club Ajax. La iniciativa fue impulsada por Floris Stempel, Carel Reeser y el estudiante Han Dade, quienes decidieron reactivar un proyecto deportivo previo que había cesado operaciones en 1894. Stempel, elegido como primer presidente de la entidad, determinó que el club llevara el nombre de Áyax el Grande, héroe de la mitología griega reconocido por combatir en la Guerra de Troya. La institución se afilió de inmediato a las asociaciones de fútbol de la capital neerlandesa, comenzando a competir formalmente en septiembre de ese mismo año en un terreno alquilado en la zona norte de la ciudad."
+    },
+    {
+      "ano": "1911-1918",
+      "hito": "La Era Reynolds y la Franja Roja",
+      "desc": "Tras conseguir su primer ascenso a la máxima categoría en 1911 bajo la presidencia de Willem Egeman, la federación neerlandesa dictaminó que el equipo debía modificar su uniforme original para evitar confusiones con el Sparta Róterdam. En respuesta, adoptaron la característica camiseta blanca con una franja roja vertical central. En 1915, la contratación del entrenador británico Jack Reynolds marcó un punto de inflexión estructural; Reynolds introdujo metodologías de entrenamiento físico y táctico sin precedentes en el país, impulsando al club a adjudicarse su primera Copa Nacional en 1917 y coronándose campeones invictos de la liga de Primera División en la campaña 1917-1918."
+    },
+    {
+      "ano": "1971-1973",
+      "hito": "La Revolución Táctica del Fútbol Total",
+      "desc": "A principios de la década de 1970, bajo la conducción táctica sucesiva de Rinus Michels y Stefan Kovács, el club consolidó la aplicación del sistema de 'Fútbol Total' (Totaalvoetbal). Esta filosofía, basada en la fluidez posicional, la presión alta y la posesión de balón, alteró los paradigmas del deporte a nivel global. Comandados en el terreno de juego por la visión de Johan Cruyff, junto a figuras internacionales como Johan Neeskens, Piet Keizer y Ruud Krol, el equipo de Ámsterdam estableció una hegemonía continental irrefutable al conquistar tres Copas de Europa de forma ininterrumpida (1971, 1972 y 1973), sumando además la Copa Intercontinental en 1972 frente a Independiente."
+    },
+    {
+      "ano": "1995",
+      "hito": "El Invicto Continental de Van Gaal",
+      "desc": "Durante la década de 1990, el entrenador Louis van Gaal articuló un plantel fundamentado casi en su totalidad por talentos egresados de la academia juvenil 'De Toekomst'. La plantilla, que integraba a jóvenes promesas como Clarence Seedorf, Edgar Davids, Edwin van der Sar y Patrick Kluivert, complementada con el retorno del experimentado Frank Rijkaard, ejecutó un fútbol de altísima precisión técnica y táctica. El ciclo alcanzó su máxima dimensión en la temporada 1994-1995, cuando el club se alzó con la Liga de Campeones de la UEFA sin registrar una sola derrota, venciendo al AC Milan en la final disputada en Viena con una anotación en los minutos finales, y coronando el año natural con la obtención de la Copa Intercontinental en Tokio."
+    },
+    {
+      "ano": "2018-2019",
+      "hito": "El Resurgimiento bajo Erik ten Hag",
+      "desc": "Tras dos décadas sin alcanzar instancias finales a nivel continental, el Ajax experimentó un notable resurgimiento bajo la dirección técnica de Erik ten Hag. Liderados por una nueva generación de canteranos como Matthijs de Ligt y Frenkie de Jong, complementada por el experimentado Dušan Tadić, el equipo conquistó el doblete doméstico (Eredivisie y Copa KNVB). En el plano internacional, el club alcanzó las semifinales de la Liga de Campeones de la UEFA, eliminando al Real Madrid y a la Juventus en condición de visitante y ejecutando un sistema de juego de presión alta e intercambio posicional que le devolvió el estatus de élite en Europa."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Johan Cruyff Arena",
+      "capacidad": "55.865",
+      "inauguracion": "14 de agosto de 1996",
+      "url": "https://www.google.com/maps/place/Johan+Cruijff+ArenA/@52.314366,4.939223,17z/data=!3m1!4b1!4m6!3m5!1s0x47c60b9736eab27b:0xba1ff9051d9d9361!8m2!3d52.314366!4d4.9417979!16zL20vMDIyemhf",
+      "direccion": "Johan Cruijff Boulevard 1, 1100 DL Amsterdam, Países Bajos",
+      "descripcion": "El actual recinto del club. Originalmente inaugurado como 'Amsterdam Arena' y rebautizado en 2018 en honor a su leyenda máxima tras su fallecimiento. Fue el primer estadio europeo con techo retráctil.",
+      "lat": 52.3143,
+      "lng": 4.9419,
+      "epoca": "1996 - Presente"
+    },
+    {
+      "nombre": "De Meer Stadion",
+      "capacidad": "29.500 (reducida a 19.000)",
+      "inauguracion": "9 de diciembre de 1934",
+      "url": "https://www.google.com/maps/place/Estadio+De+Meer/@52.3458428,4.9463519,17z/data=!3m1!4b1!4m6!3m5!1s0x47c60965e648c669:0xf81307b66ec01fa!8m2!3d52.3458428!4d4.9489268!16s%2Fm%2F06x6ks9",
+      "direccion": "Middenweg 401, 1098 AA Amsterdam, Países Bajos",
+      "descripcion": "El templo sagrado e histórico del club donde se fraguó el Fútbol Total. Fue la casa del Ajax durante más de seis décadas hasta que exigencias de seguridad obligaron su demolición en 1998, siendo reemplazado por un barrio residencial (Park de Meer) cuyas calles llevan los nombres de escenarios donde el club ganó títulos europeos.",
+      "lat": 52.3458428,
+      "lng": 4.9463519,
+      "epoca": "1934 - 1996"
+    },
+    {
+      "nombre": "Olympisch Stadion",
+      "capacidad": "64.000",
+      "inauguracion": "17 de mayo de 1928",
+      "url": "https://www.google.com/maps/place/Olympisch+Stadion/@52.343513,4.8517244,17z/data=!3m1!4b1!4m6!3m5!1s0x47c5e20ef93bc3c5:0xb977799797bf6da4!8m2!3d52.343513!4d4.8542993!16zL20vMGJ2MjE",
+      "direccion": "Olympisch Stadion 2, 1076 DE Amsterdam, Países Bajos",
+      "descripcion": "Si bien no era su estadio propio, el Ajax utilizó este inmenso recinto construido para los Juegos Olímpicos de 1928 durante décadas para albergar sus grandes noches de Copa de Europa y los derbis contra el Feyenoord, ya que De Meer carecía de la capacidad e iluminación necesarias.",
+      "lat": 52.343513,
+      "lng": 4.8517244,
+      "epoca": "1928 - 1996 (Eventos especiales)"
+    },
+    {
+      "nombre": "Het Houten Stadion",
+      "capacidad": "10.000",
+      "inauguracion": "1907",
+      "url": "https://www.google.com/maps/place/Middenweg+86,+1097+BS+Amsterdam,+Pa%C3%ADses+Bajos/@52.353347,4.931707,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6096ed8eefb25:0xe89ad69408e01fa3!8m2!3d52.353347!4d4.9342819!16s%2Fg%2F11b8v4tlnx",
+      "direccion": "Middenweg 86, 1097 BS Amsterdam, Países Bajos",
+      "descripcion": "El 'Estadio de Madera'. Fue la primera casa oficial del Ajax, pero carecía de gradas adecuadas y terminó quedando minúsculo para el fervor que despertaba el equipo tras su ascenso a la máxima división, obligando la mudanza al cercano De Meer.",
+      "lat": 52.353347,
+      "lng": 4.931707,
+      "epoca": "1907 - 1934"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1900,
+      "hasta": 1901,
+      "c1": "#000000",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso-con-faja",
+      "desc": "El primer uniforme de la historia del Ajax no fue ni blanco ni de franjas rojas. En su fundación en 1900, los jugadores vestían indumentaria completamente negra (fácil de conseguir en la época) atravesada por una faja roja amarrada a la cintura, representando así los colores de la bandera de Ámsterdam."
+    },
+    {
+      "desde": 1901,
+      "hasta": 1911,
+      "c1": "#d2122e",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "Para celebrar su primer aniversario en 1901, el club abandonó el negro y adoptó una clásica camiseta a franjas verticales rojas y blancas, acompañada de pantalones negros. Este diseño a bastones los acompañó durante toda su etapa amateur."
+    },
+    {
+      "desde": 1911,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#d2122e",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "franja-central",
+      "desc": "Al lograr su histórico primer ascenso a la máxima categoría, la federación los obligó a cambiar su uniforme a bastones, ya que era idéntico al del Sparta Róterdam (y en esa época no existían las camisetas alternativas). Adoptaron entonces la legendaria e inconfundible camiseta blanca con una ancha franja roja vertical en el centro, diseño que se convirtió en un símbolo mundial."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Johan Cruyff",
+      "pos": "Delantero",
+      "desc": "Mediocampista ofensivo y principal ejecutor del sistema táctico de Fútbol Total. Acumuló 271 goles en 369 presencias, liderando la obtención de tres Copas de Europa consecutivas en los años 70 y estructurando la filosofía deportiva moderna del club.",
+      "epoca": "1964-1973 / 1981-1983",
+      "apodo": "El Flaco",
+      "goles": "271",
+      "partidos": "369"
+    },
+    {
+      "nombre": "Sjaak Swart",
+      "pos": "Extremo",
+      "desc": "Extremo derecho que desarrolló la totalidad de su prolongada trayectoria profesional defendiendo los colores de la institución. Ostenta el récord histórico absoluto de apariciones con 603 partidos oficiales, anotando 228 tantos en su carrera.",
+      "epoca": "1956-1973",
+      "apodo": "Sjaak",
+      "goles": "228",
+      "partidos": "603"
+    },
+    {
+      "nombre": "Frank Rijkaard",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista central de gran jerarquía posicional egresado de las divisiones juveniles. Tras una extensa etapa en el exterior, regresó en 1993 para liderar el mediocampo del plantel que conquistó la Liga de Campeones de 1995 en condición de invicto.",
+      "epoca": "1980-1987 / 1993-1995",
+      "apodo": "El Cometa",
+      "goles": "71",
+      "partidos": "328"
+    },
+    {
+      "nombre": "Marco van Basten",
+      "pos": "Delantero",
+      "desc": "Centrodelantero de depurada técnica que se adjudicó el título de máximo goleador de la Eredivisie en cuatro ediciones consecutivas. Convirtió 152 goles en 172 compromisos ligueros antes de concretar su traspaso al balompié italiano en 1987.",
+      "epoca": "1981-1987",
+      "apodo": "El Cisne de Utrecht",
+      "goles": "152",
+      "partidos": "172"
+    },
+    {
+      "nombre": "Piet Keizer",
+      "pos": "Extremo Izquierdo",
+      "desc": "Extremo izquierdo de desequilibrio constante y precisión en los servicios ofensivos. Completó 489 apariciones formales con el primer equipo y se consolidó como una pieza indispensable en la estructura titular durante los títulos europeos de su era.",
+      "epoca": "1961-1974",
+      "apodo": "Las Tijeras",
+      "goles": "189",
+      "partidos": "489"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Piet van Reenen",
+      "goles": "278",
+      "partidos": "237",
+      "epoca": "1929-1942",
+      "apodo": "Goaltjes-Piet"
+    },
+    {
+      "nombre": "Johan Cruyff",
+      "goles": "271",
+      "partidos": "369",
+      "epoca": "1964-1983",
+      "apodo": "El Flaco"
+    },
+    {
+      "nombre": "Sjaak Swart",
+      "goles": "228",
+      "partidos": "603",
+      "epoca": "1956-1973",
+      "apodo": "Sjaak"
+    },
+    {
+      "nombre": "Henk Groot",
+      "goles": "207",
+      "partidos": "305",
+      "epoca": "1959-1969",
+      "apodo": "El Gran Henk"
+    },
+    {
+      "nombre": "Piet Keizer",
+      "goles": "189",
+      "partidos": "489",
+      "epoca": "1961-1974",
+      "apodo": "Las Tijeras"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Sjaak Swart",
+      "partidos": "603",
+      "epoca": "1956-1973",
+      "apodo": "Sjaak",
+      "goles": "228"
+    },
+    {
+      "nombre": "Wim Suurbier",
+      "partidos": "509",
+      "epoca": "1964-1977",
+      "apodo": "Wim",
+      "goles": "19"
+    },
+    {
+      "nombre": "Danny Blind",
+      "partidos": "493",
+      "epoca": "1986-1999",
+      "apodo": "El Capitán",
+      "goles": "36"
+    },
+    {
+      "nombre": "Piet Keizer",
+      "partidos": "489",
+      "epoca": "1961-1974",
+      "apodo": "Las Tijeras",
+      "goles": "189"
+    },
+    {
+      "nombre": "Ruud Krol",
+      "partidos": "457",
+      "epoca": "1968-1980",
+      "apodo": "Snabbel",
+      "goles": "30"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Eredivisie",
+      "cantidad": 36,
+      "anios": [
+        "1917-18",
+        "1918-19",
+        "1930-31",
+        "1931-32",
+        "1933-34",
+        "1936-37",
+        "1938-39",
+        "1946-47",
+        "1956-57",
+        "1959-60",
+        "1965-66",
+        "1966-67",
+        "1967-68",
+        "1969-70",
+        "1971-72",
+        "1972-73",
+        "1976-77",
+        "1978-79",
+        "1979-80",
+        "1981-82",
+        "1982-83",
+        "1984-85",
+        "1989-90",
+        "1993-94",
+        "1994-95",
+        "1995-96",
+        "1997-98",
+        "2001-02",
+        "2003-04",
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2018-19",
+        "2020-21",
+        "2021-22"
+      ]
+    },
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 20,
+      "anios": [
+        "1916-17",
+        "1942-43",
+        "1960-61",
+        "1966-67",
+        "1969-70",
+        "1970-71",
+        "1971-72",
+        "1978-79",
+        "1982-83",
+        "1985-86",
+        "1986-87",
+        "1992-93",
+        "1997-98",
+        "1998-99",
+        "2001-02",
+        "2005-06",
+        "2006-07",
+        "2009-10",
+        "2018-19",
+        "2020-21"
+      ]
+    },
+    {
+      "nombre": "Johan Cruyff Shield",
+      "cantidad": 9,
+      "anios": [
+        "1993",
+        "1994",
+        "1995",
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2013",
+        "2019"
+      ]
+    },
+    {
+      "nombre": "UEFA Champions League",
+      "cantidad": 4,
+      "anios": [
+        "1970-71",
+        "1971-72",
+        "1972-73",
+        "1994-95"
+      ]
+    },
+    {
+      "nombre": "Copa Intercontinental",
+      "cantidad": 2,
+      "anios": [
+        "1972",
+        "1995"
+      ]
+    },
+    {
+      "nombre": "Copa de la UEFA",
+      "cantidad": 1,
+      "anios": [
+        "1991-92"
+      ]
+    },
+    {
+      "nombre": "Recopa de Europa",
+      "cantidad": 1,
+      "anios": [
+        "1986-87"
+      ]
+    },
+    {
+      "nombre": "Supercopa de Europa",
+      "cantidad": 2,
+      "anios": [
+        "1973",
+        "1995"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1900-1911",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1900-1911_logo.webp"
+    },
+    {
+      "ano": "1911-1928",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1911-1928_logo.webp"
+    },
+    {
+      "ano": "1928-1990",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1928-1990.webp"
+    },
+    {
+      "ano": "1991-2020",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_1991-2020.webp"
+    },
+    {
+      "ano": "2021-2022",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_2021-2022webp.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/ajax/AFC_Ajax_logo2022-2024.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Hijos de los Dioses (De Godenzonen)",
+      "origen": "Apodo derivado directamente del nombre de la institución. Al estar bautizados en honor al imbatible héroe mitológico griego Áyax el Grande, quien luchó en la Guerra de Troya, los jugadores y aficionados se autoproclamaron orgullosamente como la estirpe y herederos de la divinidad helénica."
+    },
+    {
+      "apodo": "Los Judíos (De Joden)",
+      "origen": "Adoptado por la propia hinchada en la década de 1970 como un acto de desafío y resistencia. Dado que su histórico estadio De Meer estaba próximo al barrio judío de Ámsterdam, las aficiones rivales les propinaban insultos antisemitas. Los fans del Ajax neutralizaron el ataque adoptando la Estrella de David y las banderas de Israel como símbolos de orgullo inquebrantable."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Telstar",
+      "pj": 35,
+      "g": 27,
+      "e": 6,
+      "p": 2,
+      "gf": 108,
+      "gc": 32
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 114,
+      "g": 64,
+      "e": 22,
+      "p": 28,
+      "gf": 243,
+      "gc": 138
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 53,
+      "g": 42,
+      "e": 9,
+      "p": 2
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 209,
+      "g": 96,
+      "e": 49,
+      "p": 64
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 50,
+      "g": 39,
+      "e": 7,
+      "p": 4
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 74,
+      "g": 56,
+      "e": 10,
+      "p": 8
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 115,
+      "g": 81,
+      "e": 20,
+      "p": 14
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 73,
+      "g": 51,
+      "e": 12,
+      "p": 10
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 48,
+      "g": 34,
+      "e": 8,
+      "p": 6
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 106,
+      "g": 81,
+      "e": 15,
+      "p": 10
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 89,
+      "g": 68,
+      "e": 18,
+      "p": 3
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 49,
+      "g": 38,
+      "e": 7,
+      "p": 4
+    },
+    {
+      "equipo": "PSV",
+      "pj": 184,
+      "g": 83,
+      "e": 43,
+      "p": 58
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 124,
+      "g": 81,
+      "e": 21,
+      "p": 22
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 142,
+      "g": 82,
+      "e": 32,
+      "p": 28
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 110,
+      "g": 66,
+      "e": 23,
+      "p": 21
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 58,
+      "g": 42,
+      "e": 10,
+      "p": 6
+    }
+  ]
 }

@@ -1,387 +1,387 @@
 {
-    "id": "utrecht",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "fc utrecht"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Football Club Utrecht",
-        "sigla": "",
-        "fundacion": "1 de julio de 1970",
-        "apodo": "Utreg, Los de la Ciudad de la Catedral (Domstedelingen)",
-        "estadio_actual": "Stadion Galgenwaard",
-        "estadio_apodo": "",
-        "estadio_capacidad": 23750,
-        "estadio_inauguracion": "21 de mayo de 1936",
-        "estadio_lat": 52.0783,
-        "estadio_lng": 5.1458,
-        "estadio_direccion": "Herculesplein 241, 3584 AA Utrecht, Países Bajos",
-        "socios": 14000,
-        "descripcion_corta": "Un club rudo e inquebrantable nacido de la fusión de tres equipos de la ciudad. Ostentan el honor histórico de jamás haber descendido de la Eredivisie junto al Ajax, PSV y Feyenoord.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#e30613"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#ffffff"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Leo van Veen (153 goles)",
-            "mas_presencias": "Jan Willem van Ede (409 partidos)",
-            "mayor_goleada": "7-1 vs Sparta Rotterdam (Eredivisie 1980/81)"
-        },
-        "nombre_oficial": "Football Club Utrecht",
-        "nombre_corto": "FC Utrecht",
-        "escudo_actual": "/escudos/paises_bajos/utrecht/FC_Utrecht2021-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1970",
-            "hito": "La Fusión de la Ciudad y sus Fundadores",
-            "desc": "El Football Club Utrecht nació el 1 de julio de 1970 como resultado de una compleja y necesaria fusión entre tres equipos locales: DOS (campeón de liga en 1958), Elinkwijk y Velox. La iniciativa fue impulsada fuertemente por la alcaldía local, con el alcalde Hans van Tuyll van Serooskerken como uno de los principales arquitectos políticos del proyecto, buscando unificar fuerzas financieras para evitar la quiebra del fútbol profesional en la ciudad. El nuevo club heredó la plaza del DOS en la Eredivisie y se instaló en el icónico Estadio Galgenwaard."
-        },
-        {
-            "ano": "1985",
-            "hito": "El Primer Título Nacional",
-            "desc": "Tras consolidarse como un equipo duro y difícil de vencer durante sus primeros quince años de existencia, el club alcanzó su primer gran momento de gloria en la temporada 1984-1985. En la final de la Copa de los Países Bajos (KNVB Beker), el Utrecht se enfrentó al Helmond Sport. El partido se definió de manera dramática cuando el mítico delantero John van Loen anotó el gol de la victoria en el tiempo de descuento, otorgándole a la institución el primer trofeo oficial de su historia."
-        },
-        {
-            "ano": "2003-2004",
-            "hito": "El Bicampeonato de Copa y la Supercopa",
-            "desc": "Bajo la brillante dirección del entrenador Foeke Booy, el FC Utrecht estructuró su ciclo más exitoso a principios del nuevo milenio. El equipo demostró ser implacable en los torneos de eliminación directa, conquistando la Copa KNVB de forma consecutiva: en 2003 aplastaron al Feyenoord por 4-1 en la final, y en 2004 revalidaron el título superando al FC Twente. Como broche de oro, ese mismo año derrotaron al Ajax para alzar la Supercopa (Johan Cruyff Shield), convirtiéndose en el primer equipo fuera de los tres grandes en ganar dicho trofeo."
-        },
-        {
-            "ano": "2010",
-            "hito": "Gestas Europeas y Noches Épicas",
-            "desc": "El estadio Galgenwaard vivió una de sus noches más gloriosas en la temporada 2010-2011 durante los playoffs de la UEFA Europa League. Tras perder 2-0 en la ida contra el poderoso Celtic de Glasgow, el FC Utrecht protagonizó una remontada histórica impulsada por un hat-trick fenomenal de Ricky van Wolfswinkel, ganando 4-0 en casa. Esta victoria épica no solo los metió en la fase de grupos donde enfrentaron al Liverpool, Napoli y Steaua Bucarest, sino que ratificó la capacidad del club para competir en la máxima exigencia continental."
-        },
-        {
-            "ano": "Presente",
-            "hito": "Un Legado de Inquebrantable Permanencia",
-            "desc": "A lo largo de más de medio siglo de historia, el FC Utrecht ha forjado una reputación de equipo rudo, resiliente y orgulloso. El mayor logro institucional del club es un récord extraordinario: junto con el Ajax, el PSV Eindhoven y el Feyenoord, son el único equipo del país que jamás ha descendido de la Eredivisie desde su creación. Esta permanencia ininterrumpida en la máxima categoría es el mayor orgullo de la afición local."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Stadion Galgenwaard",
-            "capacidad": "23.750",
-            "inauguracion": "21 de mayo de 1936 (Reconstruido en 1982 y 2001)",
-            "url": "https://www.google.com/maps/place/Stadion+Galgenwaard/@52.0783333,5.1432222,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6689d040a463d:0xb8a2f026725206ab!8m2!3d52.0783333!4d5.1458!16zL20vMDIxdmtn",
-            "direccion": "Herculesplein 241, 3584 AA Utrecht, Países Bajos",
-            "descripcion": "Un estadio con nombre aterrador: 'Galgenwaard' se traduce como 'Campo de las Horcas', ya que en la Edad Media en estos mismos terrenos se llevaban a cabo las ejecuciones públicas. Esta aura lúgubre, sumada a la cercanía milimétrica de las gradas y el aliento feroz de sus ultras, lo convierte en uno de los recintos más inhóspitos para los equipos visitantes. Fue el estadio original del viejo club DOS antes de ser heredado por el Utrecht en 1970.",
-            "lat": 52.0783,
-            "lng": 5.1458,
-            "epoca": "1970 - Presente"
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1970,
-            "hasta": null,
-            "c1": "#e30613",
-            "c2": "#ffffff",
-            "sh": "#ffffff",
-            "me": "#ffffff",
-            "tipo": "diagonal",
-            "desc": "Al nacer de una fusión a tres bandas en 1970, era imperativo evitar favoritismos visuales hacia los clubes fundadores (el DOS vestía de amarillo y negro, mientras que el Elinkwijk vestía de azul y blanco). Para unificar a toda la hinchada, la dirigencia tomó los colores del escudo de armas de la antigua ciudad de Utrecht: adoptaron una espectacular camiseta dividida por la mitad de forma diagonal, con el panel superior en blanco y el inferior en rojo intenso. Este agresivo diseño a mitades diagonales es una rareza de museo en el fútbol mundial y es una marca registrada de los 'Domstedelingen'."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Jean-Paul de Jong",
-            "pos": "Mediocampista",
-            "desc": "Mediocampista de marcaje que destacó por su tenacidad e identificación con la institución. Ostenta uno de los récords de presencias del club en la Eredivisie, superando los 370 partidos a lo largo de catorce temporadas.",
-            "epoca": "1993-2007",
-            "apodo": "El Tractor",
-            "goles": "11",
-            "partidos": "370"
-        },
-        {
-            "nombre": "Leo van Veen",
-            "pos": "Delantero",
-            "desc": "Máximo ídolo estadístico de la historia del club. Es el jugador de campo que más partidos disputó (391) y el goleador histórico absoluto de la entidad en la Eredivisie (153 tantos). Lideró la ofensiva del equipo de manera ininterrumpida a lo largo de toda la década del setenta.",
-            "epoca": "1970-1982",
-            "apodo": "Leo",
-            "goles": "153",
-            "partidos": "391"
-        },
-        {
-            "nombre": "Dirk Kuyt",
-            "pos": "Delantero",
-            "desc": "Delantero de gran desgaste físico que inició su consolidación profesional en la ciudad. En la temporada 2002-2003 finalizó como máximo artillero del certamen con 20 tantos, logrando la convocatoria a la selección nacional.",
-            "epoca": "1998-2003",
-            "apodo": "El Conejo Duracell",
-            "goles": "51",
-            "partidos": "160"
-        },
-        {
-            "nombre": "Jan Wouters",
-            "pos": "Mediocampista",
-            "desc": "Mediocentro incansable formado en la cantera. Su extraordinario despliegue táctico lo llevó rápidamente a la selección nacional y lo convirtió en un referente del fútbol neerlandés.",
-            "epoca": "1980-1986",
-            "apodo": "",
-            "goles": "21",
-            "partidos": "168"
-        },
-        {
-            "nombre": "Ton de Kruijk",
-            "pos": "Defensor",
-            "desc": "Sólido defensor que fue una pieza inamovible en la zaga del Utrecht durante los años ochenta. Formó parte del histórico plantel que conquistó la Copa KNVB en 1985, el primer título mayor del club.",
-            "epoca": "1979-1987",
-            "apodo": "",
-            "goles": "50",
-            "partidos": "289"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Leo van Veen",
-            "goles": "153",
-            "partidos": "391",
-            "epoca": "1970-1982",
-            "apodo": "Leo"
-        },
-        {
-            "nombre": "Dirk Kuyt",
-            "goles": "51",
-            "partidos": "160",
-            "epoca": "1998-2003",
-            "apodo": "El Conejo Duracell"
-        },
-        {
-            "nombre": "Sébastien Haller",
-            "goles": "41",
-            "partidos": "82",
-            "epoca": "2015-2017",
-            "apodo": "El Pájaro"
-        },
-        {
-            "nombre": "Igor Gluščević",
-            "goles": "39",
-            "partidos": "84",
-            "epoca": "2000-2003",
-            "apodo": ""
-        },
-        {
-            "nombre": "Dries Mertens",
-            "goles": "16",
-            "partidos": "65",
-            "epoca": "2009-2011",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Jan Willem van Ede",
-            "partidos": "409",
-            "epoca": "1982-1996",
-            "apodo": "",
-            "goles": "0"
-        },
-        {
-            "nombre": "Leo van Veen",
-            "partidos": "391",
-            "epoca": "1970-1982",
-            "apodo": "Leo",
-            "goles": "153"
-        },
-        {
-            "nombre": "Jean-Paul de Jong",
-            "partidos": "370",
-            "epoca": "1993-2007",
-            "apodo": "El Tractor",
-            "goles": "11"
-        },
-        {
-            "nombre": "Mark van der Maarel",
-            "partidos": "353",
-            "epoca": "2009-2024",
-            "apodo": "",
-            "goles": "12"
-        },
-        {
-            "nombre": "Ton de Kruijk",
-            "partidos": "289",
-            "epoca": "1979-1987",
-            "apodo": "",
-            "goles": "50"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 3,
-            "anios": [
-                "1984-85",
-                "2002-03",
-                "2003-04"
-            ]
-        },
-        {
-            "nombre": "Johan Cruyff Shield",
-            "cantidad": 1,
-            "anios": [
-                "2004"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1970-1980",
-            "url": "/escudos/paises_bajos/utrecht/FC-Utrecht2.-old-logo1970-1980.webp"
-        },
-        {
-            "ano": "1980-1990",
-            "url": "/escudos/paises_bajos/utrecht/Fc_utrecht_1980-1990.webp"
-        },
-        {
-            "ano": "1990-2020",
-            "url": "/escudos/paises_bajos/utrecht/FC_Utrecht_logo1990-2020.webp"
-        },
-        {
-            "ano": "2020-2021",
-            "url": "/escudos/paises_bajos/utrecht/FC_Utrecht_2020-2021.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/utrecht/FC_Utrecht2021-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Utreg",
-            "origen": "Es la pronunciación exacta de la palabra 'Utrecht' en el cerrado dialecto local ('Stadsutrechts'). La afición lo utiliza de manera acortada y contundente en sus cánticos para reivindicar su condición de equipo estrictamente barrial y trabajador, diferenciándose de la pronunciación estándar del neerlandés oficial."
-        },
-        {
-            "apodo": "Los de la Ciudad de la Catedral (Domstedelingen)",
-            "origen": "Deriva de la icónica Torre de la Catedral (Domtoren), que con sus 112 metros es la torre de iglesia más alta y antigua de los Países Bajos, ubicada en el corazón mismo de la ciudad. El monumento es un símbolo absoluto de Utrecht, al punto de que el escudo histórico de la ciudad y el club orbitan alrededor de su imagen, ganándose naturalmente este apelativo."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 110,
-            "g": 21,
-            "e": 23,
-            "p": 66
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 96,
-            "g": 37,
-            "e": 18,
-            "p": 41
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 50,
-            "g": 27,
-            "e": 14,
-            "p": 9
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 110,
-            "g": 18,
-            "e": 28,
-            "p": 64
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 64,
-            "g": 31,
-            "e": 18,
-            "p": 15
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 64,
-            "g": 32,
-            "e": 18,
-            "p": 14
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 96,
-            "g": 32,
-            "e": 31,
-            "p": 33
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 78,
-            "g": 34,
-            "e": 18,
-            "p": 26
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 21,
-            "e": 13,
-            "p": 12
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 96,
-            "g": 45,
-            "e": 23,
-            "p": 28
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 96,
-            "g": 42,
-            "e": 26,
-            "p": 28
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 52,
-            "g": 23,
-            "e": 18,
-            "p": 11
-        },
-        {
-            "equipo": "PSV",
-            "pj": 114,
-            "g": 12,
-            "e": 26,
-            "p": 76
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 114,
-            "g": 47,
-            "e": 26,
-            "p": 41
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 44,
-            "g": 19,
-            "e": 13,
-            "p": 12
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 114,
-            "g": 32,
-            "e": 32,
-            "p": 50
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 78,
-            "g": 33,
-            "e": 25,
-            "p": 20
-        }
+  "id": "utrecht",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "fc utrecht"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Football Club Utrecht",
+    "sigla": "",
+    "fundacion": "1 de julio de 1970",
+    "apodo": "Utreg, Los de la Ciudad de la Catedral (Domstedelingen)",
+    "estadio_actual": "Stadion Galgenwaard",
+    "estadio_apodo": "",
+    "estadio_capacidad": 23750,
+    "estadio_inauguracion": "21 de mayo de 1936",
+    "estadio_lat": 52.0783,
+    "estadio_lng": 5.1458,
+    "estadio_direccion": "Herculesplein 241, 3584 AA Utrecht, Países Bajos",
+    "socios": 14000,
+    "descripcion_corta": "Un club rudo e inquebrantable nacido de la fusión de tres equipos de la ciudad. Ostentan el honor histórico de jamás haber descendido de la Eredivisie junto al Ajax, PSV y Feyenoord.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#e30613"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Leo van Veen (153 goles)",
+      "mas_presencias": "Jan Willem van Ede (409 partidos)",
+      "mayor_goleada": "7-1 vs Sparta Rotterdam (Eredivisie 1980/81)"
+    },
+    "nombre_oficial": "Football Club Utrecht",
+    "nombre_corto": "FC Utrecht",
+    "escudo_actual": "/escudos/paises_bajos/utrecht/FC_Utrecht2021-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1970",
+      "hito": "La Fusión de la Ciudad y sus Fundadores",
+      "desc": "El Football Club Utrecht nació el 1 de julio de 1970 como resultado de una compleja y necesaria fusión entre tres equipos locales: DOS (campeón de liga en 1958), Elinkwijk y Velox. La iniciativa fue impulsada fuertemente por la alcaldía local, con el alcalde Hans van Tuyll van Serooskerken como uno de los principales arquitectos políticos del proyecto, buscando unificar fuerzas financieras para evitar la quiebra del fútbol profesional en la ciudad. El nuevo club heredó la plaza del DOS en la Eredivisie y se instaló en el icónico Estadio Galgenwaard."
+    },
+    {
+      "ano": "1985",
+      "hito": "El Primer Título Nacional",
+      "desc": "Tras consolidarse como un equipo duro y difícil de vencer durante sus primeros quince años de existencia, el club alcanzó su primer gran momento de gloria en la temporada 1984-1985. En la final de la Copa de los Países Bajos (KNVB Beker), el Utrecht se enfrentó al Helmond Sport. El partido se definió de manera dramática cuando el mítico delantero John van Loen anotó el gol de la victoria en el tiempo de descuento, otorgándole a la institución el primer trofeo oficial de su historia."
+    },
+    {
+      "ano": "2003-2004",
+      "hito": "El Bicampeonato de Copa y la Supercopa",
+      "desc": "Bajo la brillante dirección del entrenador Foeke Booy, el FC Utrecht estructuró su ciclo más exitoso a principios del nuevo milenio. El equipo demostró ser implacable en los torneos de eliminación directa, conquistando la Copa KNVB de forma consecutiva: en 2003 aplastaron al Feyenoord por 4-1 en la final, y en 2004 revalidaron el título superando al FC Twente. Como broche de oro, ese mismo año derrotaron al Ajax para alzar la Supercopa (Johan Cruyff Shield), convirtiéndose en el primer equipo fuera de los tres grandes en ganar dicho trofeo."
+    },
+    {
+      "ano": "2010",
+      "hito": "Gestas Europeas y Noches Épicas",
+      "desc": "El estadio Galgenwaard vivió una de sus noches más gloriosas en la temporada 2010-2011 durante los playoffs de la UEFA Europa League. Tras perder 2-0 en la ida contra el poderoso Celtic de Glasgow, el FC Utrecht protagonizó una remontada histórica impulsada por un hat-trick fenomenal de Ricky van Wolfswinkel, ganando 4-0 en casa. Esta victoria épica no solo los metió en la fase de grupos donde enfrentaron al Liverpool, Napoli y Steaua Bucarest, sino que ratificó la capacidad del club para competir en la máxima exigencia continental."
+    },
+    {
+      "ano": "Presente",
+      "hito": "Un Legado de Inquebrantable Permanencia",
+      "desc": "A lo largo de más de medio siglo de historia, el FC Utrecht ha forjado una reputación de equipo rudo, resiliente y orgulloso. El mayor logro institucional del club es un récord extraordinario: junto con el Ajax, el PSV Eindhoven y el Feyenoord, son el único equipo del país que jamás ha descendido de la Eredivisie desde su creación. Esta permanencia ininterrumpida en la máxima categoría es el mayor orgullo de la afición local."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Stadion Galgenwaard",
+      "capacidad": "23.750",
+      "inauguracion": "21 de mayo de 1936 (Reconstruido en 1982 y 2001)",
+      "url": "https://www.google.com/maps/place/Stadion+Galgenwaard/@52.0783333,5.1432222,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6689d040a463d:0xb8a2f026725206ab!8m2!3d52.0783333!4d5.1458!16zL20vMDIxdmtn",
+      "direccion": "Herculesplein 241, 3584 AA Utrecht, Países Bajos",
+      "descripcion": "Un estadio con nombre aterrador: 'Galgenwaard' se traduce como 'Campo de las Horcas', ya que en la Edad Media en estos mismos terrenos se llevaban a cabo las ejecuciones públicas. Esta aura lúgubre, sumada a la cercanía milimétrica de las gradas y el aliento feroz de sus ultras, lo convierte en uno de los recintos más inhóspitos para los equipos visitantes. Fue el estadio original del viejo club DOS antes de ser heredado por el Utrecht en 1970.",
+      "lat": 52.0783,
+      "lng": 5.1458,
+      "epoca": "1970 - Presente"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1970,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "diagonal",
+      "desc": "Al nacer de una fusión a tres bandas en 1970, era imperativo evitar favoritismos visuales hacia los clubes fundadores (el DOS vestía de amarillo y negro, mientras que el Elinkwijk vestía de azul y blanco). Para unificar a toda la hinchada, la dirigencia tomó los colores del escudo de armas de la antigua ciudad de Utrecht: adoptaron una espectacular camiseta dividida por la mitad de forma diagonal, con el panel superior en blanco y el inferior en rojo intenso. Este agresivo diseño a mitades diagonales es una rareza de museo en el fútbol mundial y es una marca registrada de los 'Domstedelingen'."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Jean-Paul de Jong",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista de marcaje que destacó por su tenacidad e identificación con la institución. Ostenta uno de los récords de presencias del club en la Eredivisie, superando los 370 partidos a lo largo de catorce temporadas.",
+      "epoca": "1993-2007",
+      "apodo": "El Tractor",
+      "goles": "11",
+      "partidos": "370"
+    },
+    {
+      "nombre": "Leo van Veen",
+      "pos": "Delantero",
+      "desc": "Máximo ídolo estadístico de la historia del club. Es el jugador de campo que más partidos disputó (391) y el goleador histórico absoluto de la entidad en la Eredivisie (153 tantos). Lideró la ofensiva del equipo de manera ininterrumpida a lo largo de toda la década del setenta.",
+      "epoca": "1970-1982",
+      "apodo": "Leo",
+      "goles": "153",
+      "partidos": "391"
+    },
+    {
+      "nombre": "Dirk Kuyt",
+      "pos": "Delantero",
+      "desc": "Delantero de gran desgaste físico que inició su consolidación profesional en la ciudad. En la temporada 2002-2003 finalizó como máximo artillero del certamen con 20 tantos, logrando la convocatoria a la selección nacional.",
+      "epoca": "1998-2003",
+      "apodo": "El Conejo Duracell",
+      "goles": "51",
+      "partidos": "160"
+    },
+    {
+      "nombre": "Jan Wouters",
+      "pos": "Mediocampista",
+      "desc": "Mediocentro incansable formado en la cantera. Su extraordinario despliegue táctico lo llevó rápidamente a la selección nacional y lo convirtió en un referente del fútbol neerlandés.",
+      "epoca": "1980-1986",
+      "apodo": "",
+      "goles": "21",
+      "partidos": "168"
+    },
+    {
+      "nombre": "Ton de Kruijk",
+      "pos": "Defensor",
+      "desc": "Sólido defensor que fue una pieza inamovible en la zaga del Utrecht durante los años ochenta. Formó parte del histórico plantel que conquistó la Copa KNVB en 1985, el primer título mayor del club.",
+      "epoca": "1979-1987",
+      "apodo": "",
+      "goles": "50",
+      "partidos": "289"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Leo van Veen",
+      "goles": "153",
+      "partidos": "391",
+      "epoca": "1970-1982",
+      "apodo": "Leo"
+    },
+    {
+      "nombre": "Dirk Kuyt",
+      "goles": "51",
+      "partidos": "160",
+      "epoca": "1998-2003",
+      "apodo": "El Conejo Duracell"
+    },
+    {
+      "nombre": "Sébastien Haller",
+      "goles": "41",
+      "partidos": "82",
+      "epoca": "2015-2017",
+      "apodo": "El Pájaro"
+    },
+    {
+      "nombre": "Igor Gluščević",
+      "goles": "39",
+      "partidos": "84",
+      "epoca": "2000-2003",
+      "apodo": ""
+    },
+    {
+      "nombre": "Dries Mertens",
+      "goles": "16",
+      "partidos": "65",
+      "epoca": "2009-2011",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jan Willem van Ede",
+      "partidos": "409",
+      "epoca": "1982-1996",
+      "apodo": "",
+      "goles": "0"
+    },
+    {
+      "nombre": "Leo van Veen",
+      "partidos": "391",
+      "epoca": "1970-1982",
+      "apodo": "Leo",
+      "goles": "153"
+    },
+    {
+      "nombre": "Jean-Paul de Jong",
+      "partidos": "370",
+      "epoca": "1993-2007",
+      "apodo": "El Tractor",
+      "goles": "11"
+    },
+    {
+      "nombre": "Mark van der Maarel",
+      "partidos": "353",
+      "epoca": "2009-2024",
+      "apodo": "",
+      "goles": "12"
+    },
+    {
+      "nombre": "Ton de Kruijk",
+      "partidos": "289",
+      "epoca": "1979-1987",
+      "apodo": "",
+      "goles": "50"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 3,
+      "anios": [
+        "1984-85",
+        "2002-03",
+        "2003-04"
+      ]
+    },
+    {
+      "nombre": "Johan Cruyff Shield",
+      "cantidad": 1,
+      "anios": [
+        "2004"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1970-1980",
+      "url": "/escudos/paises_bajos/utrecht/FC-Utrecht2.-old-logo1970-1980.webp"
+    },
+    {
+      "ano": "1980-1990",
+      "url": "/escudos/paises_bajos/utrecht/Fc_utrecht_1980-1990.webp"
+    },
+    {
+      "ano": "1990-2020",
+      "url": "/escudos/paises_bajos/utrecht/FC_Utrecht_logo1990-2020.webp"
+    },
+    {
+      "ano": "2020-2021",
+      "url": "/escudos/paises_bajos/utrecht/FC_Utrecht_2020-2021.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/utrecht/FC_Utrecht2021-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Utreg",
+      "origen": "Es la pronunciación exacta de la palabra 'Utrecht' en el cerrado dialecto local ('Stadsutrechts'). La afición lo utiliza de manera acortada y contundente en sus cánticos para reivindicar su condición de equipo estrictamente barrial y trabajador, diferenciándose de la pronunciación estándar del neerlandés oficial."
+    },
+    {
+      "apodo": "Los de la Ciudad de la Catedral (Domstedelingen)",
+      "origen": "Deriva de la icónica Torre de la Catedral (Domtoren), que con sus 112 metros es la torre de iglesia más alta y antigua de los Países Bajos, ubicada en el corazón mismo de la ciudad. El monumento es un símbolo absoluto de Utrecht, al punto de que el escudo histórico de la ciudad y el club orbitan alrededor de su imagen, ganándose naturalmente este apelativo."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 110,
+      "g": 21,
+      "e": 23,
+      "p": 66
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 96,
+      "g": 37,
+      "e": 18,
+      "p": 41
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 50,
+      "g": 27,
+      "e": 14,
+      "p": 9
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 110,
+      "g": 18,
+      "e": 28,
+      "p": 64
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 64,
+      "g": 31,
+      "e": 18,
+      "p": 15
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 64,
+      "g": 32,
+      "e": 18,
+      "p": 14
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 96,
+      "g": 32,
+      "e": 31,
+      "p": 33
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 78,
+      "g": 34,
+      "e": 18,
+      "p": 26
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 21,
+      "e": 13,
+      "p": 12
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 96,
+      "g": 45,
+      "e": 23,
+      "p": 28
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 96,
+      "g": 42,
+      "e": 26,
+      "p": 28
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 52,
+      "g": 23,
+      "e": 18,
+      "p": 11
+    },
+    {
+      "equipo": "PSV",
+      "pj": 114,
+      "g": 12,
+      "e": 26,
+      "p": 76
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 114,
+      "g": 47,
+      "e": 26,
+      "p": 41
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 44,
+      "g": 19,
+      "e": 13,
+      "p": 12
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 114,
+      "g": 32,
+      "e": 32,
+      "p": 50
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 78,
+      "g": 33,
+      "e": 25,
+      "p": 20
+    }
+  ]
 }

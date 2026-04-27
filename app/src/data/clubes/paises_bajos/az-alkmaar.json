@@ -1,397 +1,397 @@
 {
-    "id": "az-alkmaar",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "az alkmaar"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Alkmaar Zaanstreek",
-        "sigla": "",
-        "fundacion": "10 de mayo de 1967",
-        "apodo": "Cabezas de Queso (De Kaaskoppen)",
-        "estadio_actual": "AFAS Stadion",
-        "estadio_apodo": "",
-        "estadio_capacidad": 19478,
-        "estadio_inauguracion": "4 de agosto de 2006",
-        "estadio_lat": 52.6125,
-        "estadio_lng": 4.7436,
-        "estadio_direccion": "Stadionweg 1, 1812 AZ Alkmaar, Países Bajos",
-        "socios": 15000,
-        "descripcion_corta": "El eterno rebelde que desafió a los Tres Grandes. Un club forjado a base de fusiones que revolucionó la liga holandesa logrando títulos históricos.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#e3000f"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#ffffff"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Kees Kist (259 goles)",
-            "mas_presencias": "Kees Kist (446 partidos)",
-            "mayor_goleada": "11-1 vs Red Boys Differdange (Copa UEFA 1977/78)"
-        },
-        "nombre_oficial": "Alkmaar Zaanstreek",
-        "nombre_corto": "AZ Alkmaar",
-        "escudo_actual": "/escudos/paises_bajos/az-alkmaar/AZ_lo1980-actual.svg"
-    },
-    "historia": [
-        {
-            "ano": "1967",
-            "hito": "Fusión y Nacimiento del AZ",
-            "desc": "La institución se constituyó formalmente el 10 de mayo de 1967 como resultado de una fusión estratégica entre dos equipos regionales: el Alkmaar '54 y el FC Zaanstreek. La iniciativa fue impulsada principalmente por los hermanos Cees y Klaas Molenaar, propietarios de una exitosa empresa de electrodomésticos, quienes buscaban conformar una estructura deportiva capaz de competir con la hegemonía de los clubes de Ámsterdam y Róterdam. Establecidos en la ciudad de Alkmaar, el nuevo club comenzó a forjar una identidad basada en una sólida inversión en formativas y un enfoque comercial innovador para la época."
-        },
-        {
-            "ano": "1981",
-            "hito": "La Ruptura de la Hegemonía",
-            "desc": "La temporada 1980-1981 marcó un quiebre en la historia del fútbol neerlandés. Dirigidos por el entrenador Georg Keßler y con un plantel destacado que incluía a Kees Kist, el AZ Alkmaar se consagró campeón de la Eredivisie, rompiendo por primera vez en casi dos décadas el monopolio de títulos de los llamados 'Tres Grandes'. En esa misma campaña extraordinaria, el equipo alcanzó la final de la Copa de la UEFA, donde fue superado por el Ipswich Town inglés en una serie a doble partido, consolidando al club en el panorama internacional."
-        },
-        {
-            "ano": "2009",
-            "hito": "El Segundo Campeonato con Van Gaal",
-            "desc": "Tras varias décadas de altibajos deportivos e inestabilidad financiera, el club experimentó un renacimiento bajo la gestión directiva de Dirk Scheringa. La contratación del técnico Louis van Gaal resultó decisiva; tras una primera temporada de ajuste, el plantel articuló un fútbol de altísima precisión táctica durante la campaña 2008-2009. Con figuras como Mousa Dembélé, Mounir El Hamdaoui y Sergio Romero, el AZ aseguró matemáticamente su segundo título de liga con varias jornadas de anticipación, reescribiendo su nombre en la historia moderna del campeonato."
-        },
-        {
-            "ano": "2013",
-            "hito": "La Cuarta Copa KNVB",
-            "desc": "El club reafirmó su posición como una de las principales potencias alternativas de los Países Bajos al conquistar su cuarta Copa KNVB en la temporada 2012-2013. Conducidos técnicamente por Gertjan Verbeek y con el protagonismo ofensivo del delantero Jozy Altidore, el equipo superó al PSV Eindhoven por 2-1 en la gran final disputada en De Kuip, consolidando su presencia constante en las competiciones europeas y demostrando la vigencia de su modelo formativo y de captación de talentos."
-        },
-        {
-            "ano": "2023",
-            "hito": "Protagonismo en la Conference League",
-            "desc": "El AZ Alkmaar ratificó su prestigio en el continente al alcanzar las semifinales de la UEFA Europa Conference League en la temporada 2022-2023. Dirigidos por Pascal Jansen y sustentados por otra prolífica generación de su academia, con figuras como Tijjani Reijnders y el goleador Vangelis Pavlidis, el equipo holandés superó complejas eliminatorias contra rivales de jerarquía como la Lazio y el Anderlecht. La campaña reafirmó el estatus del club como un competidor temible a nivel europeo."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "AFAS Stadion",
-            "capacidad": "19.478",
-            "inauguracion": "4 de agosto de 2006",
-            "url": "https://www.google.com/maps/place/AFAS+Stadion/@52.6125032,4.7410251,17z/data=!3m1!4b1!4m6!3m5!1s0x47c600155b1f8ebf:0x65dc7f6e2ad105ed!8m2!3d52.6125032!4d4.7436!16zL20vMGI5eHEx",
-            "direccion": "Stadionweg 1, 1812 AZ Alkmaar, Países Bajos",
-            "descripcion": "El templo moderno del club. Originalmente inaugurado bajo el nombre de DSB Stadion por cuestiones comerciales. En 2019 sobrevivió a un insólito colapso estructural parcial de su techo debido a vientos huracanados, lo que forzó al equipo a jugar fuera de casa durante meses mientras se reconstruía la cubierta de forma más segura.",
-            "lat": 52.6125,
-            "lng": 4.7436,
-            "epoca": "2006 - Presente"
-        },
-        {
-            "nombre": "Alkmaarderhout",
-            "capacidad": "8.900",
-            "inauguracion": "1948",
-            "url": "https://www.google.com/maps/place/Alkmaarderhout,+Alkmaar,+Pa%C3%ADses+Bajos/@52.623101,4.735626,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6002f5a8c2d51:0xaab4564c8d5ea4b!8m2!3d52.623101!4d4.7378147",
-            "direccion": "Sportlaan 1, Alkmaar, Países Bajos",
-            "descripcion": "El histórico, mítico e intimidante estadio incrustado en medio de un denso parque forestal. Conocido popularmente como 'De Hout', sus gradas estaban literalmente pegadas al césped, creando una atmósfera asfixiante para los rivales. Fue el hogar del histórico equipo campeón de 1981 antes de ser demolido tras la mudanza al nuevo recinto.",
-            "lat": 52.623101,
-            "lng": 4.735626,
-            "epoca": "1948 - 2006"
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1967,
-            "hasta": null,
-            "c1": "#e3000f",
-            "c2": "#e3000f",
-            "sh": "#ffffff",
-            "me": "#ffffff",
-            "tipo": "liso",
-            "desc": "Tras la fusión fundacional en 1967, el club descartó las tramas o rayas de sus clubes predecesores y adoptó los colores puros del escudo heráldico de la ciudad de Alkmaar: una agresiva camiseta lisa íntegramente roja, combinada rígidamente con pantalones y medias de color blanco inmaculado. Esta estética sólida y sin franjas se ha mantenido inalterable como el estandarte de los 'Cabezas de Queso'."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Kees Kist",
-            "pos": "Delantero",
-            "desc": "Centrodelantero que se erigió como el primer jugador de un club neerlandés en obtener la Bota de Oro europea en 1979 tras anotar 34 goles. Su contundencia frente al arco fue vital para el histórico título de 1981.",
-            "epoca": "1972-1982",
-            "apodo": "El Cañón de Alkmaar",
-            "goles": "259",
-            "partidos": "446"
-        },
-        {
-            "nombre": "Barry van Galen",
-            "pos": "Mediocampista",
-            "desc": "Mediocampista ofensivo de gran visión de juego que disputó gran parte de su carrera en la institución. Lideró la transición del club hacia la modernidad, aportando creatividad y carácter en el centro del campo.",
-            "epoca": "1997-2006",
-            "apodo": "De Geniale Gek",
-            "goles": "82",
-            "partidos": "324"
-        },
-        {
-            "nombre": "Kristen Nygaard",
-            "pos": "Mediocampista",
-            "desc": "El exquisito cerebro danés que dirigió la orquesta del equipo campeón de 1981. Su clase para asistir y organizar el juego elevó al equipo a la cima del fútbol nacional y europeo.",
-            "epoca": "1973-1982",
-            "apodo": "El Maestro Danés",
-            "goles": "104",
-            "partidos": "363"
-        },
-        {
-            "nombre": "John Bosman",
-            "pos": "Delantero",
-            "desc": "Atacante de enorme jerarquía en el juego aéreo. Aportó cuotas de gol y madurez en la etapa de transición institucional hacia la modernidad.",
-            "epoca": "1999-2002",
-            "apodo": "Bossie",
-            "goles": "42",
-            "partidos": "95"
-        },
-        {
-            "nombre": "Ron Vlaar",
-            "pos": "Defensor",
-            "desc": "Apodado 'Ron Beton' por su inquebrantable firmeza física. Tras formarse en el club y brillar en la selección, regresó como el gran caudillo para guiar a las nuevas generaciones.",
-            "epoca": "2004-2006 / 2015-2021",
-            "apodo": "Ron Beton",
-            "goles": "8",
-            "partidos": "136"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Kees Kist",
-            "goles": "259",
-            "partidos": "446",
-            "epoca": "1972-1982",
-            "apodo": "El Cañón de Alkmaar"
-        },
-        {
-            "nombre": "Kristen Nygaard",
-            "goles": "104",
-            "partidos": "363",
-            "epoca": "1973-1982",
-            "apodo": "El Maestro Danés"
-        },
-        {
-            "nombre": "Shota Arveladze",
-            "goles": "48",
-            "partidos": "89",
-            "epoca": "2005-2007",
-            "apodo": "Shota"
-        },
-        {
-            "nombre": "Vangelis Pavlidis",
-            "goles": "80",
-            "partidos": "137",
-            "epoca": "2021-2024",
-            "apodo": "Vangol"
-        },
-        {
-            "nombre": "Mounir El Hamdaoui",
-            "goles": "50",
-            "partidos": "80",
-            "epoca": "2007-2010",
-            "apodo": "El Mago"
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Kees Kist",
-            "partidos": "446",
-            "epoca": "1972-1982",
-            "apodo": "El Cañón de Alkmaar",
-            "goles": "259"
-        },
-        {
-            "nombre": "Michael Buskermolen",
-            "partidos": "406",
-            "epoca": "1990-2006",
-            "apodo": "Mister AZ",
-            "goles": "54"
-        },
-        {
-            "nombre": "Barry Opdam",
-            "partidos": "386",
-            "epoca": "1996-2008",
-            "apodo": "Barry",
-            "goles": "18"
-        },
-        {
-            "nombre": "Kristen Nygaard",
-            "partidos": "363",
-            "epoca": "1973-1982",
-            "apodo": "El Maestro Danés",
-            "goles": "104"
-        },
-        {
-            "nombre": "Barry van Galen",
-            "partidos": "324",
-            "epoca": "1997-2006",
-            "apodo": "De Geniale Gek",
-            "goles": "82"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Eredivisie",
-            "cantidad": 2,
-            "anios": [
-                "1980-81",
-                "2008-09"
-            ]
-        },
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 4,
-            "anios": [
-                "1977-78",
-                "1980-81",
-                "1981-82",
-                "2012-13"
-            ]
-        },
-        {
-            "nombre": "Johan Cruyff Shield",
-            "cantidad": 1,
-            "anios": [
-                "2009"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1967-1980",
-            "url": "/escudos/paises_bajos/az-alkmaar/AZ_Alkmaar_1967-1980.svg"
-        },
-        {
-            "ano": "1967-1980",
-            "url": "/escudos/paises_bajos/az-alkmaar/AZ_Alkmaar_1967-1980.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/az-alkmaar/AZ_lo1980-actual.svg"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Cabezas de Queso (De Kaaskoppen)",
-            "origen": "El apodo deriva directamente de la centenaria tradición comercial de la ciudad de Alkmaar, famosa mundialmente por albergar uno de los mercados de queso más antiguos e importantes de Europa desde el siglo XIV. A los habitantes locales (y por extensión a los hinchas y jugadores del club) se los denomina popularmente como 'Kaaskoppen', un término que los seguidores del AZ han adoptado con orgullo como su principal identidad deportiva y cultural."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 114,
-            "g": 28,
-            "e": 22,
-            "p": 64,
-            "gf": 138,
-            "gc": 243
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 48,
-            "g": 20,
-            "e": 16,
-            "p": 12
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 104,
-            "g": 28,
-            "e": 23,
-            "p": 53
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 52,
-            "g": 25,
-            "e": 15,
-            "p": 12
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 72,
-            "g": 33,
-            "e": 19,
-            "p": 20
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 84,
-            "g": 38,
-            "e": 23,
-            "p": 23
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 69,
-            "g": 30,
-            "e": 14,
-            "p": 25
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 33,
-            "e": 6,
-            "p": 7
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 96,
-            "g": 44,
-            "e": 23,
-            "p": 29
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 88,
-            "g": 38,
-            "e": 28,
-            "p": 22
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 46,
-            "g": 24,
-            "e": 13,
-            "p": 9
-        },
-        {
-            "equipo": "PSV",
-            "pj": 98,
-            "g": 24,
-            "e": 18,
-            "p": 56
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 78,
-            "g": 38,
-            "e": 20,
-            "p": 20
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 34,
-            "g": 18,
-            "e": 10,
-            "p": 6
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 96,
-            "g": 33,
-            "e": 23,
-            "p": 40
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 96,
-            "g": 41,
-            "e": 18,
-            "p": 37
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 58,
-            "g": 28,
-            "e": 18,
-            "p": 12
-        }
+  "id": "az-alkmaar",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "az alkmaar"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Alkmaar Zaanstreek",
+    "sigla": "",
+    "fundacion": "10 de mayo de 1967",
+    "apodo": "Cabezas de Queso (De Kaaskoppen)",
+    "estadio_actual": "AFAS Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 19478,
+    "estadio_inauguracion": "4 de agosto de 2006",
+    "estadio_lat": 52.6125,
+    "estadio_lng": 4.7436,
+    "estadio_direccion": "Stadionweg 1, 1812 AZ Alkmaar, Países Bajos",
+    "socios": 15000,
+    "descripcion_corta": "El eterno rebelde que desafió a los Tres Grandes. Un club forjado a base de fusiones que revolucionó la liga holandesa logrando títulos históricos.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#e3000f"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Kees Kist (259 goles)",
+      "mas_presencias": "Kees Kist (446 partidos)",
+      "mayor_goleada": "11-1 vs Red Boys Differdange (Copa UEFA 1977/78)"
+    },
+    "nombre_oficial": "Alkmaar Zaanstreek",
+    "nombre_corto": "AZ Alkmaar",
+    "escudo_actual": "/escudos/paises_bajos/az-alkmaar/AZ_lo1980-actual.svg"
+  },
+  "historia": [
+    {
+      "ano": "1967",
+      "hito": "Fusión y Nacimiento del AZ",
+      "desc": "La institución se constituyó formalmente el 10 de mayo de 1967 como resultado de una fusión estratégica entre dos equipos regionales: el Alkmaar '54 y el FC Zaanstreek. La iniciativa fue impulsada principalmente por los hermanos Cees y Klaas Molenaar, propietarios de una exitosa empresa de electrodomésticos, quienes buscaban conformar una estructura deportiva capaz de competir con la hegemonía de los clubes de Ámsterdam y Róterdam. Establecidos en la ciudad de Alkmaar, el nuevo club comenzó a forjar una identidad basada en una sólida inversión en formativas y un enfoque comercial innovador para la época."
+    },
+    {
+      "ano": "1981",
+      "hito": "La Ruptura de la Hegemonía",
+      "desc": "La temporada 1980-1981 marcó un quiebre en la historia del fútbol neerlandés. Dirigidos por el entrenador Georg Keßler y con un plantel destacado que incluía a Kees Kist, el AZ Alkmaar se consagró campeón de la Eredivisie, rompiendo por primera vez en casi dos décadas el monopolio de títulos de los llamados 'Tres Grandes'. En esa misma campaña extraordinaria, el equipo alcanzó la final de la Copa de la UEFA, donde fue superado por el Ipswich Town inglés en una serie a doble partido, consolidando al club en el panorama internacional."
+    },
+    {
+      "ano": "2009",
+      "hito": "El Segundo Campeonato con Van Gaal",
+      "desc": "Tras varias décadas de altibajos deportivos e inestabilidad financiera, el club experimentó un renacimiento bajo la gestión directiva de Dirk Scheringa. La contratación del técnico Louis van Gaal resultó decisiva; tras una primera temporada de ajuste, el plantel articuló un fútbol de altísima precisión táctica durante la campaña 2008-2009. Con figuras como Mousa Dembélé, Mounir El Hamdaoui y Sergio Romero, el AZ aseguró matemáticamente su segundo título de liga con varias jornadas de anticipación, reescribiendo su nombre en la historia moderna del campeonato."
+    },
+    {
+      "ano": "2013",
+      "hito": "La Cuarta Copa KNVB",
+      "desc": "El club reafirmó su posición como una de las principales potencias alternativas de los Países Bajos al conquistar su cuarta Copa KNVB en la temporada 2012-2013. Conducidos técnicamente por Gertjan Verbeek y con el protagonismo ofensivo del delantero Jozy Altidore, el equipo superó al PSV Eindhoven por 2-1 en la gran final disputada en De Kuip, consolidando su presencia constante en las competiciones europeas y demostrando la vigencia de su modelo formativo y de captación de talentos."
+    },
+    {
+      "ano": "2023",
+      "hito": "Protagonismo en la Conference League",
+      "desc": "El AZ Alkmaar ratificó su prestigio en el continente al alcanzar las semifinales de la UEFA Europa Conference League en la temporada 2022-2023. Dirigidos por Pascal Jansen y sustentados por otra prolífica generación de su academia, con figuras como Tijjani Reijnders y el goleador Vangelis Pavlidis, el equipo holandés superó complejas eliminatorias contra rivales de jerarquía como la Lazio y el Anderlecht. La campaña reafirmó el estatus del club como un competidor temible a nivel europeo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "AFAS Stadion",
+      "capacidad": "19.478",
+      "inauguracion": "4 de agosto de 2006",
+      "url": "https://www.google.com/maps/place/AFAS+Stadion/@52.6125032,4.7410251,17z/data=!3m1!4b1!4m6!3m5!1s0x47c600155b1f8ebf:0x65dc7f6e2ad105ed!8m2!3d52.6125032!4d4.7436!16zL20vMGI5eHEx",
+      "direccion": "Stadionweg 1, 1812 AZ Alkmaar, Países Bajos",
+      "descripcion": "El templo moderno del club. Originalmente inaugurado bajo el nombre de DSB Stadion por cuestiones comerciales. En 2019 sobrevivió a un insólito colapso estructural parcial de su techo debido a vientos huracanados, lo que forzó al equipo a jugar fuera de casa durante meses mientras se reconstruía la cubierta de forma más segura.",
+      "lat": 52.6125,
+      "lng": 4.7436,
+      "epoca": "2006 - Presente"
+    },
+    {
+      "nombre": "Alkmaarderhout",
+      "capacidad": "8.900",
+      "inauguracion": "1948",
+      "url": "https://www.google.com/maps/place/Alkmaarderhout,+Alkmaar,+Pa%C3%ADses+Bajos/@52.623101,4.735626,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6002f5a8c2d51:0xaab4564c8d5ea4b!8m2!3d52.623101!4d4.7378147",
+      "direccion": "Sportlaan 1, Alkmaar, Países Bajos",
+      "descripcion": "El histórico, mítico e intimidante estadio incrustado en medio de un denso parque forestal. Conocido popularmente como 'De Hout', sus gradas estaban literalmente pegadas al césped, creando una atmósfera asfixiante para los rivales. Fue el hogar del histórico equipo campeón de 1981 antes de ser demolido tras la mudanza al nuevo recinto.",
+      "lat": 52.623101,
+      "lng": 4.735626,
+      "epoca": "1948 - 2006"
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1967,
+      "hasta": null,
+      "c1": "#e3000f",
+      "c2": "#e3000f",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "liso",
+      "desc": "Tras la fusión fundacional en 1967, el club descartó las tramas o rayas de sus clubes predecesores y adoptó los colores puros del escudo heráldico de la ciudad de Alkmaar: una agresiva camiseta lisa íntegramente roja, combinada rígidamente con pantalones y medias de color blanco inmaculado. Esta estética sólida y sin franjas se ha mantenido inalterable como el estandarte de los 'Cabezas de Queso'."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Kees Kist",
+      "pos": "Delantero",
+      "desc": "Centrodelantero que se erigió como el primer jugador de un club neerlandés en obtener la Bota de Oro europea en 1979 tras anotar 34 goles. Su contundencia frente al arco fue vital para el histórico título de 1981.",
+      "epoca": "1972-1982",
+      "apodo": "El Cañón de Alkmaar",
+      "goles": "259",
+      "partidos": "446"
+    },
+    {
+      "nombre": "Barry van Galen",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ofensivo de gran visión de juego que disputó gran parte de su carrera en la institución. Lideró la transición del club hacia la modernidad, aportando creatividad y carácter en el centro del campo.",
+      "epoca": "1997-2006",
+      "apodo": "De Geniale Gek",
+      "goles": "82",
+      "partidos": "324"
+    },
+    {
+      "nombre": "Kristen Nygaard",
+      "pos": "Mediocampista",
+      "desc": "El exquisito cerebro danés que dirigió la orquesta del equipo campeón de 1981. Su clase para asistir y organizar el juego elevó al equipo a la cima del fútbol nacional y europeo.",
+      "epoca": "1973-1982",
+      "apodo": "El Maestro Danés",
+      "goles": "104",
+      "partidos": "363"
+    },
+    {
+      "nombre": "John Bosman",
+      "pos": "Delantero",
+      "desc": "Atacante de enorme jerarquía en el juego aéreo. Aportó cuotas de gol y madurez en la etapa de transición institucional hacia la modernidad.",
+      "epoca": "1999-2002",
+      "apodo": "Bossie",
+      "goles": "42",
+      "partidos": "95"
+    },
+    {
+      "nombre": "Ron Vlaar",
+      "pos": "Defensor",
+      "desc": "Apodado 'Ron Beton' por su inquebrantable firmeza física. Tras formarse en el club y brillar en la selección, regresó como el gran caudillo para guiar a las nuevas generaciones.",
+      "epoca": "2004-2006 / 2015-2021",
+      "apodo": "Ron Beton",
+      "goles": "8",
+      "partidos": "136"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Kees Kist",
+      "goles": "259",
+      "partidos": "446",
+      "epoca": "1972-1982",
+      "apodo": "El Cañón de Alkmaar"
+    },
+    {
+      "nombre": "Kristen Nygaard",
+      "goles": "104",
+      "partidos": "363",
+      "epoca": "1973-1982",
+      "apodo": "El Maestro Danés"
+    },
+    {
+      "nombre": "Shota Arveladze",
+      "goles": "48",
+      "partidos": "89",
+      "epoca": "2005-2007",
+      "apodo": "Shota"
+    },
+    {
+      "nombre": "Vangelis Pavlidis",
+      "goles": "80",
+      "partidos": "137",
+      "epoca": "2021-2024",
+      "apodo": "Vangol"
+    },
+    {
+      "nombre": "Mounir El Hamdaoui",
+      "goles": "50",
+      "partidos": "80",
+      "epoca": "2007-2010",
+      "apodo": "El Mago"
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Kees Kist",
+      "partidos": "446",
+      "epoca": "1972-1982",
+      "apodo": "El Cañón de Alkmaar",
+      "goles": "259"
+    },
+    {
+      "nombre": "Michael Buskermolen",
+      "partidos": "406",
+      "epoca": "1990-2006",
+      "apodo": "Mister AZ",
+      "goles": "54"
+    },
+    {
+      "nombre": "Barry Opdam",
+      "partidos": "386",
+      "epoca": "1996-2008",
+      "apodo": "Barry",
+      "goles": "18"
+    },
+    {
+      "nombre": "Kristen Nygaard",
+      "partidos": "363",
+      "epoca": "1973-1982",
+      "apodo": "El Maestro Danés",
+      "goles": "104"
+    },
+    {
+      "nombre": "Barry van Galen",
+      "partidos": "324",
+      "epoca": "1997-2006",
+      "apodo": "De Geniale Gek",
+      "goles": "82"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Eredivisie",
+      "cantidad": 2,
+      "anios": [
+        "1980-81",
+        "2008-09"
+      ]
+    },
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 4,
+      "anios": [
+        "1977-78",
+        "1980-81",
+        "1981-82",
+        "2012-13"
+      ]
+    },
+    {
+      "nombre": "Johan Cruyff Shield",
+      "cantidad": 1,
+      "anios": [
+        "2009"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1967-1980",
+      "url": "/escudos/paises_bajos/az-alkmaar/AZ_Alkmaar_1967-1980.svg"
+    },
+    {
+      "ano": "1967-1980",
+      "url": "/escudos/paises_bajos/az-alkmaar/AZ_Alkmaar_1967-1980.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/az-alkmaar/AZ_lo1980-actual.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Cabezas de Queso (De Kaaskoppen)",
+      "origen": "El apodo deriva directamente de la centenaria tradición comercial de la ciudad de Alkmaar, famosa mundialmente por albergar uno de los mercados de queso más antiguos e importantes de Europa desde el siglo XIV. A los habitantes locales (y por extensión a los hinchas y jugadores del club) se los denomina popularmente como 'Kaaskoppen', un término que los seguidores del AZ han adoptado con orgullo como su principal identidad deportiva y cultural."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 114,
+      "g": 28,
+      "e": 22,
+      "p": 64,
+      "gf": 138,
+      "gc": 243
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 48,
+      "g": 20,
+      "e": 16,
+      "p": 12
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 104,
+      "g": 28,
+      "e": 23,
+      "p": 53
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 52,
+      "g": 25,
+      "e": 15,
+      "p": 12
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 72,
+      "g": 33,
+      "e": 19,
+      "p": 20
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 84,
+      "g": 38,
+      "e": 23,
+      "p": 23
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 69,
+      "g": 30,
+      "e": 14,
+      "p": 25
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 33,
+      "e": 6,
+      "p": 7
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 96,
+      "g": 44,
+      "e": 23,
+      "p": 29
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 88,
+      "g": 38,
+      "e": 28,
+      "p": 22
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 46,
+      "g": 24,
+      "e": 13,
+      "p": 9
+    },
+    {
+      "equipo": "PSV",
+      "pj": 98,
+      "g": 24,
+      "e": 18,
+      "p": 56
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 78,
+      "g": 38,
+      "e": 20,
+      "p": 20
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 34,
+      "g": 18,
+      "e": 10,
+      "p": 6
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 96,
+      "g": 33,
+      "e": 23,
+      "p": 40
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 96,
+      "g": 41,
+      "e": 18,
+      "p": 37
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 58,
+      "g": 28,
+      "e": 18,
+      "p": 12
+    }
+  ]
 }

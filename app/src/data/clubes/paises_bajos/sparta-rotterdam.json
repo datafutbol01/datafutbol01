@@ -1,407 +1,407 @@
 {
-    "id": "sparta-rotterdam",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "sparta róterdam"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Sparta Rotterdam",
-        "sigla": "",
-        "fundacion": "1 de abril de 1888",
-        "apodo": "Los Señores del Castillo (De Kasteelheren)",
-        "estadio_actual": "Sparta Stadion Het Kasteel",
-        "estadio_apodo": "El Castillo",
-        "estadio_capacidad": 11026,
-        "estadio_inauguracion": "14 de octubre de 1916",
-        "estadio_lat": 51.9194,
-        "estadio_lng": 4.4336,
-        "estadio_direccion": "Spartapark-Noord 1, 3027 VW Rotterdam, Países Bajos",
-        "socios": 12000,
-        "descripcion_corta": "El Decano absoluto del fútbol profesional neerlandés. Fundado en el siglo XIX, es dueño de una rica herencia aristocrática y poseedor del mítico estadio con forma de castillo.",
-        "paleta": [
-            {
-                "tag": "Rojo",
-                "hex": "#e30613"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#ffffff"
-            },
-            {
-                "tag": "Negro",
-                "hex": "#000000"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Tonny van Ede (132 goles)",
-            "mas_presencias": "Pim Doesburg (471 partidos)",
-            "mayor_goleada": "9-0 vs Fortuna Vlaardingen (Eredivisie 1957/58)"
-        },
-        "nombre_oficial": "Sparta Rotterdam",
-        "nombre_corto": "Sparta Rotterdam",
-        "escudo_actual": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo2013-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1888",
-            "hito": "El Pionero del Fútbol Neerlandés",
-            "desc": "El Sparta Rotterdam fue fundado el 1 de abril de 1888, lo que lo acredita oficialmente como el club de fútbol profesional más antiguo de los Países Bajos. Su origen es fascinante: nació en el jardín de la casa de la familia Harteveld Hoos, ubicada en el Oostvestplein 11 de Róterdam. Allí se reunieron ocho niños de entre 13 y 16 años (entre ellos J. Harteveld Hoos, H.F.B. Cokart y H.C. Dupont) para crear inicialmente un club de críquet. Sin embargo, poco después, los jóvenes adoptaron el novedoso 'Association Football' tras quedar cautivados por este creciente deporte británico, convirtiéndose en el gran pionero nacional."
-        },
-        {
-            "ano": "1899",
-            "hito": "La Inspiración del Sunderland",
-            "desc": "Durante sus primeros años el equipo vistió diferentes atuendos, pero en 1899, un directivo viajó a Inglaterra y quedó fascinado con el diseño del Sunderland AFC. Compró un juego de camisetas descartadas y el club adoptó definitivamente el diseño a rayas verticales rojas y blancas con pantalones negros, identidad que perdura hasta hoy."
-        },
-        {
-            "ano": "1909",
-            "hito": "La Primera Hegemonía (Bok de Korver)",
-            "desc": "Bajo el liderazgo de su primera gran leyenda y capitán, Bok de Korver, el Sparta se convirtió en la potencia dominante del fútbol neerlandés amateur. Entre 1909 y 1915, los 'Señores del Castillo' conquistaron cinco títulos nacionales, aplastando a cualquier rival regional y estableciendo la grandeza institucional del club."
-        },
-        {
-            "ano": "1959",
-            "hito": "El Gran Campeonato Profesional",
-            "desc": "Ya en la era del profesionalismo y bajo la denominación de Eredivisie, el club alcanzó su cima moderna en la temporada 1958-1959. Dirigidos por el estratega británico Denis Neville y con figuras como Tinus Bosselaar, el equipo desplegó un fútbol letal para coronarse campeón absoluto por sexta y última vez en su historia."
-        },
-        {
-            "ano": "1999",
-            "hito": "La Renovación del Castillo",
-            "desc": "Ante la necesidad de modernización, el club reconstruyó su histórico recinto. Fiel a su enorme tradición, el Sparta decidió no mudarse y remodeló completamente el campo (incluso girando el terreno de juego), pero preservó intacta la legendaria grada central con sus dos torreones medievales, declarada patrimonio nacional."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Sparta Stadion Het Kasteel",
-            "capacidad": 11026,
-            "desde": "14 de octubre de 1916",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Sparta-Stadion+Het+Kasteel/@51.9194444,4.4310556,17z/",
-            "direccion": "Spartapark-Noord 1, 3027 VW Rotterdam, Países Bajos",
-            "obs": "Una auténtica reliquia de la historia arquitectónica del fútbol mundial. Conocido simplemente como 'El Castillo', este estadio se levanta sobre Róterdam exhibiendo su famosa grada principal con dos pequeñas torres almenadas construidas en ladrillo (preservadas como patrimonio nacional).",
-            "lat": 51.9194,
-            "lng": 4.4336
-        },
-        {
-            "nombre": "Schuttersveld (Crooswijk)",
-            "capacidad": "Terreno Amateur",
-            "desde": "1893",
-            "hasta": "1916",
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/place/Crooswijk,+Rotterdam,+Pa%C3%ADses+Bajos/@51.933333,4.494444,15z",
-            "direccion": "Crooswijk, Róterdam, Países Bajos",
-            "obs": "Antes de la construcción de su fortaleza medieval, el Sparta deambuló por el Schuttersveld, donde la alta burguesía acudía a ver los primeros atisbos del fútbol federado.",
-            "lat": 51.9333,
-            "lng": 4.4944
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1888,
-            "hasta": 1899,
-            "c1": "#ffffff",
-            "c2": "#ffffff",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "liso",
-            "desc": "Al ser el club más antiguo del país (fundado originalmente como equipo de críquet en 1888), durante su primera década de existencia los pioneros del Sparta no contaban con un uniforme estandarizado, utilizando simplemente camisas claras y pantalones oscuros para competir en los albores del fútbol."
-        },
-        {
-            "desde": 1899,
-            "hasta": null,
-            "c1": "#e30613",
-            "c2": "#ffffff",
-            "sh": "#000000",
-            "me": "#000000",
-            "tipo": "rayas-verticales",
-            "desc": "En 1899, un directivo del Sparta viajó a Inglaterra y compró un juego de camisetas descartadas del Sunderland AFC. Quedaron tan fascinados con el diseño que instauraron oficialmente las franjas verticales rojas y blancas, con pantalón negro. Esta indumentaria fue la pionera absoluta en los Países Bajos e irónicamente fue la misma que copió el Ajax años después (obligando a este último a rediseñar su camiseta para no chocar visualmente con los Señores del Castillo)."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Bok de Korver",
-            "pos": "Defensor",
-            "desc": "Defensor y mediocampista que capitaneó al equipo durante sus primeras décadas de existencia. Es considerado la primera gran figura histórica del club, liderando al grupo en la obtención de múltiples ligas a inicios del siglo XX.",
-            "epoca": "1902-1923",
-            "apodo": "Bok",
-            "goles": "0",
-            "partidos": "0"
-        },
-        {
-            "nombre": "Tonny van Ede",
-            "pos": "Extremo",
-            "desc": "Atacante caracterizado por su movilidad y olfato goleador. Representó al club ininterrumpidamente durante quince años, superando las 400 presencias oficiales y alzando el trofeo de liga y copa nacional.",
-            "epoca": "1947-1963",
-            "apodo": "Tonny",
-            "goles": "132",
-            "partidos": "455"
-        },
-        {
-            "nombre": "Pim Doesburg",
-            "pos": "Arquero",
-            "desc": "Leyenda bajo palos. Registró el récord absoluto de partidos disputados en la historia de la Eredivisie, gran parte de ellos defendiendo el histórico estadio de Het Kasteel.",
-            "epoca": "1962-1967 / 1970-1980",
-            "apodo": "Pim",
-            "goles": "0",
-            "partidos": "471"
-        },
-        {
-            "nombre": "Tinus Bosselaar",
-            "pos": "Extremo Izquierdo",
-            "desc": "Puntero izquierdo rapidísimo y letal. Jugó gran parte de su carrera en el club durante la época dorada de los cincuenta y fue pieza clave para la conquista del histórico campeonato de liga en 1959.",
-            "epoca": "1954-1966",
-            "apodo": "Tinus",
-            "goles": "50",
-            "partidos": "246"
-        },
-        {
-            "nombre": "Danny Blind",
-            "pos": "Defensor",
-            "desc": "Elegante y técnico defensor. Antes de convertirse en una leyenda absoluta del Ajax y levantar la Liga de Campeones, se formó y debutó profesionalmente en el Sparta, donde jugó al máximo nivel durante siete temporadas.",
-            "epoca": "1979-1986",
-            "apodo": "Danny",
-            "goles": "18",
-            "partidos": "165"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Tonny van Ede",
-            "goles": "132",
-            "partidos": "420",
-            "epoca": "1947-1963",
-            "apodo": "Tonny"
-        },
-        {
-            "nombre": "Ruud Geels",
-            "goles": "74",
-            "partidos": "88",
-            "epoca": "1977-1979 / 1981-1982",
-            "apodo": "La Máquina de Goles"
-        },
-        {
-            "nombre": "Piet de Visser",
-            "goles": "57",
-            "partidos": "128",
-            "epoca": "1957-1963",
-            "apodo": ""
-        },
-        {
-            "nombre": "Rik Coppens",
-            "goles": "55",
-            "partidos": "85",
-            "epoca": "1959-1962",
-            "apodo": ""
-        },
-        {
-            "nombre": "Aris de Bruijn",
-            "goles": "53",
-            "partidos": "150",
-            "epoca": "1932-1941",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Pim Doesburg",
-            "partidos": "471",
-            "epoca": "1962-1980",
-            "apodo": "Pim",
-            "goles": "0"
-        },
-        {
-            "nombre": "Tonny van Ede",
-            "partidos": "455",
-            "epoca": "1947-1963",
-            "apodo": "Tonny",
-            "goles": "132"
-        },
-        {
-            "nombre": "Gerrie ter Horst",
-            "partidos": "413",
-            "epoca": "1950-1965",
-            "apodo": "Gerrie",
-            "goles": "0"
-        },
-        {
-            "nombre": "Ron van den Berg",
-            "partidos": "371",
-            "epoca": "1970-1985",
-            "apodo": "Ron",
-            "goles": "0"
-        },
-        {
-            "nombre": "Hans Eijkenbroek",
-            "partidos": "357",
-            "epoca": "1960-1975",
-            "apodo": "Hans",
-            "goles": "0"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Eredivisie / Campeonato de los Países Bajos",
-            "cantidad": 6,
-            "anios": [
-                "1908-09",
-                "1910-11",
-                "1911-12",
-                "1912-13",
-                "1914-15",
-                "1958-59"
-            ]
-        },
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 3,
-            "anios": [
-                "1957-58",
-                "1961-62",
-                "1965-66"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1888-2013",
-            "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo1888-2013.svg"
-        },
-        {
-            "ano": "2013",
-            "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo_2013.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo2013-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Los Señores del Castillo (De Kasteelheren)",
-            "origen": "Se deriva directamente de la mítica arquitectura de su estadio. Al haber preservado la legendaria fachada de 1916 con dos torres almenadas de ladrillo (como un pequeño castillo medieval) y por ser el club más antiguo y aristocrático del país, la cultura popular los bautizó como los legítimos Señores del Castillo."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 124,
-            "g": 22,
-            "e": 21,
-            "p": 81
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 78,
-            "g": 20,
-            "e": 20,
-            "p": 38
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 64,
-            "g": 32,
-            "e": 14,
-            "p": 18
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 122,
-            "g": 20,
-            "e": 26,
-            "p": 76
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 62,
-            "g": 26,
-            "e": 18,
-            "p": 18
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 94,
-            "g": 42,
-            "e": 23,
-            "p": 29
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 96,
-            "g": 39,
-            "e": 29,
-            "p": 28
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 58,
-            "g": 16,
-            "e": 16,
-            "p": 26
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 18,
-            "e": 13,
-            "p": 15
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 96,
-            "g": 40,
-            "e": 23,
-            "p": 33
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 96,
-            "g": 39,
-            "e": 24,
-            "p": 33
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 52,
-            "g": 23,
-            "e": 14,
-            "p": 15
-        },
-        {
-            "equipo": "PSV",
-            "pj": 120,
-            "g": 19,
-            "e": 23,
-            "p": 78
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 52,
-            "g": 28,
-            "e": 14,
-            "p": 10
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 114,
-            "g": 33,
-            "e": 31,
-            "p": 50
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 114,
-            "g": 41,
-            "e": 26,
-            "p": 47
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 70,
-            "g": 28,
-            "e": 18,
-            "p": 24
-        }
+  "id": "sparta-rotterdam",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "sparta róterdam"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Sparta Rotterdam",
+    "sigla": "",
+    "fundacion": "1 de abril de 1888",
+    "apodo": "Los Señores del Castillo (De Kasteelheren)",
+    "estadio_actual": "Sparta Stadion Het Kasteel",
+    "estadio_apodo": "El Castillo",
+    "estadio_capacidad": 11026,
+    "estadio_inauguracion": "14 de octubre de 1916",
+    "estadio_lat": 51.9194,
+    "estadio_lng": 4.4336,
+    "estadio_direccion": "Spartapark-Noord 1, 3027 VW Rotterdam, Países Bajos",
+    "socios": 12000,
+    "descripcion_corta": "El Decano absoluto del fútbol profesional neerlandés. Fundado en el siglo XIX, es dueño de una rica herencia aristocrática y poseedor del mítico estadio con forma de castillo.",
+    "paleta": [
+      {
+        "tag": "Rojo",
+        "hex": "#e30613"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Tonny van Ede (132 goles)",
+      "mas_presencias": "Pim Doesburg (471 partidos)",
+      "mayor_goleada": "9-0 vs Fortuna Vlaardingen (Eredivisie 1957/58)"
+    },
+    "nombre_oficial": "Sparta Rotterdam",
+    "nombre_corto": "Sparta Rotterdam",
+    "escudo_actual": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo2013-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1888",
+      "hito": "El Pionero del Fútbol Neerlandés",
+      "desc": "El Sparta Rotterdam fue fundado el 1 de abril de 1888, lo que lo acredita oficialmente como el club de fútbol profesional más antiguo de los Países Bajos. Su origen es fascinante: nació en el jardín de la casa de la familia Harteveld Hoos, ubicada en el Oostvestplein 11 de Róterdam. Allí se reunieron ocho niños de entre 13 y 16 años (entre ellos J. Harteveld Hoos, H.F.B. Cokart y H.C. Dupont) para crear inicialmente un club de críquet. Sin embargo, poco después, los jóvenes adoptaron el novedoso 'Association Football' tras quedar cautivados por este creciente deporte británico, convirtiéndose en el gran pionero nacional."
+    },
+    {
+      "ano": "1899",
+      "hito": "La Inspiración del Sunderland",
+      "desc": "Durante sus primeros años el equipo vistió diferentes atuendos, pero en 1899, un directivo viajó a Inglaterra y quedó fascinado con el diseño del Sunderland AFC. Compró un juego de camisetas descartadas y el club adoptó definitivamente el diseño a rayas verticales rojas y blancas con pantalones negros, identidad que perdura hasta hoy."
+    },
+    {
+      "ano": "1909",
+      "hito": "La Primera Hegemonía (Bok de Korver)",
+      "desc": "Bajo el liderazgo de su primera gran leyenda y capitán, Bok de Korver, el Sparta se convirtió en la potencia dominante del fútbol neerlandés amateur. Entre 1909 y 1915, los 'Señores del Castillo' conquistaron cinco títulos nacionales, aplastando a cualquier rival regional y estableciendo la grandeza institucional del club."
+    },
+    {
+      "ano": "1959",
+      "hito": "El Gran Campeonato Profesional",
+      "desc": "Ya en la era del profesionalismo y bajo la denominación de Eredivisie, el club alcanzó su cima moderna en la temporada 1958-1959. Dirigidos por el estratega británico Denis Neville y con figuras como Tinus Bosselaar, el equipo desplegó un fútbol letal para coronarse campeón absoluto por sexta y última vez en su historia."
+    },
+    {
+      "ano": "1999",
+      "hito": "La Renovación del Castillo",
+      "desc": "Ante la necesidad de modernización, el club reconstruyó su histórico recinto. Fiel a su enorme tradición, el Sparta decidió no mudarse y remodeló completamente el campo (incluso girando el terreno de juego), pero preservó intacta la legendaria grada central con sus dos torreones medievales, declarada patrimonio nacional."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Sparta Stadion Het Kasteel",
+      "capacidad": 11026,
+      "desde": "14 de octubre de 1916",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Sparta-Stadion+Het+Kasteel/@51.9194444,4.4310556,17z/",
+      "direccion": "Spartapark-Noord 1, 3027 VW Rotterdam, Países Bajos",
+      "obs": "Una auténtica reliquia de la historia arquitectónica del fútbol mundial. Conocido simplemente como 'El Castillo', este estadio se levanta sobre Róterdam exhibiendo su famosa grada principal con dos pequeñas torres almenadas construidas en ladrillo (preservadas como patrimonio nacional).",
+      "lat": 51.9194,
+      "lng": 4.4336
+    },
+    {
+      "nombre": "Schuttersveld (Crooswijk)",
+      "capacidad": "Terreno Amateur",
+      "desde": "1893",
+      "hasta": "1916",
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/place/Crooswijk,+Rotterdam,+Pa%C3%ADses+Bajos/@51.933333,4.494444,15z",
+      "direccion": "Crooswijk, Róterdam, Países Bajos",
+      "obs": "Antes de la construcción de su fortaleza medieval, el Sparta deambuló por el Schuttersveld, donde la alta burguesía acudía a ver los primeros atisbos del fútbol federado.",
+      "lat": 51.9333,
+      "lng": 4.4944
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1888,
+      "hasta": 1899,
+      "c1": "#ffffff",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "liso",
+      "desc": "Al ser el club más antiguo del país (fundado originalmente como equipo de críquet en 1888), durante su primera década de existencia los pioneros del Sparta no contaban con un uniforme estandarizado, utilizando simplemente camisas claras y pantalones oscuros para competir en los albores del fútbol."
+    },
+    {
+      "desde": 1899,
+      "hasta": null,
+      "c1": "#e30613",
+      "c2": "#ffffff",
+      "sh": "#000000",
+      "me": "#000000",
+      "tipo": "rayas-verticales",
+      "desc": "En 1899, un directivo del Sparta viajó a Inglaterra y compró un juego de camisetas descartadas del Sunderland AFC. Quedaron tan fascinados con el diseño que instauraron oficialmente las franjas verticales rojas y blancas, con pantalón negro. Esta indumentaria fue la pionera absoluta en los Países Bajos e irónicamente fue la misma que copió el Ajax años después (obligando a este último a rediseñar su camiseta para no chocar visualmente con los Señores del Castillo)."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Bok de Korver",
+      "pos": "Defensor",
+      "desc": "Defensor y mediocampista que capitaneó al equipo durante sus primeras décadas de existencia. Es considerado la primera gran figura histórica del club, liderando al grupo en la obtención de múltiples ligas a inicios del siglo XX.",
+      "epoca": "1902-1923",
+      "apodo": "Bok",
+      "goles": "0",
+      "partidos": "0"
+    },
+    {
+      "nombre": "Tonny van Ede",
+      "pos": "Extremo",
+      "desc": "Atacante caracterizado por su movilidad y olfato goleador. Representó al club ininterrumpidamente durante quince años, superando las 400 presencias oficiales y alzando el trofeo de liga y copa nacional.",
+      "epoca": "1947-1963",
+      "apodo": "Tonny",
+      "goles": "132",
+      "partidos": "455"
+    },
+    {
+      "nombre": "Pim Doesburg",
+      "pos": "Arquero",
+      "desc": "Leyenda bajo palos. Registró el récord absoluto de partidos disputados en la historia de la Eredivisie, gran parte de ellos defendiendo el histórico estadio de Het Kasteel.",
+      "epoca": "1962-1967 / 1970-1980",
+      "apodo": "Pim",
+      "goles": "0",
+      "partidos": "471"
+    },
+    {
+      "nombre": "Tinus Bosselaar",
+      "pos": "Extremo Izquierdo",
+      "desc": "Puntero izquierdo rapidísimo y letal. Jugó gran parte de su carrera en el club durante la época dorada de los cincuenta y fue pieza clave para la conquista del histórico campeonato de liga en 1959.",
+      "epoca": "1954-1966",
+      "apodo": "Tinus",
+      "goles": "50",
+      "partidos": "246"
+    },
+    {
+      "nombre": "Danny Blind",
+      "pos": "Defensor",
+      "desc": "Elegante y técnico defensor. Antes de convertirse en una leyenda absoluta del Ajax y levantar la Liga de Campeones, se formó y debutó profesionalmente en el Sparta, donde jugó al máximo nivel durante siete temporadas.",
+      "epoca": "1979-1986",
+      "apodo": "Danny",
+      "goles": "18",
+      "partidos": "165"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Tonny van Ede",
+      "goles": "132",
+      "partidos": "420",
+      "epoca": "1947-1963",
+      "apodo": "Tonny"
+    },
+    {
+      "nombre": "Ruud Geels",
+      "goles": "74",
+      "partidos": "88",
+      "epoca": "1977-1979 / 1981-1982",
+      "apodo": "La Máquina de Goles"
+    },
+    {
+      "nombre": "Piet de Visser",
+      "goles": "57",
+      "partidos": "128",
+      "epoca": "1957-1963",
+      "apodo": ""
+    },
+    {
+      "nombre": "Rik Coppens",
+      "goles": "55",
+      "partidos": "85",
+      "epoca": "1959-1962",
+      "apodo": ""
+    },
+    {
+      "nombre": "Aris de Bruijn",
+      "goles": "53",
+      "partidos": "150",
+      "epoca": "1932-1941",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Pim Doesburg",
+      "partidos": "471",
+      "epoca": "1962-1980",
+      "apodo": "Pim",
+      "goles": "0"
+    },
+    {
+      "nombre": "Tonny van Ede",
+      "partidos": "455",
+      "epoca": "1947-1963",
+      "apodo": "Tonny",
+      "goles": "132"
+    },
+    {
+      "nombre": "Gerrie ter Horst",
+      "partidos": "413",
+      "epoca": "1950-1965",
+      "apodo": "Gerrie",
+      "goles": "0"
+    },
+    {
+      "nombre": "Ron van den Berg",
+      "partidos": "371",
+      "epoca": "1970-1985",
+      "apodo": "Ron",
+      "goles": "0"
+    },
+    {
+      "nombre": "Hans Eijkenbroek",
+      "partidos": "357",
+      "epoca": "1960-1975",
+      "apodo": "Hans",
+      "goles": "0"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Eredivisie / Campeonato de los Países Bajos",
+      "cantidad": 6,
+      "anios": [
+        "1908-09",
+        "1910-11",
+        "1911-12",
+        "1912-13",
+        "1914-15",
+        "1958-59"
+      ]
+    },
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 3,
+      "anios": [
+        "1957-58",
+        "1961-62",
+        "1965-66"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1888-2013",
+      "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo1888-2013.svg"
+    },
+    {
+      "ano": "2013",
+      "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo_2013.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/sparta-rotterdam/Sparta_Rotterdam_logo2013-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Señores del Castillo (De Kasteelheren)",
+      "origen": "Se deriva directamente de la mítica arquitectura de su estadio. Al haber preservado la legendaria fachada de 1916 con dos torres almenadas de ladrillo (como un pequeño castillo medieval) y por ser el club más antiguo y aristocrático del país, la cultura popular los bautizó como los legítimos Señores del Castillo."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 124,
+      "g": 22,
+      "e": 21,
+      "p": 81
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 78,
+      "g": 20,
+      "e": 20,
+      "p": 38
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 64,
+      "g": 32,
+      "e": 14,
+      "p": 18
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 122,
+      "g": 20,
+      "e": 26,
+      "p": 76
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 62,
+      "g": 26,
+      "e": 18,
+      "p": 18
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 94,
+      "g": 42,
+      "e": 23,
+      "p": 29
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 96,
+      "g": 39,
+      "e": 29,
+      "p": 28
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 58,
+      "g": 16,
+      "e": 16,
+      "p": 26
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 18,
+      "e": 13,
+      "p": 15
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 96,
+      "g": 40,
+      "e": 23,
+      "p": 33
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 96,
+      "g": 39,
+      "e": 24,
+      "p": 33
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 52,
+      "g": 23,
+      "e": 14,
+      "p": 15
+    },
+    {
+      "equipo": "PSV",
+      "pj": 120,
+      "g": 19,
+      "e": 23,
+      "p": 78
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 52,
+      "g": 28,
+      "e": 14,
+      "p": 10
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 114,
+      "g": 33,
+      "e": 31,
+      "p": 50
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 114,
+      "g": 41,
+      "e": 26,
+      "p": 47
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 70,
+      "g": 28,
+      "e": 18,
+      "p": 24
+    }
+  ]
 }

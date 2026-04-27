@@ -1,412 +1,412 @@
 {
-    "id": "heracles-almelo",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "heracles almelo"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Heracles Almelo",
-        "sigla": "",
-        "fundacion": "3 de mayo de 1903",
-        "apodo": "Heraclianos (Heraclieden)",
-        "estadio_actual": "Asito Stadion (Erve Asito)",
-        "estadio_apodo": "Polman Stadion",
-        "estadio_capacidad": 12080,
-        "estadio_inauguracion": "10 de septiembre de 1999",
-        "estadio_lat": 52.3361,
-        "estadio_lng": 6.6433,
-        "estadio_direccion": "Stadionlaan 1, 7606 JZ Almelo, Países Bajos",
-        "socios": 6500,
-        "descripcion_corta": "Un club rústico y perseverante de la región de Twente, bautizado en honor al semidiós griego y dueño de dos históricos campeonatos nacionales.",
-        "paleta": [
-            {
-                "tag": "Blanco",
-                "hex": "#ffffff"
-            },
-            {
-                "tag": "Negro",
-                "hex": "#000000"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Everton (70 goles)",
-            "mas_presencias": "Kwame Quansah (240 partidos)",
-            "mayor_goleada": "7-0 vs VVV-Venlo (Eredivisie 2011/12)"
-        },
-        "nombre_oficial": "Heracles Almelo",
-        "nombre_corto": "Heracles Almelo",
-        "escudo_actual": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo2015-actual.svg"
-    },
-    "historia": [
-        {
-            "ano": "1903",
-            "hito": "Fundación, Fusión y Herencia Mitológica",
-            "desc": "El Heracles Almelo nació formalmente el 3 de mayo de 1903, originado por la ambiciosa fusión de dos modestos equipos vecinales de la ciudad: el 'Hollandia' y el 'Inartie'. El Hollandia había sido fundado apenas un año antes en la primavera de 1902 por los pioneros Derk Kortenvoort y Gait Reuvekamp, quienes fueron piezas fundamentales en la unificación. En la asamblea fundacional, los directivos decidieron bautizar al nuevo club en honor al semidiós grecorromano Hércules (Heracles en griego), buscando que el equipo representara los valores de fuerza bruta, resistencia y la ética de trabajo inquebrantable que caracterizaba a los obreros de la potente industria textil de Almelo."
-        },
-        {
-            "ano": "1927",
-            "hito": "El Primer Campeonato Nacional",
-            "desc": "Durante la rica etapa del fútbol aficionado previa a la creación de la Eredivisie profesional, el club logró armar una escuadra formidable que dominó la liga regional oriental. Tras adjudicarse su zona, el equipo avanzó a la ronda de campeonato nacional, donde deslumbró al país entero y logró coronarse como campeón absoluto de los Países Bajos en la histórica temporada 1926-1927. Esta monumental conquista escribió la página más gloriosa de sus primeros años y lo posicionó como la principal potencia futbolística de la región de Twente por encima de sus rivales vecinos."
-        },
-        {
-            "ano": "1941",
-            "hito": "La Segunda Corona en Tiempos de Guerra",
-            "desc": "Catorce años después de tocar el cielo con las manos, el equipo volvió a demostrar su estirpe ganadora en el contexto más oscuro y adverso posible. En plena ocupación durante la Segunda Guerra Mundial, enfrentando inmensas dificultades logísticas, toques de queda y escasez de recursos, el Heracles mantuvo su espíritu competitivo intacto. En la campaña de 1941, el plantel superó a todos sus adversarios y conquistó su segundo título nacional, logrando una gesta heroica que sirvió como un vital símbolo de esperanza y resiliencia para toda la castigada población de Almelo."
-        },
-        {
-            "ano": "2012",
-            "hito": "El Gran Subcampeonato de la Copa KNVB",
-            "desc": "Tras décadas transitando por el ascensor entre la primera y segunda división, el club vivió un renacimiento institucional en el siglo XXI. El punto culminante de esta resurrección moderna ocurrió en la temporada 2011-2012, cuando el equipo alcanzó por primera vez en su dilatada historia la gran final de la Copa de los Países Bajos (KNVB Beker). El decisivo encuentro se disputó en el mítico estadio De Kuip de Róterdam. Aunque cayeron derrotados por 3-0 ante el poderoso PSV Eindhoven, la campaña desató una peregrinación sin precedentes de miles de hinchas 'Heraclieden' y reafirmó el estatus del club en la máxima categoría."
-        },
-        {
-            "ano": "2016",
-            "hito": "El Inédito Debut en el Continente Europeo",
-            "desc": "Bajo una gestión directiva brillante, modesta y financieramente impecable, el equipo completó la mejor temporada de su historia contemporánea. Tras finalizar en una asombrosa sexta posición en la tabla general de la Eredivisie 2015-2016, el Heracles debió disputar los exigentes playoffs por un boleto internacional. Conquistaron el objetivo, logrando una clasificación histórica a la tercera ronda previa de la UEFA Europa League. Este hito marcó el debut absoluto del club en competiciones continentales oficiales, enfrentándose en una llave muy reñida al FC Arouca de Portugal y llevando el nombre de Almelo por primera vez al mapa futbolístico europeo."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Asito Stadion",
-            "capacidad": 12080,
-            "desde": "10 de septiembre de 1999",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Erve+Asito/@52.3361,6.6411,17z",
-            "direccion": "Stadionlaan 1, Almelo",
-            "obs": "Conocido históricamente como 'Polman Stadion'. Fue pionero absoluto en los Países Bajos al ser el primer estadio del fútbol profesional en instalar césped sintético en 2003, buscando reducir costos y generar una ventaja competitiva de local (Inaugurado el 10 de septiembre de 1999).",
-            "lat": 52.3361,
-            "lng": 6.6411
-        },
-        {
-            "nombre": "Gemeentelijk Sportpark Bornsestraat",
-            "capacidad": "20.000",
-            "desde": 1913,
-            "hasta": 1999,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/search/Bornsestraat+Almelo/",
-            "direccion": "Bornsestraat, Almelo",
-            "obs": "La mítica casa del club durante la mayor parte de su historia y testigo directo de sus dos campeonatos nacionales. El equipo jugó ininterrumpidamente en este recinto de estilo inglés durante 86 años hasta su demolición a fines del siglo XX.",
-            "lat": 52.345,
-            "lng": 6.662
-        },
-        {
-            "nombre": "Terrein Erve Bonthuis",
-            "capacidad": "Terreno Abierto",
-            "desde": 1909,
-            "hasta": 1913,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/search/Erve+Bonthuis+Almelo/",
-            "direccion": "Erve Bonthuis, Almelo",
-            "obs": "El segundo predio de la institución, donde el club se mudó en el año 1909. Sirvió de campo de juego durante cuatro temporadas cruciales en las que el Heracles estructuró su identidad competitiva temprana antes de pasar al Bornsestraat.",
-            "lat": 52.35,
-            "lng": 6.65
-        },
-        {
-            "nombre": "Terrein Hammink",
-            "capacidad": "Campo Vecinal",
-            "desde": 1903,
-            "hasta": 1909,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/search/Almelo/",
-            "direccion": "Almelo, Países Bajos",
-            "obs": "El predio original del club justo después de la asamblea fundacional en 1903. El terreno pertenecía previamente al Hollandia (uno de los dos clubes que se fusionó para crear al Heracles) y funcionó como primera casa deportiva hasta 1909.",
-            "lat": 52.355,
-            "lng": 6.655
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1903,
-            "hasta": null,
-            "c1": "#ffffff",
-            "c2": "#000000",
-            "sh": "#000000",
-            "me": "#ffffff",
-            "tipo": "rayas-verticales",
-            "desc": "Desde el primer día de su fundación, la indumentaria heracliana es icónica, austera e inalterable: gruesas franjas verticales blancas y negras. Un diseño de líneas sobrias que denota la herencia obrera de la región textil de Twente, sin recurrir a colores extravagantes."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Kwame Quansah",
-            "pos": "Mediocampista",
-            "desc": "Mediocampista ghanés de vasta trayectoria institucional. Acumuló 240 presencias ligueras, ejerciendo ininterrumpidamente el rol de capitán y equilibrio táctico durante más de una década.",
-            "epoca": "2004-2014",
-            "apodo": "El Capitán",
-            "goles": "7",
-            "partidos": "240"
-        },
-        {
-            "nombre": "Everton Ramos da Silva",
-            "pos": "Delantero",
-            "desc": "Centrodelantero brasileño que figura como el máximo goleador histórico del club en la era Eredivisie profesional. Sus 70 anotaciones fueron vitales para mantener al equipo en la máxima división.",
-            "epoca": "2006-2013",
-            "apodo": "Everton",
-            "goles": "70",
-            "partidos": "218"
-        },
-        {
-            "nombre": "Mark-Jan Fledderus",
-            "pos": "Mediocampista",
-            "desc": "Centrocampista con una pegada prodigiosa. Fue el motor anímico y futbolístico del mediocampo durante ocho años, anotando goles decisivos gracias a sus tiros libres y remates de larga distancia.",
-            "epoca": "2008-2016",
-            "apodo": "",
-            "goles": "15",
-            "partidos": "200"
-        },
-        {
-            "nombre": "Bas Dost",
-            "pos": "Delantero",
-            "desc": "Centrodelantero de físico imponente que se dio a conocer nacionalmente en este club, registrando 18 goles clave en 73 partidos antes de continuar su prolífica carrera internacional.",
-            "epoca": "2008-2010",
-            "apodo": "",
-            "goles": "18",
-            "partidos": "73"
-        },
-        {
-            "nombre": "Wout Weghorst",
-            "pos": "Delantero",
-            "desc": "Atacante corpulento y pasional. Exhibió una capacidad atlética deslumbrante, dejando una huella imborrable con su entrega total en la zona ofensiva y su eficacia goleadora.",
-            "epoca": "2014-2016",
-            "apodo": "",
-            "goles": "20",
-            "partidos": "64"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Everton",
-            "goles": "70",
-            "partidos": "218",
-            "epoca": "2006-2013",
-            "apodo": ""
-        },
-        {
-            "nombre": "Willy Brokamp",
-            "goles": "35",
-            "partidos": "90",
-            "epoca": "1970-1974",
-            "apodo": ""
-        },
-        {
-            "nombre": "Wout Weghorst",
-            "goles": "20",
-            "partidos": "64",
-            "epoca": "2014-2016",
-            "apodo": ""
-        },
-        {
-            "nombre": "Rai Vloet",
-            "goles": "16",
-            "partidos": "46",
-            "epoca": "2020-2022",
-            "apodo": ""
-        },
-        {
-            "nombre": "Cyriel Dessers",
-            "goles": "15",
-            "partidos": "26",
-            "epoca": "2019-2020",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Kwame Quansah",
-            "partidos": "240",
-            "epoca": "2004-2014",
-            "apodo": "El Capitán",
-            "goles": "7"
-        },
-        {
-            "nombre": "Everton",
-            "partidos": "218",
-            "epoca": "2006-2013",
-            "apodo": "",
-            "goles": "70"
-        },
-        {
-            "nombre": "Mark-Jan Fledderus",
-            "partidos": "200",
-            "epoca": "2008-2016",
-            "apodo": "",
-            "goles": "15"
-        },
-        {
-            "nombre": "Remko Pasveer",
-            "partidos": "190",
-            "epoca": "2006-2014",
-            "apodo": "",
-            "goles": "0"
-        },
-        {
-            "nombre": "Tim Breukers",
-            "partidos": "185",
-            "epoca": "2007-2020",
-            "apodo": "",
-            "goles": "2"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Campeonato Nacional Neerlandés",
-            "cantidad": 2,
-            "anios": [
-                "1926-27",
-                "1940-41"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1903-1960",
-            "url": "/escudos/paises_bajos/heracles-almelo/AVC_Heracles_1903-1960.webp"
-        },
-        {
-            "ano": "1960-1974",
-            "url": "/escudos/paises_bajos/heracles-almelo/AVC_Heracles_1960-1974.svg"
-        },
-        {
-            "ano": "1974-1998",
-            "url": "/escudos/paises_bajos/heracles-almelo/SC_Heracles_logo1974-1998.svg"
-        },
-        {
-            "ano": "1998-2015",
-            "url": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo_logo1998-2015.svg"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo2015-actual.svg"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Heraclianos (Heraclieden)",
-            "origen": "Apodo que deriva directamente del nombre mitológico de la institución. Identifica a los seguidores y jugadores del club bajo la figura de 'hijos o devotos de Heracles', proyectando la imagen de guerreros perseverantes de la clase obrera textil de Twente, listos para la batalla deportiva."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 48,
-            "g": 6,
-            "e": 8,
-            "p": 34
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 46,
-            "g": 7,
-            "e": 6,
-            "p": 33
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 44,
-            "g": 21,
-            "e": 8,
-            "p": 15
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 46,
-            "g": 6,
-            "e": 10,
-            "p": 30
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 46,
-            "g": 18,
-            "e": 13,
-            "p": 15
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 46,
-            "g": 21,
-            "e": 11,
-            "p": 14
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 46,
-            "g": 18,
-            "e": 8,
-            "p": 20
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 46,
-            "g": 16,
-            "e": 7,
-            "p": 23
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 46,
-            "g": 17,
-            "e": 11,
-            "p": 18
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 64,
-            "g": 15,
-            "e": 14,
-            "p": 35
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 60,
-            "g": 22,
-            "e": 14,
-            "p": 24
-        },
-        {
-            "equipo": "PSV",
-            "pj": 46,
-            "g": 2,
-            "e": 6,
-            "p": 38
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 46,
-            "g": 15,
-            "e": 13,
-            "p": 18
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 46,
-            "g": 20,
-            "e": 11,
-            "p": 15
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 46,
-            "g": 8,
-            "e": 11,
-            "p": 27
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 46,
-            "g": 12,
-            "e": 13,
-            "p": 21
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 52,
-            "g": 20,
-            "e": 13,
-            "p": 19
-        }
+  "id": "heracles-almelo",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "heracles almelo"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Heracles Almelo",
+    "sigla": "",
+    "fundacion": "3 de mayo de 1903",
+    "apodo": "Heraclianos (Heraclieden)",
+    "estadio_actual": "Asito Stadion (Erve Asito)",
+    "estadio_apodo": "Polman Stadion",
+    "estadio_capacidad": 12080,
+    "estadio_inauguracion": "10 de septiembre de 1999",
+    "estadio_lat": 52.3361,
+    "estadio_lng": 6.6433,
+    "estadio_direccion": "Stadionlaan 1, 7606 JZ Almelo, Países Bajos",
+    "socios": 6500,
+    "descripcion_corta": "Un club rústico y perseverante de la región de Twente, bautizado en honor al semidiós griego y dueño de dos históricos campeonatos nacionales.",
+    "paleta": [
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Everton (70 goles)",
+      "mas_presencias": "Kwame Quansah (240 partidos)",
+      "mayor_goleada": "7-0 vs VVV-Venlo (Eredivisie 2011/12)"
+    },
+    "nombre_oficial": "Heracles Almelo",
+    "nombre_corto": "Heracles Almelo",
+    "escudo_actual": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo2015-actual.svg"
+  },
+  "historia": [
+    {
+      "ano": "1903",
+      "hito": "Fundación, Fusión y Herencia Mitológica",
+      "desc": "El Heracles Almelo nació formalmente el 3 de mayo de 1903, originado por la ambiciosa fusión de dos modestos equipos vecinales de la ciudad: el 'Hollandia' y el 'Inartie'. El Hollandia había sido fundado apenas un año antes en la primavera de 1902 por los pioneros Derk Kortenvoort y Gait Reuvekamp, quienes fueron piezas fundamentales en la unificación. En la asamblea fundacional, los directivos decidieron bautizar al nuevo club en honor al semidiós grecorromano Hércules (Heracles en griego), buscando que el equipo representara los valores de fuerza bruta, resistencia y la ética de trabajo inquebrantable que caracterizaba a los obreros de la potente industria textil de Almelo."
+    },
+    {
+      "ano": "1927",
+      "hito": "El Primer Campeonato Nacional",
+      "desc": "Durante la rica etapa del fútbol aficionado previa a la creación de la Eredivisie profesional, el club logró armar una escuadra formidable que dominó la liga regional oriental. Tras adjudicarse su zona, el equipo avanzó a la ronda de campeonato nacional, donde deslumbró al país entero y logró coronarse como campeón absoluto de los Países Bajos en la histórica temporada 1926-1927. Esta monumental conquista escribió la página más gloriosa de sus primeros años y lo posicionó como la principal potencia futbolística de la región de Twente por encima de sus rivales vecinos."
+    },
+    {
+      "ano": "1941",
+      "hito": "La Segunda Corona en Tiempos de Guerra",
+      "desc": "Catorce años después de tocar el cielo con las manos, el equipo volvió a demostrar su estirpe ganadora en el contexto más oscuro y adverso posible. En plena ocupación durante la Segunda Guerra Mundial, enfrentando inmensas dificultades logísticas, toques de queda y escasez de recursos, el Heracles mantuvo su espíritu competitivo intacto. En la campaña de 1941, el plantel superó a todos sus adversarios y conquistó su segundo título nacional, logrando una gesta heroica que sirvió como un vital símbolo de esperanza y resiliencia para toda la castigada población de Almelo."
+    },
+    {
+      "ano": "2012",
+      "hito": "El Gran Subcampeonato de la Copa KNVB",
+      "desc": "Tras décadas transitando por el ascensor entre la primera y segunda división, el club vivió un renacimiento institucional en el siglo XXI. El punto culminante de esta resurrección moderna ocurrió en la temporada 2011-2012, cuando el equipo alcanzó por primera vez en su dilatada historia la gran final de la Copa de los Países Bajos (KNVB Beker). El decisivo encuentro se disputó en el mítico estadio De Kuip de Róterdam. Aunque cayeron derrotados por 3-0 ante el poderoso PSV Eindhoven, la campaña desató una peregrinación sin precedentes de miles de hinchas 'Heraclieden' y reafirmó el estatus del club en la máxima categoría."
+    },
+    {
+      "ano": "2016",
+      "hito": "El Inédito Debut en el Continente Europeo",
+      "desc": "Bajo una gestión directiva brillante, modesta y financieramente impecable, el equipo completó la mejor temporada de su historia contemporánea. Tras finalizar en una asombrosa sexta posición en la tabla general de la Eredivisie 2015-2016, el Heracles debió disputar los exigentes playoffs por un boleto internacional. Conquistaron el objetivo, logrando una clasificación histórica a la tercera ronda previa de la UEFA Europa League. Este hito marcó el debut absoluto del club en competiciones continentales oficiales, enfrentándose en una llave muy reñida al FC Arouca de Portugal y llevando el nombre de Almelo por primera vez al mapa futbolístico europeo."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Asito Stadion",
+      "capacidad": 12080,
+      "desde": "10 de septiembre de 1999",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Erve+Asito/@52.3361,6.6411,17z",
+      "direccion": "Stadionlaan 1, Almelo",
+      "obs": "Conocido históricamente como 'Polman Stadion'. Fue pionero absoluto en los Países Bajos al ser el primer estadio del fútbol profesional en instalar césped sintético en 2003, buscando reducir costos y generar una ventaja competitiva de local (Inaugurado el 10 de septiembre de 1999).",
+      "lat": 52.3361,
+      "lng": 6.6411
+    },
+    {
+      "nombre": "Gemeentelijk Sportpark Bornsestraat",
+      "capacidad": "20.000",
+      "desde": 1913,
+      "hasta": 1999,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/search/Bornsestraat+Almelo/",
+      "direccion": "Bornsestraat, Almelo",
+      "obs": "La mítica casa del club durante la mayor parte de su historia y testigo directo de sus dos campeonatos nacionales. El equipo jugó ininterrumpidamente en este recinto de estilo inglés durante 86 años hasta su demolición a fines del siglo XX.",
+      "lat": 52.345,
+      "lng": 6.662
+    },
+    {
+      "nombre": "Terrein Erve Bonthuis",
+      "capacidad": "Terreno Abierto",
+      "desde": 1909,
+      "hasta": 1913,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/search/Erve+Bonthuis+Almelo/",
+      "direccion": "Erve Bonthuis, Almelo",
+      "obs": "El segundo predio de la institución, donde el club se mudó en el año 1909. Sirvió de campo de juego durante cuatro temporadas cruciales en las que el Heracles estructuró su identidad competitiva temprana antes de pasar al Bornsestraat.",
+      "lat": 52.35,
+      "lng": 6.65
+    },
+    {
+      "nombre": "Terrein Hammink",
+      "capacidad": "Campo Vecinal",
+      "desde": 1903,
+      "hasta": 1909,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/search/Almelo/",
+      "direccion": "Almelo, Países Bajos",
+      "obs": "El predio original del club justo después de la asamblea fundacional en 1903. El terreno pertenecía previamente al Hollandia (uno de los dos clubes que se fusionó para crear al Heracles) y funcionó como primera casa deportiva hasta 1909.",
+      "lat": 52.355,
+      "lng": 6.655
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1903,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Desde el primer día de su fundación, la indumentaria heracliana es icónica, austera e inalterable: gruesas franjas verticales blancas y negras. Un diseño de líneas sobrias que denota la herencia obrera de la región textil de Twente, sin recurrir a colores extravagantes."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Kwame Quansah",
+      "pos": "Mediocampista",
+      "desc": "Mediocampista ghanés de vasta trayectoria institucional. Acumuló 240 presencias ligueras, ejerciendo ininterrumpidamente el rol de capitán y equilibrio táctico durante más de una década.",
+      "epoca": "2004-2014",
+      "apodo": "El Capitán",
+      "goles": "7",
+      "partidos": "240"
+    },
+    {
+      "nombre": "Everton Ramos da Silva",
+      "pos": "Delantero",
+      "desc": "Centrodelantero brasileño que figura como el máximo goleador histórico del club en la era Eredivisie profesional. Sus 70 anotaciones fueron vitales para mantener al equipo en la máxima división.",
+      "epoca": "2006-2013",
+      "apodo": "Everton",
+      "goles": "70",
+      "partidos": "218"
+    },
+    {
+      "nombre": "Mark-Jan Fledderus",
+      "pos": "Mediocampista",
+      "desc": "Centrocampista con una pegada prodigiosa. Fue el motor anímico y futbolístico del mediocampo durante ocho años, anotando goles decisivos gracias a sus tiros libres y remates de larga distancia.",
+      "epoca": "2008-2016",
+      "apodo": "",
+      "goles": "15",
+      "partidos": "200"
+    },
+    {
+      "nombre": "Bas Dost",
+      "pos": "Delantero",
+      "desc": "Centrodelantero de físico imponente que se dio a conocer nacionalmente en este club, registrando 18 goles clave en 73 partidos antes de continuar su prolífica carrera internacional.",
+      "epoca": "2008-2010",
+      "apodo": "",
+      "goles": "18",
+      "partidos": "73"
+    },
+    {
+      "nombre": "Wout Weghorst",
+      "pos": "Delantero",
+      "desc": "Atacante corpulento y pasional. Exhibió una capacidad atlética deslumbrante, dejando una huella imborrable con su entrega total en la zona ofensiva y su eficacia goleadora.",
+      "epoca": "2014-2016",
+      "apodo": "",
+      "goles": "20",
+      "partidos": "64"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Everton",
+      "goles": "70",
+      "partidos": "218",
+      "epoca": "2006-2013",
+      "apodo": ""
+    },
+    {
+      "nombre": "Willy Brokamp",
+      "goles": "35",
+      "partidos": "90",
+      "epoca": "1970-1974",
+      "apodo": ""
+    },
+    {
+      "nombre": "Wout Weghorst",
+      "goles": "20",
+      "partidos": "64",
+      "epoca": "2014-2016",
+      "apodo": ""
+    },
+    {
+      "nombre": "Rai Vloet",
+      "goles": "16",
+      "partidos": "46",
+      "epoca": "2020-2022",
+      "apodo": ""
+    },
+    {
+      "nombre": "Cyriel Dessers",
+      "goles": "15",
+      "partidos": "26",
+      "epoca": "2019-2020",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Kwame Quansah",
+      "partidos": "240",
+      "epoca": "2004-2014",
+      "apodo": "El Capitán",
+      "goles": "7"
+    },
+    {
+      "nombre": "Everton",
+      "partidos": "218",
+      "epoca": "2006-2013",
+      "apodo": "",
+      "goles": "70"
+    },
+    {
+      "nombre": "Mark-Jan Fledderus",
+      "partidos": "200",
+      "epoca": "2008-2016",
+      "apodo": "",
+      "goles": "15"
+    },
+    {
+      "nombre": "Remko Pasveer",
+      "partidos": "190",
+      "epoca": "2006-2014",
+      "apodo": "",
+      "goles": "0"
+    },
+    {
+      "nombre": "Tim Breukers",
+      "partidos": "185",
+      "epoca": "2007-2020",
+      "apodo": "",
+      "goles": "2"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato Nacional Neerlandés",
+      "cantidad": 2,
+      "anios": [
+        "1926-27",
+        "1940-41"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1903-1960",
+      "url": "/escudos/paises_bajos/heracles-almelo/AVC_Heracles_1903-1960.webp"
+    },
+    {
+      "ano": "1960-1974",
+      "url": "/escudos/paises_bajos/heracles-almelo/AVC_Heracles_1960-1974.svg"
+    },
+    {
+      "ano": "1974-1998",
+      "url": "/escudos/paises_bajos/heracles-almelo/SC_Heracles_logo1974-1998.svg"
+    },
+    {
+      "ano": "1998-2015",
+      "url": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo_logo1998-2015.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/heracles-almelo/Heracles_Almelo2015-actual.svg"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Heraclianos (Heraclieden)",
+      "origen": "Apodo que deriva directamente del nombre mitológico de la institución. Identifica a los seguidores y jugadores del club bajo la figura de 'hijos o devotos de Heracles', proyectando la imagen de guerreros perseverantes de la clase obrera textil de Twente, listos para la batalla deportiva."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 48,
+      "g": 6,
+      "e": 8,
+      "p": 34
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 46,
+      "g": 7,
+      "e": 6,
+      "p": 33
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 44,
+      "g": 21,
+      "e": 8,
+      "p": 15
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 46,
+      "g": 6,
+      "e": 10,
+      "p": 30
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 46,
+      "g": 18,
+      "e": 13,
+      "p": 15
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 46,
+      "g": 21,
+      "e": 11,
+      "p": 14
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 46,
+      "g": 18,
+      "e": 8,
+      "p": 20
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 46,
+      "g": 16,
+      "e": 7,
+      "p": 23
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 46,
+      "g": 17,
+      "e": 11,
+      "p": 18
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 64,
+      "g": 15,
+      "e": 14,
+      "p": 35
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 60,
+      "g": 22,
+      "e": 14,
+      "p": 24
+    },
+    {
+      "equipo": "PSV",
+      "pj": 46,
+      "g": 2,
+      "e": 6,
+      "p": 38
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 46,
+      "g": 15,
+      "e": 13,
+      "p": 18
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 46,
+      "g": 20,
+      "e": 11,
+      "p": 15
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 46,
+      "g": 8,
+      "e": 11,
+      "p": 27
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 46,
+      "g": 12,
+      "e": 13,
+      "p": 21
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 52,
+      "g": 20,
+      "e": 13,
+      "p": 19
+    }
+  ]
 }

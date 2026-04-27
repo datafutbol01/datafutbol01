@@ -1,387 +1,387 @@
 {
-    "id": "heerenveen",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "sc heerenveen"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Sportclub Heerenveen",
-        "sigla": "",
-        "fundacion": "20 de julio de 1920",
-        "apodo": "Los Súper Frisones (De Superfriezen)",
-        "estadio_actual": "Abe Lenstra Stadion",
-        "estadio_apodo": "",
-        "estadio_capacidad": 27224,
-        "estadio_inauguracion": "20 de agosto de 1994",
-        "estadio_lat": 52.9583,
-        "estadio_lng": 5.9372,
-        "estadio_direccion": "Abe Lenstra Boulevard 19, 8448 JA Heerenveen, Países Bajos",
-        "socios": 15000,
-        "descripcion_corta": "El alma y símbolo patriótico de la provincia de Frisia. Un club inmensamente popular por su mítica camiseta y su histórica cuna de letales centrodelanteros de talla mundial.",
-        "paleta": [
-            {
-                "tag": "Azul",
-                "hex": "#003282"
-            },
-            {
-                "tag": "Blanco",
-                "hex": "#ffffff"
-            },
-            {
-                "tag": "Rojo",
-                "hex": "#e30613"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Abe Lenstra (471 goles)",
-            "mas_presencias": "Maarten de Jong (320 partidos)",
-            "mayor_goleada": "9-0 vs Heracles Almelo (Eredivisie 2007/08)"
-        },
-        "nombre_oficial": "Sportclub Heerenveen",
-        "nombre_corto": "SC Heerenveen",
-        "escudo_actual": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo2007-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1920",
-            "hito": "Orígenes en la Provincia Frisia",
-            "desc": "Tras la disolución del antiguo club local V.A.C. en 1918, un grupo de jóvenes deportistas del pueblo decidió organizar un nuevo equipo para llenar el vacío futbolístico. Así, el 20 de julio de 1920 fundaron formalmente el club bajo la denominación inicial de Athleta. Poco después, en 1921, se fusionaron con estudiantes locales de la escuela HBS pasando a llamarse Spartaan, hasta adoptar finalmente el nombre v.v. Heerenveen al año siguiente. Desde sus primeros días, su identidad visual quedó inquebrantablemente ligada al diseño de la bandera de la provincia de Frisia, incorporando los míticos corazones rojos (pompeblêden) en la indumentaria titular."
-        },
-        {
-            "ano": "1950",
-            "hito": "La Era de Abe Lenstra",
-            "desc": "La institución experimentó su primera época dorada y saltó a la fama nacional de la mano de su ídolo máximo, el genial delantero Abe Lenstra. Con su inigualable talento para el gol, el club dominó ininterrumpidamente el campeonato del norte de los Países Bajos durante nueve años consecutivos, forjando el espíritu competitivo que definiría el futuro de la entidad."
-        },
-        {
-            "ano": "1993",
-            "hito": "El Ascenso Definitivo bajo Foppe de Haan",
-            "desc": "Tras la introducción del fútbol profesional, el club osciló durante años en las categorías de ascenso. La verdadera revolución llegó de la mano del legendario entrenador Foppe de Haan y del visionario presidente Riemer van der Velde, quienes lograron el ansiado ascenso a la Eredivisie en 1993, transformando al equipo en una potencia en desarrollo dentro del fútbol neerlandés."
-        },
-        {
-            "ano": "2000",
-            "hito": "Debut en la Champions League",
-            "desc": "La culminación del proyecto de De Haan llegó en la histórica temporada 1999-2000. El SC Heerenveen sorprendió a toda la nación al finalizar como brillante subcampeón de la Eredivisie, superando a gigantes como el Ajax y el Feyenoord. Este hito le otorgó el boleto directo para participar por primera vez en su historia en la fase de grupos de la prestigiosa UEFA Champions League."
-        },
-        {
-            "ano": "2009",
-            "hito": "Coronación en la Copa KNVB",
-            "desc": "Bajo la dirección del técnico Trond Sollied, el equipo alcanzó el título más destacado de su historia moderna al ganar la Copa de los Países Bajos en 2009. Tras un ajustado empate 2-2 en el tiempo reglamentario y la prórroga, el club se impuso dramáticamente en la serie de tiros penales frente al FC Twente en Róterdam, desatando la euforia masiva en toda la provincia de Frisia."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Abe Lenstra Stadion",
-            "capacidad": 27224,
-            "desde": "20 de agosto de 1994",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Abe+Lenstra+Stadion/@52.9583333,5.9346111,17z/",
-            "direccion": "Abe Lenstra Boulevard 19, 8448 JA Heerenveen, Países Bajos",
-            "obs": "El orgullo arquitectónico del club lleva el nombre del mejor jugador neerlandés de la historia previo a la aparición de Johan Cruyff. Durante los partidos como local es una tradición inviolable cantar a capela el solemne Himno Provincial Frisón ('De Wâldsang'), creando un ambiente folclórico verdaderamente único en Europa.",
-            "lat": 52.9583,
-            "lng": 5.9372
-        },
-        {
-            "nombre": "Sportpark Noord",
-            "capacidad": "14.000",
-            "desde": 1928,
-            "hasta": 1994,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/place/Heerenveen,+Pa%C3%ADses+Bajos/@52.966667,5.916667,13z",
-            "direccion": "J.H. Kruisstraat, Heerenveen, Países Bajos",
-            "obs": "El histórico recinto original donde Abe Lenstra cimentó su estatus de semidiós futbolístico. Fue el hogar del club durante más de 65 años hasta que el éxito forzó su cierre.",
-            "lat": 52.9666,
-            "lng": 5.9166
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1920,
-            "hasta": null,
-            "c1": "#ffffff",
-            "c2": "#003282",
-            "sh": "#ffffff",
-            "me": "#ffffff",
-            "tipo": "rayas-verticales",
-            "desc": "Posiblemente el uniforme más exótico, poético y reconocible del mundo. El club utiliza una adaptación de la bandera de la provincia de Frisia: la camiseta presenta míticas franjas VERTICALES azules y blancas (a diferencia de la bandera real, que es diagonal). Adornando obligatoriamente las franjas blancas se encuentran siete 'pompeblêden' rojos (hojas de lirio de agua que el ojo inexperto suele confundir a simple vista con corazones). Las siete hojas representan los antiguos territorios independientes frisones en la Edad Media."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Abe Lenstra",
-            "pos": "Delantero",
-            "desc": "Atacante referencial de las décadas de 1940 y 1950, considerado uno de los futbolistas más talentosos de la historia nacional. Lideró al equipo a múltiples campeonatos regionales y da nombre al estadio actual del club.",
-            "epoca": "1936-1954",
-            "apodo": "El Oráculo de Frisia",
-            "goles": "471",
-            "partidos": "395"
-        },
-        {
-            "nombre": "Ruud van Nistelrooy",
-            "pos": "Delantero",
-            "desc": "Delantero centro que pulió su capacidad definitoria durante su estadía en la entidad. Tras marcar trece goles en la temporada 1997-1998, el PSV Eindhoven desembolsó una cifra récord entre clubes nacionales para ficharlo.",
-            "epoca": "1997-1998",
-            "apodo": "Van Gol",
-            "goles": "13",
-            "partidos": "31"
-        },
-        {
-            "nombre": "Klaas-Jan Huntelaar",
-            "pos": "Delantero",
-            "desc": "Atacante de alta eficacia en el área penal. Registró más de treinta anotaciones en apenas cuarenta y seis compromisos oficiales, ubicando al equipo en posiciones de privilegio en la Eredivisie antes de su traspaso al Ajax.",
-            "epoca": "2004-2005",
-            "apodo": "El Cazador",
-            "goles": "33",
-            "partidos": "46"
-        },
-        {
-            "nombre": "Alfonso Alves",
-            "pos": "Delantero",
-            "desc": "Delantero brasileño de impacto meteórico. En la temporada 2006-2007 desató la locura al anotar 34 goles en 31 partidos (récord absoluto), incluyendo siete tantos en un solo encuentro contra el Heracles Almelo.",
-            "epoca": "2006-2008",
-            "apodo": "Afonso",
-            "goles": "45",
-            "partidos": "39"
-        },
-        {
-            "nombre": "Foppe de Haan",
-            "pos": "Entrenador",
-            "desc": "El arquitecto del equipo moderno. Su largo y exitoso ciclo al mando del plantel instaló al club en la zona alta del fútbol neerlandés, cimentando un modelo ejemplar de gestión y desarrollo a lo largo de décadas.",
-            "epoca": "1985-2004",
-            "apodo": "Don Foppe",
-            "goles": "0",
-            "partidos": "0"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Abe Lenstra",
-            "goles": "471",
-            "partidos": "395",
-            "epoca": "1936-1955",
-            "apodo": "El Oráculo de Frisia"
-        },
-        {
-            "nombre": "Gerald Sibon",
-            "goles": "47",
-            "partidos": "105",
-            "epoca": "2002-2004 / 2007-2010",
-            "apodo": ""
-        },
-        {
-            "nombre": "Alfonso Alves",
-            "goles": "45",
-            "partidos": "39",
-            "epoca": "2006-2008",
-            "apodo": "Afonso"
-        },
-        {
-            "nombre": "Bas Dost",
-            "goles": "45",
-            "partidos": "66",
-            "epoca": "2010-2012",
-            "apodo": ""
-        },
-        {
-            "nombre": "Jon Dahl Tomasson",
-            "goles": "37",
-            "partidos": "78",
-            "epoca": "1994-1997",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Maarten de Jong",
-            "partidos": "320",
-            "epoca": "1984-1995",
-            "apodo": "",
-            "goles": "21"
-        },
-        {
-            "nombre": "Brian Vandenbussche",
-            "partidos": "240",
-            "epoca": "2004-2014",
-            "apodo": "",
-            "goles": "0"
-        },
-        {
-            "nombre": "Jeffrey Talan",
-            "partidos": "185",
-            "epoca": "1995-2003",
-            "apodo": "",
-            "goles": "41"
-        },
-        {
-            "nombre": "Kristian Bak Nielsen",
-            "partidos": "120",
-            "epoca": "2007-2010",
-            "apodo": "",
-            "goles": "6"
-        },
-        {
-            "nombre": "Michel Vlap",
-            "partidos": "105",
-            "epoca": "2016-2019",
-            "apodo": "",
-            "goles": "25"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 1,
-            "anios": [
-                "2008-09"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1920-1977",
-            "url": "/escudos/paises_bajos/heerenveen/VV_Heerenveen_logo1920-1977.webp"
-        },
-        {
-            "ano": "1977-1990",
-            "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen1977-1990.svg"
-        },
-        {
-            "ano": "1990-2007",
-            "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo1990-2007.svg"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo2007-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "Los Súper Frisones (De Superfriezen)",
-            "origen": "Es una reafirmación directa de su identidad cultural y patriótica frente al resto de los Países Bajos. El club es el orgullo absoluto de la provincia de Frisia, que tiene su propia lengua oficial, su propia bandera (cuyos corazones y colores componen la mítica camiseta del equipo) y hasta un himno nacional que 27 mil hinchas cantan a capela de pie en la previa de cada partido de local en reemplazo del himno nacional neerlandés."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 73,
-            "g": 10,
-            "e": 12,
-            "p": 51
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 69,
-            "g": 25,
-            "e": 14,
-            "p": 30
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 46,
-            "g": 26,
-            "e": 8,
-            "p": 12
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 72,
-            "g": 20,
-            "e": 18,
-            "p": 34
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 52,
-            "g": 24,
-            "e": 13,
-            "p": 15
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 32,
-            "g": 16,
-            "e": 10,
-            "p": 6
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 64,
-            "g": 29,
-            "e": 18,
-            "p": 17
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 23,
-            "e": 7,
-            "p": 16
-        },
-        {
-            "equipo": "NAC Breda",
-            "pj": 64,
-            "g": 33,
-            "e": 14,
-            "p": 17
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 78,
-            "g": 40,
-            "e": 18,
-            "p": 20
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 50,
-            "g": 24,
-            "e": 11,
-            "p": 15
-        },
-        {
-            "equipo": "PSV",
-            "pj": 78,
-            "g": 14,
-            "e": 18,
-            "p": 46
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 58,
-            "g": 26,
-            "e": 16,
-            "p": 16
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 34,
-            "g": 14,
-            "e": 7,
-            "p": 13
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 78,
-            "g": 24,
-            "e": 18,
-            "p": 36
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 78,
-            "g": 26,
-            "e": 18,
-            "p": 34
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 46,
-            "g": 26,
-            "e": 8,
-            "p": 12
-        }
+  "id": "heerenveen",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "sc heerenveen"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Sportclub Heerenveen",
+    "sigla": "",
+    "fundacion": "20 de julio de 1920",
+    "apodo": "Los Súper Frisones (De Superfriezen)",
+    "estadio_actual": "Abe Lenstra Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 27224,
+    "estadio_inauguracion": "20 de agosto de 1994",
+    "estadio_lat": 52.9583,
+    "estadio_lng": 5.9372,
+    "estadio_direccion": "Abe Lenstra Boulevard 19, 8448 JA Heerenveen, Países Bajos",
+    "socios": 15000,
+    "descripcion_corta": "El alma y símbolo patriótico de la provincia de Frisia. Un club inmensamente popular por su mítica camiseta y su histórica cuna de letales centrodelanteros de talla mundial.",
+    "paleta": [
+      {
+        "tag": "Azul",
+        "hex": "#003282"
+      },
+      {
+        "tag": "Blanco",
+        "hex": "#ffffff"
+      },
+      {
+        "tag": "Rojo",
+        "hex": "#e30613"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Abe Lenstra (471 goles)",
+      "mas_presencias": "Maarten de Jong (320 partidos)",
+      "mayor_goleada": "9-0 vs Heracles Almelo (Eredivisie 2007/08)"
+    },
+    "nombre_oficial": "Sportclub Heerenveen",
+    "nombre_corto": "SC Heerenveen",
+    "escudo_actual": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo2007-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1920",
+      "hito": "Orígenes en la Provincia Frisia",
+      "desc": "Tras la disolución del antiguo club local V.A.C. en 1918, un grupo de jóvenes deportistas del pueblo decidió organizar un nuevo equipo para llenar el vacío futbolístico. Así, el 20 de julio de 1920 fundaron formalmente el club bajo la denominación inicial de Athleta. Poco después, en 1921, se fusionaron con estudiantes locales de la escuela HBS pasando a llamarse Spartaan, hasta adoptar finalmente el nombre v.v. Heerenveen al año siguiente. Desde sus primeros días, su identidad visual quedó inquebrantablemente ligada al diseño de la bandera de la provincia de Frisia, incorporando los míticos corazones rojos (pompeblêden) en la indumentaria titular."
+    },
+    {
+      "ano": "1950",
+      "hito": "La Era de Abe Lenstra",
+      "desc": "La institución experimentó su primera época dorada y saltó a la fama nacional de la mano de su ídolo máximo, el genial delantero Abe Lenstra. Con su inigualable talento para el gol, el club dominó ininterrumpidamente el campeonato del norte de los Países Bajos durante nueve años consecutivos, forjando el espíritu competitivo que definiría el futuro de la entidad."
+    },
+    {
+      "ano": "1993",
+      "hito": "El Ascenso Definitivo bajo Foppe de Haan",
+      "desc": "Tras la introducción del fútbol profesional, el club osciló durante años en las categorías de ascenso. La verdadera revolución llegó de la mano del legendario entrenador Foppe de Haan y del visionario presidente Riemer van der Velde, quienes lograron el ansiado ascenso a la Eredivisie en 1993, transformando al equipo en una potencia en desarrollo dentro del fútbol neerlandés."
+    },
+    {
+      "ano": "2000",
+      "hito": "Debut en la Champions League",
+      "desc": "La culminación del proyecto de De Haan llegó en la histórica temporada 1999-2000. El SC Heerenveen sorprendió a toda la nación al finalizar como brillante subcampeón de la Eredivisie, superando a gigantes como el Ajax y el Feyenoord. Este hito le otorgó el boleto directo para participar por primera vez en su historia en la fase de grupos de la prestigiosa UEFA Champions League."
+    },
+    {
+      "ano": "2009",
+      "hito": "Coronación en la Copa KNVB",
+      "desc": "Bajo la dirección del técnico Trond Sollied, el equipo alcanzó el título más destacado de su historia moderna al ganar la Copa de los Países Bajos en 2009. Tras un ajustado empate 2-2 en el tiempo reglamentario y la prórroga, el club se impuso dramáticamente en la serie de tiros penales frente al FC Twente en Róterdam, desatando la euforia masiva en toda la provincia de Frisia."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Abe Lenstra Stadion",
+      "capacidad": 27224,
+      "desde": "20 de agosto de 1994",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Abe+Lenstra+Stadion/@52.9583333,5.9346111,17z/",
+      "direccion": "Abe Lenstra Boulevard 19, 8448 JA Heerenveen, Países Bajos",
+      "obs": "El orgullo arquitectónico del club lleva el nombre del mejor jugador neerlandés de la historia previo a la aparición de Johan Cruyff. Durante los partidos como local es una tradición inviolable cantar a capela el solemne Himno Provincial Frisón ('De Wâldsang'), creando un ambiente folclórico verdaderamente único en Europa.",
+      "lat": 52.9583,
+      "lng": 5.9372
+    },
+    {
+      "nombre": "Sportpark Noord",
+      "capacidad": "14.000",
+      "desde": 1928,
+      "hasta": 1994,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/place/Heerenveen,+Pa%C3%ADses+Bajos/@52.966667,5.916667,13z",
+      "direccion": "J.H. Kruisstraat, Heerenveen, Países Bajos",
+      "obs": "El histórico recinto original donde Abe Lenstra cimentó su estatus de semidiós futbolístico. Fue el hogar del club durante más de 65 años hasta que el éxito forzó su cierre.",
+      "lat": 52.9666,
+      "lng": 5.9166
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1920,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#003282",
+      "sh": "#ffffff",
+      "me": "#ffffff",
+      "tipo": "rayas-verticales",
+      "desc": "Posiblemente el uniforme más exótico, poético y reconocible del mundo. El club utiliza una adaptación de la bandera de la provincia de Frisia: la camiseta presenta míticas franjas VERTICALES azules y blancas (a diferencia de la bandera real, que es diagonal). Adornando obligatoriamente las franjas blancas se encuentran siete 'pompeblêden' rojos (hojas de lirio de agua que el ojo inexperto suele confundir a simple vista con corazones). Las siete hojas representan los antiguos territorios independientes frisones en la Edad Media."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Abe Lenstra",
+      "pos": "Delantero",
+      "desc": "Atacante referencial de las décadas de 1940 y 1950, considerado uno de los futbolistas más talentosos de la historia nacional. Lideró al equipo a múltiples campeonatos regionales y da nombre al estadio actual del club.",
+      "epoca": "1936-1954",
+      "apodo": "El Oráculo de Frisia",
+      "goles": "471",
+      "partidos": "395"
+    },
+    {
+      "nombre": "Ruud van Nistelrooy",
+      "pos": "Delantero",
+      "desc": "Delantero centro que pulió su capacidad definitoria durante su estadía en la entidad. Tras marcar trece goles en la temporada 1997-1998, el PSV Eindhoven desembolsó una cifra récord entre clubes nacionales para ficharlo.",
+      "epoca": "1997-1998",
+      "apodo": "Van Gol",
+      "goles": "13",
+      "partidos": "31"
+    },
+    {
+      "nombre": "Klaas-Jan Huntelaar",
+      "pos": "Delantero",
+      "desc": "Atacante de alta eficacia en el área penal. Registró más de treinta anotaciones en apenas cuarenta y seis compromisos oficiales, ubicando al equipo en posiciones de privilegio en la Eredivisie antes de su traspaso al Ajax.",
+      "epoca": "2004-2005",
+      "apodo": "El Cazador",
+      "goles": "33",
+      "partidos": "46"
+    },
+    {
+      "nombre": "Alfonso Alves",
+      "pos": "Delantero",
+      "desc": "Delantero brasileño de impacto meteórico. En la temporada 2006-2007 desató la locura al anotar 34 goles en 31 partidos (récord absoluto), incluyendo siete tantos en un solo encuentro contra el Heracles Almelo.",
+      "epoca": "2006-2008",
+      "apodo": "Afonso",
+      "goles": "45",
+      "partidos": "39"
+    },
+    {
+      "nombre": "Foppe de Haan",
+      "pos": "Entrenador",
+      "desc": "El arquitecto del equipo moderno. Su largo y exitoso ciclo al mando del plantel instaló al club en la zona alta del fútbol neerlandés, cimentando un modelo ejemplar de gestión y desarrollo a lo largo de décadas.",
+      "epoca": "1985-2004",
+      "apodo": "Don Foppe",
+      "goles": "0",
+      "partidos": "0"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Abe Lenstra",
+      "goles": "471",
+      "partidos": "395",
+      "epoca": "1936-1955",
+      "apodo": "El Oráculo de Frisia"
+    },
+    {
+      "nombre": "Gerald Sibon",
+      "goles": "47",
+      "partidos": "105",
+      "epoca": "2002-2004 / 2007-2010",
+      "apodo": ""
+    },
+    {
+      "nombre": "Alfonso Alves",
+      "goles": "45",
+      "partidos": "39",
+      "epoca": "2006-2008",
+      "apodo": "Afonso"
+    },
+    {
+      "nombre": "Bas Dost",
+      "goles": "45",
+      "partidos": "66",
+      "epoca": "2010-2012",
+      "apodo": ""
+    },
+    {
+      "nombre": "Jon Dahl Tomasson",
+      "goles": "37",
+      "partidos": "78",
+      "epoca": "1994-1997",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Maarten de Jong",
+      "partidos": "320",
+      "epoca": "1984-1995",
+      "apodo": "",
+      "goles": "21"
+    },
+    {
+      "nombre": "Brian Vandenbussche",
+      "partidos": "240",
+      "epoca": "2004-2014",
+      "apodo": "",
+      "goles": "0"
+    },
+    {
+      "nombre": "Jeffrey Talan",
+      "partidos": "185",
+      "epoca": "1995-2003",
+      "apodo": "",
+      "goles": "41"
+    },
+    {
+      "nombre": "Kristian Bak Nielsen",
+      "partidos": "120",
+      "epoca": "2007-2010",
+      "apodo": "",
+      "goles": "6"
+    },
+    {
+      "nombre": "Michel Vlap",
+      "partidos": "105",
+      "epoca": "2016-2019",
+      "apodo": "",
+      "goles": "25"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 1,
+      "anios": [
+        "2008-09"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1920-1977",
+      "url": "/escudos/paises_bajos/heerenveen/VV_Heerenveen_logo1920-1977.webp"
+    },
+    {
+      "ano": "1977-1990",
+      "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen1977-1990.svg"
+    },
+    {
+      "ano": "1990-2007",
+      "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo1990-2007.svg"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/heerenveen/SC_Heerenveen_logo2007-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "Los Súper Frisones (De Superfriezen)",
+      "origen": "Es una reafirmación directa de su identidad cultural y patriótica frente al resto de los Países Bajos. El club es el orgullo absoluto de la provincia de Frisia, que tiene su propia lengua oficial, su propia bandera (cuyos corazones y colores componen la mítica camiseta del equipo) y hasta un himno nacional que 27 mil hinchas cantan a capela de pie en la previa de cada partido de local en reemplazo del himno nacional neerlandés."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 73,
+      "g": 10,
+      "e": 12,
+      "p": 51
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 69,
+      "g": 25,
+      "e": 14,
+      "p": 30
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 46,
+      "g": 26,
+      "e": 8,
+      "p": 12
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 72,
+      "g": 20,
+      "e": 18,
+      "p": 34
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 52,
+      "g": 24,
+      "e": 13,
+      "p": 15
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 32,
+      "g": 16,
+      "e": 10,
+      "p": 6
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 64,
+      "g": 29,
+      "e": 18,
+      "p": 17
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 23,
+      "e": 7,
+      "p": 16
+    },
+    {
+      "equipo": "NAC Breda",
+      "pj": 64,
+      "g": 33,
+      "e": 14,
+      "p": 17
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 78,
+      "g": 40,
+      "e": 18,
+      "p": 20
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 50,
+      "g": 24,
+      "e": 11,
+      "p": 15
+    },
+    {
+      "equipo": "PSV",
+      "pj": 78,
+      "g": 14,
+      "e": 18,
+      "p": 46
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 58,
+      "g": 26,
+      "e": 16,
+      "p": 16
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 34,
+      "g": 14,
+      "e": 7,
+      "p": 13
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 78,
+      "g": 24,
+      "e": 18,
+      "p": 36
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 78,
+      "g": 26,
+      "e": 18,
+      "p": 34
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 46,
+      "g": 26,
+      "e": 8,
+      "p": 12
+    }
+  ]
 }

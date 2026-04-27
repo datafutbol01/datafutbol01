@@ -1,426 +1,426 @@
 {
-    "id": "nac-breda",
-    "meta": {
-        "etiquetas": [
-            "paises_bajos",
-            "eredivisie",
-            "nac breda"
-        ]
-    },
-    "datos": {
-        "nombre_completo": "Nooit Opgeven Altijd Doorzetten Aangenaam Door Vermaak En Nuttig Door Ontspanning Combinatie Breda",
-        "sigla": "",
-        "fundacion": "19 de septiembre de 1912",
-        "apodo": "La Perla del Sur (De Parel van het Zuiden), Las Ratas",
-        "estadio_actual": "Rat Verlegh Stadion",
-        "estadio_apodo": "",
-        "estadio_capacidad": 19000,
-        "estadio_inauguracion": "11 de agosto de 1996",
-        "estadio_lat": 51.5956,
-        "estadio_lng": 4.7494,
-        "estadio_direccion": "Stadionstraat 23, 4815 NC Breda, Países Bajos",
-        "socios": 14000,
-        "descripcion_corta": "El club con el nombre más largo del mundo. Famosos por las 'Avondjes NAC' (las noches de NAC), donde su estadio se convierte en un caldero insuperable lleno de cerveza y pasión Brabantina.",
-        "paleta": [
-            {
-                "tag": "Amarillo",
-                "hex": "#f1e500"
-            },
-            {
-                "tag": "Negro",
-                "hex": "#000000"
-            }
-        ],
-        "records": {
-            "maximo_goleador": "Rat Verlegh (138 goles)",
-            "mas_presencias": "Jelle ten Rouwelaar (300+ partidos)",
-            "mayor_goleada": "10-1 vs SC Veendam (Eerste Divisie 1999/00)"
-        },
-        "nombre_oficial": "NAC Breda",
-        "nombre_corto": "NAC Breda",
-        "escudo_actual": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo2012-actual.webp"
-    },
-    "historia": [
-        {
-            "ano": "1912",
-            "hito": "La Fusión Fundacional de NOAD y ADVENDO",
-            "desc": "La institución nació el 19 de septiembre de 1912 en Breda a partir de la unificación de dos organizaciones locales previas: NOAD y ADVENDO. Los directivos que lideraron esta fusión histórica fueron H.J.A. Loonen (Presidente), C.A. Wouterlood van Doesburg (Secretario) y R. Krietemeyer (Tesorero). El acrónimo NAC (NOAD ADVENDO Combinatie) se instauró como uno de los nombres oficiales más extensos en el fútbol mundial, cimentando rápidamente la base del entretenimiento deportivo en la región de Brabante Septentrional."
-        },
-        {
-            "ano": "1921",
-            "hito": "El Primer Campeonato Nacional",
-            "desc": "A menos de una década de su fundación y con la descollante figura de Antoon 'Rat' Verlegh en el campo de juego, la institución experimentó su consagración absoluta. Tras adjudicarse el título regional del sur, el equipo compitió en la ronda final nacional y se coronó Campeón Oficial de los Países Bajos en la temporada 1920-1921, instaurando su nombre en la élite del amateurismo neerlandés."
-        },
-        {
-            "ano": "1973",
-            "hito": "La Conquista de la Copa KNVB",
-            "desc": "Medio siglo después del primer título de liga y ya inmersos en el profesionalismo moderno, el club logró su segunda gran corona al adjudicarse la Copa de los Países Bajos en 1973. Tras vencer al NEC Nimega por 2-0 en la final, el NAC Breda no solo levantó el trofeo sino que garantizó, por primera vez en su historia, el codiciado boleto a competiciones continentales organizadas por la UEFA (Recopa de Europa)."
-        },
-        {
-            "ano": "1975",
-            "hito": "El Nacimiento de las 'Avondjes NAC'",
-            "desc": "Con la instalación de un innovador sistema de iluminación artificial en el histórico estadio de Beatrixstraat en 1975, el club comenzó a programar sus partidos de local los sábados por la noche. Este cambio de horario forjó una atmósfera volcánica, hostil y cervecera inigualable, bautizada popularmente como el 'Avondje NAC' (Noche de NAC), una marca registrada de pasión y fervor que perdura como pilar de la identidad del club hasta la actualidad."
-        },
-        {
-            "ano": "2024",
-            "hito": "El Regreso Triunfal a la Eredivisie",
-            "desc": "Tras una dolorosa estadía en la segunda división, el club logró un ascenso dramático y catártico a la Eredivisie en 2024. Imponiéndose en la fase de playoffs de promoción y superando holgadamente a sus rivales en series de ida y vuelta, el NAC Breda desató celebraciones multitudinarias en el centro de la ciudad, reafirmando el respaldo inquebrantable de una de las aficiones más leales de los Países Bajos."
-        }
-    ],
-    "canchas": [
-        {
-            "nombre": "Rat Verlegh Stadion",
-            "capacidad": 19000,
-            "desde": "11 de agosto de 1996",
-            "hasta": "Presente",
-            "estado": "Activo",
-            "url": "https://www.google.com/maps/place/Rat+Verlegh+Stadion/@51.5956,4.7472,17z",
-            "direccion": "Stadionstraat 23, Breda",
-            "obs": "Bautizado en honor a su máximo ídolo histórico. Es un templo sagrado del fútbol rústico, donde la grada 'B-Side' lidera las míticas 'Avondjes NAC' (Noches de NAC) que aterrorizan a los visitantes (Inaugurado el 11 de agosto de 1996).",
-            "lat": 51.5956,
-            "lng": 4.7494
-        },
-        {
-            "nombre": "NAC-Stadion (Beatrixstraat)",
-            "capacidad": "10.850",
-            "desde": 1940,
-            "hasta": 1996,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/search/Beatrixstraat+Breda/",
-            "direccion": "Beatrixstraat, Breda",
-            "obs": "El icónico recinto donde se forjó la leyenda de las 'Avondjes NAC' al instalarse las torres de iluminación en 1975. Fue el hogar inexpugnable del club durante 56 años antes de ser demolido y transformado en zona residencial.",
-            "lat": 51.583,
-            "lng": 4.785
-        },
-        {
-            "nombre": "NAC Stadion Heuvelstraat",
-            "capacidad": "Terreno de Juego",
-            "desde": 1931,
-            "hasta": 1940,
-            "estado": "Demolido",
-            "url": "https://www.google.com/maps/search/Heuvelstraat+Princenhage/",
-            "direccion": "Heuvelstraat, Princenhage",
-            "obs": "Debido a disputas zonales y de planificación urbana con la ciudad de Breda, el club se vio forzado a jugar durante la década de 1930 en el municipio vecino de Princenhage, antes de lograr retornar definitivamente a la ciudad.",
-            "lat": 51.579,
-            "lng": 4.745
-        },
-        {
-            "nombre": "Terrein 't Ploegske",
-            "capacidad": "Terreno Abierto",
-            "desde": 1912,
-            "hasta": 1931,
-            "estado": "Desalojado",
-            "url": "https://www.google.com/maps/search/Molengracht+Breda/",
-            "direccion": "Zona de Molengracht, Breda",
-            "obs": "El tercer terreno cronológico del club pero el más representativo de su era fundacional y amateur. Fue aquí donde la institución forjó sus primeros pasos competitivos y logró su histórica coronación como campeón nacional en 1921.",
-            "lat": 51.581,
-            "lng": 4.78
-        }
-    ],
-    "equipacion": [
-        {
-            "desde": 1912,
-            "hasta": null,
-            "c1": "#f1e500",
-            "c2": "#000000",
-            "sh": "#000000",
-            "me": "#f1e500",
-            "tipo": "diagonal",
-            "desc": "El club viste tradicionalmente una de las camisetas más inconfundibles de Europa: amarilla intensa cruzada por una gruesa franja diagonal (sash) negra. Este diseño, heredado de las escuadras amateurs fundacionales de Breda, suele variar su grosor o inclinación según las épocas, e incluso ha llegado a incorporar en su interior nombres de caídos en la Segunda Guerra Mundial, pero jamás abandona el pecho de la institución."
-        }
-    ],
-    "idolos": [
-        {
-            "nombre": "Antoon 'Rat' Verlegh",
-            "pos": "Delantero",
-            "desc": "La máxima leyenda histórica de la institución. Fue jugador, entrenador y directivo del club, dedicándole literalmente su vida entera. Hoy en día, el estadio del NAC Breda lleva su nombre en homenaje a su legado eterno.",
-            "epoca": "1912-1931",
-            "apodo": "",
-            "goles": "138",
-            "partidos": "250"
-        },
-        {
-            "nombre": "Jelle ten Rouwelaar",
-            "pos": "Arquero",
-            "desc": "Guardameta confiable que custodió la valla del equipo por casi una década ininterrumpida, convirtiéndose en el gran referente defensivo de la era moderna.",
-            "epoca": "2007-2016",
-            "apodo": "",
-            "goles": "0",
-            "partidos": "315"
-        },
-        {
-            "nombre": "Pierre van Hooijdonk",
-            "pos": "Delantero",
-            "desc": "Centrodelantero de remate potente e imponente presencia física. Acumuló 81 anotaciones en 115 partidos oficiales, siendo el eje ofensivo determinante para el éxito y permanencia del club en primera división.",
-            "epoca": "1991-1995",
-            "apodo": "Pi-Air",
-            "goles": "81",
-            "partidos": "115"
-        },
-        {
-            "nombre": "Rob Penders",
-            "pos": "Defensor",
-            "desc": "Zaguero central y líder natural. Ostentó la capitanía durante largos años aportando seguridad, jerarquía y compromiso total con el proyecto deportivo.",
-            "epoca": "2000-2011",
-            "apodo": "",
-            "goles": "19",
-            "partidos": "280"
-        },
-        {
-            "nombre": "Matthew Amoah",
-            "pos": "Delantero",
-            "desc": "Atacante ghanés que deslumbró con su explosividad y precisión. Sus notables registros goleadores mantuvieron al equipo en posiciones competitivas en la élite.",
-            "epoca": "2007-2011",
-            "apodo": "",
-            "goles": "42",
-            "partidos": "101"
-        }
-    ],
-    "goleadores_historicos": [
-        {
-            "nombre": "Rat Verlegh",
-            "goles": "138",
-            "partidos": "250",
-            "epoca": "1912-1931",
-            "apodo": ""
-        },
-        {
-            "nombre": "Pierre van Hooijdonk",
-            "goles": "81",
-            "partidos": "115",
-            "epoca": "1991-1995",
-            "apodo": "Pi-Air"
-        },
-        {
-            "nombre": "Matthew Amoah",
-            "goles": "42",
-            "partidos": "101",
-            "epoca": "2007-2011",
-            "apodo": ""
-        },
-        {
-            "nombre": "Ralf Seuntjens",
-            "goles": "28",
-            "partidos": "66",
-            "epoca": "2019-2021",
-            "apodo": ""
-        },
-        {
-            "nombre": "Sydney van Hooijdonk",
-            "goles": "22",
-            "partidos": "65",
-            "epoca": "2018-2021",
-            "apodo": ""
-        }
-    ],
-    "presencias_historicas": [
-        {
-            "nombre": "Jelle ten Rouwelaar",
-            "partidos": "315",
-            "epoca": "2007-2016",
-            "apodo": "",
-            "goles": "0"
-        },
-        {
-            "nombre": "Rob Penders",
-            "partidos": "280",
-            "epoca": "2000-2011",
-            "apodo": "",
-            "goles": "19"
-        },
-        {
-            "nombre": "Csaba Fehér",
-            "partidos": "228",
-            "epoca": "2000-2004 / 2007-2011",
-            "apodo": "",
-            "goles": "22"
-        },
-        {
-            "nombre": "Anthony Lurling",
-            "partidos": "219",
-            "epoca": "2004-2005 / 2007-2014",
-            "apodo": "",
-            "goles": "37"
-        },
-        {
-            "nombre": "Jordy Buijs",
-            "partidos": "140",
-            "epoca": "2011-2014",
-            "apodo": "",
-            "goles": "16"
-        }
-    ],
-    "titulos": [
-        {
-            "nombre": "Campeonato Nacional",
-            "cantidad": 1,
-            "anios": [
-                "1920-21"
-            ]
-        },
-        {
-            "nombre": "Copa KNVB",
-            "cantidad": 1,
-            "anios": [
-                "1972-73"
-            ]
-        }
-    ],
-    "evolucion_escudos": [
-        {
-            "ano": "1912-1968",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo1912-1968.webp"
-        },
-        {
-            "ano": "1968-1974",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo1968-1974.webp"
-        },
-        {
-            "ano": "1974-1979",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1974-1979.webp"
-        },
-        {
-            "ano": "1979-1996",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1979-1996.webp"
-        },
-        {
-            "ano": "1996-2012",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1996-2012.webp"
-        },
-        {
-            "ano": "Actualidad",
-            "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo2012-actual.webp"
-        }
-    ],
-    "origen_apodos": [
-        {
-            "apodo": "La Perla del Sur (De Parel van het Zuiden)",
-            "origen": "Este apodo institucional es una extensión directa del sobrenombre con el que se conoce históricamente a la propia ciudad de Breda dentro del país. Al ser el principal embajador deportivo de la ciudad, el club heredó el mote honorífico de la 'Perla del Sur' de la provincia de Brabante."
-        },
-        {
-            "apodo": "Las Ratas (De Ratten)",
-            "origen": "Deriva del apodo personal del jugador más grande, influyente e icónico en la historia fundacional de la institución: Antoon 'Rat' Verlegh. Como tributo perpetuo a su legado, astucia y sentido de pertenencia, la afición adoptó orgullosamente el apelativo de 'Las Ratas', e incluso editan una popular revista de seguidores bautizada 'De Rat'."
-        }
-    ],
-    "historial": [
-        {
-            "equipo": "Ajax",
-            "pj": 106,
-            "g": 10,
-            "e": 15,
-            "p": 81
-        },
-        {
-            "equipo": "AZ Alkmaar",
-            "pj": 96,
-            "g": 29,
-            "e": 23,
-            "p": 44
-        },
-        {
-            "equipo": "Excelsior",
-            "pj": 70,
-            "g": 30,
-            "e": 18,
-            "p": 22
-        },
-        {
-            "equipo": "Feyenoord",
-            "pj": 106,
-            "g": 20,
-            "e": 24,
-            "p": 62
-        },
-        {
-            "equipo": "Fortuna Sittard",
-            "pj": 70,
-            "g": 33,
-            "e": 18,
-            "p": 19
-        },
-        {
-            "equipo": "Go Ahead Eagles",
-            "pj": 78,
-            "g": 31,
-            "e": 23,
-            "p": 24
-        },
-        {
-            "equipo": "FC Groningen",
-            "pj": 84,
-            "g": 27,
-            "e": 24,
-            "p": 33
-        },
-        {
-            "equipo": "SC Heerenveen",
-            "pj": 64,
-            "g": 17,
-            "e": 14,
-            "p": 33
-        },
-        {
-            "equipo": "Heracles Almelo",
-            "pj": 46,
-            "g": 18,
-            "e": 11,
-            "p": 17
-        },
-        {
-            "equipo": "NEC Nijmegen",
-            "pj": 84,
-            "g": 30,
-            "e": 23,
-            "p": 31
-        },
-        {
-            "equipo": "PEC Zwolle",
-            "pj": 58,
-            "g": 23,
-            "e": 18,
-            "p": 17
-        },
-        {
-            "equipo": "PSV",
-            "pj": 96,
-            "g": 15,
-            "e": 22,
-            "p": 59
-        },
-        {
-            "equipo": "Sparta Rotterdam",
-            "pj": 96,
-            "g": 33,
-            "e": 23,
-            "p": 40
-        },
-        {
-            "equipo": "Telstar",
-            "pj": 50,
-            "g": 24,
-            "e": 14,
-            "p": 12
-        },
-        {
-            "equipo": "FC Twente",
-            "pj": 96,
-            "g": 29,
-            "e": 23,
-            "p": 44
-        },
-        {
-            "equipo": "FC Utrecht",
-            "pj": 96,
-            "g": 28,
-            "e": 23,
-            "p": 45
-        },
-        {
-            "equipo": "FC Volendam",
-            "pj": 56,
-            "g": 22,
-            "e": 14,
-            "p": 20
-        }
+  "id": "nac-breda",
+  "meta": {
+    "etiquetas": [
+      "paises_bajos",
+      "eredivisie",
+      "nac breda"
     ]
+  },
+  "datos": {
+    "nombre_completo": "Nooit Opgeven Altijd Doorzetten Aangenaam Door Vermaak En Nuttig Door Ontspanning Combinatie Breda",
+    "sigla": "",
+    "fundacion": "19 de septiembre de 1912",
+    "apodo": "La Perla del Sur (De Parel van het Zuiden), Las Ratas",
+    "estadio_actual": "Rat Verlegh Stadion",
+    "estadio_apodo": "",
+    "estadio_capacidad": 19000,
+    "estadio_inauguracion": "11 de agosto de 1996",
+    "estadio_lat": 51.5956,
+    "estadio_lng": 4.7494,
+    "estadio_direccion": "Stadionstraat 23, 4815 NC Breda, Países Bajos",
+    "socios": 14000,
+    "descripcion_corta": "El club con el nombre más largo del mundo. Famosos por las 'Avondjes NAC' (las noches de NAC), donde su estadio se convierte en un caldero insuperable lleno de cerveza y pasión Brabantina.",
+    "paleta": [
+      {
+        "tag": "Amarillo",
+        "hex": "#f1e500"
+      },
+      {
+        "tag": "Negro",
+        "hex": "#000000"
+      }
+    ],
+    "records": {
+      "maximo_goleador": "Rat Verlegh (138 goles)",
+      "mas_presencias": "Jelle ten Rouwelaar (300+ partidos)",
+      "mayor_goleada": "10-1 vs SC Veendam (Eerste Divisie 1999/00)"
+    },
+    "nombre_oficial": "NAC Breda",
+    "nombre_corto": "NAC Breda",
+    "escudo_actual": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo2012-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1912",
+      "hito": "La Fusión Fundacional de NOAD y ADVENDO",
+      "desc": "La institución nació el 19 de septiembre de 1912 en Breda a partir de la unificación de dos organizaciones locales previas: NOAD y ADVENDO. Los directivos que lideraron esta fusión histórica fueron H.J.A. Loonen (Presidente), C.A. Wouterlood van Doesburg (Secretario) y R. Krietemeyer (Tesorero). El acrónimo NAC (NOAD ADVENDO Combinatie) se instauró como uno de los nombres oficiales más extensos en el fútbol mundial, cimentando rápidamente la base del entretenimiento deportivo en la región de Brabante Septentrional."
+    },
+    {
+      "ano": "1921",
+      "hito": "El Primer Campeonato Nacional",
+      "desc": "A menos de una década de su fundación y con la descollante figura de Antoon 'Rat' Verlegh en el campo de juego, la institución experimentó su consagración absoluta. Tras adjudicarse el título regional del sur, el equipo compitió en la ronda final nacional y se coronó Campeón Oficial de los Países Bajos en la temporada 1920-1921, instaurando su nombre en la élite del amateurismo neerlandés."
+    },
+    {
+      "ano": "1973",
+      "hito": "La Conquista de la Copa KNVB",
+      "desc": "Medio siglo después del primer título de liga y ya inmersos en el profesionalismo moderno, el club logró su segunda gran corona al adjudicarse la Copa de los Países Bajos en 1973. Tras vencer al NEC Nimega por 2-0 en la final, el NAC Breda no solo levantó el trofeo sino que garantizó, por primera vez en su historia, el codiciado boleto a competiciones continentales organizadas por la UEFA (Recopa de Europa)."
+    },
+    {
+      "ano": "1975",
+      "hito": "El Nacimiento de las 'Avondjes NAC'",
+      "desc": "Con la instalación de un innovador sistema de iluminación artificial en el histórico estadio de Beatrixstraat en 1975, el club comenzó a programar sus partidos de local los sábados por la noche. Este cambio de horario forjó una atmósfera volcánica, hostil y cervecera inigualable, bautizada popularmente como el 'Avondje NAC' (Noche de NAC), una marca registrada de pasión y fervor que perdura como pilar de la identidad del club hasta la actualidad."
+    },
+    {
+      "ano": "2024",
+      "hito": "El Regreso Triunfal a la Eredivisie",
+      "desc": "Tras una dolorosa estadía en la segunda división, el club logró un ascenso dramático y catártico a la Eredivisie en 2024. Imponiéndose en la fase de playoffs de promoción y superando holgadamente a sus rivales en series de ida y vuelta, el NAC Breda desató celebraciones multitudinarias en el centro de la ciudad, reafirmando el respaldo inquebrantable de una de las aficiones más leales de los Países Bajos."
+    }
+  ],
+  "canchas": [
+    {
+      "nombre": "Rat Verlegh Stadion",
+      "capacidad": 19000,
+      "desde": "11 de agosto de 1996",
+      "hasta": "Presente",
+      "estado": "Activo",
+      "url": "https://www.google.com/maps/place/Rat+Verlegh+Stadion/@51.5956,4.7472,17z",
+      "direccion": "Stadionstraat 23, Breda",
+      "obs": "Bautizado en honor a su máximo ídolo histórico. Es un templo sagrado del fútbol rústico, donde la grada 'B-Side' lidera las míticas 'Avondjes NAC' (Noches de NAC) que aterrorizan a los visitantes (Inaugurado el 11 de agosto de 1996).",
+      "lat": 51.5956,
+      "lng": 4.7494
+    },
+    {
+      "nombre": "NAC-Stadion (Beatrixstraat)",
+      "capacidad": "10.850",
+      "desde": 1940,
+      "hasta": 1996,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/search/Beatrixstraat+Breda/",
+      "direccion": "Beatrixstraat, Breda",
+      "obs": "El icónico recinto donde se forjó la leyenda de las 'Avondjes NAC' al instalarse las torres de iluminación en 1975. Fue el hogar inexpugnable del club durante 56 años antes de ser demolido y transformado en zona residencial.",
+      "lat": 51.583,
+      "lng": 4.785
+    },
+    {
+      "nombre": "NAC Stadion Heuvelstraat",
+      "capacidad": "Terreno de Juego",
+      "desde": 1931,
+      "hasta": 1940,
+      "estado": "Demolido",
+      "url": "https://www.google.com/maps/search/Heuvelstraat+Princenhage/",
+      "direccion": "Heuvelstraat, Princenhage",
+      "obs": "Debido a disputas zonales y de planificación urbana con la ciudad de Breda, el club se vio forzado a jugar durante la década de 1930 en el municipio vecino de Princenhage, antes de lograr retornar definitivamente a la ciudad.",
+      "lat": 51.579,
+      "lng": 4.745
+    },
+    {
+      "nombre": "Terrein 't Ploegske",
+      "capacidad": "Terreno Abierto",
+      "desde": 1912,
+      "hasta": 1931,
+      "estado": "Desalojado",
+      "url": "https://www.google.com/maps/search/Molengracht+Breda/",
+      "direccion": "Zona de Molengracht, Breda",
+      "obs": "El tercer terreno cronológico del club pero el más representativo de su era fundacional y amateur. Fue aquí donde la institución forjó sus primeros pasos competitivos y logró su histórica coronación como campeón nacional en 1921.",
+      "lat": 51.581,
+      "lng": 4.78
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": 1912,
+      "hasta": null,
+      "c1": "#f1e500",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#f1e500",
+      "tipo": "diagonal",
+      "desc": "El club viste tradicionalmente una de las camisetas más inconfundibles de Europa: amarilla intensa cruzada por una gruesa franja diagonal (sash) negra. Este diseño, heredado de las escuadras amateurs fundacionales de Breda, suele variar su grosor o inclinación según las épocas, e incluso ha llegado a incorporar en su interior nombres de caídos en la Segunda Guerra Mundial, pero jamás abandona el pecho de la institución."
+    }
+  ],
+  "idolos": [
+    {
+      "nombre": "Antoon 'Rat' Verlegh",
+      "pos": "Delantero",
+      "desc": "La máxima leyenda histórica de la institución. Fue jugador, entrenador y directivo del club, dedicándole literalmente su vida entera. Hoy en día, el estadio del NAC Breda lleva su nombre en homenaje a su legado eterno.",
+      "epoca": "1912-1931",
+      "apodo": "",
+      "goles": "138",
+      "partidos": "250"
+    },
+    {
+      "nombre": "Jelle ten Rouwelaar",
+      "pos": "Arquero",
+      "desc": "Guardameta confiable que custodió la valla del equipo por casi una década ininterrumpida, convirtiéndose en el gran referente defensivo de la era moderna.",
+      "epoca": "2007-2016",
+      "apodo": "",
+      "goles": "0",
+      "partidos": "315"
+    },
+    {
+      "nombre": "Pierre van Hooijdonk",
+      "pos": "Delantero",
+      "desc": "Centrodelantero de remate potente e imponente presencia física. Acumuló 81 anotaciones en 115 partidos oficiales, siendo el eje ofensivo determinante para el éxito y permanencia del club en primera división.",
+      "epoca": "1991-1995",
+      "apodo": "Pi-Air",
+      "goles": "81",
+      "partidos": "115"
+    },
+    {
+      "nombre": "Rob Penders",
+      "pos": "Defensor",
+      "desc": "Zaguero central y líder natural. Ostentó la capitanía durante largos años aportando seguridad, jerarquía y compromiso total con el proyecto deportivo.",
+      "epoca": "2000-2011",
+      "apodo": "",
+      "goles": "19",
+      "partidos": "280"
+    },
+    {
+      "nombre": "Matthew Amoah",
+      "pos": "Delantero",
+      "desc": "Atacante ghanés que deslumbró con su explosividad y precisión. Sus notables registros goleadores mantuvieron al equipo en posiciones competitivas en la élite.",
+      "epoca": "2007-2011",
+      "apodo": "",
+      "goles": "42",
+      "partidos": "101"
+    }
+  ],
+  "goleadores_historicos": [
+    {
+      "nombre": "Rat Verlegh",
+      "goles": "138",
+      "partidos": "250",
+      "epoca": "1912-1931",
+      "apodo": ""
+    },
+    {
+      "nombre": "Pierre van Hooijdonk",
+      "goles": "81",
+      "partidos": "115",
+      "epoca": "1991-1995",
+      "apodo": "Pi-Air"
+    },
+    {
+      "nombre": "Matthew Amoah",
+      "goles": "42",
+      "partidos": "101",
+      "epoca": "2007-2011",
+      "apodo": ""
+    },
+    {
+      "nombre": "Ralf Seuntjens",
+      "goles": "28",
+      "partidos": "66",
+      "epoca": "2019-2021",
+      "apodo": ""
+    },
+    {
+      "nombre": "Sydney van Hooijdonk",
+      "goles": "22",
+      "partidos": "65",
+      "epoca": "2018-2021",
+      "apodo": ""
+    }
+  ],
+  "presencias_historicas": [
+    {
+      "nombre": "Jelle ten Rouwelaar",
+      "partidos": "315",
+      "epoca": "2007-2016",
+      "apodo": "",
+      "goles": "0"
+    },
+    {
+      "nombre": "Rob Penders",
+      "partidos": "280",
+      "epoca": "2000-2011",
+      "apodo": "",
+      "goles": "19"
+    },
+    {
+      "nombre": "Csaba Fehér",
+      "partidos": "228",
+      "epoca": "2000-2004 / 2007-2011",
+      "apodo": "",
+      "goles": "22"
+    },
+    {
+      "nombre": "Anthony Lurling",
+      "partidos": "219",
+      "epoca": "2004-2005 / 2007-2014",
+      "apodo": "",
+      "goles": "37"
+    },
+    {
+      "nombre": "Jordy Buijs",
+      "partidos": "140",
+      "epoca": "2011-2014",
+      "apodo": "",
+      "goles": "16"
+    }
+  ],
+  "titulos": [
+    {
+      "nombre": "Campeonato Nacional",
+      "cantidad": 1,
+      "anios": [
+        "1920-21"
+      ]
+    },
+    {
+      "nombre": "Copa KNVB",
+      "cantidad": 1,
+      "anios": [
+        "1972-73"
+      ]
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1912-1968",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo1912-1968.webp"
+    },
+    {
+      "ano": "1968-1974",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo1968-1974.webp"
+    },
+    {
+      "ano": "1974-1979",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1974-1979.webp"
+    },
+    {
+      "ano": "1979-1996",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1979-1996.webp"
+    },
+    {
+      "ano": "1996-2012",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo_1996-2012.webp"
+    },
+    {
+      "ano": "Actualidad",
+      "url": "/escudos/paises_bajos/nac-breda/NAC_Breda_logo2012-actual.webp"
+    }
+  ],
+  "origen_apodos": [
+    {
+      "apodo": "La Perla del Sur (De Parel van het Zuiden)",
+      "origen": "Este apodo institucional es una extensión directa del sobrenombre con el que se conoce históricamente a la propia ciudad de Breda dentro del país. Al ser el principal embajador deportivo de la ciudad, el club heredó el mote honorífico de la 'Perla del Sur' de la provincia de Brabante."
+    },
+    {
+      "apodo": "Las Ratas (De Ratten)",
+      "origen": "Deriva del apodo personal del jugador más grande, influyente e icónico en la historia fundacional de la institución: Antoon 'Rat' Verlegh. Como tributo perpetuo a su legado, astucia y sentido de pertenencia, la afición adoptó orgullosamente el apelativo de 'Las Ratas', e incluso editan una popular revista de seguidores bautizada 'De Rat'."
+    }
+  ],
+  "historial": [
+    {
+      "equipo": "Ajax",
+      "pj": 106,
+      "g": 10,
+      "e": 15,
+      "p": 81
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "pj": 96,
+      "g": 29,
+      "e": 23,
+      "p": 44
+    },
+    {
+      "equipo": "Excelsior",
+      "pj": 70,
+      "g": 30,
+      "e": 18,
+      "p": 22
+    },
+    {
+      "equipo": "Feyenoord",
+      "pj": 106,
+      "g": 20,
+      "e": 24,
+      "p": 62
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "pj": 70,
+      "g": 33,
+      "e": 18,
+      "p": 19
+    },
+    {
+      "equipo": "Go Ahead Eagles",
+      "pj": 78,
+      "g": 31,
+      "e": 23,
+      "p": 24
+    },
+    {
+      "equipo": "FC Groningen",
+      "pj": 84,
+      "g": 27,
+      "e": 24,
+      "p": 33
+    },
+    {
+      "equipo": "SC Heerenveen",
+      "pj": 64,
+      "g": 17,
+      "e": 14,
+      "p": 33
+    },
+    {
+      "equipo": "Heracles Almelo",
+      "pj": 46,
+      "g": 18,
+      "e": 11,
+      "p": 17
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "pj": 84,
+      "g": 30,
+      "e": 23,
+      "p": 31
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "pj": 58,
+      "g": 23,
+      "e": 18,
+      "p": 17
+    },
+    {
+      "equipo": "PSV",
+      "pj": 96,
+      "g": 15,
+      "e": 22,
+      "p": 59
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "pj": 96,
+      "g": 33,
+      "e": 23,
+      "p": 40
+    },
+    {
+      "equipo": "Telstar",
+      "pj": 50,
+      "g": 24,
+      "e": 14,
+      "p": 12
+    },
+    {
+      "equipo": "FC Twente",
+      "pj": 96,
+      "g": 29,
+      "e": 23,
+      "p": 44
+    },
+    {
+      "equipo": "FC Utrecht",
+      "pj": 96,
+      "g": 28,
+      "e": 23,
+      "p": 45
+    },
+    {
+      "equipo": "FC Volendam",
+      "pj": 56,
+      "g": 22,
+      "e": 14,
+      "p": 20
+    }
+  ]
 }
