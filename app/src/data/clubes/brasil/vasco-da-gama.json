@@ -58,19 +58,23 @@
       "desc": "Coincidiendo estatutariamente con la agenda anual de su centenario institucional, el equipo conquistó la Copa Libertadores 1998 derrotando al Barcelona Sporting Club. Tras ganar 2-0 la ida efectuada en São Januário, materializó el título continental logrando una victoria de 2-1 sellada el 26 de agosto en el Estadio Monumental de Guayaquil mediante dos anotaciones definidas por el atacante Luizão a los minutos 24 y 45 del primer tiempo. Posteriormente, en el torneo regional de CONMEBOL transcurrido la noche del 20 de diciembre de 2000, obtuvo la Copa Mercosur en el Estadio Parque Antárctica superando mecánicamente a Palmeiras en la final catalogada por la prensa deportiva como «A Virada do Século». Tras finalizar la primera mitad perdiendo 3-0 en el tablero de marcadores, el equipo logró revertir el balance adverso obteniendo el 4-3 al minuto 93 con tres goles convertidos por Romário (minutos 59, 68 y 93) y el tanto remanente de Juninho Paulista estipulado al minuto 86."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio de São Januário (Estádio Vasco da Gama)",
+      "fundacion": "1927",
       "direccion": "R. Gen. Almério de Moura, 131 - Vasco da Gama, Rio de Janeiro - RJ, 20921-060",
-      "desde": 1927,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Construido monumentalmente gracias a la recaudación popular de los propios hinchas y socios ('Resposta Histórica') durante 10 meses para asegurar su permanencia competitiva. Mantuvo el récord como estadio más grande de toda Sudamérica al momento de su inauguración en abril de 1927.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.8906,-43.2289",
+      "historia_nombres": [
+        {
+          "nombre": "Construido monumentalmente gracias a la recaudación popular de los propios hinchas y socios ('Resposta Histórica') durante 10 meses para asegurar su permanencia competitiva. Mantuvo el récord como estadio más grande de toda Sudamérica al momento de su inauguración en abril de 1927.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -22.8906,
-      "lng": -43.2289,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.8906,-43.2289"
-    }
-  ],
+      "lng": -43.2289
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 1,
@@ -146,11 +150,11 @@
       "desde": "1898",
       "hasta": "1926",
       "desc": "Uniforme histórico de los remeros, consistente en camisa completamente negra lisa acompañada por un escudo central.",
-      "tipo": "",
-      "c1": "#000000",
-      "c2": null,
-      "sh": "#ffffff",
-      "me": "#000000"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     },
     {
       "desde": "1930",
@@ -161,102 +165,6 @@
       "c2": "#ffffff",
       "sh": "#000000",
       "me": "#000000"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Carlos Roberto de Oliveira",
-      "apodo": "Roberto Dinamite",
-      "epoca": "1971-1993",
-      "desc": "La identidad eterna de la Cruz de Malta. Centrodelantero monumental, artillero implacable y máxima figura representativa en los derbis frente a Flamengo, dedicando su vida deportiva y administrativa al club."
-    },
-    {
-      "nombre": "Romário de Souza Faria",
-      "apodo": "Baixinho",
-      "epoca": "1985-2008",
-      "desc": "Criado en São Januário, el delantero prodigio debutó arrollando redes y tuvo múltiples retornos gloriosos donde conquistó el Brasileirão 2000 y coronó su milésimo gol profesional vistiendo la misma casaca."
-    },
-    {
-      "nombre": "Edmundo Alves de Souza Neto",
-      "apodo": "Animal",
-      "epoca": "1992-2008",
-      "desc": "Genio indomable. Su temporada arrasadora en 1997 le brindó al equipo un campeonato nacional cimentado en su anarquía letal y destreza técnica brillante ante la meta rival."
-    },
-    {
-      "nombre": "Hilderaldo Bellini",
-      "apodo": "Bellini",
-      "epoca": "1952-1961",
-      "desc": "Emblema del escudo y estandarte del liderazgo en la retaguardia. Consolidó una defensa impenetrable como capitán de las escuadras dominantes nacionales antes del Mundial del 58."
-    },
-    {
-      "nombre": "Antônio Augusto Ribeiro Reis Jr.",
-      "apodo": "Juninho Pernambucano",
-      "epoca": "1995-2013",
-      "desc": "Orquestador de la asombrosa Libertadores del 98. Su monumental remate de tiro libre en el estadio de River Plate quedó sellado como el pasaje dorado a la gloria continental contemporánea."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Carlos Roberto de Oliveira",
-      "goles": 708,
-      "epoca": "1971-1993",
-      "apodo": "Roberto Dinamite"
-    },
-    {
-      "nombre": "Romário de Souza Faria",
-      "goles": 326,
-      "epoca": "1985-2008",
-      "apodo": "Baixinho"
-    },
-    {
-      "nombre": "Ademir Marques de Menezes",
-      "goles": 301,
-      "epoca": "1942-1956",
-      "apodo": "Ademir de Menezes / Queixada"
-    },
-    {
-      "nombre": "José Lázaro Robles",
-      "goles": 250,
-      "epoca": "1953-1961",
-      "apodo": "Pinga"
-    },
-    {
-      "nombre": "Ipojucan Lins de Araújo",
-      "goles": 225,
-      "epoca": "1944-1954",
-      "apodo": "Ipojucan"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Carlos Roberto de Oliveira",
-      "partidos": 1110,
-      "epoca": "1971-1993",
-      "apodo": "Roberto Dinamite"
-    },
-    {
-      "nombre": "Carlos Germano Schwambach Alves",
-      "partidos": 632,
-      "epoca": "1990-1999",
-      "apodo": "Carlos Germano"
-    },
-    {
-      "nombre": "Sebastião Leônidas",
-      "partidos": 576,
-      "epoca": "1952-1964",
-      "apodo": "Sabará"
-    },
-    {
-      "nombre": "Alcir Portela",
-      "partidos": 511,
-      "epoca": "1963-1974",
-      "apodo": "Alcir"
-    },
-    {
-      "nombre": "Moacyr Barbosa",
-      "partidos": 431,
-      "epoca": "1945-1962",
-      "apodo": "Barbosa"
     }
   ],
   "origen_apodos": [
@@ -315,5 +223,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.334Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.334Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Carlos Roberto de Oliveira",
+        "apodo": "Roberto Dinamite",
+        "epoca": "1971-1993",
+        "desc": "La identidad eterna de la Cruz de Malta. Centrodelantero monumental, artillero implacable y máxima figura representativa en los derbis frente a Flamengo, dedicando su vida deportiva y administrativa al club."
+      },
+      {
+        "nombre": "Romário de Souza Faria",
+        "apodo": "Baixinho",
+        "epoca": "1985-2008",
+        "desc": "Criado en São Januário, el delantero prodigio debutó arrollando redes y tuvo múltiples retornos gloriosos donde conquistó el Brasileirão 2000 y coronó su milésimo gol profesional vistiendo la misma casaca."
+      },
+      {
+        "nombre": "Edmundo Alves de Souza Neto",
+        "apodo": "Animal",
+        "epoca": "1992-2008",
+        "desc": "Genio indomable. Su temporada arrasadora en 1997 le brindó al equipo un campeonato nacional cimentado en su anarquía letal y destreza técnica brillante ante la meta rival."
+      },
+      {
+        "nombre": "Hilderaldo Bellini",
+        "apodo": "Bellini",
+        "epoca": "1952-1961",
+        "desc": "Emblema del escudo y estandarte del liderazgo en la retaguardia. Consolidó una defensa impenetrable como capitán de las escuadras dominantes nacionales antes del Mundial del 58."
+      },
+      {
+        "nombre": "Antônio Augusto Ribeiro Reis Jr.",
+        "apodo": "Juninho Pernambucano",
+        "epoca": "1995-2013",
+        "desc": "Orquestador de la asombrosa Libertadores del 98. Su monumental remate de tiro libre en el estadio de River Plate quedó sellado como el pasaje dorado a la gloria continental contemporánea."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Carlos Roberto de Oliveira",
+        "goles": 708,
+        "epoca": "1971-1993",
+        "apodo": "Roberto Dinamite"
+      },
+      {
+        "nombre": "Romário de Souza Faria",
+        "goles": 326,
+        "epoca": "1985-2008",
+        "apodo": "Baixinho"
+      },
+      {
+        "nombre": "Ademir Marques de Menezes",
+        "goles": 301,
+        "epoca": "1942-1956",
+        "apodo": "Ademir de Menezes / Queixada"
+      },
+      {
+        "nombre": "José Lázaro Robles",
+        "goles": 250,
+        "epoca": "1953-1961",
+        "apodo": "Pinga"
+      },
+      {
+        "nombre": "Ipojucan Lins de Araújo",
+        "goles": 225,
+        "epoca": "1944-1954",
+        "apodo": "Ipojucan"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Carlos Roberto de Oliveira",
+        "partidos": 1110,
+        "epoca": "1971-1993",
+        "apodo": "Roberto Dinamite"
+      },
+      {
+        "nombre": "Carlos Germano Schwambach Alves",
+        "partidos": 632,
+        "epoca": "1990-1999",
+        "apodo": "Carlos Germano"
+      },
+      {
+        "nombre": "Sebastião Leônidas",
+        "partidos": 576,
+        "epoca": "1952-1964",
+        "apodo": "Sabará"
+      },
+      {
+        "nombre": "Alcir Portela",
+        "partidos": 511,
+        "epoca": "1963-1974",
+        "apodo": "Alcir"
+      },
+      {
+        "nombre": "Moacyr Barbosa",
+        "partidos": 431,
+        "epoca": "1945-1962",
+        "apodo": "Barbosa"
+      }
+    ]
+  }
 }

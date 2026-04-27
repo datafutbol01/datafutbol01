@@ -62,30 +62,32 @@
       "desc": "Sostenidos bajo una filosofía de asfixia táctica formalizada mediante las filas administradas por el director técnico Fernando Diniz, la institución logró finalmente suplir históricamente la carencia principal de los galardones tras alzar definitivamente el primer trofeo oficial sudamericano registrando numéricamente la Copa Libertadores 2023. El partido de llave única estipuló final arrojada al 4 de noviembre y ejecutada sobre las métricas exactas del Maracanã. Determinó una victoria con marcadores finales superados registrando 2-1 sellando una contienda cerrada frente a Club Atlético Boca Juniors originando goles de Germán Cano y del juvenil John Kennedy originados en el primer tiempo suplementario de rigor."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio das Laranjeiras (Estádio Manoel Schwartz)",
-      "direccion": "R. Pinheiro Machado, 22-14 - Laranjeiras, Rio de Janeiro - RJ, 22231-090",
-      "desde": 1919,
-      "hasta": 2003,
-      "estado": "Histórico",
-      "obs": "Fundado y operando contablemente para albergar y ser la matriz constructora inmaculada que estructuró los cimientos formales iniciales del seleccionado de Brasil.",
-      "lat": -22.9348,
-      "lng": -43.1843,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9348,-43.1843"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Jornalista Mário Filho (Maracanã)",
+      "fundacion": "1950",
       "direccion": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
-      "desde": 1950,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estructura principal inexpugnable donde la entidad oficia las correspondientes y rigurosas sedes de localía actuales.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301",
+      "historia_nombres": [
+        {
+          "nombre": "Estructura principal inexpugnable donde la entidad oficia las correspondientes y rigurosas sedes de localía actuales.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -22.9121,
-      "lng": -43.2301,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301"
-    }
-  ],
+      "lng": -43.2301
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio das Laranjeiras (Estádio Manoel Schwartz)",
+        "epoca": "1919-2003",
+        "direccion": "R. Pinheiro Machado, 22-14 - Laranjeiras, Rio de Janeiro - RJ, 22231-090",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9348,-43.1843",
+        "lat": -22.9348,
+        "lng": -43.1843
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -187,102 +189,6 @@
       "me": "#ffffff"
     }
   ],
-  "idolos": [
-    {
-      "nombre": "Carlos José Castilho",
-      "apodo": "Castilho",
-      "epoca": "1946-1964",
-      "desc": "Guardián eterno de milagros y lealtad sobrenatural. Llegó al extremo heroico de amputarse el dedo meñique para continuar atajando liderando al plantel a levantar la legendaria Copa Rio."
-    },
-    {
-      "nombre": "Frederico Chaves Guedes",
-      "apodo": "Fred",
-      "epoca": "2009-2022",
-      "desc": "Líder contemporáneo que sacó al equipo de ahogos traumáticos y devolvió campeonatos brasileños al centro de Río. Sus chilenas, cabezazos y gritos desgarradores lo transformaron en un mito en vida."
-    },
-    {
-      "nombre": "Roberto Rivellino",
-      "apodo": "Rivelino",
-      "epoca": "1975-1978",
-      "desc": "La zurda elástica y 'patada atómica' de Brasil. Aportó una técnica fina y destreza superior asumiendo los hilos organizativos del equipo conocido icónicamente como 'La Máquina' de los años setenta."
-    },
-    {
-      "nombre": "Waldo Machado da Silva",
-      "apodo": "Waldo",
-      "epoca": "1954-1961",
-      "desc": "Un finalizador nato letal. Convirtió la simpleza del disparo al arco en un arte puro arruinado redes para catapultar su fama a base matemática como artillero infalible y rápido del continente."
-    },
-    {
-      "nombre": "Thiago Emiliano da Silva",
-      "apodo": "Thiago Silva / O Monstro",
-      "epoca": "2006-Presente",
-      "desc": "Su paso y regreso consolidan zafiros en defensa. Su temple elegante para cerrar delanteros devolvió esperanzas épicas permitiendo al 'Tricolor' sellar su grandísima primera Copa Libertadores de América."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Waldo Machado da Silva",
-      "goles": 319,
-      "epoca": "1954-1961",
-      "apodo": "Waldo"
-    },
-    {
-      "nombre": "Frederico Chaves Guedes",
-      "goles": 199,
-      "epoca": "2009-2022",
-      "apodo": "Fred"
-    },
-    {
-      "nombre": "Orlando Pingo de Ouro",
-      "goles": 184,
-      "epoca": "1945-1953",
-      "apodo": "Pingo de Ouro"
-    },
-    {
-      "nombre": "Hércules de Miranda",
-      "goles": 165,
-      "epoca": "1935-1941",
-      "apodo": "Hércules"
-    },
-    {
-      "nombre": "Telê Santana da Silva",
-      "goles": 164,
-      "epoca": "1951-1960",
-      "apodo": "Fio de Esperança"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Carlos José Castilho",
-      "partidos": 698,
-      "epoca": "1946-1964",
-      "apodo": "Castilho"
-    },
-    {
-      "nombre": "João Carlos Batista Pinheiro",
-      "partidos": 603,
-      "epoca": "1948-1963",
-      "apodo": "Pinheiro"
-    },
-    {
-      "nombre": "Telê Santana da Silva",
-      "partidos": 559,
-      "epoca": "1951-1960",
-      "apodo": "Telê Santana"
-    },
-    {
-      "nombre": "Altair Gomes de Figueiredo",
-      "partidos": 551,
-      "epoca": "1955-1970",
-      "apodo": "Altair"
-    },
-    {
-      "nombre": "Benedito Ribeiro",
-      "partidos": 489,
-      "epoca": "1954-1964",
-      "apodo": "Escurinho"
-    }
-  ],
   "origen_apodos": [
     {
       "apodo": "Pó de Arroz",
@@ -355,5 +261,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.535Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.535Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Carlos José Castilho",
+        "apodo": "Castilho",
+        "epoca": "1946-1964",
+        "desc": "Guardián eterno de milagros y lealtad sobrenatural. Llegó al extremo heroico de amputarse el dedo meñique para continuar atajando liderando al plantel a levantar la legendaria Copa Rio."
+      },
+      {
+        "nombre": "Frederico Chaves Guedes",
+        "apodo": "Fred",
+        "epoca": "2009-2022",
+        "desc": "Líder contemporáneo que sacó al equipo de ahogos traumáticos y devolvió campeonatos brasileños al centro de Río. Sus chilenas, cabezazos y gritos desgarradores lo transformaron en un mito en vida."
+      },
+      {
+        "nombre": "Roberto Rivellino",
+        "apodo": "Rivelino",
+        "epoca": "1975-1978",
+        "desc": "La zurda elástica y 'patada atómica' de Brasil. Aportó una técnica fina y destreza superior asumiendo los hilos organizativos del equipo conocido icónicamente como 'La Máquina' de los años setenta."
+      },
+      {
+        "nombre": "Waldo Machado da Silva",
+        "apodo": "Waldo",
+        "epoca": "1954-1961",
+        "desc": "Un finalizador nato letal. Convirtió la simpleza del disparo al arco en un arte puro arruinado redes para catapultar su fama a base matemática como artillero infalible y rápido del continente."
+      },
+      {
+        "nombre": "Thiago Emiliano da Silva",
+        "apodo": "Thiago Silva / O Monstro",
+        "epoca": "2006-Presente",
+        "desc": "Su paso y regreso consolidan zafiros en defensa. Su temple elegante para cerrar delanteros devolvió esperanzas épicas permitiendo al 'Tricolor' sellar su grandísima primera Copa Libertadores de América."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Waldo Machado da Silva",
+        "goles": 319,
+        "epoca": "1954-1961",
+        "apodo": "Waldo"
+      },
+      {
+        "nombre": "Frederico Chaves Guedes",
+        "goles": 199,
+        "epoca": "2009-2022",
+        "apodo": "Fred"
+      },
+      {
+        "nombre": "Orlando Pingo de Ouro",
+        "goles": 184,
+        "epoca": "1945-1953",
+        "apodo": "Pingo de Ouro"
+      },
+      {
+        "nombre": "Hércules de Miranda",
+        "goles": 165,
+        "epoca": "1935-1941",
+        "apodo": "Hércules"
+      },
+      {
+        "nombre": "Telê Santana da Silva",
+        "goles": 164,
+        "epoca": "1951-1960",
+        "apodo": "Fio de Esperança"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Carlos José Castilho",
+        "partidos": 698,
+        "epoca": "1946-1964",
+        "apodo": "Castilho"
+      },
+      {
+        "nombre": "João Carlos Batista Pinheiro",
+        "partidos": 603,
+        "epoca": "1948-1963",
+        "apodo": "Pinheiro"
+      },
+      {
+        "nombre": "Telê Santana da Silva",
+        "partidos": 559,
+        "epoca": "1951-1960",
+        "apodo": "Telê Santana"
+      },
+      {
+        "nombre": "Altair Gomes de Figueiredo",
+        "partidos": 551,
+        "epoca": "1955-1970",
+        "apodo": "Altair"
+      },
+      {
+        "nombre": "Benedito Ribeiro",
+        "partidos": 489,
+        "epoca": "1954-1964",
+        "apodo": "Escurinho"
+      }
+    ]
+  }
 }

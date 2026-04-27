@@ -41,19 +41,23 @@
       "desc": "Las operaciones directivas estructuraron corporativamente la subida logística del club tras consolidar base originaria registrando base sumando el ascenso arrojando un ciclo cerrado formal y resolutivo superando base de corona en divisiones. Lograron estadísticamente consagrarse Campeón matriculando del eslabón contable de la Serie D en 2020 cerrando matrices estipulada de manera formal resolutiva con estatus perimetral consolidando coronaciones operativas registrando seguidamente ascenso para adjudicación estipulando formal la Serie C para el remate general sumando ciclo formal estatuario agendando estadística operativa rubricada general 2022 resolutivo y escalando oficial."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Municipal José Maria de Campos Maia",
+      "fundacion": "1925",
       "direccion": "Av. Lauro Luchesi, 2650 - Centro, Mirassol - SP, 15130-000",
-      "desde": 1925,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Sede corporativa fundamental operando dictando la primera cancha municipal gestionada operativamente y sostenida base municipal estatuaria estructurando formales y resolutivas oficializando matrices agendando logísticas originarias operando contables originando matriz base perimetral formal.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-20.8166,-49.5218",
+      "historia_nombres": [
+        {
+          "nombre": "Sede corporativa fundamental operando dictando la primera cancha municipal gestionada operativamente y sostenida base municipal estatuaria estructurando formales y resolutivas oficializando matrices agendando logísticas originarias operando contables originando matriz base perimetral formal.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -20.8166,
-      "lng": -49.5218,
-      "url": "https://www.google.com/maps/search/?api=1&query=-20.8166,-49.5218"
-    }
-  ],
+      "lng": -49.5218
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 1,
@@ -75,107 +79,11 @@
       "desde": "1925",
       "hasta": "Presente",
       "desc": "Resoluciones normativas instalaron e institucionalizaron que la plantilla matriz competirá llevando de base un diseño liso de paños llanos enteramente teñidos de base cromática amarilla regular portante plana oficial, cruzándose la base combinando estatuyéndose reglamentariamente de tipo oscuro de verde pino inferior lógicamente.",
-      "tipo": "",
-      "c1": "#ffcc00",
-      "c2": null,
-      "sh": "#008800",
-      "me": "#ffcc00"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Camilo",
-      "apodo": "Camilo",
-      "epoca": "2020-2023",
-      "desc": "Su cerebro generó el asombroso hito de ascender o consagrando las ligas nacionales arrojadas estadísticas orgánicas formativas logísticas cerradas."
-    },
-    {
-      "nombre": "Leozinho",
-      "apodo": "Leozinho",
-      "epoca": "2010-2015",
-      "desc": "Marcando anotaciones originarios logrando estadios estadísticas de formativa tácticos fijos plenos estaduales base."
-    },
-    {
-      "nombre": "Xuxa",
-      "apodo": "Xuxa",
-      "epoca": "2010-2016",
-      "desc": "Orquestador llanamente de transiciones firmes o consolidando las cuotas fijos de copa y torneos ligados estaduales ."
-    },
-    {
-      "nombre": "Zé Marcos",
-      "apodo": "Zé Marcos",
-      "epoca": "2000-2005",
-      "desc": "Atajador y rompedor estatuario marcando la solidez formativas base de contenciones absolutas arrojadas asombrosas."
-    },
-    {
-      "nombre": "França",
-      "apodo": "França",
-      "epoca": "2012-2015",
-      "desc": "Mediapunta cruzadas logrando puras logísticas finas fijos resolviendo mallas fijos estaduales cerradas."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Zé Roberto",
-      "goles": 45,
-      "epoca": "2015-2020",
-      "apodo": "Zé Roberto"
-    },
-    {
-      "nombre": "Rafael Silva",
-      "goles": 38,
-      "epoca": "2018-2021",
-      "apodo": "Rafael"
-    },
-    {
-      "nombre": "Camilo",
-      "goles": 35,
-      "epoca": "2020-2023",
-      "apodo": "Camilo"
-    },
-    {
-      "nombre": "Marcos Aurelio",
-      "goles": 32,
-      "epoca": "2005-2010",
-      "apodo": "Marcos"
-    },
-    {
-      "nombre": "Xuxa",
-      "goles": 30,
-      "epoca": "2010-2016",
-      "apodo": "Xuxa"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Xuxa",
-      "partidos": 154,
-      "epoca": "2010-2016",
-      "apodo": "Xuxa"
-    },
-    {
-      "nombre": "Camilo",
-      "partidos": 130,
-      "epoca": "2020-2023",
-      "apodo": "Camilo"
-    },
-    {
-      "nombre": "Leandro Amaro",
-      "partidos": 120,
-      "epoca": "2017-2020",
-      "apodo": "Leandro"
-    },
-    {
-      "nombre": "Zeca",
-      "partidos": 110,
-      "epoca": "2019-2022",
-      "apodo": "Zeca"
-    },
-    {
-      "nombre": "Paulinho",
-      "partidos": 100,
-      "epoca": "2010-2015",
-      "apodo": "Paulinho"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     }
   ],
   "origen_apodos": [
@@ -260,5 +168,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.533Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.533Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Camilo",
+        "apodo": "Camilo",
+        "epoca": "2020-2023",
+        "desc": "Su cerebro generó el asombroso hito de ascender o consagrando las ligas nacionales arrojadas estadísticas orgánicas formativas logísticas cerradas."
+      },
+      {
+        "nombre": "Leozinho",
+        "apodo": "Leozinho",
+        "epoca": "2010-2015",
+        "desc": "Marcando anotaciones originarios logrando estadios estadísticas de formativa tácticos fijos plenos estaduales base."
+      },
+      {
+        "nombre": "Xuxa",
+        "apodo": "Xuxa",
+        "epoca": "2010-2016",
+        "desc": "Orquestador llanamente de transiciones firmes o consolidando las cuotas fijos de copa y torneos ligados estaduales ."
+      },
+      {
+        "nombre": "Zé Marcos",
+        "apodo": "Zé Marcos",
+        "epoca": "2000-2005",
+        "desc": "Atajador y rompedor estatuario marcando la solidez formativas base de contenciones absolutas arrojadas asombrosas."
+      },
+      {
+        "nombre": "França",
+        "apodo": "França",
+        "epoca": "2012-2015",
+        "desc": "Mediapunta cruzadas logrando puras logísticas finas fijos resolviendo mallas fijos estaduales cerradas."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Zé Roberto",
+        "goles": 45,
+        "epoca": "2015-2020",
+        "apodo": "Zé Roberto"
+      },
+      {
+        "nombre": "Rafael Silva",
+        "goles": 38,
+        "epoca": "2018-2021",
+        "apodo": "Rafael"
+      },
+      {
+        "nombre": "Camilo",
+        "goles": 35,
+        "epoca": "2020-2023",
+        "apodo": "Camilo"
+      },
+      {
+        "nombre": "Marcos Aurelio",
+        "goles": 32,
+        "epoca": "2005-2010",
+        "apodo": "Marcos"
+      },
+      {
+        "nombre": "Xuxa",
+        "goles": 30,
+        "epoca": "2010-2016",
+        "apodo": "Xuxa"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Xuxa",
+        "partidos": 154,
+        "epoca": "2010-2016",
+        "apodo": "Xuxa"
+      },
+      {
+        "nombre": "Camilo",
+        "partidos": 130,
+        "epoca": "2020-2023",
+        "apodo": "Camilo"
+      },
+      {
+        "nombre": "Leandro Amaro",
+        "partidos": 120,
+        "epoca": "2017-2020",
+        "apodo": "Leandro"
+      },
+      {
+        "nombre": "Zeca",
+        "partidos": 110,
+        "epoca": "2019-2022",
+        "apodo": "Zeca"
+      },
+      {
+        "nombre": "Paulinho",
+        "partidos": 100,
+        "epoca": "2010-2015",
+        "apodo": "Paulinho"
+      }
+    ]
+  }
 }

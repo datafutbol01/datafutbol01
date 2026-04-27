@@ -58,30 +58,32 @@
       "desc": "Originando y engrosando los escaparates continentales matriz formales con una supremacía estadísticamente contable rubricada sobre instituciones del sector sudamericano continental, Internacional selló y estructuró logísticamente resoluciones de la certamen llave Copa Recopa formal Sudamericana cerrando agendas perimetral correspondiente al año de base numéricamente oficial de 2011. Al cimentar resultados formales en final a doble base, derrotando al originario equipo resolutivo independiente cerrando en terreno argentino matriz venciendo pero formal perimetral superando, lograron el título originando un cierre numérico oficial arrojando de local al estatuir resolutiva logrando una rotunda cuenta victoria matriz estipulada final perimetralmente frente a Independiente con goles sellando estadística matriz superando cruzada rubricando Leandro Damião originado en el estadio de la franja oficial Beira-Rio contabilizando 3-1 de matriz de clausura final."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio Ildo Meneghetti (Estádio dos Eucaliptos)",
-      "direccion": "R. Silveiro - Menino Deus, Porto Alegre - RS",
-      "desde": 1931,
-      "hasta": 1969,
-      "estado": "Histórico",
-      "obs": "Fundado históricamente y constituido en parte primordial originando mediante matrices de estructuras de madera que conformaron bases temporales; operó matriculando logísticamente arrojando y oficializando sede local para selecciones durante la cruzada matriz del Copa del Mundo originaria estadística FIFA de 1950 en suelo gaucho.",
-      "lat": -30.062,
-      "lng": -51.2268,
-      "url": "https://www.google.com/maps/search/?api=1&query=-30.0620,-51.2268"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio José Pinheiro Borda (Beira-Rio)",
+      "fundacion": "1969",
       "direccion": "Av. Padre Cacique, 891 - Praia de Belas, Porto Alegre - RS, 90810-240",
-      "desde": 1969,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Catedral principal erigida logísticamente originando perimetral frente ganando terrenos a las orillas formales del río Guaíba contable mediante ladrillos consolidados aportados de campañas y socios originarios estructurando. Superada la reforma resolutiva logística operando y formalizando sede Mundial oficial arrojando de FIFA en el ciclo del mundial 2014.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-30.0667,-51.2359",
+      "historia_nombres": [
+        {
+          "nombre": "Catedral principal erigida logísticamente originando perimetral frente ganando terrenos a las orillas formales del río Guaíba contable mediante ladrillos consolidados aportados de campañas y socios originarios estructurando. Superada la reforma resolutiva logística operando y formalizando sede Mundial oficial arrojando de FIFA en el ciclo del mundial 2014.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -30.0667,
-      "lng": -51.2359,
-      "url": "https://www.google.com/maps/search/?api=1&query=-30.0667,-51.2359"
-    }
-  ],
+      "lng": -51.2359
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Ildo Meneghetti (Estádio dos Eucaliptos)",
+        "epoca": "1931-1969",
+        "direccion": "R. Silveiro - Menino Deus, Porto Alegre - RS",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-30.0620,-51.2268",
+        "lat": -30.062,
+        "lng": -51.2268
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -149,107 +151,11 @@
       "desde": "1909",
       "hasta": "Presente",
       "desc": "Formalmente institucionalizado definió y fijó legalidad técnica sobre sus camisones usando coloración enteramente roja lisa al frente integral para disputar los derbis en contraste con azules cruzados en uso zonificado legal.",
-      "tipo": "",
-      "c1": "#cc0000",
-      "c2": null,
-      "sh": "#ffffff",
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Fernando Lúcio da Costa",
-      "apodo": "Fernandão",
-      "epoca": "2004-2008",
-      "desc": "El capitán supremo que levantó el mundo. Marcó el primer gol glorioso en el Mundial de Clubes ante Barcelona como mediapunta total y artífice táctico y anímico de la mayor era contemporánea que haya atesorado su gigantesca afición antes de su trágica defunción física y paso a la eternidad mítica."
-    },
-    {
-      "nombre": "Paulo Roberto Falcão",
-      "apodo": "Falcão",
-      "epoca": "1973-1980",
-      "desc": "Elegancia dictatorial tejida a una técnica excelsa de época. El mediocentro orquestador inmaculado por excelencia condujo el timón a lo largo de tricampeonatos brasileños seguidos en los setenta, estableciéndose sólidamente ante los ojos de la prensa global como el estandarte rojo ideal e invicto absoluto local."
-    },
-    {
-      "nombre": "Elías Ricardo Figueroa",
-      "apodo": "Don Elías / Figueroa",
-      "epoca": "1971-1976",
-      "desc": "Zaguero central chileno autor del inmarcesible Gol Iluminado de liga. Ostentó porte real desbaratando atacantes combinando destreza aérea brutal e instalando bases de jerarquía defensiva pura que reescribieron estatutos de contención de la historia liguera del deporte entero del sur americano."
-    },
-    {
-      "nombre": "Andrés Nicolás D'Alessandro",
-      "apodo": "D'Alessandro / El Cabezón",
-      "epoca": "2008-2020",
-      "desc": "Diez argentino de sangre bullente dominando balones y rompiendo estaturas del juego durante una docena contable resuelta de asaltos, marcando coronaciones gloriosas en la Sudamericana y sellando asombrosamente libertadores una cúpula estatuaria plena formal definitiva en ídolos colorados."
-    },
-    {
-      "nombre": "Osmar Fortes Barcellos",
-      "apodo": "Tesourinha",
-      "epoca": "1939-1949",
-      "desc": "Puntero endemoniado de amagues demoledores que destrozaban estatuillas a defensas regias erigiendo míticas hazañas integrando al inolvidable 'Rolo Compressor'. Ancló un estilo vibrante puro originario base dominando certámenes inalcanzables regionales logrando asentar su legado invicto pleno originario."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Alberto Zolim Filho",
-      "goles": 326,
-      "epoca": "1938-1951",
-      "apodo": "Carlitos"
-    },
-    {
-      "nombre": "Nilton Coelho da Costa",
-      "goles": 235,
-      "epoca": "1951-1958",
-      "apodo": "Bodinho"
-    },
-    {
-      "nombre": "Claudiomiro Estrais Ferreira",
-      "goles": 210,
-      "epoca": "1967-1974",
-      "apodo": "Claudiomiro"
-    },
-    {
-      "nombre": "Valdomiro Vaz Franco",
-      "goles": 191,
-      "epoca": "1968-1980",
-      "apodo": "Valdomiro"
-    },
-    {
-      "nombre": "Osmar Fortes Barcellos",
-      "goles": 178,
-      "epoca": "1939-1949",
-      "apodo": "Tesourinha"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Valdomiro Vaz Franco",
-      "partidos": 803,
-      "epoca": "1968-1980",
-      "apodo": "Valdomiro"
-    },
-    {
-      "nombre": "Andrés Nicolás D'Alessandro",
-      "partidos": 529,
-      "epoca": "2008-2020",
-      "apodo": "D'Alessandro"
-    },
-    {
-      "nombre": "Bibiano Pontes",
-      "partidos": 523,
-      "epoca": "1965-1975",
-      "apodo": "Bibiano Pontes"
-    },
-    {
-      "nombre": "Dorvalino Alves Maciel",
-      "partidos": 460,
-      "epoca": "1964-1975",
-      "apodo": "Dorinho"
-    },
-    {
-      "nombre": "Luís Carlos Winck",
-      "partidos": 457,
-      "epoca": "1981-1989",
-      "apodo": "Winck"
     }
   ],
   "origen_apodos": [
@@ -348,5 +254,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.533Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.533Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Fernando Lúcio da Costa",
+        "apodo": "Fernandão",
+        "epoca": "2004-2008",
+        "desc": "El capitán supremo que levantó el mundo. Marcó el primer gol glorioso en el Mundial de Clubes ante Barcelona como mediapunta total y artífice táctico y anímico de la mayor era contemporánea que haya atesorado su gigantesca afición antes de su trágica defunción física y paso a la eternidad mítica."
+      },
+      {
+        "nombre": "Paulo Roberto Falcão",
+        "apodo": "Falcão",
+        "epoca": "1973-1980",
+        "desc": "Elegancia dictatorial tejida a una técnica excelsa de época. El mediocentro orquestador inmaculado por excelencia condujo el timón a lo largo de tricampeonatos brasileños seguidos en los setenta, estableciéndose sólidamente ante los ojos de la prensa global como el estandarte rojo ideal e invicto absoluto local."
+      },
+      {
+        "nombre": "Elías Ricardo Figueroa",
+        "apodo": "Don Elías / Figueroa",
+        "epoca": "1971-1976",
+        "desc": "Zaguero central chileno autor del inmarcesible Gol Iluminado de liga. Ostentó porte real desbaratando atacantes combinando destreza aérea brutal e instalando bases de jerarquía defensiva pura que reescribieron estatutos de contención de la historia liguera del deporte entero del sur americano."
+      },
+      {
+        "nombre": "Andrés Nicolás D'Alessandro",
+        "apodo": "D'Alessandro / El Cabezón",
+        "epoca": "2008-2020",
+        "desc": "Diez argentino de sangre bullente dominando balones y rompiendo estaturas del juego durante una docena contable resuelta de asaltos, marcando coronaciones gloriosas en la Sudamericana y sellando asombrosamente libertadores una cúpula estatuaria plena formal definitiva en ídolos colorados."
+      },
+      {
+        "nombre": "Osmar Fortes Barcellos",
+        "apodo": "Tesourinha",
+        "epoca": "1939-1949",
+        "desc": "Puntero endemoniado de amagues demoledores que destrozaban estatuillas a defensas regias erigiendo míticas hazañas integrando al inolvidable 'Rolo Compressor'. Ancló un estilo vibrante puro originario base dominando certámenes inalcanzables regionales logrando asentar su legado invicto pleno originario."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Alberto Zolim Filho",
+        "goles": 326,
+        "epoca": "1938-1951",
+        "apodo": "Carlitos"
+      },
+      {
+        "nombre": "Nilton Coelho da Costa",
+        "goles": 235,
+        "epoca": "1951-1958",
+        "apodo": "Bodinho"
+      },
+      {
+        "nombre": "Claudiomiro Estrais Ferreira",
+        "goles": 210,
+        "epoca": "1967-1974",
+        "apodo": "Claudiomiro"
+      },
+      {
+        "nombre": "Valdomiro Vaz Franco",
+        "goles": 191,
+        "epoca": "1968-1980",
+        "apodo": "Valdomiro"
+      },
+      {
+        "nombre": "Osmar Fortes Barcellos",
+        "goles": 178,
+        "epoca": "1939-1949",
+        "apodo": "Tesourinha"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Valdomiro Vaz Franco",
+        "partidos": 803,
+        "epoca": "1968-1980",
+        "apodo": "Valdomiro"
+      },
+      {
+        "nombre": "Andrés Nicolás D'Alessandro",
+        "partidos": 529,
+        "epoca": "2008-2020",
+        "apodo": "D'Alessandro"
+      },
+      {
+        "nombre": "Bibiano Pontes",
+        "partidos": 523,
+        "epoca": "1965-1975",
+        "apodo": "Bibiano Pontes"
+      },
+      {
+        "nombre": "Dorvalino Alves Maciel",
+        "partidos": 460,
+        "epoca": "1964-1975",
+        "apodo": "Dorinho"
+      },
+      {
+        "nombre": "Luís Carlos Winck",
+        "partidos": 457,
+        "epoca": "1981-1989",
+        "apodo": "Winck"
+      }
+    ]
+  }
 }

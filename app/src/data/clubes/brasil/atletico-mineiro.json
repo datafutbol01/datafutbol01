@@ -57,52 +57,48 @@
       "desc": "Tras medio siglo sin capturar oficialmente el Campeonato Brasileño moderno, el Atlético Mineiro replicó el hito de los años 70 y se coronó contundentemente en la liga del ciclo 2021 liderado fácticamente en la tabla goleadora estadística por el delantero zurdo Hulk. La institución complementó esta victoria cerrando su vitrina semestral al conseguir adicionalmente la Copa de Brasil eliminando a Athletico Paranaense en las finales formales simultáneas."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio Antônio Carlos (Estádio de Lourdes)",
-      "direccion": "R. Bernardo Guimarães - Lourdes, Belo Horizonte - MG",
-      "desde": 1929,
-      "hasta": 1968,
-      "estado": "Histórico",
-      "obs": "Primera casa propia construida e inaugurada institucionalmente por la directiva del club y certificada preliminarmente con primera red eléctrica estatal.",
-      "lat": -19.9328,
-      "lng": -43.9452,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.9328,-43.9452"
-    },
-    {
-      "nombre": "Estádio Governador Magalhães Pinto (Mineirão)",
-      "direccion": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
-      "desde": 1965,
-      "hasta": 2023,
-      "estado": "Histórico",
-      "obs": "Sede arrendada de propiedad gubernamental sujeta a uso compartido formal. Concentró la mayoría histórica de partidos por Campeonato de Primera División oficial entre 1965 y 2023.",
-      "lat": -19.8658,
-      "lng": -43.9711,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711"
-    },
-    {
-      "nombre": "Estádio Raimundo Sampaio (Independência)",
-      "direccion": "R. Pitangui, 3230 - Horto, Belo Horizonte - MG, 31030-050",
-      "desde": 1950,
-      "hasta": 2023,
-      "estado": "Histórico",
-      "obs": "Sede deportiva alternativa alquilada de propiedad original registrada a nombre de América Mineiro. Se dispuso legalmente como estadio supletorio, con alto porcentaje de uso durante la década de remodelación mundialista.",
-      "lat": -19.9084,
-      "lng": -43.9178,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.9084,-43.9178"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Arena MRV",
+      "fundacion": "2023",
       "direccion": "R. Cristina Maria de Assis, 202 - Califórnia, Belo Horizonte - MG, 30855-440",
-      "desde": 2023,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estadio matriz inscripto legalmente bajo la corporación civil del equipo e inaugurado en 2023 como foco de infraestructura privada unificada.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.9281,-44.0202",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio matriz inscripto legalmente bajo la corporación civil del equipo e inaugurado en 2023 como foco de infraestructura privada unificada.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -19.9281,
-      "lng": -44.0202,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.9281,-44.0202"
-    }
-  ],
+      "lng": -44.0202
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Antônio Carlos (Estádio de Lourdes)",
+        "epoca": "1929-1968",
+        "direccion": "R. Bernardo Guimarães - Lourdes, Belo Horizonte - MG",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.9328,-43.9452",
+        "lat": -19.9328,
+        "lng": -43.9452
+      },
+      {
+        "nombre": "Estádio Governador Magalhães Pinto (Mineirão)",
+        "epoca": "1965-2023",
+        "direccion": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711",
+        "lat": -19.8658,
+        "lng": -43.9711
+      },
+      {
+        "nombre": "Estádio Raimundo Sampaio (Independência)",
+        "epoca": "1950-2023",
+        "direccion": "R. Pitangui, 3230 - Horto, Belo Horizonte - MG, 31030-050",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.9084,-43.9178",
+        "lat": -19.9084,
+        "lng": -43.9178
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -163,9 +159,9 @@
       "desde": "1908",
       "hasta": "1913",
       "desc": "Primeras vestimentas primitivas caracterizadas de camisetas o camisas planas o llanas con tonos puramente blancos.",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
+      "c2": "#000000",
       "sh": "#000000",
       "me": "#ffffff"
     },
@@ -178,102 +174,6 @@
       "c2": "#ffffff",
       "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "José Reinaldo de Lima",
-      "apodo": "Reinaldo / O Rei",
-      "epoca": "1973-1985",
-      "desc": "El rey del gol y símbolo de lucha. Con sus definiciones letales y sus celebraciones políticas con el puño en alto desafiando dictaduras forjó una pureza táctica formadora inabarcable en el recinto logístico estadual matriz."
-    },
-    {
-      "nombre": "Ronaldo de Assis Moreira",
-      "apodo": "Ronaldinho Gaúcho",
-      "epoca": "2012-2014",
-      "desc": "Mago global que aterrizó pura alegría y destreza arrolladora en gambetas llanas conquistando épicamente la primera y asombrosa copa continental pura o ligueros del torneo de libertadores formadora contable u originaria asombrosa puro absoluta."
-    },
-    {
-      "nombre": "Givanildo Vieira de Souza",
-      "apodo": "Hulk",
-      "epoca": "2021-Presente",
-      "desc": "Potencia colosal y destrozador de formaciones defensivas con zurdazos asombrosos los títulos dictados bicampeonatos cerrados liga absolutos o fijos originarios s en la época formativo matriz plena."
-    },
-    {
-      "nombre": "Victor Leandro Bagy",
-      "apodo": "São Victor",
-      "epoca": "2012-2021",
-      "desc": "Atajador puro originando puras heroicidades absolutas en penales cruzados asombrosos en cuartos de la competición logística de copa resolutivos o regados u formadores cerrados estuarios de vida asombrosa contable cerrados puro fijo liga contable asombroso puro plenos origen fijo s absolutos fijados."
-    },
-    {
-      "nombre": "Marques Batista de Abreu",
-      "apodo": "Marques",
-      "epoca": "1997-2010",
-      "desc": "Puntero escurridizo que asistió a cientos de atacantes logrando formar tácticas precisas y amor puro arrollador en dictaminados originarios logísticos cruzados de la época formal reglando purezas en regidas absolutas de copa o torneos fijos de contable formativas."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "José Reinaldo de Lima",
-      "goles": 255,
-      "epoca": "1973-1985",
-      "apodo": "Reinaldo"
-    },
-    {
-      "nombre": "Dario José dos Santos",
-      "goles": 211,
-      "epoca": "1968-1979",
-      "apodo": "Dadá Maravilha"
-    },
-    {
-      "nombre": "Mário de Castro",
-      "goles": 195,
-      "epoca": "1926-1931",
-      "apodo": "Mário"
-    },
-    {
-      "nombre": "Guará",
-      "goles": 168,
-      "epoca": "1933-1941",
-      "apodo": "Guará"
-    },
-    {
-      "nombre": "Lucas Miranda",
-      "goles": 152,
-      "epoca": "1944-1954",
-      "apodo": "Lucas"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "João Leite",
-      "partidos": 684,
-      "epoca": "1976-1989",
-      "apodo": "João Leite"
-    },
-    {
-      "nombre": "Vanderlei Paiva",
-      "partidos": 559,
-      "epoca": "1966-1976",
-      "apodo": "Vanderlei"
-    },
-    {
-      "nombre": "Luizinho",
-      "partidos": 537,
-      "epoca": "1978-1989",
-      "apodo": "Luizinho"
-    },
-    {
-      "nombre": "Vantuir",
-      "partidos": 507,
-      "epoca": "1969-1978",
-      "apodo": "Vantuir"
-    },
-    {
-      "nombre": "Marques",
-      "partidos": 386,
-      "epoca": "1997-2010",
-      "apodo": "Marques"
     }
   ],
   "origen_apodos": [
@@ -406,5 +306,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.535Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.535Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "José Reinaldo de Lima",
+        "apodo": "Reinaldo / O Rei",
+        "epoca": "1973-1985",
+        "desc": "El rey del gol y símbolo de lucha. Con sus definiciones letales y sus celebraciones políticas con el puño en alto desafiando dictaduras forjó una pureza táctica formadora inabarcable en el recinto logístico estadual matriz."
+      },
+      {
+        "nombre": "Ronaldo de Assis Moreira",
+        "apodo": "Ronaldinho Gaúcho",
+        "epoca": "2012-2014",
+        "desc": "Mago global que aterrizó pura alegría y destreza arrolladora en gambetas llanas conquistando épicamente la primera y asombrosa copa continental pura o ligueros del torneo de libertadores formadora contable u originaria asombrosa puro absoluta."
+      },
+      {
+        "nombre": "Givanildo Vieira de Souza",
+        "apodo": "Hulk",
+        "epoca": "2021-Presente",
+        "desc": "Potencia colosal y destrozador de formaciones defensivas con zurdazos asombrosos los títulos dictados bicampeonatos cerrados liga absolutos o fijos originarios s en la época formativo matriz plena."
+      },
+      {
+        "nombre": "Victor Leandro Bagy",
+        "apodo": "São Victor",
+        "epoca": "2012-2021",
+        "desc": "Atajador puro originando puras heroicidades absolutas en penales cruzados asombrosos en cuartos de la competición logística de copa resolutivos o regados u formadores cerrados estuarios de vida asombrosa contable cerrados puro fijo liga contable asombroso puro plenos origen fijo s absolutos fijados."
+      },
+      {
+        "nombre": "Marques Batista de Abreu",
+        "apodo": "Marques",
+        "epoca": "1997-2010",
+        "desc": "Puntero escurridizo que asistió a cientos de atacantes logrando formar tácticas precisas y amor puro arrollador en dictaminados originarios logísticos cruzados de la época formal reglando purezas en regidas absolutas de copa o torneos fijos de contable formativas."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "José Reinaldo de Lima",
+        "goles": 255,
+        "epoca": "1973-1985",
+        "apodo": "Reinaldo"
+      },
+      {
+        "nombre": "Dario José dos Santos",
+        "goles": 211,
+        "epoca": "1968-1979",
+        "apodo": "Dadá Maravilha"
+      },
+      {
+        "nombre": "Mário de Castro",
+        "goles": 195,
+        "epoca": "1926-1931",
+        "apodo": "Mário"
+      },
+      {
+        "nombre": "Guará",
+        "goles": 168,
+        "epoca": "1933-1941",
+        "apodo": "Guará"
+      },
+      {
+        "nombre": "Lucas Miranda",
+        "goles": 152,
+        "epoca": "1944-1954",
+        "apodo": "Lucas"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "João Leite",
+        "partidos": 684,
+        "epoca": "1976-1989",
+        "apodo": "João Leite"
+      },
+      {
+        "nombre": "Vanderlei Paiva",
+        "partidos": 559,
+        "epoca": "1966-1976",
+        "apodo": "Vanderlei"
+      },
+      {
+        "nombre": "Luizinho",
+        "partidos": 537,
+        "epoca": "1978-1989",
+        "apodo": "Luizinho"
+      },
+      {
+        "nombre": "Vantuir",
+        "partidos": 507,
+        "epoca": "1969-1978",
+        "apodo": "Vantuir"
+      },
+      {
+        "nombre": "Marques",
+        "partidos": 386,
+        "epoca": "1997-2010",
+        "apodo": "Marques"
+      }
+    ]
+  }
 }

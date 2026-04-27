@@ -57,41 +57,40 @@
       "desc": "El elenco matriculó su participación más larga en torneos de llaves eliminatorias del país alcanzando la final íntegra de la Copa do Brasil 2010, fase a la que accedió tras superar mecánicamente a Corinthians Alagoano, Náutico, Goiás, Vasco da Gama y Atlético Goianiense. La resolución del campeonato computó una derrota 2-0 registrada la noche del 28 de julio frente a Santos en São Paulo. En el duelo de validación final disputado como locales el 4 de agosto de 2010 frente a 34.111 personas en el Barradão, Vitória registró un triunfo arrojando el parcial de 2-1 mediante goles de Wallace a los 57 minutos y Júnior a los 77 minutos, resultando aritméticamente inoperante para el conteo global que coronó el título a favor del club paulista."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Manoel Barradas (Barradão)",
+      "fundacion": "1986",
       "direccion": "R. Artêmio Castro Valente, 1 - Nossa Sra. da Vitoria, Salvador - BA, 41262-100",
-      "desde": 1986,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Sede deportiva y corporativa inscripta legalmente al club y estructurada formalmente desde cero operando su habilitación inaugural en el trayecto calendario de 1986.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-12.9242,-38.4286",
+      "historia_nombres": [
+        {
+          "nombre": "Sede deportiva y corporativa inscripta legalmente al club y estructurada formalmente desde cero operando su habilitación inaugural en el trayecto calendario de 1986.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -12.9242,
-      "lng": -38.4286,
-      "url": "https://www.google.com/maps/search/?api=1&query=-12.9242,-38.4286"
+      "lng": -38.4286
     },
-    {
-      "nombre": "Campo da Graça",
-      "direccion": "Av. Princesa Isabel, Graça, Salvador - BA",
-      "desde": 1920,
-      "hasta": 1951,
-      "estado": "Histórico",
-      "obs": "Primer campo base oficial utilizado previo a la edificación urbana matriz, demolido y desafectado consecutivamente.",
-      "lat": -12.9928,
-      "lng": -38.5204,
-      "url": "https://www.google.com/maps/search/?api=1&query=-12.9928,-38.5204"
-    },
-    {
-      "nombre": "Estádio Octávio Mangabeira (Fonte Nova)",
-      "direccion": "Ladeira da Fonte das Pedras, s/n - Nazaré, Salvador - BA, 40050-565",
-      "desde": 1951,
-      "hasta": 1986,
-      "estado": "Histórico",
-      "obs": "Escenario arrendado operado formalmente por la tutela gubernamental y utilizado durante tres décadas (1951-1986) para albergar certámenes nacionales de Primera División por carencia técnica de estadios oficiales locales.",
-      "lat": -12.9787,
-      "lng": -38.5042,
-      "url": "https://www.google.com/maps/search/?api=1&query=-12.9787,-38.5042"
-    }
-  ],
+    "viejas": [
+      {
+        "nombre": "Campo da Graça",
+        "epoca": "1920-1951",
+        "direccion": "Av. Princesa Isabel, Graça, Salvador - BA",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-12.9928,-38.5204",
+        "lat": -12.9928,
+        "lng": -38.5204
+      },
+      {
+        "nombre": "Estádio Octávio Mangabeira (Fonte Nova)",
+        "epoca": "1951-1986",
+        "direccion": "Ladeira da Fonte das Pedras, s/n - Nazaré, Salvador - BA, 40050-565",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-12.9787,-38.5042",
+        "lat": -12.9787,
+        "lng": -38.5042
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -138,102 +137,6 @@
       "c2": "#000000",
       "sh": "#000000",
       "me": "#000000"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Júlio César da Silva Gurjol",
-      "apodo": "Júlio César",
-      "epoca": "1973-1983",
-      "desc": "Delantero y líder absoluto en la historia rubro-negra. Estandarte máximo de múltiples conquistas en el Campeonato Baiano estableciendo bases de jerarquía pura ofensiva táctica."
-    },
-    {
-      "nombre": "Vampeta",
-      "apodo": "Vampeta",
-      "epoca": "1993-1994",
-      "desc": "Su rutilante desempeño desde la cantera le otorgó estatus de ícono temprano, formando el mediocampo del legendario equipo finalista brasileño de los años noventa."
-    },
-    {
-      "nombre": "Dejan Petkovic",
-      "apodo": "Petkovic",
-      "epoca": "1997-1999",
-      "desc": "Enganche serbio foráneo que enamoró con una excelsa pegada de tiro libre. Transformó las ejecuciones en arte logrando copas locales en el apogeo del Barradão."
-    },
-    {
-      "nombre": "Bebeto",
-      "apodo": "Bebeto",
-      "epoca": "1983",
-      "desc": "Su paso juvenil lo catapultó a la élite como goleador. Es ídolo originario tras deslumbrar tempranamente y dar orígenes históricos a la grandeza formativa institucional del club."
-    },
-    {
-      "nombre": "Viáfara",
-      "apodo": "Viáfara",
-      "epoca": "2008-2011",
-      "desc": "El guardián colombiano del milenio. Anotador de penales y cerrojo espectacular en el arco. Logró ascensos asegurando una relación inquebrantable de afecto junto a las tribunas."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Juvenal Silva",
-      "goles": 154,
-      "epoca": "1940-1950",
-      "apodo": "Juvenal"
-    },
-    {
-      "nombre": "Osni Lopes",
-      "goles": 111,
-      "epoca": "1960-1970",
-      "apodo": "Osni"
-    },
-    {
-      "nombre": "André Catimba",
-      "goles": 98,
-      "epoca": "1970-1980",
-      "apodo": "André Catimba"
-    },
-    {
-      "nombre": "Allan Delon",
-      "goles": 95,
-      "epoca": "1990-2005",
-      "apodo": "Allan Delon"
-    },
-    {
-      "nombre": "Ricky",
-      "goles": 88,
-      "epoca": "1980-1990",
-      "apodo": "Ricky"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Flávio",
-      "partidos": 410,
-      "epoca": "1980-1990",
-      "apodo": "Flávio"
-    },
-    {
-      "nombre": "Júlio César",
-      "partidos": 402,
-      "epoca": "1973-1983",
-      "apodo": "Júlio"
-    },
-    {
-      "nombre": "Beto",
-      "partidos": 386,
-      "epoca": "1960-1970",
-      "apodo": "Beto"
-    },
-    {
-      "nombre": "Vanderson",
-      "partidos": 380,
-      "epoca": "2000-2010",
-      "apodo": "Vandinho"
-    },
-    {
-      "nombre": "Vagner Lemos",
-      "partidos": 338,
-      "epoca": "1990-2000",
-      "apodo": "Vagner"
     }
   ],
   "origen_apodos": [
@@ -308,5 +211,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.335Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.335Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Júlio César da Silva Gurjol",
+        "apodo": "Júlio César",
+        "epoca": "1973-1983",
+        "desc": "Delantero y líder absoluto en la historia rubro-negra. Estandarte máximo de múltiples conquistas en el Campeonato Baiano estableciendo bases de jerarquía pura ofensiva táctica."
+      },
+      {
+        "nombre": "Vampeta",
+        "apodo": "Vampeta",
+        "epoca": "1993-1994",
+        "desc": "Su rutilante desempeño desde la cantera le otorgó estatus de ícono temprano, formando el mediocampo del legendario equipo finalista brasileño de los años noventa."
+      },
+      {
+        "nombre": "Dejan Petkovic",
+        "apodo": "Petkovic",
+        "epoca": "1997-1999",
+        "desc": "Enganche serbio foráneo que enamoró con una excelsa pegada de tiro libre. Transformó las ejecuciones en arte logrando copas locales en el apogeo del Barradão."
+      },
+      {
+        "nombre": "Bebeto",
+        "apodo": "Bebeto",
+        "epoca": "1983",
+        "desc": "Su paso juvenil lo catapultó a la élite como goleador. Es ídolo originario tras deslumbrar tempranamente y dar orígenes históricos a la grandeza formativa institucional del club."
+      },
+      {
+        "nombre": "Viáfara",
+        "apodo": "Viáfara",
+        "epoca": "2008-2011",
+        "desc": "El guardián colombiano del milenio. Anotador de penales y cerrojo espectacular en el arco. Logró ascensos asegurando una relación inquebrantable de afecto junto a las tribunas."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Juvenal Silva",
+        "goles": 154,
+        "epoca": "1940-1950",
+        "apodo": "Juvenal"
+      },
+      {
+        "nombre": "Osni Lopes",
+        "goles": 111,
+        "epoca": "1960-1970",
+        "apodo": "Osni"
+      },
+      {
+        "nombre": "André Catimba",
+        "goles": 98,
+        "epoca": "1970-1980",
+        "apodo": "André Catimba"
+      },
+      {
+        "nombre": "Allan Delon",
+        "goles": 95,
+        "epoca": "1990-2005",
+        "apodo": "Allan Delon"
+      },
+      {
+        "nombre": "Ricky",
+        "goles": 88,
+        "epoca": "1980-1990",
+        "apodo": "Ricky"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Flávio",
+        "partidos": 410,
+        "epoca": "1980-1990",
+        "apodo": "Flávio"
+      },
+      {
+        "nombre": "Júlio César",
+        "partidos": 402,
+        "epoca": "1973-1983",
+        "apodo": "Júlio"
+      },
+      {
+        "nombre": "Beto",
+        "partidos": 386,
+        "epoca": "1960-1970",
+        "apodo": "Beto"
+      },
+      {
+        "nombre": "Vanderson",
+        "partidos": 380,
+        "epoca": "2000-2010",
+        "apodo": "Vandinho"
+      },
+      {
+        "nombre": "Vagner Lemos",
+        "partidos": 338,
+        "epoca": "1990-2000",
+        "apodo": "Vagner"
+      }
+    ]
+  }
 }

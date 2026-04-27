@@ -57,19 +57,23 @@
       "desc": "Reafirmando su efectividad plena en eliminatorias internacionales, el elenco repitió la fórmula y se adjudicó la segunda estrella correspondiente a la Copa Sudamericana en la campaña oficial de 2021. La final, regida bajo el formato de partido único en terrenos de Montevideo, se resolvió arrojando una victoria final de 1-0 sobre el compatriota brasileño Red Bull Bragantino consolidada fundamentalmente por una espectacular acrobacia efectuada por Nikão en la zona goleadora."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Ligga Arena (Estádio Joaquim Américo Guimarães / Arena da Baixada)",
+      "fundacion": "1914",
       "direccion": "R. Buenos Aires, 1260 - Água Verde, Curitiba - PR, 80250-070",
-      "desde": 1914,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Recinto heredado originariamente formal por la facción del International. Ha sido reconstruido totalmente bajo estándares de vanguardia arquitectónica mundial, operando como estadio base documentado certificado albergando un techo retráctil absoluto que hospedó partidos correspondientes al Mundial FIFA 2014.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-25.4484,-49.2769",
+      "historia_nombres": [
+        {
+          "nombre": "Recinto heredado originariamente formal por la facción del International. Ha sido reconstruido totalmente bajo estándares de vanguardia arquitectónica mundial, operando como estadio base documentado certificado albergando un techo retráctil absoluto que hospedó partidos correspondientes al Mundial FIFA 2014.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -25.4484,
-      "lng": -49.2769,
-      "url": "https://www.google.com/maps/search/?api=1&query=-25.4484,-49.2769"
-    }
-  ],
+      "lng": -49.2769
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 2,
@@ -131,102 +135,6 @@
       "c2": "#000000",
       "sh": "#000000",
       "me": "#000000"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Barcímio Sicupira Júnior",
-      "apodo": "Sicupira",
-      "epoca": "1968-1975",
-      "desc": "El mayor cañonero nato en la historia local goles a maderazos de fuerza, cimentando estadísticas anotadoras arrojadas resueltas inalcanzable logrando estatuarios campeonatos ligadas fijos."
-    },
-    {
-      "nombre": "Kleberson",
-      "apodo": "Kleberson",
-      "epoca": "1999-2003",
-      "desc": "Motor dictaminando transiciones de velocidad regidas asumiendo medios formados lógicamente logrando el único cetro máximo de base liga y consagrándose en mundiales arrojadas plenas ."
-    },
-    {
-      "nombre": "Caju",
-      "apodo": "Caju",
-      "epoca": "1933-1950",
-      "desc": "Atajador de arcos asombrosos resueltos asumiendo guantes s eras doradas resolviendo campeonatos base ligados a cerrados logísticos estaduales formadoras de la época fija dictadas orgánicas completas."
-    },
-    {
-      "nombre": "Alex Mineiro",
-      "apodo": "Alex Mineiro",
-      "epoca": "2001-2003",
-      "desc": "Artillero de época ráfagas anotadoras campeonatos regidos coronándose en logrados resolutivos lógicos fijos base estatuarios llanamente fijas de competencias orgánicas."
-    },
-    {
-      "nombre": "Thiago Heleno",
-      "apodo": "Thiago Heleno",
-      "epoca": "2016-Presente",
-      "desc": "El general arrojado bloqueos o marcando la sudamericana asombrosas resueltos tácticos logísticos ligadas de defensivos s orgánicas firmes cerradas u fijos dictadas."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Barcímio Sicupira Júnior",
-      "goles": 154,
-      "epoca": "1968-1975",
-      "apodo": "Sicupira"
-    },
-    {
-      "nombre": "Jackson Born",
-      "goles": 140,
-      "epoca": "1944-1950",
-      "apodo": "Jackson"
-    },
-    {
-      "nombre": "Kleber Pereira",
-      "goles": 124,
-      "epoca": "1999-2002",
-      "apodo": "Kleber Pereira"
-    },
-    {
-      "nombre": "Marreco",
-      "goles": 115,
-      "epoca": "1914-1925",
-      "apodo": "Marreco"
-    },
-    {
-      "nombre": "Cireno",
-      "goles": 114,
-      "epoca": "1934-1943",
-      "apodo": "Cireno"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Caju",
-      "partidos": 620,
-      "epoca": "1933-1950",
-      "apodo": "Caju"
-    },
-    {
-      "nombre": "Alfredo",
-      "partidos": 432,
-      "epoca": "1965-1975",
-      "apodo": "Alfredo"
-    },
-    {
-      "nombre": "Bira",
-      "partidos": 420,
-      "epoca": "1970-1980",
-      "apodo": "Bira"
-    },
-    {
-      "nombre": "Kleberson",
-      "partidos": 334,
-      "epoca": "1999-2003",
-      "apodo": "Kleberson"
-    },
-    {
-      "nombre": "Weverton",
-      "partidos": 318,
-      "epoca": "2012-2017",
-      "apodo": "Weverton"
     }
   ],
   "origen_apodos": [
@@ -336,5 +244,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.536Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.536Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Barcímio Sicupira Júnior",
+        "apodo": "Sicupira",
+        "epoca": "1968-1975",
+        "desc": "El mayor cañonero nato en la historia local goles a maderazos de fuerza, cimentando estadísticas anotadoras arrojadas resueltas inalcanzable logrando estatuarios campeonatos ligadas fijos."
+      },
+      {
+        "nombre": "Kleberson",
+        "apodo": "Kleberson",
+        "epoca": "1999-2003",
+        "desc": "Motor dictaminando transiciones de velocidad regidas asumiendo medios formados lógicamente logrando el único cetro máximo de base liga y consagrándose en mundiales arrojadas plenas ."
+      },
+      {
+        "nombre": "Caju",
+        "apodo": "Caju",
+        "epoca": "1933-1950",
+        "desc": "Atajador de arcos asombrosos resueltos asumiendo guantes s eras doradas resolviendo campeonatos base ligados a cerrados logísticos estaduales formadoras de la época fija dictadas orgánicas completas."
+      },
+      {
+        "nombre": "Alex Mineiro",
+        "apodo": "Alex Mineiro",
+        "epoca": "2001-2003",
+        "desc": "Artillero de época ráfagas anotadoras campeonatos regidos coronándose en logrados resolutivos lógicos fijos base estatuarios llanamente fijas de competencias orgánicas."
+      },
+      {
+        "nombre": "Thiago Heleno",
+        "apodo": "Thiago Heleno",
+        "epoca": "2016-Presente",
+        "desc": "El general arrojado bloqueos o marcando la sudamericana asombrosas resueltos tácticos logísticos ligadas de defensivos s orgánicas firmes cerradas u fijos dictadas."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Barcímio Sicupira Júnior",
+        "goles": 154,
+        "epoca": "1968-1975",
+        "apodo": "Sicupira"
+      },
+      {
+        "nombre": "Jackson Born",
+        "goles": 140,
+        "epoca": "1944-1950",
+        "apodo": "Jackson"
+      },
+      {
+        "nombre": "Kleber Pereira",
+        "goles": 124,
+        "epoca": "1999-2002",
+        "apodo": "Kleber Pereira"
+      },
+      {
+        "nombre": "Marreco",
+        "goles": 115,
+        "epoca": "1914-1925",
+        "apodo": "Marreco"
+      },
+      {
+        "nombre": "Cireno",
+        "goles": 114,
+        "epoca": "1934-1943",
+        "apodo": "Cireno"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Caju",
+        "partidos": 620,
+        "epoca": "1933-1950",
+        "apodo": "Caju"
+      },
+      {
+        "nombre": "Alfredo",
+        "partidos": 432,
+        "epoca": "1965-1975",
+        "apodo": "Alfredo"
+      },
+      {
+        "nombre": "Bira",
+        "partidos": 420,
+        "epoca": "1970-1980",
+        "apodo": "Bira"
+      },
+      {
+        "nombre": "Kleberson",
+        "partidos": 334,
+        "epoca": "1999-2003",
+        "apodo": "Kleberson"
+      },
+      {
+        "nombre": "Weverton",
+        "partidos": 318,
+        "epoca": "2012-2017",
+        "apodo": "Weverton"
+      }
+    ]
+  }
 }

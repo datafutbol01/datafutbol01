@@ -58,19 +58,23 @@
       "desc": "Garantizando una conformación directiva liderando un recambio fundamental organizativo arrojando y liderando operativamente mediante las virtudes consolidadas de contables destrezas juveniles promovidas asiduamente originadas, formalizaron estadísticas matriculadas y operando destrezas técnicas del elenco guiadas estipuladamente adjudicando en destrezas encabezadas del delantero estelarizado Neymar. El esquema consolidó matemáticamente adjudicándose la serie dictaminada originando finales cruzando al club contable Peñarol uruguayo. Dejando empate mecánico inicial cruzando cronómetros del tablero numérico documentando contablemente la clausura para 0-0. Cimentando en estadios al definir sumando fechas la del originario 22 de junio, el local numéricamente cerrando contablemente marcando tableros de 2-1 mediante cifras de anotaciones convertidas por cerrando números Neymar y de Danilo sumando el tanto sellándolo para firmarse adjudicándose la tercera trofeo dictando corona continental originariamente."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Urbano Caldeira (Vila Belmiro)",
+      "fundacion": "1916",
       "direccion": "R. Princesa Isabel, 77 - Vila Belmiro, Santos - SP, 11075-501",
-      "desde": 1916,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Fundado perimetralmente en adjudicaciones iniciales conformadas por predios corporativamente obtenidos organizativamente en lote donado para propiciar instalaciones numéricamente centralizadas de un sector conocido y referenciado de la modesta 'Vila'. Consolidado como fortín estipulado fundamentalmente atado de ciclos operando hegemónicos locales históricos y formales.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.9511,-46.3391",
+      "historia_nombres": [
+        {
+          "nombre": "Fundado perimetralmente en adjudicaciones iniciales conformadas por predios corporativamente obtenidos organizativamente en lote donado para propiciar instalaciones numéricamente centralizadas de un sector conocido y referenciado de la modesta 'Vila'. Consolidado como fortín estipulado fundamentalmente atado de ciclos operando hegemónicos locales históricos y formales.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -23.9511,
-      "lng": -46.3391,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.9511,-46.3391"
-    }
-  ],
+      "lng": -46.3391
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 2,
@@ -175,107 +179,11 @@
       "desde": "1913",
       "hasta": "Presente",
       "desc": "Para sortear obstáculos sobre teñido que manchaban la tela periódicamente de azul sobre blanco, la organización cambió drásticamente su indumentaria instituyéndola al popularizado conjunto puramente y totalmente blanqueado (camisa y pantalón blanco sólido).",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
-      "sh": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Edson Arantes do Nascimento",
-      "apodo": "Pelé / O Rei",
-      "epoca": "1956-1974",
-      "desc": "El mayor mito de la historia del club. Conquistó la gloria máxima levantando Copas Libertadores e Intercontinentales, considerado hoy como uno de los mejores futbolistas de todos los tiempos."
-    },
-    {
-      "nombre": "Neymar da Silva Santos Júnior",
-      "apodo": "Neymar",
-      "epoca": "2009-2013",
-      "desc": "Heredero de la corona del gol sedoso contemporáneo. Lideró la mágica reconstrucción del equipo obteniendo una histórica Copa Libertadores brillando desproporcionadamente con jugadas estéticas y remates precisos pura y mente geniales."
-    },
-    {
-      "nombre": "José Ely de Miranda",
-      "apodo": "Zito",
-      "epoca": "1952-1967",
-      "desc": "El gran capitán moral del equipo. Aportó engranaje central recuperando pelotas y manteniendo fijos los tempos que permitieron la explosión de ataque letal base formativo en el equipo santista más fulgurante y reglado."
-    },
-    {
-      "nombre": "Antônio Wilson Vieira Honório",
-      "apodo": "Coutinho",
-      "epoca": "1958-1967",
-      "desc": "Adonis fino del área formadora asociándose ciegamente de taco y cabeza con el Rey Pelé construyendo la dupla formativa atacante más destructiva, prolífica y temida que ha dado el profesionalismo nacional de bases regulares."
-    },
-    {
-      "nombre": "José Macia",
-      "apodo": "Pepe / Cañón de Vila Belmiro",
-      "epoca": "1954-1969",
-      "desc": "El mejor puntero izquierdo del globo terráqueo portaba un botín blindado que detonaba redes en cobros balísticos. Su amor absoluto cimentó pureza leal negándose invariablemente a utilizar otra marca logística contable que no sea alvinegra blanca oficializada de competencia llanamente lisa."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Edson Arantes do Nascimento",
-      "goles": 1091,
-      "epoca": "1956-1974",
-      "apodo": "Pelé"
-    },
-    {
-      "nombre": "José Macia",
-      "goles": 403,
-      "epoca": "1954-1969",
-      "apodo": "Pepe"
-    },
-    {
-      "nombre": "Antônio Wilson Vieira Honório",
-      "goles": 368,
-      "epoca": "1958-1967",
-      "apodo": "Coutinho"
-    },
-    {
-      "nombre": "Toninho Guerreiro",
-      "goles": 279,
-      "epoca": "1963-1969",
-      "apodo": "Toninho"
-    },
-    {
-      "nombre": "Neymar da Silva Santos Júnior",
-      "goles": 138,
-      "epoca": "2009-2013",
-      "apodo": "Neymar / Joia"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Edson Arantes do Nascimento",
-      "partidos": 1116,
-      "epoca": "1956-1974",
-      "apodo": "Pelé"
-    },
-    {
-      "nombre": "José Macia",
-      "partidos": 750,
-      "epoca": "1954-1969",
-      "apodo": "Pepe"
-    },
-    {
-      "nombre": "José Ely de Miranda",
-      "partidos": 727,
-      "epoca": "1952-1967",
-      "apodo": "Zito"
-    },
-    {
-      "nombre": "Antônio Lima dos Santos",
-      "partidos": 696,
-      "epoca": "1961-1971",
-      "apodo": "Lima / Curinga"
-    },
-    {
-      "nombre": "Dorval Rodrigues",
-      "partidos": 612,
-      "epoca": "1956-1967",
-      "apodo": "Dorval"
     }
   ],
   "origen_apodos": [
@@ -364,5 +272,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.534Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.534Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Edson Arantes do Nascimento",
+        "apodo": "Pelé / O Rei",
+        "epoca": "1956-1974",
+        "desc": "El mayor mito de la historia del club. Conquistó la gloria máxima levantando Copas Libertadores e Intercontinentales, considerado hoy como uno de los mejores futbolistas de todos los tiempos."
+      },
+      {
+        "nombre": "Neymar da Silva Santos Júnior",
+        "apodo": "Neymar",
+        "epoca": "2009-2013",
+        "desc": "Heredero de la corona del gol sedoso contemporáneo. Lideró la mágica reconstrucción del equipo obteniendo una histórica Copa Libertadores brillando desproporcionadamente con jugadas estéticas y remates precisos pura y mente geniales."
+      },
+      {
+        "nombre": "José Ely de Miranda",
+        "apodo": "Zito",
+        "epoca": "1952-1967",
+        "desc": "El gran capitán moral del equipo. Aportó engranaje central recuperando pelotas y manteniendo fijos los tempos que permitieron la explosión de ataque letal base formativo en el equipo santista más fulgurante y reglado."
+      },
+      {
+        "nombre": "Antônio Wilson Vieira Honório",
+        "apodo": "Coutinho",
+        "epoca": "1958-1967",
+        "desc": "Adonis fino del área formadora asociándose ciegamente de taco y cabeza con el Rey Pelé construyendo la dupla formativa atacante más destructiva, prolífica y temida que ha dado el profesionalismo nacional de bases regulares."
+      },
+      {
+        "nombre": "José Macia",
+        "apodo": "Pepe / Cañón de Vila Belmiro",
+        "epoca": "1954-1969",
+        "desc": "El mejor puntero izquierdo del globo terráqueo portaba un botín blindado que detonaba redes en cobros balísticos. Su amor absoluto cimentó pureza leal negándose invariablemente a utilizar otra marca logística contable que no sea alvinegra blanca oficializada de competencia llanamente lisa."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Edson Arantes do Nascimento",
+        "goles": 1091,
+        "epoca": "1956-1974",
+        "apodo": "Pelé"
+      },
+      {
+        "nombre": "José Macia",
+        "goles": 403,
+        "epoca": "1954-1969",
+        "apodo": "Pepe"
+      },
+      {
+        "nombre": "Antônio Wilson Vieira Honório",
+        "goles": 368,
+        "epoca": "1958-1967",
+        "apodo": "Coutinho"
+      },
+      {
+        "nombre": "Toninho Guerreiro",
+        "goles": 279,
+        "epoca": "1963-1969",
+        "apodo": "Toninho"
+      },
+      {
+        "nombre": "Neymar da Silva Santos Júnior",
+        "goles": 138,
+        "epoca": "2009-2013",
+        "apodo": "Neymar / Joia"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Edson Arantes do Nascimento",
+        "partidos": 1116,
+        "epoca": "1956-1974",
+        "apodo": "Pelé"
+      },
+      {
+        "nombre": "José Macia",
+        "partidos": 750,
+        "epoca": "1954-1969",
+        "apodo": "Pepe"
+      },
+      {
+        "nombre": "José Ely de Miranda",
+        "partidos": 727,
+        "epoca": "1952-1967",
+        "apodo": "Zito"
+      },
+      {
+        "nombre": "Antônio Lima dos Santos",
+        "partidos": 696,
+        "epoca": "1961-1971",
+        "apodo": "Lima / Curinga"
+      },
+      {
+        "nombre": "Dorval Rodrigues",
+        "partidos": 612,
+        "epoca": "1956-1967",
+        "apodo": "Dorval"
+      }
+    ]
+  }
 }

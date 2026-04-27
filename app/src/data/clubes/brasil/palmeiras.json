@@ -58,30 +58,32 @@
       "desc": "Bajo la orden directiva en logística del riguroso esquema conducido por el estratega técnico Luiz Felipe Scolari, el grupo formalizó un avance mecánico durante las llaves eliminatorias definitivas de la Copa Libertadores oficial correspondiente al registro anual de 1999, fijándose un reto conclusivo ante Deportivo Cali originario del país de Colombia. Tras registrar perdiendo 1-0 formalmente el cronometraje en la contienda de visitante programada para la etapa inaugural determinista formal en el continente, lograron volcar numéricamente en su favor rematando la etapa como local en campos del Palestra Italia fijándose el encuentro de 16 de junio, la plantilla logró emparejar numéricamente el escenario total y abrochando corona final venciendo cruzado la marca de 4 a 3 ejecutada matemáticamente mediante un bloque de penales con cierre forzado definitivo tras yerro cruzado determinando adjudicarse de copa continental."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio Palestra Italia (Parque Antarctica)",
-      "direccion": "R. Turiaçu, 1840 - Perdizes, São Paulo - SP",
-      "desde": 1917,
-      "hasta": 2010,
-      "estado": "Histórico",
-      "obs": "Mítico parque corporativo de exhibición comprado territorialmente a los operarios dependientes vinculados y consolidados operativamente a la fábrica manufacturera del hielo de Companhia Antarctica Paulista durante una operación tasada en la zona metropolitana contable de 1920. El campo histórico de los éxitos de los años 90 cerró operaciones para la gran obra de infraestructura originada de demolición de cara al Mundial de 2014.",
-      "lat": -23.5275,
-      "lng": -46.678,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Allianz Parque (Arena Palestra Italia)",
+      "fundacion": "2014",
       "direccion": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo - SP, 05001-200",
-      "desde": 2014,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Recinto vanguardista contable multipropósito amonedado exactamente demarcando el lote dimensional histórico. Registrando su uso cedido temporalmente el patrocinio operativo oficial determinó su rúbrica al conglomerado de finanzas de seguros para rotularse Allianz.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780",
+      "historia_nombres": [
+        {
+          "nombre": "Recinto vanguardista contable multipropósito amonedado exactamente demarcando el lote dimensional histórico. Registrando su uso cedido temporalmente el patrocinio operativo oficial determinó su rúbrica al conglomerado de finanzas de seguros para rotularse Allianz.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -23.5275,
-      "lng": -46.678,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780"
-    }
-  ],
+      "lng": -46.678
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Palestra Italia (Parque Antarctica)",
+        "epoca": "1917-2010",
+        "direccion": "R. Turiaçu, 1840 - Perdizes, São Paulo - SP",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5275,-46.6780",
+        "lat": -23.5275,
+        "lng": -46.678
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -186,117 +188,21 @@
       "desde": "1914",
       "hasta": "1942",
       "desc": "Bajo la tutela del anterior Palestra Italia, dominaban las planillas de estatutos usando como primer uniforme matriculado la camisa totalmente verde acompañada del pantalón tejido de color blanco total y calcetines colorados.",
-      "tipo": "",
-      "c1": "#008800",
-      "c2": null,
-      "sh": "#ffffff",
-      "me": "#cc0000"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     },
     {
       "desde": "1942",
       "hasta": "Presente",
       "desc": "Atendiéndose al registro obligatorio nacional en las liguillas locales, fue prohibido legalmente cualquier aditamento italiano procediendo el organismo a suprimir el color rojo e implantando el blanco en el verde actual general para todos su ropajes.",
-      "tipo": "",
-      "c1": "#008800",
-      "c2": null,
-      "sh": "#ffffff",
-      "me": "#008800"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Ademir da Guia",
-      "apodo": "El Divino",
-      "epoca": "1961-1977",
-      "desc": "El mayor ícono estatuario de la historia alviverde. Mediocampista de elegancia insuperable, comandó la gloriosa 'Academia' que logró desbancar a nivel táctico al mismísimo Santos de Pelé."
-    },
-    {
-      "nombre": "Marcos Roberto Silveira Reis",
-      "apodo": "São Marcos",
-      "epoca": "1992-2012",
-      "desc": "Santo patrón del arco palmeirense y leyenda de lealtad extrema. Sus atajadas milagrosas forjaron la obtención heroica de la Copa Libertadores en la temporada del 99."
-    },
-    {
-      "nombre": "Olegário Tolói de Oliveira",
-      "apodo": "Dudu",
-      "epoca": "1964-1976",
-      "desc": "El corazón y motor incansable del medio campo durante la era de la 'Academia', formando una de las duplas más equilibradas y contundentes de la historia brasileña junto al Divino Ademir."
-    },
-    {
-      "nombre": "Edmundo Alves de Souza Neto",
-      "apodo": "El Animal",
-      "epoca": "1993-1995",
-      "desc": "Delantero letal, temperamental y técnicamente sobrenatural. Su potencia explosiva lo convirtió en el referente absoluto del arrollador bicampeonato paulista y brasileño forjado a mediados de los noventa."
-    },
-    {
-      "nombre": "Eduardo Pereira Rodrigues",
-      "apodo": "Dudu",
-      "epoca": "2015-2024",
-      "desc": "Ídolo representativo de la época dorada contemporánea. Extremo incisivo, generó con su constancia decenas de desbordes que resultaron directamente en cuatro ligas brasileñas e in trofeos cimentados en el Allianz Parque."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Heitor Marcelino Domingues",
-      "goles": 323,
-      "epoca": "1916-1931",
-      "apodo": "Heitor"
-    },
-    {
-      "nombre": "César Augusto da Silva Lemos",
-      "goles": 182,
-      "epoca": "1967-1974",
-      "apodo": "César Maluco"
-    },
-    {
-      "nombre": "Ademir da Guia",
-      "goles": 155,
-      "epoca": "1961-1977",
-      "apodo": "El Divino"
-    },
-    {
-      "nombre": "Eduardo Lima",
-      "goles": 148,
-      "epoca": "1938-1954",
-      "apodo": "Lima"
-    },
-    {
-      "nombre": "Servílio de Jesus",
-      "goles": 139,
-      "epoca": "1963-1968",
-      "apodo": "Servílio"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Ademir da Guia",
-      "partidos": 902,
-      "epoca": "1961-1977",
-      "apodo": "El Divino"
-    },
-    {
-      "nombre": "Émerson Leão",
-      "partidos": 621,
-      "epoca": "1969-1978",
-      "apodo": "Leão"
-    },
-    {
-      "nombre": "Olegário Tolói de Oliveira",
-      "partidos": 615,
-      "epoca": "1964-1976",
-      "apodo": "Dudu"
-    },
-    {
-      "nombre": "Waldemar Fiume",
-      "partidos": 601,
-      "epoca": "1941-1958",
-      "apodo": "O Pai da Bola"
-    },
-    {
-      "nombre": "Marcos Roberto Silveira Reis",
-      "partidos": 533,
-      "epoca": "1992-2012",
-      "apodo": "São Marcos"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     }
   ],
   "origen_apodos": [
@@ -400,5 +306,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.536Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.536Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Ademir da Guia",
+        "apodo": "El Divino",
+        "epoca": "1961-1977",
+        "desc": "El mayor ícono estatuario de la historia alviverde. Mediocampista de elegancia insuperable, comandó la gloriosa 'Academia' que logró desbancar a nivel táctico al mismísimo Santos de Pelé."
+      },
+      {
+        "nombre": "Marcos Roberto Silveira Reis",
+        "apodo": "São Marcos",
+        "epoca": "1992-2012",
+        "desc": "Santo patrón del arco palmeirense y leyenda de lealtad extrema. Sus atajadas milagrosas forjaron la obtención heroica de la Copa Libertadores en la temporada del 99."
+      },
+      {
+        "nombre": "Olegário Tolói de Oliveira",
+        "apodo": "Dudu",
+        "epoca": "1964-1976",
+        "desc": "El corazón y motor incansable del medio campo durante la era de la 'Academia', formando una de las duplas más equilibradas y contundentes de la historia brasileña junto al Divino Ademir."
+      },
+      {
+        "nombre": "Edmundo Alves de Souza Neto",
+        "apodo": "El Animal",
+        "epoca": "1993-1995",
+        "desc": "Delantero letal, temperamental y técnicamente sobrenatural. Su potencia explosiva lo convirtió en el referente absoluto del arrollador bicampeonato paulista y brasileño forjado a mediados de los noventa."
+      },
+      {
+        "nombre": "Eduardo Pereira Rodrigues",
+        "apodo": "Dudu",
+        "epoca": "2015-2024",
+        "desc": "Ídolo representativo de la época dorada contemporánea. Extremo incisivo, generó con su constancia decenas de desbordes que resultaron directamente en cuatro ligas brasileñas e in trofeos cimentados en el Allianz Parque."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Heitor Marcelino Domingues",
+        "goles": 323,
+        "epoca": "1916-1931",
+        "apodo": "Heitor"
+      },
+      {
+        "nombre": "César Augusto da Silva Lemos",
+        "goles": 182,
+        "epoca": "1967-1974",
+        "apodo": "César Maluco"
+      },
+      {
+        "nombre": "Ademir da Guia",
+        "goles": 155,
+        "epoca": "1961-1977",
+        "apodo": "El Divino"
+      },
+      {
+        "nombre": "Eduardo Lima",
+        "goles": 148,
+        "epoca": "1938-1954",
+        "apodo": "Lima"
+      },
+      {
+        "nombre": "Servílio de Jesus",
+        "goles": 139,
+        "epoca": "1963-1968",
+        "apodo": "Servílio"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Ademir da Guia",
+        "partidos": 902,
+        "epoca": "1961-1977",
+        "apodo": "El Divino"
+      },
+      {
+        "nombre": "Émerson Leão",
+        "partidos": 621,
+        "epoca": "1969-1978",
+        "apodo": "Leão"
+      },
+      {
+        "nombre": "Olegário Tolói de Oliveira",
+        "partidos": 615,
+        "epoca": "1964-1976",
+        "apodo": "Dudu"
+      },
+      {
+        "nombre": "Waldemar Fiume",
+        "partidos": 601,
+        "epoca": "1941-1958",
+        "apodo": "O Pai da Bola"
+      },
+      {
+        "nombre": "Marcos Roberto Silveira Reis",
+        "partidos": 533,
+        "epoca": "1992-2012",
+        "apodo": "São Marcos"
+      }
+    ]
+  }
 }

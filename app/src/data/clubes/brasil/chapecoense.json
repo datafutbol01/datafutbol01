@@ -42,19 +42,23 @@
       "desc": "Tras años de crecimiento registral logrando ascensos formales hasta escalar registralmente a Serie A en el año 2014 contable estructurando base, el conjunto matriculó contable originariamente estatus general clasificando estadísticamente en el estatus formador y oficial de las sumatorias definitorias estipuladas de liguilla resolutiva operando tableros de final agendando estipulada Sudamericana estructurando base de la temporada histórica 2016. El 28 de noviembre operando y cerrando pasaje internacional para Colombia atestaron matrices formales y siniestros aéreos resolviendo matriz fallecimientos trágicos para contabilidad y registros póstumos para adjudicarse Copa contablemente bajo decisión conjunta de Nacional cruzado y las directrices perimetrales para honor matriz resolutivamente eterno finalizado."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Arena Condá",
+      "fundacion": "1976",
       "direccion": "R. Clevelândia, 656 - E - Centro, Chapecó - SC, 89801-561",
-      "desde": 1976,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "El campo matriz estructural perimetral forma estamento unificado albergando las operaciones deportivas del cuadro estadístico representativo arrojando y dictaminado las bases y reformas exigidas normativamente originando escalas internacionales perimetral estipuladas con los años operando estructurando modernizaciones constantes cruzadas formales atadas corporativamente.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-27.1042,-52.6074",
+      "historia_nombres": [
+        {
+          "nombre": "El campo matriz estructural perimetral forma estamento unificado albergando las operaciones deportivas del cuadro estadístico representativo arrojando y dictaminado las bases y reformas exigidas normativamente originando escalas internacionales perimetral estipuladas con los años operando estructurando modernizaciones constantes cruzadas formales atadas corporativamente.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -27.1042,
-      "lng": -52.6074,
-      "url": "https://www.google.com/maps/search/?api=1&query=-27.1042,-52.6074"
-    }
-  ],
+      "lng": -52.6074
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 1,
@@ -89,117 +93,21 @@
       "desde": "1973",
       "hasta": "1980",
       "desc": "Formalizados primeros escuadrones bajo atuendos completamente verdes oscuros de paños llanos formados incorporados o remates técnicos a fajas laterales formales coloradas menores visualmente en la estipulada local zona municipal logístico.",
-      "tipo": "",
-      "c1": "#00aa44",
-      "c2": null,
-      "sh": "#ffffff",
-      "me": "#00aa44"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     },
     {
       "desde": "1990",
       "hasta": "Presente",
       "desc": "Reglamentación final impuso normar o blindar estrictamente su camisa instituyéndola permanentemente formal y sin alterables matices u gradientes como puramente sólida y lisamente verde brillante y firme lisa en absoluto lógicamente reglada o impuesta base contable.",
-      "tipo": "",
-      "c1": "#00aa44",
-      "c2": null,
-      "sh": "#00aa44",
-      "me": "#00aa44"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Danilo Padilha",
-      "apodo": "San Danilo",
-      "epoca": "2013-2016",
-      "desc": "Santo guardián la tapada consagratoria in extremis ante San Lorenzo en la Sudamericana 2016 devolviéndole la absoluta gloria al club trágicamente fallecido consolidándose como deidad eterna."
-    },
-    {
-      "nombre": "Cléber Santana",
-      "apodo": "Cléber",
-      "epoca": "2015-2016",
-      "desc": "Cerebro medular organizativo del Verdao del Oeste. Comandó la táctica y orquestó puras logísticas magistrales frente a equipos de élite guiándolos épicamente a una final internacional histórica y trágica."
-    },
-    {
-      "nombre": "Bruno Rangel",
-      "apodo": "Bruno Rangel",
-      "epoca": "2013-2016",
-      "desc": "Goleador histórico de la institución verde. Consagrándose resolviendo ascensos orgánicos y marcando dianas plenas formadas definitivas frente a las potencias lógicas sudamericanas resolutivas cerradas de copa intercontinental."
-    },
-    {
-      "nombre": "Thiaguinho",
-      "apodo": "Thiaguinho",
-      "epoca": "2016",
-      "desc": "Carrilero vibrante joven de ida y vuela asombrosos orgánicos logrados asegurando presencias formadoras firmes consolidando los cruces del trágico torneo dictado sudamericano asombroso."
-    },
-    {
-      "nombre": "Neném",
-      "apodo": "Neném",
-      "epoca": "2009-2017",
-      "desc": "Sobreviviente institucional formando y bases formativas presenciando campeonatos asiduos estaduales logrando bases fijas orgánicas completas de ascensos asombrosas fijas absolutos."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Bruno Rangel",
-      "goles": 81,
-      "epoca": "2013-2016",
-      "apodo": "Rangel"
-    },
-    {
-      "nombre": "Índio",
-      "goles": 62,
-      "epoca": "1990-1996",
-      "apodo": "Índio"
-    },
-    {
-      "nombre": "Paulo Rink",
-      "goles": 55,
-      "epoca": "1990-1995",
-      "apodo": "Paulo Rink"
-    },
-    {
-      "nombre": "Kempes",
-      "goles": 16,
-      "epoca": "2016",
-      "apodo": "Kempes"
-    },
-    {
-      "nombre": "Aloísio Chulapa",
-      "goles": 14,
-      "epoca": "2011",
-      "apodo": "Aloísio"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Neném",
-      "partidos": 175,
-      "epoca": "2009-2017",
-      "apodo": "Neném"
-    },
-    {
-      "nombre": "Apodi",
-      "partidos": 150,
-      "epoca": "2015-2018",
-      "apodo": "Apodi"
-    },
-    {
-      "nombre": "Rafael Lima",
-      "partidos": 148,
-      "epoca": "2012-2016",
-      "apodo": "Rafael Lima"
-    },
-    {
-      "nombre": "Gil",
-      "partidos": 139,
-      "epoca": "2015-2016",
-      "apodo": "Gil"
-    },
-    {
-      "nombre": "Danilo Padilha",
-      "partidos": 110,
-      "epoca": "2013-2016",
-      "apodo": "Danilo"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     }
   ],
   "origen_apodos": [
@@ -249,5 +157,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.332Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.332Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Danilo Padilha",
+        "apodo": "San Danilo",
+        "epoca": "2013-2016",
+        "desc": "Santo guardián la tapada consagratoria in extremis ante San Lorenzo en la Sudamericana 2016 devolviéndole la absoluta gloria al club trágicamente fallecido consolidándose como deidad eterna."
+      },
+      {
+        "nombre": "Cléber Santana",
+        "apodo": "Cléber",
+        "epoca": "2015-2016",
+        "desc": "Cerebro medular organizativo del Verdao del Oeste. Comandó la táctica y orquestó puras logísticas magistrales frente a equipos de élite guiándolos épicamente a una final internacional histórica y trágica."
+      },
+      {
+        "nombre": "Bruno Rangel",
+        "apodo": "Bruno Rangel",
+        "epoca": "2013-2016",
+        "desc": "Goleador histórico de la institución verde. Consagrándose resolviendo ascensos orgánicos y marcando dianas plenas formadas definitivas frente a las potencias lógicas sudamericanas resolutivas cerradas de copa intercontinental."
+      },
+      {
+        "nombre": "Thiaguinho",
+        "apodo": "Thiaguinho",
+        "epoca": "2016",
+        "desc": "Carrilero vibrante joven de ida y vuela asombrosos orgánicos logrados asegurando presencias formadoras firmes consolidando los cruces del trágico torneo dictado sudamericano asombroso."
+      },
+      {
+        "nombre": "Neném",
+        "apodo": "Neném",
+        "epoca": "2009-2017",
+        "desc": "Sobreviviente institucional formando y bases formativas presenciando campeonatos asiduos estaduales logrando bases fijas orgánicas completas de ascensos asombrosas fijas absolutos."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Bruno Rangel",
+        "goles": 81,
+        "epoca": "2013-2016",
+        "apodo": "Rangel"
+      },
+      {
+        "nombre": "Índio",
+        "goles": 62,
+        "epoca": "1990-1996",
+        "apodo": "Índio"
+      },
+      {
+        "nombre": "Paulo Rink",
+        "goles": 55,
+        "epoca": "1990-1995",
+        "apodo": "Paulo Rink"
+      },
+      {
+        "nombre": "Kempes",
+        "goles": 16,
+        "epoca": "2016",
+        "apodo": "Kempes"
+      },
+      {
+        "nombre": "Aloísio Chulapa",
+        "goles": 14,
+        "epoca": "2011",
+        "apodo": "Aloísio"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Neném",
+        "partidos": 175,
+        "epoca": "2009-2017",
+        "apodo": "Neném"
+      },
+      {
+        "nombre": "Apodi",
+        "partidos": 150,
+        "epoca": "2015-2018",
+        "apodo": "Apodi"
+      },
+      {
+        "nombre": "Rafael Lima",
+        "partidos": 148,
+        "epoca": "2012-2016",
+        "apodo": "Rafael Lima"
+      },
+      {
+        "nombre": "Gil",
+        "partidos": 139,
+        "epoca": "2015-2016",
+        "apodo": "Gil"
+      },
+      {
+        "nombre": "Danilo Padilha",
+        "partidos": 110,
+        "epoca": "2013-2016",
+        "apodo": "Danilo"
+      }
+    ]
+  }
 }

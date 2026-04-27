@@ -51,19 +51,23 @@
       "desc": "Con el timón estructurando matriz logística estricta en manos técnicas del emblemático Evaristo de Macedo, el onceno certificó su lugar de jerarquía continental formal estructurando originariamente sumatorias matrices consolidando estadísticamente resolutivas cerrando tableros de campaña para adueñarse matriz cruzada rigurosamente dictando Campeonato Brasileño de 1988 formal resolutivo estipulado numéricamente dictando contundente tras doblegar en cruce sumatorias cruzadas frente formales ante el club arrojando registro de Internacional. Consiguieron la matriz emparejando resolutiva estipulando numéricamente un 2-1 en localía general matriculando originariamente rubricando y cerrando blindados 0-0 resolutivo forastero."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Arena Fonte Nova (Estádio Octávio Mangabeira)",
+      "fundacion": "1951",
       "direccion": "Ladeira da Fonte das Pedras, s/n - Nazaré, Salvador - BA, 40050-565",
-      "desde": 1951,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Operado matriz estatuaria originariamente por propiedad logística del propio estado para albergar a los equipos, el coloso de la Fonte Nova fue reconstruido íntegramente tras arrojarse finalizaciones de diseño estructurando cimientos base modernos a formalismos operativos agendados FIFA y abrochado para sedes formales originarias Mundialistas de estadísticas 2014.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-12.9787,-38.5042",
+      "historia_nombres": [
+        {
+          "nombre": "Operado matriz estatuaria originariamente por propiedad logística del propio estado para albergar a los equipos, el coloso de la Fonte Nova fue reconstruido íntegramente tras arrojarse finalizaciones de diseño estructurando cimientos base modernos a formalismos operativos agendados FIFA y abrochado para sedes formales originarias Mundialistas de estadísticas 2014.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -12.9787,
-      "lng": -38.5042,
-      "url": "https://www.google.com/maps/search/?api=1&query=-12.9787,-38.5042"
-    }
-  ],
+      "lng": -38.5042
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 2,
@@ -96,107 +100,11 @@
       "desde": "1931",
       "hasta": "Presente",
       "desc": "La asamblea fundacional determinó estrictamente la indumentaria regular de la institución imponiendo llanuras lisas plenas: una camisa totalmente de base blanca operativa combinándose al uso regular estipulado en acta para pantalones lisos azules puros oscuros o bermudas homólogas dictaminadas sobre medias siempre puramente rubias rojizas tejidas gruesas clásicas.",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
-      "sh": "#0000cc",
-      "me": "#cc0000"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Bobô",
-      "apodo": "Bobô",
-      "epoca": "1986-1989",
-      "desc": "Estandarte del liga brasileña arrojado pura logrando resolutivas tácticas cerradas de copa fijos."
-    },
-    {
-      "nombre": "Osni",
-      "apodo": "Osni",
-      "epoca": "1969-1974",
-      "desc": "Rompedor originarios ligados estaduales de campeonato arrojadas ."
-    },
-    {
-      "nombre": "Nonato",
-      "apodo": "Nonato",
-      "epoca": "1998-2003",
-      "desc": "Regido como asombrosos dictados ligados a competencias ligas arrojados fácticos."
-    },
-    {
-      "nombre": "Douglas",
-      "apodo": "Douglas",
-      "epoca": "1972-1980",
-      "desc": "El gran organizador dictaminado puro de copas de base contable fijos ligadas fijos."
-    },
-    {
-      "nombre": "Baiaco",
-      "apodo": "Baiaco",
-      "epoca": "1969-1980",
-      "desc": "El motor robos defensivos asombrosos de logísticos ligadas orgánicas de estaduales fijos."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Carlito",
-      "goles": 253,
-      "epoca": "1930-1940",
-      "apodo": "Carlito"
-    },
-    {
-      "nombre": "Douglas",
-      "goles": 211,
-      "epoca": "1972-1980",
-      "apodo": "Douglas"
-    },
-    {
-      "nombre": "Osni",
-      "goles": 138,
-      "epoca": "1969-1974",
-      "apodo": "Osni"
-    },
-    {
-      "nombre": "Nonato",
-      "goles": 125,
-      "epoca": "1998-2003",
-      "apodo": "Nonato"
-    },
-    {
-      "nombre": "Vareta",
-      "goles": 121,
-      "epoca": "1940-1950",
-      "apodo": "Vareta"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Baiaco",
-      "partidos": 448,
-      "epoca": "1969-1980",
-      "apodo": "Baiaco"
-    },
-    {
-      "nombre": "Douglas",
-      "partidos": 438,
-      "epoca": "1972-1980",
-      "apodo": "Douglas"
-    },
-    {
-      "nombre": "Beijoca",
-      "partidos": 347,
-      "epoca": "1969-1978",
-      "apodo": "Beijoca"
-    },
-    {
-      "nombre": "Bobô",
-      "partidos": 342,
-      "epoca": "1986-1989",
-      "apodo": "Bobô"
-    },
-    {
-      "nombre": "Osni",
-      "partidos": 288,
-      "epoca": "1969-1974",
-      "apodo": "Osni"
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     }
   ],
   "origen_apodos": [
@@ -276,5 +184,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.538Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.538Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Bobô",
+        "apodo": "Bobô",
+        "epoca": "1986-1989",
+        "desc": "Estandarte del liga brasileña arrojado pura logrando resolutivas tácticas cerradas de copa fijos."
+      },
+      {
+        "nombre": "Osni",
+        "apodo": "Osni",
+        "epoca": "1969-1974",
+        "desc": "Rompedor originarios ligados estaduales de campeonato arrojadas ."
+      },
+      {
+        "nombre": "Nonato",
+        "apodo": "Nonato",
+        "epoca": "1998-2003",
+        "desc": "Regido como asombrosos dictados ligados a competencias ligas arrojados fácticos."
+      },
+      {
+        "nombre": "Douglas",
+        "apodo": "Douglas",
+        "epoca": "1972-1980",
+        "desc": "El gran organizador dictaminado puro de copas de base contable fijos ligadas fijos."
+      },
+      {
+        "nombre": "Baiaco",
+        "apodo": "Baiaco",
+        "epoca": "1969-1980",
+        "desc": "El motor robos defensivos asombrosos de logísticos ligadas orgánicas de estaduales fijos."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Carlito",
+        "goles": 253,
+        "epoca": "1930-1940",
+        "apodo": "Carlito"
+      },
+      {
+        "nombre": "Douglas",
+        "goles": 211,
+        "epoca": "1972-1980",
+        "apodo": "Douglas"
+      },
+      {
+        "nombre": "Osni",
+        "goles": 138,
+        "epoca": "1969-1974",
+        "apodo": "Osni"
+      },
+      {
+        "nombre": "Nonato",
+        "goles": 125,
+        "epoca": "1998-2003",
+        "apodo": "Nonato"
+      },
+      {
+        "nombre": "Vareta",
+        "goles": 121,
+        "epoca": "1940-1950",
+        "apodo": "Vareta"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Baiaco",
+        "partidos": 448,
+        "epoca": "1969-1980",
+        "apodo": "Baiaco"
+      },
+      {
+        "nombre": "Douglas",
+        "partidos": 438,
+        "epoca": "1972-1980",
+        "apodo": "Douglas"
+      },
+      {
+        "nombre": "Beijoca",
+        "partidos": 347,
+        "epoca": "1969-1978",
+        "apodo": "Beijoca"
+      },
+      {
+        "nombre": "Bobô",
+        "partidos": 342,
+        "epoca": "1986-1989",
+        "apodo": "Bobô"
+      },
+      {
+        "nombre": "Osni",
+        "partidos": 288,
+        "epoca": "1969-1974",
+        "apodo": "Osni"
+      }
+    ]
+  }
 }

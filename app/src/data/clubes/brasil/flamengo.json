@@ -58,41 +58,40 @@
       "desc": "Bajo el esquema táctico del técnico portugués Jorge Jesus, el rubro futbolístico del club logró la inédita hazaña de dominar simultáneamente los dos torneos continentales y nacionales más importantes del calendario civil 2019. Primeramente rompieron todos los registros de puntuación previa adjudicándose el Campeonato Brasileño con 90 puntos exactos en el tablero general. De manera paralela, en la final única agendada de la Copa Libertadores jugada el 23 de noviembre en Lima, el equipo superó a River Plate logrando una victoria de 2-1 gracias a dos anotaciones arrojadas formalmente en los minutos 89 y 92 a cargo del goleador Gabriel Barbosa."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio da Rua Paysandu",
-      "direccion": "R. Paissandu - Laranjeiras, Rio de Janeiro - RJ",
-      "desde": 1912,
-      "hasta": 1932,
-      "estado": "Histórico",
-      "obs": "Primer recinto base originario formal alquilado inicialmente por el club. Tras oficializarse el departamento de fútbol, se consolidó como espacio operativo de las series locales en la era de los primeros campeonatos.",
-      "lat": -22.9351,
-      "lng": -43.1812,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9351,-43.1812"
-    },
-    {
-      "nombre": "Estádio da Gávea",
-      "direccion": "Av. Borges de Medeiros, 997 - Lagoa, Rio de Janeiro - RJ, 22430-041",
-      "desde": 1938,
-      "hasta": 1997,
-      "estado": "Histórico",
-      "obs": "Recinto social y directivo del club que sirvió como estadio secundario donde el bloque técnico instaló su cuartel corporativo definitivo tras conseguir tierras cedidas numéricamente a las lomas barriales de Lagoa.",
-      "lat": -22.9772,
-      "lng": -43.2185,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9772,-43.2185"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Jornalista Mário Filho (Maracanã)",
+      "fundacion": "1950",
       "direccion": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
-      "desde": 1950,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Catedral mundial oficial adjudicada como el histórico fortín del club, el cual fue testigo resolutivo de los ciclos multitudinarios en las más grandes coronaciones del país de Flamengo durante el siglo.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301",
+      "historia_nombres": [
+        {
+          "nombre": "Catedral mundial oficial adjudicada como el histórico fortín del club, el cual fue testigo resolutivo de los ciclos multitudinarios en las más grandes coronaciones del país de Flamengo durante el siglo.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -22.9121,
-      "lng": -43.2301,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301"
-    }
-  ],
+      "lng": -43.2301
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio da Rua Paysandu",
+        "epoca": "1912-1932",
+        "direccion": "R. Paissandu - Laranjeiras, Rio de Janeiro - RJ",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9351,-43.1812",
+        "lat": -22.9351,
+        "lng": -43.1812
+      },
+      {
+        "nombre": "Estádio da Gávea",
+        "epoca": "1938-1997",
+        "direccion": "Av. Borges de Medeiros, 997 - Lagoa, Rio de Janeiro - RJ, 22430-041",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9772,-43.2185",
+        "lat": -22.9772,
+        "lng": -43.2185
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -232,102 +231,6 @@
       "me": "#cc0000"
     }
   ],
-  "idolos": [
-    {
-      "nombre": "Arthur Antunes Coimbra",
-      "apodo": "Zico / Galinho de Quintino",
-      "epoca": "1971-1989",
-      "desc": "El máximo ícono de la institución. Comandó la etapa dorada conquistando la primera Libertadores e Intercontinental, un aura mítica como enganche de técnica exquisita y dominio absoluto de los tiros libres."
-    },
-    {
-      "nombre": "Leovegildo Lins da Gama",
-      "apodo": "Júnior / Capacete",
-      "epoca": "1974-1993",
-      "desc": "Símbolo de longevidad y jerarquía. Inició como lateral izquierdo deslumbrante y culminó su trayectoria como mediocampista central orquestador, ganando cuatro campeonatos brasileños en dos décadas distintas."
-    },
-    {
-      "nombre": "José Leandro de Souza",
-      "apodo": "Leandro / Peixe-Frito",
-      "epoca": "1978-1990",
-      "desc": "Lateral derecho de antología considerado el defensor más técnico de la historia del club. Desarrolló su carrera profesional exclusivamente en Flamengo, siendo pieza vital de la máquina campeona del mundo en 1981."
-    },
-    {
-      "nombre": "Edvaldo Alves de Santa Rosa",
-      "apodo": "Dida",
-      "epoca": "1954-1964",
-      "desc": "Ídolo supremo de la etapa previa a Zico. Delantero de habilidad punzante y artífice máximo de los trofeos cariocas en los años 50, fue la gran inspiración del 'Galinho' durante su juventud."
-    },
-    {
-      "nombre": "Gabriel Barbosa",
-      "apodo": "Gabigol",
-      "epoca": "2019-2024",
-      "desc": "La cara contemporánea del club. Inmortalizó su nombre anotando dobletes heroicos en finales continentales, restaurando el prestigio internacional y la mística victoriosa tras más de tres décadas de sequía continental."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Arthur Antunes Coimbra",
-      "goles": 509,
-      "epoca": "1971-1989",
-      "apodo": "Zico"
-    },
-    {
-      "nombre": "Edvaldo Alves de Santa Rosa",
-      "goles": 264,
-      "epoca": "1954-1964",
-      "apodo": "Dida"
-    },
-    {
-      "nombre": "Henrique Frade",
-      "goles": 216,
-      "epoca": "1954-1963",
-      "apodo": "Henrique"
-    },
-    {
-      "nombre": "Pirillo",
-      "goles": 204,
-      "epoca": "1941-1947",
-      "apodo": "Sylvio Pirillo"
-    },
-    {
-      "nombre": "Romário de Souza Faria",
-      "goles": 204,
-      "epoca": "1995-1999",
-      "apodo": "Romário / Baixinho"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Leovegildo Lins da Gama",
-      "partidos": 876,
-      "epoca": "1974-1993",
-      "apodo": "Júnior"
-    },
-    {
-      "nombre": "Arthur Antunes Coimbra",
-      "partidos": 732,
-      "epoca": "1971-1989",
-      "apodo": "Zico"
-    },
-    {
-      "nombre": "Adílio de Oliveira Gonçalves",
-      "partidos": 615,
-      "epoca": "1975-1987",
-      "apodo": "Adílio / Brown"
-    },
-    {
-      "nombre": "Jordan da Costa",
-      "partidos": 609,
-      "epoca": "1952-1963",
-      "apodo": "Jordan"
-    },
-    {
-      "nombre": "Jorge Luís Andrade da Silva",
-      "partidos": 570,
-      "epoca": "1979-1988",
-      "apodo": "Andrade"
-    }
-  ],
   "origen_apodos": [
     {
       "apodo": "Urubu",
@@ -399,5 +302,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.538Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.538Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Arthur Antunes Coimbra",
+        "apodo": "Zico / Galinho de Quintino",
+        "epoca": "1971-1989",
+        "desc": "El máximo ícono de la institución. Comandó la etapa dorada conquistando la primera Libertadores e Intercontinental, un aura mítica como enganche de técnica exquisita y dominio absoluto de los tiros libres."
+      },
+      {
+        "nombre": "Leovegildo Lins da Gama",
+        "apodo": "Júnior / Capacete",
+        "epoca": "1974-1993",
+        "desc": "Símbolo de longevidad y jerarquía. Inició como lateral izquierdo deslumbrante y culminó su trayectoria como mediocampista central orquestador, ganando cuatro campeonatos brasileños en dos décadas distintas."
+      },
+      {
+        "nombre": "José Leandro de Souza",
+        "apodo": "Leandro / Peixe-Frito",
+        "epoca": "1978-1990",
+        "desc": "Lateral derecho de antología considerado el defensor más técnico de la historia del club. Desarrolló su carrera profesional exclusivamente en Flamengo, siendo pieza vital de la máquina campeona del mundo en 1981."
+      },
+      {
+        "nombre": "Edvaldo Alves de Santa Rosa",
+        "apodo": "Dida",
+        "epoca": "1954-1964",
+        "desc": "Ídolo supremo de la etapa previa a Zico. Delantero de habilidad punzante y artífice máximo de los trofeos cariocas en los años 50, fue la gran inspiración del 'Galinho' durante su juventud."
+      },
+      {
+        "nombre": "Gabriel Barbosa",
+        "apodo": "Gabigol",
+        "epoca": "2019-2024",
+        "desc": "La cara contemporánea del club. Inmortalizó su nombre anotando dobletes heroicos en finales continentales, restaurando el prestigio internacional y la mística victoriosa tras más de tres décadas de sequía continental."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Arthur Antunes Coimbra",
+        "goles": 509,
+        "epoca": "1971-1989",
+        "apodo": "Zico"
+      },
+      {
+        "nombre": "Edvaldo Alves de Santa Rosa",
+        "goles": 264,
+        "epoca": "1954-1964",
+        "apodo": "Dida"
+      },
+      {
+        "nombre": "Henrique Frade",
+        "goles": 216,
+        "epoca": "1954-1963",
+        "apodo": "Henrique"
+      },
+      {
+        "nombre": "Pirillo",
+        "goles": 204,
+        "epoca": "1941-1947",
+        "apodo": "Sylvio Pirillo"
+      },
+      {
+        "nombre": "Romário de Souza Faria",
+        "goles": 204,
+        "epoca": "1995-1999",
+        "apodo": "Romário / Baixinho"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Leovegildo Lins da Gama",
+        "partidos": 876,
+        "epoca": "1974-1993",
+        "apodo": "Júnior"
+      },
+      {
+        "nombre": "Arthur Antunes Coimbra",
+        "partidos": 732,
+        "epoca": "1971-1989",
+        "apodo": "Zico"
+      },
+      {
+        "nombre": "Adílio de Oliveira Gonçalves",
+        "partidos": 615,
+        "epoca": "1975-1987",
+        "apodo": "Adílio / Brown"
+      },
+      {
+        "nombre": "Jordan da Costa",
+        "partidos": 609,
+        "epoca": "1952-1963",
+        "apodo": "Jordan"
+      },
+      {
+        "nombre": "Jorge Luís Andrade da Silva",
+        "partidos": 570,
+        "epoca": "1979-1988",
+        "apodo": "Andrade"
+      }
+    ]
+  }
 }

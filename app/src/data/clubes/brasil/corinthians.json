@@ -58,63 +58,48 @@
       "desc": "Superando las previsiones estadísticas mediante el esquema táctico delineado por el técnico Tite, la institución rubricó la conquista definitiva de su primera Copa Libertadores logrando de manera inédita la sumatoria invicta en todos los partidos. El juego de cierre de la final se escenificó el 4 de julio con una victoria mecánica de 2-0 sobre Club Atlético Boca Juniors originada estrictamente por cuenta goleadora del atacante Emerson Sheik en los minutos 53 y 72 del registro cronometrado. Trasmitiendo el impulso de ese ciclo de seguridad defensiva, la expedición del club capturó el Campeonato Mundial de Clubes de la FIFA el 16 de diciembre en Yokohama arrojando una victoria final contable de 1-0 venciendo al formato del Chelsea Football Club por medio del anotador Paolo Guerrero a los 69 minutos reglamentarios."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Neo Química Arena",
+      "fundacion": "2014",
       "direccion": "Av. Miguel Ignácio Curi, 111 - Artur Alvim, São Paulo - SP, 08290-000",
-      "desde": 2014,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estadio propio. Inaugurado en 2014 para ser sede local de la Copa Mundial de la FIFA. Opera administrativamente como el recinto oficial y exclusivo del primer equipo profesional.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5452,-46.4742",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio propio. Inaugurado en 2014 para ser sede local de la Copa Mundial de la FIFA. Opera administrativamente como el recinto oficial y exclusivo del primer equipo profesional.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -23.5452,
-      "lng": -46.4742,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5452,-46.4742"
+      "lng": -46.4742
     },
-    {
-      "nombre": "Estádio Parque São Jorge (Fazendinha)",
-      "direccion": "Rua São Jorge, 777 - Tatuapé, São Paulo - SP, 03087-000",
-      "desde": 1928,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Sede patrimonial propia corporativa. Operó como recinto del plantel profesional hasta la década de 1940. Actualmente es utilizado en competencias oficiales de fútbol femenino y categorías formativas.",
-      "lat": -23.5256,
-      "lng": -46.5654,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5256,-46.5654"
-    },
-    {
-      "nombre": "Campo do Lenheiro",
-      "direccion": "Rua José Paulino, Bom Retiro, São Paulo - SP",
-      "desde": 1910,
-      "hasta": 1918,
-      "estado": "Histórico",
-      "obs": "Terreno primario de juego sin infraestructura formal de gradas, utilizado durante la fase de fundación del organismo bajo terrenos cedidos.",
-      "lat": -23.5284,
-      "lng": -46.6385,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5284,-46.6385"
-    },
-    {
-      "nombre": "Estádio da Ponte Grande",
-      "direccion": "Av. Tiradentes, Bom Retiro, São Paulo - SP",
-      "desde": 1918,
-      "hasta": 1927,
-      "estado": "Histórico",
-      "obs": "Primer estadio debidamente reglamentado y arrendado directamente por el club, destinado a los campeonatos paulistas previos a la adquisición de un terreno propio.",
-      "lat": -23.5244,
-      "lng": -46.6262,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5244,-46.6262"
-    },
-    {
-      "nombre": "Estádio do Pacaembu",
-      "direccion": "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010",
-      "desde": 1940,
-      "hasta": 2014,
-      "estado": "Histórico",
-      "obs": "Sede deportiva de administración municipal. Utilizada de forma continua como la sede estructural principal de Brasileirão y torneos internacionales durante el ciclo de 1940 a 2014.",
-      "lat": -23.5455,
-      "lng": -46.6644,
-      "url": "https://www.google.com/maps/search/?api=1&query=-23.5455,-46.6644"
-    }
-  ],
+    "viejas": [
+      {
+        "nombre": "Campo do Lenheiro",
+        "epoca": "1910-1918",
+        "direccion": "Rua José Paulino, Bom Retiro, São Paulo - SP",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5284,-46.6385",
+        "lat": -23.5284,
+        "lng": -46.6385
+      },
+      {
+        "nombre": "Estádio da Ponte Grande",
+        "epoca": "1918-1927",
+        "direccion": "Av. Tiradentes, Bom Retiro, São Paulo - SP",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5244,-46.6262",
+        "lat": -23.5244,
+        "lng": -46.6262
+      },
+      {
+        "nombre": "Estádio do Pacaembu",
+        "epoca": "1940-2014",
+        "direccion": "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-23.5455,-46.6644",
+        "lat": -23.5455,
+        "lng": -46.6644
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 2,
@@ -209,117 +194,21 @@
       "desde": "1910",
       "hasta": "1913",
       "desc": "Las primeras campañas competitivas anotaron el uso de una precaria camiseta diseñada en color crema crudo que se fue lavando hacia el blanco puro de fábrica.",
-      "tipo": "",
-      "c1": "#f5f5dc",
-      "c2": null,
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
       "sh": "#000000",
-      "me": "#000000"
+      "me": "#ffffff"
     },
     {
       "desde": "1914",
       "hasta": "Presente",
       "desc": "La asamblea regularizó como indumentaria matriz institucional el uso de un conjunto íntegramente de camiseta blanca lisa acompañada reglamentariamente de un pantalón corto de tono negro crudo.",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
+      "c2": "#000000",
       "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Sócrates Brasileiro",
-      "apodo": "El Doctor",
-      "epoca": "1978-1984",
-      "desc": "Cerebro majestuoso y filósofo con el balón. Pionero ideológico de la 'Democracia Corinthiana', lideró al plantel al bicampeonato paulista con sus toques de taquito geniales que maravillaron a un país oprimido."
-    },
-    {
-      "nombre": "Cássio Ramos",
-      "apodo": "Gigante Cássio",
-      "epoca": "2012-2024",
-      "desc": "Arquero colosal en los momentos definitorios de vida o muerte. Autor cumbre de una tapada apoteósica ante Diego Souza para luego alzar las glorias absolutas de la Libertadores del 2012 y el Mundial contra Chelsea."
-    },
-    {
-      "nombre": "Marcelo Pereira Surcin",
-      "apodo": "Marcelinho Carioca / Pé de Anjo",
-      "epoca": "1994-2001",
-      "desc": "El pie celestial que dictaba combas magnéticas y misiles estáticos en jugadas de táctica fija. Acumuló títulos arrasadores (brasileños, mundiales y paulistas) liderando la ofensiva rebelde y precisa al maderamen."
-    },
-    {
-      "nombre": "José Ferreira Neto",
-      "apodo": "Neto / Craque Neto",
-      "epoca": "1989-1993",
-      "desc": "Diez rebelde, caudillo insolente y de pegada feroz en sus tiros libres letales. Arrastró prácticamente en solitario al conjunto conquistando heroicamente el primer Campeonato de Brasil puro liguero sumando milagros tácticos de 1990."
-    },
-    {
-      "nombre": "Roberto Rivellino",
-      "apodo": "Reizinho do Parque",
-      "epoca": "1965-1974",
-      "desc": "El inventor del drible bautizado finta elástica. Ostentó magistralmente el número diez repartiendo fútbol exquisito de clase mundial y desbordando una técnica en disparos de zurda pura estruendosa en la liga paulista."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Cláudio Christovam de Pinho",
-      "goles": 305,
-      "epoca": "1945-1957",
-      "apodo": "Cláudio / Gerente"
-    },
-    {
-      "nombre": "Oswaldo Silva",
-      "goles": 269,
-      "epoca": "1945-1957",
-      "apodo": "Baltazar / Cabezón de Oro"
-    },
-    {
-      "nombre": "Uriel Fernandes",
-      "goles": 256,
-      "epoca": "1934-1944",
-      "apodo": "Teleco"
-    },
-    {
-      "nombre": "Manoel Nunes",
-      "goles": 228,
-      "epoca": "1913-1930",
-      "apodo": "Neco"
-    },
-    {
-      "nombre": "Marcelo Pereira Surcin",
-      "goles": 206,
-      "epoca": "1994-2001",
-      "apodo": "Marcelinho Carioca"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Wladimir Rodrigues dos Santos",
-      "partidos": 806,
-      "epoca": "1972-1987",
-      "apodo": "Wladimir"
-    },
-    {
-      "nombre": "Cássio Ramos",
-      "partidos": 712,
-      "epoca": "2012-2024",
-      "apodo": "Gigante Cássio"
-    },
-    {
-      "nombre": "Luiz Trochillo",
-      "partidos": 606,
-      "epoca": "1948-1967",
-      "apodo": "Luizinho / Pequeño Polegar"
-    },
-    {
-      "nombre": "Ronaldo Soares Giovanelli",
-      "partidos": 602,
-      "epoca": "1988-1998",
-      "apodo": "Ronaldo Giovanelli"
-    },
-    {
-      "nombre": "José Maria Rodrigues Alves",
-      "partidos": 598,
-      "epoca": "1970-1983",
-      "apodo": "Zé Maria / Super Zé"
     }
   ],
   "origen_apodos": [
@@ -423,5 +312,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.335Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.335Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Sócrates Brasileiro",
+        "apodo": "El Doctor",
+        "epoca": "1978-1984",
+        "desc": "Cerebro majestuoso y filósofo con el balón. Pionero ideológico de la 'Democracia Corinthiana', lideró al plantel al bicampeonato paulista con sus toques de taquito geniales que maravillaron a un país oprimido."
+      },
+      {
+        "nombre": "Cássio Ramos",
+        "apodo": "Gigante Cássio",
+        "epoca": "2012-2024",
+        "desc": "Arquero colosal en los momentos definitorios de vida o muerte. Autor cumbre de una tapada apoteósica ante Diego Souza para luego alzar las glorias absolutas de la Libertadores del 2012 y el Mundial contra Chelsea."
+      },
+      {
+        "nombre": "Marcelo Pereira Surcin",
+        "apodo": "Marcelinho Carioca / Pé de Anjo",
+        "epoca": "1994-2001",
+        "desc": "El pie celestial que dictaba combas magnéticas y misiles estáticos en jugadas de táctica fija. Acumuló títulos arrasadores (brasileños, mundiales y paulistas) liderando la ofensiva rebelde y precisa al maderamen."
+      },
+      {
+        "nombre": "José Ferreira Neto",
+        "apodo": "Neto / Craque Neto",
+        "epoca": "1989-1993",
+        "desc": "Diez rebelde, caudillo insolente y de pegada feroz en sus tiros libres letales. Arrastró prácticamente en solitario al conjunto conquistando heroicamente el primer Campeonato de Brasil puro liguero sumando milagros tácticos de 1990."
+      },
+      {
+        "nombre": "Roberto Rivellino",
+        "apodo": "Reizinho do Parque",
+        "epoca": "1965-1974",
+        "desc": "El inventor del drible bautizado finta elástica. Ostentó magistralmente el número diez repartiendo fútbol exquisito de clase mundial y desbordando una técnica en disparos de zurda pura estruendosa en la liga paulista."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Cláudio Christovam de Pinho",
+        "goles": 305,
+        "epoca": "1945-1957",
+        "apodo": "Cláudio / Gerente"
+      },
+      {
+        "nombre": "Oswaldo Silva",
+        "goles": 269,
+        "epoca": "1945-1957",
+        "apodo": "Baltazar / Cabezón de Oro"
+      },
+      {
+        "nombre": "Uriel Fernandes",
+        "goles": 256,
+        "epoca": "1934-1944",
+        "apodo": "Teleco"
+      },
+      {
+        "nombre": "Manoel Nunes",
+        "goles": 228,
+        "epoca": "1913-1930",
+        "apodo": "Neco"
+      },
+      {
+        "nombre": "Marcelo Pereira Surcin",
+        "goles": 206,
+        "epoca": "1994-2001",
+        "apodo": "Marcelinho Carioca"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Wladimir Rodrigues dos Santos",
+        "partidos": 806,
+        "epoca": "1972-1987",
+        "apodo": "Wladimir"
+      },
+      {
+        "nombre": "Cássio Ramos",
+        "partidos": 712,
+        "epoca": "2012-2024",
+        "apodo": "Gigante Cássio"
+      },
+      {
+        "nombre": "Luiz Trochillo",
+        "partidos": 606,
+        "epoca": "1948-1967",
+        "apodo": "Luizinho / Pequeño Polegar"
+      },
+      {
+        "nombre": "Ronaldo Soares Giovanelli",
+        "partidos": 602,
+        "epoca": "1988-1998",
+        "apodo": "Ronaldo Giovanelli"
+      },
+      {
+        "nombre": "José Maria Rodrigues Alves",
+        "partidos": 598,
+        "epoca": "1970-1983",
+        "apodo": "Zé Maria / Super Zé"
+      }
+    ]
+  }
 }

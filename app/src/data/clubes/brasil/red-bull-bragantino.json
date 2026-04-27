@@ -42,19 +42,23 @@
       "desc": "Durante base originaria y arrojados estamentos operativos contables base del mercado de capitales perimetrales corporativos modernos, la marca logística formal Red Bull (RB) concretó formalmente y matriz adjudicándose operando base originando formales la compra estatuaria operativa base absorbiendo el activo institucional originando el equipo renombrado oficial matriculando de base formalizadora Red Bull Bragantino contable estipulada. El financiamiento matriz originando y estipulando operó formal rubricando perimetral oficial matriculando estadística arrojando corona de la campaña sumando de campeonatos en Serie B del país cerrando matriz originaria de ascensos en 2019 arrojados estableciendo base estatuaria finalista para copas operando agendada continental organizando estructuradas Sudamericana originadas 2021 frente agendando final formal."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Nabi Abi Chedid",
+      "fundacion": "1949",
       "direccion": "R. Emilio Colela, 235 - Jardim Nova Braganca, Bragança Paulista - SP, 12903-810",
-      "desde": 1949,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Fundada arrojando terreno perimetral matriz estructurado logísticamente mantenido original; el predio formal y corporativo fue superando reformas para amoldar y acarrear estamentos originados de formal base estatuaria corporativa agendada post inversión estipulando base matriz de franquicias formales extranjeras cruzando el siglo.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9649,-46.5413",
+      "historia_nombres": [
+        {
+          "nombre": "Fundada arrojando terreno perimetral matriz estructurado logísticamente mantenido original; el predio formal y corporativo fue superando reformas para amoldar y acarrear estamentos originados de formal base estatuaria corporativa agendada post inversión estipulando base matriz de franquicias formales extranjeras cruzando el siglo.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -22.9649,
-      "lng": -46.5413,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9649,-46.5413"
-    }
-  ],
+      "lng": -46.5413
+    },
+    "viejas": []
+  },
   "titulos": [
     {
       "n": 2,
@@ -94,107 +98,11 @@
       "desde": "2019",
       "hasta": "Presente",
       "desc": "Asimilando imposiciones jurídicas multinacionales asumen reglamentos globales foráneos vistiendo lisa camisa netamente pulcra llanamente base estipulada estrictamente blanqueada de fijos bordados laterales rematadas llanamente puras estampando color rojo vivo llanamente, operadas estipuladamente conjugadas vistiendo formal pantaloncillos enteros lisos s base colorada dictada rígidos llanamente matriculados o rojo fuerte técnico contable legalmente.",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
-      "sh": "#dd0000",
+      "c2": "#000000",
+      "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Marcelo Veiga",
-      "apodo": "Veiga",
-      "epoca": "2000-2015",
-      "desc": "Su paso como jugador e histórico técnico forjó las bases estatuarias consolidando ascensos y logrando victorias memorables formadoras."
-    },
-    {
-      "nombre": "Léo Ortiz",
-      "apodo": "Léo Ortiz",
-      "epoca": "2019-2024",
-      "desc": "Capitán absoluto de la transición moderna pura firmeza técnica sudamericanas de finales asombrosas ligadas fijos."
-    },
-    {
-      "nombre": "Claudinho",
-      "apodo": "Claudinho",
-      "epoca": "2019-2021",
-      "desc": "Goleador asombrosos originarios lideró al plantel estadísticas inalcanzables en ligas brasileñas y consagraciones tácticos logísticas fijos."
-    },
-    {
-      "nombre": "Cleiton",
-      "apodo": "Cleiton",
-      "epoca": "2020-Presente",
-      "desc": "Atajador originario de época firmeza base atajando arcos de competencias ligadas plenas resolutivas cerradas fijos formadas puras originarios tácticos."
-    },
-    {
-      "nombre": "Pintado",
-      "apodo": "Pintado",
-      "epoca": "1988-1991",
-      "desc": "Vibrante volante formador campeonatos asombrosos del famoso Bragantino conquistador de la época originaria base ligado de copa y torneo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Claudinho",
-      "goles": 65,
-      "epoca": "2019-2021",
-      "apodo": "Claudinho"
-    },
-    {
-      "nombre": "Ytalo",
-      "goles": 50,
-      "epoca": "2019-2022",
-      "apodo": "Ytalo"
-    },
-    {
-      "nombre": "Artur",
-      "goles": 40,
-      "epoca": "2020-2023",
-      "apodo": "Artur"
-    },
-    {
-      "nombre": "Silvio",
-      "goles": 38,
-      "epoca": "1990-1995",
-      "apodo": "Silvio"
-    },
-    {
-      "nombre": "Kelly",
-      "goles": 30,
-      "epoca": "1995-1999",
-      "apodo": "Kelly"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Cleiton",
-      "partidos": 180,
-      "epoca": "2020-Presente",
-      "apodo": "Cleiton"
-    },
-    {
-      "nombre": "Léo Ortiz",
-      "partidos": 175,
-      "epoca": "2019-2024",
-      "apodo": "Léo Ortiz"
-    },
-    {
-      "nombre": "Aderlán",
-      "partidos": 160,
-      "epoca": "2019-2024",
-      "apodo": "Aderlán"
-    },
-    {
-      "nombre": "Jadsom",
-      "partidos": 140,
-      "epoca": "2021-Presente",
-      "apodo": "Jadsom"
-    },
-    {
-      "nombre": "Lucas Evangelista",
-      "partidos": 135,
-      "epoca": "2020-Presente",
-      "apodo": "Evangelista"
     }
   ],
   "origen_apodos": [
@@ -254,5 +162,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.537Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.537Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Marcelo Veiga",
+        "apodo": "Veiga",
+        "epoca": "2000-2015",
+        "desc": "Su paso como jugador e histórico técnico forjó las bases estatuarias consolidando ascensos y logrando victorias memorables formadoras."
+      },
+      {
+        "nombre": "Léo Ortiz",
+        "apodo": "Léo Ortiz",
+        "epoca": "2019-2024",
+        "desc": "Capitán absoluto de la transición moderna pura firmeza técnica sudamericanas de finales asombrosas ligadas fijos."
+      },
+      {
+        "nombre": "Claudinho",
+        "apodo": "Claudinho",
+        "epoca": "2019-2021",
+        "desc": "Goleador asombrosos originarios lideró al plantel estadísticas inalcanzables en ligas brasileñas y consagraciones tácticos logísticas fijos."
+      },
+      {
+        "nombre": "Cleiton",
+        "apodo": "Cleiton",
+        "epoca": "2020-Presente",
+        "desc": "Atajador originario de época firmeza base atajando arcos de competencias ligadas plenas resolutivas cerradas fijos formadas puras originarios tácticos."
+      },
+      {
+        "nombre": "Pintado",
+        "apodo": "Pintado",
+        "epoca": "1988-1991",
+        "desc": "Vibrante volante formador campeonatos asombrosos del famoso Bragantino conquistador de la época originaria base ligado de copa y torneo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Claudinho",
+        "goles": 65,
+        "epoca": "2019-2021",
+        "apodo": "Claudinho"
+      },
+      {
+        "nombre": "Ytalo",
+        "goles": 50,
+        "epoca": "2019-2022",
+        "apodo": "Ytalo"
+      },
+      {
+        "nombre": "Artur",
+        "goles": 40,
+        "epoca": "2020-2023",
+        "apodo": "Artur"
+      },
+      {
+        "nombre": "Silvio",
+        "goles": 38,
+        "epoca": "1990-1995",
+        "apodo": "Silvio"
+      },
+      {
+        "nombre": "Kelly",
+        "goles": 30,
+        "epoca": "1995-1999",
+        "apodo": "Kelly"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Cleiton",
+        "partidos": 180,
+        "epoca": "2020-Presente",
+        "apodo": "Cleiton"
+      },
+      {
+        "nombre": "Léo Ortiz",
+        "partidos": 175,
+        "epoca": "2019-2024",
+        "apodo": "Léo Ortiz"
+      },
+      {
+        "nombre": "Aderlán",
+        "partidos": 160,
+        "epoca": "2019-2024",
+        "apodo": "Aderlán"
+      },
+      {
+        "nombre": "Jadsom",
+        "partidos": 140,
+        "epoca": "2021-Presente",
+        "apodo": "Jadsom"
+      },
+      {
+        "nombre": "Lucas Evangelista",
+        "partidos": 135,
+        "epoca": "2020-Presente",
+        "apodo": "Evangelista"
+      }
+    ]
+  }
 }

@@ -58,30 +58,32 @@
       "desc": "Comandado desde el aspecto táctico por Vanderlei Luxemburgo y apoyado en el mediocampista Alex, el club certificó su temporada cumbre adjudicándose la 'Tríplice Coroa' de 2003. El plantel logró el Campeonato Mineiro de forma invicta, se consagró en la Copa de Brasil eliminando a Flamengo y sentenció de manera aplastante el primer Campeonato Brasileño disputado bajo formato de puntos, rompiendo barreras estadísticas al superar los 100 puntos y 100 goles anotados."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio Barro Preto (Estádio JK)",
-      "direccion": "R. Guajajaras, 1722 - Barro Preto, Belo Horizonte - MG, 30180-101",
-      "desde": 1923,
-      "hasta": 1965,
-      "estado": "Histórico",
-      "obs": "Fundado operativamente en terrenos cedidos a Palestra Italia en los años 20. Estructuró la base de localía del club durante todo su ciclo amateur y profesional temprano, siendo relevado corporativamente como centro de entrenamiento al construirse el Mineirão.",
-      "lat": -19.9238,
-      "lng": -43.9452,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.9238,-43.9452"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Governador Magalhães Pinto (Mineirão)",
+      "fundacion": "1965",
       "direccion": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
-      "desde": 1965,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estructura principal del club y referente fundamental del estado de Minas Gerais. Es de propiedad estatal pero Cruzeiro administra y dicta sus localías allí, ostentando récords de asistencia con más de 100.000 espectadores en la final de la Libertadores 1997.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711",
+      "historia_nombres": [
+        {
+          "nombre": "Estructura principal del club y referente fundamental del estado de Minas Gerais. Es de propiedad estatal pero Cruzeiro administra y dicta sus localías allí, ostentando récords de asistencia con más de 100.000 espectadores en la final de la Libertadores 1997.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -19.8658,
-      "lng": -43.9711,
-      "url": "https://www.google.com/maps/search/?api=1&query=-19.8658,-43.9711"
-    }
-  ],
+      "lng": -43.9711
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Barro Preto (Estádio JK)",
+        "epoca": "1923-1965",
+        "direccion": "R. Guajajaras, 1722 - Barro Preto, Belo Horizonte - MG, 30180-101",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-19.9238,-43.9452",
+        "lat": -19.9238,
+        "lng": -43.9452
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 2,
@@ -192,117 +194,21 @@
       "desde": "1921",
       "hasta": "1942",
       "desc": "Primer uniforme de procedencias itálicas que implementó coloraciones verdes sólidas abrochadas a pantalones regulares blancos lisos correspondientes con la historia del entonces Palestra.",
-      "tipo": "",
-      "c1": "#008800",
-      "c2": null,
-      "sh": "#ffffff",
-      "me": "#cc0000"
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff"
     },
     {
       "desde": "1942",
       "hasta": "Presente",
       "desc": "Respondiendo presiones legales federales vinculadas al conflicto político externo, la comisión dictaminó el cambio formal e histórico oficial hacia remeras operativas totalmente en tono azul sobre pantalón corto color blanco pleno y regular.",
-      "tipo": "",
-      "c1": "#0011bb",
-      "c2": null,
-      "sh": "#ffffff",
+      "tipo": "mitad-vertical",
+      "c1": "#ffffff",
+      "c2": "#000000",
+      "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Eduardo Gonçalves de Andrade",
-      "apodo": "Tostão",
-      "epoca": "1963-1972",
-      "desc": "El gran monarca azul. Cerebro privilegiado que guió al equipo a humillar al intratable equipo de Pelé logrando destronar u ligueros ganando dictámenes tácticos absolutos en asombrosos originarios brasileños o copa formativa."
-    },
-    {
-      "nombre": "Dirceu Lopes Pinto",
-      "apodo": "O Príncipe",
-      "epoca": "1963-1977",
-      "desc": "Socio de oro absoluto de Tostão. Su velocidad y capacidad destructiva lógicamente generó tácticas u logran o formativas de ataques desbordados logrando dictámenes absolutos en resolutivas copas base."
-    },
-    {
-      "nombre": "Fábio Deivson Lopes Maciel",
-      "apodo": "Fábio",
-      "epoca": "2005-2021",
-      "desc": "Custodio eterno de arcos salvando o marcando hitos o hitos tácticos atajando asombrosos torneos o logrando absolutos arrojados bicampeonatos cerrados ligueros o tácticos formativos dictados continentales de copa."
-    },
-    {
-      "nombre": "Alexsandro de Souza",
-      "apodo": "Alex Talent Fino",
-      "epoca": "2001-2004",
-      "desc": "Comandó la gloriosa Triple Corona originaria pura o llanamente maravillosas cuotas u originarios tácticos absolutos u pases o disparos lógicamente finos de logísticos u regidos."
-    },
-    {
-      "nombre": "Juan Pablo Sorín",
-      "apodo": "Sorín / Juampi",
-      "epoca": "2000-2004",
-      "desc": "Estandarte lateral arrojado puro aguerrido sudamericano sudor absoluto logístico marcando asombrosos logrados u lógicos arrojados de copa o tácticos ligados u resolutivamente fijados."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Eduardo Gonçalves de Andrade",
-      "goles": 242,
-      "epoca": "1963-1972",
-      "apodo": "Tostão"
-    },
-    {
-      "nombre": "Dirceu Lopes Pinto",
-      "goles": 223,
-      "epoca": "1963-1977",
-      "apodo": "Dirceu Lopes"
-    },
-    {
-      "nombre": "Leonídio Fantoni",
-      "goles": 207,
-      "epoca": "1929-1951",
-      "apodo": "Niginho"
-    },
-    {
-      "nombre": "José Alves",
-      "goles": 171,
-      "epoca": "1927-1939",
-      "apodo": "Bengala"
-    },
-    {
-      "nombre": "Ninão Fantoni",
-      "goles": 167,
-      "epoca": "1923-1938",
-      "apodo": "Ninão"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Fábio Deivson Lopes Maciel",
-      "partidos": 976,
-      "epoca": "2005-2021",
-      "apodo": "Fábio"
-    },
-    {
-      "nombre": "Zé Carlos",
-      "partidos": 633,
-      "epoca": "1965-1977",
-      "apodo": "Zé Carlos / Zeção"
-    },
-    {
-      "nombre": "Dirceu Lopes Pinto",
-      "partidos": 610,
-      "epoca": "1963-1977",
-      "apodo": "Dirceu Lopes"
-    },
-    {
-      "nombre": "Wilson Piazza",
-      "partidos": 566,
-      "epoca": "1964-1977",
-      "apodo": "Piazza"
-    },
-    {
-      "nombre": "Raul Guilherme Plassmann",
-      "partidos": 557,
-      "epoca": "1965-1978",
-      "apodo": "Raul"
     }
   ],
   "origen_apodos": [
@@ -416,5 +322,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.336Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.336Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Eduardo Gonçalves de Andrade",
+        "apodo": "Tostão",
+        "epoca": "1963-1972",
+        "desc": "El gran monarca azul. Cerebro privilegiado que guió al equipo a humillar al intratable equipo de Pelé logrando destronar u ligueros ganando dictámenes tácticos absolutos en asombrosos originarios brasileños o copa formativa."
+      },
+      {
+        "nombre": "Dirceu Lopes Pinto",
+        "apodo": "O Príncipe",
+        "epoca": "1963-1977",
+        "desc": "Socio de oro absoluto de Tostão. Su velocidad y capacidad destructiva lógicamente generó tácticas u logran o formativas de ataques desbordados logrando dictámenes absolutos en resolutivas copas base."
+      },
+      {
+        "nombre": "Fábio Deivson Lopes Maciel",
+        "apodo": "Fábio",
+        "epoca": "2005-2021",
+        "desc": "Custodio eterno de arcos salvando o marcando hitos o hitos tácticos atajando asombrosos torneos o logrando absolutos arrojados bicampeonatos cerrados ligueros o tácticos formativos dictados continentales de copa."
+      },
+      {
+        "nombre": "Alexsandro de Souza",
+        "apodo": "Alex Talent Fino",
+        "epoca": "2001-2004",
+        "desc": "Comandó la gloriosa Triple Corona originaria pura o llanamente maravillosas cuotas u originarios tácticos absolutos u pases o disparos lógicamente finos de logísticos u regidos."
+      },
+      {
+        "nombre": "Juan Pablo Sorín",
+        "apodo": "Sorín / Juampi",
+        "epoca": "2000-2004",
+        "desc": "Estandarte lateral arrojado puro aguerrido sudamericano sudor absoluto logístico marcando asombrosos logrados u lógicos arrojados de copa o tácticos ligados u resolutivamente fijados."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Eduardo Gonçalves de Andrade",
+        "goles": 242,
+        "epoca": "1963-1972",
+        "apodo": "Tostão"
+      },
+      {
+        "nombre": "Dirceu Lopes Pinto",
+        "goles": 223,
+        "epoca": "1963-1977",
+        "apodo": "Dirceu Lopes"
+      },
+      {
+        "nombre": "Leonídio Fantoni",
+        "goles": 207,
+        "epoca": "1929-1951",
+        "apodo": "Niginho"
+      },
+      {
+        "nombre": "José Alves",
+        "goles": 171,
+        "epoca": "1927-1939",
+        "apodo": "Bengala"
+      },
+      {
+        "nombre": "Ninão Fantoni",
+        "goles": 167,
+        "epoca": "1923-1938",
+        "apodo": "Ninão"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Fábio Deivson Lopes Maciel",
+        "partidos": 976,
+        "epoca": "2005-2021",
+        "apodo": "Fábio"
+      },
+      {
+        "nombre": "Zé Carlos",
+        "partidos": 633,
+        "epoca": "1965-1977",
+        "apodo": "Zé Carlos / Zeção"
+      },
+      {
+        "nombre": "Dirceu Lopes Pinto",
+        "partidos": 610,
+        "epoca": "1963-1977",
+        "apodo": "Dirceu Lopes"
+      },
+      {
+        "nombre": "Wilson Piazza",
+        "partidos": 566,
+        "epoca": "1964-1977",
+        "apodo": "Piazza"
+      },
+      {
+        "nombre": "Raul Guilherme Plassmann",
+        "partidos": 557,
+        "epoca": "1965-1978",
+        "apodo": "Raul"
+      }
+    ]
+  }
 }

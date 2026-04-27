@@ -58,52 +58,48 @@
       "desc": "Frente a las escaladas continentales resolutivas, el club logró arrojando registro oficial estadísticamente la oficialización de una copa contable resolutiva captando un trofeo al ganar la competición perimetral adjudicando mecánicamente estatuaria la conocida como Copa Conmebol transcurrida rubricando y cerrando cronogramas estipulados de 1993. Tras resolver la serie del torneo matriculado sumando formalmente superando un encuentro definitivo final contra las escuadras operando mecánicamente estamento perimetral derrocando sumatorias cruzado a los rioplatenses formales del club Peñarol del escalafón uruguayo estipuló final tableros registrando tanda de finalización formal por penales a favor resolutivo neto."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio de General Severiano",
-      "direccion": "Av. Venceslau Brás, 72 - Botafogo, Rio de Janeiro - RJ, 22290-140",
-      "desde": 1913,
-      "hasta": 1993,
-      "estado": "Histórico",
-      "obs": "Sede instalada operativamente en propiedades del club. Albergó la fundación institucional contable y los partidos oficiales disputados previa inauguración de estadios mayores.",
-      "lat": -22.9532,
-      "lng": -43.1788,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9532,-43.1788"
-    },
-    {
-      "nombre": "Estádio Jornalista Mário Filho (Maracanã)",
-      "direccion": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
-      "desde": 1950,
-      "hasta": 2007,
-      "estado": "Histórico",
-      "obs": "Sede de uso compartido perteneciente al gobierno estatal. Funcionó como el terreno principal designado para Primera División y definitorias de cruces clásicos hasta el año 2007.",
-      "lat": -22.9121,
-      "lng": -43.2301,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301"
-    },
-    {
-      "nombre": "Estádio Caio Martins",
-      "direccion": "R. Pres. Backer - Icaraí, Niterói - RJ, 24220-041",
-      "desde": 1993,
-      "hasta": 2004,
-      "estado": "Histórico",
-      "obs": "Sede deportiva ubicada en la región de Niterói. Fue operada por el club mediante formato de concesión como estadio alternativo principal durante el transcurso legal de los años 90 y 2000.",
-      "lat": -22.9056,
-      "lng": -43.1023,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.9056,-43.1023"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Estádio Olímpico Nilton Santos (Engenhão)",
+      "fundacion": "2007",
       "direccion": "R. José dos Reis, 425 - Engenho de Dentro, Rio de Janeiro - RJ, 20770-001",
-      "desde": 2007,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Estadio matriz logístico original del Estado. Otorgado al club bajo contrato de alquiler posterior a los Juegos Panamericanos de 2007, designado como la sede exclusiva del plantel titular.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.8931,-43.2929",
+      "historia_nombres": [
+        {
+          "nombre": "Estadio matriz logístico original del Estado. Otorgado al club bajo contrato de alquiler posterior a los Juegos Panamericanos de 2007, designado como la sede exclusiva del plantel titular.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -22.8931,
-      "lng": -43.2929,
-      "url": "https://www.google.com/maps/search/?api=1&query=-22.8931,-43.2929"
-    }
-  ],
+      "lng": -43.2929
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio de General Severiano",
+        "epoca": "1913-1993",
+        "direccion": "Av. Venceslau Brás, 72 - Botafogo, Rio de Janeiro - RJ, 22290-140",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9532,-43.1788",
+        "lat": -22.9532,
+        "lng": -43.1788
+      },
+      {
+        "nombre": "Estádio Jornalista Mário Filho (Maracanã)",
+        "epoca": "1950-2007",
+        "direccion": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9121,-43.2301",
+        "lat": -22.9121,
+        "lng": -43.2301
+      },
+      {
+        "nombre": "Estádio Caio Martins",
+        "epoca": "1993-2004",
+        "direccion": "R. Pres. Backer - Icaraí, Niterói - RJ, 24220-041",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-22.9056,-43.1023",
+        "lat": -22.9056,
+        "lng": -43.1023
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -153,11 +149,11 @@
       "desde": "1904",
       "hasta": "1906",
       "desc": "Primeros registros documentados de uso de uniformes sin estandarización cromática total, intercalando el uso regular de remeras blancas sobre pantalones negros lisos.",
-      "tipo": "",
+      "tipo": "mitad-vertical",
       "c1": "#ffffff",
-      "c2": null,
+      "c2": "#000000",
       "sh": "#000000",
-      "me": "#000000"
+      "me": "#ffffff"
     },
     {
       "desde": "1906",
@@ -168,102 +164,6 @@
       "c2": "#ffffff",
       "sh": "#000000",
       "me": "#888888"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Manuel Francisco dos Santos",
-      "apodo": "Garrincha / Alegría del Pueblo",
-      "epoca": "1953-1965",
-      "desc": "La esencia lúdica del fútbol encapsulada en piernas corvas. Volvió loco al mundo con sus gambetas por la extrema derecha, cimentando el aura inalcanzable de los botafoguenses en plenos años sesenta."
-    },
-    {
-      "nombre": "Nilton Santos",
-      "apodo": "La Enciclopedia",
-      "epoca": "1948-1964",
-      "desc": "Defensor revolucionario que jugaba con traje de etiqueta invisible. Su elegancia para salir proyectado en ataque redefinió para siempre la función del lateral izquierdo y lo elevó como dios del club."
-    },
-    {
-      "nombre": "Jair Ventura Filho",
-      "apodo": "Jairzinho / El Huracán",
-      "epoca": "1959-1974",
-      "desc": "Reemplazó a un mito puro como Garrincha y lo superó en explosión física. Su tranco letal y cuota de definición arrolladora marcaron la potencia dorada en ofensiva durante la transición generacional."
-    },
-    {
-      "nombre": "Túlio Costa",
-      "apodo": "Túlio Maravilha",
-      "epoca": "1994-1998",
-      "desc": "Ícono publicitario y artillero demoledor de los años noventa. Rescató al club del ostracismo ganando con sus ráfagas goleadoras el histórico título brasileño de 1995 como figura indiscutible."
-    },
-    {
-      "nombre": "Valdir Pereira",
-      "apodo": "Didi",
-      "epoca": "1956-1962",
-      "desc": "El creador intelectual de la 'Folha Seca'. Maestro elegante de ritmos en la mitad de la cancha y cerebro de maquinarias invencibles que ganaron títulos de liga e influenciaron al seleccionado verdeamarelo."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Waldir Cardoso Lebrêgo",
-      "goles": 313,
-      "epoca": "1954-1964",
-      "apodo": "Quarentinha"
-    },
-    {
-      "nombre": "Carvalho Leite",
-      "goles": 261,
-      "epoca": "1929-1941",
-      "apodo": "Carvalho Leite"
-    },
-    {
-      "nombre": "Manuel Francisco dos Santos",
-      "goles": 243,
-      "epoca": "1953-1965",
-      "apodo": "Garrincha"
-    },
-    {
-      "nombre": "Heleno de Freitas",
-      "goles": 209,
-      "epoca": "1939-1948",
-      "apodo": "Heleno"
-    },
-    {
-      "nombre": "Nilo Murtinho Braga",
-      "goles": 190,
-      "epoca": "1927-1937",
-      "apodo": "Nilo"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "Nilton Santos",
-      "partidos": 718,
-      "epoca": "1948-1964",
-      "apodo": "Nilton Santos"
-    },
-    {
-      "nombre": "Manuel Francisco dos Santos",
-      "partidos": 612,
-      "epoca": "1953-1965",
-      "apodo": "Garrincha"
-    },
-    {
-      "nombre": "Jefferson de Oliveira Galvão",
-      "partidos": 459,
-      "epoca": "2003-2018",
-      "apodo": "Jefferson"
-    },
-    {
-      "nombre": "Valtencir Pereira Senra",
-      "partidos": 453,
-      "epoca": "1967-1976",
-      "apodo": "Valtencir"
-    },
-    {
-      "nombre": "Waldir Cardoso Lebrêgo",
-      "partidos": 444,
-      "epoca": "1954-1964",
-      "apodo": "Quarentinha"
     }
   ],
   "origen_apodos": [
@@ -367,5 +267,103 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.333Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.333Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Manuel Francisco dos Santos",
+        "apodo": "Garrincha / Alegría del Pueblo",
+        "epoca": "1953-1965",
+        "desc": "La esencia lúdica del fútbol encapsulada en piernas corvas. Volvió loco al mundo con sus gambetas por la extrema derecha, cimentando el aura inalcanzable de los botafoguenses en plenos años sesenta."
+      },
+      {
+        "nombre": "Nilton Santos",
+        "apodo": "La Enciclopedia",
+        "epoca": "1948-1964",
+        "desc": "Defensor revolucionario que jugaba con traje de etiqueta invisible. Su elegancia para salir proyectado en ataque redefinió para siempre la función del lateral izquierdo y lo elevó como dios del club."
+      },
+      {
+        "nombre": "Jair Ventura Filho",
+        "apodo": "Jairzinho / El Huracán",
+        "epoca": "1959-1974",
+        "desc": "Reemplazó a un mito puro como Garrincha y lo superó en explosión física. Su tranco letal y cuota de definición arrolladora marcaron la potencia dorada en ofensiva durante la transición generacional."
+      },
+      {
+        "nombre": "Túlio Costa",
+        "apodo": "Túlio Maravilha",
+        "epoca": "1994-1998",
+        "desc": "Ícono publicitario y artillero demoledor de los años noventa. Rescató al club del ostracismo ganando con sus ráfagas goleadoras el histórico título brasileño de 1995 como figura indiscutible."
+      },
+      {
+        "nombre": "Valdir Pereira",
+        "apodo": "Didi",
+        "epoca": "1956-1962",
+        "desc": "El creador intelectual de la 'Folha Seca'. Maestro elegante de ritmos en la mitad de la cancha y cerebro de maquinarias invencibles que ganaron títulos de liga e influenciaron al seleccionado verdeamarelo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Waldir Cardoso Lebrêgo",
+        "goles": 313,
+        "epoca": "1954-1964",
+        "apodo": "Quarentinha"
+      },
+      {
+        "nombre": "Carvalho Leite",
+        "goles": 261,
+        "epoca": "1929-1941",
+        "apodo": "Carvalho Leite"
+      },
+      {
+        "nombre": "Manuel Francisco dos Santos",
+        "goles": 243,
+        "epoca": "1953-1965",
+        "apodo": "Garrincha"
+      },
+      {
+        "nombre": "Heleno de Freitas",
+        "goles": 209,
+        "epoca": "1939-1948",
+        "apodo": "Heleno"
+      },
+      {
+        "nombre": "Nilo Murtinho Braga",
+        "goles": 190,
+        "epoca": "1927-1937",
+        "apodo": "Nilo"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Nilton Santos",
+        "partidos": 718,
+        "epoca": "1948-1964",
+        "apodo": "Nilton Santos"
+      },
+      {
+        "nombre": "Manuel Francisco dos Santos",
+        "partidos": 612,
+        "epoca": "1953-1965",
+        "apodo": "Garrincha"
+      },
+      {
+        "nombre": "Jefferson de Oliveira Galvão",
+        "partidos": 459,
+        "epoca": "2003-2018",
+        "apodo": "Jefferson"
+      },
+      {
+        "nombre": "Valtencir Pereira Senra",
+        "partidos": 453,
+        "epoca": "1967-1976",
+        "apodo": "Valtencir"
+      },
+      {
+        "nombre": "Waldir Cardoso Lebrêgo",
+        "partidos": 444,
+        "epoca": "1954-1964",
+        "apodo": "Quarentinha"
+      }
+    ]
+  }
 }

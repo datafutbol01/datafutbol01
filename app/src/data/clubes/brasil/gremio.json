@@ -61,30 +61,32 @@
       "desc": "Refrendando popular y corporativamente un espíritu de alto valor logístico centrado en copas directas perimetrales y torneos de eliminación, la institución logró acumular, de manera escalonada, la obtención quíntuple del trofeo oficial Copa de Brasil. Ganadores de su primera entrega oficial documentada de 1989, consiguieron adjudicarse formal los escalafones correspondientes al 1994, 1997, 2001 y, tras el cierre de sequías estructurales relativas, lograron formalidades estadísticas liquidando a Atlético Mineiro registrando formal en series de finales computadas y estipuladas durante calendario 2016."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Estádio Olímpico Monumental",
-      "direccion": "Largo Patrono Fernando Kroeff, 1 - Azenha, Porto Alegre - RS, 90880-440",
-      "desde": 1954,
-      "hasta": 2013,
-      "estado": "Histórico",
-      "obs": "Fundado y operado como el bastión matriz sede histórica de Porto Alegre de las épocas doradas entre 1954 a 2013, superando las conquistas mayores históricas de la entidad formal continental y mundial hasta su abandono tras mudanzas operativas corporativas a la nueva Arena.",
-      "lat": -30.0652,
-      "lng": -51.2133,
-      "url": "https://www.google.com/maps/search/?api=1&query=-30.0652,-51.2133"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Arena do Grêmio",
+      "fundacion": "2012",
       "direccion": "Av. Padre Leopoldo Brentano, 110 - Humaitá, Porto Alegre - RS, 90250-590",
-      "desde": 2012,
-      "hasta": null,
-      "estado": "Activo",
-      "obs": "Megacentro estructurado moderno y dotado bajo un cumplimiento formal estadístico logístico con normas UEFA/FIFA. Reemplazó completamente a las dependencias matrices locales tras las operaciones contables desarrolladas agendando y estipulando 2012.",
+      "google_maps": "https://www.google.com/maps/search/?api=1&query=-29.9739,-51.1947",
+      "historia_nombres": [
+        {
+          "nombre": "Megacentro estructurado moderno y dotado bajo un cumplimiento formal estadístico logístico con normas UEFA/FIFA. Reemplazó completamente a las dependencias matrices locales tras las operaciones contables desarrolladas agendando y estipulando 2012.",
+          "epoca": "Varios"
+        }
+      ],
       "lat": -29.9739,
-      "lng": -51.1947,
-      "url": "https://www.google.com/maps/search/?api=1&query=-29.9739,-51.1947"
-    }
-  ],
+      "lng": -51.1947
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Olímpico Monumental",
+        "epoca": "1954-2013",
+        "direccion": "Largo Patrono Fernando Kroeff, 1 - Azenha, Porto Alegre - RS, 90880-440",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-30.0652,-51.2133",
+        "lat": -30.0652,
+        "lng": -51.2133
+      }
+    ]
+  },
   "titulos": [
     {
       "n": 1,
@@ -164,102 +166,6 @@
       "c2": "#000000",
       "sh": "#000000",
       "me": "#ffffff"
-    }
-  ],
-  "idolos": [
-    {
-      "nombre": "Renato Portaluppi",
-      "apodo": "Renato Gaúcho",
-      "epoca": "1982-1987",
-      "desc": "El genio rebelde de la camisa 7. Condujo como extremo demoledor al primer título intercontinental del club ante el Hamburgo, anotando ambos tantos históricos en Tokio. Aumentó su leyenda de deidad tras otorgarles la Copa Libertadores 2017 como director técnico."
-    },
-    {
-      "nombre": "Eurico Lara",
-      "apodo": "Lara",
-      "epoca": "1920-1935",
-      "desc": "Atesorado como héroe inmaculado fundacional y mencionado en el mismísimo himno oficial de la institución. Entregó años de arcos invictos negándose a ser sustituido incluso bajo riesgo mortal, el estoicismo eterno que caracteriza a la camiseta tricolor."
-    },
-    {
-      "nombre": "Hugo de León",
-      "apodo": "De León",
-      "epoca": "1981-1984",
-      "desc": "Caudillo sudamericano perfecto. Alzó ensangrentado la primera Copa Libertadores del equipo enmarcando la imagen guerrera absoluta que inmortalizó un estilo rústico y ganador estatuario ante rivales de élite como Peñarol."
-    },
-    {
-      "nombre": "Danrlei de Deus Hinterholz",
-      "apodo": "Danrlei",
-      "epoca": "1993-2003",
-      "desc": "Temperamento indomable y atajadas prodigiosas. Es el arquero más exitoso estadísticamente de las décadas modernas, sumando Libertadores y múltiples torneos nacionales bajo el duro ciclo armado por Felipe Scolari."
-    },
-    {
-      "nombre": "Pedro Geromel",
-      "apodo": "Geromel / Geromonstro",
-      "epoca": "2014-2024",
-      "desc": "Capitán silencioso y defensor contemporáneo de época. Rescató al club tras la sequía de 15 años sin copas nacionales liderando el fondo técnico con elegancia europea para consagrarse levantando la Copa Libertadores 2017 como referente máximo de jerarquía."
-    }
-  ],
-  "goleadores_historicos": [
-    {
-      "nombre": "Alcindo Martha de Freitas",
-      "goles": 264,
-      "epoca": "1964-1971",
-      "apodo": "Bugre / Alcindo"
-    },
-    {
-      "nombre": "Tarciso Flecha Negra",
-      "goles": 226,
-      "epoca": "1973-1986",
-      "apodo": "Tarciso"
-    },
-    {
-      "nombre": "Gessy Lima",
-      "goles": 214,
-      "epoca": "1956-1962",
-      "apodo": "Gessy"
-    },
-    {
-      "nombre": "Juarez Teixeira",
-      "goles": 202,
-      "epoca": "1955-1961",
-      "apodo": "Juarez"
-    },
-    {
-      "nombre": "Luiz Carvalho",
-      "goles": 160,
-      "epoca": "1923-1940",
-      "apodo": "Carvalho"
-    }
-  ],
-  "presencias_historicas": [
-    {
-      "nombre": "José Tarciso de Sousa",
-      "partidos": 721,
-      "epoca": "1973-1986",
-      "apodo": "Tarciso"
-    },
-    {
-      "nombre": "Airton Ferreira da Silva",
-      "partidos": 592,
-      "epoca": "1954-1967",
-      "apodo": "Airton Pavilhão"
-    },
-    {
-      "nombre": "Danrlei de Deus Hinterholz",
-      "partidos": 591,
-      "epoca": "1993-2003",
-      "apodo": "Danrlei"
-    },
-    {
-      "nombre": "Leôncio Vieira",
-      "partidos": 557,
-      "epoca": "1955-1968",
-      "apodo": "Leôncio"
-    },
-    {
-      "nombre": "Roger Machado Marques",
-      "partidos": 505,
-      "epoca": "1994-2003",
-      "apodo": "Roger"
     }
   ],
   "origen_apodos": [
@@ -359,5 +265,103 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-20T10:07:57.336Z"
+  "ultima_actualizacion": "2026-04-20T10:07:57.336Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Renato Portaluppi",
+        "apodo": "Renato Gaúcho",
+        "epoca": "1982-1987",
+        "desc": "El genio rebelde de la camisa 7. Condujo como extremo demoledor al primer título intercontinental del club ante el Hamburgo, anotando ambos tantos históricos en Tokio. Aumentó su leyenda de deidad tras otorgarles la Copa Libertadores 2017 como director técnico."
+      },
+      {
+        "nombre": "Eurico Lara",
+        "apodo": "Lara",
+        "epoca": "1920-1935",
+        "desc": "Atesorado como héroe inmaculado fundacional y mencionado en el mismísimo himno oficial de la institución. Entregó años de arcos invictos negándose a ser sustituido incluso bajo riesgo mortal, el estoicismo eterno que caracteriza a la camiseta tricolor."
+      },
+      {
+        "nombre": "Hugo de León",
+        "apodo": "De León",
+        "epoca": "1981-1984",
+        "desc": "Caudillo sudamericano perfecto. Alzó ensangrentado la primera Copa Libertadores del equipo enmarcando la imagen guerrera absoluta que inmortalizó un estilo rústico y ganador estatuario ante rivales de élite como Peñarol."
+      },
+      {
+        "nombre": "Danrlei de Deus Hinterholz",
+        "apodo": "Danrlei",
+        "epoca": "1993-2003",
+        "desc": "Temperamento indomable y atajadas prodigiosas. Es el arquero más exitoso estadísticamente de las décadas modernas, sumando Libertadores y múltiples torneos nacionales bajo el duro ciclo armado por Felipe Scolari."
+      },
+      {
+        "nombre": "Pedro Geromel",
+        "apodo": "Geromel / Geromonstro",
+        "epoca": "2014-2024",
+        "desc": "Capitán silencioso y defensor contemporáneo de época. Rescató al club tras la sequía de 15 años sin copas nacionales liderando el fondo técnico con elegancia europea para consagrarse levantando la Copa Libertadores 2017 como referente máximo de jerarquía."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Alcindo Martha de Freitas",
+        "goles": 264,
+        "epoca": "1964-1971",
+        "apodo": "Bugre / Alcindo"
+      },
+      {
+        "nombre": "Tarciso Flecha Negra",
+        "goles": 226,
+        "epoca": "1973-1986",
+        "apodo": "Tarciso"
+      },
+      {
+        "nombre": "Gessy Lima",
+        "goles": 214,
+        "epoca": "1956-1962",
+        "apodo": "Gessy"
+      },
+      {
+        "nombre": "Juarez Teixeira",
+        "goles": 202,
+        "epoca": "1955-1961",
+        "apodo": "Juarez"
+      },
+      {
+        "nombre": "Luiz Carvalho",
+        "goles": 160,
+        "epoca": "1923-1940",
+        "apodo": "Carvalho"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "José Tarciso de Sousa",
+        "partidos": 721,
+        "epoca": "1973-1986",
+        "apodo": "Tarciso"
+      },
+      {
+        "nombre": "Airton Ferreira da Silva",
+        "partidos": 592,
+        "epoca": "1954-1967",
+        "apodo": "Airton Pavilhão"
+      },
+      {
+        "nombre": "Danrlei de Deus Hinterholz",
+        "partidos": 591,
+        "epoca": "1993-2003",
+        "apodo": "Danrlei"
+      },
+      {
+        "nombre": "Leôncio Vieira",
+        "partidos": 557,
+        "epoca": "1955-1968",
+        "apodo": "Leôncio"
+      },
+      {
+        "nombre": "Roger Machado Marques",
+        "partidos": 505,
+        "epoca": "1994-2003",
+        "apodo": "Roger"
+      }
+    ]
+  }
 }
