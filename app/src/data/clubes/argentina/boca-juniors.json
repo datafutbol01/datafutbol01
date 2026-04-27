@@ -33,23 +33,28 @@
   "historia": [
     {
       "ano": "1905",
-      "hito": "Fundación en la Plaza Solís",
-      "desc": "El 3 de abril de 1905, un grupo de adolescentes hijos de inmigrantes italianos se reunió en un banco de la Plaza Solís, en el barrio de La Boca, para fundar el Club Atlético Boca Juniors. Inspirados por los buques que amarraban en el puerto, adoptaron los colores azul y oro tras observar la bandera de un barco sueco."
+      "hito": "Fundación institucional",
+      "desc": "El 3 de abril de 1905, un grupo de adolescentes compuesto por Esteban Baglietto, Alfredo Scarpatti, Santiago Sana y los hermanos Juan y Teodoro Farenga, llevó a cabo la asamblea constitutiva del Club Atlético Boca Juniors en la Plaza Solís, ubicada en el barrio porteño de La Boca. La elección del nombre reflejaba la identidad barrial en combinación con una influencia británica. Tras utilizar distintas camisetas en sus inicios, en 1907 la institución adoptó definitivamente los colores azul y amarillo tras observar la bandera de un barco de bandera sueca amarrado en el puerto local."
     },
     {
       "ano": "1925",
-      "hito": "La Gira Europea",
-      "desc": "Boca Juniors se convirtió en el primer equipo argentino en realizar una extensa gira de competición por Europa. Disputaron 19 partidos contra importantes equipos de España, Alemania y Francia, obteniendo 15 victorias, lo que les valió el reconocimiento oficial de Campeones de Honor."
+      "hito": "Gira internacional por Europa",
+      "desc": "En 1925, la Asociación Argentina de Football autorizó a Boca Juniors a realizar una gira de exhibición por el continente europeo, convirtiéndose en el primer equipo del país en emprender un proyecto de estas características. El plantel disputó un total de 19 encuentros en España, Alemania y Francia, registrando 15 victorias frente a reconocidas entidades europeas. Debido a la envergadura de los resultados obtenidos y la repercusión internacional, la delegación fue reconocida a su regreso con el título oficial de Campeones de Honor."
+    },
+    {
+      "ano": "1940",
+      "hito": "Inauguración del Estadio La Bombonera",
+      "desc": "Luego de ejercer su localía en diversos recintos temporales de la Ciudad de Buenos Aires y Avellaneda, la institución concretó la edificación de su estadio definitivo de cemento en las calles Brandsen y Del Valle Iberlucea. El recinto fue inaugurado oficialmente el 25 de mayo de 1940 en un encuentro amistoso frente a San Lorenzo. La particular configuración de sus tribunas superpuestas derivó en la denominación popular de 'La Bombonera', consolidándose con el paso de las décadas como uno de los estadios más emblemáticos del fútbol internacional."
     },
     {
       "ano": "1977-1978",
-      "hito": "El bicampeonato de América y la Intercontinental",
-      "desc": "Bajo la conducción técnica de Juan Carlos Lorenzo, el club conformó un bloque defensivo histórico que le permitió obtener sus dos primeras Copas Libertadores de América de forma consecutiva. Además, conquistaron su primera Copa Intercontinental al vencer al Borussia Mönchengladbach de Alemania en 1978."
+      "hito": "Títulos internacionales y Copa Intercontinental",
+      "desc": "Bajo la conducción técnica de Juan Carlos Lorenzo, el equipo estructuró un bloque defensivo y táctico que le permitió dominar la competencia continental durante la segunda mitad de la década de 1970. El club obtuvo sus primeras dos Copas Libertadores de América de forma consecutiva en las ediciones de 1977 y 1978. Asimismo, en el marco de este ciclo, Boca Juniors se adjudicó su primera Copa Intercontinental al superar en la serie final al Borussia Mönchengladbach de Alemania, logrando su primer campeonato a escala global."
     },
     {
       "ano": "2000-2003",
-      "hito": "La época dorada de Carlos Bianchi",
-      "desc": "Al mando del entrenador Carlos Bianchi y con el talento en el campo de Juan Román Riquelme y Martín Palermo, Boca Juniors gozó del período más exitoso de su historia. Ganaron tres Copas Libertadores (2000, 2001, 2003) y dos Copas Intercontinentales, derrotando a poderosos europeos como el Real Madrid y el AC Milan."
+      "hito": "Hegemonía continental y global",
+      "desc": "Bajo la dirección técnica de Carlos Bianchi, la institución experimentó la etapa más exitosa de su historia profesional. Contando con jugadores como Juan Román Riquelme y Martín Palermo, el equipo obtuvo las Copas Libertadores de 2000, 2001 y 2003. En el ámbito mundial, el plantel coronó este ciclo de logros adjudicándose en dos oportunidades la Copa Intercontinental disputada en Tokio, derrotando a equipos de primer nivel europeo como el Real Madrid en el año 2000 y el AC Milan en 2003."
     }
   ],
   "canchas": [
@@ -1347,90 +1352,66 @@
   ],
   "goleadores_historicos": [
     {
-      "pos": 1,
       "nombre": "Martín Palermo",
-      "apodo": "El Titán / El Loco",
-      "goles": 236,
-      "partidos": 404,
-      "periodo": "1997–2000; 2004–2011",
-      "posicion": "Delantero",
-      "obs": "Récord de 20 goles en un torneo corto (Ap.1998). 3 penales errados en Copa América 1999 — histórico. Gol de cabeza desde mitad de cancha (2009)",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 236 goles en competiciones oficiales durante su trayectoria en el equipo entre 1997–2000; 2004–2011."
+      "apodo": "El Titán",
+      "epoca": "1997-2011",
+      "goles": 236
     },
     {
-      "pos": 2,
       "nombre": "Roberto Cherro",
       "apodo": "Cabecita de Oro",
-      "goles": 221,
-      "partidos": 305,
-      "periodo": "1926–1938",
-      "posicion": "Volante ofensivo",
-      "obs": "Máximo goleador del Superclásico con 8 tantos en la época amateur",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 221 goles en competiciones oficiales durante su trayectoria en el equipo entre 1926–1938."
+      "epoca": "1926-1938",
+      "goles": 218
     },
     {
-      "pos": 3,
       "nombre": "Francisco Varallo",
-      "apodo": "Pancho",
-      "goles": 194,
-      "partidos": 222,
-      "periodo": "1931–1939",
-      "posicion": "Delantero",
-      "obs": "Mejor promedio de la historia: 0,87 goles/partido. 45 goles en 1933 — récord histórico del club",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 194 goles en competiciones oficiales durante su trayectoria en el equipo entre 1931–1939."
+      "apodo": "Pancho / Cañoncito",
+      "epoca": "1931-1939",
+      "goles": 194
     },
     {
-      "pos": 4,
       "nombre": "Domingo Tarasconi",
-      "goles": 183,
-      "partidos": 236,
-      "periodo": "1922–1932",
-      "posicion": "Delantero",
-      "obs": "40 goles en 1923 — récord de un año natural en el club. Medalla de plata JJ.OO. Amsterdam 1928",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 183 goles en competiciones oficiales durante su trayectoria en el equipo entre 1922–1932."
+      "apodo": "Tarasca",
+      "epoca": "1922-1932",
+      "goles": 192
     },
     {
-      "pos": 5,
       "nombre": "Jaime Sarlanga",
       "apodo": "Piraña",
-      "goles": 129,
-      "partidos": 220,
-      "periodo": "1940–1948",
-      "posicion": "Delantero",
-      "obs": "8 títulos. Figura del bicampeonato 1943-44",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre 1940–1948."
+      "epoca": "1940-1948",
+      "goles": 129
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Roberto Mouzo",
-      "partidos": 426,
-      "periodo": "1971-1984",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 426 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1971-1984."
+      "apodo": "Chapa",
+      "epoca": "1971-1984",
+      "presencias": 426
     },
     {
       "nombre": "Hugo Gatti",
-      "partidos": 417,
-      "periodo": "1976-1988",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 417 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1988."
+      "apodo": "El Loco",
+      "epoca": "1976-1988",
+      "presencias": 417
     },
     {
       "nombre": "Silvio Marzolini",
-      "partidos": 408,
-      "periodo": "1960-1972",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 408 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1972."
+      "apodo": "El Rubio",
+      "epoca": "1960-1972",
+      "presencias": 408
     },
     {
       "nombre": "Martín Palermo",
-      "partidos": 404,
-      "periodo": "1997-2011",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 404 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1997-2011."
+      "apodo": "El Titán",
+      "epoca": "1997-2011",
+      "presencias": 404
     },
     {
-      "nombre": "Carlos N. Montoya",
-      "partidos": 400,
-      "periodo": "1988-1996",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 400 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1988-1996."
+      "nombre": "Carlos Navarro Montoya",
+      "apodo": "El Mono",
+      "epoca": "1988-1996",
+      "presencias": 400
     }
   ],
   "idolos": [
@@ -1438,36 +1419,36 @@
       "nombre": "Juan Román Riquelme",
       "pos": "Enganche",
       "apodo": "El Último Diez / Román",
-      "periodo": "1996-2002, 2007-2014",
-      "desc": "Surgido de las divisiones inferiores oriundo de Argentinos Juniors, se erigió como el conductor táctico del equipo que conquistó tres Copas Libertadores (2000, 2001 y 2007) y la Copa Intercontinental, destacando por su notable visión de juego y pegada."
-    },
-    {
-      "nombre": "Diego Armando Maradona",
-      "pos": "Mediocampista Ofensivo / Enganche",
-      "apodo": "Pelusa / D10S / El Diego",
-      "periodo": "1981-1982, 1995-1997",
-      "desc": "Arribó al club en 1981, logrando el Campeonato Metropolitano de forma inmediata. Su figura trascendió lo estadístico gracias a su profunda identificación con la hinchada, culminando su carrera profesional en la institución en 1997."
+      "epoca": "1996-2014",
+      "desc": "Símbolo innegable de la época dorada boquense. Con su visión periférica y pegada magistral, guio al club hacia la conquista de tres Copas Libertadores y la histórica Copa Intercontinental ante el Real Madrid en el año 2000."
     },
     {
       "nombre": "Martín Palermo",
-      "pos": "Centrodelantero",
-      "apodo": "El Titán / El Optimista del Gol",
-      "periodo": "1997-2000, 2004-2011",
-      "desc": "Se consolidó como el máximo goleador histórico de la institución con 236 tantos oficiales. Su ciclo estuvo marcado por anotaciones definitorias en finales internacionales y clásicos frente a River Plate, destacando el doblete al Real Madrid en el año 2000."
+      "pos": "Delantero",
+      "apodo": "El Titán / El Loco",
+      "epoca": "1997-2011",
+      "desc": "Máximo artillero histórico de la institución. Delantero de área implacable, forjó su leyenda a base de goles heroicos y un optimismo inquebrantable que lo consolidó como el gran definidor del ciclo de Carlos Bianchi."
     },
     {
-      "nombre": "Carlos Tevez",
-      "pos": "Delantero / Mediapunta",
-      "apodo": "El Apache / Carlitos",
-      "periodo": "2001-2004, 2015-2016, 2018-2021",
-      "desc": "Debutó en la primera división en 2001 y conquistó la Copa Libertadores 2003 antes de su venta al exterior. Retornó al club en plenitud física en 2015, liderando al equipo hacia múltiples títulos de liga locales hasta su retiro."
+      "nombre": "Diego Armando Maradona",
+      "pos": "Enganche",
+      "apodo": "Pelusa / D10S",
+      "epoca": "1981-1997",
+      "desc": "Aunque su paso se dividió en dos etapas, su magia inmortalizó la obtención del Campeonato Metropolitano de 1981. Su idilio con la grada transformó su figura en una religión ineludible para el hincha xeneize."
+    },
+    {
+      "nombre": "Guillermo Barros Schelotto",
+      "pos": "Delantero / Extremo",
+      "apodo": "El Mellizo",
+      "epoca": "1997-2007",
+      "desc": "Atacante desequilibrante y provocador, emblema de la rebeldía boquense. Su inteligencia táctica y su carácter indomable lo erigieron como uno de los máximos ganadores de títulos en la historia del club."
     },
     {
       "nombre": "Ángel Clemente Rojas",
       "pos": "Delantero",
       "apodo": "Rojitas",
-      "periodo": "1963-1971",
-      "desc": "Delantero de notable habilidad y quiebre de cintura, fue una de las principales figuras ofensivas en la década de 1960. Conquistó cuatro campeonatos nacionales y se transformó en uno de los grandes referentes estilísticos de la época."
+      "epoca": "1963-1971",
+      "desc": "Talento puro y desfachatado que deslumbró a la afición en la década del sesenta. Su quiebre de cintura y habilidad en espacios reducidos lo convirtieron en el primer gran ídolo moderno de La Bombonera."
     }
   ],
   "historial_rivales": [
@@ -1606,15 +1587,15 @@
   "origen_apodos": [
     {
       "apodo": "Xeneizes",
-      "origen": "Su origen etimológico radica de forma directa en el dialecto genovés 'zenéize', que en la terminología provincial italiana de Liguria se utiliza llanamente para designar todo lo perteneciente a la ciudad de Génova. En la primera década del siglo XX, el barrio capitalino original de La Boca y los primeros cinco fundadores del naciente club de la región eran parte de las masivas oleadas de obreros inmigrantes llegados desde el famoso puerto italiano al país. La fuerte huella y composición comunitaria determinó que, con el tiempo, se dictaminara y adaptara la derivación castellanizada mediante la X como el patronímico o gentilicio oficial inamovible de todo el club."
+      "origen": "Origen etimológico en el dialecto genovés ('zenéize'). A principios del siglo XX, el barrio de La Boca fue poblado por masivas oleadas de inmigrantes llegados desde Génova, Liguria. Su uso se afianzó y castellanizó con una 'X' hasta convertirse en el gentilicio oficial."
     },
     {
       "apodo": "La Mitad Más Uno",
-      "origen": "Fue impulsado e insertado socialmente en el vocabulario del país gracias al trabajo masivo y locución del carismático periodista local y radial boquense de de los tiempos, Antonio Carrizo, durante transcurso amplio de la década de 1960. Tras revisar múltiples muestreos, censos poblacionales o estadísticas comparativas de encuestas deportivas a lo ancho de los territorios nacionales y en los programas al aire, argumentaba radialmente de modo persistente que la cantidad de personas empadronadas del club lograba superar numéricamente sin oposición matemática alguna al resto general compuesto por todos los otros equipos y grupos de hinchadas sumados de todo el territorio y país. "
+      "origen": "Acuñado en la década de 1960 por el locutor y periodista Antonio Carrizo, quien fundamentó estadísticamente en censos y encuestas que la cantidad de simpatizantes del club superaba matemáticamente a la suma de todas las demás hinchadas del país."
     },
     {
       "apodo": "Bosteros",
-      "origen": "Consta de dos explicaciones de nacimiento parejo que funcionaron como severos agravios directos generados socialmente por distintas hinchadas adversarias a base barrial desde sus inicios hasta instalarse orgullosamente en el propio escudo durante décadas más tarde al consolidarse su masividad callejera. La primera hace hincapié histórico claro sobre las recordadas y masivas inundaciones del famoso cuerpo y la cuenca del agua limitante sureña o arrabal porteña conocida del sur de Riachuelo dejando tras crecidas e invadiendo aludes inundando todas vecindades barriales arrojando un rudo olor denso. Otra fuerte variante apunta exactamente que pegado junto a y en frente literal del antiguo paraje y locación inicial precaria cancha perimetral del naciente equipo del club existieron fábricas gigantes operando donde decenas y tracción a de carros y caballos de sangre trabajaban, dejando el estiércol de caballos al costado de las inmediaciones barriales."
+      "origen": "Inicialmente un agravio de hinchadas rivales en los años 30. Respondía a las inundaciones del Riachuelo que desbordaban la zona y a la presencia de fábricas de ladrillos que utilizaban estiércol de caballos ('bosta'). Fue reivindicado y adoptado con orgullo por la propia afición en los años 90."
     }
   ],
   "h2h": {

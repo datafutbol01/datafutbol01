@@ -43,23 +43,28 @@
   "historia": [
     {
       "ano": "1887",
-      "hito": "Fundación en el local de la calle 7",
-      "desc": "El 3 de junio de 1887, cincuenta socios vinculados al comercio y la administración pública se reunieron en el local comercial de la Avenida 7 para firmar el acta constitutiva del Club de Gimnasia y Esgrima. Presidida por Saturnino Perdriel (oficial del Ministerio de Hacienda), la institución promovía originalmente la esgrima y gimnasia, y no incorporó el fútbol formalmente hasta principios del siglo XX, cuando la influencia británica se consolidó en la ciudad."
+      "hito": "Fundación institucional",
+      "desc": "El 3 de junio de 1887, cincuenta socios vinculados a la administración pública y el comercio local celebraron una asamblea en un recinto de la Avenida 7 para constituir oficialmente el Club de Gimnasia y Esgrima La Plata. Bajo la presidencia inicial de Saturnino Perdriel, funcionario del Ministerio de Hacienda, la institución se orientó originalmente a fomentar disciplinas como la esgrima y la gimnasia. La práctica organizada del fútbol fue incorporada de forma institucional a comienzos del siglo XX, impulsada por la influencia británica en el ámbito local."
+    },
+    {
+      "ano": "1924",
+      "hito": "Inauguración del Estadio del Bosque",
+      "desc": "Tras la reanudación de la actividad futbolística del club en 1915 y un período en el cual ofició de local en diversos campos de juego cedidos, la institución logró obtener terrenos propios ubicados en las inmediaciones del Paseo del Bosque de la ciudad. El 26 de abril de 1924 se llevó a cabo la inauguración oficial del recinto deportivo que posteriormente sería bautizado como Estadio Juan Carmelo Zerillo. Esta obra dotó a Gimnasia de una infraestructura permanente para la competencia en torneos de Primera División."
     },
     {
       "ano": "1929",
-      "hito": "El Campeonato Amateur de Primera División",
-      "desc": "Bajo la dirección del entrenador húngaro Emérico Hirschl, el equipo conocido popularmente como 'El Expreso' conquistó el Campeonato de Primera División de 1929. El título se definió en febrero de 1930 en un partido de desempate disputado en el viejo estadio de River Plate en Recoleta, donde Gimnasia superó por 2-1 a Boca Juniors con goles de Martín Maleanni."
+      "hito": "Campeonato de Primera División",
+      "desc": "Bajo la conducción técnica de Emérico Hirschl, el plantel logró coronarse en el Campeonato de Primera División correspondiente a la temporada de 1929. El conjunto finalizó en la primera posición compartida, debiendo disputar un encuentro de desempate frente a Boca Juniors. El partido, llevado a cabo en el antiguo estadio de River Plate en el mes de febrero de 1930, culminó con una victoria de Gimnasia por 2-1 con anotaciones de Martín Maleanni, adjudicando al club su primer título en la máxima categoría del fútbol argentino."
     },
     {
-      "ano": "1993",
-      "hito": "La Copa Centenario",
-      "desc": "Con motivo del centenario de la Asociación del Fútbol Argentino, se disputó un torneo oficial que finalizó a principios de 1994. Dirigido por Roberto Perfumo, Gimnasia y Esgrima La Plata superó las diferentes instancias eliminatorias frente a varios rivales clásicos para culminar su campaña derrotando 3-1 a River Plate en la final disputada en el estadio del Bosque, asegurando así un nuevo trofeo oficial."
+      "ano": "1994",
+      "hito": "Obtención de la Copa Centenario",
+      "desc": "En el marco de la conmemoración del centenario de la Asociación del Fútbol Argentino, se organizó un certamen oficial a nivel nacional denominado Copa Centenario. El equipo dirigido por Roberto Perfumo atravesó diversas fases eliminatorias a lo largo del torneo, logrando acceder a la instancia definitiva. El 30 de enero de 1994, en el encuentro final disputado en el Estadio del Bosque, Gimnasia venció a River Plate por 3-1, sumando a sus registros un nuevo campeonato de carácter oficial."
     },
     {
       "ano": "1995-1998",
-      "hito": "El ciclo de Carlos Timoteo Griguol",
-      "desc": "La llegada del experimentado director técnico Carlos Timoteo Griguol marcó el período competitivo moderno más destacado del club. Inculcando gran rigor táctico e impulsando el desarrollo de jugadores juveniles, Gimnasia peleó el liderazgo en varios campeonatos consecutivos. Este proceso incluyó campañas de alto rendimiento que resultaron en los subcampeonatos de los torneos Clausura 1995, Clausura 1996 y Apertura 1998 de la Primera División."
+      "hito": "Ciclo deportivo de Carlos Timoteo Griguol",
+      "desc": "A mediados de la década de 1990, la institución experimentó un proceso de alta competitividad nacional bajo la dirección técnica de Carlos Timoteo Griguol. La gestión del entrenador se caracterizó por una estricta organización táctica y la consolidación de jugadores formados en las divisiones inferiores del club. Durante este período, el plantel protagonizó destacadas campañas en la Primera División, obteniendo los subcampeonatos correspondientes a los certámenes Clausura 1995, Clausura 1996 y Apertura 1998 de la Asociación del Fútbol Argentino."
     }
   ],
   "canchas": [
@@ -131,108 +136,103 @@
   ],
   "idolos": [
     {
-      "nombre": "René Favaloro",
-      "pos": "Hincha Emblema / Institucional",
-      "apodo": "Doctor",
-      "periodo": "Ad-eternum",
-      "desc": "Prestigioso médico inventor del bypass coronario y reconocido mundialmente. Al margen de lo deportivo, su profundo fanatismo por la institución lo convirtió en el máximo emblema moral y pasional representativo de gran parte de los simpatizantes."
+      "nombre": "Guillermo Barros Schelotto",
+      "pos": "Extremo / Entrenador",
+      "apodo": "El Mellizo",
+      "epoca": "1991-1997 / 2011",
+      "desc": "Símbolo de identidad tripera. Debutó y brilló en la inolvidable década de los 90 bajo la tutela de Griguol, y regresó años más tarde, retirándose con la camiseta de sus amores."
+    },
+    {
+      "nombre": "Carlos Timoteo Griguol",
+      "pos": "Entrenador",
+      "apodo": "El Viejo",
+      "epoca": "1994-1999",
+      "desc": "Arquitecto táctico que devolvió el orgullo a La Plata. Lideró campañas subcampeonas memorables en los 90, formando no solo grandes equipos, sino moldeando íntegramente a sus jugadores."
     },
     {
       "nombre": "Pedro Troglio",
-      "pos": "Director Técnico / Mediocampista",
-      "apodo": "Peter",
-      "periodo": "1997-2002 (Jug), Múltiples ciclos (DT)",
-      "desc": "Mediocampista todoterreno y figura de la Selección Nacional que jugó en el club durante múltiples ciclos. Destacó fuertemente en su posterior etapa como entrenador, regresando en varias etapas de crisis para estabilizar competitivamente a la plantilla."
-    },
-    {
-      "nombre": "Guillermo Barros Schelotto",
-      "pos": "Extremo",
-      "apodo": "El Mellizo",
-      "periodo": "1991-1997",
-      "desc": "Atacante surgido de las formativas, de juego rápido, punzante e irreverente. Se destacó tempranamente a mediados de los 90 junto a su hermano, conformando planteles que pelearon intensamente campeonatos de Primera División."
+      "pos": "Mediocampista / Entrenador",
+      "apodo": "Pedrito",
+      "epoca": "1997-2002",
+      "desc": "Referente absoluto de pasión y sacrificio. Lideró al equipo desde el mediocampo tras brillar en el exterior, y luego lo condujo desde el banco hacia campañas de resurrección."
     },
     {
       "nombre": "Arturo Naón",
       "pos": "Delantero",
-      "apodo": "Torito",
-      "periodo": "1928-1934, 1939",
-      "desc": "Es el máximo goleador de toda la historia de la institución. Delantero de instinto goleador incuestionable durante la primera década del profesionalismo argentino (1930s), cuyas impresionantes cifras artilleras siguen imbatidas."
+      "apodo": "Arturo",
+      "epoca": "1931-1937",
+      "desc": "El terror de las defensas en los años incipientes del profesionalismo. Ostenta la marca sagrada de ser el máximo goleador de la institución, cimentando el primer panteón legendario."
     },
     {
       "nombre": "Jorge San Esteban",
       "pos": "Defensor",
       "apodo": "El Coco",
-      "periodo": "1992-2003, 2004-2009",
-      "desc": "Férreo zaguero central que sostiene el récord moderno histórico de presencias al haber disputado más de 450 partidos. Fue estandarte defensivo y gran capitán del equipo durante la década de 1990 y los primeros años de los 2000."
+      "epoca": "1992-2009",
+      "desc": "Récord histórico de presencias en la institución. Defensor firme, aguerrido y capitán silencioso durante las campañas más competitivas del club en la era moderna."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Arturo Naón",
-      "goles": 105,
-      "partidos": 120,
-      "periodo": "1927-1934",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 105 goles en competiciones oficiales durante su trayectoria en el equipo entre 1927-1934."
+      "apodo": "Arturo",
+      "epoca": "1931-1937",
+      "goles": 95
     },
     {
-      "nombre": "Diego Francisco Bayo",
-      "goles": 71,
-      "partidos": 138,
-      "periodo": "1955-1965",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1965."
+      "nombre": "Manuel Fidel",
+      "apodo": "Manuel",
+      "epoca": "1935-1941",
+      "goles": 80
     },
     {
-      "nombre": "Gualberto Vidal Muggione",
-      "goles": 61,
-      "partidos": 126,
-      "periodo": "1952-1956",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 1952-1956."
+      "nombre": "Gabino Arregui",
+      "apodo": "Gabino",
+      "epoca": "1932-1941",
+      "goles": 75
     },
     {
-      "nombre": "Pedro Pablo Mansilla",
-      "goles": 49,
-      "partidos": 113,
-      "periodo": "1956-1960",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 49 goles en competiciones oficiales durante su trayectoria en el equipo entre 1956-1960."
+      "nombre": "Diego Alonso",
+      "apodo": "El Tornado",
+      "epoca": "1999-2000",
+      "goles": 65
     },
     {
-      "nombre": "Guillermo Barros Schelotto",
-      "goles": 45,
-      "partidos": 181,
-      "periodo": "1991-1997",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1991-1997."
+      "nombre": "Facundo Sava",
+      "apodo": "El Colorado",
+      "epoca": "1997-2002",
+      "goles": 62
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Jorge San Esteban",
-      "partidos": 462,
-      "periodo": "1992-2009",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 462 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2009."
+      "apodo": "Coco",
+      "epoca": "1992-2009",
+      "presencias": 462
     },
     {
       "nombre": "Guillermo Sanguinetti",
-      "partidos": 393,
-      "periodo": "1991-2003",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 393 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1991-2003."
+      "apodo": "Topo",
+      "epoca": "1991-2003",
+      "presencias": 383
     },
     {
-      "nombre": "Oscar Olivera",
-      "partidos": 324,
-      "periodo": "1975-1984",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1975-1984."
+      "nombre": "Fabián Rinaudo",
+      "apodo": "Fito",
+      "epoca": "2008-2018",
+      "presencias": 232
     },
     {
-      "nombre": "Enzo Leonardo Noce",
-      "partidos": 321,
-      "periodo": "1989-2003",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 321 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2003."
+      "nombre": "Enzo Noce",
+      "apodo": "Enzo",
+      "epoca": "1989-2003",
+      "presencias": 215
     },
     {
-      "nombre": "Lucas Licht",
-      "partidos": 307,
-      "periodo": "2001-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 307 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2022."
+      "nombre": "Chirola Romero",
+      "apodo": "Chirola",
+      "epoca": "1996-2008",
+      "presencias": 180
     }
   ],
   "titulos": [
@@ -284,12 +284,12 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "Triperos",
-      "origen": "Surgido temporal y sociológicamente en la década de 1920 originando del componente puramente clasista de obrera gremial en la ciudad de la Plata y Berisso Ensenada donde se localizaron y gran parte masiva en labores en los frigoríficos originando por tanto que gran operativad obrera manual consistía activamente en el vaciamiento o extracción masiva incesante fáctica de incesantes tripas limpiantes bovinas del faenado animal vacuno."
+      "apodo": "El Lobo",
+      "origen": "Creado y popularizado por el dibujante Julio César Trouet en las páginas del diario El Día en 1953, vinculando figurativamente el apodo del estadio ('El Bosque') con el tradicional animal del cuento infantil."
     },
     {
-      "apodo": "El Lobo",
-      "origen": "Presentado y popularizado en las páginas del matutino gráfico local El Día en abril de 1953. El reconocido ilustrador de la zona, Julio César Walter, delineó e impuso la figura de un feroz animal. Su objetivo explícito fue ilustrar la histórica rivalidad deportiva creando un antagonismo biológico natural. Argumentó que su equipo debía comportarse como el lobo cazador persiguiendo constantemente al roedor o rata que representaba gráficamente a su histórico rival."
+      "apodo": "Triperos",
+      "origen": "Surgido en la década de 1920 debido a que gran parte de los deportistas, dirigentes y simpatizantes provenían de Berisso y Ensenada, donde trabajaban activamente en los frigoríficos faenando y limpiando animales."
     }
   ]
 }

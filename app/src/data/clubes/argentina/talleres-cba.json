@@ -43,18 +43,28 @@
   "historia": [
     {
       "ano": "1913",
-      "hito": "Fundación ferroviaria en La Docta por empleados británicos",
-      "desc": "El 12 de octubre de 1913, operarios técnicos y personal jerárquico originarios de las redes ferroviarias británicas, empleados locales de los pesados talleres y maestranzas del Ferrocarril Central Córdoba, fundaron y acordaron formalmente la identidad del 'Club Atlético Talleres Central Córdoba'. Bajo la tutela originaria de Tomás Lawson, primer presidente que cimentó la estructura burocrática del equipo fundacional, eligieron una camiseta rayada conformada a bastones azules y blancos entrelazados imitando al club inglés Blackburn Rovers. En la actualidad, su fundación es reconocida como la mayor fuerza barrial, deportiva, cívica y social movilizadora del interior de la República Argentina."
+      "hito": "Fundación institucional ligada al ferrocarril",
+      "desc": "El 12 de octubre de 1913, un grupo de operarios y personal jerárquico del Ferrocarril Central Córdoba fundó oficialmente el 'Club Atlético Talleres Central Córdoba' en la ciudad homónima. La primera comisión directiva estuvo presidida por el inglés Tomás Lawson. Durante los primeros años de vida de la institución, se determinó la adopción de una camiseta a rayas verticales azules y blancas como indumentaria oficial, colores que posteriormente identificarían a la entidad en el ámbito local y nacional."
     },
     {
       "ano": "1977",
-      "hito": "La trágica y emotiva final del Nacional frente a Independiente",
-      "desc": "Conformando una matriz táctica letal forjada de exquisitos volantes creativos e invencibles punteros ofensivos liderados por la 'Rana' Valencia y el artillero Humberto Bravo, Talleres dominó transversalmente a los estáticos rivales capitalinos dentro del Campeonato Nacional de 1977. La escalada triunfal llegó a la durísima finalísima frente al sólido Independiente en la propia ciudad de Córdoba capital. Dominando 2-1 el marcador y con superioridad numérica de jugadores, Independiente enhebró en los escasos minutos finales de agonía un fulminante gol con un escuadra raleada firmando el dramático empate que postergó a Talleres en el título superior y consagró campeones a los demonios rojos en suelo visitante cordobés."
+      "hito": "Subcampeonato del Torneo Nacional",
+      "desc": "Durante la década de 1970, el club forjó un destacado protagonismo en los Campeonatos Nacionales de AFA. El punto más alto de este período ocurrió en el Torneo Nacional de 1977. Con un plantel compuesto por figuras como Luis Galván y José Daniel Valencia, Talleres alcanzó la instancia final del certamen frente a Independiente. Tras empatar el partido de ida en Avellaneda, el encuentro definitivo disputado en Córdoba culminó en un empate 2-2, consagrando al equipo visitante por la regla del gol de visitante y dejando a Talleres como subcampeón."
+    },
+    {
+      "ano": "1998",
+      "hito": "Ascenso a Primera y la final clásica",
+      "desc": "Tras participar en la segunda categoría del fútbol argentino, Talleres logró el campeonato de la Primera B Nacional en la temporada 1997/1998. El ascenso adquirió especial relevancia debido a que la instancia final del torneo se disputó frente a su tradicional rival de la ciudad, el Club Atlético Belgrano. Bajo la conducción técnica de Ricardo Gareca, el equipo superó la serie final mediante la definición por tiros desde el punto penal en el Estadio Chateau Carreras, asegurando su regreso a la máxima categoría."
     },
     {
       "ano": "1999",
-      "hito": "Título sudamericano: La consagración en la Copa Conmebol",
-      "desc": "Rompiendo los linderos fronterizos tras el arribo clave como gestor deportivo técnico supremo del profesor estratega Ricardo Gareca (el icónico 'Tigre'), el club disputó palmo a palmo en 1999 el prestigioso torneo continental Copa Conmebol oficial superior enfrentando las eliminatorias con estoica rigurosidad. Llegados a las últimas llaves de acceso, los cordobeses sobrellevaron dramáticas reveses y doblegaron sobre el campo en el mítico recinto al combinado de CSA perteneciente al interior de las bases profesionales deportivas de Brasil concretando su histórica consagración dorada gracias a un agónico y mítico remate testarazo letal milimétrico frontal cabezazo estallado por su legendario defensor central Maidana para arrebatar de una vez un título internacional indiscutible hacia Córdoba y el interior soberano argentino."
+      "hito": "Obtención de la Copa Conmebol",
+      "desc": "A fines del año 1999, la institución logró su consagración internacional al obtener la Copa Conmebol. El equipo, dirigido por Ricardo Gareca, alcanzó la final del certamen continental frente al Centro Sportivo Alagoano (CSA) de Brasil. Tras registrar una derrota en el partido de ida, Talleres se impuso por 3-0 en el encuentro de vuelta disputado en el Estadio Olímpico de Córdoba. Con un gol de cabeza del defensor Julián Maidana en los últimos minutos de juego, el club aseguró el primer título internacional oficial en la historia del fútbol de Córdoba."
+    },
+    {
+      "ano": "2016",
+      "hito": "Ascenso invicto y retorno sostenido a Primera",
+      "desc": "Luego de atravesar una severa crisis institucional que derivó en la participación del club en el Torneo Federal A (tercera división) entre los años 2009 y 2015, Talleres completó un rápido proceso de ascensos consecutivos. En el campeonato de la Primera B Nacional de 2016, el equipo dirigido por Frank Darío Kudelka se consagró campeón de forma invicta, asegurando su retorno a la Primera División de forma definitiva tras vencer agónicamente a All Boys con un tanto de Pablo Guiñazú."
     }
   ],
   "canchas": [
@@ -84,13 +94,23 @@
   "equipacion": [
     {
       "desde": 1913,
-      "hasta": null,
-      "c1": "#003da5",
+      "hasta": 1914,
+      "c1": "#800080",
       "c2": "#ffffff",
-      "sh": "#003da5",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "rayas-verticales",
+      "desc": "Primera camiseta oficial del Club Atlético Talleres Central Córdoba, diseñada con líneas verticales de tonos morados o violetas y blancos."
+    },
+    {
+      "desde": 1915,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#000080",
+      "sh": "#000080",
       "me": "#ffffff",
       "tipo": "rayas-verticales",
-      "desc": "Histórica inmaculada matriz formativa dispuesta rigurosa y majestuosa por operarios ferroviarios originarios de Córdoba estructurando el ropaje purista legendario e imperecedero sobre gruesos listones verticales alternados en estricto crudo marino azul y el blanco poético para dominar los potreros de la docta y."
+      "desc": "Establecimiento del histórico diseño a rayas verticales azul oscuro y blancas, oficializado ante la Liga Cordobesa de Fútbol."
     }
   ],
   "idolos": [
@@ -98,106 +118,100 @@
       "nombre": "Daniel Willington",
       "pos": "Enganche",
       "apodo": "El Loco",
-      "periodo": "1962-1981 (Múltiples Ciclos)",
-      "desc": "Exquisito mediocampista ofensivo forjado de una potencia técnica distinguida y natural remate. Fue un símbolo insoslayable durante el esplendor institucional desarrollado regionalmente en la década de 1960 y 1970."
+      "epoca": "1958-1962",
+      "desc": "Talento bohemio y fundacional del prestigio nacional de la 'T'. Su pegada prodigiosa y desparpajo enamoraron a la hinchada, marcando una época dorada de esplendor futbolístico en la Docta."
     },
     {
-      "nombre": "Mario Kempes",
-      "pos": "Delantero",
-      "apodo": "El Matador",
-      "periodo": "1973",
-      "desc": "Reconocido goleador que protagonizó un rutilante paso por las filas del plantel. En la década de los setenta, anotó una asombrosa cantidad de tantos, cimentando rápidamente la base de su extraordinaria proyección mundial a futuro."
+      "nombre": "Luis Galván",
+      "pos": "Defensor",
+      "apodo": "Luisito",
+      "epoca": "1970-1982",
+      "desc": "Zaguero tiempista, elegante y seguro. Líder defensivo del histórico equipo de los años setenta y baluarte en la Selección Argentina campeona del mundo en 1978, llevando el orgullo albiazul a lo más alto."
     },
     {
       "nombre": "José Daniel Valencia",
       "pos": "Enganche",
-      "apodo": "Rana",
-      "periodo": "1975-1988",
-      "desc": "Exquisito mediocampista ofensivo forjado de una potencia técnica distinguida y natural remate. Fue un símbolo insoslayable durante el esplendor institucional desarrollado regionalmente en la década de 1960 y 1970."
+      "apodo": "La Rana",
+      "epoca": "1975-1988",
+      "desc": "Gambeteador excepcional y socio de todos. Conductor creativo que dotó a Talleres de un fútbol lírico envidiable, consolidándose también como campeón mundial en 1978 mientras representaba al club."
     },
     {
       "nombre": "Pablo Guiñazú",
-      "pos": "Mediocampista Central",
+      "pos": "Mediocampista",
       "apodo": "El Cholo",
-      "periodo": "2016-2019",
-      "desc": "Experimentado volante central de recuperación devenido en referente ineludible contemporáneo. Se ganó la idolatría permanente en 2016 al ensayar un agónico e inesperado remate al ángulo que consumó el ascenso definitivo de vuelta a Primera."
+      "epoca": "2016-2019",
+      "desc": "Capitán y alma del resurgimiento moderno. A sus 37 años, anotó un agónico e histórico gol en el último minuto para otorgar el ansiado ascenso a Primera División, entrando instantáneamente al panteón legendario."
     },
     {
-      "nombre": "Luis Galván",
-      "motivo": "Exponente superlativo del talento cordobés en la década del '60 y '70; su técnica exquisita lo erigió en mito viviente del club.",
-      "pos": "Defensor",
-      "apodo": "El Maestro",
-      "periodo": "1970-1982",
-      "desc": "Zaguero central mundialista de enorme serenidad táctica, quite y posicionamiento estricto. Representó a la institución ininterrumpidamente durante todo el ciclo superior nacional siendo pilar irremplazable en los equipos de 1977."
+      "nombre": "Mario Alberto Kempes",
+      "pos": "Delantero",
+      "apodo": "El Matador",
+      "epoca": "1973-1973",
+      "desc": "Si bien su paso fue fugaz, la potencia arrolladora y cuota goleadora de su juventud le valieron una idolatría instantánea, forjando el mito del Matador en tierras cordobesas antes de su salto nacional e internacional."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Miguel Antonio Romero",
-      "goles": 163,
-      "partidos": 242,
-      "periodo": "1955-1968",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 163 goles en competiciones oficiales durante su trayectoria en el equipo entre 1955-1968."
+      "apodo": "La Wanora",
+      "epoca": "1955-1968",
+      "goles": 163
     },
     {
       "nombre": "Humberto Bravo",
-      "goles": 140,
-      "partidos": 237,
-      "periodo": "1974-1981",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 140 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1981."
+      "apodo": "El Tigre",
+      "epoca": "1974-1981",
+      "goles": 140
     },
     {
-      "nombre": "Mario Bevilacqua",
-      "goles": 75,
-      "partidos": 267,
-      "periodo": "1983-1994",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1994."
+      "nombre": "Rogelio Cuello",
+      "apodo": "El Goleador",
+      "epoca": "1940-1950",
+      "goles": 122
     },
     {
-      "nombre": "José Reinaldi",
-      "goles": 71,
-      "partidos": 218,
-      "periodo": "1974-1984",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 71 goles en competiciones oficiales durante su trayectoria en el equipo entre 1974-1984."
+      "nombre": "Amadeo Nuccetelli",
+      "apodo": "-",
+      "epoca": "-",
+      "goles": 110
     },
     {
-      "nombre": "Roberto Oste",
-      "goles": 60,
-      "partidos": 160,
-      "periodo": "1994-1998",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 60 goles en competiciones oficiales durante su trayectoria en el equipo entre 1994-1998."
+      "nombre": "José Zelaya",
+      "apodo": "El Cachi",
+      "epoca": "1996-2001",
+      "goles": 75
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Luis Galván",
-      "partidos": 502,
-      "periodo": "1970-1982",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 502 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970-1982."
-    },
-    {
-      "nombre": "Víctor Binello",
-      "partidos": 339,
-      "periodo": "1973-1982",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 339 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1973-1982."
-    },
-    {
-      "nombre": "Mario Bevilacqua",
-      "partidos": 267,
-      "periodo": "1983-1994",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 267 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1983-1994."
-    },
-    {
-      "nombre": "Guido Herrera",
-      "partidos": 265,
-      "periodo": "2016-Presente",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 265 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-Presente."
+      "apodo": "Luisito",
+      "epoca": "1970-1982",
+      "presencias": 502
     },
     {
       "nombre": "Miguel Oviedo",
-      "partidos": 255,
-      "periodo": "1974-1984",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 255 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1974-1984."
+      "apodo": "La Cata",
+      "epoca": "1974-1982",
+      "presencias": 366
+    },
+    {
+      "nombre": "Victoriano Ávalos",
+      "apodo": "-",
+      "epoca": "1960-1970",
+      "presencias": 352
+    },
+    {
+      "nombre": "José Daniel Valencia",
+      "apodo": "La Rana",
+      "epoca": "1975-1988",
+      "presencias": 344
+    },
+    {
+      "nombre": "Guido Herrera",
+      "apodo": "Guido",
+      "epoca": "2016-2024",
+      "presencias": 250
     }
   ],
   "titulos": [
@@ -272,8 +286,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "Matadores",
-      "origen": "Título instalado y popularizado en las páginas del impreso local La Voz del Interior durante su estallido deportivo de 1970. Su firme adjudicación remite estrictamente a la letal racha récord impuesta en las competencias del interior sumando la incontable cifra de 24 encuentros oficiales disputados al hilo de forma invicta. Un ilustre reportero lo catalogó equiparando directamente el plantel táctico de la institución a los míticos Matadores pioneros del equipo San Lorenzo de Almagro forjados años antes a nivel nacional."
+      "apodo": "El Matador",
+      "origen": "Afianzado a nivel nacional durante la década de 1970 tras realizar soberbias campañas en los Torneos Nacionales. Se originó debido a la contundencia letal de sus delanteros e identificaciones previas con equipos porteños."
     }
   ]
 }

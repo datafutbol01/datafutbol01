@@ -43,18 +43,28 @@
   "historia": [
     {
       "ano": "1907",
-      "hito": "Constitución de Union en la calle Catamarca",
-      "desc": "El 15 de abril de 1907, catorce socios que habían decidido separarse asambleariamente del pionero Santa Fe Foot-ball Club se agruparon de manera fundacional en el domicilio de la familia Barisio, ubicado sobre la calle capitalina de Catamarca. La primera presidencia recayó sobre Guillermo Drenner, sellando el nacimiento del 'Club United', el cual luego sería castellanizado formalmente a Club Atlético Unión."
+      "hito": "Fundación institucional",
+      "desc": "El 15 de abril de 1907, un grupo de catorce socios disidentes del Santa Fe Foot-ball Club se congregaron en el domicilio de la familia Barisio, ubicado en la calle Catamarca de la ciudad de Santa Fe, para constituir formalmente una nueva entidad. Bajo la presidencia inicial de Guillermo Drenner, la asamblea determinó la fundación del 'Club United', denominación que posteriormente fue castellanizada de manera oficial como Club Atlético Unión. La institución adoptó tempranamente los colores rojo y blanco a bastones verticales para su indumentaria representativa."
     },
     {
       "ano": "1966",
-      "hito": "Nombramiento como equipo de Primera División",
-      "desc": "El año 1966 marcó la llegada definitiva de Unión al mapa liguero principal, cuando el club se alzó con la primera posición en el campeonato de la Segunda División 'B' organizado por la AFA. Este título certificó de manera oficial el ascenso del equipo, otorgando a la ciudad de Santa Fe nuevamente representación directa en la Primera División del país."
+      "hito": "Afiliación y ascenso a Primera División",
+      "desc": "Tras varias décadas de destacada participación en los campeonatos regionales organizados por la Liga Santafesina de Fútbol, la institución logró afiliarse a la Asociación del Fútbol Argentino e integrarse a sus torneos profesionales. En la temporada 1966, el primer equipo completó una campaña regular y se adjudicó el campeonato de la Segunda División 'B' (Primera B). Este título significó el primer ascenso oficial del club a la Primera División, otorgándole representación directa a la ciudad de Santa Fe en la máxima categoría del fútbol nacional."
     },
     {
       "ano": "1979",
-      "hito": "Subcampeón del Torneo Nacional",
-      "desc": "Bajo el estricto orden de pizarra y disciplina brindado por su entrenador Reynaldo Volken, Unión coronó la mayor escala de su historial en primera categoría. El plantel tatengue sorteó de manera exitosa todas las llaves eliminatorias del Nacional 1979 y debió conformarse con el título de Subcampeón ante River Plate por la extinta reglamentación del gol de valor de visitante, tras dos empates de rendimiento igualado."
+      "hito": "Subcampeonato en el Torneo Nacional",
+      "desc": "Bajo la conducción técnica del entrenador Reynaldo Volken, el primer equipo completó la campaña más destacada de su historia en la máxima categoría durante el desarrollo del Torneo Nacional de 1979. Tras superar de manera exitosa todas las instancias eliminatorias previas, el conjunto santafesino disputó la final del certamen frente a River Plate. Luego de igualar 1-1 en Santa Fe y 0-0 en Buenos Aires, la reglamentación que otorgaba doble valor al gol convertido en condición de visitante determinó la coronación de River Plate, dejando a Unión como subcampeón nacional."
+    },
+    {
+      "ano": "1989",
+      "hito": "Ascenso histórico frente al clásico rival",
+      "desc": "Durante la disputa del Campeonato Nacional B correspondiente a la temporada 1988/1989, el equipo dirigido por Humberto Zuccarelli alcanzó la instancia final del Torneo Reducido en busca del segundo ascenso a la Primera División. Dicha serie decisiva enfrentó a Unión frente a su tradicional adversario de la ciudad, el Club Atlético Colón. Tras obtener una victoria por 2-0 en el partido de ida como visitante y reafirmar la ventaja con un triunfo por 1-0 en condición de local, el club logró el ascenso a la máxima categoría en una definición sin precedentes en la historia del fútbol santafesino."
+    },
+    {
+      "ano": "2014",
+      "hito": "Retorno definitivo a la Primera División",
+      "desc": "Luego de alternar diversas temporadas entre la primera y la segunda categoría durante las primeras décadas del siglo XXI, incluyendo un ascenso en 2011 bajo la conducción de Frank Darío Kudelka, el club consolidó su posición en la elite del fútbol argentino a partir del año 2014. Durante el Torneo de Transición de la Primera B Nacional, el equipo comandado por el director técnico Leonardo Madelón aseguró de manera temprana una de las plazas de ascenso dispuestas por la AFA, retornando a la máxima división y sosteniendo su participación ininterrumpida en torneos de Primera e internacionales en los años siguientes."
     }
   ],
   "canchas": [
@@ -106,119 +116,124 @@
   "equipacion": [
     {
       "desde": 1907,
-      "hasta": null,
-      "c1": "#e3001b",
+      "hasta": 1907,
+      "c1": "#ffffff",
       "c2": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#111111",
+      "tipo": "liso",
+      "desc": "Camisa totalmente blanca utilizada durante los primeros meses tras la fusión de los clubes fundadores."
+    },
+    {
+      "desde": 1907,
+      "hasta": null,
+      "c1": "#ffffff",
+      "c2": "#ED1C24",
       "sh": "#ffffff",
       "me": "#ffffff",
       "tipo": "rayas-verticales",
-      "desc": "El legendario ropaje santafesino purista originado asombrosamente con rayas crudas rojiblancas inquebrantables formalmente desde la fusión de nobles y puristas asociaciones fundacionales pioneras dictaminando la unión eterna en la mítica zona tatengue purista del país forjador."
+      "desc": "Diseño clásico y definitivo a líneas verticales rojas y blancas, adoptados en homenaje directo al multicampeón porteño Alumni."
     }
   ],
   "idolos": [
     {
-      "nombre": "Pumpido / Nery Pumpido",
-      "pos": "Arquero / Director Técnico",
-      "apodo": "El Loco",
-      "periodo": "1976-1981, 1999-2001 (DT)",
-      "desc": "Arquero formado en las filas del club. Destacó en el arco rojiblanco durante sus primeros años profesionales antes de emigrar, lograr el campeonato mundial con Argentina y posteriormente retornar como entrenador."
+      "nombre": "Nery Pumpido",
+      "pos": "Arquero",
+      "apodo": "Nery",
+      "epoca": "1976-1981",
+      "desc": "Baluarte del mítico Unión de 1979. Brilló en el arco rojiblanco y forjó su talento en Santa Fe antes de erigirse como campeón del mundo con la Selección Argentina en 1986."
     },
     {
-      "nombre": "Leonardo Madelón",
-      "pos": "Director Técnico / Mediocampista",
-      "apodo": "Leo",
-      "periodo": "1989-1990 (Jug), Múltiples ciclos (DT)",
-      "desc": "Figura dual de alta importancia. Destacó como mediocampista en la final del torneo de 1989 y, años después, como entrenador, logrando históricos ascensos y clasificaciones a torneos internacionales."
-    },
-    {
-      "nombre": "Facundo Sava",
-      "pos": "Delantero / Director Técnico",
-      "apodo": "El Colorado",
-      "periodo": "2012-2014, 2023",
-      "desc": "Delantero central reconocido por su capacidad en el juego aéreo. Mantuvo un destacado registro anotador durante su paso por la institución a inicios de los años 2000, liderando la ofensiva del equipo."
+      "nombre": "Leopoldo Luque",
+      "pos": "Delantero",
+      "apodo": "Leopoldo",
+      "epoca": "1971-1975",
+      "desc": "Atacante portentoso y letal, hijo pródigo de la provincia. Su capacidad goleadora en la Avenida lo catapultó a la Selección campeona del mundo, siendo una gloria inmortal del club."
     },
     {
       "nombre": "Fernando Alí",
       "pos": "Delantero",
       "apodo": "El Turco",
-      "periodo": "1978-1988",
-      "desc": "Histórico artillero central que posee el récord de máximo goleador del club en el profesionalismo con 85 tantos, formando parte de los planteles protagonistas de las décadas del 70 y 80."
+      "epoca": "1977-1988",
+      "desc": "Máximo goleador absoluto de la historia tatengue. Un delantero implacable que construyó su leyenda anotando con una regularidad asombrosa durante más de diez años en la institución."
     },
     {
-      "nombre": "Vicente Luque / Leopoldo Luque",
-      "pos": "Delantero",
-      "apodo": "El Pulpo",
-      "periodo": "1973-1975",
-      "desc": "Legendario atacante santafesino que aportó una destacada cuota goleadora en el club, forjando su proyección internacional antes de consagrarse campéoón en el Mundial de 1978 con la Selección Argentina."
+      "nombre": "Pablo de las Mercedes Cárdenas",
+      "pos": "Defensor",
+      "apodo": "El Chapa",
+      "epoca": "1979-1989",
+      "desc": "El jugador con más presencias históricas del club. Firme, tenaz y emblemático lateral derecho que lideró las mejores campañas deportivas en la historia de la institución en Primera División."
+    },
+    {
+      "nombre": "Madelón",
+      "pos": "Enganche / Entrenador",
+      "apodo": "Leo",
+      "epoca": "1989-1990",
+      "desc": "Autor del mítico gol del clásico de 1989 que selló el ascenso tatengue enviando a su clásico rival a la B. Como técnico, logró hitos fundamentales, afianzando la idolatría eterna."
     }
   ],
   "goleadores_historicos": [
     {
+      "nombre": "Fernando Alí",
+      "apodo": "El Turco",
+      "epoca": "1977-1988",
+      "goles": 89
+    },
+    {
       "nombre": "Francisco Valiente",
-      "goles": 129,
-      "partidos": 195,
-      "periodo": "Años 1920s-1930s (Amateur)",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 129 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 1920s-1930s (Amateur)."
+      "apodo": "Francisco",
+      "epoca": "1930-1941",
+      "goles": 85
     },
     {
-      "nombre": "Fernando 'El Turco' Alí",
-      "goles": 89,
-      "partidos": 347,
-      "periodo": "1978-1988",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 89 goles en competiciones oficiales durante su trayectoria en el equipo entre 1978-1988."
+      "nombre": "Oscar Víctor Trossero",
+      "apodo": "Oscar",
+      "epoca": "1973-1978",
+      "goles": 62
     },
     {
-      "nombre": "Orlando Ruiz",
-      "goles": 74,
-      "partidos": 154,
-      "periodo": "Años 50 y 60",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 74 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 50 y 60."
+      "nombre": "Hugo Zavagno",
+      "apodo": "Hugo",
+      "epoca": "1970-1976",
+      "goles": 51
     },
     {
-      "nombre": "Carlos Alberto Vidal",
-      "goles": 61,
-      "partidos": 169,
-      "periodo": "1975-1981",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre 1975-1981."
-    },
-    {
-      "nombre": "Julio Ávila",
-      "goles": 45,
-      "partidos": 105,
-      "periodo": "Años 40 y 50",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 40 y 50."
+      "nombre": "Víctor Marchetti",
+      "apodo": "Víctor",
+      "epoca": "1975-1984",
+      "goles": 49
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Pablo de las Mercedes Cárdenas",
-      "partidos": 362,
-      "periodo": "1979-1988",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1979-1988."
+      "nombre": "Pablo Cárdenas",
+      "apodo": "Chapa",
+      "epoca": "1979-1989",
+      "presencias": 364
     },
     {
-      "nombre": "Fernando 'El Turco' Alí",
-      "partidos": 347,
-      "periodo": "1978-1988",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 347 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1988."
+      "nombre": "Fernando Alí",
+      "apodo": "El Turco",
+      "epoca": "1977-1988",
+      "presencias": 348
     },
     {
-      "nombre": "Mario Enrique Alberto",
-      "partidos": 327,
-      "periodo": "Década 80s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre Década 80s."
+      "nombre": "Mario Alberto",
+      "apodo": "Mario",
+      "epoca": "1975-1984",
+      "presencias": 323
     },
     {
-      "nombre": "Eduardo Sánchez",
-      "partidos": 336,
-      "periodo": "1977-1987, 1989",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 336 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1977-1987, 1989."
+      "nombre": "Hugo López",
+      "apodo": "Hugo",
+      "epoca": "1973-1983",
+      "presencias": 298
     },
     {
-      "nombre": "Nereo Fernández",
-      "partidos": 240,
-      "periodo": "2001-Varios",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 240 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-Varios."
+      "nombre": "Nery Pumpido",
+      "apodo": "Nery",
+      "epoca": "1976-1981",
+      "presencias": 221
     }
   ],
   "titulos": [
@@ -254,8 +269,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "El Tatengue",
-      "origen": "Expresión naciente y utilizada de modo exclusivo clasificador durante inicios de siglo en su originario asentamiento santafesino. Trabajadores empleaban asiduamente esta frase refiriéndose estrictamente como crítica hacia el perfil social pudiente demostrando la acaudalada y rica alcurnia principal fundadora del equipo situada siempre desde el próspero centro vecinal."
+      "apodo": "Tatengues",
+      "origen": "Originario de principios de siglo XX. Provenía del lunfardo para referirse despectivamente a los socios fundadores que residían en el centro de Santa Fe, catalogados como de clase económica acomodada ('niños bien')."
     }
   ],
   "h2h": {

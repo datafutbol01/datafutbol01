@@ -42,23 +42,28 @@
   "historia": [
     {
       "ano": "1896",
-      "hito": "Fundación británica en los suburbios de la zona sur",
-      "desc": "El 21 de enero de 1896, profesionales mercantiles de origen británico crearon el 'Club Atlético Banfield' en un descampado a orillas del ferrocarril sud. El estanciero e importador ganadero Daniel Kingsland asumió como primer presidente de la institución, la cual en sus comienzos relegó el interés por el fútbol limitándose predominantemente a la práctica del cricket. Sin embargo, en 1899, un nuevo comité directivo impulsó la actividad balompédica, permitiendo que la escuadra se integrara a los torneos de Segunda División del fútbol amateur porteño."
+      "hito": "Fundación y desarrollo inicial",
+      "desc": "El 21 de enero de 1896, un grupo de profesionales e inmigrantes de origen británico fundó el Club Atlético Banfield en las inmediaciones de la estación del Ferrocarril del Sud. La primera comisión directiva estableció a Daniel Kingsland como presidente de la institución. En sus orígenes, las actividades deportivas principales estaban orientadas hacia la práctica del cricket. Sin embargo, en el año 1899, una nueva conducción dirigencial impulsó la integración del fútbol como disciplina central, permitiendo que el equipo participara de forma oficial en los torneos de la Segunda División amateur."
     },
     {
       "ano": "1940",
-      "hito": "El nacimiento del apodo 'El Taladro'",
-      "desc": "Tras sortear décadas combinando el fútbol aficionado e integrando la primera era profesional, el club confeccionó una escuadra altamente ofensiva para recuperar la categoría en 1940. Protagonizando partidos donde derrotaba a los rivales con abultadas goleadas sistemáticas mediante un sistema punzante, la crónica del extinto periódico 'El Pampero' describió que el ataque de Banfield 'taladraba' a los arqueros contrarios. El seudónimo cuajó de inmediato entre la clase obrera y la simpatía general, consolidando la identidad definitiva del club para el resto de su vida institucional."
+      "hito": "Consolidación ofensiva y origen del apodo",
+      "desc": "Tras alternar participaciones entre divisiones durante el profesionalismo incipiente, el club logró el ascenso a la Primera División en 1939. En la temporada de 1940, la institución conformó un plantel destacado por su eficacia ofensiva. Debido a los resultados abultados obtenidos durante los primeros encuentros del certamen, el periódico 'El Pampero' describió en sus crónicas que la delantera del equipo 'taladraba' las defensas rivales. El seudónimo fue asimilado por los simpatizantes y se consolidó como la principal identificación de la entidad deportiva."
     },
     {
       "ano": "1951",
-      "hito": "El equipo récord y la polémica definición ante Racing",
-      "desc": "Construyendo la campaña de mayor prestigio durante sus años clásicos en Primera División, el equipo del sur dominó gran parte del Campeonato de Primera División de 1951 igualando en la cima de la tabla al hegemónico Racing Club de Avellaneda, tricampeón nacional. Tras un primer partido definitorio empatado en el Viejo Gasómetro que paralizó la atención gubernamental, Banfield perdió el desempate por 1-0 en un encuentro históricamente controvertido, conformándose con un subcampeonato que consolidó el mayor logro numérico deportivo del club frente al 'Establishment' del fútbol porteño."
+      "hito": "Subcampeonato de Primera División",
+      "desc": "Durante el Campeonato de Primera División de 1951, el equipo finalizó la competencia igualado en la primera posición con Racing Club de Avellaneda, quien venía de consagrarse campeón en las dos ediciones previas. Ante la paridad en la tabla, el reglamento dispuso la disputa de encuentros de desempate en el estadio conocido como El Viejo Gasómetro. Tras un empate sin goles en el primer partido, Racing Club se impuso por 1-0 en el segundo enfrentamiento. El resultado ubicó a Banfield como subcampeón nacional, marcando la actuación más destacada de un equipo denominado 'chico' hasta ese momento en la era profesional."
+    },
+    {
+      "ano": "2001",
+      "hito": "Retorno a la máxima categoría",
+      "desc": "Luego de competir durante la década de 1990 en el Nacional B, el club inició un proyecto de reestructuración deportiva. Bajo la conducción técnica de Ramón Ponce y posteriormente de Luis Garisto, el equipo consolidó su rendimiento en la temporada 2000-2001. Contando con el aporte destacado del mediocampista José Luis Sánchez, Banfield superó a Quilmes en la final del certamen. El triunfo le permitió obtener el campeonato y concretar el ascenso a la Primera División, marcando el inicio de un extenso período de estabilidad en la categoría de elite."
     },
     {
       "ano": "2009",
-      "hito": "Consagración de la mano de Julio César Falcioni",
-      "desc": "Consolidado nuevamente en Primera División desde 2001, Banfield estructuró un plantel de máximo rigor táctico y despliegue físico bajo las órdenes del entrenador Julio César Falcioni en el Torneo Apertura 2009. Sustentado en la creatividad del organizador Walter Erviti y los goles del artillero uruguayo Santiago Silva, el conjunto albiverde materializó la mayor proeza de su historia el 13 de diciembre de 2009 en el estadio de Boca Juniors. Pese a sufrir una derrota 0-2 en su última fecha, la sumatoria final de puntos le permitió levantar oficialmente su primera y única liga de la máxima categoría."
+      "hito": "Obtención del Torneo Apertura",
+      "desc": "Bajo la dirección técnica de Julio César Falcioni, la institución estructuró un plantel enfocado en el rigor táctico y la solidez defensiva durante el Torneo Apertura 2009. Sustentado en la organización del mediocampista Walter Erviti y la efectividad del centrodelantero Santiago Silva, el conjunto albiverde mantuvo el liderazgo del certamen durante gran parte del semestre. El 13 de diciembre de 2009, pese a sufrir una derrota frente a Boca Juniors en la última fecha, la cantidad de puntos acumulada le permitió coronarse campeón de la Primera División por primera vez en su historia oficial."
     }
   ],
   "canchas": [
@@ -109,108 +114,103 @@
   ],
   "idolos": [
     {
+      "nombre": "Julio César Falcioni",
+      "pos": "Entrenador",
+      "apodo": "El Emperador",
+      "epoca": "2003-2005 / 2009-2010",
+      "desc": "Arquitecto de la máxima gloria. Con su pragmatismo y solidez defensiva, moldeó al equipo que conquistó el Torneo Apertura 2009, la primera y única estrella de la historia en la máxima categoría."
+    },
+    {
       "nombre": "Javier Sanguinetti",
-      "pos": "Defensor",
+      "pos": "Defensor / Entrenador",
       "apodo": "Archu",
-      "periodo": "1989-1993, 1994-2008",
-      "desc": "Posee el récord absoluto de partidos disputados oficiales vistiendo la camiseta del club. Como defensor central, fue una pieza principal de liderazgo en las campañas de consolidación de la década del 2000."
+      "epoca": "1993-2008",
+      "desc": "Símbolo de entrega, fiereza y fidelidad. Es el jugador con más partidos disputados en la historia del 'Taladro', liderando la zaga central durante más de quince años y posteriormente aportando desde la dirección técnica."
     },
     {
       "nombre": "Garrafa Sánchez",
       "pos": "Enganche",
-      "apodo": "Garrafa",
-      "periodo": "2000-2005",
-      "desc": "Enganche de sobresaliente habilidad e ídolo muy carismático para los simpatizantes. Lideró futbolísticamente al equipo hacia el anhelado ascenso a la Primera División en la temporada 2001."
+      "apodo": "El Garrafa",
+      "epoca": "2000-2005",
+      "desc": "El potrero en su máxima expresión. Su zurda mágica, bohemia y desparpajo fueron fundamentales para lograr el ascenso en 2001 e impulsar a Banfield a competiciones internacionales. Héroe trágico y leyenda eterna."
     },
     {
-      "nombre": "Darío Cvitanich",
-      "pos": "Delantero",
-      "apodo": "Cvita",
-      "periodo": "2003-2008, 2017-2018, 2022",
-      "desc": "Delantero originado en las divisiones inferiores que destacó ampliamente por su capacidad de definición. Retornó al club en múltiples etapas de su carrera, manteniendo siempre un promedio anotador decisivo."
+      "nombre": "James Rodríguez",
+      "pos": "Enganche",
+      "apodo": "El Bandido",
+      "epoca": "2008-2010",
+      "desc": "La joya extranjera del campeonato histórico. Su irrupción como juvenil deslumbró con una categoría sublime, siendo determinante con goles y asistencias para conseguir la histórica consagración del Apertura 2009."
     },
     {
       "nombre": "Santiago Silva",
-      "pos": "Centrodelantero",
+      "pos": "Delantero",
       "apodo": "El Tanque",
-      "periodo": "2009",
-      "desc": "Atacante central de origen uruguayo caracterizado por su temperamento inquebrantable. Fue el máximo goleador del certamen y pilar estructural en la obtención del Torneo Apertura 2009, el primer campeonato de Primera División del club."
-    },
-    {
-      "nombre": "Julio Falcioni",
-      "pos": "Director Técnico",
-      "apodo": "El Emperador",
-      "periodo": "2003-2005, 2009-2010, Múltiples ciclos",
-      "desc": "Reconocido centralmente por su etapa como director técnico. Forjó un equipo rocoso que consiguió el histórico campeonato de 2009, transformándose en una de las máximas referencias de la era moderna de la institución."
+      "epoca": "2009-2009",
+      "desc": "Goleador feroz y temperamental. Aunque su estadía consagratoria fue breve, se proclamó artillero absoluto del Torneo Apertura 2009, aportando la cuota goleadora indispensable para la vuelta olímpica."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Gustavo Albella",
-      "goles": 136,
-      "partidos": 221,
-      "periodo": "1945-1951",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 136 goles en competiciones oficiales durante su trayectoria en el equipo entre 1945-1951."
+      "apodo": "El Flaco",
+      "epoca": "1945-1951",
+      "goles": 136
     },
     {
-      "nombre": "Emilio Cramer",
-      "goles": 84,
-      "partidos": 164,
-      "periodo": "1960-1965",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 84 goles en competiciones oficiales durante su trayectoria en el equipo entre 1960-1965."
+      "nombre": "Rafael Sanz",
+      "apodo": "-",
+      "epoca": "1935-1941",
+      "goles": 113
     },
     {
-      "nombre": "Fernando Márquez",
-      "goles": 74,
-      "partidos": 150,
-      "periodo": "Histórico amateur",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 74 goles en competiciones oficiales durante su trayectoria en el equipo entre Histórico amateur."
+      "nombre": "Miguel Robinson Brizuela",
+      "apodo": "El Negro",
+      "epoca": "1983-1993",
+      "goles": 71
+    },
+    {
+      "nombre": "Juan José Pizzuti",
+      "apodo": "Tito",
+      "epoca": "1947-1950",
+      "goles": 62
     },
     {
       "nombre": "Darío Cvitanich",
-      "goles": 65,
-      "partidos": 150,
-      "periodo": "2003-2008, 2017-2018",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 65 goles en competiciones oficiales durante su trayectoria en el equipo entre 2003-2008, 2017-2018."
-    },
-    {
-      "nombre": "Cristian Garcia",
-      "goles": 61,
-      "partidos": 126,
-      "periodo": "Histórico amateur",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 61 goles en competiciones oficiales durante su trayectoria en el equipo entre Histórico amateur."
+      "apodo": "Cvita",
+      "epoca": "2003-2022",
+      "goles": 60
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Javier Sanguinetti",
-      "partidos": 493,
-      "periodo": "1989-2008",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 493 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1989-2008."
+      "apodo": "Archu",
+      "epoca": "1993-2008",
+      "presencias": 493
     },
     {
-      "nombre": "Félix Orte",
-      "partidos": 310,
-      "periodo": "1978-1989",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 310 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1978-1989."
+      "nombre": "Jorge Giménez",
+      "apodo": "-",
+      "epoca": "1981-1991",
+      "presencias": 295
     },
     {
-      "nombre": "Renato Celleti",
-      "partidos": 305,
-      "periodo": "1960s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 305 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960s."
+      "nombre": "Javier Zanetti",
+      "apodo": "Pupi",
+      "epoca": "1993-1995",
+      "presencias": 66
     },
     {
-      "nombre": "Roberto Giménez",
-      "partidos": 298,
-      "periodo": "1970s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 298 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970s."
+      "nombre": "Darío Cvitanich",
+      "apodo": "Cvita",
+      "epoca": "2003-2022",
+      "presencias": 160
     },
     {
-      "nombre": "Edgardo Di Meola",
-      "partidos": 242,
-      "periodo": "1970s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 242 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970s."
+      "nombre": "Walter Erviti",
+      "apodo": "Walter",
+      "epoca": "2008-2020",
+      "presencias": 154
     }
   ],
   "titulos": [
@@ -380,7 +380,7 @@
   "origen_apodos": [
     {
       "apodo": "El Taladro",
-      "origen": "Nace explícitamente el 11 de enero de 1940 a través de la publicación oficial del periodista independiente Emilio Ferrari. El columnista trabajaba editando páginas mediante el popular diario conocido como El Pampero. Tras atestiguar visualmente la racha e interminable catarata de goleadas a favor generada por la potente delantera local en el comienzo de aquel torneo, documentó que los futbolistas lograban literalmente agujerear, derribar y taladrar con extrema facilidad las formaciones contrarias."
+      "origen": "Acuñado periodísticamente en 1940 por el diario El Pampero. El título principal de una crónica dictó 'Banfield taladra a sus rivales' tras una inesperada victoria y una serie de triunfos contundentes en Primera División."
     }
   ],
   "h2h": {

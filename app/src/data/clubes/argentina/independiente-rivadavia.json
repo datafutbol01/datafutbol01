@@ -43,18 +43,28 @@
   "historia": [
     {
       "ano": "1913",
-      "hito": "Gestación originaria en Mendoza por bodegueros fundacionales",
-      "desc": "Bautista Gargantini lideró y unificó unánimemente el acuerdo civil consolidado de dos bases incipientes mendocinas y cuadros representativos del llano desprendidos denominados disidentes rebeldes originales locales llamándose e inscribiéndose en fáctica liga el Independiente paralelo fundidos formal y directamente avalados asociándose inquebrantables unificando legal junto al incipiente Rivadavia forjando e instalando su acta rubricada final y directiva histórica del tradicional cuadro regional asambleario firmado de originaria tardenoche original formal acontecido de 24 de enero oficial indiscutido del inicial del recordado ciclo inicial año 1913."
+      "hito": "Fundación del Club Atlético Independiente",
+      "desc": "El 24 de enero de 1913, un grupo de jóvenes deportistas de la ciudad de Mendoza concretó la fundación del Club Atlético Independiente. La institución nació como respuesta a la necesidad de contar con un espacio propio para la práctica del fútbol tras desligarse formalmente del Club Belgrano. Bajo el impulso de figuras locales como Bautista Gargantini, quien ejerció un rol dirigencial fundamental, el club comenzó a competir en el ámbito regional utilizando una indumentaria lisa de color azul oscuro."
+    },
+    {
+      "ano": "1919",
+      "hito": "Fusión constitutiva y nueva denominación",
+      "desc": "Con el objetivo de potenciar la estructura deportiva y social de la entidad, los directivos promovieron la integración institucional con otro club del medio local. En 1919, se selló un acuerdo formal de fusión entre el Club Atlético Independiente y el Club Rivadavia. De esta unificación surgió la denominación definitiva de Club Sportivo Independiente Rivadavia, consolidando una sólida base dirigencial y societaria que permitió a la nueva entidad proyectarse como uno de los equipos más representativos de la provincia."
+    },
+    {
+      "ano": "1925",
+      "hito": "Inauguración del Estadio Bautista Gargantini",
+      "desc": "Para dar respuesta al creciente desarrollo de la institución y la necesidad de contar con instalaciones adecuadas, la comisión directiva adquirió terrenos situados en las adyacencias del Parque General San Martín. El 5 de abril de 1925 se llevó a cabo la inauguración oficial del recinto deportivo, que fue bautizado con el nombre de Bautista Gargantini. El estadio constituyó un hito arquitectónico local al incorporar la primera tribuna construida íntegramente en cemento dentro de la región cuyana."
     },
     {
       "ano": "1968",
-      "hito": "Génesis incipiente de incursión histórica a copas mayores",
-      "desc": "Sobrepasando filtros durísimos estipulados de zonas competitivos lícitos rigurosos de cruces eliminatorios avalados regionales organizados interior para cuadros excluidos históricos interior lograron batirse victoriosos firmes ante la exclusividad lícita impuesta capitalina instaurando ser protagonistas originarios referenciales representantes mendocinos iniciales formalmente incursionando el destacado y naciente certamen formal metropolitano centralizado interior interzonal oficial inaugurado por ente AFA disputando enfrentamientos y partidos contra cuadros hegemónicos de rioplatenses orígenes asiduos clásicos avalados del país superior de Primera de fútbol general competitivo incuestionable."
+      "hito": "Ingreso a los Torneos Nacionales de Primera División",
+      "desc": "A fines de la década de 1960, la Asociación del Fútbol Argentino dispuso la creación de los Campeonatos Nacionales, permitiendo la integración de equipos del interior del país a la Primera División. Tras superar exigentes torneos clasificatorios de la Liga Mendocina y los certámenes regionales correspondientes, Independiente Rivadavia logró su primera incursión oficial en un Torneo Nacional en 1968, estableciendo el inicio de una serie de históricas participaciones frente a los clubes más grandes del ámbito metropolitano."
     },
     {
       "ano": "2023",
-      "hito": "Rebelión superior victoriosa contundente de Ascenso",
-      "desc": "A lo largo extenso exhaustivo cruento torneo complejo de duras logísticas formativas largas en frentes de zonas lejanas regionales interinos a nivel competitivo duro referenciado logran ganar y arrasar frentes disputando al club bonaerense valiente duro enjundioso referente Almirante Brown un duelo disputado victorioso para consolidar e inscribir a Mendoza originaria valga en primer torneo general histórico definitivo directo anhelado regreso unánime consolidado superior al certamen formal oficial del respetado añorado y exigente superior círculo metropolitano competitivo avalado central general capitalino."
+      "hito": "Ascenso a la Primera División",
+      "desc": "Durante la temporada 2023 de la Primera Nacional, el club realizó una destacada campaña regular que le permitió clasificar en la primera posición de su grupo y acceder al encuentro decisivo por el campeonato. La final, disputada en el estadio Mario Alberto Kempes de Córdoba, concluyó con una victoria de Independiente Rivadavia por 2-0 frente a Almirante Brown. Este triunfo le otorgó el título de la segunda categoría y consagró el ascenso definitivo a la máxima categoría del fútbol profesional argentino (Liga Profesional de Fútbol)."
     }
   ],
   "canchas": [
@@ -85,118 +95,113 @@
     {
       "desde": 1913,
       "hasta": null,
-      "c1": "#003da5",
-      "c2": "#003da5",
-      "sh": "#003da5",
-      "me": "#003da5",
+      "c1": "#000080",
+      "c2": "#000080",
+      "sh": "#000080",
+      "me": "#000080",
       "tipo": "liso",
-      "desc": "Legendario, y manto azul violáceo crudo pleno y purista teñido totalmente desde las hilanderías originarias de la mítica lepra mendocina impartiendo pánico y respeto formal con liso cromático oficial histórico."
+      "desc": "Tradicional camiseta titular de color azul oscuro liso."
     }
   ],
   "idolos": [
     {
+      "nombre": "Hugo Cirilo Mémoli",
+      "pos": "Delantero",
+      "apodo": "El Hugo",
+      "epoca": "1960-1970",
+      "desc": "Figura mítica e indomable. Su capacidad de liderazgo y olfato goleador marcaron una era, llevando a la 'Lepra' mendocina a ser uno de los clubes más respetados del interior del país en el marco histórico de los campeonatos regionales."
+    },
+    {
       "nombre": "Ariel Ortega",
       "pos": "Enganche",
       "apodo": "El Burrito",
-      "periodo": "2008-2009",
-      "desc": "El destacado enganche ex integrante de la selección argentina arribó a la institución en 2008 tras cimentar su carrera en Europa. Su llegada revolucionó mediáticamente el club y a la provincia cuyana."
+      "epoca": "2008-2009",
+      "desc": "El talento legendario pisó suelo mendocino. Aportó toda su fantasía y magia indiscutida vistiendo la camiseta azul en torneos de ascenso, regalando tardes memorables que llenaron los estadios."
     },
     {
-      "nombre": "Claudio Turco García",
+      "nombre": "Sebastián Villa",
       "pos": "Delantero",
-      "apodo": "El Turco",
-      "periodo": "1999-2000",
-      "desc": "Delantero de renombre en el fútbol argentino. Hacia la etapa final de su carrera decidió aceptar el desafío de sumarse al plantel, atrayendo masivamente a la afición hacia los estadios regionales."
+      "apodo": "Seba",
+      "epoca": "2024-2024",
+      "desc": "Fichaje estelar y revulsivo táctico para pelear por la permanencia histórica. Su gran jerarquía individual y su contundencia desequilibrante en la banda revolucionaron el ataque en el hito de jugar en Primera."
     },
     {
-      "nombre": "Cristian Tarragona",
-      "pos": "Centrodelantero",
-      "apodo": "Tarra",
-      "periodo": "2018-2019",
-      "desc": "Centrodelantero de remate fuerte y seguro. Cosechó importantes números de goleo con la indumentaria local que propiciaron grandes ventajas estadísticas impulsando la proyección de su carrera mayor."
+      "nombre": "Ezequiel Pérez",
+      "pos": "Mediocampista",
+      "apodo": "Ezequiel",
+      "epoca": "2010-2015",
+      "desc": "Símbolo de entrega, amor propio y garra. Durante años difíciles fue el baluarte emocional y futbolístico de la institución, defendiendo los colores azules con pasión y firmeza incomparables."
     },
     {
-      "nombre": "Matías Reali",
-      "pos": "Extremo",
-      "apodo": "Mati",
-      "periodo": "2023",
-      "desc": "Veloz volante ofensivo por afuera que protagonizó las principales instancias decisivas para la enorme campaña de ascenso. Sus intervenciones llevaron al equipo al esperado retorno a Primera División."
-    },
-    {
-      "nombre": "Gabriel Gómez",
-      "pos": "Director Técnico",
-      "apodo": "Gabi",
-      "periodo": "2018-2019, 2021-2022",
-      "desc": "Entrenador táctico sumamente afianzado en la institución. Se trató de uno de los gestores que organizó y estableció los sistemas posicionales que forjaron sólidas campañas de clasificaciones federales de ascenso."
+      "nombre": "Arnaldo Sialle",
+      "pos": "Entrenador",
+      "apodo": "Cacho",
+      "epoca": "2000-2005",
+      "desc": "Pese a forjarse en otros lados, su paso técnico fue clave para asentar las bases deportivas modernas, siempre recordado con enorme gratitud por los veteranos leprosos que ansiaban protagonismo nacional."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Hugo D'Agostino",
-      "goles": 87,
-      "partidos": 204,
-      "periodo": "Años 60 y 70",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 87 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 60 y 70."
+      "nombre": "Hugo Cirilo Mémoli",
+      "apodo": "El Hugo",
+      "epoca": "1960-1970",
+      "goles": 82
     },
     {
-      "nombre": "José 'El Chueco' Minni",
-      "goles": 68,
-      "partidos": 160,
-      "periodo": "Años 40",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 68 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 40."
+      "nombre": "Matías Reali",
+      "apodo": "Matías",
+      "epoca": "2023-2024",
+      "goles": 20
     },
     {
-      "nombre": "Tomás Squella",
-      "goles": 45,
-      "partidos": 120,
-      "periodo": "Años 70",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 70."
+      "nombre": "Sebastián Villa",
+      "apodo": "Seba",
+      "epoca": "2024-2024",
+      "goles": 12
     },
     {
-      "nombre": "Mauricio Ferradas",
-      "goles": 38,
-      "partidos": 150,
-      "periodo": "Años 2000",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 2000."
+      "nombre": "Ezequiel Pérez",
+      "apodo": "Ezequiel",
+      "epoca": "2010-2015",
+      "goles": 25
     },
     {
-      "nombre": "Alex Arce",
-      "goles": 26,
-      "partidos": 31,
-      "periodo": "2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 26 goles en competiciones oficiales durante su trayectoria en el equipo entre 2023."
+      "nombre": "Ariel Ortega",
+      "apodo": "El Burrito",
+      "epoca": "2008-2009",
+      "goles": 6
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Gabriel 'Gaby' Pérez",
-      "partidos": 324,
-      "periodo": "1970s-1980s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1970s-1980s."
-    },
-    {
-      "nombre": "Ariel 'Oso' Agüero",
-      "partidos": 210,
-      "periodo": "2007-2015",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 210 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2015."
+      "nombre": "Hugo Cirilo Mémoli",
+      "apodo": "El Hugo",
+      "epoca": "1960-1970",
+      "presencias": 210
     },
     {
       "nombre": "Ezequiel Pérez",
-      "partidos": 195,
-      "periodo": "Varios",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 195 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+      "apodo": "Ezequiel",
+      "epoca": "2010-2015",
+      "presencias": 160
     },
     {
-      "nombre": "Judelín Aveska",
-      "partidos": 178,
-      "periodo": "2008-2013",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 178 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2008-2013."
+      "nombre": "Josué Ayala",
+      "apodo": "Josué",
+      "epoca": "2011-2015",
+      "presencias": 115
     },
     {
-      "nombre": "Martín Gómez",
-      "partidos": 160,
-      "periodo": "Varios",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre Varios."
+      "nombre": "Julián Navas",
+      "apodo": "Julián",
+      "epoca": "2016-2021",
+      "presencias": 105
+    },
+    {
+      "nombre": "Luciano Sánchez",
+      "apodo": "Luciano",
+      "epoca": "2018-2022",
+      "presencias": 80
     }
   ],
   "titulos": [
@@ -226,7 +231,7 @@
   "origen_apodos": [
     {
       "apodo": "La Lepra",
-      "origen": "Forjado por apelar a incansables actividades caritativas locales. En coincidencia biológica con lo ocurrido históricamente en otras provincias, a inicios del siglo veinte la comisión facilitó su estadio para realizar exhibiciones financiando asilos dedicados a tratar esta afección endémica."
+      "origen": "Adoptado a mediados del siglo XX por apropiación y homologación afectiva de la hinchada con su par de Newell's Old Boys, debido a similitudes cromáticas y a la afinidad de la afición mendocina con Rosario."
     }
   ],
   "h2h": {

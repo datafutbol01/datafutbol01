@@ -44,27 +44,28 @@
   "historia": [
     {
       "ano": "1908",
-      "hito": "Fundación del Club Atlético Gimnasia y Esgrima",
-      "desc": "El 30 de agosto de 1908 se constituyó formalmente el Club Atlético Gimnasia y Esgrima de Mendoza. Su origen obedece a la escisión de la incipiente sección de fútbol del original 'Club de Gimnasia y Esgrima' (entidad aristocrática mendocina presidida anteriormente por Carlos Ponce y Eduardo Cabral en la época del 'Club de Pelota'). Un grupo de socios interesados estrictamente en la competencia futbolística tomó distancia del núcleo conservador del club, estableciendo así una nueva institución de matriz popular radicada en los límites del Parque General San Martín."
+      "hito": "Fundación institucional",
+      "desc": "El 30 de agosto de 1908, un grupo de exsocios del tradicional 'Club de Gimnasia y Esgrima' concretó la fundación del Club Atlético Gimnasia y Esgrima de Mendoza. La conformación de esta nueva entidad se originó a partir de una escisión motivada por el interés exclusivo de sus fundadores en fomentar y desarrollar la práctica regular del fútbol competitivo. La naciente institución se radicó en los terrenos circundantes al Parque General San Martín y adoptó los colores blanco y negro en franjas verticales para su indumentaria deportiva."
     },
     {
-      "ano": "1960-1974",
-      "hito": "Las campañas nacionales y el ciclo de Víctor Legrotaglie",
-      "desc": "Durante la década del 60 y primera mitad de los años 70, Gimnasia y Esgrima registró destacadas clasificaciones a los antiguos Torneos Nacionales organizados por la AFA. En este período cimentó un destacado protagonismo en el esquema interprovincial liderado futbolísticamente en el campo por Víctor Antonio Legrotaglie, un hábil mediocampista histórico que desestimó transferencias al exterior para desarrollar toda su carrera representativa nacional en el club cuyano."
+      "ano": "1934",
+      "hito": "Inauguración de estadio propio",
+      "desc": "Luego de ejercer la localía en diversos campos de juego transitorios de la capital provincial durante sus primeras décadas, la institución formalizó la construcción de su infraestructura definitiva en terrenos otorgados previamente por el gobierno de Mendoza en 1923. El 25 de marzo de 1934 se inauguró oficialmente el recinto deportivo emplazado en el Parque General San Martín. Posteriormente, el estadio fue denominado 'Víctor Antonio Legrotaglie' en reconocimiento a la figura deportiva más emblemática en la historia del club."
     },
     {
-      "ano": "1971",
-      "hito": "Triunfo ante Boca Juniors y San Lorenzo",
-      "desc": "Entre los hitos deportivos salientes de sus incursiones en los Torneos Nacionales de Primera División figura su participación en el Campeonato Nacional 1971, certamen en el que Gimnasia logró una histórica goleada a domicilio por 3 a 0 ante el Club Atlético San Lorenzo de Almagro, y días más tarde impuso superioridad frente a Boca Juniors."
+      "ano": "1970-1974",
+      "hito": "Participación destacada en Campeonatos Nacionales",
+      "desc": "Durante la primera mitad de la década de 1970, el club logró un destacado protagonismo al clasificar consecutivamente a los Torneos Nacionales organizados por la AFA. Liderado futbolísticamente por el mediocampista Víctor Legrotaglie, el equipo mendocino alcanzó relevancia nacional durante la edición de 1971 al registrar victorias oficiales frente a instituciones históricas de la máxima categoría, imponiéndose en condición de visitante frente a San Lorenzo de Almagro y derrotando posteriormente a Boca Juniors."
     },
     {
-      "ano": "2014-2018",
-      "hito": "Ascensos contemporáneos en AFA",
-      "desc": "Tras un prolongado período disputando certámenes de categorías formativas regionales (Torneo Argentino B), la institución logró encadenar dos promociones fundamentales bajo la reestructuración de torneos. En 2014 triunfó en el Torneo Federal A, sumando posteriormente otra final decisiva en 2018 que determinó su estabilidad definitiva compitiendo ininterrumpidamente en la Primera Nacional, escalón previo inmediato a la Primera División."
+      "ano": "2014",
+      "hito": "Regreso a las principales categorías de ascenso",
+      "desc": "Tras un extenso período de participación en certámenes regionales y ligas locales, la institución inició un proceso de recuperación deportiva bajo los lineamientos de reestructuración de los torneos de la Asociación del Fútbol Argentino. En 2014, el primer equipo completó una exitosa campaña en el Torneo Federal A que le permitió adjudicarse uno de los ascensos en disputa, marcando el retorno de Gimnasia de Mendoza a la segunda división (Primera B Nacional) tras más de una década de ausencia."
     },
     {
-      "titulo": "Vigencia y Proyección",
-      "texto": "En la actualidad, el Lobo del Parque se proyecta como un modelo de solidez institucional, enfocado en el fortalecimiento de su estructura deportiva y el regreso a los escenarios de máxima exposición nacional."
+      "ano": "2018",
+      "hito": "Consolidación en la Primera Nacional",
+      "desc": "Luego de sufrir un descenso temporal, el club conformó un plantel competitivo durante la temporada 2017-2018 del Torneo Federal A. Tras superar diversas etapas eliminatorias, el equipo dirigido por Darío Alaniz logró obtener la victoria en el cruce decisivo frente a Defensores de Belgrano de Villa Ramallo, asegurando un nuevo ascenso. Desde entonces, la institución mantiene una participación ininterrumpida y sostenida en la Primera Nacional, la segunda categoría del fútbol profesional argentino."
     }
   ],
   "canchas": [
@@ -107,11 +108,11 @@
       "desde": 1908,
       "hasta": null,
       "c1": "#ffffff",
-      "c2": "#111111",
-      "sh": "#111111",
-      "me": "#111111",
+      "c2": "#000000",
+      "sh": "#000000",
+      "me": "#ffffff",
       "tipo": "rayas-verticales",
-      "desc": ", y ropaje mendocino dictaminado en rígido patrón visual de bastones estrechos continuos blancos y oscuros negros en honor imperecedero a equipos patricios que inspiraron estatutariamente puristas las fundaciones cuyanas."
+      "desc": "Camisa titular a líneas verticales blancas y negras."
     }
   ],
   "idolos": [
@@ -119,105 +120,100 @@
       "nombre": "Víctor Antonio Legrotaglie",
       "pos": "Enganche",
       "apodo": "El Víctor",
-      "periodo": "1953-1959, 1960-1963, 1964-1967",
-      "desc": "Apodado 'El Víctor', es el máximo y más destacado referente histórico del conjunto, al punto de que el estadio principal del club en Mendoza lleva su nombre oficial desde hace décadas."
+      "epoca": "1953-1974",
+      "desc": "Figura mítica e irrepetible. Considerado el máximo ídolo del fútbol mendocino. Su habilidad majestuosa y rechazo constante a jugar en equipos grandes de Buenos Aires por amor a su provincia lo elevaron a leyenda nacional."
     },
     {
-      "nombre": "Darío Alaniz",
-      "pos": "Director Técnico / Mediocampista",
-      "apodo": "El Lechuga",
-      "periodo": "2014, 2017, Múltiples",
-      "desc": "Atacante destacado que condujo ofensivamente al conjunto cuyano en competiciones del ámbito federal, asumiendo la generación de juego durante campañas de ascensos y posteriores certámenes."
-    },
-    {
-      "nombre": "Patricio Cucchi",
+      "nombre": "Vicente de la Mata",
       "pos": "Delantero",
-      "apodo": "Pato",
-      "periodo": "2016-2019",
-      "desc": "Centrodelantero que se convirtió en figura, goleador y capitán durante el torneo Federal A en la temporada 2017-18, el cual concluyó en el ascenso del club a la Primera B Nacional."
+      "apodo": "Capote",
+      "epoca": "1958-1958",
+      "desc": "La jerarquía infinita vistió la camiseta en el final de su carrera. Una presencia de élite que engalanó las competencias locales y cimentó el respeto histórico al club."
     },
     {
-      "nombre": "Lucas Alvarenga",
+      "nombre": "Darío Felman",
+      "pos": "Delantero",
+      "apodo": "Darío",
+      "epoca": "1974-1975",
+      "desc": "Velocidad y goles en el famoso equipo de los Nacionales. Brilló enormemente antes de emigrar a Boca Juniors y triunfar en el Valencia europeo."
+    },
+    {
+      "nombre": "Pedro Castellino",
       "pos": "Mediocampista",
-      "apodo": "El Chino",
-      "periodo": "2012-2016",
-      "desc": "Importante partícipe y referente del vestuario durante los múltiples torneos largos del interior del país, asumiendo un destacado rol titular para sostener al equipo competitivo en la era moderna."
+      "apodo": "Pedro",
+      "epoca": "1960-1970",
+      "desc": "Motor silencioso y fundamental en el medio campo durante los dorados años sesenta y setenta, forjando el carácter de un equipo respetado a nivel nacional."
     },
     {
-      "nombre": "Diego Rossi",
-      "pos": "Delantero",
-      "apodo": "Diego",
-      "periodo": "Múltiples",
-      "desc": "Volante de marcaje y recuperación. Se afianzó como un baluarte táctico fundamental de aquellos planteles durante la exigente época de disputa de la antigua estructura de torneos regionales históricos."
+      "nombre": "Tomás Marchiori",
+      "pos": "Arquero",
+      "apodo": "Tomi",
+      "epoca": "2015-2020",
+      "desc": "Seguridad y arraigo en la etapa moderna del Lobo. Sus soberbias atajadas en torneos federales lo consolidaron como el gran referente de la nueva generación."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Víctor Legrotaglie",
-      "goles": 75,
-      "partidos": 250,
-      "periodo": "Años 60",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 60."
+      "apodo": "El Víctor",
+      "epoca": "1953-1974",
+      "goles": 86
     },
     {
-      "nombre": "Lucero Velázquez",
-      "goles": 50,
-      "partidos": 120,
-      "periodo": "Años 70",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 70."
+      "nombre": "Pablo Palacio",
+      "apodo": "Pablo",
+      "epoca": "2018-2021",
+      "goles": 28
     },
     {
-      "nombre": "Carlos Alberto Mino",
-      "goles": 42,
-      "partidos": 160,
-      "periodo": "Años 80",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 42 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 80."
+      "nombre": "Darío Felman",
+      "apodo": "Darío",
+      "epoca": "1974-1975",
+      "goles": 25
     },
     {
-      "nombre": "Pablo Palacios Alvarenga",
-      "goles": 40,
-      "partidos": 75,
-      "periodo": "2016-2018",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 2016-2018."
+      "nombre": "Lucas Chacana",
+      "apodo": "Lucas",
+      "epoca": "2018-2020",
+      "goles": 15
     },
     {
-      "nombre": "Juan C. Fernández",
-      "goles": 38,
-      "partidos": 115,
-      "periodo": "Años 90",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 90."
+      "nombre": "Tadeo Marchiori",
+      "apodo": "Tadeo",
+      "epoca": "2020-2022",
+      "goles": 12
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Víctor Legrotaglie",
-      "partidos": 250,
-      "periodo": "1960s-1970s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 250 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960s-1970s."
+      "apodo": "El Víctor",
+      "epoca": "1953-1974",
+      "presencias": 315
     },
     {
-      "nombre": "Darío Alaniz",
-      "partidos": 180,
-      "periodo": "Años 2000",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 180 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 2000."
+      "nombre": "Tomás Marchiori",
+      "apodo": "Tomi",
+      "epoca": "2015-2020",
+      "presencias": 160
     },
     {
-      "nombre": "Carlos Mino",
-      "partidos": 160,
-      "periodo": "Años 80",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 80."
+      "nombre": "Leandro Aguirre",
+      "apodo": "Leandro",
+      "epoca": "2018-2022",
+      "presencias": 125
     },
     {
-      "nombre": "Luis Silva",
-      "partidos": 150,
-      "periodo": "1990s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990s."
+      "nombre": "Oscar Amaya",
+      "apodo": "Oscar",
+      "epoca": "2010-2015",
+      "presencias": 115
     },
     {
-      "nombre": "Matías Alasia",
-      "partidos": 140,
-      "periodo": "2013-2016",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 140 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2016."
+      "nombre": "Renzo Vera",
+      "apodo": "Renzo",
+      "epoca": "2019-2021",
+      "presencias": 80
     }
   ],
   "titulos": [
@@ -244,8 +240,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "El Lobo",
-      "origen": "Heredado y asimilado en sus orígenes mediante referencias directas a su homónimo platense. A mediados de siglo, buscaron consolidar una asociación folclórica fuerte adoptando a la clásica gráfica animal instaurando eternamente al feroz estandarte cordillerano."
+      "apodo": "El Lobo del Parque",
+      "origen": "Surge producto de la homonimia institucional histórica con Gimnasia y Esgrima La Plata (El Lobo), fusionado al indicador geográfico de su estadio, erigido en el corazón del Parque General San Martín en Mendoza."
     }
   ]
 }

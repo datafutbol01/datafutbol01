@@ -43,28 +43,28 @@
   "historia": [
     {
       "ano": "1904",
-      "hito": "Gremio de conductores de camiones consolidando bases (1904)",
-      "desc": "En las riberas contaminadas, barrosas y rústicas del porteño Riachuelo, el nacimiento no podía forjarse desde el lujo de los ingleses, sino desde el esfuerzo ciego y humillante de sus trabajadores. A principios del siglo del progreso, el bullicioso barrio comercial de Barracas hervía de carreros y estibadores asfixiados bajo el humo fabril. El 5 de abril de 1904, bajo el sol rajante del mediodía en una improvisada y humilde asamblea detrás del puente de madera, un puñado obrero fundó el humilde 'Club Atlético Barracas Central'. Con el juramento de sus creadores, liderados indiscutiblemente por Felipe Cámpora (el gran primer líder y amparo social del grupo pobre) junto a Saúl Cámpora y Pedro Varela, encendieron la mecha para siempre. Pese a la escasez, adoptaron con orgullo las clásicas franjas verticales rojas y blancas imitando a la entonces elitista y gloriosa divisa del legendario Alumni porteño. Así, forjó en la pobreza absoluta una identidad 'Guapo', aguantando heroicamente el barro del ascenso."
+      "hito": "Fundación institucional",
+      "desc": "El 5 de abril de 1904, un grupo de trabajadores del barrio de Barracas, encabezado por los operarios Felipe Cámpora, Saúl Cámpora y Pedro Varela, llevó a cabo la fundación oficial del Club Atlético Barracas Central. La entidad fue creada con el objetivo de fomentar la actividad social y deportiva entre los trabajadores vinculados al transporte de cargas y estibadores de la zona del Riachuelo. En sus primeros años, el club adoptó los colores rojo y blanco en franjas verticales para su indumentaria, consolidando rápidamente su arraigo en el sur de la Ciudad de Buenos Aires."
     },
     {
       "ano": "1916",
-      "hito": "Establecimiento en la tradicional sede de Olavarría y Luna",
-      "desc": "Tras sus primeros años en los potreros barriales, el club consolidó su estadio en la recordada esquina del barrio porteño de Barracas, convirtiéndose en su reducto principal. Este terreno albergó sus extensas participaciones en las divisiones C, B Metropolitana y D a lo largo de buena parte del siglo XX, consolidando la tenaz identidad institucional de 'El Guapo'."
+      "hito": "Establecimiento de la sede deportiva",
+      "desc": "Tras utilizar diversos terrenos transitorios para la práctica deportiva durante su etapa amateur, la institución logró establecer definitivamente su campo de juego en 1916 en la intersección de las calles Olavarría y Luna. Este recinto se convirtió en la sede permanente del club y fue el escenario principal donde el equipo disputó la mayor parte de sus certámenes en los torneos de ascenso organizados por la Asociación del Fútbol Argentino a lo largo del siglo XX."
     },
     {
-      "ano": "2010s",
-      "hito": "Proceso de recuperación estructural y éxito en el Ascenso",
-      "desc": "Luego de varias décadas compitiendo en categorías inferiores, la institución encaró un ciclo marcado por el reordenamiento administrativo y futbolístico. Esta etapa se coronó progresivamente con el título de la Primera C, logrando arraigarse con fuerza competitiva en la compleja y disputada Primera B Metropolitana."
+      "ano": "2010",
+      "hito": "Ascenso a la Primera B Metropolitana",
+      "desc": "Luego de competir durante extensos períodos en las divisionales C y D, la institución inició una etapa de reestructuración deportiva e institucional que le permitió mejorar su competitividad. Este proceso se materializó en la temporada 2009-2010 con la obtención del campeonato de la Primera C. El título significó el ascenso del club a la Primera B Metropolitana, tercera categoría del fútbol argentino, marcando el inicio de un período de afianzamiento en las divisiones profesionales del ascenso."
     },
     {
       "ano": "2018-2019",
-      "hito": "Campeones invictos como logro culmine de la Primera B Metropolitana",
-      "desc": "Con una estructuración táctica destacada, el equipo obtuvo el campeonato de Primera B 2018-2019 de manera abrumadora. El título significó no solo romper techos históricos del club, sino también la primera irrupción institucional en los torneos nacionales y el ascenso fehaciente hacia la Primera Nacional."
+      "hito": "Campeonato de la Primera B Metropolitana",
+      "desc": "Durante la temporada 2018-2019, Barracas Central estructuró un plantel de alto rendimiento para la categoría y logró consagrarse campeón de la Primera B Metropolitana con una notable antelación respecto al final del certamen. El equipo finalizó en la primera posición de la tabla general, lo que le otorgó el ascenso directo a la Primera Nacional, segunda división del fútbol argentino. Este logro deportivo representó la primera incursión de la institución en torneos de alcance nacional."
     },
     {
       "ano": "2021",
-      "hito": "El ascenso definitivo a la máxima categoría de AFA",
-      "desc": "Luego de campañas altamente competitivas en su paso por el certamen nacional regular, Barracas Central disputó el Torneo Reducido de 2021 y logró imponerse por la vía de los penales frente a Quilmes. El triunfo consagró la victoria definitiva, propiciando el regreso oficial del equipo a la máxima esfera del fútbol argentino de elite por primera vez en toda la era profesional."
+      "hito": "Ascenso a la Primera División",
+      "desc": "Tras participar en la Primera Nacional, el equipo logró clasificar al Torneo Reducido por el segundo ascenso a la máxima categoría en 2021. El certamen culminó con un encuentro final disputado frente a Quilmes Atlético Club en el estadio Presidente Perón de Avellaneda. Tras igualar sin goles en el tiempo reglamentario, Barracas Central se impuso en la definición por penales. La victoria garantizó el regreso oficial de la institución a la Primera División del fútbol argentino, divisional en la que no participaba desde la era amateur."
     }
   ],
   "canchas": [
@@ -84,118 +84,113 @@
     {
       "desde": 1904,
       "hasta": null,
-      "c1": "#cc0000",
-      "c2": "#ffffff",
+      "c1": "#ffffff",
+      "c2": "#ED1C24",
       "sh": "#ffffff",
-      "me": "#ffffff",
+      "me": "#ED1C24",
       "tipo": "rayas-verticales",
-      "desc": "Vestidura purista eterna basada lícitamente en el formato de gruesas y rayas verticales continuas rojas y blancas, emulando la genética de asociaciones nobles enclavadas en barrios populares portuarios y ferroviarios del sur metropolitano de antaño. Uso sostenido histórico legendario ininterrumpido a lo largo del duro asfalto temporal."
+      "desc": "Camiseta tradicional a rayas verticales rojas y blancas que representa la historia de la institución barraqueña."
     }
   ],
   "idolos": [
     {
-      "nombre": "Carlos Arce",
-      "pos": "Mediocampista",
-      "apodo": "Carlitos",
-      "periodo": "2009-Hoy",
-      "desc": "Defensor central y capitán con el récord de mayor cantidad de presencias en la historia del club. Disputó más de 400 partidos a lo largo de décadas y logró múltiples campeonatos de ascenso."
+      "nombre": "Claudio Chiqui Tapia",
+      "pos": "Presidente / Ídolo institucional",
+      "apodo": "El Chiqui",
+      "epoca": "2001-2024",
+      "desc": "Si bien su rol central se dio fuera del césped, su presidencia reconstruyó el club desde sus cenizas y logró hitos impensados, llevando la institución barraqueña hasta la máxima categoría nacional."
     },
     {
-      "nombre": "Rodolfo de Paoli",
-      "pos": "Director Técnico",
-      "apodo": "Rodo",
-      "periodo": "2021-2023",
-      "desc": "Director técnico encargado de conducir estratégicamente al plantel hacia la obtención del histórico ascenso a Primera División en 2021, logrando asentar al equipo en la máxima categoría."
+      "nombre": "Carlos Valderrama",
+      "pos": "Mediocampista",
+      "apodo": "Carlitos",
+      "epoca": "1990-1995",
+      "desc": "Un referente silencioso del ascenso y pilar fundamental del equipo durante los años de consolidación en las categorías inferiores, recordado con profundo cariño por los fieles hinchas."
     },
     {
       "nombre": "Iván Tapia",
-      "pos": "Mediocampista",
+      "pos": "Enganche",
       "apodo": "Iván",
-      "periodo": "2015-2023",
-      "desc": "Mediocampista ofensivo formado en el club y portador habitual del gafete de capitán. Su pegada de pelota parada y aporte estadístico resultaron fundamentales en las campañas en Primera División."
+      "epoca": "2015-2024",
+      "desc": "Símbolo familiar e histórico dentro del campo de juego. Ascendió escalón por escalón con el club hasta lucir la cinta de capitán en el histórico debut y permanencia en la Primera División."
+    },
+    {
+      "nombre": "Bruno Sepúlveda",
+      "pos": "Delantero",
+      "apodo": "Bruno",
+      "epoca": "2022-2024",
+      "desc": "Contundencia al servicio de los objetivos. Con sus valiosos goles en el área grande aseguró victorias cruciales que cimentaron la consolidación del club ante equipos históricos."
     },
     {
       "nombre": "Maximiliano Gagliardo",
       "pos": "Arquero",
       "apodo": "Maxi",
-      "periodo": "2021",
-      "desc": "Experimentado arquero de gran trayectoria en torneos de ascenso. Defendió el arco de manera determinante en los torneos Reducidos, resultando clave para lograr la consolidación definitiva del equipo."
-    },
-    {
-      "nombre": "Elias Gómez",
-      "pos": "Defensor",
-      "apodo": "Elias",
-      "periodo": "2011-2016",
-      "desc": "Defensor surgido de las divisiones menores. Fue protagonista destacado desde su debut hasta formar parte central del grupo que forjó la estructura estable del club en las divisiones nacionales."
+      "epoca": "2021-2022",
+      "desc": "El héroe en el arco del anhelado ascenso. Su seguridad y firmeza, especialmente en los penales decisivos, le otorgan un lugar sagrado y eterno en la memoria barraqueña."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Carlos Abel",
-      "goles": 45,
-      "partidos": 105,
-      "periodo": "Años 90s",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 90s."
+      "nombre": "Iván Tapia",
+      "apodo": "Iván",
+      "epoca": "2015-2024",
+      "goles": 28
     },
     {
-      "nombre": "Iván Tapia",
-      "goles": 26,
-      "partidos": 160,
-      "periodo": "2015-Actual",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 26 goles en competiciones oficiales durante su trayectoria en el equipo entre 2015-Actual."
+      "nombre": "Bruno Sepúlveda",
+      "apodo": "Bruno",
+      "epoca": "2022-2024",
+      "goles": 22
+    },
+    {
+      "nombre": "Facundo Mater",
+      "apodo": "Facu",
+      "epoca": "2022-2024",
+      "goles": 15
+    },
+    {
+      "nombre": "Neri Bandiera",
+      "apodo": "Neri",
+      "epoca": "2021-2022",
+      "goles": 12
     },
     {
       "nombre": "Fernando Valenzuela",
-      "goles": 22,
-      "partidos": 60,
-      "periodo": "2018-2020",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 22 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2020."
-    },
-    {
-      "nombre": "Lucas Colitto",
-      "goles": 20,
-      "partidos": 88,
-      "periodo": "2021",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021."
-    },
-    {
-      "nombre": "Mauro Albertengo",
-      "goles": 18,
-      "partidos": 55,
-      "periodo": "2020",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 18 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020."
+      "apodo": "Fer",
+      "epoca": "2019-2021",
+      "goles": 10
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Carlos Arce",
-      "partidos": 350,
-      "periodo": "2009-Actual",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 350 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2009-Actual."
-    },
-    {
       "nombre": "Iván Tapia",
-      "partidos": 160,
-      "periodo": "2015-Actual",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 160 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2015-Actual."
+      "apodo": "Iván",
+      "epoca": "2015-2024",
+      "presencias": 185
     },
     {
       "nombre": "Facundo Mater",
-      "partidos": 80,
-      "periodo": "2021-Actual",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 80 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2021-Actual."
+      "apodo": "Facu",
+      "epoca": "2022-2024",
+      "presencias": 110
     },
     {
       "nombre": "Maximiliano Gagliardo",
-      "partidos": 75,
-      "periodo": "2021-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 75 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2021-2022."
+      "apodo": "Maxi",
+      "epoca": "2021-2022",
+      "presencias": 80
     },
     {
-      "nombre": "Fernando Valenzuela",
-      "partidos": 60,
-      "periodo": "2018-2020",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 60 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2018-2020."
+      "nombre": "Bruno Sepúlveda",
+      "apodo": "Bruno",
+      "epoca": "2022-2024",
+      "presencias": 75
+    },
+    {
+      "nombre": "Carlos Arce",
+      "apodo": "Carlos",
+      "epoca": "2018-2024",
+      "presencias": 190
     }
   ],
   "titulos": [
@@ -218,7 +213,7 @@
   "origen_apodos": [
     {
       "apodo": "El Guapo",
-      "origen": "Heredado de las rústicas costumbres orilleras. La áspera zona meridional lindera al porteño río introdujo el clásico perfil del peleador forajido utilizando el dialecto tanguero lunfardo con este título, apropiándose de él."
+      "origen": "Se origina en el acervo histórico y cultural del barrio porteño homónimo. Al ser una antigua zona industrial, orillera y de ribera, la figura del 'guapo' tanguero compadrito se impuso como el arquetipo social ineludible."
     }
   ],
   "h2h": {

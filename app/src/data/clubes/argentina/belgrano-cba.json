@@ -47,18 +47,28 @@
   "historia": [
     {
       "ano": "1905",
-      "hito": "Fundación en el Barrio Alberdi",
-      "desc": "El 19 de marzo de 1905, bajo un ombú ubicado en el barrio popular de Alberdi, Arturo Orgaz fundó el Club Atlético Belgrano junto a un grupo de catorce adolescentes. El nombre fue elegido en homenaje al creador de la bandera nacional y los fundadores adoptaron el color celeste de la insignia nacional por cuestiones de economía para costear las telas de los primeros uniformes."
+      "hito": "Fundación institucional",
+      "desc": "El 19 de marzo de 1905, bajo la sombra de un histórico árbol ubicado en el barrio de Alberdi, el dirigente Arturo Orgaz lideró una asamblea junto a un grupo de jóvenes para oficializar la creación del Club Atlético Belgrano. La denominación fue escogida en homenaje a Manuel Belgrano, prócer nacional, mientras que la elección de los colores celeste y blanco para su indumentaria se basó en el pabellón argentino. Con el paso de los años, el club forjó una fuerte identidad vinculada al desarrollo social y cultural del mencionado barrio cordobés."
     },
     {
       "ano": "1968",
-      "hito": "Debut en el Torneo Nacional",
-      "desc": "Belgrano se convirtió en el primer equipo de la provincia de Córdoba en lograr clasificar al Torneo Nacional de Primera División organizado por la AFA en 1968. Esta participación marcó un antecedente federativo clave, abriendo la competencia de los certámenes metropolitanos hacia los representativos del interior del país."
+      "hito": "Participación en los Torneos Nacionales",
+      "desc": "Luego de destacarse en los certámenes de la Liga Cordobesa de Fútbol, la institución logró la clasificación al Torneo Nacional de 1968, organizado por la Asociación del Fútbol Argentino. Este acontecimiento convirtió a Belgrano en el primer equipo de la provincia de Córdoba en participar de los torneos regulares de Primera División a nivel nacional. La incursión marcó el comienzo de la progresiva integración de los equipos del interior del país en las máximas competencias del fútbol profesional argentino."
+    },
+    {
+      "ano": "1986",
+      "hito": "Obtención del Torneo Regional",
+      "desc": "Durante la restructuración del fútbol de ascenso llevada a cabo en 1986, Belgrano disputó el Torneo Regional, certamen que otorgaba plazas para la recientemente creada categoría Primera B Nacional. El equipo logró consagrarse campeón invicto del torneo en el ámbito de la provincia de Córdoba, superando a diversos rivales regionales. Este título le permitió a la institución incorporarse como uno de los clubes fundadores de la segunda división del fútbol argentino, estableciéndose definitivamente en la estructura nacional de competiciones."
     },
     {
       "ano": "2011",
-      "hito": "Ascenso frente a River Plate en el Estadio Monumental",
-      "desc": "Bajo la conducción técnica de Ricardo Zielinski, el club protagonizó el hito más recordado de su historia reciente al disputar la serie de Promoción. Tras vencer 2-0 en Córdoba, Belgrano selló su ascenso a Primera División el 26 de junio de 2011 luego de un empate 1-1 como visitante, consumando el descenso de uno de los equipos más tradicionales del país."
+      "hito": "Ascenso a la máxima categoría",
+      "desc": "En la temporada 2010-2011, tras finalizar en las primeras posiciones del campeonato de la Primera B Nacional, el plantel dirigido por Ricardo Zielinski accedió a disputar la instancia de Promoción por el ascenso frente a River Plate. El 26 de junio de 2011, luego de haber vencido por 2-0 en el encuentro de ida disputado en la ciudad de Córdoba, Belgrano logró un empate 1-1 en condición de visitante en el Estadio Monumental. El resultado global determinó el regreso definitivo de la institución a la Primera División del fútbol argentino."
+    },
+    {
+      "ano": "2022",
+      "hito": "Campeonato de la Primera Nacional",
+      "desc": "Luego de haber perdido la categoría en 2019, la institución logró reorganizarse deportivamente bajo la conducción técnica de Guillermo Farré. En la temporada 2022 de la Primera Nacional, el equipo demostró un rendimiento sostenido que le permitió liderar el campeonato desde las primeras jornadas. El club obtuvo el campeonato tras vencer a Brown de Adrogué en condición de visitante, asegurando el título y el ascenso directo a la Primera División estableciendo nuevos récords de puntos y asistencia de espectadores para la categoría."
     }
   ],
   "canchas": [
@@ -111,118 +121,113 @@
     {
       "desde": 1905,
       "hasta": null,
-      "c1": "#6CABDD",
-      "c2": "#6CABDD",
+      "c1": "#87CEEB",
+      "c2": "#87CEEB",
       "sh": "#111111",
-      "me": "#6CABDD",
+      "me": "#87CEEB",
       "tipo": "liso",
-      "desc": "Manto liso profundo. Inspirado formal, rigurosa y majestuosamente en el color celeste estricto crudo extraído de una arcaica bandera poética nacional para cubrir estatuida a la escuadra pirata originada rebelde barrial en la legendaria mítica Alberdi a telar monocromático."
+      "desc": "Camiseta celeste pálido liso adoptada en honor a los colores patrios y al General Manuel Belgrano, forjando el apodo del club."
     }
   ],
   "idolos": [
     {
-      "nombre": "Luis Fabián Artime",
-      "pos": "Centrodelantero",
-      "apodo": "Luifa",
-      "periodo": "1992-1993, 1994-1999, 2000-2001",
-      "desc": "Máximo goleador en la historia del club en torneos de AFA. Lideró el ascenso a Primera División en 1991 como jugador y, décadas más tarde, asumió el cargo de presidente de la institución."
-    },
-    {
-      "nombre": "Julio César Villagra",
-      "pos": "Enganche",
-      "apodo": "La Chacha",
-      "periodo": "1982-1991",
-      "desc": "Mediocampista ofensivo clave durante las décadas de 1980 y 1990. Su importancia histórica en el club es tal que el estadio de Belgrano, El Gigante de Alberdi, fue bautizado oficialmente con su nombre."
-    },
-    {
-      "nombre": "Rodrigo Bueno",
-      "pos": "Hincha Emblema / Institucional",
-      "apodo": "El Potro",
-      "periodo": "Ad-eternum",
-      "desc": "El más popular representante cultural de la institución. Si bien no fue deportista, el reconocido músico forjó una profunda identificación pública que masificó los colores del club a nivel nacional."
-    },
-    {
-      "nombre": "Guillermo Farré",
-      "pos": "Mediocampista",
-      "apodo": "Guille",
-      "periodo": "2007-2017",
-      "desc": "Mediocampista de larga trayectoria en el club. Fue el autor del gol definitivo en el Estadio Monumental que sentenció la serie de promoción de 2011 y logró el histórico ascenso frente a River Plate."
+      "nombre": "Luis Artime",
+      "pos": "Delantero",
+      "apodo": "El Luifa",
+      "epoca": "1992-2005",
+      "desc": "Máximo goleador absoluto e ícono de la garra pirata. Sus incontables goles, temperamento y liderazgo en el histórico ascenso del año 1998 lo convirtieron en la deidad máxima de Barrio Alberdi."
     },
     {
       "nombre": "Juan Carlos Olave",
       "pos": "Arquero",
       "apodo": "Juanca",
-      "periodo": "2001-2002, 2007-2016",
-      "desc": "Arquero que posee el récord de mayor cantidad de presencias con la camiseta de Belgrano. Fue una de las figuras principales en la histórica campaña de ascenso de 2011 tras atajar un penal vital."
+      "epoca": "2001-2016",
+      "desc": "Símbolo de rebeldía, pasión y lealtad. Guardián del arco en el histórico e inolvidable ascenso ante River Plate en 2011. Ostenta el récord de mayor cantidad de presencias bajo los tres palos celestes."
+    },
+    {
+      "nombre": "Guillermo Farré",
+      "pos": "Mediocampista",
+      "apodo": "El Guille",
+      "epoca": "2007-2017",
+      "desc": "Motor incansable en la mitad de cancha. Autor del gol más trascendental en la historia del club en el Estadio Monumental ante River Plate (2011), sentenciando el ascenso y el descenso del rival."
+    },
+    {
+      "nombre": "Julio César Villagra",
+      "pos": "Enganche",
+      "apodo": "La Chacha",
+      "epoca": "1982-1993",
+      "desc": "Talento puro, impredecible y mágico. Ídolo trágico cuya habilidad enamoró a toda una generación de hinchas piratas. En su homenaje, el mítico estadio del club fue renombrado con su nombre."
+    },
+    {
+      "nombre": "Franco Vázquez",
+      "pos": "Enganche",
+      "apodo": "El Mudo",
+      "epoca": "2007-2011",
+      "desc": "Elegancia y creatividad al servicio del equipo. Fue la usina generadora de fútbol en la histórica gesta de 2011, deslumbrando con pases filtrados y una categoría que rápidamente lo catapultó hacia Europa."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Luis Fabián Artime",
-      "goles": 94,
-      "partidos": 315,
-      "periodo": "1992-2001",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 94 goles en competiciones oficiales durante su trayectoria en el equipo entre 1992-2001."
-    },
-    {
-      "nombre": "Pablo Vegetti",
-      "goles": 63,
-      "partidos": 122,
-      "periodo": "2019-2023",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 63 goles en competiciones oficiales durante su trayectoria en el equipo entre 2019-2023."
-    },
-    {
-      "nombre": "César Pereyra",
-      "goles": 53,
-      "partidos": 169,
-      "periodo": "2010-2015",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 53 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2015."
-    },
-    {
-      "nombre": "Matías Suárez",
-      "goles": 27,
-      "partidos": 128,
-      "periodo": "2006-2018",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 27 goles en competiciones oficiales durante su trayectoria en el equipo entre 2006-2018."
+      "nombre": "Luis Artime",
+      "apodo": "El Luifa",
+      "epoca": "1992-2005",
+      "goles": 94
     },
     {
       "nombre": "Julio César Villagra",
-      "goles": 25,
-      "partidos": 110,
-      "periodo": "1982-1991",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 1982-1991."
+      "apodo": "La Chacha",
+      "epoca": "1982-1993",
+      "goles": 68
+    },
+    {
+      "nombre": "Carlos Guerini",
+      "apodo": "Chupete",
+      "epoca": "1970-1972",
+      "goles": 55
+    },
+    {
+      "nombre": "César Pereyra",
+      "apodo": "El Picante",
+      "epoca": "2009-2014",
+      "goles": 54
+    },
+    {
+      "nombre": "José Luis Villarreal",
+      "apodo": "Villita",
+      "epoca": "1980-1986",
+      "goles": 40
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Juan Carlos Olave",
-      "partidos": 382,
-      "periodo": "2001-2016",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 382 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2001-2016."
+      "apodo": "Juanca",
+      "epoca": "2001-2016",
+      "presencias": 382
     },
     {
       "nombre": "Guillermo Farré",
-      "partidos": 327,
-      "periodo": "2007-2017",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 327 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2017."
+      "apodo": "El Guille",
+      "epoca": "2007-2017",
+      "presencias": 327
     },
     {
-      "nombre": "Luis Fabián Artime",
-      "partidos": 315,
-      "periodo": "1992-2001",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 315 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1992-2001."
+      "nombre": "Luis Artime",
+      "apodo": "El Luifa",
+      "epoca": "1992-2005",
+      "presencias": 302
     },
     {
       "nombre": "Gastón Turus",
-      "partidos": 295,
-      "periodo": "2000-2015",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 295 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2000-2015."
+      "apodo": "El Gato",
+      "epoca": "2000-2015",
+      "presencias": 295
     },
     {
-      "nombre": "César Mansanelli",
-      "partidos": 269,
-      "periodo": "2005-2015",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 269 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2005-2015."
+      "nombre": "Juan Carlos Quiroga",
+      "apodo": "El Mono",
+      "epoca": "1982-1990",
+      "presencias": 280
     }
   ],
   "titulos": [
@@ -298,8 +303,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "El Pirata",
-      "origen": "Bautizado alrededor de la compleja temporada histórica disputada a nivel regional durante 1968. Sectores radicales de aficionado seguían a las formaciones en grandes caravanas para disputar campeonatos del interior de la provincia transitando poblados rurales de menor tamaño por las rutas. Aquellas facciones incitaron actos delictivos robando y saqueando cantinas como asaltantes descontrolados, asolando los sumarios policiales con denuncias de piratería urbana que quedaron encasilladas para caracterizar perpetuamente a la afición del club."
+      "apodo": "Los Piratas",
+      "origen": "Otorgado a fines de los años 60 por la prensa local como crítica al comportamiento de la hinchada, la cual frecuentaba asaltos y alteraciones de orden en localidades vecinas. Fue asimilado e institucionalizado como emblema gráfico de la hinchada."
     }
   ]
 }

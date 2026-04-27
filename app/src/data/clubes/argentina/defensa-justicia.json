@@ -49,18 +49,28 @@
   "historia": [
     {
       "ano": "1935",
-      "hito": "Comité fundante en Florencio Varela",
-      "desc": "Las bases societarias gremiales y puramente vecinales que residían en el conurbano de Buenos Aires fijaron su firma a nivel formal redactando el acta y los estatutos el 20 de marzo de 1935. Nacida en primera instancia la institución como un punto de bienestar barrial para la organización social conurbana, las actividades netamente representativas futboleras adoptaron su carácter formal y el posterior e histórico mote logístico transportista de 'El Halcón'."
+      "hito": "Fundación institucional",
+      "desc": "El 20 de marzo de 1935, un grupo de vecinos y comerciantes de la localidad de Florencio Varela labró el acta fundacional del Club Social y Deportivo Defensa y Justicia. En sus primeros años, la entidad funcionó como un espacio orientado a actividades sociales y recreativas para la comunidad de la zona sur del Gran Buenos Aires. El desarrollo de la disciplina futbolística se inició de forma amateur, utilizando indumentaria de color azul y blanco y compitiendo exclusivamente en campeonatos regionales no federados."
+    },
+    {
+      "ano": "1978",
+      "hito": "Afiliación a la AFA y adopción de colores definitivos",
+      "desc": "Tras décadas de actividad regional, el club fue aceptado como miembro afiliado de la Asociación del Fútbol Argentino el 20 de diciembre de 1977. Este acontecimiento le permitió debutar oficialmente en el Campeonato de Primera D de 1978. Durante este período fundacional del profesionalismo, la institución entabló un acuerdo de patrocinio con la línea de transporte de pasajeros 'El Halcón'. Como resultado de esta vinculación, Defensa y Justicia modificó los colores de su indumentaria adoptando definitivamente el verde y el amarillo, y asimiló el apodo derivado de dicha empresa."
+    },
+    {
+      "ano": "1997",
+      "hito": "Consolidación en el ascenso nacional",
+      "desc": "Luego de un progresivo ascenso deportivo a lo largo de las décadas de 1980 y 1990 transitando por las divisiones D, C y B Metropolitana, la institución obtuvo el campeonato de Primera B en la temporada 1996-1997. El logro le garantizó el ascenso a la Primera B Nacional, la segunda categoría del fútbol argentino. La llegada a esta divisional representó el primer salto significativo del club a nivel competitivo, iniciando una etapa de 17 años de participación regular en torneos de alcance federal."
     },
     {
       "ano": "2014",
-      "hito": "El debut ineludible logrado en la máxima Primera División",
-      "desc": "Luego de transitar ininterrumpida y agónicamente a partir de las franjas extremas inferiores de las limitadas divisiones 'D' y 'C' del campeonato desde fines del setenta, el conjunto consumó finalmente el ansiado ascenso oficial por mandato directo bajo estructura intensa de su entrenador táctico general de pautas agresivas y proyecciones de campo organizadas por Diego Cocca consolidando participar a mayo de 2014 históricamente en Primera División."
+      "hito": "Ascenso a la Primera División",
+      "desc": "En el marco de la temporada 2013-2014 de la Primera B Nacional, el equipo dirigido por el entrenador Diego Cocca logró el primer ascenso de su historia a la máxima categoría del fútbol profesional argentino. Basado en un estilo de juego organizado y de marcada tendencia ofensiva, Defensa y Justicia finalizó el torneo en la segunda posición de la tabla general, lo que le permitió asegurar matemáticamente su promoción con antelación y radicar su nombre de manera definitiva en la Primera División."
     },
     {
       "ano": "2020",
-      "hito": "La definitiva Copa Sudamericana en la neutralidad",
-      "desc": "Excediendo rotundamente métricas acotadas asociadas a planteles modestos sudamericanos, el estilo y propuesta arriesgada asfixiante desplegada ofensivamente por Hernán Crespo posibilitó conquistar internacionalmente la edición aplazada por pandemia referencial del Torneo de Conmebol rompiendo lógicas tácticas previas. Defensa y Justicia impuso total jerarquía derrotando con amplitud oficial reglamentaria general de un holgado y justificado 3-0 frente al consolidado cuadro vecino de Lanús alzando el máximo podio trofeo internacional."
+      "hito": "Obtención de la Copa Sudamericana",
+      "desc": "Durante el año 2020, bajo la conducción técnica de Hernán Crespo, el club protagonizó su campaña internacional más destacada al participar en la Copa Sudamericana. El equipo desplegó un funcionamiento táctico caracterizado por la posesión y agresividad ofensiva, superando de manera invicta las etapas de eliminación directa. El 23 de enero de 2021, en la final disputada en el estadio Mario Alberto Kempes de la ciudad de Córdoba, Defensa y Justicia derrotó a Lanús por 3-0 y se coronó campeón, obteniendo el primer título internacional de su historia."
     }
   ],
   "canchas": [
@@ -112,107 +122,102 @@
   "idolos": [
     {
       "nombre": "Hernán Crespo",
-      "pos": "Director Técnico",
+      "pos": "Entrenador",
       "apodo": "Valdanito",
-      "periodo": "2020-2021",
-      "desc": "Histórico exdelantero que consolidó su prestigio como director técnico al conducir a la institución a la conquista de su primer título internacional: la Copa Sudamericana en la temporada 2020."
+      "epoca": "2020-2021",
+      "desc": "Mente táctica del mayor hito histórico del club de Florencio Varela. Conquistó la Copa Sudamericana 2020 con un fútbol ofensivo y dinámico, situando a Defensa en el mapa glorioso del continente."
     },
     {
       "nombre": "Braian Romero",
       "pos": "Delantero",
       "apodo": "Braian",
-      "periodo": "2020-2021",
-      "desc": "Atacante decisivo que se consagró como el máximo goleador y figura central de la histórica campaña del equipo para obtener la Copa Sudamericana 2020 disputada en la ciudad de Córdoba."
+      "epoca": "2020-2021",
+      "desc": "Goleador implacable y figura excluyente de la Copa Sudamericana. Anotó en la gran final y registró una marca goleadora asombrosa que grabó su nombre en fuego en la historia de 'El Halcón'."
     },
     {
       "nombre": "Sebastián Beccacece",
-      "pos": "Director Técnico",
-      "apodo": "Becca",
-      "periodo": "2016-2017, 2018-2019, 2021-2022",
-      "desc": "Entrenador fundamental en la consolidación contemporánea del equipo. Estableció un estilo de juego ofensivo y posicional que resultó en un subcampeonato de la Primera División argentina."
-    },
-    {
-      "nombre": "Enrique Triverio",
-      "pos": "Delantero",
-      "apodo": "Kike",
-      "periodo": "2014-2015",
-      "desc": "Delantero de área y potencia que fue el goleador titular durante las primeras y exitosas campañas iniciales de la institución tras su histórico ascenso a la máxima categoría."
+      "pos": "Entrenador",
+      "apodo": "Seba",
+      "epoca": "2018-2022",
+      "desc": "Artífice del subcampeonato nacional de 2019 y campeón de la Recopa Sudamericana 2021. Forjó la identidad de juego audaz que caracteriza a la institución frente a los equipos más poderosos."
     },
     {
       "nombre": "Ezequiel Unsain",
       "pos": "Arquero",
-      "apodo": "Eze",
-      "periodo": "2017-2023",
-      "desc": "Arquero de grandes reflejos y capitán del ciclo más exitoso en la historia del club. Levantó la Copa Sudamericana en calidad de referente portando la cinta en el logro internacional en el año 2020."
+      "apodo": "El Capi",
+      "epoca": "2017-2023",
+      "desc": "Capitán silencioso, líder humano y guardián inquebrantable. Levantó los títulos internacionales históricos del club y marcó una era dorada con atajadas memorables en instancias decisivas."
+    },
+    {
+      "nombre": "Lisandro Martínez",
+      "pos": "Defensor",
+      "apodo": "Licha",
+      "epoca": "2017-2019",
+      "desc": "Forjado en las exigencias del club, su salida pulcra y fiereza defensiva representaron el ideal futbolístico de Defensa antes de su exitoso salto a Europa y la consagración como campeón del mundo."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Juan Martín Lucero",
-      "goles": 59,
-      "partidos": 105,
-      "periodo": "2010-2014",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 59 goles en competiciones oficiales durante su trayectoria en el equipo entre 2010-2014."
+      "apodo": "El Gato",
+      "epoca": "2010-2014",
+      "goles": 42
     },
     {
       "nombre": "Nicolás Fernández",
-      "goles": 54,
-      "partidos": 115,
-      "periodo": "2017-2024",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 54 goles en competiciones oficiales durante su trayectoria en el equipo entre 2017-2024."
+      "apodo": "Uvita",
+      "epoca": "2014-2023",
+      "goles": 38
     },
     {
       "nombre": "Braian Romero",
-      "goles": 21,
-      "partidos": 33,
-      "periodo": "2020-2021",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 21 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2021."
-    },
-    {
-      "nombre": "Walter Bou",
-      "goles": 20,
-      "partidos": 52,
-      "periodo": "2021-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 20 goles en competiciones oficiales durante su trayectoria en el equipo entre 2021-2022."
+      "apodo": "Braian",
+      "epoca": "2020-2021",
+      "goles": 21
     },
     {
       "nombre": "Miguel Merentiel",
-      "goles": 19,
-      "partidos": 55,
-      "periodo": "2020-2022",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 19 goles en competiciones oficiales durante su trayectoria en el equipo entre 2020-2022."
+      "apodo": "La Bestia",
+      "epoca": "2020-2022",
+      "goles": 20
+    },
+    {
+      "nombre": "Walter Bou",
+      "apodo": "La Panterita",
+      "epoca": "2020-2021",
+      "goles": 18
     }
   ],
   "presencias_historicas": [
     {
       "nombre": "Ezequiel Unsain",
-      "partidos": 228,
-      "periodo": "2017-2023",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 228 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2017-2023."
+      "apodo": "El Capi",
+      "epoca": "2017-2023",
+      "presencias": 221
+    },
+    {
+      "nombre": "Julio César Falcioni",
+      "apodo": "El Emperador",
+      "epoca": "1980-1981",
+      "presencias": 120
     },
     {
       "nombre": "Ciro Rius",
-      "partidos": 153,
-      "periodo": "2014-2021",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 153 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2014-2021."
+      "apodo": "Ciro",
+      "epoca": "2014-2021",
+      "presencias": 115
     },
     {
-      "nombre": "Tomás Cardona",
-      "partidos": 128,
-      "periodo": "2016-2023",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 128 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2016-2023."
+      "nombre": "Alexander Barboza",
+      "apodo": "Alexander",
+      "epoca": "2016-2019",
+      "presencias": 105
     },
     {
       "nombre": "Adonis Frías",
-      "partidos": 121,
-      "periodo": "2019-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 121 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2019-2022."
-    },
-    {
-      "nombre": "Gabriel Hachen",
-      "partidos": 115,
-      "periodo": "2020-2022",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 115 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2020-2022."
+      "apodo": "Adonis",
+      "epoca": "2018-2022",
+      "presencias": 98
     }
   ],
   "titulos": [
@@ -243,7 +248,7 @@
   "origen_apodos": [
     {
       "apodo": "El Halcón",
-      "origen": "Reemplazado oficialmente como nuevo emblema al inicio de la era moderna deportiva en el barrio de Florencio Varela. Durante los ochentas, la firma transportista de colectivos El Halcón sponsoreó a sus camisetas cediendo colores y distintivo."
+      "origen": "Se estableció a comienzos de 1982, año en el que la empresa de transporte público de pasajeros 'El Halcón' invirtió en la institución, modificando los colores oficiales al amarillo y verde y aportando el ave como símbolo central."
     }
   ]
 }

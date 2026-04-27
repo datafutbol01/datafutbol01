@@ -77,18 +77,28 @@
   "historia": [
     {
       "ano": "1905",
-      "hito": "Origen fundacional gracias al hipódromo",
-      "desc": "Un grupo de adolescentes conformados principalmente por vecinos de la Avenida Callao fundó el 25 de mayo de 1905 el Club Atlético Platense. La financiación para sostener la inscripción y la modesta indumentaria blanca inaugural surgió íntegramente gracias a las inesperadas ganancias producidas por una afortunada apuesta de dinero colocada en las carreras hípicas al ejemplar equino perteneciente al Stud Platense, de donde tomarían el nombre."
+      "hito": "Fundación institucional",
+      "desc": "El 25 de mayo de 1905, un grupo de jóvenes afincados en las inmediaciones del barrio de Recoleta conformó oficialmente el Club Atlético Platense. Según los registros históricos, la recaudación inicial necesaria para la adquisición de la primera indumentaria y los gastos de inscripción institucional provino de una apuesta hípica ganadora realizada sobre un caballo del stud denominado 'Platense', del cual el club adoptó su nombre definitivo. Posteriormente, la entidad estableció sus primeras locaciones deportivas en la zona norte de la Ciudad de Buenos Aires."
     },
     {
-      "ano": "1980",
-      "hito": "Década de consolidación ininterrumpida",
-      "desc": "Caracterizado históricamente por lidiar constantemente con la permanencia en torneos peleados, Platense forjó en la década de 1980 su período de mayor estabilidad. Destacó a lo largo de varias temporadas gracias a la eficiencia ordenadora de su defensa y a conformar en sus alineaciones y formativas a talentos singulares del ataque, brindando plataforma generacional a jugadores de extrema jerarquía y precisión técnica."
+      "ano": "1912",
+      "hito": "Ascenso a la Primera División Amateur",
+      "desc": "Durante sus primeros años de existencia, el club se afilió a las competiciones oficiales y comenzó a escalar divisiones. En 1912, Platense fue uno de los equipos promovidos a la Primera División de la Asociación Argentina de Football tras una reestructuración de los campeonatos provocada por la escisión de varias entidades. A partir de ese ascenso, la institución se consolidó rápidamente en la máxima categoría del fútbol amateur, logrando conformar planteles competitivos y estableciendo una permanente presencia en la división superior."
+    },
+    {
+      "ano": "1976",
+      "hito": "Obtención del Campeonato de Primera B",
+      "desc": "Luego de sufrir el descenso de categoría en la década de 1950 y atravesar un extenso período participando en la segunda división, el club logró su retorno a la máxima categoría del fútbol argentino en 1976. El plantel profesional completó una destacada campaña a lo largo del certamen, logrando adjudicarse el torneo de Primera B tras superar a Almagro, Lanús y Los Andes en un cuadrangular final, lo que determinó el ascenso directo a la Primera División de la AFA tras 21 años de ausencia."
+    },
+    {
+      "ano": "1980-1999",
+      "hito": "Consolidación en la Primera División",
+      "desc": "A partir de su retorno a la máxima categoría, Platense experimentó su etapa de mayor permanencia ininterrumpida en la Primera División del fútbol argentino, sosteniéndose en la elite durante 23 temporadas consecutivas. A lo largo de las décadas de 1980 y 1990, el club se destacó por formar equipos regulares y evitar los descensos mediante definiciones ajustadas en las últimas jornadas. En este período, la institución desarrolló además su infraestructura deportiva definitiva con la construcción del Estadio Ciudad de Vicente López."
     },
     {
       "ano": "2021",
-      "hito": "Retorno a Primera División",
-      "desc": "El club transitó de manera irregular torneos de segunda y tercera categoría desde 1999 hasta concretar definitivamente su resurrección el último día del mes de enero de 2021. Devolvéndolos a Primera tras 22 temporadas de ausencia, el elenco comandado por el entrenador Juan Manuel Llop consiguió un ajustado triunfo mediante desempate por penales frente a Estudiantes de Río Cuarto."
+      "hito": "Retorno a Primera tras más de dos décadas",
+      "desc": "Tras descender en el año 1999 y atravesar una prolongada ausencia de 22 años disputando campeonatos de la segunda y tercera división (Primera B Nacional y Primera B Metropolitana), la institución logró su anhelado retorno a la máxima categoría. El 31 de enero de 2021, bajo la dirección técnica de Juan Manuel Llop, Platense superó a Estudiantes de Río Cuarto mediante la ejecución de tiros desde el punto penal en la final del Torneo Reducido, asegurando su regreso oficial a la Primera División del fútbol argentino."
     }
   ],
   "canchas": [
@@ -139,108 +149,103 @@
   ],
   "idolos": [
     {
-      "nombre": "Goyeneche",
-      "pos": "Hincha Emblema / Institucional",
-      "apodo": "El Polaco",
-      "periodo": "Ad-eternum",
-      "desc": "Conocido popular y nacionalmente como uno de los máximos exponentes de la historia tanguera del país. Su devoto y constante apoyo hizo que su nombre y figura se asimilaran profundamente como parte intrínseca de la identidad general de la institución."
+      "nombre": "Julio Cozzi",
+      "pos": "Arquero",
+      "apodo": "El Arquero del Siglo",
+      "epoca": "1941-1950",
+      "desc": "Una muralla mítica y pionero bajo los tres palos en el fútbol sudamericano. Su seguridad y ubicación marcaron una época irrepetible en Vicente López, transformándolo en un símbolo nacional."
+    },
+    {
+      "nombre": "David Trezeguet",
+      "pos": "Delantero",
+      "apodo": "El Rey David",
+      "epoca": "1994-1995",
+      "desc": "Surgido de la cantera 'Calamar', emigró velozmente a Europa donde se coronaría campeón del mundo con Francia. Su debut en Platense es recordado como el inicio de una de las leyendas internacionales más formidables."
     },
     {
       "nombre": "Gonzalo Bergessio",
       "pos": "Delantero",
       "apodo": "Lavandina",
-      "periodo": "2001-2006, 2022",
-      "desc": "Robusto delantero con destacada potencia física. Durante el inicio de su extensa trayectoria, irrumpió con fuerza letal en el primer equipo evidenciando su notoria capacidad anotadora frente a las fuertes defensas del torneo de ascenso."
+      "epoca": "2001-2005",
+      "desc": "Corazón, garra y goles fundamentales en tiempos difíciles. Formado en la institución, se consolidó como ídolo contemporáneo antes de triunfar en el país y en Europa, regresando siempre al afecto del club."
     },
     {
-      "nombre": "David Trezeguet",
+      "nombre": "Alejandro Alfaro Moreno",
       "pos": "Delantero",
-      "apodo": "El Rey",
-      "periodo": "1994-1995",
-      "desc": "Destacado atacante franco-argentino y campeón mundial internacional, nacido profesionalmente de las entrañas formativas del club, donde tuvo sus primeros roces de primera división en 1994 previo a su fulgurante carrera europea."
-    },
-    {
-      "nombre": "Claudio Spontón",
-      "pos": "Extremo / Director Técnico",
-      "apodo": "El Ruso",
-      "periodo": "1987-1991, 1994-1995, Múltiples Ciclos",
-      "desc": "Rápido atacante y protagonista destacado de la estructura principal de la Primera División a lo largo de diversas etapas de la década de 1990. Su arraigo a los colores lo mantuvo vigente permanentemente como valioso delantero e ícono local."
+      "apodo": "El Beto",
+      "epoca": "1983-1988",
+      "desc": "Rápido, habilidoso y letal. Sus actuaciones brillantes lo catapultaron a ser elegido el mejor jugador del fútbol argentino en los ochenta mientras vestía con honor la camiseta blanca y marrón."
     },
     {
       "nombre": "Mauricio Hanuch",
-      "pos": "Mediocampista",
+      "pos": "Enganche",
       "apodo": "El Turco",
-      "periodo": "1993-1998",
-      "desc": "Mediocampista dinámico volcado al ataque y reconocido por su regate explosivo en la zona de tres cuartos. Quedó grabado en la gran memoria tras estelarizar un ineludible encuentro goleando contundentemente a Boca Juniors en 1998."
+      "epoca": "1993-1998",
+      "desc": "Inmortalizado en el panteón por su legendario doblete ante Boca Juniors en 1998 para humillar al poderoso equipo xeneize en La Bombonera. Enganche creativo, habilidoso y de corazón 'Calamar'."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Daniel Vega",
-      "goles": 86,
-      "partidos": 243,
-      "periodo": "Era Moderna",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 86 goles en competiciones oficiales durante su trayectoria en el equipo entre Era Moderna."
-    },
-    {
       "nombre": "Vicente Sayago",
-      "goles": 75,
-      "partidos": 206,
-      "periodo": "1948-1956",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 75 goles en competiciones oficiales durante su trayectoria en el equipo entre 1948-1956."
+      "apodo": "El Vicente",
+      "epoca": "1948-1956",
+      "goles": 75
     },
     {
-      "nombre": "Tomás Campilongo",
-      "goles": 66,
-      "partidos": 169,
-      "periodo": "1939-1946",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 66 goles en competiciones oficiales durante su trayectoria en el equipo entre 1939-1946."
+      "nombre": "Alejandro Alfaro Moreno",
+      "apodo": "El Beto",
+      "epoca": "1983-1988",
+      "goles": 62
     },
     {
-      "nombre": "Marcelo Espina",
-      "goles": 45,
-      "partidos": 160,
-      "periodo": "1983-1994",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 1983-1994."
+      "nombre": "Carlos Bulla",
+      "apodo": "Carlos",
+      "epoca": "1966-1970",
+      "goles": 50
     },
     {
-      "nombre": "Claudio Spontón",
-      "goles": 40,
-      "partidos": 150,
-      "periodo": "1990s",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 40 goles en competiciones oficiales durante su trayectoria en el equipo entre 1990s."
+      "nombre": "Daniel Cravero",
+      "apodo": "Daniel",
+      "epoca": "1990-1995",
+      "goles": 45
+    },
+    {
+      "nombre": "Gonzalo Bergessio",
+      "apodo": "Lavandina",
+      "epoca": "2001-2005",
+      "goles": 38
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Enrique Topini",
-      "partidos": 324,
-      "periodo": "1960-1970",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 324 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1960-1970."
+      "nombre": "Carlos Biasutto",
+      "apodo": "Biasutto",
+      "epoca": "1970-1980",
+      "presencias": 252
     },
     {
-      "nombre": "Juan C. Pizutti",
-      "partidos": 286,
-      "periodo": "1940-1950",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 286 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1940-1950."
+      "nombre": "Alejandro Alfaro Moreno",
+      "apodo": "El Beto",
+      "epoca": "1983-1988",
+      "presencias": 182
     },
     {
-      "nombre": "Carlos Bulla",
-      "partidos": 250,
-      "periodo": "Años 70",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 250 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 70."
+      "nombre": "Mauricio Hanuch",
+      "apodo": "El Turco",
+      "epoca": "1993-1998",
+      "presencias": 160
     },
     {
-      "nombre": "Daniel Vega",
-      "partidos": 243,
-      "periodo": "Era Moderna",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 243 partidos disputados, manteniendo presencia oficial ininterrumpida entre Era Moderna."
+      "nombre": "Vicente Sayago",
+      "apodo": "El Vicente",
+      "epoca": "1948-1956",
+      "presencias": 145
     },
     {
-      "nombre": "Sergio Zanetti",
-      "partidos": 235,
-      "periodo": "1990-2000",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 235 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1990-2000."
+      "nombre": "Gonzalo Bergessio",
+      "apodo": "Lavandina",
+      "epoca": "2001-2005",
+      "presencias": 105
     }
   ],
   "titulos": [
@@ -271,8 +276,8 @@
   ],
   "origen_apodos": [
     {
-      "apodo": "El Calamar",
-      "origen": "Acuñado en firme por el afamado escritor Julio Palacio Zino tras relatar los épicos acontecimientos de 1908. Observando cómo el plantel de jugadores embarrados caía asiduamente sobre el lodo oscuro a los costados del río bajo, exclamó que sus patinadas parecían de ciegos calamares hundiéndose en su oscura tinta."
+      "apodo": "Calamar",
+      "origen": "Acuñado en 1908 por el periodista Julio Palacio Zino. Debido a que el equipo disputaba sus partidos en un terreno ribereño lodoso y su victoria se daba siempre en el barro, referenció que el equipo 'hacía su tinta' para ganar, al igual que el molusco."
     }
   ]
 }

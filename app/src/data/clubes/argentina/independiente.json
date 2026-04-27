@@ -46,28 +46,28 @@
   "historia": [
     {
       "ano": "1904-1905",
-      "hito": "Fundación por los empleados de 'A la Ciudad de Londres'",
-      "desc": "El origen de la institución se gestó a mediados de 1904 cuando un grupo de jóvenes trabajadores de la tienda porteña 'A la Ciudad de Londres' decidió escindirse del equipo oficial de la empresa (denominado Maipú Banfield) motivado por la negativa de los directivos a permitirles disputar minutos en el primer equipo. En una reunión liderada el 4 de agosto por Rosendo Degiorgi se impuso la voluntad de construir un club estrictamente 'independiente'. Si bien la primera asamblea formal se programó para el 1 de enero de 1905, problemas de quórum postergaron su rúbrica definitiva para marzo, estableciendo sin embargo la fecha original de enero como efeméride oficial. El color rojo se adoptó formalmente años posteriores tras el paso del Nottingham Forest por el país."
+      "hito": "Fundación institucional",
+      "desc": "A mediados de 1904, un grupo de jóvenes empleados de la tienda porteña 'A la Ciudad de Londres' decidió establecer un nuevo equipo de fútbol tras no ser incluidos en el conjunto oficial de la empresa (denominado Maipú Banfield). Bajo el liderazgo de Rosendo Degiorgi, los fundadores determinaron la creación de un club autónomo que se denominó 'Independiente'. Si bien los primeros actos organizativos se celebraron en agosto de 1904 y la asamblea formal debió postergarse por falta de quórum, la institución estableció el 1 de enero de 1905 como su fecha de fundación oficial."
     },
     {
-      "ano": "1930s",
-      "hito": "Aparición de Erico y potencia ofensiva",
-      "desc": "Durante la década del treinta, Independiente conformó importantes alineaciones ofensivas en los torneos profesionales de AFA impulsadas por la llegada del delantero paraguayo Arsenio Erico. Erico consolidó una marca histórica vigente, convirtiéndose en el máximo goleador histórico del fútbol argentino superando los 290 tantos y llevando al club a obtener sus primeros campeonatos formales de Primera División."
+      "ano": "1937-1939",
+      "hito": "Primeros títulos profesionales y la era Erico",
+      "desc": "Durante la primera década del profesionalismo argentino, el club conformó planteles de marcado perfil ofensivo que le permitieron obtener sus primeros campeonatos oficiales de Primera División en los certámenes de 1938 y 1939. Este período estuvo caracterizado por la destacada capacidad goleadora del delantero paraguayo Arsenio Erico, quien posteriormente establecería la marca como máximo anotador en la historia del fútbol profesional de la AFA, acumulando un total de 295 goles oficiales con la camiseta del club."
     },
     {
       "ano": "1964-1965",
-      "hito": "Primeros campeonatos en la Copa Libertadores",
-      "desc": "La década de 1960 sentó las bases del predominio del club en el continente sudamericano. En 1964, Independiente se convirtió en el primer equipo argentino de la historia en conquistar la Copa Libertadores de América, apoyándose en un sólido esquema táctico defensivo. Al año siguiente reeditó el título, logrando el primer bicampeonato internacional de su historia y estableciendo su fama copera."
+      "hito": "Bicampeonato de la Copa Libertadores",
+      "desc": "A mediados de la década de 1960, Independiente inició una exitosa trayectoria en competiciones organizadas por la Confederación Sudamericana de Fútbol. En la edición de 1964, se consagró como el primer club argentino en obtener la Copa Libertadores de América al superar de forma invicta el certamen. Al año siguiente, el plantel logró retener el título frente a Peñarol de Uruguay, concretando un bicampeonato continental que sentó las bases del posterior reconocimiento internacional de la institución."
     },
     {
       "ano": "1972-1975",
-      "hito": "El récord del tetracampeonato continental",
-      "desc": "Entre las ediciones de 1972 y 1975 de la Libertadores, el club de Avellaneda logró una marca estadísticamente superlativa obteniendo el certamen sudamericano cuatro veces consecutivas. Con figuras emblemáticas como Ricardo Bochini y Ricardo Pavoni, el plantel demostró absoluta superioridad en instancias definitorias del torneo consolidando el famoso mote institucional de 'Rey de Copas'."
+      "hito": "El tetracampeonato continental",
+      "desc": "Durante la primera mitad de los años setenta, el club protagonizó un ciclo deportivo que estableció un récord vigente en el fútbol sudamericano. Bajo la conducción de diversos entrenadores y el liderazgo en el campo de jugadores como Ricardo Bochini y Ricardo Pavoni, Independiente obtuvo la Copa Libertadores en cuatro ediciones consecutivas (1972, 1973, 1974 y 1975). Asimismo, en el año 1973, el plantel logró adjudicarse por primera vez la Copa Intercontinental tras vencer a la Juventus de Italia en la ciudad de Roma."
     },
     {
       "ano": "1984",
-      "hito": "Séptima Libertadores y Copa Intercontinental",
-      "desc": "Bajo la dirección técnica de José Pastoriza, Independiente amplió su récord al conquistar su séptima Copa Libertadores frente a Grêmio de Porto Alegre en 1984. En el mismo año, el plantel viajó a Japón para disputar la Copa Intercontinental, donde se alzó con la victoria máxima ante el Liverpool inglés por 1-0 con gol de José Percudani, coronándose por segunda vez campeón a nivel mundial."
+      "hito": "Séptima Libertadores y título Intercontinental",
+      "desc": "En el año 1984, bajo la conducción técnica de José Omar Pastoriza, el club logró consagrarse por séptima vez como campeón de la Copa Libertadores tras vencer en la serie final a Grêmio de Porto Alegre. Posteriormente, el equipo viajó a Japón para disputar la Copa Intercontinental correspondiente a dicha temporada frente al Liverpool de Inglaterra. El encuentro finalizó con una victoria de Independiente por 1-0 con una anotación de José Percudani, consolidando a la institución con su segundo título a nivel mundial."
     }
   ],
   "canchas": [
@@ -140,108 +140,103 @@
   ],
   "idolos": [
     {
-      "nombre": "Ricardo Bochini",
+      "nombre": "Ricardo Enrique Bochini",
       "pos": "Enganche",
       "apodo": "El Bocha / El Maestro",
-      "periodo": "1972-1991",
-      "desc": "Símbolo absoluto de la institución y catalogado como el máximo exponente del equipo en su historia. Como 'One Club Man', lideró al plantel en la obtención de cuatro de las siete Copas Libertadores y dos Intercontinentales, destacando por su precisión en las asistencias."
+      "epoca": "1972-1991",
+      "desc": "Emblema unánime y creador de la mística copera. Jugó toda su carrera en el club, dictando cátedra con sus pases milimétricos y guiando a la institución a ganar cuatro Copas Libertadores y dos Intercontinentales."
     },
     {
       "nombre": "Arsenio Erico",
       "pos": "Delantero",
       "apodo": "El Saltarín Rojo",
-      "periodo": "1934-1946",
-      "desc": "Legendario delantero paraguayo y el máximo artillero en toda la historia de la primera división de Argentina continental, con asombrosos registros goleadores durante la década de 1930 que forjaron la grandeza inicial del club."
+      "epoca": "1934-1946",
+      "desc": "El paraguayo de los saltos imposibles y máximo artillero en la historia del fútbol argentino. Su capacidad acrobática y eficacia goleadora lo convirtieron en una leyenda inigualable de la era dorada."
+    },
+    {
+      "nombre": "Antonio Sastre",
+      "pos": "Mediocampista / Polifuncional",
+      "apodo": "El Cuila",
+      "epoca": "1931-1942",
+      "desc": "Considerado el jugador más completo de su época, capaz de ocupar cualquier posición del campo con brillantez. Estratega fundamental que sentó las bases del paladar negro del club."
+    },
+    {
+      "nombre": "Vicente de la Mata",
+      "pos": "Delantero",
+      "apodo": "Capote",
+      "epoca": "1937-1950",
+      "desc": "Gambeteador insigne y socio perfecto de Erico y Sastre. Su técnica deslumbrante y facilidad para eludir rivales lo erigieron como una figura de culto para la mitad roja de Avellaneda."
     },
     {
       "nombre": "Sergio Agüero",
       "pos": "Delantero",
-      "apodo": "Kun",
-      "periodo": "2003-2006",
-      "desc": "Debutó profesionalmente a los 15 años de edad, convirtiéndose en el jugador más joven en lograrlo en la liga argentina. Deslumbró rápidamente por su potencia y desequilibrio individual antes de protagonizar la transferencia más grande del club hacia Europa."
-    },
-    {
-      "nombre": "José Omar Pastoriza",
-      "pos": "Mediocampista / Director Técnico",
-      "apodo": "El Pato",
-      "periodo": "1966-1972",
-      "desc": "Mediocampista de temperamento y jerarquía que luego se consolidó como uno de los entrenadores más laureados de la institución, dirigiendo al equipo en la consagración de la Copa Libertadores y la Intercontinental de 1984."
-    },
-    {
-      "nombre": "Daniel Bertoni",
-      "pos": "Delantero",
-      "apodo": "El Puntero",
-      "periodo": "1973-1977",
-      "desc": "Extremo fundamental de la década de 1970, socio ideal de Ricardo Bochini en la ofensiva. Fue determinante con sus goles y desbordes para la consecución de múltiples títulos locales y copas internacionales."
+      "apodo": "El Kun",
+      "epoca": "2003-2006",
+      "desc": "La última gran joya de la cantera. Debutó con apenas 15 años rompiendo récords históricos. Su talento generacional deslumbró al país antes de llevar su clase al estrellato europeo."
     }
   ],
   "goleadores_historicos": [
     {
       "nombre": "Arsenio Erico",
-      "goles": 295,
-      "partidos": 325,
-      "periodo": "1934-1946",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 295 goles en competiciones oficiales durante su trayectoria en el equipo entre 1934-1946."
+      "apodo": "El Saltarín Rojo",
+      "epoca": "1934-1946",
+      "goles": 295
     },
     {
       "nombre": "Manuel Seoane",
-      "goles": 241,
-      "partidos": 264,
-      "periodo": "1921-1932",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 241 goles en competiciones oficiales durante su trayectoria en el equipo entre 1921-1932."
+      "apodo": "La Chancha",
+      "epoca": "1921-1932",
+      "goles": 233
     },
     {
       "nombre": "Vicente de la Mata",
-      "goles": 152,
-      "partidos": 362,
-      "periodo": "1937-1950",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 152 goles en competiciones oficiales durante su trayectoria en el equipo entre 1937-1950."
+      "apodo": "Capote",
+      "epoca": "1937-1950",
+      "goles": 152
     },
     {
       "nombre": "Luis Artime",
-      "goles": 141,
-      "partidos": 196,
-      "periodo": "1966-1968",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 141 goles en competiciones oficiales durante su trayectoria en el equipo entre 1966-1968."
+      "apodo": "El Artillero",
+      "epoca": "1966-1968",
+      "goles": 137
     },
     {
-      "nombre": "Ricardo Bochini",
-      "goles": 108,
-      "partidos": 714,
-      "periodo": "1972-1991",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 108 goles en competiciones oficiales durante su trayectoria en el equipo entre 1972-1991."
+      "nombre": "Ricardo Enrique Bochini",
+      "apodo": "El Bocha",
+      "epoca": "1972-1991",
+      "goles": 108
     }
   ],
   "presencias_historicas": [
     {
-      "nombre": "Ricardo Bochini",
-      "partidos": 714,
-      "periodo": "1972-1991",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 714 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1972-1991."
+      "nombre": "Ricardo Enrique Bochini",
+      "apodo": "El Bocha",
+      "epoca": "1972-1991",
+      "presencias": 714
     },
     {
       "nombre": "Ricardo Pavoni",
-      "partidos": 495,
-      "periodo": "1965-1976",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 495 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1965-1976."
+      "apodo": "El Chivo",
+      "epoca": "1965-1976",
+      "presencias": 495
     },
     {
       "nombre": "Hugo Villaverde",
-      "partidos": 423,
-      "periodo": "1976-1989",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 423 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1976-1989."
+      "apodo": "Magoo",
+      "epoca": "1976-1989",
+      "presencias": 423
     },
     {
       "nombre": "Miguel Ángel Santoro",
-      "partidos": 394,
-      "periodo": "1962-1974",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 394 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1962-1974."
+      "apodo": "Pepé",
+      "epoca": "1962-1974",
+      "presencias": 394
     },
     {
-      "nombre": "Vicente de la Mata",
-      "partidos": 362,
-      "periodo": "1937-1950",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 362 partidos disputados, manteniendo presencia oficial ininterrumpida entre 1937-1950."
+      "nombre": "Guillermo Ríos",
+      "apodo": "Luli",
+      "epoca": "1984-1998",
+      "presencias": 363
     }
   ],
   "titulos": [
@@ -416,11 +411,11 @@
   "origen_apodos": [
     {
       "apodo": "Los Diablos Rojos",
-      "origen": "El bautismo se forjó en el transcurso mediático de 1926. En aquel campeonato, la institución conformó una línea de ataque compuesta por Canaveri, Lalín, Ravaschino, Seoane y Orsi, los cuales asestaron diversas goleadas con un sistema veloz. El reportero Hugo Marini en el diario Crítica, sumando el histórico color rojo de las camisetas utilizadas desde inicios de siglo, los denominó 'Diablos Rojos' para homologarlos en sus crónicas."
+      "origen": "Impuesto por el periodista Hugo Marini en el diario Crítica en 1926. Calificó así a la delantera del equipo por su velocidad, ferocidad ofensiva y contundencia, asociándolo al color de la camiseta."
     },
     {
-      "apodo": "El Rey de Copas",
-      "origen": "Consolidado oficialmente en base al ámbito deportivo y los récords continentales en la segunda mitad del siglo XX. El apodo ingresó llanamente gracias a la sumatoria abrumadora de trofeos trasnacionales logrados por el club, fundamentalmente en el cierre de los años 60 y durante la década del 70. Su afirmación indiscutible como término oficial se produjo al conquistar un suceso estadístico imbatido: conseguir la Copa Libertadores de América por cuatro certámenes consecutivos (ediciones de 1972, 1973, 1974 y 1975)."
+      "apodo": "Rey de Copas",
+      "origen": "Autodenominación validada a nivel mundial en la década de 1970 tras establecer el récord de títulos internacionales (Copa Libertadores y Copa Intercontinental). Se afianzó tras obtener la séptima y definitiva Copa Libertadores en 1984."
     }
   ],
   "h2h": {

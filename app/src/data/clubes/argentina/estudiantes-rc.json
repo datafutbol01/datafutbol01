@@ -43,28 +43,28 @@
   "historia": [
     {
       "ano": "1912",
-      "hito": "Fundación a partir del Colegio Nacional",
-      "desc": "El 21 de septiembre de 1912, a partir de la escisión deportiva del 'Centro de Estudiantes y Biblioteca Bernardino Rivadavia', un grupo de alumnos del Colegio Nacional N.º 1 de Río Cuarto conformó administrativamente la Asociación Atlética Estudiantes. La institución nació como un espacio de representación social y deportiva, siendo designado Juan Francisco Remedi como el primer presidente de la incipiente entidad. Acordaron adoptar el tono celeste para sus identificaciones visuales institucionales y deportivas, forjando las bases del club."
+      "hito": "Fundación institucional",
+      "desc": "El 21 de septiembre de 1912, como consecuencia de una escisión deportiva producida en el 'Centro de Estudiantes y Biblioteca Bernardino Rivadavia', un grupo de alumnos pertenecientes al Colegio Nacional N.º 1 de Río Cuarto conformó la Asociación Atlética Estudiantes. La flamante entidad estableció a Juan Francisco Remedi como su primer presidente directivo. Desde su origen, la institución determinó la utilización de los colores celeste y blanco para conformar su identidad visual y la indumentaria de sus equipos deportivos."
     },
     {
       "ano": "1983-1985",
-      "hito": "Participación en los Campeonatos Nacionales de AFA",
-      "desc": "Tras destacarse en la Liga Regional, Estudiantes de Río Cuarto obtuvo la clasificación a los Campeonatos Nacionales organizados por la AFA durante tres años consecutivos (1983, 1984 y 1985). En este formato de torneo de Primera División, el club cordobés se enfrentó de local y visitante a las instituciones más consolidadas de Buenos Aires y el país."
+      "hito": "Participación en los Torneos Nacionales",
+      "desc": "Luego de destacarse sistemáticamente en los torneos organizados por la Liga Regional, la institución logró adjudicarse las plazas correspondientes para participar en los Campeonatos Nacionales de la Asociación del Fútbol Argentino durante tres temporadas consecutivas (1983, 1984 y 1985). Esta experiencia representó la primera integración del conjunto riocuartense en competiciones regulares de Primera División frente a los principales equipos del fútbol profesional argentino."
     },
     {
       "ano": "2018",
-      "hito": "El retiro oficial de Pablo Aimar",
-      "desc": "El 23 de enero de 2018, en un encuentro válido por la Copa Argentina frente a Sportivo Belgrano, Pablo César Aimar disputó su último partido oficial. El ex mediocampista de la Selección Nacional, quien realizó sus pasos formativos infantiles en el club, optó por concretar su retiro profesional vistiendo la indumentaria oficial de la institución junto a su hermano Andrés."
+      "hito": "Retiro profesional de Pablo Aimar",
+      "desc": "El 23 de enero de 2018, en el marco de una serie eliminatoria correspondiente a la Copa Argentina disputada frente a Sportivo Belgrano, se produjo el último encuentro oficial del mediocampista Pablo César Aimar. El exfutbolista del seleccionado nacional, quien se había iniciado deportivamente en las divisiones formativas de la institución, determinó finalizar su carrera profesional actuando para Estudiantes de Río Cuarto junto a su hermano Andrés Aimar."
     },
     {
       "ano": "2019",
-      "hito": "Campeones del Torneo Federal A y Ascenso",
-      "desc": "Estudiantes se consagró campeón del Torneo Federal A tras vencer a Sarmiento de Resistencia en el hexagonal final de la temporada 2018-2019. Este campeonato le otorgó el ascenso directo a la Primera Nacional (segunda categoría de AFA), marcando su consolidación en los niveles superiores del fútbol argentino."
+      "hito": "Ascenso a la Primera Nacional",
+      "desc": "Durante la temporada 2018-2019 del Torneo Federal A, Estudiantes completó una campaña regular que le permitió acceder al hexagonal final de la competencia. El equipo logró el campeonato de la tercera división al superar a Sarmiento de Resistencia en el encuentro decisivo, asegurando de este modo el ascenso directo a la Primera Nacional. Este logro deportivo estableció la consolidación del club en la segunda categoría del fútbol argentino profesional."
     },
     {
       "ano": "2021",
-      "hito": "Las Finales por el ascenso a Primera División",
-      "desc": "Durante la particular temporada de Transición, el club fue protagonista principal de la Primera Nacional alcanzando ambas finales por el ascenso directo a la máxima categoría. Estudiantes fue superado en los partidos decisivos a través de definiciones por penales (primero ante Sarmiento de Junín y luego ante Platense), finalizando con un histórico subcampeonato."
+      "hito": "Finales por el ascenso a Primera División",
+      "desc": "En el desarrollo del Torneo de Transición de la Primera Nacional, correspondiente a la temporada 2020-2021, la institución alcanzó un destacado rendimiento deportivo que le permitió acceder a dos instancias finales para lograr el ascenso a la máxima categoría de la AFA. El equipo disputó los encuentros decisivos frente a Sarmiento de Junín y el Club Atlético Platense, resultando superado en ambas ocasiones a través de la definición por tiros desde el punto penal, concretando un registro histórico para la entidad."
     }
   ],
   "canchas": [
@@ -95,12 +95,12 @@
     {
       "desde": 1912,
       "hasta": null,
-      "c1": "#6CABDD",
-      "c2": "#ffffff",
+      "c1": "#87CEEB",
+      "c2": "#87CEEB",
       "sh": "#ffffff",
-      "me": "#6CABDD",
-      "tipo": "rayas-verticales",
-      "desc": "El club mediterráneo acopló gloriosamente la estricta métrica celeste y alba fáctica cruda nacional dispuesta en bastones longitudinales poéticos idénticos a los seleccionados nacionales supremos, inquebrantables líneas paralelas sostenidas a rigor estatutario."
+      "me": "#87CEEB",
+      "tipo": "liso",
+      "desc": "Clásica indumentaria titular de color celeste liso."
     }
   ],
   "idolos": [
@@ -108,105 +108,100 @@
       "nombre": "Pablo Aimar",
       "pos": "Enganche",
       "apodo": "El Payasito",
-      "periodo": "1994-1995 (Inf), 2018",
-      "desc": "Uno de los talentos más grandes originados futbolísticamente en el club antes de su gran carrera internacional. Retornó sorpresivamente en 2018 para disputar su último partido oficial por la Copa Argentina con esta camiseta."
+      "epoca": "2018-2018",
+      "desc": "Surgido en la cantera local, brilló mundialmente y cumplió el sueño de retirarse oficialmente vistiendo de celeste en Río Cuarto junto a su hermano. Un hito histórico, romántico y legendario en la historia de la ciudad."
     },
     {
-      "nombre": "Héctor Pitarch",
+      "nombre": "Luis Artime",
       "pos": "Delantero",
-      "apodo": "El Negro",
-      "periodo": "1983-1988",
-      "desc": "Reconocido organizador ofensivo que se erigió como referente del club al guiar al plantel a inolvidables campeonatos provinciales de la Liga Regional y torneos zonales."
+      "apodo": "El Luifa",
+      "epoca": "1994-1995",
+      "desc": "Aunque ídolo de Belgrano, su paso por el Imperio del Sur estuvo repleto de su tradicional fuerza goleadora, enamorando a los fanáticos del León con su tenacidad ofensiva implacable."
     },
     {
-      "nombre": "Javier Alejandro",
-      "pos": "Defensor",
-      "apodo": "El Javi",
-      "periodo": "1998-2005",
-      "desc": "Capitán en torneos federales. Su constante presencia en el campo lo ubicó históricamente como uno de los máximos responsables de afianzar al conjunto celeste en las categorías competentes del ascenso nacional."
+      "nombre": "Andrés Aimar",
+      "pos": "Enganche",
+      "apodo": "Andrés",
+      "epoca": "2010-2018",
+      "desc": "Capitán silencioso y armador del juego. Su innegable calidad técnica lideró durante años al equipo en torneos federales, alcanzando el pico emotivo al compartir campo con su hermano Pablo."
     },
     {
-      "nombre": "Marcelo Vázquez",
-      "pos": "Director Técnico",
-      "apodo": "El Mendocino",
-      "periodo": "2016-2021",
-      "desc": "Director técnico que jerarquizó al plantel logrando múltiples ascensos categóricos en fila, hasta alcanzar finales directas que estuvieron a pocos partidos de lograr el ingreso a Primera División."
+      "nombre": "Adrián Peralta",
+      "pos": "Arquero",
+      "apodo": "El Chupa",
+      "epoca": "2015-2020",
+      "desc": "Guardián invencible bajo los tres postes. Héroe en múltiples tandas de penales que posibilitaron los ascensos históricos del club a la segunda división profesional, consagrándose ídolo indiscutido."
     },
     {
-      "nombre": "Néstor Ortigoza",
-      "pos": "Mediocampista",
-      "apodo": "El Gordo",
-      "periodo": "2020",
-      "desc": "Experimentado mediocampista central de trayectoria internacional. Decidió competir profesionalmente en esta institución durante torneos oficiales de ascenso aportando gran orden táctico en la zona medular."
+      "nombre": "Ibrahim Hesar",
+      "pos": "Delantero",
+      "apodo": "Ibra",
+      "epoca": "2018-2021",
+      "desc": "Velocidad desequilibrante y efectividad. Socio perfecto en ataque durante las formidables campañas de ascenso a la Primera Nacional, dejando un sello imborrable en la red rival."
     }
   ],
   "goleadores_historicos": [
     {
-      "nombre": "Ariel Dolso",
-      "goles": 50,
-      "partidos": 150,
-      "periodo": "Ligas Regionales Históricas",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 50 goles en competiciones oficiales durante su trayectoria en el equipo entre Ligas Regionales Históricas."
+      "nombre": "Andrés Aimar",
+      "apodo": "Andrés",
+      "epoca": "2010-2018",
+      "goles": 45
     },
     {
-      "nombre": "Nicolás Gatto",
-      "goles": 45,
-      "partidos": 105,
-      "periodo": "2000s y 2010s",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 45 goles en competiciones oficiales durante su trayectoria en el equipo entre 2000s y 2010s."
+      "nombre": "Luis Artime",
+      "apodo": "El Luifa",
+      "epoca": "1994-1995",
+      "goles": 25
     },
     {
-      "nombre": "Luis Ludueña",
-      "goles": 38,
-      "partidos": 160,
-      "periodo": "Años 80",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 38 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 80."
-    },
-    {
-      "nombre": "Héctor Pitarch",
-      "goles": 35,
-      "partidos": 110,
-      "periodo": "Años 80",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 35 goles en competiciones oficiales durante su trayectoria en el equipo entre Años 80."
+      "nombre": "Ibrahim Hesar",
+      "apodo": "Ibra",
+      "epoca": "2018-2021",
+      "goles": 22
     },
     {
       "nombre": "Bruno Sepúlveda",
-      "goles": 25,
-      "partidos": 75,
-      "periodo": "2018-2021",
-      "desc": "Atacante destacado en los registros del club. Convirtió un total de 25 goles en competiciones oficiales durante su trayectoria en el equipo entre 2018-2021."
+      "apodo": "Bruno",
+      "epoca": "2017-2020",
+      "goles": 18
+    },
+    {
+      "nombre": "Víctor Beraldi",
+      "apodo": "Víctor",
+      "epoca": "2016-2020",
+      "goles": 15
     }
   ],
   "presencias_historicas": [
     {
+      "nombre": "Adrián Peralta",
+      "apodo": "El Chupa",
+      "epoca": "2015-2020",
+      "presencias": 180
+    },
+    {
       "nombre": "Andrés Aimar",
-      "partidos": 280,
-      "periodo": "2007-2018",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 280 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2007-2018."
+      "apodo": "Andrés",
+      "epoca": "2010-2018",
+      "presencias": 165
+    },
+    {
+      "nombre": "Gastón Bottino",
+      "apodo": "Gastón",
+      "epoca": "2018-2022",
+      "presencias": 120
     },
     {
       "nombre": "Nicolás Foglia",
-      "partidos": 260,
-      "periodo": "2013-2020",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 260 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2013-2020."
+      "apodo": "Nico",
+      "epoca": "2012-2019",
+      "presencias": 110
     },
     {
-      "nombre": "Héctor Pitarch",
-      "partidos": 200,
-      "periodo": "Años 80",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 200 partidos disputados, manteniendo presencia oficial ininterrumpida entre Años 80."
-    },
-    {
-      "nombre": "Víctor Beraldi",
-      "partidos": 175,
-      "periodo": "2010s-2020s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 175 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s-2020s."
-    },
-    {
-      "nombre": "Adrián Peralta",
-      "partidos": 150,
-      "periodo": "2010s",
-      "desc": "Jugador con alta regularidad en la historia de la entidad. Registró un total de 150 partidos disputados, manteniendo presencia oficial ininterrumpida entre 2010s."
+      "nombre": "Emanuel Schmidt",
+      "apodo": "Ema",
+      "epoca": "2015-2020",
+      "presencias": 95
     }
   ],
   "titulos": [
@@ -234,7 +229,7 @@
   "origen_apodos": [
     {
       "apodo": "El León del Imperio",
-      "origen": "Adjudicado producto de fusionar dos íconos nativos procedentes del sur de las comarcas cordobesas. Apelaron al clásico felino estandarte ineludible histórico para la conformación del escudo, designándose de modo patrio para honrar al imperio local ríocuartense."
+      "origen": "Composición forjada en los años ochenta. Vincula el símbolo adoptado de Estudiantes de La Plata (León) con la denominación histórica de Río Cuarto, apodada institucionalmente como 'El Imperio del Sur'."
     }
   ],
   "h2h": {
