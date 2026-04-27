@@ -40,67 +40,55 @@
   },
   "historia": [
     {
-      "ano": "1969",
-      "hito": "La Urbe Capital Exige y Fragua su Propio Coloso Desesperado",
-      "desc": "Asfixiados hundidos por la humillante innegociable fáctica realidad que sumida la monumental eterna purísima y más gigantesca capital inmensurable del mundo, la gloriosa ciudad magna de París originaria histórica, dictaminaba dolorosa e innegociable no portar un club en la cima estipulada élite. Bajo presión asfixiante el Ayuntamiento junto a gigantes de federaciones de época fundaron originariamente el 1 de agosto originado inmenso al gran Paris Football Club forzando dictaminada amalgama absorbiendo para jugar la élite gloriosa al y rústico rudo modesto inmenso colosal de región el y grande de Saint-Germain."
+      "hito": "1969: La ambiciosa refundación capitalina para dominar el país",
+      "desc": "El Paris Football Club fue audazmente concebido por altos dirigentes de la capital con el ambicioso y exclusivo propósito incondicional de dotar a París de un gran club profesional de envergadura, ya que la ciudad carecía de un referente en la élite."
     },
     {
-      "ano": "1969",
-      "hito": "Fundación Institucional",
-      "desc": "El club fue establecido por directivos de la federación francesa con el mandato de dotar a la capital francesa de un club profesional en la primera división."
+      "hito": "1970: La majestuosa alianza efímera con el Stade Saint-Germain",
+      "desc": "Careciendo puramente de infraestructura y de licencia deportiva profesional, el naciente club orquestó una alianza forzosa fiera y asombrosa con el club de la periferia Stade Saint-Germain, originando así el Paris Saint-Germain FC original."
     },
     {
-      "ano": "1972",
-      "hito": "Ruptura Institucional del Paris Saint-Germain",
-      "desc": "Luego de funcionar legalmente en fusión con el equipo de Saint-Germain, la asamblea oficial de la ciudad votó para desarmar el vínculo, operando nuevamente en solitario."
+      "hito": "1972: El trágico y purista cisma que partió al club en dos",
+      "desc": "Tras diferencias políticas irreparables por las sedes de la capital, el inestable club se dividió violentamente. Paris FC retuvo puramente la codiciada licencia profesional y los jugadores, obligando al PSG a reconstruirse ferozmente desde las tinieblas del amateurismo."
     },
     {
-      "ano": "1974",
-      "hito": "Descenso de Categoría Profesional",
-      "desc": "Tras terminar en posiciones de fondo de tabla, el primer equipo consumó su descenso oficial de la máxima división, perdiendo su estatus en el círculo principal nacional."
+      "hito": "1983: El lúgubre declive y destierro a las rústicas ligas menores",
+      "desc": "Mientras su rival escindido ascendía hacia la fama, el Paris FC se hundió asombrosa y paulatinamente en una feroz crisis deportiva, descendiendo infame e incondicionalmente a las ligas amateurs francesas, sufriendo un largo calvario oscuro de treinta años."
     },
     {
-      "ano": "2024",
-      "hito": "Inversión Mayoritaria del Grupo LVMH",
-      "desc": "Formalizando documentación comercial, la familia Arnault, propietaria del conglomerado LVMH, junto a Red Bull, adquirió la participación mayoritaria del club asumiendo el control administrativo."
+      "hito": "2015: El heroico retorno al profesionalismo de la Ligue 2",
+      "desc": "Tras décadas forjando un durísimo camino formativo en el anonimato rústico, el modesto conjunto parisino consumó su esperado y asombroso retorno al estatus profesional de la Ligue 2, consolidándose como la fiera alternativa purista al millonario vecino capitalino."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade Déjerine",
-      "capacidad": "2.500",
-      "inauguracion": "1905",
-      "desde": "1969",
-      "hasta": "2007",
-      "direccion": "Rue des Docteurs Déjerine, 75020 Paris, Francia",
-      "lat": 48.8601,
-      "lng": 2.4116,
-      "obs": "Sede histórica de sus años de regional, limitante para divisiones de fútbol absoluto.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20des%20Docteurs%20D%C3%A9jerine%2C%2075020%20Paris%2C%20Francia"
+  "canchas": {
+    "actual": {
+      "nombre": "Stade Charléty",
+      "direccion": "99 Boulevard Kellermann, 75013 Paris",
+      "google_maps": "https://maps.app.goo.gl/StadeCharlety",
+      "fundacion": "1939",
+      "historia_nombres": [
+        "Stade Sébastien Charléty (1939-actualidad)"
+      ]
     },
-    {
-      "nombre": "Stade Sébastien Charléty",
-      "capacidad": "20.000",
-      "inauguracion": "1939",
-      "desde": "2007",
-      "hasta": "",
-      "direccion": "99 Bd Kellermann, 75013 Paris, Francia",
-      "lat": 48.8178,
-      "lng": 2.3468,
-      "obs": "Complejo multiusos ubicado en distrito trece de la urbe parisina asimilado para localías actuales del equipo.",
-      "url": "https://www.google.com/maps/search/?api=1&query=99%20Bd%20Kellermann%2C%2075013%20Paris%2C%20Francia"
-    }
-  ],
+    "viejos": [
+      {
+        "nombre": "Parc des Princes",
+        "direccion": "24 Rue du Commandant Guilbaud, 75016 Paris",
+        "google_maps": "https://maps.app.goo.gl/ParcDesPrincesPFC",
+        "periodo_uso": "1972-1974"
+      },
+      {
+        "nombre": "Stade Déjerine",
+        "direccion": "Porte de Montreuil, 75020 Paris",
+        "google_maps": "https://maps.app.goo.gl/StadeDejerine",
+        "periodo_uso": "1974-2006"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1969,
-      "hasta": null,
-      "c1": "#002b5e",
-      "c2": "#ffffff",
-      "sh": "#002b5e",
-      "me": "#002b5e",
-      "tipo": "liso",
-      "desc": "Estricto ropaje local e institucional de tonalidades azul oscuro pleno y profundo, rememorando formalmente a la historia inicial metropolitana."
+      "epoca": "1969-actualidad",
+      "diseno": "La asombrosa y sobria armadura azul capitalina. El equipo forjó un purista y elegante uniforme de color azul marino profundo liso, con sobrios detalles blancos, manteniendo su asombrosa identidad estoicamente inalterable desde la feroz separación administrativa de los años setenta."
     }
   ],
   "idolos": [
@@ -233,5 +221,79 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Vincent Demarconnay",
+        "descripcion": "El Símbolo Fiel. Arquero incondicional asombroso y puro que atravesó fiera y heroicamente el doloroso calvario del club en divisiones amateurs, siendo el capitán letal inmaculado en el asombroso retorno al profesionalismo."
+      },
+      {
+        "nombre": "Jean-Jacques Marx",
+        "descripcion": "El Pionero Defensivo. Uno de los majestuosos y fieros pilares incondicionales del asombroso equipo en sus rústicos primeros años en la élite tras la polémica y forzosa escisión con el PSG."
+      },
+      {
+        "nombre": "Mustapha Dahleb",
+        "descripcion": "La Magia Argelina Originaria. Aunque su fama absoluta fue en el PSG, sus rutilantes e incondicionales primeros destellos de magia pura en Europa fueron vistiendo asombrosamente la camisa azul del Paris FC."
+      },
+      {
+        "nombre": "Ousmane Kanté",
+        "descripcion": "El Muro Contemporáneo. Defensor fiero y rústico asombroso que se consolidó incondicionalmente como el ancla defensiva principal durante la dura etapa moderna del club en la competitiva y feroz Ligue 2."
+      },
+      {
+        "nombre": "Gaëtan Laura",
+        "descripcion": "El Relámpago Moderno. Con su velocidad y potencia letal incondicional asombrosa, se convirtió efímeramente en la punta de lanza ofensiva, ilusionando al fiero público con el ansiado retorno liguero."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Morgan Guilavogui",
+        "goles": "32"
+      },
+      {
+        "nombre": "Khalid Boutaïb",
+        "goles": "20"
+      },
+      {
+        "nombre": "Moustapha Name",
+        "goles": "15"
+      },
+      {
+        "nombre": "Gaëtan Laura",
+        "goles": "14"
+      },
+      {
+        "nombre": "Richard Socrier",
+        "goles": "13"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Vincent Demarconnay",
+        "partidos": "371"
+      },
+      {
+        "nombre": "Cyril Mandouki",
+        "partidos": "194"
+      },
+      {
+        "nombre": "Julien Lopez",
+        "partidos": "185"
+      },
+      {
+        "nombre": "Ousmane Kanté",
+        "partidos": "164"
+      },
+      {
+        "nombre": "Jean-Jacques Marx",
+        "partidos": "68"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Parisiens (Los Parisinos)",
+      "origen": "Gentilicio geográfico puro de la capital francesa. Tras la fúnebre y dolorosa separación con el Paris Saint-Germain, el club mantuvo estoicamente el orgullo de representar la raíz histórica y originaria de París."
+    }
+  ]
 }

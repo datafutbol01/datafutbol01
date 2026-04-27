@@ -40,65 +40,54 @@
   },
   "historia": [
     {
-      "ano": "1906",
-      "hito": "Del Polvo de Carbón Nace la Sangre y el Oro",
-      "desc": "El corazón de las minas y las entrañas ensangrentadas de carbón de Paso de Calais vieron gestar al Racing Club de Lens a principios de enero de 1906. Un grupo humilde de jóvenes forjadores de minas carboníferas impulsados por las rudas élites dirigidas de Maurice Radix como originario presidente formaron originariamente un cuadro rústico verdinegro. No fue hasta padecimientos posguerras que en 1924, el emblemático alcalde Pierre Moglia junto a obreros adoptaron definitivamente el estricto Sangre y Oro ('Sang et Or') e innegociables originados legendariamente inspirados en enseñas reales españolas y el oro de la resurrección de las minas obreras trágicas."
+      "hito": "1906: Fundado feroz y puramente por rudos mineros locales",
+      "desc": "El histórico y purista club obrero nació incondicionalmente en la rústica y popular 'Plaza Verte' y fue forjado magistralmente por la orgullosa clase obrera y minera del norte de Francia, adoptando el verde y negro como primeros tonos."
     },
     {
-      "ano": "1937",
-      "hito": "Adopción del Estatus Profesional",
-      "desc": "La junta local y los comités mineros de la región le otorgaron un presupuesto y el estatus profesional definitivo al club, logrando el ascenso a la Division 1 a finales de ese año."
+      "hito": "1943: Adopción mística e incesante de los inmaculados colores 'Sang et Or'",
+      "desc": "El club abandonó sus colores originarios para adoptar la mítica armadura de sangre y oro ('Sang et Or'). Una referencia incondicional a la sangre vertida por los letales trabajadores en las oscuras e infames minas de carbón y al valioso oro negro extraído de las entrañas norteñas."
     },
     {
-      "ano": "1998",
-      "hito": "La Única Conquista Histórica de Ligue 1",
-      "desc": "Liderados por el técnico Daniel Leclercq, el equipo minero obtuvo 68 puntos, igualando en la cima con el Metz pero logrando el título de campeones por diferencia de goles."
+      "hito": "1998: La majestuosa fiera épica e inigualable conquista liguera pura",
+      "desc": "La incondicional y fiera gesta liguera más grande de la historia del club. Bajo el mando magistral táctico del inmenso Daniel Leclercq, el valiente equipo minero se coronó campeón asombroso de la Ligue 1 en una agónica y gloriosa última jornada frente al Metz."
     },
     {
-      "ano": "2000",
-      "hito": "Llegada Histórica a las Semifinales de Copa UEFA",
-      "desc": "Superaron diversas fases continentales y eliminaron al Atlético de Madrid. En las semifinales fueron eliminados oficialmente por el Galatasaray de Turquía."
+      "hito": "2000: La memorable mágica y rutilante cabalgata en la Copa de la UEFA",
+      "desc": "El rústico y purista equipo de los mineros alcanzó incondicionalmente las míticas semifinales de la extinta Copa de la UEFA, asombrando a Europa al eliminar al Celta de Vigo y al Atlético de Madrid en una campaña heroica fiera."
     },
     {
-      "ano": "2023",
-      "hito": "Subcampeonato Local con Récord",
-      "desc": "El equipo acumuló 84 unidades matemáticas en la temporada local guiados por el técnico Franck Haise, finalizando en el segundo lugar a tan solo 1 punto del PSG."
+      "hito": "2023: Subcampeonato colosal puro y letal heroico retorno a la Champions",
+      "desc": "Tras la fúnebre quiebra y un doloroso paso por las tinieblas de la Ligue 2, el técnico Franck Haise resucitó maravillosamente al club orquestando un majestuoso subcampeonato liguero y sellando el boleto directo al firmamento de la Liga de Campeones."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade Bollaert-Delelis",
-      "capacidad": "38.223",
-      "inauguracion": "1933",
-      "desde": "1933",
-      "hasta": "",
-      "direccion": "Av. Alfred Maes, 62300 Lens, Francia",
-      "lat": 50.4328,
-      "lng": 2.8148,
-      "obs": "Coliseo histórico minero, cuya capacidad curiosamente puede albergar a más personas de las que residen en la propia ciudad de Lens.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20Alfred%20Maes%2C%2062300%20Lens%2C%20Francia"
-    }
-  ],
+      "direccion": "Avenue Alfred Maës, 62300 Lens",
+      "google_maps": "https://maps.app.goo.gl/BollaertDelelis",
+      "fundacion": "1933",
+      "historia_nombres": [
+        "Stade Félix-Bollaert (1933-2012)",
+        "Stade Bollaert-Delelis (2012-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Parc de la Glissoire",
+        "direccion": "Avion, Lens",
+        "google_maps": "https://maps.app.goo.gl/GlissoireLens",
+        "periodo_uso": "1906-1933"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1906,
-      "hasta": 1923,
-      "c1": "#000000",
-      "c2": "#00aa00",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "rayas-verticales",
-      "desc": "Primeros colores del club reflejando el carbón (negro) y el pasto de la Plaza Verde local."
+      "epoca": "1906-1943",
+      "diseno": "El inestable y rústico primer atuendo. El equipo de los obreros y mineros vistió originariamente verde incondicional y negro fúnebre. El verde representaba a la plaza de fundación, y el asombroso negro a la asfixiante y dura industria del carbón."
     },
     {
-      "desde": 1924,
-      "hasta": null,
-      "c1": "#da251d",
-      "c2": "#fbd116",
-      "sh": "#000000",
-      "me": "#fbd116",
-      "tipo": "rayas-verticales",
-      "desc": "Adopción de los colores Sangre y Oro como tributo a la historia minera de la ocupación española."
+      "epoca": "1943-actualidad",
+      "diseno": "El nacimiento inmaculado de la mística armadura 'Sang et Or' (Sangre y Oro). Cambiaron heroicamente a un majestuoso atuendo de rayas gruesas verticales amarillas doradas (el carbón como oro negro) y rojo encendido (la sangre derramada por los valientes mineros en el pozo)."
     }
   ],
   "idolos": [
@@ -248,5 +237,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Éric Sikora",
+        "descripcion": "El Símbolo Sang et Or. Un defensor asombroso incondicional que consagró toda su fiera e inmaculada carrera de 19 años al club obrero, siendo el gran asombroso y mítico líder del vestuario en la gloriosa conquista liguera de 1998."
+      },
+      {
+        "nombre": "Roger Boli",
+        "descripcion": "El Ídolo Artillero. Ícono de la incondicional garra norteña, su majestuoso gol de chilena letal asombró incondicionalmente a Europa y sigue siendo reverenciado en las rústicas gradas del Bollaert-Delelis como un mito absoluto."
+      },
+      {
+        "nombre": "Vladimir Smicer",
+        "descripcion": "El Héroe Checo. Deslumbró asombrosamente a Francia con su exquisita técnica y pases filtrados puristas, siendo una de las piezas ofensivas majestuosas del inolvidable e intocable equipo campeón de los mineros en los noventa."
+      },
+      {
+        "nombre": "Daniel Leclercq",
+        "descripcion": "El Druida Campeón. El estratega mágico y severo que orquestó la mayor gesta asombrosa de la historia del club (la Ligue 1 de 1998), forjando un incondicional equipo temido, rústico e imbatible en casa."
+      },
+      {
+        "nombre": "Seko Fofana",
+        "descripcion": "El Motor del Regreso. El incondicional y asombroso líder moderno, cuyo despliegue físico brutal devolvió majestuosamente al equipo a los puestos de élite y a la rutilante Champions League tras el doloroso exilio de segunda división."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Ahmed Oudjani",
+        "goles": "94"
+      },
+      {
+        "nombre": "Maryan Wisnieski",
+        "goles": "93"
+      },
+      {
+        "nombre": "Georges Lech",
+        "goles": "71"
+      },
+      {
+        "nombre": "Teitur Thordarson",
+        "goles": "56"
+      },
+      {
+        "nombre": "Roger Boli",
+        "goles": "50"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Éric Sikora",
+        "partidos": "590"
+      },
+      {
+        "nombre": "Guillaume Warmuz",
+        "partidos": "427"
+      },
+      {
+        "nombre": "Walid Mesloub",
+        "partidos": "312"
+      },
+      {
+        "nombre": "Yohan Demont",
+        "partidos": "270"
+      },
+      {
+        "nombre": "Seydou Keita",
+        "partidos": "211"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Sang et Or (Sangre y Oro)",
+      "origen": "El apodo cromático incondicional por excelencia fiera. La fúnebre sangre roja derramada heroicamente en el pozo por los asfixiados valientes mineros norteños, y el valioso oro negro, en referencia metafórica inmaculada a la dura extracción del carbón subterráneo."
+    },
+    {
+      "apodo": "Les Artésiens (Los Artesianos)",
+      "origen": "Gentilicio purista e incondicional en majestuoso honor cívico a la histórica y rústica región norteña del Artois, representando el duro carácter inquebrantable de su férrea clase obrera e industrial."
+    }
+  ]
 }

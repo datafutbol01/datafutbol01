@@ -40,67 +40,50 @@
   },
   "historia": [
     {
-      "ano": "1899",
-      "hito": "El Rugido del Velódromo Sur Nace del Estudiantado Escocés",
-      "desc": "Mientras el gigantesco y colosal caótico bullicioso puerto de Marsella albergaba cientos de buques navales repletos estipulados originarios y pesados con mercadería inglesa, un brillante visionario de ilustre familia aristócrata René Dufaure de Montmirail asimiló colosales destrezas atléticas del incipiente rugby combinando un nacimiento del fútbol escocés formando estipuladamente el 'Olympique de Marseille'. Formalizado oficialmente a fines del estruendoso agosto del ochenta y nueve fundaron bajo divisa blanquísima portando orígenes de los lemas y estandartes oficiales adoptando grito fiero innegociable Droit Au But asimilado histórico directamente apuntado al y estricto gigantesco gol directo victorioso."
+      "hito": "1899: Nacimiento del coloso rebelde y fundación incondicional",
+      "desc": "El Olympique de Marseille fue fundado por René Dufaure de Montmirail como una audaz y aristocrática asociación multideportiva, adoptando rápidamente el fiero lema purista 'Droit au But' (Directo al Gol) que define eternamente su filosofía incondicional ofensiva."
     },
     {
-      "ano": "1937",
-      "hito": "El Primer Título Formal Local Competición",
-      "desc": "En los albores de las competiciones unificadas, el equipo generó los puntos suficientes para que el torneo se le adjudicara matemáticamente registrando el estatus de liga a las arcas cimentadas del club."
+      "hito": "1937: El asombroso y glorioso primer campeonato liguero",
+      "desc": "El equipo costero y feroz logró la hazaña histórica inmaculada de ganar su primera corona absoluta en el naciente campeonato profesional de Primera División, batiendo ferozmente al Sochaux gracias al abrumador poderío letal de su delantera."
     },
     {
-      "ano": "1986",
-      "hito": "El Inversor Fáctico Bernard Tapie Toma Las Directivas",
-      "desc": "La institución pasó a recibir formalmente el estatus y presupuesto en propiedad del empresario mediático Bernard Tapie, realizando fichajes internacionales fuertes en el cierre de período originando la era de tetracampeonato."
+      "hito": "1993: La inmaculada y eterna gloria continental en Múnich",
+      "desc": "Bajo el polémico y fiero mandato de Bernard Tapie, el equipo asombró al mundo al vencer incondicional y maravillosamente 1-0 al invencible AC Milan con un colosal gol asombroso de cabeza de Basile Boli, coronándose heroicamente como el primer y único club francés en ganar la Champions League."
     },
     {
-      "ano": "1993",
-      "hito": "Única Entidad Nacional Adquiriendo Champions League",
-      "desc": "Bajo la orden táctica firme y tras un testarazo de área a cargo del defensor Basile Boli, el Marsella derrotó matemáticamente 1-0 al AC Milan en el césped alemán adquiriendo de formalidad la primera Copa Continental Francesa."
+      "hito": "1994: El doloroso descenso a los infiernos por corrupción",
+      "desc": "El equipo más grande de Francia sufrió la peor y más lúgubre humillación de su historia al ser despojado trágicamente del título de liga y relegado de forma forzosa y autoritaria a la Ligue 2 debido al infame e inmenso escándalo de sobornos eclesiásticos del caso VA-OM."
     },
     {
-      "ano": "1994",
-      "hito": "Sanciones Formadas Administrativas y Escándalo de Valenciennes",
-      "desc": "Tras revelarse dictámenes legales sobre incentivos no válidos en fechas ligueras previas contra el equipo Valenciennes FC, la directiva deportiva de Francia ordenó anular su último torneo y proceder a la quita formal con el inminente descenso sumiso del equipo."
+      "hito": "2010: El milagroso y heroico resurgir comandado por Deschamps",
+      "desc": "El legendario capitán de la gloria de Múnich, Didier Deschamps, regresó magistralmente como entrenador y cortó en seco asombrosamente la dolorosa e incesante sequía histórica de 18 años, conquistando fiera y audazmente la Ligue 1 con una supremacía defensiva y letal envidiable."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade de l'Huveaune",
-      "capacidad": "15.000",
-      "inauguracion": "1904",
-      "desde": "1904",
-      "hasta": "1937",
-      "direccion": "Rue de l'Huveaune, 13008 Marseille, Francia",
-      "lat": 43.2736,
-      "lng": 5.3944,
-      "obs": "El campo original de principios de siglo utilizado y construido bajo propiedad y fondos de fieles de la base afición.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20l'Huveaune%2C%2013008%20Marseille%2C%20Francia"
+  "canchas": {
+    "actual": {
+      "nombre": "Orange Vélodrome",
+      "direccion": "3 Boulevard Michelet, 13008 Marseille",
+      "google_maps": "https://maps.app.goo.gl/OrangeVelodrome",
+      "fundacion": "1937",
+      "historia_nombres": [
+        "Stade Vélodrome (1937-2016)",
+        "Orange Vélodrome (2016-actualidad)"
+      ]
     },
-    {
-      "nombre": "Stade Vélodrome (Orange Vélodrome)",
-      "capacidad": "67.394",
-      "inauguracion": "1937",
-      "desde": "1937",
-      "hasta": "",
-      "direccion": "3 Bd Michelet, 13008 Marseille, Francia",
-      "lat": 43.2698,
-      "lng": 5.3959,
-      "obs": "El templo del fútbol del sur. Famoso por albergar una acústica ruidosa bajo una inmensa cubierta ondular blanca.",
-      "url": "https://www.google.com/maps/search/?api=1&query=3%20Bd%20Michelet%2C%2013008%20Marseille%2C%20Francia"
-    }
-  ],
+    "viejos": [
+      {
+        "nombre": "Stade de l'Huveaune",
+        "direccion": "Avenue de l'Huveaune, 13008 Marseille",
+        "google_maps": "https://maps.app.goo.gl/StadeHuveaune",
+        "periodo_uso": "1904-1937"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1899,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#00a1dd",
-      "sh": "#ffffff",
-      "me": "#ffffff",
-      "tipo": "liso",
-      "desc": "Blanco inmaculado rematado por cruces y detalles en azul celeste mediterráneo."
+      "epoca": "1899-actualidad",
+      "diseno": "La incondicional y celestial armadura blanca y azul. La institución adoptó la inmaculada camisa blanca pura (simbolizando la pureza del espíritu olímpico) con pantalones marinos asombrosos (representando el mar costero)."
     }
   ],
   "idolos": [
@@ -308,5 +291,83 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Jean-Pierre Papin",
+        "descripcion": "El Bombardero. Ganador asombroso incondicional del Balón de Oro vistiendo la inmaculada camiseta del OM, anotó heroicas e incesantes voleas acrobáticas letales que maravillaron al mundo a principios de los noventa."
+      },
+      {
+        "nombre": "Didier Deschamps",
+        "descripcion": "El Capitán y Campeón. Levantó la asombrosa Champions League incondicional como fiero jugador en 1993 y regresó heroicamente como entrenador en 2010 para cortar inmaculadamente la letal sequía de 18 años sin títulos de liga."
+      },
+      {
+        "nombre": "Basile Boli",
+        "descripcion": "El Héroe de Múnich. El recio e implacable defensor central anotó majestuosamente de cabeza el gol más fiero, asombroso e importante en la historia del fútbol francés frente al invencible AC Milan de Capello."
+      },
+      {
+        "nombre": "Josip Skoblar",
+        "descripcion": "El Águila Dálmata. El fiero asombroso delantero ostenta incondicionalmente el intocable y heroico récord absoluto asombroso de más goles letales anotados en una sola temporada de la Ligue 1 (44 goles en 1970/71)."
+      },
+      {
+        "nombre": "Steve Mandanda",
+        "descripcion": "El Fenómeno. Un portero colosal asombroso que defendió fiera e incondicionalmente el arco del Vélodrome durante más de una década letal, convirtiéndose majestuosamente en el jugador con más partidos en la historia."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Gunnar Andersson",
+        "goles": "194"
+      },
+      {
+        "nombre": "Jean-Pierre Papin",
+        "goles": "182"
+      },
+      {
+        "nombre": "Josip Skoblar",
+        "goles": "175"
+      },
+      {
+        "nombre": "Emmanuel Aznar",
+        "goles": "118"
+      },
+      {
+        "nombre": "Mamadou Niang",
+        "goles": "100"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Steve Mandanda",
+        "partidos": "613"
+      },
+      {
+        "nombre": "Roger Scotti",
+        "partidos": "452"
+      },
+      {
+        "nombre": "François Bracci",
+        "partidos": "342"
+      },
+      {
+        "nombre": "Jean Bastien",
+        "partidos": "337"
+      },
+      {
+        "nombre": "Mathieu Valbuena",
+        "partidos": "331"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Phocéens (Los Focenses)",
+      "origen": "El majestuoso, fiero y heroico apelativo cívico. Hace incondicional reverencia histórica a la fundación rústica originaria de la ciudad de Marsella en el año 600 a.C. por parte de los implacables e intrépidos navegantes marítimos griegos provenientes de la antigua región de Focea."
+    },
+    {
+      "apodo": "L'OM",
+      "origen": "El incondicional y solemne diminutivo histórico absoluto. Tres simples y fieras letras que unifican puramente el gigantesco y ardiente fervor inmaculado de toda la devota población costera del ardiente sur de Francia."
+    }
+  ]
 }

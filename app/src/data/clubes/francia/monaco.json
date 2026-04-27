@@ -40,65 +40,59 @@
   },
   "historia": [
     {
-      "ano": "1924",
-      "hito": "El Principado se Viste de Sangre, Oro y Glamour",
-      "desc": "Arrullados entre la suntuosa e majestuosidad y ostentación férrea marítima del originario rocoso estipulado Peñón de Mónaco el gran dictador corporativo y fundacional inmenso Anthony Noghès empujado paralelamente estricto y por el dictamen monárquico del príncipe innegable colosal Luis II forjó originario el 1 de agosto de 1924 la Association Sportive de Monaco absorbiendo masivos y pioneros clubes de natación de forma rígidamente polideportiva y portando dictaminado formidables estandartes rústicos rojiblancos adoptados por estandartes directos y romboides escudos de la realeza soberana Grimaldi regida originaria."
+      "hito": "1924: Fundación en el glamoroso Principado independiente",
+      "desc": "La Association Sportive de Monaco nació de la ambiciosa y purista fusión de varias sociedades deportivas del principado, recibiendo el respaldo incondicional y absoluto de la realeza para representar deportivamente al microestado soberano."
     },
     {
-      "ano": "1960",
-      "hito": "El Torneo Copa y Registros Oficiales",
-      "desc": "El equipo del principado dictó registro consolidado originando resultados de tabla venciendo en finales de fecha de copa al representativo de la época logrando estipular sumisión copa de la nación francesa por vez inicial documentada."
+      "hito": "1960: La invención purista de la mítica camiseta diagonal",
+      "desc": "Auspiciado por el apoyo real, el equipo adoptó su icónico y asombroso diseño de la franja diagonal roja y blanca creado personalmente por la glamorosa Princesa Grace Kelly, instaurando un sello estético intocable que debutó ganando la Coupe de France."
     },
     {
-      "ano": "1997",
-      "hito": "Campeonato Con Cimientos de Talentos Estipulados Sub 20",
-      "desc": "De la mano de la cúpula técnica e incipientes jóvenes en su cuadro formativo del club originarios Fabien Barthez y Thierry Henry registraron el liderato legal y vencieron la temporada ganando ligueros puestos y campeonato finalizado."
+      "hito": "2004: La épica cabalgata hacia la cumbre continental",
+      "desc": "Bajo el audaz liderazgo táctico de Didier Deschamps, el conjunto monegasco asombró al continente al eliminar de forma incondicional al imbatible Real Madrid y al Chelsea, alcanzando una histórica y majestuosa final de la Champions League ante el Porto."
     },
     {
-      "ano": "2004",
-      "hito": "Final Internacional De UCL de Forma Formal Documentada",
-      "desc": "Acumulando goles del atacante español Fernando Morientes el conjunto registró eliminatorias legales contra equipos internacionales Real Madrid e ingleses finalizando en llave central de cierre en Alemania siendo vencidos matemáticamente en registros 3-0 contra Oporto europeo."
+      "hito": "2013: El renacer millonario bajo la inyección extranjera",
+      "desc": "Adquirido por un ambicioso proyecto extranjero estando hundido en las tinieblas de la Ligue 2, el club orquestó una agresiva y asombrosa revolución financiera, logrando el ascenso inmediato y un fichaje colosal histórico (Falcao)."
     },
     {
-      "ano": "2017",
-      "hito": "Corona Con Puntos Finalizados Validando y Abatiendo Hegemonía Parisina",
-      "desc": "Con el delantero de canteras legal Kylian Mbappé registrando posiciones lograron superar marcas formalmente estipuladas restando puntos del club líder de Paris, asumiendo campeonato formal finalizado a la suma totalizada y registro documentado numérico de 95 puntos en la tabla nacional final."
+      "hito": "2017: El asombroso título rompiendo la tiranía parisina",
+      "desc": "Con una deslumbrante y purista generación ofensiva liderada por el joven prodigio Kylian Mbappé y Radamel Falcao, el equipo monegasco destronó colosalmente al gigante PSG conquistando la Ligue 1 y alcanzando las gloriosas semifinales de Champions."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade Louis II",
-      "capacidad": "16.360",
-      "inauguracion": "1985",
-      "desde": "1985",
-      "hasta": "",
-      "direccion": "7 Av. des Castelans, 98000 Monaco",
-      "lat": 43.7276,
-      "lng": 7.4156,
-      "obs": "Situado en el distrito industrial de Fontvieille encajonado junto al mar; se distingue por sus vistosos arcos amarillos perimetrales.",
-      "url": "https://www.google.com/maps/search/?api=1&query=7%20Av.%20des%20Castelans%2C%2098000%20Monaco"
-    }
-  ],
+      "direccion": "7 Avenue des Castelans, 98000 Monaco",
+      "google_maps": "https://maps.app.goo.gl/StadeLouisII",
+      "fundacion": "1985",
+      "historia_nombres": [
+        "Stade Louis II (1985-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Antiguo Stade Louis II",
+        "direccion": "Fontvieille, Monaco",
+        "google_maps": "https://maps.app.goo.gl/OldStadeLouisII",
+        "periodo_uso": "1939-1985"
+      },
+      {
+        "nombre": "Stade des Moneghetti",
+        "direccion": "Les Moneghetti, Monaco",
+        "google_maps": "https://maps.app.goo.gl/StadeMoneghetti",
+        "periodo_uso": "1924-1939"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1924,
-      "hasta": 1960,
-      "c1": "#ffffff",
-      "c2": "#d3062b",
-      "sh": "#ffffff",
-      "me": "#ffffff",
-      "tipo": "rayas-verticales",
-      "desc": "Indumentaria fundacional que portaba franjas verticales rojas y blancas de la antigua era del principado."
+      "epoca": "1924-1960",
+      "diseno": "Las originarias camisas a franjas puristas. El club vistió en su etapa inicial unas majestuosas y estoicas camisas de rayas verticales puras rojas y blancas, emulando incondicionalmente los gloriosos colores de la bandera del Principado."
     },
     {
-      "desde": 1960,
-      "hasta": null,
-      "c1": "#d3062b",
-      "c2": "#ffffff",
-      "sh": "#ffffff",
-      "me": "#ffffff",
-      "tipo": "mitad-diagonal",
-      "desc": "El histórico e icónico y original diseño en diagonal, partido por mitades rojiblancas delineado directamente por la propia Grace Kelly."
+      "epoca": "1960-actualidad",
+      "diseno": "La revolucionaria y mítica diagonal real. Buscando modernizar al club, la glamorosa Princesa Grace Kelly diseñó personalmente la asombrosa camiseta roja y blanca dividida fiera y majestuosamente por una diagonal perfecta, forjando incondicionalmente el diseño estético más icónico del fútbol francés."
     }
   ],
   "idolos": [
@@ -286,5 +280,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Jean-Luc Ettori",
+        "descripcion": "El Guardián del Principado. Defendió incondicional y fieramente el arco del Mónaco por más de asombrosos 750 partidos, erigiéndose como la máxima e intocable leyenda inmaculada de lealtad en la historia del club."
+      },
+      {
+        "nombre": "Thierry Henry",
+        "descripcion": "El Prodigio Naciente. La academia monegasca asombró al mundo al presentar a este veloz y letal delantero, quien guio fiera e incondicionalmente al club a un título de liga y a las gloriosas semifinales de la Champions League."
+      },
+      {
+        "nombre": "Radamel Falcao",
+        "descripcion": "El Tigre Revitalizador. Su incondicional y feroz rugido letal en el área devolvió al Mónaco a la gloria, siendo el líder espiritual y artillero de la histórica conquista de la Ligue 1 en 2017 frente al gigante PSG."
+      },
+      {
+        "nombre": "Kylian Mbappé",
+        "descripcion": "La Explosión Mundial. Deslumbró al planeta entero a los 18 años con su inmaculada y letal velocidad purista, siendo la joya asombrosa y fundamental en la épica cabalgata del 2017 antes de ser vendido por una cifra récord."
+      },
+      {
+        "nombre": "Ludovic Giuly",
+        "descripcion": "El Capitán Eléctrico. Condujo incondicional y fiera al modesto Mónaco hasta la majestuosa final de la Champions en 2004, dejando una huella estética e inmaculada imborrable en el corazón del Stade Louis II."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Delio Onnis",
+        "goles": "223"
+      },
+      {
+        "nombre": "Wissam Ben Yedder",
+        "goles": "118"
+      },
+      {
+        "nombre": "Lucien Cossou",
+        "goles": "115"
+      },
+      {
+        "nombre": "Christian Dalger",
+        "goles": "89"
+      },
+      {
+        "nombre": "Radamel Falcao",
+        "goles": "83"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Jean-Luc Ettori",
+        "partidos": "755"
+      },
+      {
+        "nombre": "Claude Puel",
+        "partidos": "601"
+      },
+      {
+        "nombre": "Jean Petit",
+        "partidos": "426"
+      },
+      {
+        "nombre": "Manuel Amoros",
+        "partidos": "348"
+      },
+      {
+        "nombre": "Danijel Subasic",
+        "partidos": "292"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Monégasques (Los Monegascos)",
+      "origen": "El gentilicio oficial, incondicional y absoluto de los ciudadanos soberanos del microestado principado, uniendo para siempre la identidad nacional de la monarquía de la familia Grimaldi con su fiero club de fútbol representativo."
+    },
+    {
+      "apodo": "Les Rouge et Blanc (Los Rojiblancos)",
+      "origen": "Apelativo cromático descriptivo cimentado pura e incondicionalmente en la icónica e inmaculada mezcla asombrosa de colores de su camiseta diagonal y de la orgullosa bandera nacional del Principado de Mónaco."
+    }
+  ]
 }

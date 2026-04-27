@@ -40,67 +40,50 @@
   },
   "historia": [
     {
-      "ano": "1950",
-      "hito": "El Gran Cisma Radical de la Disidencia Universitariay el LOU",
-      "desc": "El Olympique Lyonnais es directamente originario e innegociable de la ruda escisión cismática y violenta ruptura directiva fáctica con el rudo gigante matriz LOU (Lyon Olympique Universitaire) arrastrando consigo divisiones crudas dictaminadas sobre cómo inyectar salarios profesionales formales. En asamblea el 3 de agosto de 1950 bajo tenaz y originaria rigurosa caudillez del médico e ídolo de medicina deportiva el eminente brillante 'Albert Trillat' y Félix Louot sentenciado purísimamente el Acta formal innegociable fundacional gestando la corporación escindida soberana portadora estricta fiera del colosal león."
+      "hito": "1950: Fundación fiera y oficial tras la escisión rebelde",
+      "desc": "El Olympique Lyonnais nació de forma independiente y oficial el 3 de agosto de 1950, tras una feroz y rebelde asamblea donde los dirigentes del Lyon Olympique Universitaire decidieron separar definitivamente la sección de fútbol del inestable formato multideportivo originario."
     },
     {
-      "ano": "1951",
-      "hito": "Independización y Registro del Olimpique Lyonnais",
-      "desc": "Tras serios desacuerdos documentados en la asociación universitaria general, el equipo de fútbol se desvinculó de la directiva y se inscribió bajo un marco legal independiente como Olympique Lyonnais."
+      "hito": "1987: La revolución purista y absolutista de Jean-Michel Aulas",
+      "desc": "El club languidecía trágicamente en la Ligue 2 hasta que el visionario y audaz empresario Jean-Michel Aulas asumió la presidencia totalitaria. Implementó un agresivo y colosal plan empresarial moderno 'OL-Europa' para ascender al club y transformarlo en un coloso continental absoluto."
     },
     {
-      "ano": "1987",
-      "hito": "Adquisición Presidencial Oficial por Jean-Michel Aulas",
-      "desc": "El empresario local Jean-Michel Aulas adquirió los derechos mayoritarios deportivos e institucionales, aplicando reestructuraciones financieras de mediano plazo e inyectando un capital accionario llamado proyecto OL Europe."
+      "hito": "2002: El milagroso y agónico primer campeonato de liga",
+      "desc": "En la última y dramática jornada frente a sus rivales directos del Lens, el equipo lionés logró una mágica, fiera e implacable victoria 3-1, alzando maravillosamente su primer asombroso título de la Ligue 1 en su historia y desatando el frenesí."
     },
     {
-      "ano": "2008",
-      "hito": "Récord Matemático Consagrando 7 Ligas Consecutivas",
-      "desc": "Aprovechando su estabilidad financiera y deportiva de cantera, el equipo aseguró el registro inamovible finalizando campeonatos sumando 7 certificaciones formales de liga francesa continuada (de 2002 a 2008)."
+      "hito": "2008: La hegemonía inmaculada e intocable de siete coronas",
+      "desc": "El club estableció una insuperable y asombrosa tiranía nacional nunca antes vista en la historia de Francia, ganando heroica e incondicionalmente su séptimo título de liga consecutivo, con la letal pegada magistral mágica de Juninho Pernambucano liderando el campo."
     },
     {
-      "ano": "2020",
-      "hito": "Acceso Documentado a Semifinales Continentales",
-      "desc": "Guiados por el entrenador del club, el equipo obtuvo en Lisboa la victoria tras un peritaje táctico marcando 3 goles a 1 frente al Manchester City alcanzando avanzar de llave en el marco superior de Champions League."
+      "hito": "2020: La épica cabalgata purista hasta las semifinales europeas",
+      "desc": "Desafiando colosalmente todas las métricas tácticas y lógicas, el audaz conjunto del Ródano destrozó incondicionalmente al mítico Manchester City de Pep Guardiola y alcanzó las majestuosas semifinales de la Champions League durante la burbuja sanitaria fúnebre y cerrada de Lisboa."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade de Gerland",
-      "capacidad": "41.044",
-      "inauguracion": "1926",
-      "desde": "1950",
-      "hasta": "2015",
-      "direccion": "353 Av. Jean Jaurès, 69007 Lyon, Francia",
-      "lat": 45.7238,
-      "lng": 4.8322,
-      "obs": "Estadio primario del club por más de sesenta años, cimentando su dominio con los 7 títulos consecutivos.",
-      "url": "https://www.google.com/maps/search/?api=1&query=353%20Av.%20Jean%20Jaur%C3%A8s%2C%2069007%20Lyon%2C%20Francia"
+  "canchas": {
+    "actual": {
+      "nombre": "Groupama Stadium",
+      "direccion": "10 Avenue Simone Veil, 69150 Décines-Charpieu",
+      "google_maps": "https://maps.app.goo.gl/GroupamaStadium",
+      "fundacion": "2016",
+      "historia_nombres": [
+        "Parc Olympique Lyonnais / Parc OL (2016-2017)",
+        "Groupama Stadium (2017-actualidad)"
+      ]
     },
-    {
-      "nombre": "Groupama Stadium (Parc OL)",
-      "capacidad": "59.186",
-      "inauguracion": "2016",
-      "desde": "2016",
-      "hasta": "",
-      "direccion": "10 Av. Simone Veil, 69150 Décines-Charpieu, Francia",
-      "lat": 45.7656,
-      "lng": 4.9818,
-      "obs": "Recinto propio edificado por el proyecto OL Europe, diseñado en las afueras de la urbe de Lyon.",
-      "url": "https://www.google.com/maps/search/?api=1&query=10%20Av.%20Simone%20Veil%2C%2069150%20D%C3%A9cines-Charpieu%2C%20Francia"
-    }
-  ],
+    "viejos": [
+      {
+        "nombre": "Stade de Gerland",
+        "direccion": "353 Avenue Jean Jaurès, 69007 Lyon",
+        "google_maps": "https://maps.app.goo.gl/StadeDeGerland",
+        "periodo_uso": "1950-2015"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1950,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#e30613",
-      "sh": "#ffffff",
-      "me": "#ffffff",
-      "tipo": "liso",
-      "desc": "Camiseta primordialmente blanca pura con sutiles pero tradicionales detalles rojos y azules locales del escudo."
+      "epoca": "1950-actualidad",
+      "diseno": "La inmaculada y majestuosa armadura blanca. El equipo adoptó históricamente la camisa pura blanca atravesada majestuosamente por vivos rojos y azules (los colores del imponente escudo de la ciudad de Lyon)."
     }
   ],
   "idolos": [
@@ -303,5 +286,79 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Juninho Pernambucano",
+        "descripcion": "El Francotirador Brasileño. El incondicional e indiscutido mejor jugador asombroso de la historia del club. Lideró la dinastía inmaculada de los siete títulos letales consecutivos asombrando a Europa con sus letales y mágicos tiros libres intocables."
+      },
+      {
+        "nombre": "Karim Benzema",
+        "descripcion": "El Hijo Pródigo. Forjado en la majestuosa y letal cantera del club, el delantero maravilló a Francia con su asombrosa técnica y letal definición antes de partir rumbo al legendario Real Madrid para ser ícono mundial."
+      },
+      {
+        "nombre": "Grégory Coupet",
+        "descripcion": "El Muro Imbatible. Defendió fiera e incondicionalmente la portería del Lyon durante la gloriosa y asombrosa era de la hegemonía total, brindando una seguridad majestuosa y heroica inquebrantable a las espaldas del equipo."
+      },
+      {
+        "nombre": "Sonny Anderson",
+        "descripcion": "El Pistolero Inicial. El fiero e implacable delantero sudamericano fue asombrosamente el fichaje clave que inició incondicionalmente la majestuosa cadena de títulos ligueros a principios de los años dos mil."
+      },
+      {
+        "nombre": "Alexandre Lacazette",
+        "descripcion": "El General Moderno. Goleador feroz e incondicional del club, quien tras partir a la Premier League regresó asombrosamente como un veterano letal para guiar al equipo y erigirse como el máximo anotador asombroso contemporáneo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Fleury Di Nallo",
+        "goles": "222"
+      },
+      {
+        "nombre": "Bernard Lacombe",
+        "goles": "149"
+      },
+      {
+        "nombre": "Alexandre Lacazette",
+        "goles": "170"
+      },
+      {
+        "nombre": "Serge Chiesa",
+        "goles": "134"
+      },
+      {
+        "nombre": "Juninho Pernambucano",
+        "goles": "100"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Serge Chiesa",
+        "partidos": "542"
+      },
+      {
+        "nombre": "Grégory Coupet",
+        "partidos": "519"
+      },
+      {
+        "nombre": "Fleury Di Nallo",
+        "partidos": "494"
+      },
+      {
+        "nombre": "Anthony Lopes",
+        "partidos": "489"
+      },
+      {
+        "nombre": "Juninho Pernambucano",
+        "partidos": "344"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Gones (Los Muchachos)",
+      "origen": "Apodo cívico incondicional asombroso derivado del rústico dialecto regional histórico franco-provenzal. Originalmente, 'gone' era el término purista usado para referirse a los jóvenes niños rústicos que trabajaban arduamente en las oscuras e inmensas fábricas de la prestigiosa industria de la seda en la ciudad de Lyon."
+    }
+  ]
 }

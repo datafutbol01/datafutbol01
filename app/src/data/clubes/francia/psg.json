@@ -40,65 +40,53 @@
   },
   "historia": [
     {
-      "ano": "1970",
-      "hito": "La Obligación Capitalina y Fusión Corporativa que Cimentó el Nacimiento del Gigante",
-      "desc": "Acorralada burocráticamente y humillada social y asombrosamente por no poseer férrea ninguna colosal gran escuadra purísima originaria y titánica letal de estatus élite representativa estival y pesada innegociable para la colosal ciudad estipulada y colosal majestuosa de gloria eterna París un grupo colosal rígidamente aristócrata de caudillos como Guy Crescent, el e inmenso Pierre-Étienne Guyot junto al gran Henri Patrelle ejecutaron dictaminados la magistral épica corporativa absorbiendo e inventando la colosal fusión del incipiente Paris FC con la fiera de campo viejo e histórica de cuna gloriosa fáctica Stade Saint-Germain el 12 de agosto histórico de 1970 fundando asombrosamente al monumental y grandioso gigante colosal devorador Paris Saint-Germain vistiendo formales dictámenes azules con grandes y purísimas torres inmensas y grandes bandas rojas de origen capitalino innegociable."
+      "hito": "1970: Fundación incondicional fiera por fusión ambiciosa",
+      "desc": "El Paris Saint-Germain surgió heroicamente el 12 de agosto de 1970, impulsado por dirigentes parisinos, mediante la astuta e incondicional asombrosa fusión del modesto y pueblerino Stade Saint-Germain con el recién nacido e institucional proyecto del Paris FC."
     },
     {
-      "ano": "1974",
-      "hito": "Ascenso Oficial a Primera División",
-      "desc": "Tras su escisión legal, el equipo reconstruyó su base desde tercera división, logrando ascensos consecutivos hasta vencer al Valenciennes y adjudicarse un lugar en la Ligue 1."
+      "hito": "1974: El renacer purista desde las cenizas del amateurismo",
+      "desc": "Tras el polémico divorcio forzoso con el Paris FC, el PSG quedó marginado en la tercera división. Liderados incondicionalmente por el diseñador Daniel Hechter, protagonizaron un heroico y rutilante ascenso, regresando ferozmente a Primera División asombrosamente."
     },
     {
-      "ano": "1986",
-      "hito": "Primera Consagración en Ligue 1",
-      "desc": "Bajo la gestión administrativa de Francis Borelli y con Gérard Houllier como director técnico, el equipo adquirió los puntos necesarios para ganar por primera vez el certamen nacional."
+      "hito": "1986: La primera corona liguera y conquista nacional",
+      "desc": "Tras años de asentamiento e incondicional trabajo, el equipo conquistó su glorioso e inmaculado primer título de la liga francesa bajo el mando técnico de Gérard Houllier y el poder ofensivo incesante del majestuoso Safet Sušić."
     },
     {
-      "ano": "1996",
-      "hito": "Obtención de la Recopa de la UEFA",
-      "desc": "Con el respaldo financiero del canal de televisión Canal+, el club venció por 1-0 al Rapid de Viena, conquistando oficialmente la Recopa de la UEFA."
+      "hito": "1996: El milagro continental puro de la Recopa de Europa",
+      "desc": "El momento más glorioso y purista de su historia continental previa al reinado del dinero. El equipo parisino venció incondicionalmente al Rapid de Viena en la agónica final de Bruselas, ganando su único y asombroso trofeo europeo intocable (la Recopa de Europa)."
     },
     {
-      "ano": "2011",
-      "hito": "Adquisición por Qatar Sports Investments",
-      "desc": "El fondo de inversión QSI adquirió la totalidad de las acciones del club, inyectando un capital accionario récord en transferencias que derivó en continuos campeonatos de liga."
+      "hito": "2011: El desembarco qatarí y la creación de un gigante mundial",
+      "desc": "La ambiciosa adquisición totalitaria por parte de QSI (Qatar Sports Investments) revolucionó fiera e incondicionalmente al club, asestando históricos bombazos financieros (Ibrahimovic, Neymar, Messi, Mbappé) y forjando una aplastante tiranía liguera absoluta sin precedentes."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Parc des Princes",
-      "capacidad": "47.929",
-      "inauguracion": "1972",
-      "desde": "1974",
-      "hasta": "",
-      "direccion": "24 Rue du Commandant Guilbaud, 75016 Paris, Francia",
-      "lat": 48.8414,
-      "lng": 2.253,
-      "obs": "Levantado sobre las bases de antiguos recintos de caza real. Es la casa incondicional en el sudoeste parisino y cuartel de la era QSI.",
-      "url": "https://www.google.com/maps/search/?api=1&query=24%20Rue%20du%20Commandant%20Guilbaud%2C%2075016%20Paris%2C%20Francia"
-    }
-  ],
+      "direccion": "24 Rue du Commandant Guilbaud, 75016 Paris",
+      "google_maps": "https://maps.app.goo.gl/ParcDesPrincesPSG",
+      "fundacion": "1972",
+      "historia_nombres": [
+        "Parc des Princes (1972-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Stade Georges-Lefèvre",
+        "direccion": "Camp des Loges, Saint-Germain-en-Laye",
+        "google_maps": "https://maps.app.goo.gl/StadeGeorgesLefevre",
+        "periodo_uso": "1970-1974"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1970,
-      "hasta": 1973,
-      "c1": "#e30613",
-      "c2": "#ffffff",
-      "sh": "#ffffff",
-      "me": "#e30613",
-      "tipo": "liso",
-      "desc": "Utilización de indumentarias rojas unicolores en honor y tributo directo a las insignias originales formativas y unificadoras de época."
+      "epoca": "1970-1973",
+      "diseno": "El rojo sangre fundacional asombroso. El naciente club parisino vistió efímeramente unas inmaculadas camisas rojas puras, color rústico heredado incondicionalmente del fusionado Stade Saint-Germain y del primigenio Paris FC."
     },
     {
-      "desde": 1973,
-      "hasta": null,
-      "c1": "#001a40",
-      "c2": "#e30613",
-      "sh": "#001a40",
-      "me": "#001a40",
-      "tipo": "franja-vertical",
-      "desc": "Introducción eterna y magistral del legendario diseñador y presidente del momento, delineando una ancha banda vertical roja conteniendo base y bordes predominantemente azules marinos."
+      "epoca": "1973-actualidad",
+      "diseno": "El glorioso e intocable diseño 'Hechter'. El audaz diseñador de moda y presidente Daniel Hechter concibió magistral e incondicionalmente la mítica y asombrosa camisa azul marino dividida por una gigantesca e icónica franja vertical roja central bordeada de un sutil trazo blanco, emulando la mística estética purista del Ajax."
     }
   ],
   "idolos": [
@@ -323,5 +311,83 @@
       "origen": "Adoptado como firme y estricto apelativo hegemónico absoluto luego de centralizar e ir unificando fusionados clubes distritales afines en la capital urbana fáctica. Afianzaron honores estricto refiriéndose masivamente referenciando unidos a todos pobladores de París."
     }
   ],
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Zlatan Ibrahimović",
+        "descripcion": "El Dios Sueco. Su fiero y asombroso arribo revolucionó incondicionalmente al club. Impuso una tiranía liguera letal absoluta y purista con sus goles acrobáticos asombrosos, forjando el ADN ganador moderno en París."
+      },
+      {
+        "nombre": "Raí",
+        "descripcion": "El Elegante Capitán. Ícono asombrosamente purista de la mágica y heroica época dorada de los noventa. Su clase incondicional sudamericana fue vital para conquistar la gloriosa Recopa de Europa."
+      },
+      {
+        "nombre": "Kylian Mbappé",
+        "descripcion": "El Velocista Letal. El máximo asombroso anotador histórico puro del club. Pulverizó fiera e incondicionalmente todos los récords de goleo con su explosión inmaculada, liderando al equipo a su primera final de Champions."
+      },
+      {
+        "nombre": "Thiago Silva",
+        "descripcion": "O Monstro. El inmenso y majestuoso capitán fiero que comandó la defensa parisina durante la asombrosa era qatarí, imponiendo un respeto incondicional y una clase técnica inigualable en el fondo."
+      },
+      {
+        "nombre": "Pauleta",
+        "descripcion": "El Águila de las Azores. El incondicional artillero portugués sostuvo asombrosa y heroicamente al club a base de goles letales durante sus años más oscuros e inestables antes de la inyección millonaria."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Kylian Mbappé",
+        "goles": "256"
+      },
+      {
+        "nombre": "Edinson Cavani",
+        "goles": "200"
+      },
+      {
+        "nombre": "Zlatan Ibrahimović",
+        "goles": "156"
+      },
+      {
+        "nombre": "Neymar Jr",
+        "goles": "118"
+      },
+      {
+        "nombre": "Pauleta",
+        "goles": "109"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Marquinhos",
+        "partidos": "440"
+      },
+      {
+        "nombre": "Jean-Marc Pilorget",
+        "partidos": "435"
+      },
+      {
+        "nombre": "Marco Verratti",
+        "partidos": "416"
+      },
+      {
+        "nombre": "Sylvain Armand",
+        "partidos": "380"
+      },
+      {
+        "nombre": "Safet Susic",
+        "partidos": "344"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Parisiens (Los Parisinos)",
+      "origen": "El incondicional gentilicio de la metrópoli más imponente de Francia. El club fue diseñado ambiciosamente desde su creación fundacional para aglutinar la identidad totalitaria y feroz de la 'Ciudad Luz'."
+    },
+    {
+      "apodo": "Les Rouge-et-Bleu (Los Rojiazules)",
+      "origen": "El apelativo cromático oficial y purista, describiendo fiera y directamente la alianza de los colores asombrosos originarios del escudo de la ciudad de París (rojo y azul) fundidos históricamente en su legendaria camisa 'Hechter'."
+    }
+  ]
 }

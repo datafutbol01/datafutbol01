@@ -40,67 +40,50 @@
   },
   "historia": [
     {
-      "ano": "1943",
-      "hito": "Nacidos del Caos en Tiempos Violentos de Ocupación Opresora",
-      "desc": "Al interior profundo inmenso de los devastadores crueles letales dolorosos amargos originarios bombardeos s aliados estipulados y ocupaciones colosales nazis de formales de segunda grande pesada guerra la asediada cuna de Bretaña en un acto estricto agónico sumiso de purísima unidad civil dictaminó de forma amarga de fundadores férreos y legendarios como héroes Marcel Saupin asumiendo presidir e inyectar inmenso milagro absorbiendo y devorando seis colosales clubes rudos parroquiales y originando dictaminar crear el Football Club de Nantes el 21 del frío inmenso abril portando orígenes estipulados divisa amarilla espléndida y rudo verde colorado."
+      "hito": "1943: Nacimiento bajo los cañones de la oscura ocupación",
+      "desc": "El Football Club de Nantes nació estoicamente durante la fúnebre y oscura ocupación de la Segunda Guerra Mundial, tras la fusión de cinco inmensos clubes amateurs locales, buscando unificar las fuerzas deportivas de la rústica ciudad."
     },
     {
-      "ano": "1965",
-      "hito": "Primer Campeonato Puro Original del Ciclo Formador",
-      "desc": "Las directrices del formal de la asunción de banquillo José Arribas organizó juego consolidado asumiendo estipendia del registro táctico logrando la asimilación del torneo y sumatoria general fáctica posicional terminando líderes."
+      "hito": "1965: El asombroso primer título liguero bajo José Arribas",
+      "desc": "Liderados por el revolucionario técnico José Arribas, el club no solo conquistó su primera corona absoluta de Primera División, sino que inventó un estilo estético de juego incesante de pases rápidos bautizado históricamente como el 'Jeu à la nantaise'."
     },
     {
-      "ano": "1995",
-      "hito": "Cimentando Récord y Campeón con Treintaidós Juegos Invictos",
-      "desc": "Enmarcado en esquemas formativos por el entrenador principal Jean-Claude Suaudeau forjando marca general purísima de invictos en la tabla estadística alcanzando sumar numéricamente partidos 32 de corrido no caídos a finanzas, cerrando corona liga formal validada del torneo general."
+      "hito": "1995: La histórica e incondicional temporada casi invicta",
+      "desc": "El equipo alcanzó su cúspide gloriosa al ganar majestuosamente el título de liga perdiendo apenas un rústico partido en todo el año, y encadenando un colosal récord histórico de 32 incesantes encuentros sin conocer la derrota."
     },
     {
-      "ano": "2001",
-      "hito": "Dictamen Matemático de Campeonato Cerrando el Octavo Trofeo Liga",
-      "desc": "Mediante esquemas del entrenador en posesión Reynald Denoueix formales estipulados de base sumaron puntos matemáticos y ganaron coronados posiciones de primera logrando estipendiada formativa fáctica legal del cierre validado y campeón su cuenta total del país local histórico llegando al octavo número."
+      "hito": "2001: El último gran esplendor de los gloriosos canarios",
+      "desc": "Bajo la batuta incondicional de Raynald Denoueix, el conjunto conquistó maravillosamente su octavo asombroso campeonato nacional de liga, marcando el cierre definitivo de su gloriosa época dorada antes de caer en décadas de declive letal."
     },
     {
-      "ano": "2022",
-      "hito": "Copa Formativa Validada Final Consagrando",
-      "desc": "Tras la tabla generada en eliminatorias vencieron formal documentada al Niza mediante resolución de penaltis del uno asumiendo el final formal y copa estipulada de manera que el equipo FC Nantes asimilaba campeonato de llaves oficial en el año 2022 registrado."
+      "hito": "2022: La gloriosa resurrección y el grito ahogado en París",
+      "desc": "Tras años de asfixiantes lamentos, el equipo orquestó una heroica e incondicional gesta conquistando su cuarta Coupe de France tras vencer al Niza, devolviendo al fervoroso estadio de la Beaujoire la añorada asombrosa competición europea."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade Marcel-Saupin",
-      "capacidad": "20.000",
-      "inauguracion": "1937",
-      "desde": "1937",
-      "hasta": "1984",
-      "direccion": "Quai Malakoff, 44000 Nantes, Francia",
-      "lat": 47.2144,
-      "lng": -1.5369,
-      "obs": "Terreno a orillas del río Loira. Sede fundacional durante los primeros lauros de los 'Canarios'.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Quai%20Malakoff%2C%2044000%20Nantes%2C%20Francia"
+  "canchas": {
+    "actual": {
+      "nombre": "Stade de la Beaujoire - Louis Fonteneau",
+      "direccion": "5 Boulevard de la Beaujoire, 44300 Nantes",
+      "google_maps": "https://maps.app.goo.gl/StadeDeLaBeaujoire",
+      "fundacion": "1984",
+      "historia_nombres": [
+        "Stade de la Beaujoire (1984-1989)",
+        "Stade de la Beaujoire - Louis Fonteneau (1989-actualidad)"
+      ]
     },
-    {
-      "nombre": "Stade de la Beaujoire",
-      "capacidad": "35.322",
-      "inauguracion": "1984",
-      "desde": "1984",
-      "hasta": "",
-      "direccion": "5 Bd de la Beaujoire, 44300 Nantes, Francia",
-      "lat": 47.2556,
-      "lng": -1.5253,
-      "obs": "Construido velozmente para acoger certámenes internacionales del campeonato Euro de 1984.",
-      "url": "https://www.google.com/maps/search/?api=1&query=5%20Bd%20de%20la%20Beaujoire%2C%2044300%20Nantes%2C%20Francia"
-    }
-  ],
+    "viejos": [
+      {
+        "nombre": "Stade Marcel-Saupin",
+        "direccion": "Quai Malakoff, 44000 Nantes",
+        "google_maps": "https://maps.app.goo.gl/StadeMarcelSaupin",
+        "periodo_uso": "1937-1984"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1943,
-      "hasta": null,
-      "c1": "#ffee00",
-      "c2": "#008800",
-      "sh": "#ffee00",
-      "me": "#ffee00",
-      "tipo": "liso",
-      "desc": "Conformación del clásico amarillo vistoso completado por detalles en verde, que les originó y fundamentó el apodo oficial de Los Canarios."
+      "epoca": "1943-actualidad",
+      "diseno": "El inmaculado color de los canarios puros. El club adoptó incondicional e incesantemente la gloriosa armadura de camisa totalmente amarilla radiante, complementada históricamente con calzones y sutiles detalles de un vivo color verde esperanzador."
     }
   ],
   "idolos": [
@@ -316,5 +299,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Henri Michel",
+        "descripcion": "El Jefe Eterno. La mayor e incondicional asombrosa leyenda del club. Un líder purista en el mediocampo que disputó más de 500 partidos, forjando el asombroso, icónico y estético estilo inmaculado del 'Jeu à la nantaise'."
+      },
+      {
+        "nombre": "Maxime Bossis",
+        "descripcion": "El Gran Zaguero. Defensor inmaculado e incondicional asombrosamente fiero, fue la muralla histórica que sostuvo al equipo en la época dorada de los setenta y ochenta, aportando asombrosa salida limpia y elegancia pura."
+      },
+      {
+        "nombre": "Loïc Amisse",
+        "descripcion": "La Flecha Canario. Un fiero e incesante extremo izquierdo asombroso que recorrió incansablemente la banda por 17 rutilantes temporadas, siendo un incondicional asistidor histórico y emblema de los canarios."
+      },
+      {
+        "nombre": "José Touré",
+        "descripcion": "El Brasileño de Nantes. Su técnica inmaculada, purista e indescifrable asombró incondicionalmente a la liga, aportando la magia estética necesaria para alzar majestuosamente los campeonatos nacionales en los ochenta."
+      },
+      {
+        "nombre": "Vahid Halilhodžić",
+        "descripcion": "El Goleador Bosnio. Un delantero asombrosamente feroz y letal que rompió las mallas rivales de forma incondicional, siendo bicampeón de goleo y el máximo artillero en la gloriosa y fiera historia del club."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Bernard Blanchet",
+        "goles": "111"
+      },
+      {
+        "nombre": "Vahid Halilhodžić",
+        "goles": "111"
+      },
+      {
+        "nombre": "Philippe Gondet",
+        "goles": "98"
+      },
+      {
+        "nombre": "Gilles Rampillon",
+        "goles": "93"
+      },
+      {
+        "nombre": "Emiliano Sala",
+        "goles": "48"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Jean-Paul Bertrand-Demanes",
+        "partidos": "532"
+      },
+      {
+        "nombre": "Henri Michel",
+        "partidos": "532"
+      },
+      {
+        "nombre": "Loïc Amisse",
+        "partidos": "503"
+      },
+      {
+        "nombre": "Patrice Rio",
+        "partidos": "436"
+      },
+      {
+        "nombre": "Maxime Bossis",
+        "partidos": "413"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Canaris (Los Canarios)",
+      "origen": "El apodo ornitológico y cromático histórico por excelencia. Bautizados así por la prensa y la afición en directa asociación con el color amarillo inmaculado e intenso de su rústica camisa que domina la geografía de la región de la Loire."
+    },
+    {
+      "apodo": "La Maison Jaune (La Casa Amarilla)",
+      "origen": "Un apodo purista y poético que evoca la inmensa tradición y el sentido de pertenencia familiar incondicional del club, haciendo reverencia a su mítica cantera y filosofía formativa de fútbol base y valores humanos."
+    }
+  ]
 }

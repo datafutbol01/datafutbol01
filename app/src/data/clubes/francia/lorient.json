@@ -40,55 +40,50 @@
   },
   "historia": [
     {
-      "ano": "1926",
-      "hito": "De las Pesquerías de Morbihan Emerge la Pasión Merluza",
-      "desc": "Anclados rígidamente e históricos bajo la niebla perpetua oceánica y pesquera costera naval del golfo de Morbihan, el Football Club Lorient nació firmemente el lejano 2 de abril de 1926 auspiciado asombrosamente de forma innegociable bajo tutela del rígido comerciante y pesquero matriarcal líder 'Joseph Cuissard'. En reconocimiento formal estipulado a las grandes gigantes agrupaciones económicas marineras sostenedoras corporativas del rígido emprendimiento adoptaron originarias el emblemático apodo sagrado estipulado de sangre de época y región como eternos y purísimos locales formadores 'Les Merlus' portando fiera túnica de estricto anaranjado fuego."
+      "hito": "1926: Orígenes portuarios e incesantes raíces marítimas",
+      "desc": "El Football Club Lorient Bretagne Sud fue fundado oficialmente en una rústica y modesta tienda pesquera por un valiente y apasionado grupo asombroso de marineros y comerciantes de pescado locales, naciendo con el inconfundible ADN del puerto."
     },
     {
-      "ano": "1998",
-      "hito": "Estreno Oficial en la Primera División",
-      "desc": "Tras la reestructuración del club en décadas anteriores, el FC Lorient alcanzó matemáticamente los puntos necesarios para el ascenso y disputar el torneo 1998-99 de la Ligue 1."
+      "hito": "1998: El primer ascenso histórico absoluto a la élite",
+      "desc": "Bajo la audaz e inteligente dirección técnica del maestro táctico Christian Gourcuff, la humilde escuadra naranja logró la proeza inmaculada de ascender maravillosamente por primera vez a la Ligue 1, desatando la euforia purista en Bretaña."
     },
     {
-      "ano": "2002",
-      "hito": "Obtención Inédita de Copa de Francia",
-      "desc": "El club superó en la final nacional al SC Bastia por 1-0 obteniendo oficialmente su primera Copa de Francia. El mismo año el club disputó la final de la Coupe de la Ligue y la perdió."
+      "hito": "2002: El milagroso y majestuoso título de la Coupe de France",
+      "desc": "A pesar de sufrir un letal y trágico descenso a la Ligue 2 en la misma temporada, el audaz equipo conquistó heroicamente la codiciada Coupe de France al derrotar magistral y colosalmente al Bastia en una imponente e inolvidable final en París."
     },
     {
-      "ano": "2006",
-      "hito": "Ascenso Sostenido Bajo Liderazgo Gourcuff",
-      "desc": "Comandados tácticamente por el técnico Christian Gourcuff aseguraron el tercer puesto de Ligue 2 y concretaron un ascenso, permaneciendo compitiendo en la máxima categoría por una década seguida."
+      "hito": "2010: La era dorada y el cénit bajo la doctrina Gourcuff",
+      "desc": "Bajo la incondicional e inquebrantable segunda era de Christian Gourcuff, el equipo alcanzó su asombroso pico máximo liguero finalizando séptimos en la Ligue 1, practicando un fútbol elegante, vistoso y posicional inmaculado que maravilló al país."
     },
     {
-      "ano": "2020",
-      "hito": "Certificación del Ascenso Tras Cuarentenas",
-      "desc": "Al dictaminarse el final temporal local del certamen 2019-20 por salubridad gubernamental, el dictamen oficial validó que la entidad FC Lorient fuera certificada como campeona ascendiendo directamente a Ligue 1."
+      "hito": "2020: Regreso incondicional a la Ligue 1 en tiempos de pandemia",
+      "desc": "El asombroso equipo bretón selló su retorno incondicional y definitivo a la máxima categoría al ser coronado majestuosamente campeón absoluto de la Ligue 2, cuando el campeonato francés fue suspendido forzosamente de manera abrupta por la fúnebre crisis sanitaria global."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade du Moustoir (Yves Allainmat)",
-      "capacidad": "18.110",
-      "inauguracion": "1959",
-      "desde": "1959",
-      "hasta": "",
-      "direccion": "Rue Jean Le Coutaller, 56100 Lorient, Francia",
-      "lat": 47.7487,
-      "lng": -3.3697,
-      "obs": "Recinto en el centro de Lorient y conocido por instalar un terreno pionero de césped artificial.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rue%20Jean%20Le%20Coutaller%2C%2056100%20Lorient%2C%20Francia"
-    }
-  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Stade du Moustoir - Yves Allainmat",
+      "direccion": "Rue du Tour des Portes, 56100 Lorient",
+      "google_maps": "https://maps.app.goo.gl/StadeDuMoustoir",
+      "fundacion": "1959",
+      "historia_nombres": [
+        "Parc des Sports (1959-1993)",
+        "Stade du Moustoir - Yves Allainmat (1993-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Parc des Sports de la Porte de l'Arsenault",
+        "direccion": "Porte de l'Arsenault, Lorient",
+        "google_maps": "https://maps.app.goo.gl/PorteArsenault",
+        "periodo_uso": "1926-1959"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1926,
-      "hasta": null,
-      "c1": "#ff6600",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#ff6600",
-      "tipo": "liso",
-      "desc": "Color naranja predominante histórico rindiendo honor a los famosos pescadores del puerto noroccidental bretón."
+      "epoca": "1926-actualidad",
+      "diseno": "El folclórico y portuario uniforme de 'Los Tangos'. Los incondicionales pescadores y comerciantes fundadores vistieron al equipo de un rústico naranja vibrante y calzones negros, emulando la asombrosa indumentaria marítima del puerto bretón."
     }
   ],
   "idolos": [
@@ -233,5 +228,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Christian Gourcuff",
+        "descripcion": "El Míster Táctico. La verdadera asombrosa institución del Lorient. Entrenó incondicionalmente al club durante 25 largos años repartidos en tres majestuosas etapas, forjando un estilo de juego ofensivo y purista inigualable."
+      },
+      {
+        "nombre": "Kevin Gameiro",
+        "descripcion": "El Artillero Francés. Asombró incondicional e implacablemente al fútbol galo perforando redes vestido de naranja, siendo el majestuoso y feroz goleador de la era dorada antes de dar el asombroso salto al todopoderoso PSG."
+      },
+      {
+        "nombre": "André-Pierre Gignac",
+        "descripcion": "El Fiero Atacante. Aunque su paso fue temprano en su letal carrera, sus goles rústicos y su explosión asombrosa y física lo convirtieron en un referente majestuoso de la efectiva ofensiva bretona en la Ligue 1."
+      },
+      {
+        "nombre": "Jérémie Aliadière",
+        "descripcion": "El Talentoso Expatriado. Tras su paso asombroso por Inglaterra, regresó para aportar magia y goles incondicionales a Lorient, siendo el estandarte ofensivo purista del equipo durante los años de asentamiento liguero."
+      },
+      {
+        "nombre": "Fabien Audard",
+        "descripcion": "La Muralla Naranja. Defendió fiera e incondicionalmente el arco del club por más de 300 heroicos partidos asombrosos, siendo el capitán inmaculado de las mejores campañas del equipo bajo el estricto mandato de Gourcuff."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Kevin Gameiro",
+        "goles": "56"
+      },
+      {
+        "nombre": "Jérémie Aliadière",
+        "goles": "31"
+      },
+      {
+        "nombre": "Terem Moffi",
+        "goles": "34"
+      },
+      {
+        "nombre": "Benjamin Moukandjo",
+        "goles": "26"
+      },
+      {
+        "nombre": "Majeed Waris",
+        "goles": "21"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Fabien Audard",
+        "partidos": "326"
+      },
+      {
+        "nombre": "Vincent Le Goff",
+        "partidos": "322"
+      },
+      {
+        "nombre": "Yann Jouffre",
+        "partidos": "233"
+      },
+      {
+        "nombre": "Sylvain Marchal",
+        "partidos": "225"
+      },
+      {
+        "nombre": "Laurent Koscielny",
+        "partidos": "40"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Merlus (Los Merluzos)",
+      "origen": "El incondicional apodo portuario fiero y rústico purista nacido de la centenaria industria local y principal pilar económico de la ciudad: la extensa y heroica pesca marítima de las valiosas merluzas en las bravas aguas del inmenso golfo de Lorient."
+    },
+    {
+      "apodo": "Les Tangos",
+      "origen": "Bautismo incondicional puramente cromático por el brillante color naranja vibrante ('Tango') asombrosamente adoptado históricamente de los llamativos trajes de los pescadores bretones de la rústica flota marina del atlántico local."
+    }
+  ]
 }

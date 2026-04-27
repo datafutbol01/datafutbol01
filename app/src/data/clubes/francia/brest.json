@@ -40,55 +40,43 @@
   },
   "historia": [
     {
-      "ano": "1950",
-      "hito": "El Nacimiento y la Fusión Armórica Brestoise",
-      "desc": "Ubicado cimentado rígidamente en la costa portuaria fortificada naval de Bretaña, el club surgió el 26 de junio de 1950 bajo el nombre matriz Stade Brestois gracias a la colosal e imperativa fusión barrial de uniones católicas: Amicale de Saint-Denis, Lavenir de Saint-Martin y La Flamme. Con la férrea influencia oficial originada por el Padre obispo de época rector local y la dictaminada de su presidente Jean Offret, forjaron inmensos vínculos portando escudo color blanco."
+      "hito": "1950: Fusión cívica y fundacional forzosa",
+      "desc": "El rústico club fue constituido oficialmente tras la incondicional y forzosa fusión de cinco inmensos patronatos de la región de Armoricaine, forjando una alianza inquebrantable en la ciudad bretona."
     },
     {
-      "ano": "1979",
-      "hito": "Estreno Oficial en Primera División",
-      "desc": "El Stade Brestois ganó el ascenso del fútbol francés a la máxima categoría, disputando su temporada inaugural en la élite durante el ciclo 1979-80."
+      "hito": "1981: El majestuoso desembarco a la Primera División",
+      "desc": "Bajo la audaz presidencia de François Yvinec, el fiero club de Bretaña logró maravillosamente el primer e histórico ascenso a la élite absoluta del fútbol francés tras una dura campaña asombrosa."
     },
     {
-      "ano": "1983",
-      "hito": "Adicción de Inversionistas",
-      "desc": "El presidente François Yvinec asumió el control e inyectó recursos que le permitieron al club fichar jugadores internacionales sudamericanos de forma regular."
+      "hito": "1991: Quiebra financiera y la feroz disolución lúgubre",
+      "desc": "Ahogados por oscuras y asfixiantes deudas inmensas, el club quebró financieramente, sufriendo un fúnebre y lapidario descenso administrativo a las rústicas divisiones amateurs, perdiendo su estatus profesional."
     },
     {
-      "ano": "1991",
-      "hito": "Quiebra Financiera y Descenso Administrativo",
-      "desc": "Acumulando abultadas deudas con Hacienda y salarios impagos, la junta rectora de la liga dictaminó la quiebra oficial del club, condenándolo a descender administrativamente a la tercera categoría."
+      "hito": "2004: La épica redención y regreso al profesionalismo",
+      "desc": "Tras purgar ferozmente sus oscuros pecados financieros en las lúgubres divisiones menores, el equipo bretón retornó heroicamente a la Ligue 2, recuperando de forma oficial e incondicional su añorado estatus profesional."
     },
     {
-      "ano": "2024",
-      "hito": "Mejor Clasificación Histórica y Fase de Liga Europea",
-      "desc": "El equipo alcanzó por primera vez la tercera posición final en la Ligue 1, asegurando su presencia en la fase de grupos de la Liga de Campeones."
+      "hito": "2024: La clasificación inmaculada al firmamento europeo",
+      "desc": "El inmenso milagro táctico moderno. El fiero equipo de Brest selló su histórica e insólita clasificación a la rutilante Champions League, marcando el cénit inmaculado de su rústica historia institucional."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade Francis-Le Blé",
-      "capacidad": "15.220",
-      "inauguracion": "1922",
-      "desde": "1922",
-      "hasta": "",
-      "direccion": "Rte de Quimper, 29200 Brest, Francia",
-      "lat": 48.4038,
-      "lng": -4.4616,
-      "obs": "Recinto originalmente llamado Stade de l'Armoricaine, fue renombrado en homenaje a un ex alcalde.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rte%20de%20Quimper%2C%2029200%20Brest%2C%20Francia"
-    }
-  ],
+      "direccion": "26 Route de Quimper, 29200 Brest",
+      "google_maps": "https://maps.app.goo.gl/FrancisLeBle",
+      "fundacion": "1922",
+      "historia_nombres": [
+        "Stade de l'Armoricaine (1922-1982)",
+        "Stade Francis-Le Blé (1982-actualidad)"
+      ]
+    },
+    "viejos": []
+  },
   "equipacion": [
     {
-      "desde": 1950,
-      "hasta": null,
-      "c1": "#e30613",
-      "c2": "#ffffff",
-      "sh": "#ffffff",
-      "me": "#e30613",
-      "tipo": "liso",
-      "desc": "La histórica escuadra bretona se viste tradicionalmente de rojo liso con pantalones blancos."
+      "epoca": "1950-actualidad",
+      "diseno": "El rojo sangre purista del espíritu guerrero bretón. La institución vistió históricamente la armadura roja vibrante lisa, contrastando inmaculada y férreamente con colosales calzones blancos puros."
     }
   ],
   "idolos": [
@@ -231,5 +219,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Roberto Cabañas",
+        "descripcion": "El Ídolo Sudamericano. El asombroso y temperamental delantero paraguayo revolucionó el club en los ochenta con su garra incondicional y goles acrobáticos, convirtiéndose en el favorito histórico absoluto de las fieras gradas del Le Blé."
+      },
+      {
+        "nombre": "David Ginola",
+        "descripcion": "El Mago Refinado. Antes de ser una estrella mundial, Ginola deslumbro asombrosamente en Bretaña con su extrema elegancia purista y letales regates asombrosos, dejando una huella estética inmaculada en sus primeros años profesionales."
+      },
+      {
+        "nombre": "Paul Le Guen",
+        "descripcion": "El Guerrero Bretón. Orgullo de la incondicional cantera local, el rústico mediocampista impuso un rigor táctico fiero que lo llevó luego al PSG, siendo siempre venerado como el hijo pródigo asombroso de Brest."
+      },
+      {
+        "nombre": "Bruno Grougi",
+        "descripcion": "El Capitán del Retorno. Un incondicional líder moderno que acompañó feroz y lealmente al club durante nueve años en la Ligue 2, forjando el asombroso camino del equipo hacia la redención y estabilización en la élite."
+      },
+      {
+        "nombre": "Eric Roy",
+        "descripcion": "El Técnico del Milagro. El estratega que orquestó magistral y asombrosamente la histórica temporada 2023-2024, clasificando al modesto club a la purista y deslumbrante Champions League por primera vez en su fiera historia."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Bruno Grougi",
+        "goles": "53"
+      },
+      {
+        "nombre": "Drago Vabec",
+        "goles": "46"
+      },
+      {
+        "nombre": "Gérard Buscher",
+        "goles": "44"
+      },
+      {
+        "nombre": "Nolan Roux",
+        "goles": "29"
+      },
+      {
+        "nombre": "Steve Mounié",
+        "goles": "23"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Bruno Grougi",
+        "partidos": "275"
+      },
+      {
+        "nombre": "Jean-Pierre Bosser",
+        "partidos": "264"
+      },
+      {
+        "nombre": "Richard Honorine",
+        "partidos": "251"
+      },
+      {
+        "nombre": "Steeve Elana",
+        "partidos": "240"
+      },
+      {
+        "nombre": "Brendan Chardonnet",
+        "partidos": "231"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Ty' Zefs (Los Hijos del Viento)",
+      "origen": "Un incondicional, fiero e histórico apodo barrial bretón. Honra el poderoso viento atlántico que castiga rústicamente el puerto y hace reverencia a los duros habitantes nacidos en la inmensa ciudad de Brest, quienes alientan incondicionalmente al club de sus amores bajo cualquier clima."
+    },
+    {
+      "apodo": "Les Pirates (Los Piratas)",
+      "origen": "Bautismo fiero y moderno adoptado incondicionalmente por la valiente hinchada ('Kop Iroise') para representar el coraje costero corsario y rebelde de la ciudad atlántica frente a los opresores y millonarios clubes parisinos."
+    }
+  ]
 }

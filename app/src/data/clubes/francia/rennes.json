@@ -40,55 +40,43 @@
   },
   "historia": [
     {
-      "ano": "1901",
-      "hito": "Asimilación Estudiantil y Orgullo de Pura Raza Bretona Forjando Elt Stade",
-      "desc": "Orquestado férreamente por formaciones e ideales inmensurables estipuladas en las frías aulas letales formales originarias purísimas de estudiantes galos férreos el 10 de rudo marzo de origen histórico de época 1901 el gigantesco y Stade Rennais surgió heroicamente y asombrosamente forzado por Duchesne y unos cuantos alumnos nobles devorando e instalando escudo innegnable de férreos formidables armiños blancos estipulados rústicos innegociables soberanos s representantes de bandera y escudo rojinegro absoluto estricto e invicto y originario del coliseo bretón inmenso gigante letal estipulado originario purista estipulado."
+      "hito": "1901: Forjado asombroso fundacional por universitarios",
+      "desc": "El Stade Rennais Football Club fue fundado puristamente el 10 de marzo de 1901 por un grupo entusiasta de estudiantes incondicionales universitarios locales, adoptando heroicamente los tradicionales colores negro y rojo de forma inamovible."
     },
     {
-      "ano": "1965",
-      "hito": "El Primer Campeonato de Copa de Francia",
-      "desc": "Tras registrar un empate de 2-2 en la serie inicial, el equipo ganó el partido de repetición por 3-1 ante el Sedan Ardennes, logrando su primer trofeo de Copa de Francia."
+      "hito": "1965: El asombroso y agónico primer grito en la Coupe de France",
+      "desc": "El club rompió magistral y asombrosamente su prolongada sequía de títulos logrando su ansiada primera conquista nacional, tras doblegar feroz e incondicionalmente al valiente Sedan en una vibrante y heroica repetición de la histórica final copera."
     },
     {
-      "ano": "1998",
-      "hito": "Inversión Corporativa de Grupo Artemis",
-      "desc": "La municipalidad traspasó el control administrativo y financiero al holding empresarial Artemis, dirigido por François Pinault, otorgándole capital y una infraestructura sólida."
+      "hito": "1971: El segundo rugido nacional puro de la copa",
+      "desc": "Apenas seis cortos años después de su primer éxito, la institución volvió a coronarse de forma majestuosa y fiera, batiendo por asombrosa diferencia mínima al temible Olympique de Lyon en la mágica e histórica final copera en París."
     },
     {
-      "ano": "2019",
-      "hito": "Tercera Copa de Francia Frente al PSG",
-      "desc": "El conjunto rojinegro empató a dos tantos contra el Paris Saint-Germain y resolvió el partido desde el punto de penal venciendo por 6-5, obteniendo su primera Copa en casi cincuenta años."
+      "hito": "2019: La ruptura de la sequía milagrosa tras medio siglo de dolor",
+      "desc": "Luego de 48 lúgubres y eternos años sin saborear un solo trofeo asombroso letal, el incondicional equipo logró lo imposible destronando al tirano y millonario PSG en una épica final de Coupe de France definida gloriosamente en una dramática tanda de penales."
     },
     {
-      "ano": "2020",
-      "hito": "Mejor Clasificación Institucional (Podio)",
-      "desc": "Con el dictamen gubernamental del corte del torneo por pandemia en la fecha 28, el club garantizó legalmente el tercer lugar, clasificando por primera vez a la UEFA Champions League."
+      "hito": "2020: La ansiada y colosal clasificación a la Champions",
+      "desc": "Tras una magistral e incondicional temporada asombrosamente de asombrosa bajo la firme batuta de Julien Stéphan, el equipo bretón consumó su asombroso y rústico milagro táctico sellando su histórico pasaje para disputar las deslumbrantes noches de la Champions League por primera vez."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Roazhon Park (Stade de la Route de Lorient)",
-      "capacidad": "29.778",
-      "inauguracion": "1912",
-      "desde": "1912",
-      "hasta": "",
-      "direccion": "111 Rue de Lorient, 35000 Rennes, Francia",
-      "lat": 48.1075,
-      "lng": -1.7128,
-      "obs": "El bastión bretón adoptó a mediados del s. XXI un neologismo para nombrarse mediante su dialecto lingüístico original de Bretaña.",
-      "url": "https://www.google.com/maps/search/?api=1&query=111%20Rue%20de%20Lorient%2C%2035000%20Rennes%2C%20Francia"
-    }
-  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Roazhon Park",
+      "direccion": "111 Route de Lorient, 35000 Rennes",
+      "google_maps": "https://maps.app.goo.gl/RoazhonPark",
+      "fundacion": "1912",
+      "historia_nombres": [
+        "Parc des Sports de la Route de Lorient (1912-2015)",
+        "Roazhon Park (2015-actualidad)"
+      ]
+    },
+    "viejos": []
+  },
   "equipacion": [
     {
-      "desde": 1901,
-      "hasta": null,
-      "c1": "#e30613",
-      "c2": "#e30613",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "liso",
-      "desc": "Característica camisola roja rematada permanentemente por shorts negros. El escudo es símbolo roji-negro original de la zona."
+      "epoca": "1901-actualidad",
+      "diseno": "El glorioso y rústico 'Rouge et Noir' incondicional. Los estudiantes fundadores forjaron inmaculadamente el icónico diseño a mitades o liso de un feroz color rojo sangre y un severo negro fúnebre, rindiendo tributo asombroso a los históricos colores tradicionales del departamento bretón de Ille-et-Vilaine."
     }
   ],
   "idolos": [
@@ -256,5 +244,79 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Romain Danzé",
+        "descripcion": "El Hijo de Bretaña. Fiel y asombroso escudero incondicional del club ('One Club Man'). El aguerrido capitán fiero defendió el escudo toda su vida, siendo un estandarte moral inmaculado para la fiera afición local."
+      },
+      {
+        "nombre": "Petr Čech",
+        "descripcion": "El Muro Checo. Antes de ser una leyenda en la asombrosa Premier League, el gigantesco arquero asombró incondicional e implacablemente en el Rennes con sus fieros reflejos felinos intocables."
+      },
+      {
+        "nombre": "Alexander Frei",
+        "descripcion": "El Francotirador Suizo. Un delantero asombrosamente táctico y letal que perforó las redes francesas, siendo el máximo artillero incondicional de la liga y devolviendo al equipo el purista respeto ofensivo."
+      },
+      {
+        "nombre": "Eduardo Camavinga",
+        "descripcion": "El Prodigio Precoz. La asombrosa y majestuosa academia del club pulió a este incondicional diamante en bruto, quien maravilló a Europa entera con su fiera madurez en el mediocampo a los 16 años."
+      },
+      {
+        "nombre": "Benjamin Bourigeaud",
+        "descripcion": "El Símbolo de la Nueva Era. Un mediocampista de clase inmaculada y pegada asombrosa incondicional que lideró la heroica victoria copera de 2019, rompiendo fiera y definitivamente la letal sequía de medio siglo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Jean Grumellon",
+        "goles": "154"
+      },
+      {
+        "nombre": "Daniel Rodighiero",
+        "goles": "125"
+      },
+      {
+        "nombre": "Benjamin Bourigeaud",
+        "goles": "66"
+      },
+      {
+        "nombre": "Laurent Pokou",
+        "goles": "52"
+      },
+      {
+        "nombre": "Alexander Frei",
+        "goles": "52"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Yves Boutet",
+        "partidos": "394"
+      },
+      {
+        "nombre": "Romain Danzé",
+        "partidos": "376"
+      },
+      {
+        "nombre": "Louis Cardiet",
+        "partidos": "328"
+      },
+      {
+        "nombre": "René Cédolin",
+        "partidos": "322"
+      },
+      {
+        "nombre": "Benjamin Bourigeaud",
+        "partidos": "311"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Rouge et Noir (Los Rojinegros)",
+      "origen": "El apodo cromático oficial asombroso que designa la purista, estricta e inquebrantable combinación de su camisa originaria. Estos oscuros tonos rinden tributo directo a los colores históricos tradicionales y eclesiásticos de la capital bretona."
+    }
+  ]
 }

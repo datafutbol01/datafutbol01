@@ -40,55 +40,51 @@
   },
   "historia": [
     {
-      "ano": "1919",
-      "hito": "El Nacimiento del SCO Angers Tras la Gran Guerra",
-      "desc": "Con el fin de la Primera Guerra Mundial, las arcas y ánimos de la ciudad de Angers necesitaban resurgir. El 10 de octubre de 1919, bajo el impulso de los hermanos Auguste y Georges Fortin, directores del banco local Crédit de l'Ouest, se fundó el Sporting Club de l'Ouest (SCO) en el recinto del café Le Fresne. La visión original fue consolidar una entidad polideportiva sólida y corporativa que absorbiera el modesto club previo 'Angers Université Club', unificando a los pioneros futbolísticos de la prefectura de Maine-et-Loire bajo un estricto color blanco y negro."
+      "hito": "1919: Fundación oficial bajo los colores de la banca",
+      "desc": "El club Sporting Club de l'Ouest (SCO) fue fundado el 10 de octubre de 1919 por los hermanos Fortin, administradores del Crédit de l'Ouest, quienes adoptaron el blanco y el negro como colores institucionales inspirados en los rigurosos balances bancarios."
     },
     {
-      "ano": "1956",
-      "hito": "Primer Ascenso a Primera División",
-      "desc": "El club logró el subcampeonato en la temporada 1955-56 de la Division 2, asegurando el ascenso para competir en la máxima categoría del fútbol francés por primera vez."
+      "hito": "1957: El subcampeonato histórico en la Coupe de France",
+      "desc": "La institución alcanzó la primera gran final copera nacional de su historia, perdiendo heroicamente 6-3 ante un arrollador Toulouse en el majestuoso coliseo de Colombes, sellando un memorable registro ofensivo."
     },
     {
-      "ano": "1967",
-      "hito": "Tercer Puesto Histórico en Ligue 1",
-      "desc": "El equipo alcanzó la tercera ubicación del campeonato de liga, consiguiendo la mejor estadística posicional del equipo en la historia de la primera división."
+      "hito": "1967: El brillante esplendor liguero liderado por Kopa",
+      "desc": "Bajo la celestial y mágica influencia técnica del genio Raymond Kopa (surgido de las divisiones menores del club en los cincuenta), Angers alcanzó un colosal tercer puesto histórico en la élite absoluta de Primera División."
     },
     {
-      "ano": "1972",
-      "hito": "Participación en la Copa de la UEFA",
-      "desc": "El club disputó su primer torneo continental oficial enfrentándose al Dynamo de Berlín en la primera ronda eliminatoria de la Copa de la UEFA."
+      "hito": "1993: Ascenso rutilante y condena al oscuro infierno",
+      "desc": "Tras un milagroso ascenso deportivo a la élite, el club sufrió una asfixiante quiebra financiera y fue condenado feroz e infamemente a la ruina, descendiendo a los rústicos infiernos del Championnat National (tercera división)."
     },
     {
-      "ano": "2017",
-      "hito": "Subcampeonato de la Copa de Francia",
-      "desc": "El equipo alcanzó la final de la Copa de Francia en 2017, perdiendo el encuentro decisivo por 1-0 frente al Paris Saint-Germain tras un autogol en tiempo de descuento."
+      "hito": "2015: La redención absoluta y resurrección del SCO",
+      "desc": "El técnico Stéphane Moulin orquestó magistralmente un ascenso milagroso, devolviendo incondicionalmente al fiero club obrero a las brillantes luces rutilantes de la Ligue 1 tras padecer 21 largos y trágicos años de penitencia."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade Raymond Kopa (Anteriormente Jean-Bouin)",
-      "capacidad": "18.752",
-      "inauguracion": "1912",
-      "desde": "1912",
-      "hasta": "",
-      "direccion": "73 Bd Jacques Portet, 49000 Angers, Francia",
-      "lat": 47.4608,
-      "lng": -0.5305,
-      "obs": "Hogar centenario del Angers, conocido originalmente como Stade Jean-Bouin hasta su rebautizo en 2017.",
-      "url": "https://www.google.com/maps/search/?api=1&query=73%20Bd%20Jacques%20Portet%2C%2049000%20Angers%2C%20Francia"
-    }
-  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Stade Raymond Kopa",
+      "direccion": "73 Boulevard Pierre de Coubertin, 49000 Angers",
+      "google_maps": "https://maps.app.goo.gl/RaymondKopaAngers",
+      "fundacion": "1912",
+      "historia_nombres": [
+        "Stade Bessonneau (1912-1957)",
+        "Stade Jean-Bouin (1957-2017)",
+        "Stade Raymond Kopa (2017-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Terrenos del Velo-Club d'Angers",
+        "direccion": "Avenue Pasteur, Angers",
+        "google_maps": "https://maps.app.goo.gl/VeloClubAngers",
+        "periodo_uso": "1919-1920"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1919,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "rayas-verticales",
-      "desc": "Clásica indumentaria blanquinegra rayada que ha distinguido al club a lo largo de cien años."
+      "epoca": "1919-actualidad",
+      "diseno": "La inmaculada y eterna sobriedad de las finanzas. Desde el mismo día de su fundación en el seno purista del Crédit de l'Ouest, el equipo adoptó incondicionalmente los severos colores institucionales blanco y negro (a rayas verticales oscuras o a bloques puros lisos), reflejando históricamente la rústica tinta de los balances bancarios de sus creadores."
     }
   ],
   "idolos": [
@@ -229,5 +225,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Raymond Kopa",
+        "descripcion": "El Genio Pionero. Antes de maravillar al mundo entero en el Real Madrid, el diminuto y asombroso mago forjó sus primeras armas incondicionales de profesional en el Angers, dejando una huella técnica imborrable que el club honra dándole su majestuoso nombre al estadio."
+      },
+      {
+        "nombre": "Jean-Marc Guillou",
+        "descripcion": "El Maestro Táctico. Un mediocampista de clase inmaculada y visión periférica pura. Lideró asombrosamente la época dorada del club en los setenta, desplegando un fútbol elegante e incondicional que lo catapultó directamente a la selección francesa."
+      },
+      {
+        "nombre": "Stéphane Moulin",
+        "descripcion": "El Arquitecto del Ascenso. Dirigió magistralmente al equipo durante más de una década, orquestando el heroico retorno a la Ligue 1 en 2015 tras 21 años de oscuros letargos, consolidando una era de incondicional respeto nacional."
+      },
+      {
+        "nombre": "Cheikh N'Doye",
+        "descripcion": "El Gigante Guerrero. Capitán asombroso de la era moderna, el senegalés impuso una fiera tiranía física en el mediocampo. Su liderazgo incondicional fue fundamental para sostener al club obrero en la feroz élite liguera."
+      },
+      {
+        "nombre": "Vincent Manceau",
+        "descripcion": "El Fiel Escudero. Jugador de asombroso y puro club ('One Club Man'), defendió fiera e incondicionalmente la camiseta del Angers en todas las categorías durante más de 14 años, siendo el emblema moderno de la lealtad."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Jean Deloffre",
+        "goles": "70"
+      },
+      {
+        "nombre": "Stéphane Bahoken",
+        "goles": "28"
+      },
+      {
+        "nombre": "Thomas Mangani",
+        "goles": "26"
+      },
+      {
+        "nombre": "Karl Toko Ekambi",
+        "goles": "24"
+      },
+      {
+        "nombre": "Famara Diédhiou",
+        "goles": "23"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Pierre Bourdel",
+        "partidos": "471"
+      },
+      {
+        "nombre": "Vincent Manceau",
+        "partidos": "389"
+      },
+      {
+        "nombre": "Jean-Marc Guillou",
+        "partidos": "298"
+      },
+      {
+        "nombre": "Thomas Mangani",
+        "partidos": "263"
+      },
+      {
+        "nombre": "Ismaël Traoré",
+        "partidos": "226"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Le SCO (El SCO)",
+      "origen": "Referencia incondicional, purista y absoluta a sus históricas siglas fundacionales: Sporting Club de l'Ouest. El acrónimo se consolidó como la única denominación solemne del club obrero desde su concepción en 1919."
+    },
+    {
+      "apodo": "Les Dallesistes",
+      "origen": "Un fiero apelativo folclórico moderno que honra 'La Dalle Angevine', una expresión regional que evoca el hambre incondicional, la sed de victoria y el espíritu inquebrantable de sacrificio de los habitantes de Anjou, infundido directamente en el carácter del equipo."
+    }
+  ]
 }

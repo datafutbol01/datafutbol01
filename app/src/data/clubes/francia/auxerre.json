@@ -40,55 +40,43 @@
   },
   "historia": [
     {
-      "ano": "1905",
-      "hito": "Nacimiento Clerical en la Abbaye Saint-Germain",
-      "desc": "El 29 de diciembre de 1905, el reverendo y padre abad católico Ernest Deschamps formalizó la fundación de la Association de la Jeunesse Auxerroise (AJA) dentro del marco de la parroquia Saint-Estèphe, como una rigurosa entidad parroquial deportiva para alejar a los jóvenes católicos de las asociaciones laicas impuestas por la Tercera República. En sus orígenes no había magnates sino monaguillos, y la escuadra portó desde su núcleo los imborrables estandartes azul y blanco marianos del catolicismo originario."
+      "hito": "1905: Génesis eclesiástica y recreativa fundacional",
+      "desc": "La 'Association de la Jeunesse Auxerroise' fue inmaculadamente fundada el 29 de diciembre de 1905 por el piadoso abad Deschamps, un cura francés que utilizó el fútbol amateur purista como rústica distracción para alejar a los incipientes jóvenes locales de los oscuros vicios."
     },
     {
-      "ano": "1961",
-      "hito": "El Nombramiento de Guy Roux",
-      "desc": "La directiva asignó a Guy Roux como entrenador. Roux se mantuvo en el cargo durante 44 años, liderando al club desde las divisiones regionales hasta la primera división."
+      "hito": "1961: El inicio de la sagrada tiranía de Guy Roux",
+      "desc": "A la incondicional edad de 23 años, Guy Roux fue nombrado temerariamente como técnico totalitario. Su colosal régimen forjó una incondicional dictadura táctica que perduró históricamente por 44 largos años, transformando un equipo aficionado en una potencia europea."
     },
     {
-      "ano": "1994",
-      "hito": "El Primer Título Nacional",
-      "desc": "El club obtuvo su primer torneo nacional al consagrarse campeón de la Copa de Francia, tras derrotar por 3-0 al Montpellier en el estadio Parque de los Príncipes."
+      "hito": "1980: El heroico y glorioso desembarco a la élite",
+      "desc": "Tras décadas oscuras y formativas en lúgubres categorías de ascenso purista, Guy Roux llevó incesante y maravillosamente al pequeño equipo provincial a su primer e histórico ascenso a la Primera División de Francia."
     },
     {
-      "ano": "1996",
-      "hito": "Doble Corona Nacional",
-      "desc": "El equipo ganó matemáticamente su primer y único campeonato de Ligue 1 y ganó paralelamente la Copa de Francia tras vencer al Nîmes en la final."
+      "hito": "1996: El asombroso y colosal doblete glorioso",
+      "desc": "La majestuosa cumbre de la histórica filosofía formativa de Guy Roux. Un fiero equipo de canteranos conquistó incondicionalmente la gloriosa Ligue 1 y la codiciada Coupe de France, logrando la doble corona nacional."
     },
     {
-      "ano": "2010",
-      "hito": "Clasificación a la UEFA Champions League",
-      "desc": "Tras terminar la temporada de liga en tercer lugar por detrás de Marsella y Lyon, el club obtuvo el acceso a las rondas previas de la Liga de Campeones."
+      "hito": "2005: El fiero y majestuoso epílogo del patriarca legendario",
+      "desc": "Guy Roux anunció históricamente su incondicional y heroico retiro tras conquistar su cuarta Coupe de France, cerrando el ciclo directivo más majestuoso y largo en la historia moderna del fútbol europeo."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade de l'Abbé-Deschamps",
-      "capacidad": "18.541",
-      "inauguracion": "1918",
-      "desde": "1918",
-      "hasta": "",
-      "direccion": "Rte de Vaux, 89000 Auxerre, Francia",
-      "lat": 47.7867,
-      "lng": 3.5888,
-      "obs": "Uno de los pocos estadios en Francia que es propiedad absoluta del club que reside en él.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rte%20de%20Vaux%2C%2089000%20Auxerre%2C%20Francia"
-    }
-  ],
+      "direccion": "Route de Vaux, 89000 Auxerre",
+      "google_maps": "https://maps.app.goo.gl/AbbeDeschamps",
+      "fundacion": "1918",
+      "historia_nombres": [
+        "Stade de la Route de Vaux (1918-1949)",
+        "Stade de l'Abbé-Deschamps (1949-actualidad)"
+      ]
+    },
+    "viejos": []
+  },
   "equipacion": [
     {
-      "desde": 1905,
-      "hasta": null,
-      "c1": "#ffffff",
-      "c2": "#0055a4",
-      "sh": "#ffffff",
-      "me": "#ffffff",
-      "tipo": "liso",
-      "desc": "Tradicional conjunto inmaculado con vivos o detalles azules y la característica cruz de Malta heráldica."
+      "epoca": "1905-actualidad",
+      "diseno": "La armadura eclesiástica blanca. Fundado puristamente por la iglesia de la Juventud de Auxerre, el club vistió incondicionalmente la impoluta y mística camisa lisa blanca con detalles azules celestes. En sus orígenes rústicos y sagrados, los jugadores bordaron de forma inmaculada la asombrosa cruz de Malta sobre el pecho."
     }
   ],
   "idolos": [
@@ -243,5 +231,83 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Guy Roux",
+        "descripcion": "El Patriarca Mítico. Su incondicional y asombrosa dictadura táctica de 44 años al mando del club lo elevó a estatus de deidad. Transformó maravillosamente un equipo rústico y purista parroquial en un colosal campeón de liga e inmensurable formador de estrellas."
+      },
+      {
+        "nombre": "Eric Cantona",
+        "descripcion": "El Rebelde Naciente. La inmaculada cantera del Auxerre fue el primer y fiero laboratorio que forjó el carácter indomable del ícono francés. Bajo la tutela purista de Guy Roux, Cantona inició su asombrosa y polémica leyenda mundial."
+      },
+      {
+        "nombre": "Djibril Cissé",
+        "descripcion": "El Depredador Veloz. Su asombrosa y explosiva velocidad lo convirtió en un fiero artillero incondicional y bicampeón de goleo de la Ligue 1. Anotó majestuosamente goles decisivos que le dieron al club su última época dorada copera."
+      },
+      {
+        "nombre": "Basile Boli",
+        "descripcion": "La Muralla de Acero. El rústico y férreo defensor central asombró al país debutando muy joven en el club, convirtiéndose en un inquebrantable líder defensivo fiero antes de saltar a la fama continental con el Marsella."
+      },
+      {
+        "nombre": "Andrzej Szarmach",
+        "descripcion": "El Matador Polaco. Fichaje estrella asombroso de los años ochenta, el goleador polaco perforó las redes francesas de forma incondicional, cimentando fiera y maravillosamente el incipiente poderío del Auxerre en la Primera División."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Andrzej Szarmach",
+        "goles": "100"
+      },
+      {
+        "nombre": "Djibril Cissé",
+        "goles": "90"
+      },
+      {
+        "nombre": "Patrice Garande",
+        "goles": "59"
+      },
+      {
+        "nombre": "Jean-Marc Ferreri",
+        "goles": "56"
+      },
+      {
+        "nombre": "Eric Cantona",
+        "goles": "25"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Fabien Cool",
+        "partidos": "467"
+      },
+      {
+        "nombre": "Claude Barret",
+        "partidos": "444"
+      },
+      {
+        "nombre": "Bruno Martini",
+        "partidos": "386"
+      },
+      {
+        "nombre": "Yann Lachuer",
+        "partidos": "338"
+      },
+      {
+        "nombre": "Jean-Marc Ferreri",
+        "partidos": "333"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "AJA (La AJA)",
+      "origen": "El diminutivo incondicional y majestuoso de las siglas originarias 'Association de la Jeunesse Auxerroise', manteniendo intacta la profunda herencia eclesiástica y purista de los monaguillos fundadores del abad Deschamps."
+    },
+    {
+      "apodo": "Les Diplomates (Los Diplomáticos)",
+      "origen": "Apodo histórico en honor a la rústica influencia de la iglesia local y a los primeros colores eclesiásticos asombrosos utilizados por el club antes de establecer su tiranía nacional con Guy Roux."
+    }
+  ]
 }

@@ -40,55 +40,42 @@
   },
   "historia": [
     {
-      "ano": "1932",
-      "hito": "La Fusión de la Lorena y el Estandarte Granate",
-      "desc": "Bañados por la densa y sombría sangre histórica militar de la región y ciudad fortificada limítrofe innegociable férrea bastión de toda Lorena el Football Club de Metz nacería a estricto rigor del 15 de abril de 1932 estipulada y gigantesca innegociable fusión del Cercle Athlétique Messin y el Association Sportive Messine liderada impulsando fuertemente formaciones por su ideólogo y mandatario formal inmenso Maurice Michaux orquestando innegociable estricto escudo y portando cruz patriarcal oficial de fuego de tonos granates rústicos forjados inmensos del acero originario obrero dictaminado formador cruz oscuros aceros de toda inmensa formal estipendia e innegable de la colosal Lorena obrera."
+      "hito": "1932: Fusión fundacional y paso al profesionalismo",
+      "desc": "El FC Metz nació oficialmente tras la audaz fusión de los clubes amateurs locales CAM y ASM, buscando forjar una potencia regional unificada que pudiera abrazar el naciente y competitivo estatus profesional del fútbol francés."
     },
     {
-      "ano": "1965",
-      "hito": "Fijación Permanente a la Cima Profesional Local",
-      "desc": "La federación garantizó los derechos adquiridos formalmente para la entidad, asegurando plazas asiduas instalándose regularmente en la máxima división asumiendo su base posicional de largo trecho francés."
+      "hito": "1984: La épica conquista de la primera Coupe de France",
+      "desc": "Bajo la batuta histórica de Henryk Kasperczak, el modesto conjunto loreno sorprendió al poderoso Mónaco venciendo 2-0 en la final de París, conquistando el asombroso primer trofeo mayor de su rica historia en un partido memorable."
     },
     {
-      "ano": "1984",
-      "hito": "Primera Consagración Levantando La Copa Fáctica",
-      "desc": "La plantilla cerró las llaves logrando avanzar de series enfrentando finalmente al equipo AS Monaco en final nacional, superándolo 2-0 asimilando la estatuta y copa legal del torneo estipulado del país."
+      "hito": "1984: La gesta legendaria y el milagro del Camp Nou",
+      "desc": "El equipo escribió la página más gloriosa y audaz de su historia continental al eliminar heroicamente al inmenso FC Barcelona en la Recopa de Europa, goleando maravillosamente 4-1 en España tras haber perdido la ida en casa."
     },
     {
-      "ano": "1984",
-      "hito": "Eliminatoria Táctica Contra el FC Barcelona Lógica",
-      "desc": "En registro de llave europea general de Recopa, batieron al conjunto tras revocar el saldo originado por partido de ida remontando las plazas finalizando 4-1 oficialmente en las tablas directas disputadas en Camp Nou catalán."
+      "hito": "1998: El dramático e histórico subcampeonato liguero",
+      "desc": "El club acarició incondicionalmente la máxima gloria nacional al finalizar en el colosal segundo puesto de la Ligue 1, perdiendo el anhelado y esquivo campeonato frente al Lens únicamente por una trágica y ajustada diferencia de goles."
     },
     {
-      "ano": "1998",
-      "hito": "Subcampeonato Estipulado Numéricamente Empatado",
-      "desc": "Dirigidos bajo planteos del equipo táctico consiguieron los puntos equivalentes al liderato general matemáticamente igualados en 68, donde el factor determinante de la liga originó al Lens como campeón perdiendo en estricto factor de goal average para su tabla."
+      "hito": "2014: Retorno a la élite tras el oscuro infierno de la quiebra",
+      "desc": "Luego de sufrir un doloroso descenso a los rústicos infiernos del fútbol aficionado, el equipo orquestó un majestuoso y heroico doble ascenso consecutivo en tiempo récord, recuperando su merecido y purista estatus de Primera División."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade Saint-Symphorien",
-      "capacidad": "28.786",
-      "inauguracion": "1923",
-      "desde": "1923",
-      "hasta": "",
-      "direccion": "3 All. Saint-Symphorien, 57050 Longeville-lès-Metz, Francia",
-      "lat": 49.1097,
-      "lng": 6.1583,
-      "obs": "Ubicado en la isla de Saint-Symphorien a orillas del Mosela y sede habitual del derbi de Lorena.",
-      "url": "https://www.google.com/maps/search/?api=1&query=3%20All.%20Saint-Symphorien%2C%2057050%20Longeville-l%C3%A8s-Metz%2C%20Francia"
-    }
-  ],
+      "direccion": "3 Allée Saint-Symphorien, 57050 Longeville-lès-Metz",
+      "google_maps": "https://maps.app.goo.gl/StadeSaintSymphorien",
+      "fundacion": "1923",
+      "historia_nombres": [
+        "Stade Saint-Symphorien (1923-actualidad)"
+      ]
+    },
+    "viejos": []
+  },
   "equipacion": [
     {
-      "desde": 1932,
-      "hasta": null,
-      "c1": "#6d1532",
-      "c2": "#ffffff",
-      "sh": "#ffffff",
-      "me": "#6d1532",
-      "tipo": "liso",
-      "desc": "Típica malla granate oscura o bordeaux simbolizando sólidamente la fortaleza de acero de la ciudad lorenesa."
+      "epoca": "1932-actualidad",
+      "diseno": "El incondicional y purista uniforme de 'Les Grenats' (Los Granates). El equipo forjó su rústica armadura de un profundo e inmaculado color granate oscuro, adoptando de forma absoluta el majestuoso color histórico del club amateur fundacional Cercle Athlétique Messin."
     }
   ],
   "idolos": [
@@ -250,5 +237,83 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Sylvain Kastendeuch",
+        "descripcion": "El Capitán Loreno. Un incondicional e implacable defensor rústico que dedicó prácticamente toda su fiera e inmensa carrera al club de su tierra, liderando al equipo en la gloriosa campaña del subcampeonato liguero de 1998."
+      },
+      {
+        "nombre": "Robert Pires",
+        "descripcion": "El Mago Francés. Surgió de la academia granate y asombró al país con su asombrosa técnica y elegancia purista, catapultando al modesto Metz a la élite europea antes de partir como ícono mundial."
+      },
+      {
+        "nombre": "Carmelo Micciche",
+        "descripcion": "El Ícono de los Ochenta. Fiero e incondicional delantero, fue la asombrosa y principal referencia ofensiva durante la primera y gloriosa época del club en Primera División, asombrando con sus letales remates."
+      },
+      {
+        "nombre": "Nico Braun",
+        "descripcion": "El Artillero Luxemburgués. Uno de los delanteros más temidos y prolíficos de la historia del club. Sus incesantes y fieros goles en los años setenta establecieron un intocable y letal récord histórico."
+      },
+      {
+        "nombre": "Rigobert Song",
+        "descripcion": "El Fiero León. El indomable e incondicional zaguero camerunés forjó su asombroso carácter en las filas del Metz, imponiendo un rigor físico rústico asombroso que atemorizó a las ofensivas rivales."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Nico Braun",
+        "goles": "96"
+      },
+      {
+        "nombre": "Ignace Kowalczyk",
+        "goles": "63"
+      },
+      {
+        "nombre": "François Calderaro",
+        "goles": "62"
+      },
+      {
+        "nombre": "Bernard Zénier",
+        "goles": "55"
+      },
+      {
+        "nombre": "Carmelo Micciche",
+        "goles": "51"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Sylvain Kastendeuch",
+        "partidos": "515"
+      },
+      {
+        "nombre": "Philippe Hinschberger",
+        "partidos": "428"
+      },
+      {
+        "nombre": "Albert Cartier",
+        "partidos": "345"
+      },
+      {
+        "nombre": "Romain Metzger",
+        "partidos": "330"
+      },
+      {
+        "nombre": "Sylvain Marchal",
+        "partidos": "230"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Grenats (Los Granates)",
+      "origen": "Denominación estricta y purista referenciada directamente a la profunda y oscura tonalidad granate de su inconfundible camisa, color cívico originario y representativo del club aficionado predecesor CAM (Cercle Athlétique Messin)."
+    },
+    {
+      "apodo": "Les Graoullys",
+      "origen": "Apelativo folclórico e histórico basado en el 'Graoully', la mítica y temeraria bestia en forma de fiero dragón que aterrorizaba asombrosamente las ruinas de la ciudad de Metz hasta ser domada por el heroico San Clemente, convirtiéndose en un ícono de la ciudad y escudo del club."
+    }
+  ]
 }

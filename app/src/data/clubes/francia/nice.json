@@ -40,77 +40,49 @@
   },
   "historia": [
     {
-      "ano": "1904",
-      "hito": "Gimnastas y Obreros Forjan el Águila del Sur",
-      "desc": "El deslumbrante sol y rudo obrero calor extenuante del estival cálido mediterráneo forjaron origines cuando el 9 de julio dictaminado de 1904 deportistas inquebrantables del prestigioso y aristócrata originario aristocrático Club de Gimnasia de Niza el Gymnaste Club de Nice introdujeron de origen fundacional la pelota inyectando purísima sección de fútbol asimilando dictaminada estipulada rígidamente originaria la colosal divisa de rústicos colores rojo y negro estricto absorbiendo fusionadores rudos s formales del Gallia y encumbrando el fiero innegociable e águila inmenso formador del sur."
+      "hito": "1904: Génesis de gimnasia purista y origen en la Riviera",
+      "desc": "Nacido inicialmente bajo el purista nombre de Gymnaste Club de Nice, la institución forjó sus rústicas y fuertes bases deportivas atléticas antes de incorporar y afianzar férreamente el fútbol como su actividad incondicional reinante en los años veinte."
     },
     {
-      "ano": "1951",
-      "hito": "Primer Título Nacional",
-      "desc": "El OGC Nice lideró la temporada 1950-51 amarrando la estadística máxima en la tabla final, adjudicándose su primera liga documentada."
+      "hito": "1951: El asombroso primer cetro nacional de su época dorada",
+      "desc": "La institución de la soleada Riviera francesa conquistó incondicionalmente su primer y heroico campeonato de liga absoluto, abriendo las puertas a su majestuosa y gloriosa edad de oro que dominaría incesantemente el fútbol francés en los cincuenta."
     },
     {
-      "ano": "1959",
-      "hito": "Cuarto Título de Ligue 1",
-      "desc": "El equipo se proclamó campeón de liga por cuarta vez (1951, 1952, 1956 y 1959), validando su éxito deportivo en la década de los cincuenta."
+      "hito": "1956: Tetracampeonato colosal dominando la escena gala",
+      "desc": "Bajo una hegemonía inmaculada, el asombroso equipo alcanzó su histórico tetracampeonato de Primera División, siendo coronados como los reyes indiscutibles de la época, con una brillante artillería ofensiva letal incondicional."
     },
     {
-      "ano": "1997",
-      "hito": "Ingreso a la Copa de Francia",
-      "desc": "A pesar de finalizar en el último lugar de la liga y descender deportivamente, el club obtuvo el título de la Copa de Francia tras vencer en penaltis al Guingamp."
+      "hito": "1997: La inesperada e histórica conquista de la Copa tras la ruina",
+      "desc": "Con el club ahogado en las sombras financieras de la segunda división, el equipo orquestó un rústico milagro incondicional asombroso al coronarse gloriosamente campeones de la Coupe de France al derrotar al Guingamp en una agónica tanda de penales."
     },
     {
-      "ano": "2016",
-      "hito": "Adquisición por Consorcio Internacional",
-      "desc": "Un consorcio asiático y norteamericano adquirió el 80% de las acciones del club. Bajo la dirección de Lucien Favre, lograron el tercer lugar del torneo en 2017."
+      "hito": "2013: Inauguración colosal de su nueva fortaleza moderna",
+      "desc": "El club abandonó las rústicas y veneradas tribunas del mítico Stade du Ray tras casi un siglo de historia y se trasladó orgullosamente al gigantesco e inmaculado Allianz Riviera, dando un salto purista y comercial en sus aspiraciones continentales."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade du Ray",
-      "capacidad": "17.415",
-      "inauguracion": "1927",
-      "desde": "1927",
-      "hasta": "2013",
-      "direccion": "Av. du Ray, 06100 Nice, Francia",
-      "lat": 43.7233,
-      "lng": 7.2597,
-      "obs": "Arena modesta rodeada arquitectónicamente dentro la trama urbana del norte de Niza, hogar de los 4 títulos coperos iniciales.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20du%20Ray%2C%2006100%20Nice%2C%20Francia"
-    },
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Allianz Riviera",
-      "capacidad": "36.178",
-      "inauguracion": "2013",
-      "desde": "2013",
-      "hasta": "",
-      "direccion": "Bd des Jardiniers, 06200 Nice, Francia",
-      "lat": 43.7052,
-      "lng": 7.1927,
-      "obs": "Recinto moderno y sustentable, nombrado bajo patrocinio de acuerdos comerciales al oeste de la riviera francesa.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Bd%20des%20Jardiniers%2C%2006200%20Nice%2C%20Francia"
-    }
-  ],
+      "direccion": "Boulevard des Jardiniers, 06200 Nice",
+      "google_maps": "https://maps.app.goo.gl/AllianzRivieraNice",
+      "fundacion": "2013",
+      "historia_nombres": [
+        "Allianz Riviera (2013-actualidad)"
+      ]
+    },
+    "viejos": [
+      {
+        "nombre": "Stade du Ray",
+        "direccion": "Boulevard Gorbella, 06100 Nice",
+        "google_maps": "https://maps.app.goo.gl/StadeDuRay",
+        "periodo_uso": "1927-2013"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1904,
-      "hasta": 1919,
-      "c1": "#0000cc",
-      "c2": "#000000",
-      "sh": "#0000cc",
-      "me": "#0000cc",
-      "tipo": "liso",
-      "desc": "Inicios utilizando camisolas lisas oscuras y netamente de tonalidades predominantemente azules marinos."
-    },
-    {
-      "desde": 1919,
-      "hasta": null,
-      "c1": "#e30613",
-      "c2": "#000000",
-      "sh": "#000000",
-      "me": "#000000",
-      "tipo": "rayas-verticales",
-      "desc": "Transición oficial a las inolvidables rayas verticales rojas y negras en honor al escudo y blasón clásico de la antigua fundación regional."
+      "epoca": "1904-actualidad",
+      "diseno": "El majestuoso y rústico atuendo a rayas rojinegras. La orgullosa institución de la Costa Azul forjó incondicionalmente su armadura con colosales bastones verticales rojos y negros ('Rouge et Noir'), cimentando estéticamente la férrea identidad del inmenso club."
     }
   ],
   "idolos": [
@@ -269,5 +241,79 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Hugo Lloris",
+        "descripcion": "El Cerrajero Local. Nacido asombrosamente en la ciudad, el arquero inmaculado se formó en la rústica cantera del club y asombró al mundo con sus formidables reflejos letales antes de convertirse en capitán mundial."
+      },
+      {
+        "nombre": "Charly Loubet",
+        "descripcion": "La Estrella de la Riviera. El veloz y asombroso extremo deslumbró incondicional y ferozmente en los años sesenta y setenta, siendo un inmaculado referente ofensivo purista para la escuadra rojinegra."
+      },
+      {
+        "nombre": "Pancho Gonzales",
+        "descripcion": "La Muralla Argentina. Un fiero y rústico zaguero que cruzó el océano para imponer asombrosamente su rigor táctico incondicional en la defensa, convirtiéndose en el gran estandarte de la época dorada."
+      },
+      {
+        "nombre": "Dante",
+        "descripcion": "El Comandante Veterano. El fiero y majestuoso líder brasileño moderno. Con su experiencia asombrosa e incondicional, forjó la estabilidad defensiva del equipo en el Allianz Riviera, jugando al máximo nivel hasta la veteranía pura."
+      },
+      {
+        "nombre": "Mario Balotelli",
+        "descripcion": "El Rebelde Italiano. Encontró fiera y asombrosamente la redención en la Costa Azul, anotando letales goles incondicionales que devolvieron al equipo a la élite de las asombrosas competiciones europeas."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Joaquín Valle",
+        "goles": "99"
+      },
+      {
+        "nombre": "Victor Nurenberg",
+        "goles": "89"
+      },
+      {
+        "nombre": "Nenad Bjekovic",
+        "goles": "85"
+      },
+      {
+        "nombre": "Charly Loubet",
+        "goles": "77"
+      },
+      {
+        "nombre": "Héctor De Bourgoing",
+        "goles": "65"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Charly Loubet",
+        "partidos": "336"
+      },
+      {
+        "nombre": "Roger Jouve",
+        "partidos": "297"
+      },
+      {
+        "nombre": "Pancho Gonzales",
+        "partidos": "296"
+      },
+      {
+        "nombre": "Dominique Baratelli",
+        "partidos": "285"
+      },
+      {
+        "nombre": "Dante",
+        "partidos": "282"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Aiglons (Los Aguiluchos)",
+      "origen": "Bautismo heráldico cívico incondicional. El apodo deriva directamente de la feroz y rústica águila roja que corona majestuosamente el histórico escudo de armas de la ciudad de Niza desde el Siglo XV, impregnando de fiereza al equipo costero."
+    }
+  ]
 }

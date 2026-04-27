@@ -40,67 +40,63 @@
   },
   "historia": [
     {
-      "ano": "1944",
-      "hito": "La Gran Fusión de Post Guerra al Borde de la Frontera",
-      "desc": "Aún sangrantes de metralla invasora y asimilando férreos y dolorosos crudos tiempos estipulados originarios por las ruinas de la Segunda Guerra Mundial, el dictador supremo de la ciudad Louis Henno consolidó férrea pacificación el 23 de septiembre de 1944, estipulando formal la absorción táctica del enconado gran SC Fives y el gigante Olympique Lillois para dar de alta asombrosamente y fundar innegociable a la formal colosal entidad 'Lille Olympique Sporting Club'. Nacieron los inmensos legendarios y colosales formales letales grandes e inmortales originados 'Mastines' protegiendo fuertemente en su pecho fiero el escudo perenne de la ruda colosal flor de lis puramente obrera norteña."
+      "hito": "1944: Creación fiera de incesante purista por audaz fusión",
+      "desc": "El LOSC (Lille Olympique Sporting Club) nació oficialmente en el oscuro y duro otoño de 1944 producto de la incesante fusión obligatoria forzada por la guerra entre el asombroso Olympique Lillois y el rústico SC Fives, unificando la feroz potencia norteña."
     },
     {
-      "ano": "1946",
-      "hito": "Campeonato Oficial Finalizado en Doblete",
-      "desc": "Poco después de fundarse bajo una fusión formal de clubes urbanos locales, el LOSC ganó matemáticamente la liga y su primer trofeo de Copa de Francia de manera concurrente en 1946."
+      "hito": "1946: Primera época gloriosa y la década de oro puro",
+      "desc": "La letal incesante máquina norteña dominó el fútbol francés de posguerra, conquistando fiera y majestuosamente dos asombrosos títulos de Primera División y un heroico pentacampeonato histórico letal e incondicional de la prestigiosa Coupe de France en menos de diez años."
     },
     {
-      "ano": "1954",
-      "hito": "El Segundo Título Local de Ligue 1",
-      "desc": "El equipo se adjudicó en 1954 la competición oficial de la Ligue 1, logrando una de sus etapas más dominantes a nivel de registro estadístico de posguerra."
+      "hito": "2011: Épico inmaculado y legendario doblete purista bajo el genio de Hazard",
+      "desc": "Con el mágico e indomable extremo belga Eden Hazard al mando absoluto, el equipo orquestó heroicamente un rutilante e incondicional doblete histórico tras 56 largos y lúgubres años de sequía, conquistando asombrosamente la Ligue 1 y la Coupe de France en una misma majestuosa temporada."
     },
     {
-      "ano": "2011",
-      "hito": "Reinicio de Títulos Bajo Rudi Garcia",
-      "desc": "Bajo las órdenes de Rudi García y con el jugador Eden Hazard, el club se impuso estadísticamente y ganó la Liga y la Copa de Francia, marcando sus primeros campeonatos principales del siglo."
+      "hito": "2021: El milagro táctico y la conquista liguera ante el tirano PSG",
+      "desc": "Contra todos los pronósticos oscuros y financieros, el audaz técnico Christophe Galtier forjó una muralla purista inquebrantable que destronó heroica e incondicionalmente al millonario y colosal Paris Saint-Germain, alzando el majestuoso cuarto título de liga en la dramática última jornada."
     },
     {
-      "ano": "2021",
-      "hito": "Giro Coronatorio y Hegemonía Interrumpida",
-      "desc": "El club alcanzó 83 puntos bajo el liderazgo técnico de Christophe Galtier, liderando el campeonato en la última fecha y coronándose campeones de Francia frente al Paris Saint-Germain."
+      "hito": "2024: La consolidación moderna como coloso y guerrero europeo",
+      "desc": "El club norteño ratificó fiera y asombrosamente su prestigioso estatus continental incondicional al alcanzar los ansiados y asombrosos cuartos de final de la Conference League, afianzándose como una inmensurable potencia temida y sólida representante de Francia en el escenario internacional."
     }
   ],
-  "canchas": [
-    {
-      "nombre": "Stade Grimonprez-Jooris",
-      "capacidad": "21.128",
-      "inauguracion": "1975",
-      "desde": "1975",
-      "hasta": "2004",
-      "direccion": "Av. du Petit Paradis, 59800 Lille, Francia",
-      "lat": 50.6408,
-      "lng": 3.0454,
-      "obs": "Vieja fortaleza del club que fue demolida tras décadas de uso debido a límites estructurales y financieros.",
-      "url": "https://www.google.com/maps/search/?api=1&query=Av.%20du%20Petit%20Paradis%2C%2059800%20Lille%2C%20Francia"
+  "canchas": {
+    "actual": {
+      "nombre": "Decathlon Arena - Stade Pierre-Mauroy",
+      "direccion": "261 Boulevard de Tournai, 59650 Villeneuve-d'Ascq",
+      "google_maps": "https://maps.app.goo.gl/PierreMauroy",
+      "fundacion": "2012",
+      "historia_nombres": [
+        "Grand Stade Lille Métropole (2012-2013)",
+        "Stade Pierre-Mauroy (2013-2022)",
+        "Decathlon Arena - Stade Pierre-Mauroy (2022-actualidad)"
+      ]
     },
-    {
-      "nombre": "Decathlon Arena (Stade Pierre-Mauroy)",
-      "capacidad": "50.186",
-      "inauguracion": "2012",
-      "desde": "2012",
-      "hasta": "",
-      "direccion": "261 Bd de Tournai, 59650 Villeneuve-d'Ascq, Francia",
-      "lat": 50.6119,
-      "lng": 3.1305,
-      "obs": "Estadio cubierto multifuncional construido en Villeneuve-d'Ascq para ser utilizado como centro de élite europeo.",
-      "url": "https://www.google.com/maps/search/?api=1&query=261%20Bd%20de%20Tournai%2C%2059650%20Villeneuve-d'Ascq%2C%20Francia"
-    }
-  ],
+    "viejos": [
+      {
+        "nombre": "Stadium Lille Métropole",
+        "direccion": "Avenue de la Châtellenie, 59650 Villeneuve-d'Ascq",
+        "google_maps": "https://maps.app.goo.gl/StadiumLilleMet",
+        "periodo_uso": "2004-2012"
+      },
+      {
+        "nombre": "Stade Grimonprez-Jooris",
+        "direccion": "Avenue du Petit Paradis, 59800 Lille",
+        "google_maps": "https://maps.app.goo.gl/GrimonprezJooris",
+        "periodo_uso": "1975-2004"
+      },
+      {
+        "nombre": "Stade Henri-Jooris",
+        "direccion": "Avenue de la République, 59000 Lille",
+        "google_maps": "https://maps.app.goo.gl/HenriJooris",
+        "periodo_uso": "1902-1975"
+      }
+    ]
+  },
   "equipacion": [
     {
-      "desde": 1944,
-      "hasta": null,
-      "c1": "#e30613",
-      "c2": "#ffffff",
-      "sh": "#000040",
-      "me": "#000040",
-      "tipo": "v-pecho",
-      "desc": "Generalmente remera roja con una heráldica de la 'V' estampada o franjas de detalle."
+      "epoca": "1944-actualidad",
+      "diseno": "La férrea unificación del orgullo norteño. Tras la fusión de los clubes fundadores, el equipo adoptó incondicionalmente la gloriosa camisa lisa roja y blanca con calzones oscuros azules."
     }
   ],
   "idolos": [
@@ -291,5 +287,79 @@
       "pp": 0
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Eden Hazard",
+        "descripcion": "El Genio Belga. El mago asombroso y desequilibrante surgido de la cantera que lideró incondicional e imparablemente al Lille hacia el majestuoso y heroico doblete nacional de 2011, antes de ser vendido como superestrella mundial."
+      },
+      {
+        "nombre": "Rio Mavuba",
+        "descripcion": "El Capitán Eterno. Su liderazgo rústico, incondicional y fiero en la medular sostuvo al equipo durante casi una década, levantando majestuosamente los trofeos de 2011 como el corazón inquebrantable del vestuario norteño."
+      },
+      {
+        "nombre": "Jean Baratte",
+        "descripcion": "La Leyenda de la Posguerra. El delantero rústico asombroso más letal de la historia del club, dominando fiera e incondicionalmente el fútbol francés en los cincuenta y siendo el máximo goleador histórico inmaculado de los dogos."
+      },
+      {
+        "nombre": "Burak Yılmaz",
+        "descripcion": "El Kral Turco. Llegó veterano pero asombró heroica e incondicionalmente a la liga, liderando con letales goles y una ferocidad incesante la milagrosa conquista de la Ligue 1 de 2021 frente al todopoderoso gigante PSG."
+      },
+      {
+        "nombre": "Jonathan Bamba",
+        "descripcion": "El Motor Ofensivo. Un jugador fiero, asombroso y polifuncional incondicional, siendo pieza clave en las recientes glorias del club, corriendo incansablemente por la banda para asegurar la última gesta liguera."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Jean Baratte",
+        "goles": "218"
+      },
+      {
+        "nombre": "André Strappe",
+        "goles": "135"
+      },
+      {
+        "nombre": "Jonathan David",
+        "goles": "84"
+      },
+      {
+        "nombre": "Eden Hazard",
+        "goles": "50"
+      },
+      {
+        "nombre": "Burak Yılmaz",
+        "goles": "25"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Marceau Somerlinck",
+        "partidos": "428"
+      },
+      {
+        "nombre": "Rio Mavuba",
+        "partidos": "370"
+      },
+      {
+        "nombre": "Franck Béria",
+        "partidos": "317"
+      },
+      {
+        "nombre": "Jean Baratte",
+        "partidos": "309"
+      },
+      {
+        "nombre": "Florent Balmont",
+        "partidos": "253"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Les Dogues (Los Dogos)",
+      "origen": "Un fiero y rústico apelativo de origen popular. Se forjó tras la asombrosa e incondicional agresividad táctica de los jugadores del Lille en la posguerra. La prensa relataba que los jugadores norteños mordían feroz e incesantemente los tobillos de sus rivales hasta asfixiarlos, asimilándose al agresivo perro de presa."
+    }
+  ]
 }

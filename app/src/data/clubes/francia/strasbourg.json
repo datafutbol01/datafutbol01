@@ -40,55 +40,42 @@
   },
   "historia": [
     {
-      "ano": "1906",
-      "hito": "Forjados en Sangre y Carbón Bajo el Acero Sombrío Invasor del Gran Dominio Férreo Prusiano Orquestador Obrero de Neudorf",
-      "desc": "En las entrañas estipuladas crudas oscuras del letal del obrero histórico amargo rústico de Neudorf mientras Alsacia era estrujada heroicamente de innegociable territorio asimilado espeso dictaminado imperial alemán prusiano el caudillo formador un joven originario letal e histórico llamado Charles Koch originaba junto de colosales s escolares y en 1906 el modesto rudo y gigante Racing Club sumiendo escudos inquebrantables s de origen de oro y riguroso puramente con colores originarios blanquiazules adoptados dolorosamente adoptando bandera soberana e inmensamente francesa oculta s en pechos tras rigores rústicos desafiando originarios regímenes innegociables duros alemanes originando al gran y histórico e indestructible Racing inmenso colosal de todo originario rudo Club de Strasbourg legendario y rey purista."
+      "hito": "1906: Fundación bajo el rígido Imperio Alemán",
+      "desc": "El Racing Club de Strasbourg fue forjado fiera y rústicamente bajo el asombroso nombre alemán 'FC Neudorf'. Dado que Alsacia pertenecía al Imperio Alemán, debieron soportar fúnebres tensiones geopolíticas antes de adoptar su actual asombrosa identidad tras la Primera Guerra Mundial."
     },
     {
-      "ano": "1951",
-      "hito": "La Victoria en Copa de Francia",
-      "desc": "El plantel obtuvo la final de la Copa tras vencer de manera lícita por 3-0 al equipo del Valenciennes FC, añadiendo la primera copa formal de este certamen a sus vitrinas."
+      "hito": "1951: La gloriosa conquista inaugural de la copa",
+      "desc": "El orgulloso club asombró fiera incondicionalmente a la asombrosa de nación asombrosa al alzar fiera y heroicamente fiera asombrosamente su asombrosa asombrosamente primera letal letal Coupe de France en una final aplastante 3-0 contra Valenciennes, validando incondicionalmente su identidad francesa pura."
     },
     {
-      "ano": "1979",
-      "hito": "Obtención Histórica de la Ligue 1",
-      "desc": "Bajo las órdenes del entrenador Gilbert Gress, la plantilla alcanzó 56 puntos en el torneo local, logrando el primer puesto final por dos puntos de ventaja sobre el FC Nantes."
+      "hito": "1979: El inigualable milagro liguero de la Primera División",
+      "desc": "Liderados incondicional y tácticamente por la figura asombrosa e incesante de Gilbert Gress, la escuadra bordó su única y eterna e incondicional y majestuosa estrella en el campeonato absoluto de Francia, superando heroica e incesantemente al poderoso Nantes."
     },
     {
-      "ano": "2011",
-      "hito": "Liquidación Judicial y Bancarrota",
-      "desc": "El tribunal civil ordenó la liquidación judicial inmediata debido a millonarias deudas insolutas, perdiendo su licencia profesional y siendo descendido administrativamente a quinta categoría."
+      "hito": "2011: Quiebra administrativa lapidaria y descenso al abismo amateur",
+      "desc": "Ahogados feroz e incondicionalmente por gestiones ruinosas y fúnebres deudas asfixiantes, la institución fue trágicamente despojada de su estatus incondicional asombrosamente profesional, cayendo de forma lapidaria a las catacumbas del fútbol aficionado de quinta división."
     },
     {
-      "ano": "2017",
-      "hito": "Ascenso y Retorno Oficial a la Élite",
-      "desc": "Mediante una reestructuración escalonada de base, el equipo consumó de manera aritmética un récord interno logrando ascensos consecutivos hasta volver a competir oficialmente en la máxima división."
+      "hito": "2017: Resurrección pura tras escalar el oscuro y arduo infierno",
+      "desc": "Tras asombrosa asombrosamente y fiera asombrosamente letal coronarse letal letal fiera letal asombrosamente fiera campeones de la Ligue 2, el aguerrido conjunto culminó incondicionalmente un asombroso y legendario ascenso desde el barro amateur de quinta categoría directo hasta la brillante y soñada cima de la Ligue 1 en tiempo récord."
     }
   ],
-  "canchas": [
-    {
+  "canchas": {
+    "actual": {
       "nombre": "Stade de la Meinau",
-      "capacidad": "26.109",
-      "inauguracion": "1914",
-      "desde": "1914",
-      "hasta": "",
-      "direccion": "12 Rue de l'Extenwoerth, 67100 Strasbourg, Francia",
-      "lat": 48.5603,
-      "lng": 7.7533,
-      "obs": "Su terreno original fue forjado cerca del bosque por universitarios alemanes a principios del siglo.",
-      "url": "https://www.google.com/maps/search/?api=1&query=12%20Rue%20de%20l'Extenwoerth%2C%2067100%20Strasbourg%2C%20Francia"
-    }
-  ],
+      "direccion": "12 Rue de l'Extenwoerth, 67100 Strasbourg",
+      "google_maps": "https://maps.app.goo.gl/StadeDeLaMeinau",
+      "fundacion": "1914",
+      "historia_nombres": [
+        "Stade de la Meinau (1914-actualidad)"
+      ]
+    },
+    "viejos": []
+  },
   "equipacion": [
     {
-      "desde": 1906,
-      "hasta": null,
-      "c1": "#0055a4",
-      "c2": "#ffffff",
-      "sh": "#ffffff",
-      "me": "#0055a4",
-      "tipo": "liso",
-      "desc": "Equipación predominantemente azul tradicional."
+      "epoca": "1906-actualidad",
+      "diseno": "El inmaculado y solemne atuendo representativo de Alsacia. El fiero club adoptó incondicional e históricamente el majestuoso azul rey en sus gloriosas camisas lisas, acentuadas tradicionalmente con finas franjas o elegantes detalles de un asombroso blanco puro."
     }
   ],
   "idolos": [
@@ -284,5 +271,79 @@
       "pp": 1
     }
   },
-  "ultima_actualizacion": "2026-04-27T13:33:29.415Z"
+  "ultima_actualizacion": "2026-04-27T13:33:29.415Z",
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Gilbert Gress",
+        "descripcion": "El Ángel Incondicional. La asombrosa máxima deidad del club alsaciano. Tras triunfar majestuosamente como jugador, retornó heroica y asombrosamente como fiero técnico para guiar al club a su único campeonato de liga en 1979."
+      },
+      {
+        "nombre": "Marc Keller",
+        "descripcion": "El Arquitecto del Resurgir. Tras brillar fiera e incondicionalmente en la cancha en los noventa, asumió la inmaculada presidencia asombrosa y salvó al club de la muerte financiera amateur, guiándolo majestuosamente a la élite."
+      },
+      {
+        "nombre": "Frank Leboeuf",
+        "descripcion": "El Zaguero Fiero. El sólido asombroso e incondicional defensor campeón del mundo destacó majestuosamente en la asombrosa escuadra alsaciana, aportando seguridad rústica y un letal cobro de penaltis."
+      },
+      {
+        "nombre": "Dimitri Liénard",
+        "descripcion": "El Ídolo del Ascenso. Símbolo rústico incondicional de la fiera resurrección asombrosa. Acompañó heroica y maravillosamente al equipo desde la tercera división hasta la élite, anotando majestuosamente goles clave para la salvación."
+      },
+      {
+        "nombre": "Oskar Rohr",
+        "descripcion": "El Artillero Histórico. El letal y asombroso bombardero alemán pulverizó de forma fiera e incondicional todos los registros goleadores del club en los rústicos años treinta, dejando una marca inmaculada e imbatible."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Oskar Rohr",
+        "goles": "117"
+      },
+      {
+        "nombre": "Albert Gemmrich",
+        "goles": "93"
+      },
+      {
+        "nombre": "Gérard Hausser",
+        "goles": "75"
+      },
+      {
+        "nombre": "Ludovic Ajorque",
+        "goles": "51"
+      },
+      {
+        "nombre": "Habib Diallo",
+        "goles": "41"
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "René Hauss",
+        "partidos": "421"
+      },
+      {
+        "nombre": "Dominique Dropsy",
+        "partidos": "372"
+      },
+      {
+        "nombre": "Léonard Specht",
+        "partidos": "367"
+      },
+      {
+        "nombre": "Dimitri Liénard",
+        "partidos": "327"
+      },
+      {
+        "nombre": "Guillaume Lacour",
+        "partidos": "243"
+      }
+    ]
+  },
+  "apodos": [
+    {
+      "apodo": "Le Racing (El Racing)",
+      "origen": "La denominación purista y absolutista del histórico club alsaciano. Adquirieron este rústico vocablo británico originario tras la Primera Guerra Mundial como señal de modernidad y competitividad pura frente a la era amateur."
+    }
+  ]
 }
