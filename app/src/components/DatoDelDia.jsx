@@ -13,7 +13,7 @@ const DatoDelDia = () => {
     const fechaClave = `${mes}-${dia}`;
 
     // Buscar en el JSON. Si no hay efeméride para hoy, usamos un dato genérico aleatorio o mostramos nada.
-    const dato = efemerides[fechaClave] || "¿Sabías que DataFútbol alberga los historiales oficiales de todas las ligas verificados hasta el día de hoy?";
+    const dato = efemerides[fechaClave] || "¿Sabías que en DataFútbol podés consultar historiales completos, campañas de equipos campeones y estadísticas de jugadores desde la era amateur hasta la actualidad?";
     setDatoHoy(dato);
   }, []);
 
