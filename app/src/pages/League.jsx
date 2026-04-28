@@ -579,8 +579,7 @@ export default function League() {
   const isFromLive = location.state?.fromLive;
 
   const breadcrumbPaths = isFromLive ? [
-    { name: 'Inicio', url: '/' },
-    { name: 'Resultados en Vivo', url: '/en-vivo' },
+    { name: 'Resultados en Vivo', url: '/resultados' },
     { name: currentLeague.name, url: `/liga/${leagueId}` }
   ] : [
     { name: 'Clubes del Mundo', url: '/leagues' },
