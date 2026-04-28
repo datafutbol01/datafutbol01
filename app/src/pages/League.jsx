@@ -108,17 +108,68 @@ export default function League() {
 
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
-      const fetchStandings = async () => {
+      const fetchStats = async () => {
+            setLoadingStats(true);
+            try {
+              const apiId = slugToApi[leagueId];
+              // Usar la misma lógica de activeSeason es difícil aquí, por lo que usamos targetSeason
+              const targetSeason = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025;
+              const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+              
+              const headers = isLocal ? {
+                 "x-rapidapi-host": "v3.football.api-sports.io",
+                 "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
+              } : {};
+  
+              const getEndpoint = (type, s) => isLocal
+                 ? `https://v3.football.api-sports.io/players/${type}?league=${apiId}&season=${s}`
+                 : `/api/stats?league=${apiId}&season=${s}&type=${type}`;
+                 
+              const [resG, resA, resY, resR] = await Promise.all([
+                 fetch(getEndpoint('topscorers', targetSeason), { headers }),
+                 fetch(getEndpoint('topassists', targetSeason), { headers }),
+                 fetch(getEndpoint('topyellowcards', targetSeason), { headers }),
+                 fetch(getEndpoint('topredcards', targetSeason), { headers })
+              ]);
+              
+              let [dataG, dataA, dataY, dataR] = await Promise.all([ resG.json(), resA.json(), resY.json(), resR.json() ]);
+              
+              // Fallback para Stats si no hay goles en la temporada principal
+              if (!dataG.response || dataG.response.length === 0) {
+                 const fbS = targetSeason - 1;
+                 const [fbG, fbA, fbY, fbR] = await Promise.all([
+                    fetch(getEndpoint('topscorers', fbS), { headers }),
+                    fetch(getEndpoint('topassists', fbS), { headers }),
+                    fetch(getEndpoint('topyellowcards', fbS), { headers }),
+                    fetch(getEndpoint('topredcards', fbS), { headers })
+                 ]);
+                 dataG = await fbG.json();
+                 dataA = await fbA.json();
+                 dataY = await fbY.json();
+                 dataR = await fbR.json();
+              }
+              
+              setStatsData({
+                  scorers: dataG.response || [],
+                  assists: dataA.response || [],
+                  yellows: dataY.response || [],
+                  reds: dataR.response || []
+              });
+            } catch(e) {
+                console.error(e);
+            } finally {
+                setLoadingStats(false);
+            }
+      };
+      
+      const fetchAllData = async () => {
          setLoadingStandings(true);
-         try {
-           const apiId = slugToApi[leagueId];
-           const season = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025; // USA MLS y Sudamérica usan año calendario.
-           const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-           
-           const headers = isLocal ? {
-              "x-rapidapi-host": "v3.football.api-sports.io",
-              "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
-           } : {};
+         const apiId = slugToApi[leagueId];
+         const season = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025;
+         const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+         const headers = isLocal ? { "x-rapidapi-host": "v3.football.api-sports.io", "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY } : {};
+         
+         let activeSeason = season;
            
            // Fetch Posiciones
            const endpointStandings = isLocal 
@@ -126,26 +177,48 @@ export default function League() {
               : `/api/standings?league=${apiId}&season=${season}`;
            const resSt = await fetch(endpointStandings, { headers });
            const dataSt = await resSt.json();
+           
            if (dataSt.response && dataSt.response.length > 0) {
               setStandingsData(dataSt.response[0].league.standings);
+           } else {
+              // Fallback automático al año anterior si la API no generó el año actual (Ej: Primera C)
+              const fbSt = isLocal 
+                 ? `https://v3.football.api-sports.io/standings?league=${apiId}&season=${season - 1}`
+                 : `/api/standings?league=${apiId}&season=${season - 1}`;
+              const fbRes = await fetch(fbSt, { headers });
+              const fbData = await fbRes.json();
+              if (fbData.response && fbData.response.length > 0) {
+                 setStandingsData(fbData.response[0].league.standings);
+                 activeSeason = season - 1;
+              }
            }
            
            // Fetch Cuadro de Llaves (Si es Copa) o Fixture de Liga (Si no es copa)
            if (isCup) {
                const endpointFix = isLocal 
-                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${season}`
-                 : `/api/knockouts?league=${apiId}&season=${season}`;
+                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${activeSeason}`
+                 : `/api/knockouts?league=${apiId}&season=${activeSeason}`;
                const resFix = await fetch(endpointFix, { headers });
                const dataFix = await resFix.json();
-               if (dataFix.response) setKnockoutData(dataFix.response);
+               if (dataFix.response && dataFix.response.length > 0) {
+                   setKnockoutData(dataFix.response);
+               } else {
+                   const fbFix = isLocal 
+                     ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${activeSeason - 1}`
+                     : `/api/knockouts?league=${apiId}&season=${activeSeason - 1}`;
+                   const fbResFix = await fetch(fbFix, { headers });
+                   const fbDataFix = await fbResFix.json();
+                   if (fbDataFix.response) setKnockoutData(fbDataFix.response);
+                   if (fbDataFix.response && fbDataFix.response.length > 0) activeSeason = season - 1;
+               }
            } else {
                setLoadingFixtures(true);
                const endpointFix = isLocal 
-                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${season}`
-                 : `/api/fixtures?league=${apiId}&season=${season}`;
+                 ? `https://v3.football.api-sports.io/fixtures?league=${apiId}&season=${activeSeason}`
+                 : `/api/fixtures?league=${apiId}&season=${activeSeason}`;
                const resFix = await fetch(endpointFix, { headers });
                const dataFix = await resFix.json();
-               if (dataFix.response) {
+               if (dataFix.response && dataFix.response.length > 0) {
                    setFixtureData(dataFix.response);
                    // Buscar la ronda actual (ordenamos cronológicamente primero)
                    const sortedMatches = [...dataFix.response].sort((a, b) => a.fixture.timestamp - b.fixture.timestamp);
@@ -347,7 +420,8 @@ export default function League() {
             setLoadingStandings(false);
          }
       };
-      fetchStandings();
+      fetchStats();
+      fetchAllData();
     }
   }, [activeTab, leagueId]);
 
