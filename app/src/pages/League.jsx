@@ -109,7 +109,8 @@ export default function League() {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
       const fetchData = async () => {
          setLoadingStandings(true);
-         const apiId = slugToApi[leagueId];
+         try {
+            const apiId = slugToApi[leagueId];
          const season = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025;
          const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
          const headers = isLocal ? { "x-rapidapi-host": "v3.football.api-sports.io", "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY } : {};
