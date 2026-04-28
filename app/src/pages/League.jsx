@@ -105,64 +105,9 @@ export default function League() {
   const [loadingFixtures, setLoadingFixtures] = useState(false);
   const [viewMode, setViewMode] = useState('tabla'); // 'tabla' | 'fixture'
   const [selectedRound, setSelectedRound] = useState('');
-
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
-      const fetchStats = async () => {
-            setLoadingStats(true);
-            try {
-              const apiId = slugToApi[leagueId];
-              // Usar la misma lógica de activeSeason es difícil aquí, por lo que usamos targetSeason
-              const targetSeason = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025;
-              const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-              
-              const headers = isLocal ? {
-                 "x-rapidapi-host": "v3.football.api-sports.io",
-                 "x-rapidapi-key": import.meta.env.VITE_API_FOOTBALL_KEY
-              } : {};
-  
-              const getEndpoint = (type, s) => isLocal
-                 ? `https://v3.football.api-sports.io/players/${type}?league=${apiId}&season=${s}`
-                 : `/api/stats?league=${apiId}&season=${s}&type=${type}`;
-                 
-              const [resG, resA, resY, resR] = await Promise.all([
-                 fetch(getEndpoint('topscorers', targetSeason), { headers }),
-                 fetch(getEndpoint('topassists', targetSeason), { headers }),
-                 fetch(getEndpoint('topyellowcards', targetSeason), { headers }),
-                 fetch(getEndpoint('topredcards', targetSeason), { headers })
-              ]);
-              
-              let [dataG, dataA, dataY, dataR] = await Promise.all([ resG.json(), resA.json(), resY.json(), resR.json() ]);
-              
-              // Fallback para Stats si no hay goles en la temporada principal
-              if (!dataG.response || dataG.response.length === 0) {
-                 const fbS = targetSeason - 1;
-                 const [fbG, fbA, fbY, fbR] = await Promise.all([
-                    fetch(getEndpoint('topscorers', fbS), { headers }),
-                    fetch(getEndpoint('topassists', fbS), { headers }),
-                    fetch(getEndpoint('topyellowcards', fbS), { headers }),
-                    fetch(getEndpoint('topredcards', fbS), { headers })
-                 ]);
-                 dataG = await fbG.json();
-                 dataA = await fbA.json();
-                 dataY = await fbY.json();
-                 dataR = await fbR.json();
-              }
-              
-              setStatsData({
-                  scorers: dataG.response || [],
-                  assists: dataA.response || [],
-                  yellows: dataY.response || [],
-                  reds: dataR.response || []
-              });
-            } catch(e) {
-                console.error(e);
-            } finally {
-                setLoadingStats(false);
-            }
-      };
-      
-      const fetchAllData = async () => {
+      const fetchData = async () => {
          setLoadingStandings(true);
          const apiId = slugToApi[leagueId];
          const season = ['argentina', 'copa_argentina', 'libertadores', 'sudamericana', 'arg_nacional_b', 'arg_b_metro', 'arg_primera_c', 'col_primera', 'usa_mls', 'uruguay', 'uru_primera', 'per_primera', 'chi_primera'].includes(leagueId) ? 2026 : 2025;
@@ -420,8 +365,7 @@ export default function League() {
             setLoadingStandings(false);
          }
       };
-      fetchStats();
-      fetchAllData();
+      fetchData();
     }
   }, [activeTab, leagueId]);
 
