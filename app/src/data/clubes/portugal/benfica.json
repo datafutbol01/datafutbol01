@@ -1,0 +1,76 @@
+{
+  "id": "benfica",
+  "datos": {
+    "nombre_completo": "SL Benfica",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio da Luz",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "2003",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Av. Eusébio da Silva Ferreira, 1500-313 Lisboa, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1904",
+      "hito": "Fundación en la Farmácia Franco y posterior fusión",
+      "desc": "El 28 de febrero de 1904, un grupo de veinticuatro jóvenes, exalumnos de la Real Casa Pia de Lisboa, se reunió en la parte trasera de la Farmácia Franco, ubicada en la Rua de Belém. Liderados por Cosme Damião, decidieron crear un club de fútbol al que denominaron Grupo Sport Lisboa. Acordaron adoptar los colores rojo y blanco y el emblema de un águila para simbolizar la independencia, la autoridad y la nobleza. En septiembre de 1908, debido a dificultades financieras y problemas con su campo de juego, la institución concretó una fusión estratégica con el Grupo Sport Benfica, una entidad vecina fundada en 1906 y dedicada principalmente al ciclismo. Tras la firma del acuerdo, el club pasó a llamarse de manera definitiva Sport Lisboa e Benfica, conservando la fecha de fundación, los símbolos y los colores originales del Sport Lisboa, e incorporando la rueda de bicicleta del Sport Benfica a su escudo."
+    },
+    {
+      "ano": "1960-1962",
+      "hito": "Bicampeonato europeo y el apogeo de Eusébio",
+      "desc": "A principios de la década de 1960, bajo la conducción táctica del entrenador húngaro Béla Guttmann, el Benfica quebró la hegemonía continental del Real Madrid. Con un equipo integrado exclusivamente por jugadores portugueses y de las colonias de ultramar —destacándose figuras como Mário Coluna, José Águas y el joven atacante Eusébio da Silva Ferreira—, el club obtuvo la Copa de Campeones de Europa en dos ediciones consecutivas. En 1961 vencieron 3-2 al FC Barcelona en Berna, y en 1962 superaron 5-3 al Real Madrid en Ámsterdam. Tras esta segunda conquista, la directiva rechazó un aumento salarial solicitado por Guttmann, lo que provocó su salida y el nacimiento de la célebre maldición no oficial en la que, supuestamente, el entrenador sentenció que el club no volvería a ser campeón europeo en los próximos cien años."
+    },
+    {
+      "ano": "1982-1990",
+      "hito": "Hegemonía doméstica y finales europeas",
+      "desc": "Durante la década de 1980, el Benfica consolidó su dominio absoluto en el panorama nacional portugués, obteniendo múltiples títulos de Primeira Divisão y Taça de Portugal. La llegada del entrenador sueco Sven-Göran Eriksson introdujo metodologías de entrenamiento modernas que potenciaron a jugadores como Fernando Chalana y, posteriormente, a Rui Costa o João Pinto. A nivel internacional, el equipo mantuvo un perfil altamente competitivo alcanzando tres finales europeas: la Copa de la UEFA en 1983 (derrota ante Anderlecht) y la Copa de Campeones de Europa en 1988 (caída por penales ante el PSV Eindhoven) y 1990 (derrota ante el AC Milan). A pesar de no lograr el título continental, esta etapa reafirmó el estatus del club dentro de la élite europea."
+    },
+    {
+      "ano": "2003-Presente",
+      "hito": "Nuevo Estádio da Luz y consolidación en el siglo XXI",
+      "desc": "El 25 de octubre de 2003, el club inauguró el nuevo Estádio da Luz, construido sobre los terrenos del antiguo recinto homónimo, en el marco de la preparación para la Eurocopa 2004. Esta modernización de infraestructura fue acompañada por la inauguración en 2006 del Caixa Futebol Campus en Seixal, una academia de formación que se convertiría en una de las más rentables del mundo, exportando talentos como Bernardo Silva, João Félix y Rúben Dias. Deportivamente, la llegada de Jorge Jesus al banquillo en 2009 inició una era de supremacía local que culminó con un histórico tetracampeonato de liga entre 2014 y 2017. En paralelo, el club alcanzó de forma consecutiva las finales de la UEFA Europa League en 2013 (vs Chelsea) y 2014 (vs Sevilla), manteniéndose como la institución más laureada de Portugal."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio da Luz",
+      "direccion": "Av. Eusébio da Silva Ferreira, 1500-313 Lisboa, Portugal",
+      "inauguracion": "2003",
+      "google_maps": "https://maps.app.goo.gl/u3U6j8kM8Ea8iFp26",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio do Sport Lisboa e Benfica",
+          "epoca": "2003-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Antigo Estádio da Luz",
+        "direccion": "Av. do Colégio Militar, 1500 Lisboa, Portugal",
+        "epoca": "1954-2003",
+        "google_maps": "https://maps.app.goo.gl/r6Q8y5Y6Yf6yRk2V6"
+      },
+      {
+        "nombre": "Campo das Amoreiras",
+        "direccion": "Amoreiras, Lisboa, Portugal",
+        "epoca": "1925-1940",
+        "google_maps": "https://maps.app.goo.gl/hGz7u9K5K3hQnQxT6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

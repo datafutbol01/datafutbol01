@@ -1,0 +1,74 @@
+{
+  "id": "nacional",
+  "datos": {
+    "nombre_completo": "CD Nacional",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio da Madeira",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "1998",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Caminho da Cidade Desportiva, 9060-329 Funchal, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1910",
+      "hito": "Fundación identitaria y el origen de la rivalidad insular",
+      "desc": "El Clube Desportivo Nacional fue fundado el 8 de diciembre de 1910 en la ciudad de Funchal, capital del archipiélago de Madeira. La creación del club fue impulsada por un grupo de jóvenes locales liderado por António Figueiredo. En una época donde el fútbol incipiente de la isla estaba dominado exclusivamente por equipos conformados por comerciantes y marineros británicos, estos jóvenes decidieron crear una institución deportiva que afirmara su patriotismo, bautizándola deliberadamente como 'Nacional Sport Grupo' para remarcar su identidad estrictamente portuguesa. Tras adoptar sus inconfundibles colores blanco y negro, el equipo comenzó a disputar sus primeros encuentros en el Campo do Almirante Reis, forjando rápidamente una feroz e histórica rivalidad vecinal con el Club Sport Marítimo que dividiría deportivamente a la isla para siempre."
+    },
+    {
+      "ano": "1988-1998",
+      "hito": "El desembarco continental y la mudanza a las alturas de Choupana",
+      "desc": "Debido a su aislamiento geográfico, el Nacional compitió durante décadas exclusivamente en los campeonatos regionales de Madeira. La integración definitiva a las estructuras continentales dio sus primeros frutos en la temporada 1988-89, cuando el club logró un histórico primer ascenso a la Primeira Divisão nacional. Sin embargo, este hito vino acompañado de una incomodidad institucional: la obligación de compartir el Estádio dos Barreiros con su acérrimo rival, el Marítimo. Para forjar su independencia absoluta, la directiva impulsó la construcción de un recinto propio. En 1998 se inauguró oficialmente el Estádio da Madeira (originalmente Estádio Eng. Rui Alves), una obra de ingeniería enclavada en lo alto del escarpado y brumoso barrio de Choupana, dotando al club de una fortaleza inexpugnable conocida por su densa niebla."
+    },
+    {
+      "ano": "2003-2010",
+      "hito": "La cuarta plaza, la era europea y el legado de Cristiano Ronaldo",
+      "desc": "El cambio de milenio inauguró la edad de oro de la institución. Bajo la presidencia de Rui Alves y la dirección técnica de Manuel Machado, el equipo regresó a la élite y firmó la mejor campaña de su historia en la temporada 2003-04, finalizando en un asombroso cuarto lugar de la Primeira Liga, superando al mismísimo Sporting CP y a su rival insular. Este logro inauguró una década de recurrentes clasificaciones a competiciones continentales. En la UEFA Europa League 2009-10, protagonizaron una gesta internacional al eliminar al poderoso Zenit de San Petersburgo para acceder a la fase de grupos. Paralelamente, el club capitalizó su inmenso prestigio formativo como la institución donde un joven Cristiano Ronaldo jugó y se formó entre 1995 y 1997, nombrando su academia en honor al astro luso."
+    },
+    {
+      "ano": "2016-Presente",
+      "hito": "Inestabilidad deportiva, resiliencia y el retorno a la élite",
+      "desc": "El agotamiento de su histórico ciclo dorado derivó en una profunda crisis de resultados a finales de la década de 2010. Ahogado por dificultades financieras y la alta competitividad del torneo, el Nacional perdió la categoría en 2017, inaugurando una era de dolorosa inestabilidad como 'club ascensor'. Durante los siguientes años, la institución rebotó agónicamente entre la primera y la segunda división, sufriendo descensos traumáticos en 2021. No obstante, el espíritu de resiliencia del club prevaleció. Tras una reestructuración deportiva enfocada en talentos jóvenes, el equipo completó una sólida campaña en la Segunda Liga 2023-24, asegurando heroicamente un nuevo ascenso a la Primeira Liga y garantizando que la máxima categoría del fútbol portugués vuelva a desafiar a la niebla de Choupana."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio da Madeira",
+      "direccion": "Rua Engº Rui Alves, 9060-032 Funchal, Portugal",
+      "inauguracion": "2000",
+      "google_maps": "https://maps.app.goo.gl/W9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio Eng. Rui Alves",
+          "epoca": "2000-2007"
+        },
+        {
+          "nombre": "Estádio da Madeira (Choupana)",
+          "epoca": "2007-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio dos Barreiros (Uso compartido)",
+        "direccion": "Rua Dr. Pita, 9000-089 Funchal, Portugal",
+        "epoca": "1957-2000",
+        "google_maps": "https://maps.app.goo.gl/X9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

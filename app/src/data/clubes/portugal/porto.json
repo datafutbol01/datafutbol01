@@ -1,0 +1,76 @@
+{
+  "id": "porto",
+  "datos": {
+    "nombre_completo": "FC Porto",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio do Dragão",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "2003",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Via Futebol Clube do Porto, 4350-415 Porto, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1893-1906",
+      "hito": "La fundación mercantil y la revitalización del norte",
+      "desc": "El Futebol Clube do Porto fue fundado originalmente el 28 de septiembre de 1893 por António Nicolau de Almeida, un próspero comerciante local de vino de Oporto que descubrió el fútbol durante sus viajes de negocios a Inglaterra. Sin embargo, tras un periodo de inactividad, la institución fue verdaderamente revitalizada en 1906 por José Monteiro da Costa. La directiva adoptó los colores azul y blanco, que en aquel entonces correspondían a la bandera de la monarquía portuguesa, como símbolo de pureza deportiva. Desde sus inicios, el club se erigió como el estandarte deportivo de la región norte del país, forjando una identidad rebelde y combativa frente al centralismo administrativo y futbolístico de Lisboa, instalándose inicialmente en el Campo da Rainha antes de construir sus legendarios estadios."
+    },
+    {
+      "ano": "1982-1987",
+      "hito": "La revolución de Pinto da Costa y el primer milagro europeo",
+      "desc": "El punto de inflexión absoluto en la historia moderna del club ocurrió en 1982 con la asunción de Jorge Nuno Pinto da Costa a la presidencia. En alianza con el visionario entrenador José Maria Pedroto, Pinto da Costa profesionalizó ferozmente la estructura del club e instauró la inquebrantable mentalidad ganadora 'Tripeira'. El clímax de esta revolución estructural se materializó el 27 de mayo de 1987 en el Estadio Prater de Viena. Dirigidos por Artur Jorge, el Porto conquistó su primera Copa de Europa al derrotar al todopoderoso Bayern de Múnich por 2-1, inmortalizando la final con el célebre e histórico gol de tacón del argelino Rabah Madjer. Meses después, el club se coronó campeón del mundo al ganar la Copa Intercontinental en Tokio."
+    },
+    {
+      "ano": "2003-2004",
+      "hito": "La era Mourinho y la épica conquista de la Champions League",
+      "desc": "En los albores del siglo XXI, el FC Porto protagonizó una de las hazañas más formidables en la historia del fútbol moderno bajo la conducción del estratega José Mourinho. Tras conquistar la Copa de la UEFA en 2003 ante el Celtic, el equipo asaltó la élite continental en la temporada 2003-04. Liderados en el campo por la magia de Deco, la solvencia de Ricardo Carvalho y las atajadas de Vítor Baía, el Porto eliminó a gigantes como el Manchester United y aplastó al AS Mónaco por 3-0 en la gran final de la UEFA Champions League disputada en Gelsenkirchen. Este triunfo monumental consolidó al Porto como el único club de un país periférico capaz de ganar la máxima competición europea de clubes en el formato moderno."
+    },
+    {
+      "ano": "2010-Presente",
+      "hito": "Hegemonía lusa y la histórica transición de poder",
+      "desc": "La supremacía nacional del club se tornó incuestionable durante el siglo XXI. La cumbre de esta hegemonía se alcanzó en la temporada 2010-11, cuando bajo el mando de André Villas-Boas, y con figuras estelares como Radamel Falcao y Hulk, el equipo ganó la Primeira Liga de forma absolutamente invicta y conquistó la UEFA Europa League en Dublín. Tras décadas de acumular títulos nacionales y sostener el prestigio internacional de Portugal, el club atravesó un sismo institucional en 2024. Tras 42 años ininterrumpidos en el poder, Jorge Nuno Pinto da Costa fue derrotado en unas elecciones históricas por el propio André Villas-Boas. Esta transición presidencial marcó el fin del mandato más longevo en la historia del fútbol mundial y el inicio de una profunda modernización corporativa en la institución."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio do Dragão",
+      "direccion": "Via Futebol Clube do Porto, 4350-415 Porto, Portugal",
+      "inauguracion": "2003",
+      "google_maps": "https://maps.app.goo.gl/Y9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio do Dragão",
+          "epoca": "2003-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio das Antas",
+        "direccion": "Av. de Fernão de Magalhães, 4350 Porto, Portugal",
+        "epoca": "1952-2003",
+        "google_maps": "https://maps.app.goo.gl/Z9G5M4Y6Yf6yRk2V6"
+      },
+      {
+        "nombre": "Campo da Constituição",
+        "direccion": "R. da Constituição, Porto, Portugal",
+        "epoca": "1913-1952",
+        "google_maps": "https://maps.app.goo.gl/A9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

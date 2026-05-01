@@ -1,0 +1,70 @@
+{
+  "id": "farense",
+  "datos": {
+    "nombre_completo": "SC Farense",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio de São Luís",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "1922",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Rua do Portimão 16, 8000-418 Faro, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1910",
+      "hito": "Fundación pionera y el orgullo de la región del Algarve",
+      "desc": "El Sporting Clube Farense fue fundado el 1 de abril de 1910 en la ciudad costera de Faro, erigiéndose formalmente como la institución futbolística más antigua de la región del Algarve. La creación del club fue liderada por un grupo de jóvenes deportistas locales, encabezados por João Gralho, quienes se reunían habitualmente en el Largo de São Francisco. El objetivo principal era establecer una entidad deportiva organizada que defendiera el orgullo de la capital algarvia y compitiera con dignidad contra los equipos del norte y centro de Portugal. Tras adoptar los colores blanco y negro inspirados en los ropajes de los equipos fundacionales de la época, el Farense forjó rápidamente su identidad barrial y estableció su localía histórica en el mítico Estádio de São Luís, convirtiéndose en el bastión deportivo inexpugnable del sur ibérico durante décadas de torneos regionales."
+    },
+    {
+      "ano": "1989-1995",
+      "hito": "La era de Paco Fortes, la final copera y el debut europeo",
+      "desc": "El verdadero pináculo en la historia de la institución llegó a fines de la década de 1980 con la contratación del carismático entrenador español Francisco 'Paco' Fortes. Su gestión transformó al club, impregnando al equipo de una garra competitiva feroz. En 1990, el Farense hizo historia al alcanzar la gran final de la Taça de Portugal, cayendo con la frente en alto ante el Estrela da Amadora en el partido de desempate. Lejos de ser un logro aislado, el ciclo de Fortes alcanzó su punto máximo en la temporada 1994-95 de la Primeira Divisão. El equipo finalizó en una asombrosa quinta posición, asegurando la clasificación a la Copa de la UEFA. En la temporada 1995-96, el Farense debutó en competiciones europeas enfrentando al Olympique Lyonnais de Francia, marcando el cénit absoluto del fútbol algarvio en el plano internacional."
+    },
+    {
+      "ano": "2002-2006",
+      "hito": "El colapso financiero y la caída a los subsuelos regionales",
+      "desc": "Tras el fin del ciclo dorado, el club ingresó en la etapa más oscura y trágica de su historia centenaria. Una sucesión de pésimas gestiones administrativas y el colapso de los ingresos televisivos generaron deudas millonarias asfixiantes. A principios de los años 2000, el equipo encadenó descensos consecutivos que lo expulsaron del fútbol profesional. El golpe de gracia ocurrió en 2006, cuando la insolvencia forzó al Farense a descender hasta la Primera División Distrital del Algarve (la sexta y última categoría del sistema de ligas portugués). El club perdió por completo su estatus profesional, sus instalaciones fueron amenazadas por embargos de acreedores y la ciudad de Faro estuvo a punto de perder a su institución más emblemática, sobreviviendo únicamente gracias a la resistencia heroica de sus aficionados."
+    },
+    {
+      "ano": "2012-Presente",
+      "hito": "La resurrección institucional y el regreso a la élite",
+      "desc": "La reconstrucción del Farense desde el abismo distrital es una de las epopeyas más notables del fútbol moderno. Organizados por una nueva directiva y sostenidos por aportes comunitarios, el club escaló peldaño a peldaño desde el amateurismo, recuperando el estatus profesional al ascender a la Segunda Liga en la temporada 2012-13. Tras varios años de estabilización financiera bajo la presidencia de João Rodrigues, el milagro se consumó en la campaña 2019-20. Con una sólida campaña, el equipo logró asegurar el anhelado ascenso a la Primeira Liga, devolviendo a la región del Algarve a la máxima categoría nacional tras dieciocho años de ausencia. Tras un breve descenso, el club retornó firmemente a la élite en 2023, consolidando un proyecto renovado que honra la resiliencia histórica del león de Faro."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio de São Luís",
+      "direccion": "R. do Alportel 24, 8000-080 Faro, Portugal",
+      "inauguracion": "1923",
+      "google_maps": "https://maps.app.goo.gl/R9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio de São Luís",
+          "epoca": "1923-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Algarve",
+        "direccion": "Parque das Cidades, 8135-014 Almancil, Portugal",
+        "epoca": "2004-2013",
+        "google_maps": "https://maps.app.goo.gl/S9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

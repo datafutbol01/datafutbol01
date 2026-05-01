@@ -1,0 +1,164 @@
+{
+  "id": "arouca",
+  "datos": {
+    "nombre_completo": "Futebol Clube de Arouca",
+    "sigla": "FCA",
+    "fundacion": "25 de diciembre de 1951",
+    "apodo": "Los Lobos de Arouca (Os Lobos), Arouquenses",
+    "estadio_actual": "Estádio Municipal de Arouca",
+    "estadio_apodo": "Municipal de Arouca",
+    "estadio_capacidad": 5600,
+    "estadio_inauguracion": "2006",
+    "estadio_lat": 40.9347,
+    "estadio_lng": -8.2461,
+    "estadio_direccion": "Rua do Estádio Municipal, 4540-100 Arouca, Portugal",
+    "socios": 3500,
+    "descripcion_corta": "Un modesto club del interior del distrito de Aveiro que logró el milagro de escalar desde las ligas amateur hasta la élite europea en tiempo récord.",
+    "paleta": [
+      {
+        "tag": "Amarillo Arouca",
+        "hex": "#FFC500"
+      },
+      {
+        "tag": "Azul Profundo",
+        "hex": "#002b5c"
+      }
+    ],
+    "records": {
+      "mayor_goleada": "7-0 al GD Bragança (2010)",
+      "maximo_goleador": "Joeano",
+      "mas_presencias": "Nuno Coelho"
+    }
+  },
+  "historia": [
+    {
+      "ano": "1951",
+      "hito": "Fundación navideña y cinco décadas de anonimato amateur",
+      "desc": "El Futebol Clube de Arouca fue concebido formalmente el 25 de diciembre de 1951, emergiendo como un modesto proyecto deportivo impulsado por un reducido grupo de comerciantes y aficionados locales en Arouca, una pequeña y pintoresca villa enclavada en un valle del distrito de Aveiro. Dada su lejanía de los grandes epicentros futbolísticos del país y sus limitados recursos iniciales, la junta directiva optó por registrar a la institución como la filial oficial número cuarenta del Futebol Clube do Porto. Esta vinculación estratégica justificó la adopción inmediata de los colores azul y amarillo, que no solo homenajeaban los tonos históricos del municipio, sino que también estructuraron la primera identidad visual del equipo. Durante más de medio siglo, el Arouca se mantuvo como un actor secundario y puramente amateur, compitiendo de forma ininterrumpida y sin mayores sobresaltos en los campeonatos distritales organizados por la Asociación de Fútbol de Aveiro, lejos de cualquier ambición profesional."
+    },
+    {
+      "ano": "2006-2013",
+      "hito": "La revolución de Carlos Pinho y el ascenso meteórico",
+      "desc": "El punto de inflexión definitivo en la historia contemporánea del club se gestó en el año 2006, cuando el empresario local Carlos Pinho asumió la presidencia de la institución. Su llegada representó una inyección de capital y profesionalismo sin precedentes que despertó al equipo de su letargo regional. En un lapso sorprendentemente corto, el Arouca inició una escalada vertiginosa: se coronó campeón distrital en la temporada 2006-07, conquistó la Terceira Divisão en 2008 y logró el asenso a la Segunda Liga en 2010. El clímax de esta revolución estructural se materializó en la campaña 2012-13. Bajo la experta conducción técnica de Vítor Oliveira, un entrenador reconocido en el país como el 'Rey de los Ascensos', el equipo mostró una solidez implacable, asegurando la segunda posición del torneo de plata y garantizando, por primera vez en sus 62 años de historia, su presencia en la Primeira Liga de Portugal."
+    },
+    {
+      "ano": "2015-2016",
+      "hito": "La conquista del quinto puesto y el bautismo europeo",
+      "desc": "Lejos de conformarse con la mera permanencia en la élite, el FC Arouca alcanzó su cénit deportivo durante la extraordinaria temporada 2015-16. Dirigidos por el estratega angoleño Lito Vidigal, el equipo se transformó en una de las revelaciones más impactantes del fútbol ibérico. Construyendo su éxito sobre un bloque defensivo férreo y transiciones ofensivas letales, lograron registrar victorias resonantes ante equipos tradicionales y finalizaron la campaña en una histórica quinta posición, la más alta de su historia. Este logro no solo trastocó el statu quo del campeonato luso, sino que otorgó un boleto directo a las rondas clasificatorias de la UEFA Europa League. En su esperado debut continental durante el verano de 2016, el modesto conjunto portugués logró eliminar agónicamente al Heracles Almelo de los Países Bajos gracias a la regla del gol de visitante, cayendo finalmente en la ronda de play-off ante el experimentado Olympiacos de Grecia en una serie muy disputada."
+    },
+    {
+      "ano": "2017-Presente",
+      "hito": "Del descenso al infierno al retorno triunfal",
+      "desc": "Tras la histórica experiencia europea, la institución experimentó un drástico y doloroso declive deportivo. La falta de profundidad en la plantilla provocó el descenso a la Segunda Liga en 2017, seguido de un colapso aún mayor en 2019 que hundió al equipo en el Campeonato de Portugal, la tercera categoría del fútbol luso. A pesar de este panorama desolador, la directiva no claudicó e inició un proceso de reconstrucción encomendado al entrenador Armando Evangelista. Su gestión fue milagrosa: tras lograr el ascenso administrativo en 2020 debido a la pandemia de COVID-19, el equipo firmó una brillante campaña en la Segunda Liga 2020-21, finalizando en tercer lugar. En la promoción, el Arouca destrozó al Rio Ave con un contundente global de 5-0 para sellar su retorno a la Primeira Liga. Demostrando que su resurrección no era una casualidad, el club repitió la hazaña en la temporada 2022-23 al finalizar nuevamente en el quinto puesto, logrando una clasificación dorada a la UEFA Europa Conference League y consolidándose como un ejemplo nacional de resiliencia administrativa y deportiva."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio Municipal de Arouca",
+      "direccion": "R. da Zona Desportiva 5, 4540-100 Arouca, Portugal",
+      "inauguracion": "2006",
+      "google_maps": "https://maps.app.goo.gl/9uG5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio Municipal de Arouca",
+          "epoca": "2006-actualidad"
+        }
+      ]
+    },
+    "viejas": []
+  },
+  "equipacion": [
+    {
+      "desde": 1951,
+      "hasta": null,
+      "c1": "#FFC500",
+      "c2": "#002b5c",
+      "sh": "#002b5c",
+      "me": "#FFC500",
+      "tipo": "liso",
+      "desc": "La histórica y tradicional indumentaria del club, adoptada en su fundación. Camisa íntegramente amarilla con detalles azules, representando los colores heráldicos de la bandera del municipio de Arouca."
+    }
+  ],
+  "temporadas": [],
+  "idolos": [
+    {
+      "nombre": "Vítor Oliveira",
+      "posicion": "Entrenador",
+      "descripcion": "El legendario 'Rey de los Ascensos' en Portugal. Llegó al club cuando estaban en la Segunda Liga en 2012 y obró el mayor milagro de la historia de Arouca: conseguir el boleto inédito a la Primeira Liga en la campaña 2012-13, grabando su nombre a fuego en la memoria de la ciudad."
+    },
+    {
+      "nombre": "Nuno Coelho",
+      "posicion": "Centrocampista",
+      "descripcion": "El gran capitán de la era dorada. Un mediocentro incansable que fue el cerebro del equipo que logró la histórica clasificación a competiciones europeas en 2016. Sostuvo la moral del grupo incluso en las épocas de declive y sigue siendo el hombre con más presencias en la historia moderna."
+    },
+    {
+      "nombre": "João Basso",
+      "posicion": "Defensa",
+      "descripcion": "Zaguero central brasileño que se convirtió en una figura monumental de la defensa durante el resurgimiento moderno. Fue pieza clave y líder espiritual en el doble ascenso que llevó al equipo desde la tercera división en 2019 de regreso a la máxima categoría en 2021."
+    },
+    {
+      "nombre": "David Simão",
+      "posicion": "Centrocampista",
+      "descripcion": "El director de orquesta. Llegó al club en múltiples etapas y en todas aportó jerarquía europea. Fue vital en el equipo de Lito Vidigal en 2016 y regresó años después para liderar al nuevo Arouca que volvió a clasificar a la Conference League en 2023."
+    },
+    {
+      "nombre": "Lito Vidigal",
+      "posicion": "Entrenador",
+      "descripcion": "El cerebro táctico detrás de la mejor temporada en los libros de historia del club (2015-16). Con un presupuesto mínimo, armó un bloque defensivo impenetrable que llevó a un diminuto pueblo a quedar quinto en Portugal y jugar competencias continentales."
+    }
+  ],
+  "goleadores": [
+    {
+      "nombre": "Joeano",
+      "goles": 45,
+      "descripcion": "Delantero brasileño de culto. Arribó en la temporada 2011-12 en Segunda Liga y se destapó como el máximo artillero en el ascenso de 2013, siendo letal en el área chica cuando el equipo más lo necesitaba."
+    },
+    {
+      "nombre": "Rafa Mújica",
+      "goles": 37,
+      "descripcion": "Artillero canario que desembarcó en la etapa moderna y revolucionó la liga. En la temporada 2023-24 explotó por completo anotando 20 goles en una sola liga, un registro obsceno para el tamaño del club, antes de ser vendido millonariamente."
+    },
+    {
+      "nombre": "Cristo González",
+      "goles": 22,
+      "descripcion": "El socio ideal de Mújica. Un atacante español exquisito que, actuando casi como mediapunta, regaló tardes de magia pura en el Municipal de Arouca, ayudando a certificar la segunda clasificación europea de la historia del club."
+    },
+    {
+      "nombre": "Oday Dabbagh",
+      "goles": 18,
+      "descripcion": "El primer jugador palestino en brillar en Portugal. Su velocidad y capacidad de definición aportaron frescura y goles determinantes durante su estadía, siendo el referente de ataque del equipo en las campañas 2021 y 2022."
+    },
+    {
+      "nombre": "André Silva",
+      "goles": 14,
+      "descripcion": "Atacante extremo brasileño que, con su desborde y potencia, fue el estilete del equipo que regresó a la élite. Sus goles y asistencias le valieron ser vendido al fútbol brasileño dejando grandes dividendos en las arcas del club."
+    }
+  ],
+  "presencias": [
+    {
+      "nombre": "Nuno Coelho",
+      "partidos": 204,
+      "descripcion": "Seis temporadas consecutivas gobernando el círculo central, desde 2013 hasta 2018, convirtiéndose en el símbolo innegable del equipo."
+    },
+    {
+      "nombre": "João Basso",
+      "partidos": 136,
+      "descripcion": "Cuatro años siendo la muralla infranqueable. Basso sudó la camiseta en tercera, en Segunda y en Primera División, completando el ciclo heroico."
+    },
+    {
+      "nombre": "David Simão",
+      "partidos": 128,
+      "descripcion": "Entre su paso glorioso inicial y su etapa de madurez reciente, el zurdo se transformó en uno de los jugadores más queridos de la afición."
+    },
+    {
+      "nombre": "Rui Sacramento",
+      "partidos": 105,
+      "descripcion": "El guardián histórico del arco en el ascenso desde Segunda División y durante los primeros años turbulentos en la máxima categoría."
+    },
+    {
+      "nombre": "Thales Oleques",
+      "partidos": 98,
+      "descripcion": "Lateral derecho brasileño, incansable en su banda, fue un pilar defensivo crucial durante el resurgimiento desde la tercera división hasta el regreso a Primera."
+    }
+  ]
+}

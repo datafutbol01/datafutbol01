@@ -1,0 +1,78 @@
+{
+  "id": "braga",
+  "datos": {
+    "nombre_completo": "SC Braga",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio Municipal de Braga",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "2003",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Parque Norte, Monte do Castro, 4700-087 Braga, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1921-1946",
+      "hito": "Fundación estudiantil y la adopción de la identidad 'Arsenalista'",
+      "desc": "El Sporting Clube de Braga fue fundado formalmente el 19 de enero de 1921 por un grupo de jóvenes estudiantes del Liceu Nacional de Sá de Miranda y comerciantes locales que se reunían habitualmente en los cafés cercanos a la Praça do Município. En sus primeros años, la institución adoptó los colores verde y blanco, influenciada por la afinidad de algunos fundadores hacia el Sporting Clube de Portugal. Sin embargo, la identidad definitiva del equipo cambió drásticamente en 1946. El entonces presidente del club, José Barbosa da Costa, viajó a Londres por negocios y quedó fascinado con el estilo de juego y el uniforme del Arsenal FC en el estadio de Highbury. A su regreso, convenció a la asamblea de socios para abandonar el verde y adoptar la emblemática camiseta roja con mangas blancas del club londinense, dándole al equipo su apodo eterno: 'Os Arsenalistas'."
+    },
+    {
+      "ano": "1966",
+      "hito": "La conquista de la Taça de Portugal y la primera gran gloria",
+      "desc": "Durante sus primeras décadas, el Braga compitió principalmente a nivel regional, alternando ascensos y descensos esporádicos en las categorías nacionales. El verdadero salto a la prominencia nacional se materializó en la temporada 1965-66. Bajo la dirección técnica del entrenador Rui Sim-Sim y con un plantel compuesto mayormente por talentos locales y obreros de la región del Miño, el equipo protagonizó una campaña heroica en el torneo de copa. El 22 de mayo de 1966, en el Estádio Nacional do Jamor, el SC Braga derrotó por 1-0 al favorito Vitória de Setúbal con un solitario gol del delantero argentino Miguel Perrichon. Esta histórica conquista de la Taça de Portugal significó el primer trofeo de primer nivel para la institución, cimentando su popularidad en el norte del país."
+    },
+    {
+      "ano": "2003-2008",
+      "hito": "La revolución de António Salvador y el traslado a 'A Pedreira'",
+      "desc": "El punto de inflexión hacia la modernidad ocurrió a principios del siglo XXI. En 2003, la asunción del empresario António Salvador a la presidencia marcó el inicio de una profunda profesionalización administrativa y deportiva. Paralelamente, en el marco de la Eurocopa 2004, el club abandonó el antiguo y modesto Estádio 1º de Maio para mudarse al impresionante Estádio Municipal de Braga. Diseñado por el arquitecto Eduardo Souto de Moura, el recinto fue literalmente esculpido en la roca de una antigua cantera en el Monte do Castro, ganándose el icónico apodo de 'A Pedreira'. Esta majestuosa obra de ingeniería no solo otorgó al club un hogar de clase mundial, sino que simbolizó la firmeza del nuevo proyecto deportivo, que rápidamente comenzó a disputar los puestos de vanguardia en la Primeira Liga y a clasificar ininterrumpidamente a competiciones europeas."
+    },
+    {
+      "ano": "2009-Presente",
+      "hito": "La consagración europea y la amenaza al tridente histórico",
+      "desc": "La madurez del proyecto se evidenció en la histórica temporada 2009-10, cuando el equipo dirigido por Domingos Paciência peleó el campeonato liguero hasta la última fecha, finalizando en un inédito subcampeonato. Este éxito impulsó su debut en la UEFA Champions League, pero sería en la campaña 2010-11 donde el Braga escribiría su página más dorada: tras caer a la UEFA Europa League, el equipo eliminó de forma consecutiva a potencias como el Liverpool, el Dinamo de Kiev y el Benfica, alcanzando la gran final europea en Dublín. Aunque cayeron ajustadamente 1-0 ante el FC Porto en una final íntegramente portuguesa, esta gesta internacional ratificó al Braga como la indiscutible 'cuarta fuerza' del fútbol luso en el siglo XXI. Desde entonces, el club ha continuado expandiendo sus vitrinas con múltiples conquistas de la Taça de Portugal (2016, 2021) y la Taça da Liga (2013, 2020, 2024), amenazando de manera constante la hegemonía de los tres gigantes tradicionales."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio Municipal de Braga",
+      "direccion": "Parque Norte, Ap 12, 4700-087 Braga, Portugal",
+      "inauguracion": "2003",
+      "google_maps": "https://maps.app.goo.gl/L9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio Municipal de Braga",
+          "epoca": "2003-2007"
+        },
+        {
+          "nombre": "Estádio AXA",
+          "epoca": "2007-2016"
+        },
+        {
+          "nombre": "Estádio Municipal de Braga",
+          "epoca": "2016-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio 1º de Maio",
+        "direccion": "Av. Gen. Norton de Matos, 4700-387 Braga, Portugal",
+        "epoca": "1950-2003",
+        "google_maps": "https://maps.app.goo.gl/M9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

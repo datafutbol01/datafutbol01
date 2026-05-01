@@ -1,0 +1,63 @@
+{
+  "id": "santa-clara",
+  "datos": {
+    "nombre_completo": "Santa Clara",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio de São Miguel",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "1930",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Rua de São Miguel, 9500-111 Ponta Delgada, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1927",
+      "hito": "Fundación obrera y el aislamiento en el Atlántico",
+      "desc": "El Clube Desportivo Santa Clara fue fundado oficialmente el 12 de mayo de 1927 en la ciudad de Ponta Delgada, ubicada en la isla de São Miguel, en el archipiélago de las Azores. La institución nació gracias a la iniciativa de un grupo de jóvenes trabajadores y entusiastas locales de la parroquia (freguesía) de Santa Clara. Ante el extremo aislamiento geográfico del archipiélago respecto al territorio continental, el club fue creado con el firme propósito de organizar deportivamente a la clase obrera local. Sus fundadores inscribieron al equipo como la decimocuarta filial oficial del Sport Lisboa e Benfica, adoptando sus colores rojo y blanco y el águila en su escudo original. Durante sus primeras seis décadas, el equipo estuvo condenado a competir exclusivamente en los torneos insulares amateurs, forjando una profunda identidad representativa del pueblo azoriano en el legendario Estádio de São Miguel."
+    },
+    {
+      "ano": "1998",
+      "hito": "La ruptura de la barrera insular y el debut en la élite",
+      "desc": "El aislamiento histórico se rompió definitivamente a finales del siglo XX, cuando las reestructuraciones de la federación permitieron una mayor integración de los equipos insulares en las divisiones nacionales. El gran milagro deportivo se consumó en la temporada 1998-99. Bajo la brillante conducción técnica del exjugador internacional Manuel Fernandes, el Santa Clara conquistó el tercer puesto en la Liga de Honra. Este logro monumental significó el primer ascenso en su historia a la Primeira Divisão, convirtiéndose oficialmente en el primer club del archipiélago de las Azores en alcanzar la máxima categoría del fútbol portugués, un hito que desató celebraciones masivas en las calles de Ponta Delgada y paralizó la actividad de la isla."
+    },
+    {
+      "ano": "2003-2018",
+      "hito": "El largo exilio, la crisis y el heroico retorno",
+      "desc": "A pesar de breves destellos de gloria, como su sorpresiva participación en la Copa Intertoto de la UEFA en 2002, el club fue víctima de sus profundas limitaciones logísticas y presupuestarias. Tras descender en 2003, el Santa Clara ingresó en el período más oscuro y extenuante de su era moderna. La institución encadenó quince temporadas consecutivas atrapada en la Segunda Liga, estableciendo el récord de mayor permanencia ininterrumpida en la categoría de plata del fútbol luso. Durante este lapso, el club bordeó reiteradamente la quiebra financiera y la extinción debido a los altísimos costos de los viajes continentales. Finalmente, la agonía terminó en la temporada 2017-18, cuando el equipo dirigido por Carlos Pinto logró asegurar el subcampeonato y devolver el orgullo de la Primeira Liga a las Azores."
+    },
+    {
+      "ano": "2020-2022",
+      "hito": "El cénit histórico: Sexta plaza y noches europeas",
+      "desc": "Tras estabilizar su estructura corporativa, el Santa Clara protagonizó la era más gloriosa de toda su historia durante la pandemia. En la excepcional temporada 2020-21, bajo la rigurosa pizarra táctica de Daniel Ramos, el equipo isleño batió todos sus récords estadísticos de puntos y victorias, finalizando en una asombrosa sexta posición en la Primeira Liga. Esta clasificación histórica les otorgó el pasaporte directo a la recién inaugurada UEFA Europa Conference League. En la campaña continental 2021-22, el equipo azoriano llenó de orgullo a Portugal eliminando al Shkupi macedonio y al Olimpija Ljubljana esloveno, alcanzando la ronda de play-off donde cayeron con honor ante el gigante serbio Partizan de Belgrado, sellando su estatus indiscutible como el rey absoluto del fútbol insular portugués."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio de São Miguel",
+      "direccion": "Caminho da Ribeira Grande, 9500-702 Ponta Delgada, Portugal",
+      "inauguracion": "1930",
+      "google_maps": "https://maps.app.goo.gl/C9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio de São Miguel",
+          "epoca": "1930-actualidad"
+        }
+      ]
+    },
+    "viejas": []
+  },
+  "equipacion": [],
+  "temporadas": []
+}

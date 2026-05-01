@@ -1,0 +1,63 @@
+{
+  "id": "rio-ave",
+  "datos": {
+    "nombre_completo": "Rio Ave FC",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio do Rio Ave FC",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "1984",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Av. do Rio Ave, 4480-711 Vila do Conde, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1939",
+      "hito": "Fundación a orillas del río y la identidad vilacondense",
+      "desc": "El Rio Ave Futebol Clube fue fundado el 10 de mayo de 1939 en la histórica ciudad costera de Vila do Conde, situada en el distrito de Oporto. La institución nació gracias al empuje de un grupo de jóvenes amigos locales, liderado por João Baptista da Silva y el primer presidente del club, João Ferreira. Reunidos con la intención de crear un equipo que representara el orgullo del municipio, decidieron bautizar al club en honor al río Ave, cuyo caudal atraviesa la ciudad y desemboca directamente en el Océano Atlántico. Ante la urgencia de conseguir indumentaria para competir, los fundadores compraron el lote de camisetas más barato disponible en las tiendas de la época, adoptando así de manera casi fortuita los inconfundibles colores verde y blanco a rayas, estableciendo su sede inicial en el modesto Campo da Avenida."
+    },
+    {
+      "ano": "1979-1984",
+      "hito": "El debut en la élite, Félix Mourinho y el Estádio dos Arcos",
+      "desc": "Durante sus primeras cuatro décadas, el Rio Ave compitió casi exclusivamente en las ligas regionales amateurs del norte de Portugal. El salto definitivo a la profesionalidad ocurrió a finales de los años setenta, cuando el equipo logró su primer e histórico ascenso a la Primeira Divisão en 1979. Apenas dos años después, bajo la impecable conducción técnica de Félix Mourinho (padre del legendario José Mourinho), el club finalizó en una asombrosa quinta posición en la máxima categoría. Este crecimiento deportivo fue coronado en 1984 con la inauguración definitiva de su hogar permanente: el Estádio do Rio Ave FC, conocido popularmente como Estádio dos Arcos por el antiguo acueducto cercano. Ese mismo año, el equipo alcanzó por primera vez la final de la Taça de Portugal, cayendo con honor ante el poderoso FC Porto."
+    },
+    {
+      "ano": "2013-2015",
+      "hito": "La revolución de Nuno Espírito Santo y el bautismo europeo",
+      "desc": "El club vivió la campaña más espectacular de su dilatada historia durante la temporada 2013-14. Bajo el mando del exjugador y joven entrenador Nuno Espírito Santo, el Rio Ave asombró a todo el país al clasificarse simultáneamente para las finales de las dos copas nacionales: la Taça de Portugal y la Taça da Liga. Aunque cayeron en ambas finales ante un SL Benfica que dominaba la época de manera hegemónica, el mérito de alcanzar la final de la Taça de Portugal les otorgó, por primera vez en su historia, el boleto para disputar la UEFA Europa League. En la temporada 2014-15, el humilde equipo vilacondense superó con brillantez todas las rondas previas y logró acceder a la fase de grupos del torneo continental, escribiendo la página más gloriosa de su historia internacional."
+    },
+    {
+      "ano": "2023-Presente",
+      "hito": "La inyección de la red Marinakis y la consolidación corporativa",
+      "desc": "Tras la dramática temporada de la pandemia (que incluyó una épica pero amarga tanda de penales europea ante el AC Milan y un posterior descenso sorpresivo), el club retornó inmediatamente a la Primeira Liga conquistando el campeonato de Segunda en 2022. Sin embargo, el verdadero punto de inflexión corporativo se gestó en noviembre de 2023. Atrapado por deudas históricas, el Rio Ave aprobó la venta mayoritaria de su Sociedad Anónima Deportiva (SAD) a Evangelos Marinakis, el poderoso magnate naviero griego propietario del Olympiacos y del Nottingham Forest. Esta masiva inyección de capital internacional liquidó inmediatamente los pasivos financieros del club y garantizó una ambiciosa remodelación de las infraestructuras de 'Los Arcos', proyectando al Rio Ave como una de las entidades más solventes y estables del fútbol luso contemporáneo."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio dos Arcos",
+      "direccion": "R. do Estádio, 4480-713 Vila do Conde, Portugal",
+      "inauguracion": "1984",
+      "google_maps": "https://maps.app.goo.gl/B9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio do Rio Ave FC (Estádio dos Arcos)",
+          "epoca": "1984-actualidad"
+        }
+      ]
+    },
+    "viejas": []
+  },
+  "equipacion": [],
+  "temporadas": []
+}

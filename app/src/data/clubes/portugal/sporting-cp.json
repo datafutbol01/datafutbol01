@@ -1,0 +1,76 @@
+{
+  "id": "sporting-cp",
+  "datos": {
+    "nombre_completo": "Sporting CP",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio José Alvalade",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "2003",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Rua Professor Fernando da Fonseca, 1600-616 Lisboa, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1906",
+      "hito": "El sueño aristocrático del vizconde y José Alvalade",
+      "desc": "El Sporting Clube de Portugal fue fundado el 1 de julio de 1906 en la ciudad de Lisboa. La institución nació tras una profunda escisión en el seno del Campo Grande Football Club. José Holtreman Roquette (conocido históricamente como José Alvalade), frustrado por el enfoque excesivamente social y festivo de aquel equipo, decidió abandonarlo para crear una entidad estrictamente enfocada en la excelencia deportiva. Con el fundamental respaldo financiero de su abuelo, Alfredo Augusto das Neves Holtreman, el poderoso Vizconde de Alvalade, José fundó el club con la ambición explícita de convertirlo en 'un club tan grande como los más grandes de Europa'. Adoptaron los colores verde y blanco como símbolo de esperanza y un león rampante como emblema, sentando las bases de una de las potencias aristocráticas más imponentes del continente."
+    },
+    {
+      "ano": "1946-1954",
+      "hito": "La hegemonía absoluta y los míticos 'Cinco Violinos'",
+      "desc": "La consagración definitiva del Sporting como el gigante dominador de Portugal ocurrió a mediados del siglo XX. Entre las temporadas 1946-47 y 1953-54, el equipo impuso una tiranía doméstica inigualable, conquistando siete de los ocho campeonatos de liga disputados. Esta máquina de triturar rivales estaba liderada por una legendaria delantera bautizada por el periodista Tavares da Silva como los 'Cinco Violinos': Jesus Correia, Manuel Vasques, José Travassos, Albano y el inconmensurable Fernando Peyroteo (quien ostenta el mejor promedio goleador en la historia del fútbol mundial). La sinfonía ofensiva de este quinteto no solo llenó las vitrinas del club capitalino, sino que transformó la forma en la que se concebía y jugaba el fútbol de ataque en toda la Península Ibérica."
+    },
+    {
+      "ano": "1964",
+      "hito": "La Recopa de Europa y el histórico 'Cantinho do Morais'",
+      "desc": "El pináculo internacional en la historia de los 'Leones' se alcanzó en la temporada 1963-64, durante la conquista de la Recopa de Europa. El trayecto hacia el título estuvo marcado por hazañas irrepetibles, como la victoria por 16-1 ante el APOEL chipriota (el récord de la mayor goleada en la historia de las competiciones europeas) y una épica remontada de 5-0 ante el Manchester United en Lisboa. La final los enfrentó al poderoso MTK Budapest húngaro. Tras empatar 3-3 en Bruselas, se disputó un partido de desempate el 15 de mayo de 1964 en Amberes. Allí, el Sporting venció 1-0 gracias a uno de los goles más famosos de la historia del fútbol: un tiro de esquina ejecutado directamente a la red por João Morais, jugada inmortalizada para siempre como el 'Cantinho do Morais', otorgándole al club su primer y único título continental mayor."
+    },
+    {
+      "ano": "2000-Presente",
+      "hito": "La factoría de Balones de Oro y la revolución de Amorim",
+      "desc": "En la era moderna, el Sporting cimentó su prestigio global al inaugurar en 2002 la Academia de Alcochete, consolidándose como la mejor cantera del mundo al formar a dos ganadores del Balón de Oro: Luís Figo y Cristiano Ronaldo. Sin embargo, este éxito formativo contrastó dramáticamente con una severa sequía de títulos ligueros que se prolongó durante 19 años y culminó con la violenta crisis institucional de 2018. El renacimiento absoluto del club ocurrió en 2020 con la audaz contratación del joven entrenador Rúben Amorim. Bajo su implacable sistema táctico, el Sporting rompió el monopolio de sus rivales y reconquistó la Primeira Liga en la temporada 2020-21 perdiendo apenas un partido, hazaña que repitió con una autoridad aplastante en 2023-24, devolviendo definitivamente al gigante de Alvalade a su legítimo sitial de campeón."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio José Alvalade",
+      "direccion": "R. Prof. Fernando da Fonseca, 1600-616 Lisboa, Portugal",
+      "inauguracion": "2003",
+      "google_maps": "https://maps.app.goo.gl/D9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio José Alvalade Século XXI",
+          "epoca": "2003-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Antigo Estádio José Alvalade",
+        "direccion": "Campo Grande, 1600 Lisboa, Portugal",
+        "epoca": "1956-2003",
+        "google_maps": "https://maps.app.goo.gl/E9G5M4Y6Yf6yRk2V6"
+      },
+      {
+        "nombre": "Estádio do Lumiar",
+        "direccion": "Lumiar, Lisboa, Portugal",
+        "epoca": "1937-1956",
+        "google_maps": "https://maps.app.goo.gl/F9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

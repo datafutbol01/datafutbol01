@@ -1,0 +1,70 @@
+{
+  "id": "gil-vicente",
+  "datos": {
+    "nombre_completo": "Gil Vicente FC",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio Cidade de Barcelos",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "2004",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Vila Boa, 4750-784 Barcelos, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1924-1946",
+      "hito": "Fundación teatral y la tragedia fundacional de Ribeiro Novo",
+      "desc": "El Gil Vicente Futebol Clube fue fundado el 3 de mayo de 1924 en la histórica ciudad de Barcelos, perteneciente al distrito de Braga. Su origen es sumamente singular: la institución nació gracias a un grupo de jóvenes amigos que se reunían cada tarde a jugar al fútbol en la plaza frente al teatro local. En homenaje a su lugar de encuentro, decidieron bautizar al equipo con el nombre del recinto, el 'Teatro Gil Vicente' (en honor al célebre dramaturgo portugués). Uno de los pilares fundacionales fue el joven Adelino Ribeiro Novo, quien se convirtió en el primer guardameta del equipo. Su figura pasó a la inmortalidad el 16 de septiembre de 1946, cuando falleció trágicamente sobre el terreno de juego tras una fatal colisión durante un partido contra el Desportivo de Chaves. En un acto de luto y respeto eterno, el club renombró su histórico recinto deportivo como Estádio Adelino Ribeiro Novo, cimentando un profundo vínculo emocional con la comunidad de Barcelos."
+    },
+    {
+      "ano": "1990",
+      "hito": "El anhelado debut en la élite tras casi siete décadas",
+      "desc": "Durante sus primeros sesenta y seis años de existencia, el Gil Vicente operó como un club modesto, compitiendo de manera ininterrumpida en las categorías regionales y divisiones de ascenso del fútbol luso, alejado de los grandes focos mediáticos. El ansiado punto de quiebre estructural y deportivo ocurrió en la temporada 1989-90. Bajo la aguda dirección técnica de Vítor Oliveira, un estratega que años más tarde se consagraría como una leyenda de los ascensos en Portugal, el equipo de Barcelos conquistó el campeonato de la Segunda Divisão de Honra. Este hito monumental garantizó, por primera vez en la larga historia del club, el ascenso a la Primeira Divisão, profesionalizando definitivamente sus estructuras e insertando a la ciudad en el mapa de la máxima categoría nacional."
+    },
+    {
+      "ano": "2006-2019",
+      "hito": "El 'Caso Mateus' y la monumental batalla legal por la restitución",
+      "desc": "El capítulo más tenso y complejo del club comenzó en 2006, cuando fueron descendidos administrativamente a la Segunda Liga por el denominado 'Caso Mateus', una disputa federativa por la supuesta alineación indebida del jugador angoleño Mateus. Convencida de su inocencia, la directiva del Gil Vicente inició una exhaustiva y desgastante batalla en los tribunales civiles de Portugal. El pleito judicial se prolongó durante más de una década, período durante el cual la institución sufrió un grave desgaste financiero, llegando a caer hasta la tercera división. Finalmente, en 2016, la justicia lusa falló a favor del club, declarando que el descenso de 2006 había sido ilegal. Como restitución directa e inédita, la federación ordenó la reintegración automática del Gil Vicente a la Primeira Liga, efectiva a partir de la temporada 2019-20, cerrando la herida más profunda de su historia."
+    },
+    {
+      "ano": "2021-Presente",
+      "hito": "El renacimiento europeo y la conquista de la quinta plaza",
+      "desc": "Tras recuperar su lugar legítimo en la élite, el club protagonizó el mayor milagro deportivo de su historia contemporánea durante la excepcional campaña 2021-22. Bajo el mando del entrenador Ricardo Soares, el equipo de Barcelos desplegó un fútbol de altísimo vuelo técnico, desafiando a los gigantes del país y finalizando el torneo en una histórica quinta posición. Este resultado no solo garantizó la mejor clasificación liguera de su centenaria historia, sino que les otorgó por primera vez el acceso a las competiciones continentales. En la temporada 2022-23, el Gil Vicente hizo su esperado debut internacional en las fases previas de la UEFA Europa Conference League, donde lograron eliminar al Riga FC de Letonia antes de caer frente al AZ Alkmaar, consolidando definitivamente su renacimiento como una potencia respetable de la Primeira Liga."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio Cidade de Barcelos",
+      "direccion": "Complexo Desportivo Municipal, 4750-783 Barcelos, Portugal",
+      "inauguracion": "2004",
+      "google_maps": "https://maps.app.goo.gl/T9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio Cidade de Barcelos",
+          "epoca": "2004-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Estádio Adelino Ribeiro Novo",
+        "direccion": "Barcelos, Portugal",
+        "epoca": "1933-2004",
+        "google_maps": "https://maps.app.goo.gl/U9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}

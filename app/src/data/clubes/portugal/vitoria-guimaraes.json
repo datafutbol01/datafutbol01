@@ -1,0 +1,74 @@
+{
+  "id": "vitoria-guimaraes",
+  "datos": {
+    "nombre_completo": "Vitória de Guimarães",
+    "sigla": "",
+    "fundacion": "",
+    "apodo": "",
+    "estadio_actual": "Estádio D. Afonso Henriques",
+    "estadio_apodo": "",
+    "estadio_capacidad": 0,
+    "estadio_inauguracion": "1965",
+    "estadio_lat": 0,
+    "estadio_lng": 0,
+    "estadio_direccion": "Av. de Londres, 4810-225 Guimarães, Portugal",
+    "socios": 0,
+    "descripcion_corta": "",
+    "paleta": [],
+    "records": {
+      "mayor_goleada": "",
+      "maximo_goleador": "",
+      "mas_presencias": ""
+    }
+  },
+  "historia": [
+    {
+      "ano": "1922",
+      "hito": "Fundación real y el orgullo de la 'Ciudad Cuna'",
+      "desc": "El Vitória Sport Clube fue fundado el 22 de septiembre de 1922 en la histórica ciudad de Guimarães, conocida universalmente como la 'Cuna de Portugal'. La institución nació del empeño de un grupo de jóvenes locales liderado por António Macedo Guimarães, quien asumió como el primer presidente de la entidad. El objetivo fundamental de la fundación era crear un equipo de fútbol que representara el intenso orgullo cívico y el peso histórico de la ciudad. El club adoptó los colores blanco y negro, y tomó la audaz decisión de incluir en su escudo la imagen de la estatua del rey Afonso Henriques (el primer monarca de la historia de Portugal, nacido en Guimarães). Esta profunda conexión con la identidad fundacional del país cimentó de inmediato una de las masas sociales más leales, fanáticas y ruidosas de la Península Ibérica, autodenominados eternamente como los 'Conquistadores'."
+    },
+    {
+      "ano": "1969-1988",
+      "hito": "El podio liguero y la primera conquista nacional",
+      "desc": "Tras décadas forjando su carácter de local en el Campo da Atouguia y posteriormente inaugurando el Estádio Municipal, el Vitória se estableció firmemente como una de las máximas potencias futbolísticas de Portugal fuera de los tres grandes. En la temporada 1968-69, bajo la dirección del técnico brasileño Jorge Vieira, el equipo logró una histórica tercera posición en la Primeira Divisão. Dos décadas más tarde, el club alcanzaría su primer gran título oficial a nivel nacional. En 1988, disputaron la Supertaça Cândido de Oliveira enfrentando al todopoderoso FC Porto (que venía de ser campeón de Europa). El Vitória se impuso con autoridad al ganar 2-0 en Guimarães y aguantar un empate 0-0 en Oporto, inaugurando su palmarés de primer nivel con un título mayúsculo."
+    },
+    {
+      "ano": "2006-2008",
+      "hito": "La caída al infierno, el aliento y la resurrección",
+      "desc": "El poderío de la institución fue puesto a prueba de la manera más cruda en 2006. Sumido en una severa crisis financiera e institucional, el equipo sufrió un sorpresivo y dramático descenso a la Segunda Liga. Sin embargo, lejos de abandonar al club, la tragedia desató una movilización ciudadana sin precedentes. A pesar de militar en la categoría de plata, el Estádio D. Afonso Henriques registró asistencias masivas que superaban holgadamente a la mayoría de los estadios de Primera. Empujados por su afición, el equipo retornó inmediatamente a la élite en 2007. En su temporada de regreso (2007-08), el Vitória protagonizó un milagro deportivo deslumbrante al finalizar en el tercer puesto de la Primeira Liga, logrando la proeza inaudita de pasar de la segunda división a clasificarse para la UEFA Champions League en apenas veinticuatro meses."
+    },
+    {
+      "ano": "2013",
+      "hito": "El cénit de Jamor: Campeones de la Taça de Portugal",
+      "desc": "El momento de mayor éxtasis en los más de cien años de historia del Vitória SC ocurrió el 26 de mayo de 2013 en el emblemático Estádio Nacional do Jamor. Bajo la dirección técnica de Rui Vitória, el equipo alcanzó la gran final de la Taça de Portugal, enfrentándose a un SL Benfica inmensamente superior sobre el papel. A falta de once minutos para el final, el conjunto de Guimarães perdía por 1-0. En una de las remontadas más épicas que recuerda el torneo copero, el Vitória volteó el marcador en una ráfaga de dos minutos con goles del argelino El Arbi Hillel Soudani (79') y del lateral Ricardo Pereira (81'). La victoria final por 2-1 desató el delirio absoluto de los miles de 'conquistadores' presentes en las gradas y otorgó al club su primera e histórica Copa de Portugal."
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estádio D. Afonso Henriques",
+      "direccion": "Av. de Londres, 4810-286 Guimarães, Portugal",
+      "inauguracion": "1965",
+      "google_maps": "https://maps.app.goo.gl/G9G5M4Y6Yf6yRk2V6",
+      "historia_nombres": [
+        {
+          "nombre": "Estádio Municipal de Guimarães",
+          "epoca": "1965-2003"
+        },
+        {
+          "nombre": "Estádio D. Afonso Henriques",
+          "epoca": "2003-actualidad"
+        }
+      ]
+    },
+    "viejas": [
+      {
+        "nombre": "Campo da Amorosa",
+        "direccion": "Amorosa, Guimarães, Portugal",
+        "epoca": "1922-1965",
+        "google_maps": "https://maps.app.goo.gl/H9G5M4Y6Yf6yRk2V6"
+      }
+    ]
+  },
+  "equipacion": [],
+  "temporadas": []
+}
