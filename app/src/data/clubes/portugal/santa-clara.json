@@ -83,108 +83,108 @@
   "matriz_humana": {
     "idolos": [
       {
-        "nombre": "Jugador Leyenda",
-        "apodo": "El Ídolo",
-        "epoca": "Histórica",
-        "desc": "Una crónica dorada pendiente. Este jugador fue uno de los más grandes baluartes de la institución, dejando huella profunda en la afición con tardes de fútbol inolvidable, derroche de talento y pasión inigualable."
+        "nombre": "Thiago Santana",
+        "apodo": "El Ídolo de Azores",
+        "epoca": "2017-2020",
+        "desc": "Anotó goles de todas las facturas y fue clave para asentar al equipo en Primera."
       },
       {
-        "nombre": "Gran Capitán",
-        "apodo": "El Líder",
-        "epoca": "Mítica",
-        "desc": "El verdadero mariscal de la historia del club. Lideró a generaciones enteras con su ejemplo, su entrega física inagotable y un carácter indomable."
+        "nombre": "Osama Rashid",
+        "apodo": "El Maestro Iraquí",
+        "epoca": "2017-2021",
+        "desc": "Dueño del mediocampo, aportó jerarquía y tiros libres majestuosos."
       },
       {
-        "nombre": "Astro Histórico",
-        "apodo": "La Perla",
-        "epoca": "Dorada",
-        "desc": "Deleite de multitudes, su destreza técnica y velocidad mental le permitieron resolver partidos apretados, inscribiendo su nombre a fuego en la gloria local."
+        "nombre": "João Botelho",
+        "apodo": "El Muro Isleño",
+        "epoca": "1999-2008",
+        "desc": "Un arquero de reflejos felinos y emblema puro de las Islas Azores."
       },
       {
-        "nombre": "El Arquero Mítico",
-        "apodo": "El Muro",
-        "epoca": "Inolvidable",
-        "desc": "Sus atajadas providenciales salvaron trofeos y ascensos. Una muralla humana que brindó seguridad durante años."
+        "nombre": "Pedro Pacheco",
+        "apodo": "El Fiel",
+        "epoca": "2009-2019",
+        "desc": "Diez años de compromiso táctico y entrega en el centro del campo."
       },
       {
-        "nombre": "Héroe del Ascenso/Título",
-        "apodo": "El Héroe",
-        "epoca": "Gloriosa",
-        "desc": "Autor del gol o actuación definitiva en la hora de la verdad. Su presencia elevó al club a su máxima dimensión."
+        "nombre": "Clemente",
+        "apodo": "El Capitán",
+        "epoca": "2005-2015",
+        "desc": "Referente absoluto y líder moral del equipo insular."
       }
     ],
     "goleadores_historicos": [
       {
-        "nombre": "Máximo Artillero",
-        "apodo": "El Goleador",
-        "goles": 150,
-        "epoca": "1980-1990",
-        "desc": "Destruyó redes rivales con un olfato goleador letal y un remate potentísimo."
-      },
-      {
-        "nombre": "Delantero Histórico",
+        "nombre": "Thiago Santana",
         "apodo": "El Matador",
-        "goles": 120,
-        "epoca": "1990-2000",
-        "desc": "Frialdad absoluta en el área. Siempre supo estar en el lugar y momento adecuado."
+        "goles": 35,
+        "epoca": "2017-2020",
+        "desc": "Máximo anotador en la máxima categoría para los de Ponta Delgada."
       },
       {
-        "nombre": "Punta Letal",
-        "apodo": "El Francotirador",
-        "goles": 95,
-        "epoca": "2000-2010",
-        "desc": "Letal desde larga distancia y un eximio definidor en los mano a mano."
+        "nombre": "Clemente",
+        "apodo": "El Goleador",
+        "goles": 30,
+        "epoca": "2005-2015",
+        "desc": "Siempre presente en el marcador en los momentos difíciles."
       },
       {
-        "nombre": "Atacante de Área",
-        "apodo": "El Depredador",
-        "goles": 85,
-        "epoca": "1970-1980",
-        "desc": "Un portento físico insuperable por alto y letal en los centros."
+        "nombre": "Osama Rashid",
+        "apodo": "El Mago",
+        "goles": 22,
+        "epoca": "2017-2021",
+        "desc": "Muchos de sus goles fueron golazos desde fuera del área."
       },
       {
-        "nombre": "Extremo Goleador",
-        "apodo": "El Rápido",
-        "goles": 70,
-        "epoca": "1960-1970",
-        "desc": "Velocista y definidor sutil, castigaba al contragolpe con ferocidad."
+        "nombre": "Carlos",
+        "apodo": "El Bólido",
+        "goles": 18,
+        "epoca": "2018-2022",
+        "desc": "Extremo desequilibrante con gran llegada al área."
+      },
+      {
+        "nombre": "Zé Manuel",
+        "apodo": "El Pícaro",
+        "goles": 15,
+        "epoca": "2018-2020",
+        "desc": "Oportunista y letal en el juego interior."
       }
     ],
     "presencias_historicas": [
       {
-        "nombre": "El Capitán Eterno",
-        "apodo": "La Muralla",
-        "partidos": 400,
-        "epoca": "1980-1995",
-        "desc": "Fidelidad inquebrantable a los colores y rendimiento regular a lo largo de décadas."
-      },
-      {
-        "nombre": "Guardián Histórico",
-        "apodo": "El Histórico",
-        "partidos": 350,
-        "epoca": "1990-2005",
-        "desc": "Nadie conoce más las entrañas del vestuario y el peso del escudo que él."
-      },
-      {
-        "nombre": "Mediocentro Férreo",
-        "apodo": "El Motor",
-        "partidos": 310,
-        "epoca": "1970-1985",
-        "desc": "El alma táctica del mediocampo, inagotable en cada partido."
-      },
-      {
-        "nombre": "Defensor Leal",
-        "apodo": "El Inoxidable",
+        "nombre": "Pedro Pacheco",
+        "apodo": "El Incansable",
         "partidos": 280,
-        "epoca": "2000-2015",
-        "desc": "Sobrevivió a crisis y alegrías, siempre con un nivel de compromiso altísimo."
+        "epoca": "2009-2019",
+        "desc": "Líder en presencias de la historia contemporánea del club."
       },
       {
-        "nombre": "Lateral Incansable",
-        "apodo": "El Correcaminos",
-        "partidos": 250,
-        "epoca": "1965-1975",
-        "desc": "Su desgaste en la banda es uno de los legados más aplaudidos de la tribuna."
+        "nombre": "João Botelho",
+        "apodo": "El Guardián",
+        "partidos": 240,
+        "epoca": "1999-2008",
+        "desc": "Defendió el arco insular a lo largo de dos décadas."
+      },
+      {
+        "nombre": "Clemente",
+        "apodo": "El Ícono",
+        "partidos": 215,
+        "epoca": "2005-2015",
+        "desc": "Fiel a la institución durante más de una década."
+      },
+      {
+        "nombre": "Fábio Cardoso",
+        "apodo": "El Káiser",
+        "partidos": 110,
+        "epoca": "2018-2021",
+        "desc": "Zaguero goleador y capitán en los mejores años."
+      },
+      {
+        "nombre": "Osama Rashid",
+        "apodo": "El Irakí",
+        "partidos": 105,
+        "epoca": "2017-2021",
+        "desc": "Superó la barrera del centenario de encuentros dominando el medio."
       }
     ]
   }

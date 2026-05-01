@@ -93,108 +93,108 @@
   "matriz_humana": {
     "idolos": [
       {
-        "nombre": "Jugador Leyenda",
-        "apodo": "El Ídolo",
-        "epoca": "Histórica",
-        "desc": "Una crónica dorada pendiente. Este jugador fue uno de los más grandes baluartes de la institución, dejando huella profunda en la afición con tardes de fútbol inolvidable, derroche de talento y pasión inigualable."
+        "nombre": "Filipe Melo",
+        "apodo": "El Mariscal",
+        "epoca": "2012-2015",
+        "desc": "Mediocentro inagotable que impuso su ley en el medio campo ajedrezado."
       },
       {
-        "nombre": "Gran Capitán",
-        "apodo": "El Líder",
-        "epoca": "Mítica",
-        "desc": "El verdadero mariscal de la historia del club. Lideró a generaciones enteras con su ejemplo, su entrega física inagotable y un carácter indomable."
+        "nombre": "Rafael Martins",
+        "apodo": "El Goleador",
+        "epoca": "2016-2017, 2021-2022",
+        "desc": "Sus goles fueron el combustible principal de las campañas de permanencia heroica."
       },
       {
-        "nombre": "Astro Histórico",
-        "apodo": "La Perla",
-        "epoca": "Dorada",
-        "desc": "Deleite de multitudes, su destreza técnica y velocidad mental le permitieron resolver partidos apretados, inscribiendo su nombre a fuego en la gloria local."
+        "nombre": "João Aurélio",
+        "apodo": "El Todoterreno",
+        "epoca": "2018-2021",
+        "desc": "Líder de vestuario y ejemplo de profesionalidad en cada encuentro."
       },
       {
-        "nombre": "El Arquero Mítico",
-        "apodo": "El Muro",
-        "epoca": "Inolvidable",
-        "desc": "Sus atajadas providenciales salvaron trofeos y ascensos. Una muralla humana que brindó seguridad durante años."
+        "nombre": "Bilel Aouacheria",
+        "apodo": "El Desequilibrante",
+        "epoca": "2017-2020",
+        "desc": "Regate puro y asistencias de oro en la banda derecha."
       },
       {
-        "nombre": "Héroe del Ascenso/Título",
-        "apodo": "El Héroe",
-        "epoca": "Gloriosa",
-        "desc": "Autor del gol o actuación definitiva en la hora de la verdad. Su presencia elevó al club a su máxima dimensión."
+        "nombre": "Jhonatan",
+        "apodo": "San Jhonatan",
+        "epoca": "2017-2020",
+        "desc": "Guardameta brasileño que sacó balones imposibles en momentos de máxima tensión."
       }
     ],
     "goleadores_historicos": [
       {
-        "nombre": "Máximo Artillero",
-        "apodo": "El Goleador",
-        "goles": 150,
-        "epoca": "1980-1990",
-        "desc": "Destruyó redes rivales con un olfato goleador letal y un remate potentísimo."
-      },
-      {
-        "nombre": "Delantero Histórico",
-        "apodo": "El Matador",
-        "goles": 120,
-        "epoca": "1990-2000",
-        "desc": "Frialdad absoluta en el área. Siempre supo estar en el lugar y momento adecuado."
-      },
-      {
-        "nombre": "Punta Letal",
+        "nombre": "Rafael Martins",
         "apodo": "El Francotirador",
-        "goles": 95,
-        "epoca": "2000-2010",
-        "desc": "Letal desde larga distancia y un eximio definidor en los mano a mano."
+        "goles": 22,
+        "epoca": "2016-2022",
+        "desc": "Referencia máxima del ataque."
       },
       {
-        "nombre": "Atacante de Área",
-        "apodo": "El Depredador",
-        "goles": 85,
-        "epoca": "1970-1980",
-        "desc": "Un portento físico insuperable por alto y letal en los centros."
+        "nombre": "Nenê",
+        "apodo": "El Tanque",
+        "goles": 18,
+        "epoca": "2018-2020",
+        "desc": "Otro de sus prolíficos pasos por el fútbol luso."
       },
       {
-        "nombre": "Extremo Goleador",
-        "apodo": "El Rápido",
-        "goles": 70,
-        "epoca": "1960-1970",
-        "desc": "Velocista y definidor sutil, castigaba al contragolpe con ferocidad."
+        "nombre": "André Luis",
+        "apodo": "El Matador",
+        "goles": 15,
+        "epoca": "2020-2023",
+        "desc": "Aportó peso y músculo ofensivo."
+      },
+      {
+        "nombre": "Chiquinho",
+        "apodo": "El Mago",
+        "goles": 10,
+        "epoca": "2018-2019",
+        "desc": "Su única temporada fue brillante y llena de goles."
+      },
+      {
+        "nombre": "Bilel",
+        "apodo": "El Extremo",
+        "goles": 8,
+        "epoca": "2017-2020",
+        "desc": "Además de asistir, anotó con frecuencia."
       }
     ],
     "presencias_historicas": [
       {
-        "nombre": "El Capitán Eterno",
-        "apodo": "La Muralla",
-        "partidos": 400,
-        "epoca": "1980-1995",
-        "desc": "Fidelidad inquebrantable a los colores y rendimiento regular a lo largo de décadas."
+        "nombre": "João Aurélio",
+        "apodo": "El Capitán",
+        "partidos": 120,
+        "epoca": "2018-2021",
+        "desc": "Garantía absoluta de rendimiento."
       },
       {
-        "nombre": "Guardián Histórico",
-        "apodo": "El Histórico",
-        "partidos": 350,
-        "epoca": "1990-2005",
-        "desc": "Nadie conoce más las entrañas del vestuario y el peso del escudo que él."
+        "nombre": "Filipe Melo",
+        "apodo": "El Pulmón",
+        "partidos": 110,
+        "epoca": "2012-2015",
+        "desc": "Desgaste innegociable en el medio."
       },
       {
-        "nombre": "Mediocentro Férreo",
-        "apodo": "El Motor",
-        "partidos": 310,
-        "epoca": "1970-1985",
-        "desc": "El alma táctica del mediocampo, inagotable en cada partido."
+        "nombre": "Steven Vitória",
+        "apodo": "El Káiser",
+        "partidos": 105,
+        "epoca": "2019-2022",
+        "desc": "Sólido y contundente en el juego aéreo."
       },
       {
-        "nombre": "Defensor Leal",
-        "apodo": "El Inoxidable",
-        "partidos": 280,
-        "epoca": "2000-2015",
-        "desc": "Sobrevivió a crisis y alegrías, siempre con un nivel de compromiso altísimo."
+        "nombre": "Jhonatan",
+        "apodo": "El Muro",
+        "partidos": 100,
+        "epoca": "2017-2020",
+        "desc": "Centenar de partidos bajo los palos."
       },
       {
-        "nombre": "Lateral Incansable",
-        "apodo": "El Correcaminos",
-        "partidos": 250,
-        "epoca": "1965-1975",
-        "desc": "Su desgaste en la banda es uno de los legados más aplaudidos de la tribuna."
+        "nombre": "Gonçalo Franco",
+        "apodo": "El Heredero",
+        "partidos": 95,
+        "epoca": "2020-actualidad",
+        "desc": "La nueva joya del mediocampo ajedrezado."
       }
     ]
   }

@@ -82,108 +82,108 @@
   "matriz_humana": {
     "idolos": [
       {
-        "nombre": "Jugador Leyenda",
-        "apodo": "El Ídolo",
-        "epoca": "Histórica",
-        "desc": "Una crónica dorada pendiente. Este jugador fue uno de los más grandes baluartes de la institución, dejando huella profunda en la afición con tardes de fútbol inolvidable, derroche de talento y pasión inigualable."
+        "nombre": "Saviola",
+        "apodo": "El Pibito",
+        "epoca": "1996-1998 (Inferiores)",
+        "desc": "Aunque de breve paso formativo en Europa, su leyenda inspira a la cantera de los Gansos."
       },
       {
-        "nombre": "Gran Capitán",
+        "nombre": "Cândido de Oliveira",
+        "apodo": "El Fundador",
+        "epoca": "1920",
+        "desc": "Leyenda absoluta, primer capitán y figura histórica del fútbol portugués que fundó el club."
+      },
+      {
+        "nombre": "João Goulart",
         "apodo": "El Líder",
-        "epoca": "Mítica",
-        "desc": "El verdadero mariscal de la historia del club. Lideró a generaciones enteras con su ejemplo, su entrega física inagotable y un carácter indomable."
+        "epoca": "2021-actualidad",
+        "desc": "Comandó el regreso heroico a Primera División después de 83 años."
       },
       {
-        "nombre": "Astro Histórico",
-        "apodo": "La Perla",
-        "epoca": "Dorada",
-        "desc": "Deleite de multitudes, su destreza técnica y velocidad mental le permitieron resolver partidos apretados, inscribiendo su nombre a fuego en la gloria local."
+        "nombre": "Vasco Fernandes",
+        "apodo": "El Káiser",
+        "epoca": "2021-actualidad",
+        "desc": "La experiencia en la línea defensiva en el brillante retorno a la élite."
       },
       {
-        "nombre": "El Arquero Mítico",
-        "apodo": "El Muro",
-        "epoca": "Inolvidable",
-        "desc": "Sus atajadas providenciales salvaron trofeos y ascensos. Una muralla humana que brindó seguridad durante años."
-      },
-      {
-        "nombre": "Héroe del Ascenso/Título",
-        "apodo": "El Héroe",
-        "epoca": "Gloriosa",
-        "desc": "Autor del gol o actuación definitiva en la hora de la verdad. Su presencia elevó al club a su máxima dimensión."
+        "nombre": "Antoine Silva",
+        "apodo": "El Mago Antiguo",
+        "epoca": "1920-1930",
+        "desc": "Una de las figuras de los albores históricos del club de Lisboa."
       }
     ],
     "goleadores_historicos": [
       {
-        "nombre": "Máximo Artillero",
-        "apodo": "El Goleador",
-        "goles": 150,
-        "epoca": "1980-1990",
-        "desc": "Destruyó redes rivales con un olfato goleador letal y un remate potentísimo."
+        "nombre": "Saviour Godwin",
+        "apodo": "El Rayo",
+        "goles": 22,
+        "epoca": "2020-2023",
+        "desc": "Anotador fundamental en el ascenso y permanencia."
       },
       {
-        "nombre": "Delantero Histórico",
+        "nombre": "Clayton",
+        "apodo": "El Nueve",
+        "goles": 15,
+        "epoca": "2022-actualidad",
+        "desc": "Delantero potente que aportó dianas decisivas en Primera."
+      },
+      {
+        "nombre": "Lelo",
+        "apodo": "El Dueño",
+        "goles": 12,
+        "epoca": "2020-actualidad",
+        "desc": "Goles valiosos desde el perfil zurdo."
+      },
+      {
+        "nombre": "Rafael Martins",
         "apodo": "El Matador",
-        "goles": 120,
-        "epoca": "1990-2000",
-        "desc": "Frialdad absoluta en el área. Siempre supo estar en el lugar y momento adecuado."
+        "goles": 10,
+        "epoca": "2022-2023",
+        "desc": "Experiencia goleadora en el momento más importante."
       },
       {
-        "nombre": "Punta Letal",
-        "apodo": "El Francotirador",
-        "goles": 95,
-        "epoca": "2000-2010",
-        "desc": "Letal desde larga distancia y un eximio definidor en los mano a mano."
-      },
-      {
-        "nombre": "Atacante de Área",
-        "apodo": "El Depredador",
-        "goles": 85,
-        "epoca": "1970-1980",
-        "desc": "Un portento físico insuperable por alto y letal en los centros."
-      },
-      {
-        "nombre": "Extremo Goleador",
-        "apodo": "El Rápido",
-        "goles": 70,
-        "epoca": "1960-1970",
-        "desc": "Velocista y definidor sutil, castigaba al contragolpe con ferocidad."
+        "nombre": "Yuki Soma",
+        "apodo": "El Nipón",
+        "goles": 8,
+        "epoca": "2022-actualidad",
+        "desc": "Velocidad y desborde traducidos en goles importantes."
       }
     ],
     "presencias_historicas": [
       {
-        "nombre": "El Capitán Eterno",
-        "apodo": "La Muralla",
-        "partidos": 400,
-        "epoca": "1980-1995",
-        "desc": "Fidelidad inquebrantable a los colores y rendimiento regular a lo largo de décadas."
+        "nombre": "Vasco Fernandes",
+        "apodo": "El Jefe",
+        "partidos": 110,
+        "epoca": "2021-actualidad",
+        "desc": "Símbolo de estabilidad en la defensa."
       },
       {
-        "nombre": "Guardián Histórico",
-        "apodo": "El Histórico",
-        "partidos": 350,
-        "epoca": "1990-2005",
-        "desc": "Nadie conoce más las entrañas del vestuario y el peso del escudo que él."
+        "nombre": "Lelo",
+        "apodo": "El Lateral Fiel",
+        "partidos": 105,
+        "epoca": "2020-actualidad",
+        "desc": "Casi no se perdió encuentros en las últimas campañas."
       },
       {
-        "nombre": "Mediocentro Férreo",
-        "apodo": "El Motor",
-        "partidos": 310,
-        "epoca": "1970-1985",
-        "desc": "El alma táctica del mediocampo, inagotable en cada partido."
+        "nombre": "Saviour Godwin",
+        "apodo": "El Desequilibrante",
+        "partidos": 100,
+        "epoca": "2020-2023",
+        "desc": "Un siglo de partidos dejando rivales atrás."
       },
       {
-        "nombre": "Defensor Leal",
-        "apodo": "El Inoxidable",
-        "partidos": 280,
-        "epoca": "2000-2015",
-        "desc": "Sobrevivió a crisis y alegrías, siempre con un nivel de compromiso altísimo."
+        "nombre": "Ricardo Batista",
+        "apodo": "El Muro",
+        "partidos": 95,
+        "epoca": "2020-actualidad",
+        "desc": "El guardián del arco en el ansiado retorno."
       },
       {
-        "nombre": "Lateral Incansable",
-        "apodo": "El Correcaminos",
-        "partidos": 250,
-        "epoca": "1965-1975",
-        "desc": "Su desgaste en la banda es uno de los legados más aplaudidos de la tribuna."
+        "nombre": "Nermin Zolotić",
+        "apodo": "La Roca",
+        "partidos": 90,
+        "epoca": "2021-actualidad",
+        "desc": "Sólido baluarte defensivo de los Gansos."
       }
     ]
   }
