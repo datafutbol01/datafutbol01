@@ -80,11 +80,21 @@
   "equipacion": [
     {
       "epoca": "1906-1928",
-      "diseno": "Camiseta dividida en dos mitades verticales (verde y blanca), popularmente conocida como diseño 'Stromp' en honor a Francisco Stromp, fundador y primera gran figura del club."
+      "diseno": "Camiseta dividida en dos mitades verticales (verde y blanca), popularmente conocida como diseño 'Stromp' en honor a Francisco Stromp, fundador y primera gran figura del club.",
+      "c1": "#008000",
+      "c2": "#ffffff",
+      "tipo": "mitad-vertical",
+      "sh": "#000000",
+      "me": "#000000"
     },
     {
       "epoca": "1928-actualidad",
-      "diseno": "Camiseta a franjas horizontales verdes y blancas (hoops), pantalones negros y medias a rayas verdes y blancas. La idea de las bandas horizontales fue traída desde Francia tras un partido de rugby, adoptándose permanentemente y convirtiéndose en uno de los uniformes más singulares y bellos de Europa."
+      "diseno": "Camiseta a franjas horizontales verdes y blancas (hoops), pantalones negros y medias a rayas verdes y blancas. La idea de las bandas horizontales fue traída desde Francia tras un partido de rugby, adoptándose permanentemente y convirtiéndose en uno de los uniformes más singulares y bellos de Europa.",
+      "c1": "#008000",
+      "c2": "#ffffff",
+      "tipo": "rayas-horizontales",
+      "sh": "#000000",
+      "me": "#008000"
     }
   ],
   "temporadas": [],

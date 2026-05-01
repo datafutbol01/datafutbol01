@@ -63,7 +63,12 @@
   "equipacion": [
     {
       "epoca": "1938-actualidad",
-      "diseno": "Históricamente el club viste con un patrón de cuadros verdes y blancos (similar al Boavista pero en verde), pantalones blancos y medias verdes. Es uno de los diseños ajedrezados más vistosos del fútbol lusitano."
+      "diseno": "Históricamente el club viste con un patrón de cuadros verdes y blancos (similar al Boavista pero en verde), pantalones blancos y medias verdes. Es uno de los diseños ajedrezados más vistosos del fútbol lusitano.",
+      "c1": "#ffffff",
+      "c2": "#008000",
+      "tipo": "ajedrezado",
+      "sh": "#ffffff",
+      "me": "#008000"
     }
   ],
   "temporadas": [],

@@ -48,6 +48,9 @@ export default function ClubDetail() {
       case 'mitad-diagonal':
         return `linear-gradient(to bottom right, ${eq.c1} 50%, ${eq.c2} 50%)`;
       case 'mitad-vertical':
+        return `linear-gradient(to right, ${eq.c1} 50%, ${eq.c2} 50%)`;
+      case 'ajedrezado':
+        return `conic-gradient(${eq.c1} 90deg, ${eq.c2} 90deg 180deg, ${eq.c1} 180deg 270deg, ${eq.c2} 270deg) 0 0 / 20px 20px`;
       default:
         // Half and half vertical (original default)
         return `linear-gradient(to right, ${eq.c1} 50%, ${eq.c2} 50%)`;
@@ -336,7 +339,7 @@ export default function ClubDetail() {
                   nombre: canchas.actual.nombre,
                   inauguracion: canchas.actual.fundacion || canchas.actual.inauguracion,
                   direccion: canchas.actual.direccion,
-                  google_maps: canchas.actual.google_maps,
+                  url: canchas.actual.google_maps,
                   historia_nombres: canchas.actual.historia_nombres,
                   lat: canchas.actual.lat,
                   lng: canchas.actual.lng
@@ -347,7 +350,7 @@ export default function ClubDetail() {
                   epoca: c.epoca,
                   inauguracion: c.fundacion || c.inauguracion,
                   direccion: c.direccion,
-                  google_maps: c.google_maps,
+                  url: c.google_maps,
                   historia_nombres: c.historia_nombres,
                   lat: c.lat,
                   lng: c.lng
@@ -541,8 +544,10 @@ export default function ClubDetail() {
                         </div>
                         
                         <div>
-                          <p style={{ fontWeight: 'bold', fontSize: '1.25rem', marginBottom: '0.5rem', color: 'var(--accent-gold)' }}>{eq.desde} — {eq.hasta || 'Presente'}</p>
-                          <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.5 }}>{eq.desc}</p>
+                          <p style={{ fontWeight: 'bold', fontSize: '1.25rem', marginBottom: '0.5rem', color: 'var(--accent-gold)' }}>
+                            {eq.epoca ? eq.epoca : `${eq.desde} — ${eq.hasta || 'Presente'}`}
+                          </p>
+                          <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)', lineHeight: 1.5 }}>{eq.desc || eq.diseno}</p>
                         </div>
                       </div>
                     </div>

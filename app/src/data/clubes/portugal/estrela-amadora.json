@@ -63,7 +63,12 @@
   "equipacion": [
     {
       "epoca": "1932-actualidad",
-      "diseno": "Camiseta tricolor con rayas verticales rojas, verdes y blancas (o diseño de bloques), pantalones blancos y medias rojas. Una combinación de colores vistosa que rinde tributo directo a las banderas de la región."
+      "diseno": "Camiseta tricolor con rayas verticales rojas, verdes y blancas (o diseño de bloques), pantalones blancos y medias rojas. Una combinación de colores vistosa que rinde tributo directo a las banderas de la región.",
+      "c1": "#e00000",
+      "c2": "#008000",
+      "tipo": "rayas-verticales",
+      "sh": "#ffffff",
+      "me": "#e00000"
     }
   ],
   "temporadas": [],

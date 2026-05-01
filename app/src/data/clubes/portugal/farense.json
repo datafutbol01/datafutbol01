@@ -72,7 +72,12 @@
   "equipacion": [
     {
       "epoca": "1910-actualidad",
-      "diseno": "Camiseta a bastones verticales finos blancos y negros, pantalones negros y medias blancas o negras. El histórico club de la región del Algarve ha defendido estas rayas de manera ininterrumpida."
+      "diseno": "Camiseta a bastones verticales finos blancos y negros, pantalones negros y medias blancas o negras. El histórico club de la región del Algarve ha defendido estas rayas de manera ininterrumpida.",
+      "c1": "#ffffff",
+      "c2": "#111111",
+      "tipo": "rayas-verticales",
+      "sh": "#111111",
+      "me": "#ffffff"
     }
   ],
   "temporadas": [],

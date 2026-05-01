@@ -80,11 +80,19 @@
   "equipacion": [
     {
       "epoca": "1893-1906",
-      "diseno": "En sus primeros años, el equipo utilizaba una vestimenta muy variable, generalmente camisas blancas con algún detalle azul, sin un patrón estrictamente definido."
+      "diseno": "En sus primeros años, el equipo utilizaba una vestimenta muy variable, generalmente camisas blancas con algún detalle azul, sin un patrón estrictamente definido.",
+      "c1": "#ffffff",
+      "sh": "#ffffff",
+      "me": "#333333"
     },
     {
       "epoca": "1906-actualidad",
-      "diseno": "Camiseta a rayas verticales gruesas azules y blancas, pantalones azules y medias blancas o azules. Esta emblemática indumentaria a rayas fue aprobada formalmente en 1906 por Monteiro da Costa, inspirándose en los colores de la bandera de la monarquía portuguesa de la época."
+      "diseno": "Camiseta a rayas verticales gruesas azules y blancas, pantalones azules y medias blancas o azules. Esta emblemática indumentaria a rayas fue aprobada formalmente en 1906 por Monteiro da Costa, inspirándose en los colores de la bandera de la monarquía portuguesa de la época.",
+      "c1": "#ffffff",
+      "c2": "#0055a4",
+      "tipo": "rayas-verticales",
+      "sh": "#0055a4",
+      "me": "#ffffff"
     }
   ],
   "temporadas": [],

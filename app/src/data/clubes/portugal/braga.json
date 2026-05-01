@@ -80,11 +80,19 @@
   "equipacion": [
     {
       "epoca": "1921-1945",
-      "diseno": "Camiseta dividida a mitades verticales verde y blanca, pantalones negros (similar al Sporting CP antiguo)."
+      "diseno": "Camiseta dividida a mitades verticales verde y blanca, pantalones negros (similar al Sporting CP antiguo).",
+      "c1": "#008000",
+      "c2": "#ffffff",
+      "tipo": "mitad-vertical",
+      "sh": "#111111",
+      "me": "#111111"
     },
     {
       "epoca": "1945-actualidad",
-      "diseno": "Camiseta roja con mangas completamente blancas y pantalones blancos. El presidente del club visitó Highbury en Londres y quedó tan fascinado con la elegancia de la camiseta del Arsenal inglés que decidió copiar exactamente sus colores y diseño, ganándose así el eterno apodo de 'Arsenalistas'."
+      "diseno": "Camiseta roja con mangas completamente blancas y pantalones blancos. El presidente del club visitó Highbury en Londres y quedó tan fascinado con la elegancia de la camiseta del Arsenal inglés que decidió copiar exactamente sus colores y diseño, ganándose así el eterno apodo de 'Arsenalistas'.",
+      "c1": "#e00000",
+      "sh": "#ffffff",
+      "me": "#e00000"
     }
   ],
   "temporadas": [],

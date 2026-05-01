@@ -72,11 +72,19 @@
   "equipacion": [
     {
       "epoca": "1903-1933",
-      "diseno": "Camiseta lisa de color negro y pantalones negros."
+      "diseno": "Camiseta lisa de color negro y pantalones negros.",
+      "c1": "#111111",
+      "sh": "#111111",
+      "me": "#111111"
     },
     {
       "epoca": "1933-actualidad",
-      "diseno": "Camiseta a cuadros (ajedrezada) blancos y negros, pantalones negros. El revolucionario diseño de tablero de ajedrez fue adoptado por influencia del presidente Artur Oliveira Valença, dándole al club una identidad visual única y agresiva a nivel mundial, siendo conocidos como 'Los Ajedrezados'."
+      "diseno": "Camiseta a cuadros (ajedrezada) blancos y negros, pantalones negros. El revolucionario diseño de tablero de ajedrez fue adoptado por influencia del presidente Artur Oliveira Valença, dándole al club una identidad visual única y agresiva a nivel mundial, siendo conocidos como 'Los Ajedrezados'.",
+      "c1": "#ffffff",
+      "c2": "#111111",
+      "tipo": "ajedrezado",
+      "sh": "#111111",
+      "me": "#ffffff"
     }
   ],
   "temporadas": [],
