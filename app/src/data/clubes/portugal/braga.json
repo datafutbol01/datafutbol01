@@ -122,5 +122,113 @@
         "2008"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Alan",
+        "apodo": "O Maestro",
+        "epoca": "2008-2017",
+        "desc": "El arquitecto del Braga europeo. Condujo al equipo a la final de la Europa League y levantó la Taça da Liga con su magistral visión periférica."
+      },
+      {
+        "nombre": "Matheus",
+        "apodo": "El Pulpo",
+        "epoca": "2014-actualidad",
+        "desc": "El muro infranqueable brasileño. Sus reflejos sobrenaturales han mantenido en pie al equipo durante años."
+      },
+      {
+        "nombre": "Vandinho",
+        "apodo": "El Gladiador",
+        "epoca": "2004-2011",
+        "desc": "Un mediocentro defensivo que devoraba el campo, liderando la resistencia táctica del club en sus noches más grandiosas."
+      },
+      {
+        "nombre": "Ricardo Horta",
+        "apodo": "O Goleador",
+        "epoca": "2016-actualidad",
+        "desc": "Letal, elegante y astuto. Transformó su rol de extremo al de un asesino de área que destrozó todos los récords anotadores del club."
+      },
+      {
+        "nombre": "Hugo Viana",
+        "apodo": "El Zurdo de Oro",
+        "epoca": "2009-2013",
+        "desc": "Aportó un salto de calidad europeo con su exquisita pegada, gobernando los tiempos del partido."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Ricardo Horta",
+        "apodo": "El Histórico",
+        "goles": 125,
+        "epoca": "2016-actualidad",
+        "desc": "Máximo goleador absoluto de la historia de los Arsenalistas."
+      },
+      {
+        "nombre": "Chico Faria",
+        "apodo": "El Bombardero",
+        "goles": 91,
+        "epoca": "1970-1980",
+        "desc": "Goleador clásico que aterrorizó las áreas lusitanas."
+      },
+      {
+        "nombre": "Alan",
+        "apodo": "El Maestro",
+        "goles": 54,
+        "epoca": "2008-2017",
+        "desc": "Además de asistir, poseía un excelso remate de larga distancia."
+      },
+      {
+        "nombre": "Paulinho",
+        "apodo": "El Tanque",
+        "goles": 63,
+        "epoca": "2017-2021",
+        "desc": "Un finalizador contundente y pilar del equipo copero."
+      },
+      {
+        "nombre": "Zé Luís",
+        "apodo": "La Bestia",
+        "goles": 45,
+        "epoca": "2012-2015",
+        "desc": "Portento físico que arrasaba en los contragolpes."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Alan",
+        "apodo": "O Capitão",
+        "partidos": 344,
+        "epoca": "2008-2017",
+        "desc": "El estandarte indiscutible en la era dorada moderna."
+      },
+      {
+        "nombre": "Matheus",
+        "apodo": "El Muro",
+        "partidos": 330,
+        "epoca": "2014-actualidad",
+        "desc": "El portero más emblemático de las últimas décadas."
+      },
+      {
+        "nombre": "Vandinho",
+        "apodo": "El Gladiador",
+        "partidos": 236,
+        "epoca": "2004-2011",
+        "desc": "El alma de hierro del mediocampo arsenalista."
+      },
+      {
+        "nombre": "Ricardo Horta",
+        "apodo": "El Goleador",
+        "partidos": 350,
+        "epoca": "2016-actualidad",
+        "desc": "El ídolo moderno por antonomasia de los Guerreiros."
+      },
+      {
+        "nombre": "Paulo César",
+        "apodo": "El Elegante",
+        "partidos": 215,
+        "epoca": "2008-2013",
+        "desc": "Pilar fundamental en las gestas continentales."
+      }
+    ]
+  }
 }

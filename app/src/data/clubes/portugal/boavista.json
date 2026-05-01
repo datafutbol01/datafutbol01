@@ -116,5 +116,113 @@
         "1997"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "João Vieira Pinto",
+        "apodo": "O Menino de Ouro",
+        "epoca": "1988-1992, 2004-2006",
+        "desc": "La perla más brillante pulida en el Bessa. Un mago indomable que luego triunfó a nivel global, siempre recordando sus gloriosos inicios en Boavista."
+      },
+      {
+        "nombre": "Martelinho",
+        "apodo": "El Rayo Ajedrezado",
+        "epoca": "1995-2005",
+        "desc": "La esencia viva del histórico equipo campeón del 2001. Un extremo furioso, de incansable ida y vuelta."
+      },
+      {
+        "nombre": "Alfredo Castro",
+        "apodo": "El Muro Negro",
+        "epoca": "1989-1998",
+        "desc": "El arquero legendario que resguardó los pórticos del club durante su época más romántica y combativa."
+      },
+      {
+        "nombre": "Erwin Sánchez",
+        "apodo": "Platini",
+        "epoca": "1992-1997, 1999-2003",
+        "desc": "El maestro boliviano dotado de una pegada nuclear. Dirigió los hilos en el mediocampo hacia la histórica liga ganada."
+      },
+      {
+        "nombre": "Ricardo",
+        "apodo": "El Para-penaltis",
+        "epoca": "1995-2003",
+        "desc": "Un guardameta icónico, atlético y héroe en momentos decisivos, forjado en la adversidad del fútbol aguerrido."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "João Tomás",
+        "apodo": "El Artillero",
+        "goles": 50,
+        "epoca": "2005-2010",
+        "desc": "Goleador voraz en el área chica, letal con la camiseta de los ajedrezados."
+      },
+      {
+        "nombre": "Artur",
+        "apodo": "El Matador",
+        "goles": 45,
+        "epoca": "1993-1996",
+        "desc": "Anotó los goles fundamentales que cimentaron la competitividad extrema del club."
+      },
+      {
+        "nombre": "Martelinho",
+        "apodo": "El Rayo",
+        "goles": 40,
+        "epoca": "1995-2005",
+        "desc": "Una cifra asombrosa para un extremo incansable."
+      },
+      {
+        "nombre": "Erwin Sánchez",
+        "apodo": "Platini",
+        "goles": 38,
+        "epoca": "1992-2003",
+        "desc": "Muchos de sus goles fueron auténticas obras de arte desde fuera del área."
+      },
+      {
+        "nombre": "Silva",
+        "apodo": "El Tanque",
+        "goles": 33,
+        "epoca": "2001-2004",
+        "desc": "El '9' de oro en la época de gloria de la liga portuguesa."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Alfredo Castro",
+        "apodo": "El Muro Negro",
+        "partidos": 300,
+        "epoca": "1989-1998",
+        "desc": "Nadie defendió más veces el arco de los ajedrezados en la era moderna."
+      },
+      {
+        "nombre": "Martelinho",
+        "apodo": "El Incansable",
+        "partidos": 285,
+        "epoca": "1995-2005",
+        "desc": "La regularidad y el compromiso táctico hecho jugador."
+      },
+      {
+        "nombre": "Ricardo",
+        "apodo": "El Ídolo",
+        "partidos": 220,
+        "epoca": "1995-2003",
+        "desc": "Dueño indiscutible de los tres palos y estandarte del club."
+      },
+      {
+        "nombre": "Erwin Sánchez",
+        "apodo": "El Maestro",
+        "partidos": 215,
+        "epoca": "1992-2003",
+        "desc": "Su longevidad estuvo a la par de su majestuosa técnica."
+      },
+      {
+        "nombre": "Rui Bento",
+        "apodo": "El Mariscal",
+        "partidos": 210,
+        "epoca": "1992-2001",
+        "desc": "Pilar en la estructura inquebrantable del Boavista campeón."
+      }
+    ]
+  }
 }

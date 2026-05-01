@@ -207,5 +207,113 @@
         "1950"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Eusébio",
+        "apodo": "La Pantera Negra",
+        "epoca": "1960-1975",
+        "desc": "El atleta supremo del fútbol europeo. Eusébio da Silva Ferreira dotó al SL Benfica de un aura invencible durante los años sesenta con su velocidad balística y su disparo aterrador, coronando al club con la Copa de Europa y consolidándose como el máximo mito del balompié lusitano."
+      },
+      {
+        "nombre": "Rui Costa",
+        "apodo": "O Maestro",
+        "epoca": "1991-1994, 2006-2008",
+        "desc": "La elegancia hecha futbolista. Formado en la inagotable cantera encarnada, Rui Costa deslumbró al mundo con su visión panorámica y su clase aristocrática antes de partir a Italia, regresando en el epílogo de su carrera para despedirse ovacionado bajo los focos de su amada Luz."
+      },
+      {
+        "nombre": "Mário Coluna",
+        "apodo": "O Monstro Sagrado",
+        "epoca": "1954-1970",
+        "desc": "El titán del mediocampo. Su porte atlético y su inteligencia táctica fueron el cimiento sobre el que se erigió el dominio continental del Benfica. Un capitán implacable, líder moral y arquitecto indiscutible de los días dorados del club."
+      },
+      {
+        "nombre": "Nené",
+        "apodo": "El Goleador Invisible",
+        "epoca": "1968-1986",
+        "desc": "Una vida dedicada exclusivamente al escudo encarnado. Tamagnini Nené ostenta el récord absoluto de partidos disputados con el club, siendo un delantero escurridizo que patentó el gol como una rutina silente y letal a lo largo de casi dos décadas."
+      },
+      {
+        "nombre": "Luisão",
+        "apodo": "A Girafa",
+        "epoca": "2003-2018",
+        "desc": "El eterno capitán contemporáneo. Con su imponente envergadura y su liderazgo marcial, el central brasileño comandó la zaga del Benfica durante una era, levantando múltiples campeonatos y dejando su nombre esculpido a fuego en la historia moderna del club."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Eusébio",
+        "apodo": "La Pantera Negra",
+        "goles": 473,
+        "epoca": "1960-1975",
+        "desc": "Nadie ha mancillado más las redes rivales con la elástica del Benfica. Una cifra escandalosa que parece inalcanzable, forjada a base de misiles teledirigidos e instinto asesino puro."
+      },
+      {
+        "nombre": "José Águas",
+        "apodo": "El Gran Capitán",
+        "goles": 379,
+        "epoca": "1950-1963",
+        "desc": "Un cabeceador letal y un finalizador aristocrático. Capitaneó al equipo bicampeón de Europa aportando un caudal ofensivo descomunal durante la década del cincuenta."
+      },
+      {
+        "nombre": "Nené",
+        "apodo": "El Goleador Invisible",
+        "goles": 360,
+        "epoca": "1968-1986",
+        "desc": "El oportunismo llevado a la categoría de arte. Sus 360 conquistas lo consolidaron como una pesadilla constante e indescifrable para las defensas del fútbol portugués."
+      },
+      {
+        "nombre": "José Augusto Torres",
+        "apodo": "O Bom Gigante",
+        "goles": 226,
+        "epoca": "1959-1971",
+        "desc": "Con casi dos metros de altura, Torres destrozó las áreas rivales con un juego aéreo devastador, conformando junto a Eusébio una delantera de dimensiones míticas."
+      },
+      {
+        "nombre": "Arsénio Duarte",
+        "apodo": "O Furacão",
+        "goles": 152,
+        "epoca": "1943-1955",
+        "desc": "Un extremo implacable que rompió los moldes de la posguerra. Su desborde y su cuota goleadora abrieron el camino para el dominio nacional encarnado de la época."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Nené",
+        "apodo": "El Inoxidable",
+        "partidos": 575,
+        "epoca": "1968-1986",
+        "desc": "La lealtad hecha bandera. Nadie ha defendido más veces la camiseta encarnada que él, un testimonio vivo de resistencia, calidad inalterable y amor incondicional por el club."
+      },
+      {
+        "nombre": "António Veloso",
+        "apodo": "El Comodín de Hierro",
+        "partidos": 538,
+        "epoca": "1980-1995",
+        "desc": "Un guerrero de mil batallas. Lateral o mediocentro, su despliegue físico y su entrega espartana lo mantuvieron en la élite del equipo principal durante quince temporadas ininterrumpidas."
+      },
+      {
+        "nombre": "Luisão",
+        "apodo": "El Capitán",
+        "partidos": 538,
+        "epoca": "2003-2018",
+        "desc": "Igualó el registro de Veloso consolidándose como el extranjero con más partidos en la historia del club. Una muralla inexpugnable que comandó la zaga en el nuevo milenio."
+      },
+      {
+        "nombre": "Mário Coluna",
+        "apodo": "O Monstro Sagrado",
+        "partidos": 525,
+        "epoca": "1954-1970",
+        "desc": "Más de quinientas batallas libradas desde el círculo central, dictando el ritmo del mejor Benfica de todos los tiempos con una jerarquía y una visión que superaban su época."
+      },
+      {
+        "nombre": "Humberto Coelho",
+        "apodo": "El Káiser Portugués",
+        "partidos": 498,
+        "epoca": "1968-1984",
+        "desc": "Un líbero de clase mundial. Elegante, cerebral y anticipador, Coelho ordenó la defensa benfiquista con una maestría táctica que rozaba la perfección."
+      }
+    ]
+  }
 }

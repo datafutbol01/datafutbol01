@@ -180,5 +180,113 @@
         "1964"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Fernando Peyroteo",
+        "apodo": "La Máquina de Hacer Goles",
+        "epoca": "1937-1949",
+        "desc": "El estandarte supremo de los 'Cinco Violinos'. Su ratio de goles por partido es considerado uno de los más abrumadores en la historia del balompié mundial. Un rematador nato que tiranizó las áreas enemigas instaurando el pánico en la defensa rival."
+      },
+      {
+        "nombre": "Cristiano Ronaldo",
+        "apodo": "El Bicho",
+        "epoca": "1997-2003",
+        "desc": "Si bien su estadía en el primer equipo fue breve, la academia de Alcochete forjó al máximo goleador de todos los tiempos. Un talento prodigioso, explosivo e indomable que dejó a José Alvalade extasiado antes de conquistar el trono del fútbol global."
+      },
+      {
+        "nombre": "Rui Jordão",
+        "apodo": "La Gacela de Benguela",
+        "epoca": "1977-1987",
+        "desc": "La elegancia ofensiva hecha hombre. Un atacante dotado de una elasticidad felina y un instinto asesino que deslumbró a la afición leonina durante toda una década, regalando tardes de gloria inquebrantable."
+      },
+      {
+        "nombre": "Luís Figo",
+        "apodo": "El Rey del Regate",
+        "epoca": "1989-1995",
+        "desc": "Heredero de la ilustre tradición de extremos portugueses. Su desborde milimétrico, sus recortes venenosos y sus centros precisos maravillaron a Europa antes de partir rumbo al estrellato absoluto de los grandes continentales."
+      },
+      {
+        "nombre": "Manuel Fernandes",
+        "apodo": "El Eterno Capitán",
+        "epoca": "1975-1987",
+        "desc": "El líder espiritual de los años ochenta. Autor del mítico póker en el humillante 7-1 ante el eterno rival Benfica, Fernandes combinaba el olfato goleador con una devoción pasional y sanguínea por el escudo del León."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Fernando Peyroteo",
+        "apodo": "La Máquina",
+        "goles": 544,
+        "epoca": "1937-1949",
+        "desc": "Un registro monstruoso e insuperable. Peyroteo marcó más goles que partidos jugados, cimentando una leyenda artillera que trasciende las fronteras del tiempo y el espacio en la liga lusitana."
+      },
+      {
+        "nombre": "Manuel Fernandes",
+        "apodo": "El Eterno Capitán",
+        "goles": 257,
+        "epoca": "1975-1987",
+        "desc": "El estilete implacable de la época moderna. Su capacidad de definición y su instinto de cazador lo convirtieron en el verdugo oficial de los equipos contrarios durante toda una era."
+      },
+      {
+        "nombre": "Rui Jordão",
+        "apodo": "La Gacela",
+        "goles": 184,
+        "epoca": "1977-1987",
+        "desc": "Un finalizador exquisito que patentó remates estéticos y acrobáticos, perforando las vallas rivales con una letalidad silenciosa y elegante."
+      },
+      {
+        "nombre": "Liedson",
+        "apodo": "Levezinho",
+        "goles": 172,
+        "epoca": "2003-2011",
+        "desc": "De complexión frágil pero con un salto portentoso. El delantero brasileño desafió a los defensores más corpulentos y dominó el espacio aéreo, anotando goles de antología en el Alvalade XXI."
+      },
+      {
+        "nombre": "Bas Dost",
+        "apodo": "El Holandés Volador",
+        "goles": 93,
+        "epoca": "2016-2019",
+        "desc": "Un nueve puro, de los que respiran el área chica a un toque. Sus remates demoledores y su frialdad escandinava lo elevaron rápidamente al olimpo de los máximos artilleros verdiblancos recientes."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Hilário",
+        "apodo": "El Ciclón de Lourenço Marques",
+        "partidos": 475,
+        "epoca": "1958-1973",
+        "desc": "Lateral izquierdo fiero, veloz y valiente. Defendió la banda verde y blanca durante quince temporadas ganando múltiples campeonatos y labrando un récord de longevidad intachable."
+      },
+      {
+        "nombre": "Rui Patrício",
+        "apodo": "São Patrício",
+        "partidos": 467,
+        "epoca": "2006-2018",
+        "desc": "El guardián sagrado de las últimas décadas. Su constancia, reflejos felinos y seguridad bajo los tres palos lo convirtieron en un referente histórico y el portero con más batallas libradas en el club."
+      },
+      {
+        "nombre": "Vítor Damas",
+        "apodo": "El Portero Elegante",
+        "partidos": 444,
+        "epoca": "1966-1989",
+        "desc": "Mito absoluto del arco leonino. Un arquero elástico y vanguardista que enamoró a la grada con sus estiradas imposibles a lo largo de dos etapas majestuosas."
+      },
+      {
+        "nombre": "Manuel Fernandes",
+        "apodo": "El Gran Capitán",
+        "partidos": 433,
+        "epoca": "1975-1987",
+        "desc": "No conforme con ser el segundo máximo artillero histórico, su inquebrantable resistencia física le permitió sumar más de cuatro centenares de encuentros comandando la ofensiva."
+      },
+      {
+        "nombre": "Anderson Polga",
+        "apodo": "El Sherif",
+        "partidos": 342,
+        "epoca": "2003-2012",
+        "desc": "Central brasileño campeón del mundo que adoptó a Lisboa como su segundo hogar. Su jerarquía, salida pulcra y liderazgo mudo ordenaron la zaga del Sporting a lo largo de casi una década."
+      }
+    ]
+  }
 }

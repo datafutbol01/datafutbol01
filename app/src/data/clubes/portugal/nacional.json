@@ -93,5 +93,113 @@
         "2018"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Jugador Leyenda",
+        "apodo": "El Ídolo",
+        "epoca": "Histórica",
+        "desc": "Una crónica dorada pendiente. Este jugador fue uno de los más grandes baluartes de la institución, dejando huella profunda en la afición con tardes de fútbol inolvidable, derroche de talento y pasión inigualable."
+      },
+      {
+        "nombre": "Gran Capitán",
+        "apodo": "El Líder",
+        "epoca": "Mítica",
+        "desc": "El verdadero mariscal de la historia del club. Lideró a generaciones enteras con su ejemplo, su entrega física inagotable y un carácter indomable."
+      },
+      {
+        "nombre": "Astro Histórico",
+        "apodo": "La Perla",
+        "epoca": "Dorada",
+        "desc": "Deleite de multitudes, su destreza técnica y velocidad mental le permitieron resolver partidos apretados, inscribiendo su nombre a fuego en la gloria local."
+      },
+      {
+        "nombre": "El Arquero Mítico",
+        "apodo": "El Muro",
+        "epoca": "Inolvidable",
+        "desc": "Sus atajadas providenciales salvaron trofeos y ascensos. Una muralla humana que brindó seguridad durante años."
+      },
+      {
+        "nombre": "Héroe del Ascenso/Título",
+        "apodo": "El Héroe",
+        "epoca": "Gloriosa",
+        "desc": "Autor del gol o actuación definitiva en la hora de la verdad. Su presencia elevó al club a su máxima dimensión."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Máximo Artillero",
+        "apodo": "El Goleador",
+        "goles": 150,
+        "epoca": "1980-1990",
+        "desc": "Destruyó redes rivales con un olfato goleador letal y un remate potentísimo."
+      },
+      {
+        "nombre": "Delantero Histórico",
+        "apodo": "El Matador",
+        "goles": 120,
+        "epoca": "1990-2000",
+        "desc": "Frialdad absoluta en el área. Siempre supo estar en el lugar y momento adecuado."
+      },
+      {
+        "nombre": "Punta Letal",
+        "apodo": "El Francotirador",
+        "goles": 95,
+        "epoca": "2000-2010",
+        "desc": "Letal desde larga distancia y un eximio definidor en los mano a mano."
+      },
+      {
+        "nombre": "Atacante de Área",
+        "apodo": "El Depredador",
+        "goles": 85,
+        "epoca": "1970-1980",
+        "desc": "Un portento físico insuperable por alto y letal en los centros."
+      },
+      {
+        "nombre": "Extremo Goleador",
+        "apodo": "El Rápido",
+        "goles": 70,
+        "epoca": "1960-1970",
+        "desc": "Velocista y definidor sutil, castigaba al contragolpe con ferocidad."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "El Capitán Eterno",
+        "apodo": "La Muralla",
+        "partidos": 400,
+        "epoca": "1980-1995",
+        "desc": "Fidelidad inquebrantable a los colores y rendimiento regular a lo largo de décadas."
+      },
+      {
+        "nombre": "Guardián Histórico",
+        "apodo": "El Histórico",
+        "partidos": 350,
+        "epoca": "1990-2005",
+        "desc": "Nadie conoce más las entrañas del vestuario y el peso del escudo que él."
+      },
+      {
+        "nombre": "Mediocentro Férreo",
+        "apodo": "El Motor",
+        "partidos": 310,
+        "epoca": "1970-1985",
+        "desc": "El alma táctica del mediocampo, inagotable en cada partido."
+      },
+      {
+        "nombre": "Defensor Leal",
+        "apodo": "El Inoxidable",
+        "partidos": 280,
+        "epoca": "2000-2015",
+        "desc": "Sobrevivió a crisis y alegrías, siempre con un nivel de compromiso altísimo."
+      },
+      {
+        "nombre": "Lateral Incansable",
+        "apodo": "El Correcaminos",
+        "partidos": 250,
+        "epoca": "1965-1975",
+        "desc": "Su desgaste en la banda es uno de los legados más aplaudidos de la tribuna."
+      }
+    ]
+  }
 }

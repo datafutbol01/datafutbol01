@@ -227,5 +227,113 @@
         "2004"
       ]
     }
-  ]
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Vítor Baía",
+        "apodo": "O Ídolo",
+        "epoca": "1988-2007",
+        "desc": "El guardián de los sueños del Dragón. Una figura carismática y un portero de reflejos felinos que se convirtió en el emblema indiscutible de un club triunfador, atajando con clase desde los noventa hasta la gloria intercontinental de 2004."
+      },
+      {
+        "nombre": "Fernando Gomes",
+        "apodo": "Bi-Bota de Ouro",
+        "epoca": "1974-1989",
+        "desc": "La personificación del instinto goleador blanquiazul. Ganador de dos Botas de Oro europeas, Gomes patentó el remate letal dentro del área, siendo el gran ídolo artillero que forjó la estirpe ganadora del FC Porto."
+      },
+      {
+        "nombre": "Deco",
+        "apodo": "El Mago",
+        "epoca": "1999-2004",
+        "desc": "El prestidigitador luso-brasileño que orquestó la epopeya continental de José Mourinho. Con su botín derecho dibujó asistencias imposibles y deslumbró al mundo entero, bordando la Copa de la UEFA y la Champions League en la camiseta de los Dragones."
+      },
+      {
+        "nombre": "João Pinto",
+        "apodo": "Capitão Eterno",
+        "epoca": "1981-1997",
+        "desc": "El corazón puro de la institución. Un lateral derecho incansable, fiero y leal que nunca jugó en otro club. Su entrega espartana y su liderazgo absoluto en la conquista de la Copa de Europa de 1987 lo elevaron a leyenda inmortal."
+      },
+      {
+        "nombre": "Pinto da Costa",
+        "apodo": "El Presidente",
+        "epoca": "1982-2024",
+        "desc": "Si bien no pisó el césped como jugador, es la máxima deidad del club. Bajo su mandato faraónico, el FC Porto dejó de ser un aspirante local para transformarse en un coloso global y multicampeón europeo, reescribiendo la historia del balompié lusitano."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Fernando Gomes",
+        "apodo": "Bi-Bota de Ouro",
+        "goles": 352,
+        "epoca": "1974-1989",
+        "desc": "Nadie ha dominado el área visitante con tanta ferocidad como él. Un récord absoluto cimentado a base de oportunismo, olfato letal y un remate fulminante de cabeza."
+      },
+      {
+        "nombre": "Hernâni Silva",
+        "apodo": "El Torpedo",
+        "goles": 183,
+        "epoca": "1950-1964",
+        "desc": "Un puntero desequilibrante y goleador infalible que aterrorizó las defensas en la década del cincuenta, marcando una era dorada con su explosividad y precisión milimétrica."
+      },
+      {
+        "nombre": "Mário Jardel",
+        "apodo": "Súper Mário",
+        "goles": 168,
+        "epoca": "1996-2000",
+        "desc": "El depredador aéreo por excelencia. En tan solo cuatro temporadas, el brasileño perforó las redes rivales con una tasa de goles surrealista, convirtiéndose en el rematador de cabeza más temible de Europa."
+      },
+      {
+        "nombre": "Domingos Paciência",
+        "apodo": "El Niño de Oro",
+        "goles": 142,
+        "epoca": "1987-1997",
+        "desc": "Puro talento criado en casa. Un delantero sutil y elegante que compensaba su falta de potencia con una definición clínica y un regate venenoso."
+      },
+      {
+        "nombre": "António Araújo",
+        "apodo": "El Bombardero",
+        "goles": 137,
+        "epoca": "1942-1952",
+        "desc": "Pilar fundamental del equipo en los albores del profesionalismo, su potencia de disparo dejó un legado imborrable en los primeros gran registros goleadores del club."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "João Pinto",
+        "apodo": "Capitão Eterno",
+        "partidos": 587,
+        "epoca": "1981-1997",
+        "desc": "El guerrero inagotable del carril derecho. Su récord de partidos refleja una carrera de fidelidad inquebrantable y un sacrificio descomunal por los colores blanquiazules."
+      },
+      {
+        "nombre": "Vítor Baía",
+        "apodo": "O Número Um",
+        "partidos": 566,
+        "epoca": "1988-2007",
+        "desc": "Casi seiscientas noches defendiendo el pórtico de su hogar. Una cifra que ilustra a la perfección el dominio absoluto que ejerció bajo los tres palos durante dos décadas."
+      },
+      {
+        "nombre": "Aloísio",
+        "apodo": "El Mariscal",
+        "partidos": 474,
+        "epoca": "1990-2001",
+        "desc": "Un defensa central brasileño dotado de una lectura táctica sublime. Su jerarquía en la línea de fondo fue el seguro de vida del equipo durante toda la década del noventa."
+      },
+      {
+        "nombre": "Fernando Gomes",
+        "apodo": "El Goleador",
+        "partidos": 452,
+        "epoca": "1974-1989",
+        "desc": "No solo perforó redes sin piedad, sino que su constancia física le permitió disputar más de 450 batallas dejando el alma en cada pelota dividida."
+      },
+      {
+        "nombre": "Virgílio Mendes",
+        "apodo": "El León de Génova",
+        "partidos": 436,
+        "epoca": "1947-1963",
+        "desc": "Un defensor tenaz y durísimo de doblegar. Su leyenda se forjó a base de marcajes pegajosos y una entrega física inigualable en la época del fútbol en blanco y negro."
+      }
+    ]
+  }
 }
