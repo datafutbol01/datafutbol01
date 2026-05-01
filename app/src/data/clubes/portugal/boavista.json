@@ -70,5 +70,34 @@
     ]
   },
   "equipacion": [],
-  "temporadas": []
+  "temporadas": [],
+  "titulos": [
+    {
+      "nombre": "Primeira Liga",
+      "cantidad": 1,
+      "anios": [
+        "2001"
+      ]
+    },
+    {
+      "nombre": "Taça de Portugal",
+      "cantidad": 5,
+      "anios": [
+        "1975",
+        "1976",
+        "1979",
+        "1992",
+        "1997"
+      ]
+    },
+    {
+      "nombre": "Supertaça Cândido de Oliveira",
+      "cantidad": 3,
+      "anios": [
+        "1979",
+        "1992",
+        "1997"
+      ]
+    }
+  ]
 }

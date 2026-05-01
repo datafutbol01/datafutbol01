@@ -78,5 +78,32 @@
     ]
   },
   "equipacion": [],
-  "temporadas": []
+  "temporadas": [],
+  "titulos": [
+    {
+      "nombre": "Taça de Portugal",
+      "cantidad": 3,
+      "anios": [
+        "1966",
+        "2016",
+        "2021"
+      ]
+    },
+    {
+      "nombre": "Taça da Liga",
+      "cantidad": 3,
+      "anios": [
+        "2013",
+        "2020",
+        "2024"
+      ]
+    },
+    {
+      "nombre": "Copa Intertoto de la UEFA",
+      "cantidad": 1,
+      "anios": [
+        "2008"
+      ]
+    }
+  ]
 }
