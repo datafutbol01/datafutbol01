@@ -58,14 +58,18 @@
           "nombre": "Estádio D. Afonso Henriques",
           "epoca": "2003-actualidad"
         }
-      ]
+      ],
+      "lat": 41.4447,
+      "lng": -8.3005
     },
     "viejas": [
       {
         "nombre": "Campo da Amorosa",
         "direccion": "Amorosa, Guimarães, Portugal",
         "epoca": "1922-1965",
-        "google_maps": "https://maps.app.goo.gl/H9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/H9G5M4Y6Yf6yRk2V6",
+        "lat": 41.442,
+        "lng": -8.305
       }
     ]
   },

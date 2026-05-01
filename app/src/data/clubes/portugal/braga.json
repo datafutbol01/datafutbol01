@@ -62,14 +62,18 @@
           "nombre": "Estádio Municipal de Braga",
           "epoca": "2016-actualidad"
         }
-      ]
+      ],
+      "lat": 41.5627,
+      "lng": -8.4297
     },
     "viejas": [
       {
         "nombre": "Estádio 1º de Maio",
         "direccion": "Av. Gen. Norton de Matos, 4700-387 Braga, Portugal",
         "epoca": "1950-2003",
-        "google_maps": "https://maps.app.goo.gl/M9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/M9G5M4Y6Yf6yRk2V6",
+        "lat": 41.5431,
+        "lng": -8.4161
       }
     ]
   },

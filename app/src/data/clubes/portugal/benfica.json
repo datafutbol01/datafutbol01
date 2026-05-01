@@ -54,20 +54,26 @@
           "nombre": "Estádio do Sport Lisboa e Benfica",
           "epoca": "2003-actualidad"
         }
-      ]
+      ],
+      "lat": 38.7528,
+      "lng": -9.1847
     },
     "viejas": [
       {
         "nombre": "Antigo Estádio da Luz",
         "direccion": "Av. do Colégio Militar, 1500 Lisboa, Portugal",
         "epoca": "1954-2003",
-        "google_maps": "https://maps.app.goo.gl/r6Q8y5Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/r6Q8y5Y6Yf6yRk2V6",
+        "lat": 38.7533,
+        "lng": -9.1836
       },
       {
         "nombre": "Campo das Amoreiras",
         "direccion": "Amoreiras, Lisboa, Portugal",
         "epoca": "1925-1940",
-        "google_maps": "https://maps.app.goo.gl/hGz7u9K5K3hQnQxT6"
+        "google_maps": "https://maps.app.goo.gl/hGz7u9K5K3hQnQxT6",
+        "lat": 38.723,
+        "lng": -9.162
       }
     ]
   },

@@ -54,20 +54,26 @@
           "nombre": "Estádio José Alvalade Século XXI",
           "epoca": "2003-actualidad"
         }
-      ]
+      ],
+      "lat": 38.7611,
+      "lng": -9.1608
     },
     "viejas": [
       {
         "nombre": "Antigo Estádio José Alvalade",
         "direccion": "Campo Grande, 1600 Lisboa, Portugal",
         "epoca": "1956-2003",
-        "google_maps": "https://maps.app.goo.gl/E9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/E9G5M4Y6Yf6yRk2V6",
+        "lat": 38.7614,
+        "lng": -9.1603
       },
       {
         "nombre": "Estádio do Lumiar",
         "direccion": "Lumiar, Lisboa, Portugal",
         "epoca": "1937-1956",
-        "google_maps": "https://maps.app.goo.gl/F9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/F9G5M4Y6Yf6yRk2V6",
+        "lat": 38.765,
+        "lng": -9.16
       }
     ]
   },

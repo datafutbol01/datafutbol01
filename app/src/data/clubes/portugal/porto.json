@@ -54,20 +54,26 @@
           "nombre": "Estádio do Dragão",
           "epoca": "2003-actualidad"
         }
-      ]
+      ],
+      "lat": 41.1611,
+      "lng": -8.5836
     },
     "viejas": [
       {
         "nombre": "Estádio das Antas",
         "direccion": "Av. de Fernão de Magalhães, 4350 Porto, Portugal",
         "epoca": "1952-2003",
-        "google_maps": "https://maps.app.goo.gl/Z9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/Z9G5M4Y6Yf6yRk2V6",
+        "lat": 41.1611,
+        "lng": -8.5861
       },
       {
         "nombre": "Campo da Constituição",
         "direccion": "R. da Constituição, Porto, Portugal",
         "epoca": "1913-1952",
-        "google_maps": "https://maps.app.goo.gl/A9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/A9G5M4Y6Yf6yRk2V6",
+        "lat": 41.1644,
+        "lng": -8.6083
       }
     ]
   },

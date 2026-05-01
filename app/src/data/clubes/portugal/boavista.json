@@ -54,14 +54,18 @@
           "nombre": "Estádio do Bessa Século XXI",
           "epoca": "2003-actualidad"
         }
-      ]
+      ],
+      "lat": 41.1622,
+      "lng": -8.643
     },
     "viejas": [
       {
         "nombre": "Estádio do Bessa (Original)",
         "direccion": "R. de O Primeiro de Janeiro, Porto, Portugal",
         "epoca": "1911-2003",
-        "google_maps": "https://maps.app.goo.gl/K9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/K9G5M4Y6Yf6yRk2V6",
+        "lat": 41.1622,
+        "lng": -8.643
       }
     ]
   },

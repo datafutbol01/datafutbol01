@@ -54,14 +54,18 @@
           "nombre": "Estádio de São Luís",
           "epoca": "1923-actualidad"
         }
-      ]
+      ],
+      "lat": 37.0225,
+      "lng": -7.9255
     },
     "viejas": [
       {
         "nombre": "Estádio Algarve",
         "direccion": "Parque das Cidades, 8135-014 Almancil, Portugal",
         "epoca": "2004-2013",
-        "google_maps": "https://maps.app.goo.gl/S9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/S9G5M4Y6Yf6yRk2V6",
+        "lat": 37.0872,
+        "lng": -7.9733
       }
     ]
   },

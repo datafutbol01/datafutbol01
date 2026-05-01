@@ -54,14 +54,18 @@
           "nombre": "Estádio Cidade de Barcelos",
           "epoca": "2004-actualidad"
         }
-      ]
+      ],
+      "lat": 41.5475,
+      "lng": -8.6111
     },
     "viejas": [
       {
         "nombre": "Estádio Adelino Ribeiro Novo",
         "direccion": "Barcelos, Portugal",
         "epoca": "1933-2004",
-        "google_maps": "https://maps.app.goo.gl/U9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/U9G5M4Y6Yf6yRk2V6",
+        "lat": 41.5333,
+        "lng": -8.6167
       }
     ]
   },

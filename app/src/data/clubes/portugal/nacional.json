@@ -58,14 +58,18 @@
           "nombre": "Estádio da Madeira (Choupana)",
           "epoca": "2007-actualidad"
         }
-      ]
+      ],
+      "lat": 32.6781,
+      "lng": -16.8978
     },
     "viejas": [
       {
         "nombre": "Estádio dos Barreiros (Uso compartido)",
         "direccion": "Rua Dr. Pita, 9000-089 Funchal, Portugal",
         "epoca": "1957-2000",
-        "google_maps": "https://maps.app.goo.gl/X9G5M4Y6Yf6yRk2V6"
+        "google_maps": "https://maps.app.goo.gl/X9G5M4Y6Yf6yRk2V6",
+        "lat": 32.6467,
+        "lng": -16.9242
       }
     ]
   },
