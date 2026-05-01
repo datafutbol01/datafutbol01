@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight, Trophy, Globe2, AlertCircle, ArrowLeft, Users, Shield } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs';
+import SEO from '../components/SEO';
 import CryptoJS from 'crypto-js';
 
 const getFlagUrl = (flag, size = 'w20') => {
@@ -186,10 +187,21 @@ export default function WorldCupsHub() {
     const currentWc = worldCups.find(w => w.year === selectedYear);
 
     const coverImage = wcData?.coverImage ? wcData.coverImage : null;
-    const bgImage = coverImage || '/portada_mundiales_ai.png';
+    const bgImage = coverImage || '/portada_mundiales.jpg';
 
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
+            <SEO 
+                title={selectedYear ? `Mundial ${currentWc?.host} ${selectedYear} - DataFútbol` : "Historia de los Mundiales - DataFútbol"}
+                description={selectedYear ? `Repasá todos los datos, planteles y estadísticas del Mundial ${currentWc?.host} ${selectedYear}.` : "Explora la cronología completa de la Copa del Mundo. Planteles, resultados y estadísticas de todas las ediciones."}
+                schemaData={{
+                    "@context": "https://schema.org",
+                    "@type": "SportsEvent",
+                    "name": selectedYear ? `Copa Mundial de la FIFA ${selectedYear}` : "Copa Mundial de la FIFA",
+                    "description": "Historia y estadísticas de los Mundiales de Fútbol",
+                    "url": "https://datafutbol.app/mundiales"
+                }}
+            />
 
             {bgImage && (
                 <div style={{
