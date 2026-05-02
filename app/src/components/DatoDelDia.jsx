@@ -13,14 +13,40 @@ const DatoDelDia = () => {
     const dia = String(hoy.getDate()).padStart(2, '0');
     const fechaClave = `${mes}-${dia}`;
 
-    // Buscar en el JSON. Si no hay efeméride para hoy, usamos un dato genérico aleatorio o mostramos nada.
+    // Buscar en el JSON. Si no hay efeméride para hoy, usamos un dato dinámico de la base de datos.
     const efemerides = readData(rawEfemerides);
-    const dato = efemerides[fechaClave] || "¿Sabías que en DataFútbol podés consultar historiales completos, campañas de equipos campeones y estadísticas de jugadores desde la era amateur hasta la actualidad?";
     
-    console.log(`[DatoDelDia] Fecha detectada: ${fechaClave}`);
-    console.log(`[DatoDelDia] ¿Existe efeméride para hoy?: ${!!efemerides[fechaClave]}`);
-    
-    setDatoHoy(dato);
+    if (efemerides[fechaClave]) {
+      console.log(`[DatoDelDia] Efeméride encontrada para ${fechaClave}`);
+      setDatoHoy(efemerides[fechaClave]);
+      return;
+    }
+
+    console.log(`[DatoDelDia] No hay efeméride para ${fechaClave}, generando dato aleatorio...`);
+    import('../data/loader').then(module => {
+      const allItems = module.getAllSearchableItems();
+      const items = allItems.filter(i => i.type === 'club' || i.type === 'mundial' || (i.type === 'league' && i.country !== 'Torneo Local'));
+      
+      if (items.length > 0) {
+        const item = items[Math.floor(Math.random() * items.length)];
+        let dato = '';
+        
+        if (item.type === 'club') {
+          const copas = item.palmares && item.palmares.length > 0 ? `ganó títulos como ${item.palmares[0].torneo}` : 'esconde una historia riquísima';
+          dato = `¿Sabías que ${item.name} de ${item.country} ${copas}? Buscá su nombre en la lupa de arriba para repasar toda su ficha técnica y sus historiales.`;
+        } else if (item.type === 'mundial') {
+          dato = `Archivo Mundialista: Repasá todo el cuadro de eliminación directa y las estadísticas completas de la Copa del Mundo de ${item.country} ${item.year} en nuestra enciclopedia.`;
+        } else {
+          dato = `¿Te acordás quién se consagró en la edición ${item.year || ''} de la ${item.name}? ¡Buscá el torneo arriba para ver la campaña del campeón!`;
+        }
+        setDatoHoy(dato);
+      } else {
+        setDatoHoy('¿Sabías que en DataFútbol podés consultar historiales completos de clubes, campañas y estadísticas desde la era amateur?');
+      }
+    }).catch(err => {
+      console.error('Error cargando loader para dato aleatorio', err);
+      setDatoHoy('¿Sabías que en DataFútbol podés consultar historiales completos de clubes, campañas y estadísticas desde la era amateur?');
+    });
   }, []);
 
   const handleShare = async () => {
