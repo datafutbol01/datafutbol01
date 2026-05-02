@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Paulinho Cascavel (30 goles)",
       "mas_presencias": "Rebelo (320 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/estrela-amadora/CFEA_2020-actual.webp"
   },
   "historia": [
     {
@@ -194,5 +195,27 @@
         "desc": "Su calidad forzó su rápida salida al exterior."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1932-1952",
+      "url": "/escudos/portugal/estrela-amadora/CFEA_1932-1952.webp"
+    },
+    {
+      "ano": "1952-2000",
+      "url": "/escudos/portugal/estrela-amadora/CFEA_1952-2000.webp"
+    },
+    {
+      "ano": "2000-2011",
+      "url": "/escudos/portugal/estrela-amadora/CFEA_2000-2011.webp"
+    },
+    {
+      "ano": "2011-2020",
+      "url": "/escudos/portugal/estrela-amadora/CDE_2011-2020.webp"
+    },
+    {
+      "ano": "2020-Actualidad",
+      "url": "/escudos/portugal/estrela-amadora/CFEA_2020-actual.webp"
+    }
+  ]
 }

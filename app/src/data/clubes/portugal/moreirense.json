@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Rafael Martins (22 goles)",
       "mas_presencias": "João Aurélio (120 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/moreirense/2000-actual.webp"
   },
   "historia": [
     {
@@ -196,5 +197,15 @@
         "desc": "La nueva joya del mediocampo ajedrezado."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1970-2000",
+      "url": "/escudos/portugal/moreirense/1970-2000.webp"
+    },
+    {
+      "ano": "2000-Actualidad",
+      "url": "/escudos/portugal/moreirense/2000-actual.webp"
+    }
+  ]
 }

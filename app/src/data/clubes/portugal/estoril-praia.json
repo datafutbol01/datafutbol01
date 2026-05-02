@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Léo Bonatini (24 goles)",
       "mas_presencias": "Afonso Figueiredo (150 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/estoril-praia/GDEP_1981-actual.webp"
   },
   "historia": [
     {
@@ -187,5 +188,19 @@
         "desc": "Un atacante de presencia física temible que defendió el escudo con honores."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1939-1974",
+      "url": "/escudos/portugal/estoril-praia/GDEP_1939-1974.webp"
+    },
+    {
+      "ano": "1974-1981",
+      "url": "/escudos/portugal/estoril-praia/GDEP1974-1981.webp"
+    },
+    {
+      "ano": "1981-Actualidad",
+      "url": "/escudos/portugal/estoril-praia/GDEP_1981-actual.webp"
+    }
+  ]
 }

@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Paulo Alves (42 goles)",
       "mas_presencias": "Nunes (180 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/gil-vicente/Gil_Vicente_Futebol_Clube_2021-actual.webp"
   },
   "historia": [
     {
@@ -195,5 +196,31 @@
         "desc": "Un despliegue físico brutal avalado por 145 presencias."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1924-1938",
+      "url": "/escudos/portugal/gil-vicente/Gil_Vicente_FC_1924-1938.webp"
+    },
+    {
+      "ano": "1938-2000",
+      "url": "/escudos/portugal/gil-vicente/Gil_Vicente_FC_1938-2000.webp"
+    },
+    {
+      "ano": "2000-2004",
+      "url": "/escudos/portugal/gil-vicente/Gil_Vicente_FC_2000-2004.webp"
+    },
+    {
+      "ano": "2004-2005",
+      "url": "/escudos/portugal/gil-vicente/Gil_Vicente_FC_2004-2005.webp"
+    },
+    {
+      "ano": "2005-2021",
+      "url": "/escudos/portugal/gil-vicente/GVFC_Old2005-2021.webp"
+    },
+    {
+      "ano": "2021-Actualidad",
+      "url": "/escudos/portugal/gil-vicente/Gil_Vicente_Futebol_Clube_2021-actual.webp"
+    }
+  ]
 }

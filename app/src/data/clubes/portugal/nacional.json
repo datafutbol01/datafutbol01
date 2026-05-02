@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Nenê (22 goles)",
       "mas_presencias": "João Aurélio (260 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/nacional/CD_Nacional1996-actual.svg"
   },
   "historia": [
     {
@@ -200,5 +201,15 @@
         "desc": "Pivote egipcio que mordía cada balón en el centro del campo."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1910-1996",
+      "url": "/escudos/portugal/nacional/CD_Nacional_1910-1996.webp"
+    },
+    {
+      "ano": "1996-Actualidad",
+      "url": "/escudos/portugal/nacional/CD_Nacional1996-actual.svg"
+    }
+  ]
 }

@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Hassan Nader (86 goles)",
       "mas_presencias": "Hassan Nader (260 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/farense/SC_Farense1957-actual.webp"
   },
   "historia": [
     {
@@ -197,5 +198,27 @@
         "desc": "Director de la orquesta de Faro por más de 170 encuentros."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1910-1930",
+      "url": "/escudos/portugal/farense/SC_Farense_1910-1930PNG.webp"
+    },
+    {
+      "ano": "1910",
+      "url": "/escudos/portugal/farense/SC_Farense_1910.webp"
+    },
+    {
+      "ano": "1930-1946",
+      "url": "/escudos/portugal/farense/1930-1946.webp"
+    },
+    {
+      "ano": "1948-1957",
+      "url": "/escudos/portugal/farense/SC_Farense_1948-1957.webp"
+    },
+    {
+      "ano": "1957-Actualidad",
+      "url": "/escudos/portugal/farense/SC_Farense1957-actual.webp"
+    }
+  ]
 }

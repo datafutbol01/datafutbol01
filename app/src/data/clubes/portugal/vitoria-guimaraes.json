@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Tito (119 goles)",
       "mas_presencias": "N'Dinga Mbote (286 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/vitoria-guimaraes/2000-actual.webp"
   },
   "historia": [
     {
@@ -205,5 +206,27 @@
         "desc": "Un lateral derecho de gran proyección que aportó constancia, técnica y liderazgo hasta su última temporada."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1922",
+      "url": "/escudos/portugal/vitoria-guimaraes/VSC_1922.webp"
+    },
+    {
+      "ano": "1923-1934",
+      "url": "/escudos/portugal/vitoria-guimaraes/1923-1934.webp"
+    },
+    {
+      "ano": "1927",
+      "url": "/escudos/portugal/vitoria-guimaraes/1927.webp"
+    },
+    {
+      "ano": "1930-1999",
+      "url": "/escudos/portugal/vitoria-guimaraes/1930-1999.webp"
+    },
+    {
+      "ano": "2000-Actualidad",
+      "url": "/escudos/portugal/vitoria-guimaraes/2000-actual.webp"
+    }
+  ]
 }

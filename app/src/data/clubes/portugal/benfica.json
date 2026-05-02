@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Eusébio (473 goles)",
       "mas_presencias": "Nené (575 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica1999-actual.webp"
   },
   "historia": [
     {
@@ -314,5 +315,27 @@
         "desc": "Un líbero de clase mundial. Elegante, cerebral y anticipador, Coelho ordenó la defensa benfiquista con una maestría táctica que rozaba la perfección."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1908-1911",
+      "url": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica_1908-1911.webp"
+    },
+    {
+      "ano": "1911-1930",
+      "url": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica_1911-1930.webp"
+    },
+    {
+      "ano": "1930-1968",
+      "url": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica_1930-1968.webp"
+    },
+    {
+      "ano": "1968-1999",
+      "url": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica_1968-1999.webp"
+    },
+    {
+      "ano": "1999-Actualidad",
+      "url": "/escudos/portugal/benfica/Emblema_do_Sport_Lisboa_e_Benfica1999-actual.webp"
+    }
+  ]
 }

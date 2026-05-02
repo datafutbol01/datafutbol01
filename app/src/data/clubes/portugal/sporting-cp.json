@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Fernando Peyroteo (544 goles)",
       "mas_presencias": "Hilário (475 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/sporting-cp/Sporting_Clube_de_Portugal_logo2001-actual.webp"
   },
   "historia": [
     {
@@ -287,5 +288,27 @@
         "desc": "Central brasileño campeón del mundo que adoptó a Lisboa como su segundo hogar. Su jerarquía, salida pulcra y liderazgo mudo ordenaron la zaga del Sporting a lo largo de casi una década."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1906-1913",
+      "url": "/escudos/portugal/sporting-cp/Emblema_SCP_1906-1913.webp"
+    },
+    {
+      "ano": "1913-1930",
+      "url": "/escudos/portugal/sporting-cp/Emblema_SCP_1913-1930.webp"
+    },
+    {
+      "ano": "1930-1945",
+      "url": "/escudos/portugal/sporting-cp/Emblema_SCP_1930-1945.webp"
+    },
+    {
+      "ano": "1945-2001",
+      "url": "/escudos/portugal/sporting-cp/Sporting_Clube_de_Portugal_1945-2001.webp"
+    },
+    {
+      "ano": "2001-Actualidad",
+      "url": "/escudos/portugal/sporting-cp/Sporting_Clube_de_Portugal_logo2001-actual.webp"
+    }
+  ]
 }

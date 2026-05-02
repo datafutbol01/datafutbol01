@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Toni Martínez (14 goles)",
       "mas_presencias": "Riccielli (130 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/famalicao/FCFamalicao_2018-actual.webp"
   },
   "historia": [
     {
@@ -188,5 +189,27 @@
         "desc": "Deslumbró hasta su traspaso millonario."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1931-1965",
+      "url": "/escudos/portugal/famalicao/Futebol_Clube_de_Famalic%3Fo_1931-1965.webp"
+    },
+    {
+      "ano": "1965-1988",
+      "url": "/escudos/portugal/famalicao/FCFamalicao_1965-1988.webp"
+    },
+    {
+      "ano": "1988-2011",
+      "url": "/escudos/portugal/famalicao/FCFamalicao_1988-2011.webp"
+    },
+    {
+      "ano": "2011-2018",
+      "url": "/escudos/portugal/famalicao/FCFamalicao_2011-2018.webp"
+    },
+    {
+      "ano": "2018-Actualidad",
+      "url": "/escudos/portugal/famalicao/FCFamalicao_2018-actual.webp"
+    }
+  ]
 }

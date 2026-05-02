@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Thiago Santana (35 goles)",
       "mas_presencias": "Pedro Pacheco (280 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/santa-clara/CD_Santa_Clara_2024-actual.webp"
   },
   "historia": [
     {
@@ -187,5 +188,27 @@
         "desc": "Superó la barrera del centenario de encuentros dominando el medio."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1927-1935",
+      "url": "/escudos/portugal/santa-clara/1927-1935.webp"
+    },
+    {
+      "ano": "1935-2012",
+      "url": "/escudos/portugal/santa-clara/Clube_Desportivo_Santa_Clara1935-2012.webp"
+    },
+    {
+      "ano": "2012-2015",
+      "url": "/escudos/portugal/santa-clara/Cd-santa-clara_2012-2015.webp"
+    },
+    {
+      "ano": "2015-2024",
+      "url": "/escudos/portugal/santa-clara/C.D._Santa_Clara_2015-2024_logo.webp"
+    },
+    {
+      "ano": "2024-Actualidad",
+      "url": "/escudos/portugal/santa-clara/CD_Santa_Clara_2024-actual.webp"
+    }
+  ]
 }

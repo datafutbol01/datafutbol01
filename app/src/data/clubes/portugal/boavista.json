@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "João Tomás (50 goles)",
       "mas_presencias": "Alfredo Castro (300 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/boavista/BFC2011-actual.webp"
   },
   "historia": [
     {
@@ -223,5 +224,23 @@
         "desc": "Pilar en la estructura inquebrantable del Boavista campeón."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1910-1933",
+      "url": "/escudos/portugal/boavista/Boavista_FC_1910-1933.webp"
+    },
+    {
+      "ano": "1933-2006",
+      "url": "/escudos/portugal/boavista/Boavista_1933-2006.webp"
+    },
+    {
+      "ano": "2001-2011",
+      "url": "/escudos/portugal/boavista/BFC_2001-2011.webp"
+    },
+    {
+      "ano": "2011-Actualidad",
+      "url": "/escudos/portugal/boavista/BFC2011-actual.webp"
+    }
+  ]
 }

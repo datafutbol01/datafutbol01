@@ -27,7 +27,8 @@
     "records": {
       "maximo_goleador": "Rafa Mújica (37 goles)",
       "mas_presencias": "David Simão (180 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/arouca/Futebol_Clube_de_Arouca_2006-actual.svg"
   },
   "historia": [
     {
@@ -248,5 +249,15 @@
         "desc": "Fijo en el esquema de los años recientes."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1952-2006",
+      "url": "/escudos/portugal/arouca/FC_Arouca1952-2006.svg"
+    },
+    {
+      "ano": "2006-Actualidad",
+      "url": "/escudos/portugal/arouca/Futebol_Clube_de_Arouca_2006-actual.svg"
+    }
+  ]
 }

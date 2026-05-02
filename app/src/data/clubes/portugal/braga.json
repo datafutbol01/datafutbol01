@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Ricardo Horta (125 goles)",
       "mas_presencias": "Alan (344 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/braga/SCBold2018-actual.webp"
   },
   "historia": [
     {
@@ -229,5 +230,35 @@
         "desc": "Pilar fundamental en las gestas continentales."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1921-1930",
+      "url": "/escudos/portugal/braga/SC_Braga_1921-1930.webp"
+    },
+    {
+      "ano": "1930-1945",
+      "url": "/escudos/portugal/braga/SC_Braga_1930-1945.webp"
+    },
+    {
+      "ano": "1945-1949",
+      "url": "/escudos/portugal/braga/SC_Braga_1945-1949.webp"
+    },
+    {
+      "ano": "1950-1960",
+      "url": "/escudos/portugal/braga/SC_Braga_1950-1960.webp"
+    },
+    {
+      "ano": "1970-2007",
+      "url": "/escudos/portugal/braga/Scbraga1970-2007.webp"
+    },
+    {
+      "ano": "2007-2018",
+      "url": "/escudos/portugal/braga/Image2007-2018.webp"
+    },
+    {
+      "ano": "2018-Actualidad",
+      "url": "/escudos/portugal/braga/SCBold2018-actual.webp"
+    }
+  ]
 }

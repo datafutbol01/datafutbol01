@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Saviour Godwin (22 goles)",
       "mas_presencias": "Vasco Fernandes (110 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/casa-pia/Casa_Pia_AC_2019-actual.webp"
   },
   "historia": [
     {
@@ -185,5 +186,27 @@
         "desc": "Sólido baluarte defensivo de los Gansos."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1920-1924",
+      "url": "/escudos/portugal/casa-pia/Casa_Pia_AC_1920-1924.webp"
+    },
+    {
+      "ano": "1924-1935",
+      "url": "/escudos/portugal/casa-pia/Casa_Pia_AC_1924-1935.webp"
+    },
+    {
+      "ano": "1935-1936",
+      "url": "/escudos/portugal/casa-pia/Casa_Pia_AC_1935-1936.webp"
+    },
+    {
+      "ano": "1936-2019",
+      "url": "/escudos/portugal/casa-pia/Casa_Pia1936-2019.webp"
+    },
+    {
+      "ano": "2019-Actualidad",
+      "url": "/escudos/portugal/casa-pia/Casa_Pia_AC_2019-actual.webp"
+    }
+  ]
 }

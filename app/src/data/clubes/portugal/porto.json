@@ -18,7 +18,8 @@
     "records": {
       "maximo_goleador": "Fernando Gomes (352 goles)",
       "mas_presencias": "João Pinto (587 partidos)"
-    }
+    },
+    "escudo_actual": "/escudos/portugal/porto/FC_Porto2017-actual.webp"
   },
   "historia": [
     {
@@ -334,5 +335,39 @@
         "desc": "Un defensor tenaz y durísimo de doblegar. Su leyenda se forjó a base de marcajes pegajosos y una entrega física inigualable en la época del fútbol en blanco y negro."
       }
     ]
-  }
+  },
+  "evolucion_escudos": [
+    {
+      "ano": "1908-1913",
+      "url": "/escudos/portugal/porto/FCPorto_old1908-1913.webp"
+    },
+    {
+      "ano": "1913-1921",
+      "url": "/escudos/portugal/porto/FC_Porto_logo_1913-1921.webp"
+    },
+    {
+      "ano": "1921-1983",
+      "url": "/escudos/portugal/porto/FC_Porto_logo_1921-1983.webp"
+    },
+    {
+      "ano": "1983-1995",
+      "url": "/escudos/portugal/porto/FC_Porto_logo_1983-1995_29.webp"
+    },
+    {
+      "ano": "1995-2005",
+      "url": "/escudos/portugal/porto/FC_Porto_logo_1995-2005.webp"
+    },
+    {
+      "ano": "2005-2010",
+      "url": "/escudos/portugal/porto/FC_Porto_logo_2005-2010.webp"
+    },
+    {
+      "ano": "2017-Actualidad",
+      "url": "/escudos/portugal/porto/FC_Porto2017-actual.webp"
+    },
+    {
+      "ano": "2017",
+      "url": "/escudos/portugal/porto/FC_Porto_logo201.-2017webp.webp"
+    }
+  ]
 }
