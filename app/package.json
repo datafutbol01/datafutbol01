@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt",
+    "build": "node scripts/generate-sitemap.js && node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt",
     "prerender": "node scripts/prerender.js",
+    "index:seo": "node scripts/push-to-google.js",
+    "index:seo2": "node scripts/push-to-indexnow.js",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run"
@@ -17,7 +19,9 @@
     "cheerio": "^1.2.0",
     "crypto-js": "^4.2.0",
     "dotenv": "^17.4.1",
+    "fast-xml-parser": "^5.7.2",
     "framer-motion": "^12.38.0",
+    "googleapis": "^171.4.0",
     "leaflet": "^1.9.4",
     "lucide-react": "^1.7.0",
     "react": "^19.2.4",
