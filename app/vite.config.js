@@ -21,7 +21,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       workbox: {
-        maximumFileSizeToCacheInBytes: 5000000,
+        maximumFileSizeToCacheInBytes: 10000000,
         cleanupOutdatedCaches: true,
         navigateFallbackDenylist: [/^\/sitemap\.xml$/, /^\/robots\.txt$/]
       },
