@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useParams, Link, useNavigate, useLocation } from 'react-router-dom';
 import { getClubsByLeague, getLeagueHistory, getLeagueMatchups, getLeagues, getAllSearchableItems } from '../data/loader';
-import h2hInternacionalData from '../data/h2h_internacional.json';
+
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import ShareButton from '../components/ShareButton';
