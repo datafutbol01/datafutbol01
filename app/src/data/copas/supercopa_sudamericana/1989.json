@@ -1,0 +1,1816 @@
+{
+  "edition": "1989",
+  "tournament": "Supercopa Sudamericana",
+  "champion": "boca",
+  "participants": [
+    {
+      "id": "boca",
+      "name": "Boca Juniors",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Navarro Montoya",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Esteban Pogany",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Juan Simón",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Víctor Hugo Marchesini",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "José Luis Cuciuffo",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Luis Abramovich",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Ivar Stafuza",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Richard Tavares",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Claudio Marangoni",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Blas Giunta",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "José Daniel Ponce",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Diego Latorre",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Fabián Carrizo",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Walter Pico",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Diego Soñora",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Alfredo Graciani",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Sergio Berti",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Alejandro Barberón",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "independiente",
+      "name": "Independiente",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Eduardo Pereira",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Sergio Vargas",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Pedro Monzón",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Rogelio Delgado",
+          "flag": "py"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Ricardo Altamirano",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Néstor Clausen",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Guillermo Ríos",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Miguel Ángel Ludueña",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Ricardo Giusti",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ricardo Bochini",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "José María Bianco",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Rubén Darío Insúa",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Carlos Alfaro Moreno",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Luis Fabián Artime",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Marcelo Reggiardo",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Martín Ubaldi",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "gremio",
+      "name": "Grêmio",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Mazaropi",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Gomes",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Alfinete",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Luís Eduardo",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Edinho",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Hélcio",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Jandir",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Vilson",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Cuca",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Adílson Heleno",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Assis",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Centrocampista",
+          "name": "Paulo Egídio",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Lino",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Kita",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Marcus Vinícius",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Nando",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "argentinos",
+      "name": "Argentinos Juniors",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Goyén",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Carmelo Micciche",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Fernando Cáceres",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Osvaldo Macó",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Carlos Javier Mac Allister",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Néstor Lorenzo",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Javier Baena",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Fernando Redondo",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Silvio Rudman",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ramiro Castillo",
+          "flag": "bo"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Osvaldo Coloccini",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Carlos Ereros",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Mauro Airez",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Antonio Vidal González",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Jorge Dely Valdés",
+          "flag": "pa"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Kevin",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "estudiantes",
+      "name": "Estudiantes de La Plata",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Yorno",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Arturo Battaleri",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Roberto Trotta",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Juan Carlos Ramírez",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Mario Cariaga",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Edgardo Prátola",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Pablo Erbín",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "José Luis Brown",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Héctor Vargas",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Rubén Capria",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Rodolfo Cardoso",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Raúl Aredes",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Patricio Mac Allister",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Fernando Di Carlo",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Máximo Nardoni",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Zé Carlos",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Cantarele",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jorginho",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Aldair",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Leonardo",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Fernando",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Zanata",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Ailton",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Zico",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Renato Gaúcho",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Uidemar",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Zinho",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Bebeto",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Nando",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Alcindo",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "penarol",
+      "name": "Peñarol",
+      "country": "uy",
+      "flag": "uy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Fernando Álvez",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Oscar Ferro",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Obdulio Trasante",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Jorge Gonçalves",
+          "flag": "uy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "José Oscar Herrera",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Alfonso Domínguez",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "José Perdomo",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Juan Ramón Carrasco",
+          "flag": "uy"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Gustavo Matosas",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Gabriel Cedrés",
+          "flag": "uy"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Mauricio Silvera",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Carlos Aguilera",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Víctor López",
+          "flag": "uy"
+        }
+      ]
+    },
+    {
+      "id": "nacional",
+      "name": "Nacional",
+      "country": "uy",
+      "flag": "uy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Jorge Seré",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Mario Alles",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Felipe Revelez",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Hugo De León",
+          "flag": "uy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Tony Gómez",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "José Pintos Saldanha",
+          "flag": "uy"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Martín Lasarte",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Santiago Ostolaza",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Jorge Cardaccio",
+          "flag": "uy"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "William Castro",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Héctor Morán",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Julio César Dely Valdés",
+          "flag": "pa"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Daniel Fonseca",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Carlos Soca",
+          "flag": "uy"
+        }
+      ]
+    },
+    {
+      "id": "olimpia",
+      "name": "Olimpia",
+      "country": "py",
+      "flag": "py",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ever Hugo Almeida",
+          "flag": "py"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Julián Coronel",
+          "flag": "py"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Virginio Cáceres",
+          "flag": "py"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Remigio Fernández",
+          "flag": "py"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "César Castro",
+          "flag": "py"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Herib Chamas",
+          "flag": "py"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Jorge Guasch",
+          "flag": "py"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Fermín Balbuena",
+          "flag": "py"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Luis Alberto Monzón",
+          "flag": "py"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Vidal Sanabria",
+          "flag": "py"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Adriano Samaniego",
+          "flag": "py"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Gustavo Neffa",
+          "flag": "py"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Raúl Vicente Amarilla",
+          "flag": "py"
+        }
+      ]
+    },
+    {
+      "id": "racing",
+      "name": "Racing Club",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Roa",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Julio César Balerio",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Néstor Fabbri",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Gustavo Costas",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Carlos Olarán",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Cosme Zaccanti",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Norberto Ortega Sánchez",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Hugo Lamadrid",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Jorge Acuña",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Rubén Paz",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Julio Olarticoechea",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Miguel Colombatti",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Norberto Ortega Sánchez",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hugo Pérez",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "José Raúl Iglesias",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Claudio García",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "river",
+      "name": "River Plate",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ángel Comizzo",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "José Miguel",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jorge Higuaín",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Carlos Enrique",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Fabián Basualdo",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Rubén Gómez",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "José Tiburcio Serrizuela",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Sergio Batista",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Héctor Enrique",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Juan José Borrelli",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Leonardo Astrada",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Gustavo Zapata",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Hernán Díaz",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Ramón Centurión",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Ramón Medina Bello",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Gabriel Batistuta",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Julio Zamora",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Rubén Da Silva",
+          "flag": "uy"
+        }
+      ]
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Sérgio",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Ferreira",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Ditinho",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Luiz Carlos",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Wladimir",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Cassio",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "César Sampaio",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Axel",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Paulinho McLaren",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Juary",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Tuíco",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Carlinhos",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Paulo César",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Wellington",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Balú",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Herib Chamas",
+          "flag": "py"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Ademir",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Eduardo",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Édson",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Wallace",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ademir",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Hamilton",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Careca",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Heider",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "atletico-nacional",
+      "name": "Atlético Nacional",
+      "country": "co",
+      "flag": "co",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "René Higuita",
+          "flag": "co"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Miguel Calero",
+          "flag": "co"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Andrés Escobar",
+          "flag": "co"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Gildardo Gómez",
+          "flag": "co"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Luis Fernando Herrera",
+          "flag": "co"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "José Ricardo Pérez",
+          "flag": "co"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Luis Carlos Perea",
+          "flag": "co"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "León Villa",
+          "flag": "co"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "John Jairo Carmona",
+          "flag": "co"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Leonel Álvarez",
+          "flag": "co"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Alexis García",
+          "flag": "co"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Alexis Mendoza",
+          "flag": "co"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Jaime Arango",
+          "flag": "co"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Luis Alfonso Fajardo",
+          "flag": "co"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Níver Arboleda",
+          "flag": "co"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "John Jairo Tréllez",
+          "flag": "co"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Albeiro Usuriaga",
+          "flag": "co"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Néstor Álvarez",
+          "flag": "co"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "John Jairo Galeano",
+          "flag": "co"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Didí Álex Valderrama",
+          "flag": "co"
+        }
+      ]
+    }
+  ],
+  "bracket": {
+    "roundOf16": [
+      {
+        "id1": "flamengo",
+        "team1": "Flamengo",
+        "id2": "argentinos",
+        "team2": "Argentinos Juniors",
+        "score": "1-3",
+        "agg": "1-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-1",
+            "goals": [
+              "Rudman 49 (ARG)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-2",
+            "goals": [
+              "Airez 48 (ARG)",
+              "Vidal González 50 (ARG)",
+              "Nando 43 (FLA)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "estudiantes",
+        "team1": "Estudiantes de La Plata",
+        "id2": "penarol",
+        "team2": "Peñarol",
+        "score": "3-2",
+        "agg": "3-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-0",
+            "goals": [
+              "Mac Allister 26 (EST)",
+              "Mac Allister 44 (EST)",
+              "Di Carlo 70 (EST)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Carrasco 30 (PEÑ)",
+              "Silvera 89 (PEÑ)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "nacional",
+        "team1": "Nacional",
+        "id2": "atletico-nacional",
+        "team2": "Atlético Nacional",
+        "score": "2-3",
+        "agg": "2-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-1",
+            "goals": [
+              "Dely Valdés 18 (NAC)",
+              "Ostolaza 88 (NAC)",
+              "Usuriaga 3 (ATN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Arango 12 (ATN)",
+              "Tréllez 43 (ATN)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "santos",
+        "team1": "Santos",
+        "id2": "independiente",
+        "team2": "Independiente",
+        "score": "1-4",
+        "agg": "1-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-2",
+            "goals": [
+              "Ditinho 87 (SAN)",
+              "Alfaro Moreno 12 (IND)",
+              "Insúa 35 (IND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Insúa 18 (IND)",
+              "Monzón 63 (IND)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "olimpia",
+        "team1": "Olimpia",
+        "id2": "cruzeiro",
+        "team2": "Cruzeiro",
+        "score": "2-3",
+        "agg": "2-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-0",
+            "goals": [
+              "Samaniego 12 (OLI)",
+              "Neffa 30 (OLI)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-3",
+            "goals": [
+              "Chamas 12 a.g. (CRU)",
+              "Edson 34 (CRU)",
+              "Careca 70 (CRU)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "river",
+        "team1": "River Plate",
+        "id2": "gremio",
+        "team2": "Grêmio",
+        "score": "3-3",
+        "agg": "3-3 (1-4 p)",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-1",
+            "goals": [
+              "Centurión 16 (RIV)",
+              "Borrelli 44 (RIV)",
+              "Heleno 41 (GRE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-2",
+            "goals": [
+              "Kita 43 (GRE)",
+              "Heleno 58 (GRE)",
+              "Centurión 24 (RIV)"
+            ]
+          }
+        ]
+      }
+    ],
+    "quarterFinals": [
+      {
+        "id1": "boca",
+        "team1": "Boca Juniors",
+        "id2": "racing",
+        "team2": "Racing Club",
+        "score": "2-1",
+        "agg": "2-1",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-1",
+            "goals": [
+              "Fabbri 14 (RAC)",
+              "Ponce 5 (BOC)",
+              "Cuciuffo 60 (BOC)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "gremio",
+        "team1": "Grêmio",
+        "id2": "estudiantes",
+        "team2": "Estudiantes de La Plata",
+        "score": "4-0",
+        "agg": "4-0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0",
+            "goals": [
+              "Cariaga 85 a.g. (GRE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "3-0",
+            "goals": [
+              "Paulo Egídio 37 (GRE)",
+              "Cuca 52 (GRE)",
+              "Cuca 81 (GRE)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "atletico-nacional",
+        "team1": "Atlético Nacional",
+        "id2": "independiente",
+        "team2": "Independiente",
+        "score": "2-4",
+        "agg": "2-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-2",
+            "goals": [
+              "Tréllez 21 (ATN)",
+              "Tréllez 38 (ATN)",
+              "Ludueña 40 (IND)",
+              "Giusti 66 (IND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Alfaro Moreno 14 (IND)",
+              "Monzón 60 (IND)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "cruzeiro",
+        "team1": "Cruzeiro",
+        "id2": "argentinos",
+        "team2": "Argentinos Juniors",
+        "score": "1-3",
+        "agg": "1-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-1",
+            "goals": [
+              "Hamilton 13 (CRU)",
+              "Airez 86 (ARG)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Airez 59 (ARG)",
+              "Cáceres 75 (ARG)"
+            ]
+          }
+        ]
+      }
+    ],
+    "semiFinals": [
+      {
+        "id1": "gremio",
+        "team1": "Grêmio",
+        "id2": "boca",
+        "team2": "Boca Juniors",
+        "score": "0-2",
+        "agg": "0-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Marangoni 15 (BOC)",
+              "Cuciuffo 24 (BOC)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "argentinos",
+        "team1": "Argentinos Juniors",
+        "id2": "independiente",
+        "team2": "Independiente",
+        "score": "1-3",
+        "agg": "1-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-1",
+            "goals": [
+              "Giusti 40 (IND)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-2",
+            "goals": [
+              "Insúa 47 (IND)",
+              "Reggiardo 62 (IND)",
+              "Cáceres 51 (ARG)"
+            ]
+          }
+        ]
+      }
+    ],
+    "final": {
+      "id1": "boca",
+      "team1": "Boca Juniors",
+      "id2": "independiente",
+      "team2": "Independiente",
+      "score": "0-0",
+      "agg": "0-0 (5-3 p)",
+      "details": [
+        {
+          "leg": "Ida",
+          "score": "0-0",
+          "goals": []
+        },
+        {
+          "leg": "Vuelta",
+          "score": "0-0",
+          "goals": []
+        }
+      ]
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Mauro Airez",
+        "flag": "ar",
+        "value": 3,
+        "clubId": "/escudos/argentina/argentinos-juniors/argentinos-jrs.png"
+      },
+      {
+        "name": "Rubén Darío Insúa",
+        "flag": "ar",
+        "value": 3,
+        "clubId": "independiente"
+      },
+      {
+        "name": "John Jairo Tréllez",
+        "flag": "co",
+        "value": 3,
+        "clubId": "/escudos/colombia/atletico-nacional-real.webp"
+      },
+      {
+        "name": "Patricio Mac Allister",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "/escudos/argentina/estudiantes-lp/Etudiantes_de_La_Plata_(2010).svg"
+      },
+      {
+        "name": "Ramón Centurión",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "river-plate"
+      },
+      {
+        "name": "Cuca",
+        "flag": "br",
+        "value": 2,
+        "clubId": "/escudos/brasil/gremio/gremio-actual.webp"
+      },
+      {
+        "name": "Alfaro Moreno",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "independiente"
+      },
+      {
+        "name": "Pedro Monzón",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "independiente"
+      },
+      {
+        "name": "Adílson Heleno",
+        "flag": "br",
+        "value": 2,
+        "clubId": "/escudos/brasil/gremio/gremio-actual.webp"
+      },
+      {
+        "name": "José Luis Cuciuffo",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "/escudos/argentina/boca-juniors/boca-juniors_2025_web.png"
+      },
+      {
+        "name": "Fernando Cáceres",
+        "flag": "ar",
+        "value": 2,
+        "clubId": "/escudos/argentina/argentinos-juniors/argentinos-jrs.png"
+      }
+    ]
+  }
+}

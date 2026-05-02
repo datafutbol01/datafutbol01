@@ -1,0 +1,2146 @@
+{
+  "year": 1988,
+  "cup": "Supercopa Sudamericana",
+  "champion": "racing",
+  "runnerUp": "cruzeiro",
+  "participants": [
+    {
+      "id": "racing",
+      "name": "Racing Club",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ubaldo Fillol",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Julio César Balerio",
+          "flag": "uy"
+        },
+        {
+          "no": 20,
+          "pos": "Portero",
+          "name": "Juan Carlos Zubczuk",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Gustavo Costas",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Néstor Fabbri",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Carlos Olarán",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Carlos Mac Allister",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Cosme Zaccanti",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Marcelo Asteggiano",
+          "flag": "ar"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Carlos Vázquez",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Defensa",
+          "name": "Eduardo Saporiti",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Hugo Lamadrid",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Jorge Acuña",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Rubén Paz",
+          "flag": "uy"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Miguel Ángel Colombatti",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Hugo Pérez",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Julio César Iglesias",
+          "flag": "ar"
+        },
+        {
+          "no": 23,
+          "pos": "Centrocampista",
+          "name": "Miguel Ángel Ludueña",
+          "flag": "ar"
+        },
+        {
+          "no": 25,
+          "pos": "Centrocampista",
+          "name": "Gustavo Szulz",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Ramón Medina Bello",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Walter Fernández",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Roque Alfaro",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "José Raúl Iglesias",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Víctor Rabuñal",
+          "flag": "uy"
+        },
+        {
+          "no": 24,
+          "pos": "Delantero",
+          "name": "Omar Catalán",
+          "flag": "ar"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/racing.svg"
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Wellington",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Gomes",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "pos": "Portero",
+          "name": "Genilson",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Balu",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Gilmar Francisco",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Heraldo",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Wladimir",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Vilmar",
+          "flag": "br"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Paulo Roberto",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Ademir",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Éder",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Heriberto",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Ramon",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Hamilton",
+          "flag": "br"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "Eduardo",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Robson",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Careca",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Agnaldo",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Silva",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Manoel",
+          "flag": "br"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/cruzeiro.svg"
+    },
+    {
+      "id": "river",
+      "name": "River Plate",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Nery Pumpido",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Ángel Comizzo",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Portero",
+          "name": "José Miguel",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Nelson Gutiérrez",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Oscar Ruggeri",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Carlos Enrique",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jorge Borelli",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Rubén Darío Gómez",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Defensa",
+          "name": "Jorge Gordillo",
+          "flag": "ar"
+        },
+        {
+          "no": 20,
+          "pos": "Defensa",
+          "name": "Fabián Basualdo",
+          "flag": "ar"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "José Tiburcio Serrizuela",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Defensa",
+          "name": "Daniel Passarella",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Américo Gallego",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Héctor Enrique",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Omar Palma",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Ernesto Corti",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Pedro Troglio",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Claudio Morresi",
+          "flag": "ar"
+        },
+        {
+          "no": 23,
+          "pos": "Centrocampista",
+          "name": "Gerardo Reinoso",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Antonio Alzamendi",
+          "flag": "uy"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Jorge Da Silva",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Claudio Caniggia",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Ramón Centurión",
+          "flag": "ar"
+        },
+        {
+          "no": 24,
+          "pos": "Delantero",
+          "name": "Abel Balbo",
+          "flag": "ar"
+        },
+        {
+          "no": 25,
+          "pos": "Delantero",
+          "name": "Claudio Borghi",
+          "flag": "ar"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/river.svg"
+    },
+    {
+      "id": "nacional",
+      "name": "Nacional",
+      "country": "uy",
+      "flag": "uy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Jorge Seré",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Mario Alles",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Felipe Revelez",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Hugo De León",
+          "flag": "uy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "José Luis Pintos Saldanha",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Carlos Soca",
+          "flag": "uy"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Martín Lasarte",
+          "flag": "uy"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Tony Gómez",
+          "flag": "uy"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Enrique Saravia",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Santiago Ostolaza",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Yubert Lemos",
+          "flag": "uy"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Jorge Cardaccio",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Centrocampista",
+          "name": "Héctor Morán",
+          "flag": "uy"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Enrique Peña",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Ernesto Vargas",
+          "flag": "uy"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Juan Carlos de Lima",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "William Castro",
+          "flag": "uy"
+        },
+        {
+          "no": 15,
+          "pos": "Delantero",
+          "name": "Sergio Olivera",
+          "flag": "uy"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Daniel Carreño",
+          "flag": "uy"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Héctor Noé",
+          "flag": "uy"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/nacional.svg"
+    },
+    {
+      "id": "boca",
+      "name": "Boca Juniors",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Hugo Gatti",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Carlos Navarro Montoya",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Portero",
+          "name": "Sergio Genaro",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Juan Amador Sánchez",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Richard Tavares",
+          "flag": "uy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "José Luis Cuciuffo",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Enrique Hrabina",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Luis Abramovich",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Ivar Stafuza",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Defensa",
+          "name": "Pablo Erbín",
+          "flag": "ar"
+        },
+        {
+          "no": 20,
+          "pos": "Defensa",
+          "name": "Víctor Marchesini",
+          "flag": "ar"
+        },
+        {
+          "no": 21,
+          "pos": "Defensa",
+          "name": "Néstor Merlo",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Claudio Marangoni",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Fabián Carrizo",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Carlos Tapia",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "José Luis Brown",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Centrocampista",
+          "name": "José Luis Villarreal",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Jorge Comas",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Alfredo Graciani",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Walter Perazzo",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Diego Latorre",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Paulinho",
+          "flag": "br"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/boca.svg"
+    },
+    {
+      "id": "gremio",
+      "name": "Grêmio",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Mazarópi",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Gomes",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Alfinete",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Fernando Astengo",
+          "flag": "cl"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Luis Eduardo",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "João Antônio",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Trasante",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Paulo Roberto",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Bonamigo",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Cuca",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Valdo",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Jorginho",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Gilson",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Assis",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Cristóvão",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Lima",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Marcos Vinícius",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Zéphinha",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Serginho",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Darci",
+          "flag": "br"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/gremio.svg"
+    },
+    {
+      "id": "independiente",
+      "name": "Independiente",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Luis Islas",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Sergio Vargas",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Eduardo Pereira",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Pedro Monzón",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Rogelio Delgado",
+          "flag": "py"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Néstor Clausen",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Guillermo Ríos",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Hugo Villaverde",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Osvaldo Ríos",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Defensa",
+          "name": "Elvio Vázquez",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Ricardo Giusti",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "José María Bianco",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ricardo Bochini",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Rubén Darío Insúa",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Miguel Ángel Ludueña",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Pedro Massacessi",
+          "flag": "ar"
+        },
+        {
+          "no": 20,
+          "pos": "Centrocampista",
+          "name": "Carlos Morales Santos",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Carlos Alfaro Moreno",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Alejandro Barberón",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Marcelo Reggiardo",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Delantero",
+          "name": "Osvaldo Merlini",
+          "flag": "ar"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Martín Ubaldi",
+          "flag": "ar"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/independiente.svg"
+    },
+    {
+      "id": "penarol",
+      "name": "Peñarol",
+      "country": "uy",
+      "flag": "uy",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Eduardo Pereira",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Fernando Álvez",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Marcelo Rotti",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Alfonso Domínguez",
+          "flag": "uy"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Jorge Goncalves",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "José Herrera",
+          "flag": "uy"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Eduardo Da Silva",
+          "flag": "uy"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Julio César Gómez",
+          "flag": "uy"
+        },
+        {
+          "no": 15,
+          "pos": "Defensa",
+          "name": "Obdulio Trasante",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "José Perdomo",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Gustavo Matosas",
+          "flag": "uy"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Ricardo Viera",
+          "flag": "uy"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Carlos Sánchez",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Diego Aguirre",
+          "flag": "uy"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Daniel Vidal",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Adolfo Barán",
+          "flag": "uy"
+        },
+        {
+          "no": 17,
+          "pos": "Delantero",
+          "name": "Jorge Villar",
+          "flag": "uy"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Enrique Báez",
+          "flag": "uy"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Gustavo Rebollo",
+          "flag": "uy"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/penarol.svg"
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ferreira",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Rodolfo Rodríguez",
+          "flag": "uy"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Sergio",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Davi",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Nildo",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Luizinho",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Cássio",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Ditinho",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Ijuí",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "pos": "Defensa",
+          "name": "Célio",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "César Sampaio",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Mendonça",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Sócrates",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Luvanor",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Amarildo",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Marco Antônio",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Tuíco",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Zé Sérgio",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Edelvan",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Leonardo",
+          "flag": "br"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/santos.svg"
+    },
+    {
+      "id": "argentinos",
+      "name": "Argentinos Juniors",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Goyén",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Eduardo Vidallé",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Osvaldo Mendoza",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Carmelo Villalba",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Néstor Lorenzo",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Carlos Mayor",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Osvaldo Coloccini",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Fernando Cáceres",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Javier Baena",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Sergio Batista",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Fernando Redondo",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Silvio Rudman",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Ramiro Castillo",
+          "flag": "bo"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Diego Cagna",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Hugo Maradona",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Carlos Ereros",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Oscar Dertycia",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Jorge Castro",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Antonio Vidal González",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Mauro Airez",
+          "flag": "ar"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/argentinos.svg"
+    },
+    {
+      "id": "estudiantes",
+      "name": "Estudiantes de La Plata",
+      "country": "ar",
+      "flag": "ar",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Carlos Bertero",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Arturo Yorno",
+          "flag": "ar"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Gabriel Puentedura",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Néstor Craviotto",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Juan Carlos Ramírez",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Rubén Agüero",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Roberto Trotta",
+          "flag": "ar"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Edgardo Prátola",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Ricardo Iribarren",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Oscar Gissi",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "José Daniel Ponce",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Patricio Hernández",
+          "flag": "ar"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Héctor Vargas",
+          "flag": "ar"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Daniel Peinado",
+          "flag": "ar"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Mario Cariaga",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Alejandro Russo",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "José María Minella",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Héctor Arzubialde",
+          "flag": "ar"
+        },
+        {
+          "no": 18,
+          "pos": "Delantero",
+          "name": "Héctor Herrero",
+          "flag": "ar"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Walter Capote",
+          "flag": "ar"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/estudiantes.svg"
+    },
+    {
+      "id": "olimpia",
+      "name": "Olimpia",
+      "country": "py",
+      "flag": "py",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Ever Hugo Almeida",
+          "flag": "py"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Julián Coronel",
+          "flag": "py"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Jorge Battaglia",
+          "flag": "py"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Virginio Cáceres",
+          "flag": "py"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Mario Ramírez",
+          "flag": "py"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Fidel Miño",
+          "flag": "py"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "César Zabala",
+          "flag": "py"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Silvio Suárez",
+          "flag": "py"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Remigio Fernández",
+          "flag": "py"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Jorge Guasch",
+          "flag": "py"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Gustavo Benítez",
+          "flag": "py"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Gabriel Mendoza",
+          "flag": "py"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Evaristo Isasi",
+          "flag": "py"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Fermín Balbuena",
+          "flag": "py"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Carlos Guirland",
+          "flag": "py"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Luis Monzón",
+          "flag": "py"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Raúl Vicente Amarilla",
+          "flag": "py"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Alfredo Mendoza",
+          "flag": "py"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Adriano Samaniego",
+          "flag": "py"
+        },
+        {
+          "no": 19,
+          "pos": "Delantero",
+          "name": "Jorge Villalba",
+          "flag": "py"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Felipe Nery Franco",
+          "flag": "py"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/olimpia.svg"
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "country": "br",
+      "flag": "br",
+      "squad": [
+        {
+          "no": 1,
+          "pos": "Portero",
+          "name": "Zé Carlos",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "pos": "Portero",
+          "name": "Cantarele",
+          "flag": "br"
+        },
+        {
+          "no": 22,
+          "pos": "Portero",
+          "name": "Milagres",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "pos": "Defensa",
+          "name": "Jorginho",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "pos": "Defensa",
+          "name": "Leandro",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "pos": "Defensa",
+          "name": "Edinho",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "pos": "Defensa",
+          "name": "Leonardo",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "pos": "Defensa",
+          "name": "Aldair",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "pos": "Defensa",
+          "name": "Zé Carlos II",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "pos": "Centrocampista",
+          "name": "Andrade",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "pos": "Centrocampista",
+          "name": "Aílton",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "pos": "Centrocampista",
+          "name": "Zico",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "pos": "Centrocampista",
+          "name": "Julio Cesar",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "pos": "Centrocampista",
+          "name": "Zinho",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "pos": "Centrocampista",
+          "name": "Gerson",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "pos": "Centrocampista",
+          "name": "Uidemar",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "pos": "Centrocampista",
+          "name": "Renato Carioca",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "pos": "Delantero",
+          "name": "Renato Gaúcho",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "pos": "Delantero",
+          "name": "Bebeto",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "pos": "Delantero",
+          "name": "Alcindo",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "pos": "Delantero",
+          "name": "Sérgio Araújo",
+          "flag": "br"
+        },
+        {
+          "no": 21,
+          "pos": "Delantero",
+          "name": "Nando",
+          "flag": "br"
+        }
+      ],
+      "shield": "/escudos_historicos/supercopa_sudamericana1988/flamengo.svg"
+    }
+  ],
+  "bracket": {
+    "roundOf16": [
+      {
+        "id1": "penarol",
+        "team1": "Peñarol",
+        "id2": "argentinos",
+        "team2": "Argentinos Juniors",
+        "score": "1-2",
+        "agg": "1-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0",
+            "goals": [
+              "Herrera (PEN)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Ereros (ARG)",
+              "Castro (ARG)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "independiente",
+        "team1": "Independiente",
+        "id2": "cruzeiro",
+        "team2": "Cruzeiro",
+        "score": "1-3",
+        "agg": "1-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-2",
+            "goals": [
+              "Merlini (IND)",
+              "Heriberto (CRU)",
+              "Robson (CRU)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-1",
+            "goals": [
+              "Heriberto (CRU)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "estudiantes",
+        "team1": "Estudiantes de La Plata",
+        "id2": "flamengo",
+        "team2": "Flamengo",
+        "score": "1-4",
+        "agg": "1-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-1",
+            "goals": [
+              "Gissi (EST)",
+              "Bebeto (FLA)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-3",
+            "goals": [
+              "Bebeto (FLA) x2",
+              "Renato Gaúcho (FLA)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "olimpia",
+        "team1": "Olimpia",
+        "id2": "river",
+        "team2": "River Plate",
+        "score": "2-4",
+        "agg": "2-4",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-0",
+            "goals": [
+              "Mendoza (OLI)",
+              "Amarilla (OLI)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-4",
+            "goals": [
+              "Alzamendi 27 (RIV)",
+              "Alzamendi 67 (RIV)",
+              "Da Silva 47 (RIV)",
+              "Da Silva 71 (RIV)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "boca",
+        "team1": "Boca Juniors",
+        "id2": "gremio",
+        "team2": "Grêmio",
+        "score": "1-2",
+        "agg": "1-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0",
+            "goals": [
+              "Comas 4 (BOC)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-2",
+            "goals": [
+              "Lima (GRE)",
+              "Cuca (GRE)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "racing",
+        "team1": "Racing Club",
+        "id2": "santos",
+        "team2": "Santos",
+        "score": "2-0",
+        "agg": "2-0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-0",
+            "goals": [
+              "Iglesias (RAC)",
+              "Colombatti (RAC)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-0",
+            "goals": []
+          }
+        ]
+      }
+    ],
+    "quarterFinals": [
+      {
+        "id1": "cruzeiro",
+        "team1": "Cruzeiro",
+        "id2": "argentinos",
+        "team2": "Argentinos Juniors",
+        "score": "2-0",
+        "agg": "2-0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0",
+            "goals": [
+              "Ramon (CRU)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-0",
+            "goals": [
+              "Careca (CRU)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "nacional",
+        "team1": "Nacional",
+        "id2": "flamengo",
+        "team2": "Flamengo",
+        "score": "5-0",
+        "agg": "5-0",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-0",
+            "goals": [
+              "Lemos 15 (NAC)",
+              "Olivera 66 (NAC)",
+              "Olivera 69 (NAC)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-0",
+            "goals": [
+              "Olivera (NAC)",
+              "Castro (NAC)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "gremio",
+        "team1": "Grêmio",
+        "id2": "river",
+        "team2": "River Plate",
+        "score": "2-3",
+        "agg": "2-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-0",
+            "goals": [
+              "Valdo (GRE)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-3",
+            "goals": [
+              "Alzamendi (RIV)",
+              "Alzamendi (RIV)",
+              "Centurión (RIV)",
+              "Lima (GRE)"
+            ]
+          }
+        ]
+      }
+    ],
+    "semiFinals": [
+      {
+        "id1": "nacional",
+        "team1": "Nacional",
+        "id2": "cruzeiro",
+        "team2": "Cruzeiro",
+        "score": "3-3",
+        "agg": "3-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-2",
+            "goals": [
+              "Olivera (NAC)",
+              "Castro (NAC)",
+              "Lemos (NAC)",
+              "Careca (CRU)",
+              "Ademir (CRU)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-1",
+            "goals": [
+              "Robson (CRU)"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "racing",
+        "team1": "Racing Club",
+        "id2": "river",
+        "team2": "River Plate",
+        "score": "3-2",
+        "agg": "3-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "2-1",
+            "goals": [
+              "W. Fernández 46 (RAC)",
+              "W. Fernández 62 (RAC)",
+              "Borelli 45 (RIV)"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-1",
+            "goals": [
+              "Fabbri 90 (RAC)",
+              "Gutiérrez 67 (RIV)"
+            ]
+          }
+        ]
+      }
+    ],
+    "final": {
+      "id1": "racing",
+      "team1": "Racing Club",
+      "id2": "cruzeiro",
+      "team2": "Cruzeiro",
+      "score": "3-2",
+      "agg": "3-2",
+      "details": [
+        {
+          "leg": "Ida",
+          "score": "2-1",
+          "goals": [
+            "Colombatti 44 (RAC)",
+            "W. Fernández 90 (RAC)",
+            "Silvio 36 (CRU)"
+          ]
+        },
+        {
+          "leg": "Vuelta",
+          "score": "1-1",
+          "goals": [
+            "Catalán 43 (RAC)",
+            "Robson 82 (CRU)"
+          ]
+        }
+      ]
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Antonio Alzamendi",
+        "flag": "uy",
+        "value": 4
+      },
+      {
+        "name": "Sergio Olivera",
+        "flag": "uy",
+        "value": 4
+      },
+      {
+        "name": "Bebeto",
+        "flag": "br",
+        "value": 3
+      },
+      {
+        "name": "Walter Fernández",
+        "flag": "ar",
+        "value": 3
+      },
+      {
+        "name": "Robson",
+        "flag": "br",
+        "value": 3
+      },
+      {
+        "name": "Miguel Colombatti",
+        "flag": "ar",
+        "value": 2
+      },
+      {
+        "name": "Jorge Da Silva",
+        "flag": "uy",
+        "value": 2
+      },
+      {
+        "name": "Lima",
+        "flag": "br",
+        "value": 2
+      }
+    ]
+  }
+}

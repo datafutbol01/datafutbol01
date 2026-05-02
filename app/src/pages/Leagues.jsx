@@ -71,7 +71,7 @@ export default function Leagues() {
             key={league.id}
             onClick={() => {
               setActiveLeagueIdx(idx);
-              navigate(`/liga/${league.id}`);
+              navigate(`/liga/${league.id}`, { state: { tab: 'clubes' } });
             }}
             style={{
               background: activeLeagueIdx === idx ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)',
@@ -172,7 +172,7 @@ export default function Leagues() {
               <p className="text-xl md:text-2xl text-accent-gold mb-8 italic">{activeLeague.country}</p>
               
               <button
-                onClick={() => navigate(`/liga/${activeLeague.id}`)}
+                onClick={() => navigate(`/liga/${activeLeague.id}`, { state: { tab: 'clubes' } })}
                 className="glass-panel"
                 style={{
                   background: 'var(--accent-gold)',

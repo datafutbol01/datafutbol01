@@ -1,0 +1,824 @@
+{
+  "year": 1960,
+  "champion": "peñarol",
+  "runnerUp": "olimpia",
+  "participants": [
+    {
+      "id": "penarol",
+      "name": "Peñarol",
+      "flag": "uy",
+      "dt": "Roberto Scarone",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Luis Maidana",
+          "pos": "POR",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "name": "William Martínez",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "name": "Salvador",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Santiago Pino",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "name": "Néstor Gonçalves",
+          "pos": "MED",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "name": "Walter Aguerre",
+          "pos": "MED",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "name": "Luis Cubilla",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "name": "Carlos Linazza",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Alberto Spencer",
+          "pos": "DEL",
+          "flag": "ec"
+        },
+        {
+          "no": 10,
+          "name": "Júpiter Crescio",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 11,
+          "name": "Carlos Borges",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "name": "Juan E. Hohberg",
+          "pos": "DEL",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "olimpia",
+      "name": "Olimpia",
+      "flag": "py",
+      "dt": "Aurelio González",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Herminio Arias",
+          "pos": "POR",
+          "flag": "py"
+        },
+        {
+          "no": 2,
+          "name": "Edelmiro Arévalo",
+          "pos": "DEF",
+          "flag": "py"
+        },
+        {
+          "no": 3,
+          "name": "Juan Lezcano",
+          "pos": "DEF",
+          "flag": "py"
+        },
+        {
+          "no": 4,
+          "name": "Mariano Osorio",
+          "pos": "DEF",
+          "flag": "py"
+        },
+        {
+          "no": 5,
+          "name": "Claudio Lezcano",
+          "pos": "MED",
+          "flag": "py"
+        },
+        {
+          "no": 6,
+          "name": "Pascual Rojas",
+          "pos": "MED",
+          "flag": "py"
+        },
+        {
+          "no": 7,
+          "name": "Vicente Rodríguez",
+          "pos": "DEL",
+          "flag": "py"
+        },
+        {
+          "no": 8,
+          "name": "Hipólito Recalde",
+          "pos": "DEL",
+          "flag": "py"
+        },
+        {
+          "no": 9,
+          "name": "Luis Doldán",
+          "pos": "DEL",
+          "flag": "py"
+        },
+        {
+          "no": 10,
+          "name": "Pedro Antonio Cabral",
+          "pos": "DEL",
+          "flag": "py"
+        },
+        {
+          "no": 11,
+          "name": "Teovaldo Melgarejo",
+          "pos": "DEL",
+          "flag": "py"
+        }
+      ]
+    },
+    {
+      "id": "san-lorenzo",
+      "name": "San Lorenzo",
+      "flag": "ar",
+      "dt": "José Barreiro",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Vladislao Cap",
+          "pos": "POR",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "name": "Raúl Páez",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 3,
+          "name": "José Iñigo",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 4,
+          "name": "Guillermo Reynoso",
+          "pos": "DEF",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "name": "Héctor Facundo",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "name": "Oscar Rossi",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 7,
+          "name": "Norberto Boggio",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "name": "Miguel Ángel Ruiz",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "José Sanfilippo",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "name": "Omar Higinio García",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "name": "Carlos Bilardo",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 12,
+          "name": "Vladimir Tarnawski",
+          "pos": "POR",
+          "flag": "ar"
+        }
+      ]
+    },
+    {
+      "id": "millonarios",
+      "name": "Millonarios",
+      "flag": "co",
+      "dt": "Gabriel Ochoa Uribe",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Pablo Centurión",
+          "pos": "POR",
+          "flag": "py"
+        },
+        {
+          "no": 2,
+          "name": "Hernando Moyano",
+          "pos": "DEF",
+          "flag": "co"
+        },
+        {
+          "no": 3,
+          "name": "Francisco Zuluaga",
+          "pos": "DEF",
+          "flag": "co"
+        },
+        {
+          "no": 4,
+          "name": "Juan Gallego",
+          "pos": "DEF",
+          "flag": "co"
+        },
+        {
+          "no": 5,
+          "name": "Carlos Alberto Bolla",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 6,
+          "name": "Ricardo Díaz",
+          "pos": "MED",
+          "flag": "co"
+        },
+        {
+          "no": 7,
+          "name": "Rodolfo Micheli",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "name": "Orlando Larraz",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Rubén Pizarro",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "name": "Marino Klinger",
+          "pos": "DEL",
+          "flag": "co"
+        },
+        {
+          "no": 11,
+          "name": "Martín Alarcón",
+          "pos": "DEL",
+          "flag": "py"
+        },
+        {
+          "no": 12,
+          "name": "Campillo",
+          "pos": "DEL",
+          "flag": "co"
+        }
+      ]
+    },
+    {
+      "id": "universidad-de-chile",
+      "name": "Universidad de Chile",
+      "flag": "cl",
+      "dt": "Luis Álamos",
+      "squad": [
+        {
+          "no": 1,
+          "name": "René Pacheco",
+          "pos": "POR",
+          "flag": "cl"
+        },
+        {
+          "no": 2,
+          "name": "Luis Eyzaguirre",
+          "pos": "DEF",
+          "flag": "cl"
+        },
+        {
+          "no": 3,
+          "name": "Carlos Contreras",
+          "pos": "DEF",
+          "flag": "cl"
+        },
+        {
+          "no": 4,
+          "name": "Sergio Navarro",
+          "pos": "DEF",
+          "flag": "cl"
+        },
+        {
+          "no": 5,
+          "name": "Alfonso Sepúlveda",
+          "pos": "MED",
+          "flag": "cl"
+        },
+        {
+          "no": 6,
+          "name": "Braulio Musso",
+          "pos": "MED",
+          "flag": "cl"
+        },
+        {
+          "no": 7,
+          "name": "Ernesto Álvarez",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 8,
+          "name": "Carlos Campos",
+          "pos": "DEL",
+          "flag": "cl"
+        },
+        {
+          "no": 9,
+          "name": "Osvaldo Díaz",
+          "pos": "DEL",
+          "flag": "cl"
+        },
+        {
+          "no": 10,
+          "name": "Leonel Sánchez",
+          "pos": "DEL",
+          "flag": "cl"
+        },
+        {
+          "no": 11,
+          "name": "Luis Alfonso",
+          "pos": "DEL",
+          "flag": "cl"
+        }
+      ]
+    },
+    {
+      "id": "jorge-wilstermann",
+      "name": "Jorge Wilstermann",
+      "flag": "bo",
+      "dt": "Saúl Pinto",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Hernán Rico",
+          "pos": "POR",
+          "flag": "bo"
+        },
+        {
+          "no": 2,
+          "name": "Óscar Claure",
+          "pos": "DEF",
+          "flag": "bo"
+        },
+        {
+          "no": 3,
+          "name": "Wilfredo Villarroel",
+          "pos": "DEF",
+          "flag": "bo"
+        },
+        {
+          "no": 4,
+          "name": "José Trujillo",
+          "pos": "DEF",
+          "flag": "bo"
+        },
+        {
+          "no": 5,
+          "name": "José Carlos Trigo",
+          "pos": "MED",
+          "flag": "bo"
+        },
+        {
+          "no": 6,
+          "name": "César Sánchez",
+          "pos": "MED",
+          "flag": "bo"
+        },
+        {
+          "no": 7,
+          "name": "Máximo Alcántara",
+          "pos": "DEL",
+          "flag": "bo"
+        },
+        {
+          "no": 8,
+          "name": "Ausberto García",
+          "pos": "DEL",
+          "flag": "bo"
+        },
+        {
+          "no": 9,
+          "name": "Renán López",
+          "pos": "DEL",
+          "flag": "bo"
+        },
+        {
+          "no": 10,
+          "name": "Rómulo Cortez",
+          "pos": "DEL",
+          "flag": "bo"
+        },
+        {
+          "no": 11,
+          "name": "Arturo Soria",
+          "pos": "DEL",
+          "flag": "bo"
+        }
+      ]
+    },
+    {
+      "id": "bahia",
+      "name": "Bahia",
+      "flag": "br",
+      "dt": "Carlos Volante",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Nadinho",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "name": "Nenzinho",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "name": "Henrique",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Leone",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "name": "Flávio",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "name": "Beto",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Marito",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "name": "Mário",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "name": "Léo Briglia",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Alencar",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "name": "Biriba",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "name": "Carlito",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    }
+  ],
+  "bracket": {
+    "roundOf16": [],
+    "quarterFinals": [
+      {
+        "id1": "penarol",
+        "id2": "jorge-wilstermann",
+        "team1": "Peñarol",
+        "team2": "Jorge Wilstermann",
+        "country1": "uy",
+        "country2": "bo",
+        "score": "8-2",
+        "agg": "8-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "7-1",
+            "goals": [
+              "Borges x2",
+              "Cubilla",
+              "Spencer x4",
+              "Alcántara"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-1",
+            "goals": [
+              "García",
+              "Cubilla"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "san-lorenzo",
+        "id2": "bahia",
+        "team1": "San Lorenzo",
+        "team2": "Bahia",
+        "country1": "ar",
+        "country2": "br",
+        "score": "5-3",
+        "agg": "5-3",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "3-0",
+            "goals": [
+              "Rossi",
+              "Ruiz",
+              "Sanfilippo"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-3",
+            "goals": [
+              "Carlito",
+              "Flávio",
+              "Marito",
+              "Sanfilippo x2"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "universidad-de-chile",
+        "id2": "millonarios",
+        "team1": "U. de Chile",
+        "team2": "Millonarios",
+        "country1": "cl",
+        "country2": "co",
+        "score": "0-7",
+        "agg": "0-7",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-6",
+            "goals": [
+              "Klinger x2",
+              "Pizarro x2",
+              "Micheli",
+              "Larraz"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "0-1",
+            "goals": [
+              "Micheli"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "olimpia",
+        "id2": "bye",
+        "team1": "Olimpia",
+        "team2": "Libre",
+        "country1": "py",
+        "country2": "xx",
+        "score": "Walkover",
+        "details": []
+      }
+    ],
+    "semiFinals": [
+      {
+        "id1": "penarol",
+        "id2": "san-lorenzo",
+        "team1": "Peñarol",
+        "team2": "San Lorenzo",
+        "country1": "uy",
+        "country2": "ar",
+        "score": "3-2",
+        "agg": "3-2",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "1-1",
+            "goals": [
+              "Linazza",
+              "Boggio"
+            ]
+          },
+          {
+            "leg": "Vuelta",
+            "score": "2-1",
+            "goals": [
+              "Spencer x2",
+              "Sanfilippo"
+            ]
+          },
+          {
+            "leg": "Desempate",
+            "score": "0-0",
+            "goals": [
+              "No se jugó, pasó Peñarol"
+            ]
+          }
+        ]
+      },
+      {
+        "id1": "millonarios",
+        "id2": "olimpia",
+        "team1": "Millonarios",
+        "team2": "Olimpia",
+        "country1": "co",
+        "country2": "py",
+        "score": "1-5",
+        "agg": "1-5",
+        "details": [
+          {
+            "leg": "Ida",
+            "score": "0-0",
+            "goals": []
+          },
+          {
+            "leg": "Vuelta",
+            "score": "1-5",
+            "goals": [
+              "Doldán x2",
+              "Melgarejo",
+              "Recalde",
+              "Noriega",
+              "Pizarro"
+            ]
+          }
+        ]
+      }
+    ],
+    "final": {
+      "id1": "penarol",
+      "id2": "olimpia",
+      "team1": "Peñarol",
+      "team2": "Olimpia",
+      "country1": "uy",
+      "country2": "py",
+      "score": "2-1",
+      "agg": "2-1",
+      "details": [
+        {
+          "leg": "Ida",
+          "score": "1-0",
+          "goals": [
+            "Spencer"
+          ]
+        },
+        {
+          "leg": "Vuelta",
+          "score": "1-1",
+          "goals": [
+            "Recalde",
+            "Cubilla"
+          ]
+        }
+      ]
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Alberto Spencer",
+        "flag": "ec",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 7
+      },
+      {
+        "name": "José Sanfilippo",
+        "flag": "ar",
+        "clubId": "san-lorenzo-de-almagro",
+        "value": 4
+      },
+      {
+        "name": "Luis Cubilla",
+        "flag": "uy",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 3
+      },
+      {
+        "name": "Rubén Pizarro",
+        "flag": "ar",
+        "clubId": "/escudos/colombia/millonarios/millonarios.svg",
+        "value": 3
+      },
+      {
+        "name": "Marino Klinger",
+        "flag": "co",
+        "clubId": "/escudos/colombia/millonarios/millonarios.svg",
+        "value": 2
+      },
+      {
+        "name": "Carlos Borges",
+        "flag": "uy",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 2
+      },
+      {
+        "name": "Rodolfo Micheli",
+        "flag": "ar",
+        "clubId": "/escudos/colombia/millonarios/millonarios.svg",
+        "value": 2
+      },
+      {
+        "name": "Luis Doldán",
+        "flag": "py",
+        "clubId": "/escudos/paraguay/olimpia/olimpia.svg",
+        "value": 2
+      },
+      {
+        "name": "Hipólito Recalde",
+        "flag": "py",
+        "clubId": "/escudos/paraguay/olimpia/olimpia.svg",
+        "value": 2
+      }
+    ],
+    "assists": [
+      {
+        "name": "Carlos Borges",
+        "flag": "uy",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 2
+      },
+      {
+        "name": "Luis Cubilla",
+        "flag": "uy",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 2
+      },
+      {
+        "name": "Marino Klinger",
+        "flag": "co",
+        "clubId": "/escudos/colombia/millonarios/millonarios.svg",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "portugal",
+  "nombre_oficial": "Primeira Liga",
+  "nombre_completo": "Primeira Liga",
+  "pais": "Portugal",
+  "confederacion": "UEFA",
+  "fundacion": "1934",
+  "organizador": "Liga Portugal",
+  "sitio_web": "https://www.ligaportugal.pt/",
+  "descripcion_corta": "La máxima categoría del sistema de ligas de fútbol de Portugal.",
+  "historia": [
+    {
+      "periodo": "1934-Presente",
+      "descripcion": "El campeonato se ha disputado de forma ininterrumpida desde 1934. Históricamente dominada por 'Os Três Grandes' (Benfica, Porto y Sporting CP), que han ganado la inmensa mayoría de los títulos."
+    }
+  ],
+  "formatos_historicos": [
+    {
+      "epoca": "Actualidad",
+      "formato": "18 equipos. Formato de liga de doble vuelta (34 fechas). Los dos últimos descienden directo a la Liga Portugal 2, el puesto 16 juega repechaje."
+    }
+  ],
+  "clubes": [
+    "benfica",
+    "porto",
+    "sporting-cp",
+    "braga",
+    "vitoria-guimaraes",
+    "boavista",
+    "famalicao",
+    "gil-vicente",
+    "estoril-praia",
+    "casa-pia",
+    "farense",
+    "rio-ave",
+    "moreirense",
+    "arouca",
+    "estrela-amadora",
+    "nacional",
+    "santa-clara",
+    "avs"
+  ],
+  "clasicos": [
+    {
+      "nombre": "O Clássico",
+      "equipo1": "Benfica",
+      "equipo2": "FC Porto",
+      "descripcion": "La mayor rivalidad de Portugal, enfrentando a los clubes más laureados de las dos ciudades más importantes del país (Lisboa y Oporto)."
+    },
+    {
+      "nombre": "Dérbi de Lisboa",
+      "equipo1": "Benfica",
+      "equipo2": "Sporting CP",
+      "descripcion": "El clásico de la capital portuguesa, que divide a Lisboa en dos desde principios del siglo XX."
+    },
+    {
+      "nombre": "Dérbi do Porto",
+      "equipo1": "FC Porto",
+      "equipo2": "Boavista",
+      "descripcion": "La rivalidad principal de la ciudad de Oporto."
+    }
+  ]
+}

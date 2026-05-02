@@ -1,0 +1,260 @@
+{
+  "year": 1960,
+  "champion": "real-madrid",
+  "runnerUp": "penarol",
+  "participants": [
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "flag": "es",
+      "dt": "Miguel Muñoz",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Rogelio Domínguez",
+          "pos": "POR",
+          "flag": "ar"
+        },
+        {
+          "no": 2,
+          "name": "José Santamaría",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "name": "Marquitos",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "name": "Pachín",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 5,
+          "name": "José María Vidal",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 6,
+          "name": "José María Zárraga",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 7,
+          "name": "Luis del Sol",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "name": "Chus Pereda",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 9,
+          "name": "Alfredo Di Stéfano",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 10,
+          "name": "Ferenc Puskás",
+          "pos": "DEL",
+          "flag": "hu"
+        },
+        {
+          "no": 11,
+          "name": "Francisco Gento",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 12,
+          "name": "José Manuel Herrera",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 13,
+          "name": "José María Ruiz",
+          "pos": "DEL",
+          "flag": "es"
+        }
+      ]
+    },
+    {
+      "id": "penarol",
+      "name": "Peñarol",
+      "flag": "uy",
+      "dt": "Roberto Scarone",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Luis Maidana",
+          "pos": "POR",
+          "flag": "uy"
+        },
+        {
+          "no": 2,
+          "name": "William Martínez",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 3,
+          "name": "Salvador",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Santiago Pino",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 5,
+          "name": "Néstor Gonçalves",
+          "pos": "MED",
+          "flag": "uy"
+        },
+        {
+          "no": 6,
+          "name": "Walter Aguerre",
+          "pos": "MED",
+          "flag": "uy"
+        },
+        {
+          "no": 7,
+          "name": "Luis Cubilla",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 8,
+          "name": "Carlos Linazza",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Alberto Spencer",
+          "pos": "DEL",
+          "flag": "ec"
+        },
+        {
+          "no": 10,
+          "name": "Juan E. Hohberg",
+          "pos": "DEL",
+          "flag": "ar"
+        },
+        {
+          "no": 11,
+          "name": "Carlos Borges",
+          "pos": "DEL",
+          "flag": "uy"
+        },
+        {
+          "no": 12,
+          "name": "Francisco Majewski",
+          "pos": "DEF",
+          "flag": "uy"
+        },
+        {
+          "no": 13,
+          "name": "José Griecco",
+          "pos": "DEL",
+          "flag": "uy"
+        }
+      ]
+    }
+  ],
+  "bracket": {
+    "roundOf16": [],
+    "quarterFinals": [],
+    "semiFinals": [],
+    "final": {
+      "id1": "real-madrid",
+      "id2": "penarol",
+      "team1": "Real Madrid",
+      "team2": "Peñarol",
+      "country1": "es",
+      "country2": "uy",
+      "score": "5-1",
+      "agg": "5-1",
+      "details": [
+        {
+          "leg": "Ida",
+          "score": "0-0",
+          "goals": []
+        },
+        {
+          "leg": "Vuelta",
+          "score": "5-1",
+          "goals": [
+            "Puskás x2",
+            "Di Stéfano",
+            "Herrera",
+            "Gento",
+            "Spencer (PEÑ)"
+          ]
+        }
+      ]
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Ferenc Puskás",
+        "flag": "hu",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 2
+      },
+      {
+        "name": "Alfredo Di Stéfano",
+        "flag": "ar",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 1
+      },
+      {
+        "name": "José Manuel Herrera",
+        "flag": "es",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 1
+      },
+      {
+        "name": "Francisco Gento",
+        "flag": "es",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 1
+      },
+      {
+        "name": "Alberto Spencer",
+        "flag": "ec",
+        "clubId": "/escudos/uruguay/penarol/Escudo-penarol-2015actual.webp",
+        "value": 1
+      }
+    ],
+    "assists": [
+      {
+        "name": "Luis del Sol",
+        "flag": "es",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 2
+      },
+      {
+        "name": "Alfredo Di Stéfano",
+        "flag": "ar",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 1
+      }
+    ]
+  }
+}

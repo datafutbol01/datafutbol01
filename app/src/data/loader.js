@@ -11,6 +11,7 @@ const escociaModules = import.meta.glob('./clubes/escocia/*.json', { eager: true
 const uruguayModules = import.meta.glob('./clubes/uruguay/*.json', { eager: true });
 const brasilModules = import.meta.glob('./clubes/brasil/*.json', { eager: true });
 const paisesBajosModules = import.meta.glob('./clubes/paises_bajos/*.json', { eager: true });
+const portugalModules = import.meta.glob('./clubes/portugal/*.json', { eager: true });
 // Vite reload trigger
 import CryptoJS from 'crypto-js';
 
@@ -44,7 +45,7 @@ export const getLeagues = () => {
     { id: 'eng_championship', name: 'EFL Championship', country: 'Inglaterra', flag: '', color: '#3d195b', shield: 'https://media.api-sports.io/football/leagues/40.png', isHidden: true },
     { id: 'fra_ligue_2', name: 'Ligue 2 BKT', country: 'Francia', flag: '', color: '#dae025', shield: 'https://media.api-sports.io/football/leagues/62.png', isHidden: true },
     { id: 'ger_2_bundesliga', name: '2. Bundesliga', country: 'Alemania', flag: '', color: '#d3010c', shield: 'https://media.api-sports.io/football/leagues/79.png', isHidden: true },
-    { id: 'por_primeira', name: 'Primeira Liga', country: 'Portugal', flag: '', color: '#002664', shield: 'https://media.api-sports.io/football/leagues/94.png', isHidden: true },
+    { id: 'por_primeira', name: 'Primeira Liga', country: 'Portugal', flag: '', color: '#002664', shield: 'https://media.api-sports.io/football/leagues/94.png', isHidden: false },
     { id: 'ita_serie_b', name: 'Serie B', country: 'Italia', flag: '', color: '#008f39', shield: 'https://media.api-sports.io/football/leagues/136.png', isHidden: true },
     { id: 'bel_pro_league', name: 'Jupiler Pro League', country: 'Bélgica', flag: '', color: '#ff0000', shield: 'https://media.api-sports.io/football/leagues/144.png', isHidden: true },
     { id: 'esp_segunda', name: 'LaLiga 2', country: 'España', flag: '', color: '#ee2413', shield: 'https://media.api-sports.io/football/leagues/141.png', isHidden: true },
@@ -90,6 +91,8 @@ export const getClubsByLeague = (leagueId) => {
     clubs = Object.values(brasilModules).map(readData);
   } else if (leagueId === 'paises_bajos') {
     clubs = Object.values(paisesBajosModules).map(readData);
+  } else if (leagueId === 'por_primeira' || leagueId === 'portugal') {
+    clubs = Object.values(portugalModules).map(readData);
   }
 
   return clubs.sort((a, b) => {

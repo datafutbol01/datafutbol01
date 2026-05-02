@@ -16,6 +16,10 @@ const DatoDelDia = () => {
     // Buscar en el JSON. Si no hay efeméride para hoy, usamos un dato genérico aleatorio o mostramos nada.
     const efemerides = readData(rawEfemerides);
     const dato = efemerides[fechaClave] || "¿Sabías que en DataFútbol podés consultar historiales completos, campañas de equipos campeones y estadísticas de jugadores desde la era amateur hasta la actualidad?";
+    
+    console.log(`[DatoDelDia] Fecha detectada: ${fechaClave}`);
+    console.log(`[DatoDelDia] ¿Existe efeméride para hoy?: ${!!efemerides[fechaClave]}`);
+    
     setDatoHoy(dato);
   }, []);
 

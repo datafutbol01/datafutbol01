@@ -1,8 +1,10 @@
+// Forzar HMR para registrar plantillas REALES de TODOS los equipos Supercopa 1989
 import { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronLeft, ChevronRight, Trophy, Globe2, AlertCircle, ArrowLeft, Users, Shield } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { ChevronLeft, ChevronRight, Trophy, Globe2, AlertCircle, ArrowLeft, Users, Shield, Swords, Earth, Sun, Star } from 'lucide-react';
+import { Link, useParams, useNavigate } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs';
+import SEO from '../components/SEO';
 import CryptoJS from 'crypto-js';
 
 const getFlagUrl = (flag, size = 'w20') => {
@@ -80,22 +82,67 @@ const renderMatch = (m, isFinal = false, titleOverride = null, getTeamFlag = nul
 };
 
 export default function ChampionsHub() {
-    const seasons = [
-        { year: 1956, host: 'París' },
-        { year: 1994, host: 'Atenas' },
-        { year: 1995, host: 'Viena' },
-        { year: 1996, host: 'Roma' },
-        { year: 1997, host: 'Múnich' },
-        { year: 1998, host: 'Ámsterdam' },
-        { year: 1999, host: 'Barcelona' },
-        { year: 2000, host: 'París' },
-        { year: 2001, host: 'Milán' },
-        { year: 2002, host: 'Glasgow' },
-        { year: 2003, host: 'Mánchester' },
-        { year: 2004, host: 'Gelsenkirchen' }
+    const tournaments = [
+        { id: 'champions', name: 'Champions League', icon: Trophy, color: 'var(--accent-gold)', desc: 'El archivo definitivo del torneo de clubes más importante de Europa.' },
+        { id: 'europa_league', name: 'Europa League', icon: Shield, color: '#f97316', desc: 'La mítica Copa de la UEFA y actual Europa League.' },
+        { id: 'conference_league', name: 'Conference League', icon: Star, color: '#22c55e', desc: 'El certamen que coronó a los nuevos campeones europeos.' },
+        { id: 'intertoto', name: 'Copa Intertoto', icon: Sun, color: '#eab308', desc: 'El torneo de verano que clasificaba a las competencias mayores.' },
+        { id: 'libertadores', name: 'Copa Libertadores', icon: Globe2, color: '#38bdf8', desc: 'La gloria máxima de Sudamérica, documentada a la perfección.' },
+        { id: 'intercontinental', name: 'Copa Intercontinental', icon: Swords, color: '#ff4b4b', desc: 'El choque de mundos: el campeón de Europa contra el campeón de América.' },
+        { id: 'mundial-clubes', name: 'Mundial de Clubes', icon: Earth, color: '#fbbf24', desc: 'El torneo definitivo de la FIFA que corona al mejor equipo del planeta.' },
+        { id: 'supercopa_sudamericana', name: 'Supercopa Sudamericana', icon: Shield, color: '#3b82f6', desc: 'La histórica competición que reunía a todos los campeones de la Libertadores.' }
     ];
 
+    const allSeasons = {
+        'champions': [
+            { year: 1956, host: 'París' },
+            { year: 1957, host: 'Madrid' },
+            { year: 1994, host: 'Atenas' },
+            { year: 1995, host: 'Viena' },
+            { year: 1996, host: 'Roma' },
+            { year: 1997, host: 'Múnich' },
+            { year: 1998, host: 'Ámsterdam' },
+            { year: 1999, host: 'Barcelona' },
+            { year: 2000, host: 'París' },
+            { year: 2001, host: 'Milán' },
+            { year: 2002, host: 'Glasgow' },
+            { year: 2003, host: 'Mánchester' },
+            { year: 2004, host: 'Gelsenkirchen' }
+        ],
+        'europa_league': [],
+        'conference_league': [
+            { year: 2022, host: 'Tirana' }
+        ],
+        'intertoto': [],
+        'libertadores': [
+            { year: 1960, host: 'Ida y Vuelta' }
+        ],
+        'intercontinental': [
+            { year: 1960, host: 'Ida y Vuelta' }
+        ],
+        'mundial-clubes': [
+            { year: 2000, host: 'Brasil' }
+        ],
+        'supercopa_sudamericana': [
+            { year: 1988, host: 'Ida y Vuelta' },
+            { year: 1989, host: 'Ida y Vuelta' }
+        ]
+    };
+
+    const { torneo } = useParams();
+    const navigate = useNavigate();
+    const [selectedTournament, setSelectedTournament] = useState(torneo || 'champions');
+    
+    // Update tournament if URL changes
+    useEffect(() => {
+        if (torneo && torneo !== selectedTournament) {
+            setSelectedTournament(torneo);
+            setSelectedYear(null);
+        }
+    }, [torneo]);
+
     const [selectedYear, setSelectedYear] = useState(null);
+    const seasons = allSeasons[selectedTournament] || [];
     const [activeTab, setActiveTab] = useState('participantes');
     const [wcData, setWcData] = useState(null);
     const [isLoading, setIsLoading] = useState(false);
@@ -130,20 +177,49 @@ export default function ChampionsHub() {
         }
 
         let importPromise;
-        switch (selectedYear) {
-            case 1956: importPromise = import('../data/copas/champions/1956.json'); break;
-            case 1994: importPromise = import('../data/copas/champions/1994.json'); break;
-            case 1995: importPromise = import('../data/copas/champions/1995.json'); break;
-            case 1996: importPromise = import('../data/copas/champions/1996.json'); break;
-            case 1997: importPromise = import('../data/copas/champions/1997.json'); break;
-            case 1998: importPromise = import('../data/copas/champions/1998.json'); break;
-            case 1999: importPromise = import('../data/copas/champions/1999.json'); break;
-            case 2000: importPromise = import('../data/copas/champions/2000.json'); break;
-            case 2001: importPromise = import('../data/copas/champions/2001.json'); break;
-            case 2002: importPromise = import('../data/copas/champions/2002.json'); break;
-            case 2003: importPromise = import('../data/copas/champions/2003.json'); break;
-            case 2004: importPromise = import('../data/copas/champions/2004.json'); break;
-            default: importPromise = Promise.reject(new Error('Año no soportado'));
+        if (selectedTournament === 'champions') {
+            switch (selectedYear) {
+                case 1956: importPromise = import('../data/copas/champions/1956.json'); break;
+                case 1957: importPromise = import('../data/copas/champions/1957.json'); break;
+                case 1994: importPromise = import('../data/copas/champions/1994.json'); break;
+                case 1995: importPromise = import('../data/copas/champions/1995.json'); break;
+                case 1996: importPromise = import('../data/copas/champions/1996.json'); break;
+                case 1997: importPromise = import('../data/copas/champions/1997.json'); break;
+                case 1998: importPromise = import('../data/copas/champions/1998.json'); break;
+                case 1999: importPromise = import('../data/copas/champions/1999.json'); break;
+                case 2000: importPromise = import('../data/copas/champions/2000.json'); break;
+                case 2001: importPromise = import('../data/copas/champions/2001.json'); break;
+                case 2002: importPromise = import('../data/copas/champions/2002.json'); break;
+                case 2003: importPromise = import('../data/copas/champions/2003.json'); break;
+                case 2004: importPromise = import('../data/copas/champions/2004.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
+        } else if (selectedTournament === 'libertadores') {
+            switch (selectedYear) {
+                case 1960: importPromise = import('../data/copas/libertadores/1960.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
+        } else if (selectedTournament === 'intercontinental') {
+            switch (selectedYear) {
+                case 1960: importPromise = import('../data/copas/intercontinental/1960.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
+        } else if (selectedTournament === 'mundial-clubes') {
+            switch (selectedYear) {
+                case 2000: importPromise = import('../data/copas/mundial-clubes/2000.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
+        } else if (selectedTournament === 'conference_league') {
+            switch (selectedYear) {
+                case 2022: importPromise = import('../data/copas/conference_league/2022.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
+        } else if (selectedTournament === 'supercopa_sudamericana') {
+            switch (selectedYear) {
+                case 1988: importPromise = import('../data/copas/supercopa_sudamericana/1988.json'); break;
+                case 1989: importPromise = import('../data/copas/supercopa_sudamericana/1989.json'); break;
+                default: importPromise = Promise.reject(new Error('Año no soportado'));
+            }
         }
 
         importPromise
@@ -187,6 +263,9 @@ export default function ChampionsHub() {
     };
 
     const currentWc = seasons.find(w => w.year === selectedYear);
+    
+    const tournamentConfig = tournaments.find(t => t.id === selectedTournament) || tournaments[0];
+    const TournamentIcon = tournamentConfig.icon;
 
     const getTeamFlag = (teamId) => {
         if (!wcData || !wcData.participants) return null;
@@ -200,6 +279,17 @@ export default function ChampionsHub() {
 
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
+            <SEO 
+                title={selectedYear ? `${tournamentConfig.name} ${selectedYear} - DataFútbol` : `Historia de ${tournamentConfig.name} - DataFútbol`}
+                description={selectedYear ? `Repasá todos los datos, planteles y estadísticas de la ${tournamentConfig.name} ${selectedYear}.` : tournamentConfig.desc}
+                schemaData={{
+                    "@context": "https://schema.org",
+                    "@type": "SportsEvent",
+                    "name": selectedYear ? `${tournamentConfig.name} ${selectedYear}` : tournamentConfig.name,
+                    "description": tournamentConfig.desc,
+                    "url": `https://datafutbol.app/copas/${selectedTournament}`
+                }}
+            />
 
             {bgImage && (
                 <div style={{
@@ -250,20 +340,24 @@ export default function ChampionsHub() {
 
             <div style={{ position: 'relative', zIndex: 100, marginBottom: '2rem' }}>
                 <Breadcrumbs 
-                    paths={[{ name: 'Champions League' }]} 
-                    onBack={() => { window.location.href = '/'; }} 
+                    paths={[
+                        { name: 'Historia de las Copas', url: '/copas' },
+                        { name: tournamentConfig.name }
+                    ]} 
+                    onBack={() => { navigate('/copas'); }} 
                 />
             </div>
 
             <div style={{ textAlign: coverImage ? 'left' : 'center', marginBottom: '2rem', padding: coverImage ? '0 0.5rem' : '0 2rem' }}>
                 <h1 className="title-font animate-fade-in" style={{ fontSize: coverImage ? '2.5rem' : '3.5rem', color: 'white', display: 'flex', alignItems: 'center', justifyContent: coverImage ? 'flex-start' : 'center', gap: '1rem', flexWrap: 'wrap' }}>
-                    <Trophy size={coverImage ? 32 : 40} color="var(--accent-gold)" />
-                    CHAMPIONS LEAGUE
+                    <TournamentIcon size={coverImage ? 32 : 40} color={tournamentConfig.color} />
+                    {tournamentConfig.name.toUpperCase()}
                 </h1>
                 <p style={{ color: 'var(--text-muted)', fontSize: coverImage ? '1rem' : '1.2rem', maxWidth: '800px', margin: coverImage ? '0' : '0 auto', fontWeight: '300' }}>
-                    El archivo definitivo del torneo de clubes más importante de Europa.
+                    {tournamentConfig.desc}
                 </p>
             </div>
+
 
             <div className="glass-panel animate-fade-in" style={{ margin: coverImage ? '0 0.5rem 2rem' : '0 2rem 3rem', padding: '0', borderRadius: '16px', overflow: 'hidden', display: 'flex', alignItems: 'center' }}>
                 <button onClick={() => scrollNav('left')} style={{ background: 'rgba(0,0,0,0.4)', border: 'none', color: 'var(--accent-gold)', padding: '1.5rem 1rem', cursor: 'pointer', zIndex: 10 }}>
@@ -345,7 +439,7 @@ export default function ChampionsHub() {
                             <div style={{ padding: '0 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '-1rem' }}>
                                 <div style={{ position: 'relative', zIndex: 2 }}>
                                     <h2 className="title-font" style={{ fontSize: '4rem', margin: 0, display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1rem', textShadow: '0 4px 15px rgba(0,0,0,0.8)' }}>
-                                        <span style={{ color: 'var(--accent-gold)' }}>CHAMPIONS LEAGUE</span> {selectedYear}
+                                        <span style={{ color: 'var(--accent-gold)' }}>{(wcData?.cup || selectedTournament.replace('_', ' ')).toUpperCase()}</span> {selectedYear}
                                     </h2>
                                 </div>
                             </div>
@@ -362,6 +456,15 @@ export default function ChampionsHub() {
                                     >
                                         1. Equipos Participantes
                                     </button>
+
+                                    {wcData && wcData.ronda_preliminar && wcData.ronda_preliminar.length > 0 && (
+                                        <button
+                                            onClick={() => { setActiveTab('preliminar'); setSelectedTeam(null); }}
+                                            style={{ textAlign: 'left', padding: '1rem', background: activeTab === 'preliminar' ? 'rgba(251, 191, 36, 0.1)' : 'rgba(255,255,255,0.05)', color: activeTab === 'preliminar' ? 'var(--accent-gold)' : 'white', border: `1px solid ${activeTab === 'preliminar' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)'}`, borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s' }}
+                                        >
+                                            Fase Previa
+                                        </button>
+                                    )}
 
                                     {wcData && wcData.groups && Object.keys(wcData.groups || {}).length > 0 && (
                                         <button
@@ -559,6 +662,21 @@ export default function ChampionsHub() {
                                                                         </motion.div>
                                                                     )}
                                                                 </AnimatePresence>
+                                                            </div>
+                                                        ))}
+                                                    </div>
+                                                </motion.div>
+                                            )}
+
+                                            {activeTab === 'preliminar' && wcData.ronda_preliminar && (
+                                                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+                                                    <h3 className="title-font" style={{ fontSize: '2rem', color: 'white', marginBottom: '2rem', borderBottom: '2px solid var(--accent-gold)', paddingBottom: '0.5rem', display: 'inline-block' }}>
+                                                        Fase Previa
+                                                    </h3>
+                                                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem' }}>
+                                                        {wcData.ronda_preliminar.map((m, idx) => (
+                                                            <div key={idx}>
+                                                                {renderMatch(m, false, null, getTeamFlag)}
                                                             </div>
                                                         ))}
                                                     </div>
@@ -859,7 +977,7 @@ export default function ChampionsHub() {
                                                         </div>
                                                     ) : (
                                                         <div className="glass-panel hide-scrollbar" style={{ padding: '2rem', borderRadius: '16px', background: 'rgba(255,255,255,0.02)', border: '1px solid rgba(255,255,255,0.05)', overflowX: 'auto', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
-                                                            <div style={{ display: 'flex', justifyContent: 'flex-start', gap: '1.5rem', minWidth: '1000px' }}>
+                                                            <div style={{ display: 'flex', justifyContent: (!wcData.bracket.roundOf16?.length && !wcData.bracket.quarterFinals?.length && !wcData.bracket.semiFinals?.length) ? 'center' : 'flex-start', gap: '1.5rem', minWidth: (!wcData.bracket.roundOf16?.length && !wcData.bracket.quarterFinals?.length && !wcData.bracket.semiFinals?.length) ? '100%' : '1000px' }}>
                                                                 {/* COL 1: Octavos */}
                                                                 {wcData.bracket.roundOf16 && wcData.bracket?.roundOf16?.length > 0 && (
                                                                     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-around', gap: '1rem', width: '220px', position: 'relative' }}>
@@ -882,7 +1000,7 @@ export default function ChampionsHub() {
                                                                 )}
 
                                                                 {/* COL 4: FINAL & 3er Puesto */}
-                                                                <div style={{ display: 'flex', flexDirection: 'column', width: '320px', position: 'relative' }}>
+                                                                <div style={{ display: 'flex', flexDirection: 'column', width: '320px', position: 'relative', minHeight: (!wcData.bracket.roundOf16?.length && !wcData.bracket.quarterFinals?.length && !wcData.bracket.semiFinals?.length) ? '400px' : 'auto' }}>
                                                                     {/* The final takes up the flex space to perfectly center against the semis */}
                                                                     <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
                                                                         {renderMatch(wcData.bracket.final, true, null, getTeamFlag)}

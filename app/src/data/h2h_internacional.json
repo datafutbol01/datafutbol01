@@ -1,0 +1,9826 @@
+{
+  "sporting-cp": {
+    "partizan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 8
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "lierse": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "bayer-leverkusen": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 0,
+      "pp": 3,
+      "gf": 3,
+      "gc": 9
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "spartak-moscow": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "partizan": {
+    "sporting-cp": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 5
+    },
+    "real-madrid": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 3,
+      "gc": 5
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "anorthosis": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "flora": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "gent": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 8
+    },
+    "sparta-praha": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    }
+  },
+  "mtk-budapest": {
+    "anderlecht": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 10,
+      "gc": 4
+    },
+    "stade-de-reims": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 6,
+      "gc": 8
+    }
+  },
+  "anderlecht": {
+    "mtk-budapest": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 4,
+      "gc": 10
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "werder-bremen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 4,
+      "gc": 7
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    },
+    "sparta-praha": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "benfica": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "hajduk-split": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "manchester-united": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "dynamo-kyiv": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 6
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 6
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "servette": {
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 7
+    }
+  },
+  "real-madrid": {
+    "servette": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 0
+    },
+    "partizan": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "stade-de-reims": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "rapid-wien": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 7,
+      "gc": 5
+    },
+    "nice": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 2
+    },
+    "manchester-united": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 11,
+      "gc": 8
+    },
+    "fiorentina": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "grasshopper": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "ferencvaros": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 2
+    },
+    "juventus": {
+      "pj": 5,
+      "pg": 3,
+      "pe": 0,
+      "pp": 2,
+      "gf": 5,
+      "gc": 6
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "olympiacos": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 2,
+      "pp": 0,
+      "gf": 8,
+      "gc": 4
+    },
+    "porto": {
+      "pj": 5,
+      "pg": 4,
+      "pe": 1,
+      "pp": 0,
+      "gf": 13,
+      "gc": 3
+    },
+    "bayer-leverkusen": {
+      "pj": 5,
+      "pg": 4,
+      "pe": 1,
+      "pp": 0,
+      "gf": 14,
+      "gc": 7
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "inter-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "spartak-moscow": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "sturm-graz": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 11,
+      "gc": 2
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "molde": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "bayern-munich": {
+      "pj": 8,
+      "pg": 2,
+      "pe": 1,
+      "pp": 5,
+      "gf": 8,
+      "gc": 9
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "sporting-cp": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "roma": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 6,
+      "gc": 3
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "genk": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 1
+    },
+    "ae-athens": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 5,
+      "gc": 5
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 3
+    },
+    "penarol": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "al-nassr": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "corinthians": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "raja-casablanca": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "necaxa": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "rot-weiss-essen": {
+    "hibernian": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "hibernian": {
+    "rot-weiss-essen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "djurgarden": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "stade-de-reims": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "djurgarden": {
+    "gwardia-warszawa": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "hibernian": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "gwardia-warszawa": {
+    "djurgarden": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "agf-aarhus": {
+    "stade-de-reims": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "stade-de-reims": {
+    "agf-aarhus": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "mtk-budapest": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 6
+    },
+    "hibernian": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "rapid-wien": {
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 8
+    },
+    "real-madrid": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 5,
+      "gc": 7
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 6
+    },
+    "vitesse": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "psv": {
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 6
+    },
+    "dynamo-kyiv": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "newcastle": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "benfica": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "kaiserslautern": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "bayern-munich": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "rangers": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "manchester-united": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "aek": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 4
+    },
+    "leicester-city": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "maccabi-tel-aviv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    }
+  },
+  "ac-milan": {
+    "saarbrucken": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 7,
+      "gc": 5
+    },
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 3
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "besiktas": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "leeds-united": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "lens": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "deportivo-la-coruna": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 0,
+      "pp": 1,
+      "gf": 13,
+      "gc": 3
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "ajax": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "celta": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "brujas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "sparta-praga": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "saarbrucken": {
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 7
+    }
+  },
+  "manchester-united": {
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "athletic-bilbao": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 5
+    },
+    "real-madrid": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 8,
+      "gc": 11
+    },
+    "honved": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 3,
+      "pp": 0,
+      "gf": 7,
+      "gc": 3
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 6
+    },
+    "anderlecht": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "lille": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "deportivo-la-coruna": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 8,
+      "gc": 7
+    },
+    "olympiacos": {
+      "pj": 4,
+      "pg": 4,
+      "pe": 0,
+      "pp": 0,
+      "gf": 12,
+      "gc": 2
+    },
+    "bayer-leverkusen": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 2,
+      "pp": 0,
+      "gf": 7,
+      "gc": 4
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    },
+    "stuttgart": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "necaxa": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "vasco-da-gama": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "south-melbourne": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    }
+  },
+  "borussia-dortmund": {
+    "manchester-united": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "boavista": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    }
+  },
+  "cdna-sofia": {
+    "dinamo-bucarest": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 10,
+      "gc": 4
+    },
+    "red-star": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "dinamo-bucarest": {
+    "cdna-sofia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 10
+    }
+  },
+  "rangers": {
+    "nice": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 4,
+      "gc": 6
+    },
+    "levski-sofia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 8
+    },
+    "grasshopper": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "bayern-munich": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "psv": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "sturm-graz": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 0
+    },
+    "monaco": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "galatasaray": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "stuttgart": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    }
+  },
+  "nice": {
+    "rangers": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 4
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 6
+    }
+  },
+  "slovan-bratislava": {
+    "grasshopper": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    },
+    "paok": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "lincoln-red-imps": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    }
+  },
+  "grasshopper": {
+    "slovan-bratislava": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "fiorentina": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "ferencvaros": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 6
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "ajax": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "rapid-jc": {
+    "red-star": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 6
+    }
+  },
+  "red-star": {
+    "rapid-jc": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "cdna-sofia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "fiorentina": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "fiorentina": {
+    "norrkoeping": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "grasshopper": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "red-star": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "arsenal": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 7
+    }
+  },
+  "norrkoeping": {
+    "fiorentina": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "athletic-bilbao": {
+    "honved": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 5
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 6
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "honved": {
+    "athletic-bilbao": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 6
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 5
+    }
+  },
+  "monaco": {
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 7,
+      "gc": 3
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "aek-athens": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "sporting-cp": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 2
+    },
+    "lierse": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 6
+    },
+    "rangers": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "aek": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 8,
+      "gc": 4
+    },
+    "porto": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "lokomotiv-moscu": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 7
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    }
+  },
+  "spartak-moscow": {
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 7
+    },
+    "skonto": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 9,
+      "gc": 0
+    },
+    "lech-poznan": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 2
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "psg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 6
+    },
+    "bayern-munich": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 2,
+      "pp": 2,
+      "gf": 5,
+      "gc": 11
+    },
+    "blackburn": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "legia-warsaw": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 3
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "sturm-graz": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "real-madrid": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 4
+    },
+    "inter-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "willem-ii": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "sparta-prague": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 2,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "bordeaux": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "bayer-leverkusen": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "sporting-cp": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 8
+    }
+  },
+  "galatasaray": {
+    "barcelona": {
+      "pj": 6,
+      "pg": 1,
+      "pe": 1,
+      "pp": 4,
+      "gf": 4,
+      "gc": 11
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "monaco": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 7
+    },
+    "cork-city": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "manchester-united": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 3,
+      "pp": 1,
+      "gf": 3,
+      "gc": 7
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 2
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    },
+    "parma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "sparta-prague": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "juventus": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 2,
+      "pp": 1,
+      "gf": 6,
+      "gc": 5
+    },
+    "athletic-bilbao": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "hertha-bsc": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "chelsea": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "sturm-graz": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "rangers": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "club-brugge": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "real-sociedad": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "barcelona": {
+    "galatasaray": {
+      "pj": 6,
+      "pg": 4,
+      "pe": 1,
+      "pp": 1,
+      "gf": 11,
+      "gc": 4
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 3
+    },
+    "porto": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "dynamo-kyiv": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 0,
+      "pp": 3,
+      "gf": 5,
+      "gc": 11
+    },
+    "austria-wien": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 2
+    },
+    "psg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "newcastle": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 6,
+      "gc": 6
+    },
+    "brondby": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "aik": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "fiorentina": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 5
+    },
+    "arsenal": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 4
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "leeds-united": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "besiktas": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "club-brugge": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "milan": {
+    "anderlecht": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "werder-bremen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "monaco": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "aarau": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 0
+    },
+    "ajax": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 0,
+      "pp": 3,
+      "gf": 0,
+      "gc": 5
+    },
+    "salzburg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "aek": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "benfica": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "psg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "chelsea": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "galatasaray": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "hertha-bsc": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "werder-bremen": {
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 4
+    },
+    "dinamo-minsk": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "levski-sofia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "porto": {
+    "werder-bremen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "floriana": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "aalborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 6,
+      "pg": 4,
+      "pe": 1,
+      "pp": 1,
+      "gf": 8,
+      "gc": 4
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "olympiacos": {
+      "pj": 5,
+      "pg": 2,
+      "pe": 1,
+      "pp": 2,
+      "gf": 7,
+      "gc": 6
+    },
+    "real-madrid": {
+      "pj": 5,
+      "pg": 0,
+      "pe": 1,
+      "pp": 4,
+      "gf": 3,
+      "gc": 13
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "dinamo-zagreb": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "molde": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "monaco": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "skonto": {
+    "olimpija-ljubljana": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 9
+    }
+  },
+  "olimpija-ljubljana": {
+    "skonto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "cwmbran-town": {
+    "cork-city": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    }
+  },
+  "cork-city": {
+    "cwmbran-town": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "hjk": {
+    "norma-tallinn": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "kaiserslautern": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 5
+    },
+    "benfica": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "lask": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 5
+    },
+    "alashkert": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "maccabi-tel-aviv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 8
+    }
+  },
+  "norma-tallinn": {
+    "hjk": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "b68-toftir": {
+    "dinamo-zagreb": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 11
+    }
+  },
+  "dinamo-zagreb": {
+    "b68-toftir": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 11,
+      "gc": 0
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "venir-beggen": {
+    "rosenborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "rosenborg": {
+    "venir-beggen": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "austria-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "legia-warsaw": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "blackburn": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 8
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "porto": {
+      "pj": 6,
+      "pg": 1,
+      "pe": 1,
+      "pp": 4,
+      "gf": 4,
+      "gc": 8
+    },
+    "juventus": {
+      "pj": 6,
+      "pg": 0,
+      "pe": 3,
+      "pp": 3,
+      "gf": 3,
+      "gc": 8
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 3
+    },
+    "athletic-bilbao": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "boavista": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "dortmund": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "psg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "bayern-munich": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 5
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 6
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "partizani": {
+    "ia-akranes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "ia-akranes": {
+    "partizani": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "omonia": {
+    "aarau": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "kairat": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "qarabag": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 6
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "aarau": {
+    "omonia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "zimbru": {
+    "beitar-jerusalem": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "beitar-jerusalem": {
+    "zimbru": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "lech-poznan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 7
+    }
+  },
+  "ekranas": {
+    "floriana": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 2
+    }
+  },
+  "floriana": {
+    "ekranas": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    }
+  },
+  "dinamo-tbilisi": {
+    "linfield": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "linfield": {
+    "dinamo-tbilisi": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "dinamo-minsk": {
+    "werder-bremen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 6
+    }
+  },
+  "copenhagen": {
+    "linfield": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 7
+    },
+    "slovan-bratislava": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "lincoln-red-imps": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 1
+    },
+    "paok": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 8
+    }
+  },
+  "aik": {
+    "sparta-praha": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "arsenal": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "sparta-praha": {
+    "aik": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "feyenoord": {
+    "ia-akranes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 4,
+      "gc": 8
+    },
+    "kosice": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "dortmund": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "boavista": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "sparta-prague": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "newcastle": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "slavia-praha": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 2,
+      "pp": 0,
+      "gf": 10,
+      "gc": 7
+    },
+    "union-berlin": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 3
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "roma": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "lech-poznan": {
+    "beitar-jerusalem": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 2
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 7
+    }
+  },
+  "steaua": {
+    "dinamo-zagreb": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "hajduk-split": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "benfica": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "dortmund": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 1,
+      "pp": 3,
+      "gf": 3,
+      "gc": 9
+    },
+    "atletico-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 5
+    },
+    "widzew-lodz": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "austria-wien": {
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "aek-athens": {
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "dynamo-kyiv": {
+    "barcelona": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 0,
+      "pp": 1,
+      "gf": 11,
+      "gc": 5
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "bayern-munich": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 1,
+      "pp": 3,
+      "gf": 4,
+      "gc": 9
+    },
+    "psg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "psv": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "newcastle": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 5,
+      "gc": 6
+    },
+    "juventus": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 1,
+      "pp": 3,
+      "gf": 3,
+      "gc": 12
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "lens": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "maribor": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "lazio": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "bayer-leverkusen": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "anderlecht": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "boavista": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    }
+  },
+  "levski-sofia": {
+    "rangers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "werder-bremen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "ifk-goteborg": {
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "bayern-munich": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "psg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "psg": {
+    "bayern-munich": {
+      "pj": 6,
+      "pg": 4,
+      "pe": 0,
+      "pp": 2,
+      "gf": 8,
+      "gc": 8
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 2
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "rosenborg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "helsingborg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    }
+  },
+  "bayern-munich": {
+    "psg": {
+      "pj": 6,
+      "pg": 2,
+      "pe": 0,
+      "pp": 4,
+      "gf": 8,
+      "gc": 8
+    },
+    "dynamo-kyiv": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 1,
+      "pp": 0,
+      "gf": 9,
+      "gc": 4
+    },
+    "spartak-moscow": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 2,
+      "pp": 0,
+      "gf": 11,
+      "gc": 5
+    },
+    "ifk-goteborg": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "ajax": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 5
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "brondby": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "man-utd": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 2,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "kaiserslautern": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    },
+    "psv": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "rangers": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 8,
+      "pg": 5,
+      "pe": 1,
+      "pp": 2,
+      "gf": 9,
+      "gc": 8
+    },
+    "helsingborg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "sparta-prague": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 5
+    },
+    "lens": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "hajduk-split": {
+    "benfica": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "ajax": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "benfica": {
+    "hajduk-split": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "kaiserslautern": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "ajax": {
+    "milan": {
+      "pj": 3,
+      "pg": 3,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 0
+    },
+    "aek": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "salzburg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "hajduk-split": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "bayern-munich": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "ferencvaros": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 9,
+      "gc": 1
+    },
+    "grasshopper": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 1
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 1,
+      "pp": 2,
+      "gf": 3,
+      "gc": 7
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "atletico-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "dinamo-zagreb": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "ac-milan": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 1,
+      "pp": 3,
+      "gf": 2,
+      "gc": 5
+    },
+    "brujas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "celta": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    }
+  },
+  "salzburg": {
+    "aek": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "aek": {
+    "salzburg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "nantes": {
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "aalborg": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "aalborg": {
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "panathinaikos": {
+    "aalborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "legia-warsaw": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 0,
+      "pp": 3,
+      "gf": 4,
+      "gc": 7
+    },
+    "lens": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "deportivo-la-coruna": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "schalke-04": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "mallorca": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "stuttgart": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "legia-warsaw": {
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "blackburn": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "blackburn": {
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "legia-warsaw": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "dortmund": {
+    "juventus": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 5
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "steaua": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 1,
+      "pp": 0,
+      "gf": 9,
+      "gc": 3
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "widzew-lodz": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "atletico-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "sparta-prague": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 1
+    },
+    "parma": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "feyenoord": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "boavista": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "juventus": {
+    "dortmund": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 5,
+      "gc": 6
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 5,
+      "pg": 2,
+      "pe": 0,
+      "pp": 3,
+      "gf": 6,
+      "gc": 5
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "ajax": {
+      "pj": 3,
+      "pg": 2,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 3
+    },
+    "man-utd": {
+      "pj": 6,
+      "pg": 3,
+      "pe": 1,
+      "pp": 2,
+      "gf": 8,
+      "gc": 7
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    },
+    "rosenborg": {
+      "pj": 6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 0,
+      "gf": 8,
+      "gc": 3
+    },
+    "feyenoord": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 8,
+      "gc": 4
+    },
+    "kosice": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "dynamo-kyiv": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 1,
+      "pp": 0,
+      "gf": 12,
+      "gc": 3
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 4
+    },
+    "galatasaray": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 2,
+      "pp": 1,
+      "gf": 5,
+      "gc": 6
+    },
+    "athletic-bilbao": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "olympiacos": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 1,
+      "pp": 0,
+      "gf": 12,
+      "gc": 3
+    },
+    "hamburg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "panathinaikos": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "deportivo-la-coruna": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 6
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "newcastle": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "real-sociedad": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    }
+  },
+  "ferencvaros": {
+    "grasshopper": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 9
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 7
+    }
+  },
+  "auxerre": {
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "rangers": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "grasshopper": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "atletico-madrid": {
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "widzew-lodz": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "widzew-lodz": {
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "atletico-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    },
+    "steaua": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    }
+  },
+  "man-utd": {
+    "juventus": {
+      "pj": 6,
+      "pg": 2,
+      "pe": 1,
+      "pp": 3,
+      "gf": 7,
+      "gc": 8
+    },
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 2
+    },
+    "kosice": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 6,
+      "gc": 6
+    },
+    "bayern-munich": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 2,
+      "pp": 0,
+      "gf": 5,
+      "gc": 4
+    },
+    "brondby": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 11,
+      "gc": 2
+    },
+    "inter-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "croatia-zagreb": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "sturm-graz": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "marseille": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "fenerbahce": {
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "slavia-praha": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 4,
+      "gc": 6
+    }
+  },
+  "sparta-prague": {
+    "parma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 7
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "bordeaux": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "spartak-moscow": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 2,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "willem-ii": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "lazio": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    }
+  },
+  "parma": {
+    "sparta-prague": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "kosice": {
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "newcastle": {
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "dynamo-kyiv": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 6,
+      "gc": 5
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "olympiacos": {
+    "porto": {
+      "pj": 5,
+      "pg": 2,
+      "pe": 1,
+      "pp": 2,
+      "gf": 6,
+      "gc": 7
+    },
+    "real-madrid": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 2,
+      "pp": 1,
+      "gf": 4,
+      "gc": 8
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 7
+    },
+    "dinamo-zagreb": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "juventus": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 1,
+      "pp": 3,
+      "gf": 3,
+      "gc": 12
+    },
+    "molde": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "lyon": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 3,
+      "gc": 3
+    },
+    "lille": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "manchester-united": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 0,
+      "pp": 4,
+      "gf": 2,
+      "gc": 12
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 4
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 6
+    },
+    "real-sociedad": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 1
+    }
+  },
+  "besiktas": {
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "psg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "ifk-goteborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "sparta-praga": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "bayer-leverkusen": {
+    "lierse": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 6
+    },
+    "sporting-cp": {
+      "pj": 3,
+      "pg": 3,
+      "pe": 0,
+      "pp": 0,
+      "gf": 9,
+      "gc": 3
+    },
+    "real-madrid": {
+      "pj": 5,
+      "pg": 0,
+      "pe": 1,
+      "pp": 4,
+      "gf": 7,
+      "gc": 14
+    },
+    "lazio": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "maribor": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "dynamo-kyiv": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "spartak-moscow": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "manchester-united": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 2,
+      "pp": 2,
+      "gf": 4,
+      "gc": 7
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 6
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    }
+  },
+  "lierse": {
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "sporting-cp": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 6
+    }
+  },
+  "inter-milan": {
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "sturm-graz": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "sturm-graz": {
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "inter-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 11
+    },
+    "marseille": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "man-utd": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "croatia-zagreb": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "rangers": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 5
+    },
+    "galatasaray": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    }
+  },
+  "brondby": {
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "man-utd": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 11
+    }
+  },
+  "lens": {
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    }
+  },
+  "arsenal": {
+    "lens": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "panathinaikos": {
+      "pj": 4,
+      "pg": 3,
+      "pe": 0,
+      "pp": 1,
+      "gf": 7,
+      "gc": 4
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "fiorentina": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "aik": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "sparta-prague": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "shakhtar-donetsk": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "mallorca": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "schalke-04": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "auxerre": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "lokomotiv-moscu": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "dinamo-kiev": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "celta": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "kaiserslautern": {
+    "benfica": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 6
+    }
+  },
+  "lazio": {
+    "bayer-leverkusen": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "dynamo-kyiv": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "maribor": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    },
+    "shakhtar-donetsk": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "sparta-prague": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "nantes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "sparta-praga": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 6
+    }
+  },
+  "maribor": {
+    "dynamo-kyiv": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "bayer-leverkusen": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "lazio": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    }
+  },
+  "boavista": {
+    "rosenborg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "dortmund": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "feyenoord": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    }
+  },
+  "croatia-zagreb": {
+    "man-utd": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "marseille": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "sturm-graz": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "marseille": {
+    "sturm-graz": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "croatia-zagreb": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "man-utd": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "molde": {
+    "porto": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "olympiacos": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "valencia": {
+    "rangers": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "psv": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "olympiacos": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "heerenveen": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "lyon": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "leeds-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 0
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 4
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "willem-ii": {
+    "spartak-moscow": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "bordeaux": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "sparta-prague": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "bordeaux": {
+    "sparta-prague": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "willem-ii": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "spartak-moscow": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    }
+  },
+  "chelsea": {
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "hertha-bsc": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 6
+    },
+    "sparta-praga": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    },
+    "stuttgart": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    }
+  },
+  "hertha-bsc": {
+    "galatasaray": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "chelsea": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "milan": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "shakhtar-donetsk": {
+    "lazio": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "lyon": {
+    "heerenveen": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "olympiacos": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 4
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "real-sociedad": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "heerenveen": {
+    "lyon": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "valencia": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "hamburg": {
+    "juventus": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "deportivo-la-coruna": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "deportivo-la-coruna": {
+    "panathinaikos": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "hamburg": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "juventus": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "leeds-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 3,
+      "gc": 3
+    },
+    "manchester-united": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 7,
+      "gc": 8
+    },
+    "lille": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 3
+    },
+    "ac-milan": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 0,
+      "pp": 3,
+      "gf": 3,
+      "gc": 13
+    },
+    "lens": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4
+    },
+    "aek": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 8
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    }
+  },
+  "helsingborg": {
+    "bayern-munich": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "psg": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "leeds-united": {
+    "barcelona": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 4
+    },
+    "ac-milan": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "roma": {
+    "real-madrid": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 3,
+      "gc": 6
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "ae-athens": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "genk": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    },
+    "cska-sofia": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 3
+    },
+    "zorya": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 0
+    },
+    "bodo-glimt": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 8,
+      "gc": 10
+    },
+    "vitesse": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "leicester-city": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "feyenoord": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 1,
+      "gc": 0
+    }
+  },
+  "lokomotiv-moscow": {
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "club-brugge": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "liverpool": {
+    "boavista": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "borussia-dortmund": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "dynamo-kyiv": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 1
+    }
+  },
+  "schalke-04": {
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 4
+    },
+    "mallorca": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 1
+    }
+  },
+  "mallorca": {
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "schalke-04": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "celtic": {
+    "juventus": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 6
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "bayern-munich": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "anderlecht": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "bodo-glimt": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "lille": {
+    "manchester-united": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "deportivo-la-coruna": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "basel": {
+    "spartak-moscow": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "liverpool": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 8
+    },
+    "qarabag": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "kairat": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 4
+    },
+    "omonia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "genk": {
+    "ae-athens": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 7
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "ae-athens": {
+    "genk": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 5,
+      "gc": 5
+    }
+  },
+  "inter": {
+    "rosenborg": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "valencia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "dinamo-kiev": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "lokomotiv-moscu": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "maccabi-haifa": {
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5
+    },
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "bayer-leverkusen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "union-berlin": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "slavia-praha": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "club-brugge": {
+    "barcelona": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "lokomotiv-moscow": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    }
+  },
+  "dinamo-kiev": {
+    "lokomotiv-moscu": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "lokomotiv-moscu": {
+    "dinamo-kiev": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "inter": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "monaco": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    }
+  },
+  "real-sociedad": {
+    "olympiacos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "galatasaray": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "juventus": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "lyon": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "stuttgart": {
+    "rangers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "manchester-united": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "panathinaikos": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "chelsea": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    }
+  },
+  "marsella": {
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 6
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "porto": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "paok": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "qarabag": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 1
+    }
+  },
+  "sparta-praga": {
+    "chelsea": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 1
+    },
+    "lazio": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "besiktas": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    }
+  },
+  "brujas": {
+    "celta": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "celta": {
+    "brujas": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "ac-milan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "ajax": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "arsenal": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 3
+    }
+  },
+  "maccabi-tel-aviv": {
+    "alashkert": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "lask": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 8,
+      "gc": 0
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "alashkert": {
+    "maccabi-tel-aviv": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 5
+    },
+    "hjk": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    },
+    "lask": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 5
+    }
+  },
+  "lask": {
+    "hjk": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 0
+    },
+    "maccabi-tel-aviv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "alashkert": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 0
+    },
+    "slavia-praha": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 7
+    }
+  },
+  "flora": {
+    "gent": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 2
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "anorthosis": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    }
+  },
+  "gent": {
+    "flora": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "anorthosis": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "partizan": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "paok": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "anorthosis": {
+    "partizan": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "gent": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "flora": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    }
+  },
+  "cska-sofia": {
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 8
+    },
+    "bodo-glimt": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "zorya": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "bodo-glimt": {
+    "zorya": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "cska-sofia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "roma": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 10,
+      "gc": 8
+    },
+    "az": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "celtic": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    }
+  },
+  "zorya": {
+    "bodo-glimt": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 7
+    },
+    "cska-sofia": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    }
+  },
+  "jablonec": {
+    "cfr-cluj": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "az": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "randers": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    }
+  },
+  "cfr-cluj": {
+    "jablonec": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "randers": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "az": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 3
+    }
+  },
+  "randers": {
+    "az": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "cfr-cluj": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "jablonec": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 4,
+      "gc": 4
+    },
+    "leicester-city": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 7
+    }
+  },
+  "az": {
+    "randers": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "jablonec": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "cfr-cluj": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 0
+    },
+    "bodo-glimt": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    }
+  },
+  "slavia-praha": {
+    "union-berlin": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "feyenoord": {
+      "pj": 4,
+      "pg": 0,
+      "pe": 2,
+      "pp": 2,
+      "gf": 7,
+      "gc": 10
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 1
+    },
+    "lask": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 7,
+      "gc": 5
+    },
+    "fenerbahce": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 6,
+      "gc": 4
+    }
+  },
+  "union-berlin": {
+    "slavia-praha": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "maccabi-haifa": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "feyenoord": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 5
+    }
+  },
+  "lincoln-red-imps": {
+    "paok": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 7
+    },
+    "slovan-bratislava": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 6
+    }
+  },
+  "paok": {
+    "lincoln-red-imps": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    },
+    "slovan-bratislava": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "copenhagen": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "gent": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "midtjylland": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "rennes": {
+    "tottenham": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2
+    },
+    "vitesse": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 4
+    },
+    "mura": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "leicester-city": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "tottenham": {
+    "rennes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 5
+    },
+    "mura": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 6,
+      "gc": 3
+    },
+    "vitesse": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    }
+  },
+  "mura": {
+    "vitesse": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 5
+    },
+    "tottenham": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 6
+    },
+    "rennes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "vitesse": {
+    "mura": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "rennes": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 5
+    },
+    "tottenham": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "rapid-wien": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "kairat": {
+    "omonia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    },
+    "basel": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 4,
+      "gc": 7
+    },
+    "qarabag": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 2,
+      "gc": 4
+    }
+  },
+  "qarabag": {
+    "basel": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 3
+    },
+    "omonia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 6,
+      "gc": 3
+    },
+    "kairat": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "marsella": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 6
+    }
+  },
+  "leicester-city": {
+    "rennes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "psv": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "roma": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "randers": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 2
+    }
+  },
+  "midtjylland": {
+    "paok": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 2
+    }
+  },
+  "penarol": {
+    "real-madrid": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 5
+    },
+    "jorge-wilstermann": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 8,
+      "gc": 2
+    },
+    "san-lorenzo": {
+      "pj": 3,
+      "pg": 1,
+      "pe": 2,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "olimpia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "argentinos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "estudiantes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "jorge-wilstermann": {
+    "penarol": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 8
+    }
+  },
+  "san-lorenzo": {
+    "bahia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3
+    },
+    "penarol": {
+      "pj": 3,
+      "pg": 0,
+      "pe": 2,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "bahia": {
+    "san-lorenzo": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 5
+    }
+  },
+  "universidad-de-chile": {
+    "millonarios": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 7
+    }
+  },
+  "millonarios": {
+    "universidad-de-chile": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 7,
+      "gc": 0
+    },
+    "olimpia": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 5
+    }
+  },
+  "olimpia": {
+    "millonarios": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 1
+    },
+    "penarol": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "river": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    },
+    "cruzeiro": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "al-nassr": {
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "raja-casablanca": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 3
+    },
+    "corinthians": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    }
+  },
+  "corinthians": {
+    "raja-casablanca": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2
+    },
+    "al-nassr": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "vasco-da-gama": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    }
+  },
+  "raja-casablanca": {
+    "corinthians": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "al-nassr": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 4
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "necaxa": {
+    "manchester-united": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    },
+    "south-melbourne": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "vasco-da-gama": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    },
+    "real-madrid": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 1,
+      "gc": 1
+    }
+  },
+  "vasco-da-gama": {
+    "south-melbourne": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "manchester-united": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "necaxa": {
+      "pj": 1,
+      "pg": 1,
+      "pe": 0,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "corinthians": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    }
+  },
+  "south-melbourne": {
+    "vasco-da-gama": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "necaxa": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 1,
+      "gc": 3
+    },
+    "manchester-united": {
+      "pj": 1,
+      "pg": 0,
+      "pe": 0,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    }
+  },
+  "argentinos": {
+    "penarol": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 1
+    },
+    "cruzeiro": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 3,
+      "gc": 3
+    },
+    "flamengo": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "independiente": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "independiente": {
+    "cruzeiro": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    },
+    "santos": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "atletico-nacional": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 2
+    },
+    "argentinos": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "boca": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    }
+  },
+  "cruzeiro": {
+    "independiente": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 3,
+      "gc": 1
+    },
+    "argentinos": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "nacional": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "racing": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    },
+    "olimpia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    }
+  },
+  "estudiantes": {
+    "flamengo": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 4
+    },
+    "penarol": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "gremio": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 4
+    }
+  },
+  "flamengo": {
+    "estudiantes": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 4,
+      "gc": 1
+    },
+    "nacional": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 0,
+      "gc": 5
+    },
+    "argentinos": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 3
+    }
+  },
+  "river": {
+    "olimpia": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 4,
+      "gc": 2
+    },
+    "gremio": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 6,
+      "gc": 5
+    },
+    "racing": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "boca": {
+    "gremio": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "racing": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 1
+    },
+    "independiente": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 2,
+      "pp": 0,
+      "gf": 0,
+      "gc": 0
+    }
+  },
+  "gremio": {
+    "boca": {
+      "pj": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 2,
+      "gf": 2,
+      "gc": 3
+    },
+    "river": {
+      "pj": 4,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 5,
+      "gc": 6
+    },
+    "estudiantes": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 4,
+      "gc": 0
+    }
+  },
+  "racing": {
+    "santos": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 2,
+      "gc": 0
+    },
+    "river": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "cruzeiro": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 1,
+      "pp": 0,
+      "gf": 3,
+      "gc": 2
+    },
+    "boca": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 1,
+      "gc": 2
+    }
+  },
+  "santos": {
+    "racing": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 0,
+      "gc": 2
+    },
+    "independiente": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 0,
+      "pp": 2,
+      "gf": 1,
+      "gc": 4
+    }
+  },
+  "nacional": {
+    "flamengo": {
+      "pj": 2,
+      "pg": 2,
+      "pe": 0,
+      "pp": 0,
+      "gf": 5,
+      "gc": 0
+    },
+    "cruzeiro": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 3
+    },
+    "atletico-nacional": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 2,
+      "gc": 3
+    }
+  },
+  "atletico-nacional": {
+    "nacional": {
+      "pj": 2,
+      "pg": 1,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2
+    },
+    "independiente": {
+      "pj": 2,
+      "pg": 0,
+      "pe": 1,
+      "pp": 1,
+      "gf": 2,
+      "gc": 4
+    }
+  }
+}

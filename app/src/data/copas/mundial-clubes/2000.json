@@ -1,0 +1,1523 @@
+{
+  "year": 2000,
+  "cup": "Mundial de Clubes",
+  "champion": "corinthians",
+  "runnerUp": "vasco-da-gama",
+  "participants": [
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "country": "br",
+      "dt": "Oswaldo de Oliveira",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Dida",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "name": "Índio",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "name": "Adilson",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "João Carlos",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "name": "Kléber",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "name": "Vampeta",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "name": "Freddy Rincón",
+          "pos": "MED",
+          "flag": "co"
+        },
+        {
+          "no": 11,
+          "name": "Ricardinho",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Marcelinho Carioca",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Edílson",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "name": "Luizão",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 12,
+          "name": "Maurício",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "name": "Yamada",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "name": "Daniel",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "name": "Márcio Costa",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "name": "Fábio Luciano",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "name": "Augusto",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "name": "Edu",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 21,
+          "name": "Marcos Senna",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 23,
+          "name": "Gilmar",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "name": "Fernando Baiano",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "name": "Dinei",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 22,
+          "name": "Luis Mário",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "vasco-da-gama",
+      "name": "Vasco da Gama",
+      "country": "br",
+      "dt": "Antônio Lopes",
+      "squad": [
+        {
+          "no": 12,
+          "name": "Helton",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 2,
+          "name": "Jorginho",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 3,
+          "name": "Odvan",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 4,
+          "name": "Mauro Galvão",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "name": "Felipe",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 5,
+          "name": "Amaral",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 8,
+          "name": "Juninho Pernambucano",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 9,
+          "name": "Ramon Menezes",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Donizete",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 10,
+          "name": "Edmundo",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 11,
+          "name": "Romário",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 1,
+          "name": "Carlos Germano",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 20,
+          "name": "Márcio",
+          "pos": "POR",
+          "flag": "br"
+        },
+        {
+          "no": 13,
+          "name": "Gilberto",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 14,
+          "name": "Alexandre Torres",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 17,
+          "name": "Júnior Baiano",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 15,
+          "name": "Paulo Miranda",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 16,
+          "name": "Pedrinho",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 18,
+          "name": "Válber",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 21,
+          "name": "Nasa",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 22,
+          "name": "Alex Oliveira",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 19,
+          "name": "Viola",
+          "pos": "DEL",
+          "flag": "br"
+        },
+        {
+          "no": 23,
+          "name": "Alex Alves",
+          "pos": "DEL",
+          "flag": "br"
+        }
+      ]
+    },
+    {
+      "id": "necaxa",
+      "name": "Necaxa",
+      "country": "mx",
+      "dt": "Raúl Arias",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Hugo Pineda",
+          "pos": "POR",
+          "flag": "mx"
+        },
+        {
+          "no": 2,
+          "name": "Salvador Cabrera",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 3,
+          "name": "Sergio Almaguer",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 4,
+          "name": "Ignacio Ambriz",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 5,
+          "name": "José María Higareda",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 7,
+          "name": "Álex Aguinaga",
+          "pos": "MED",
+          "flag": "ec"
+        },
+        {
+          "no": 8,
+          "name": "Luis Pérez",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 12,
+          "name": "Hernán Vigna",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 9,
+          "name": "Agustín Delgado",
+          "pos": "DEL",
+          "flag": "ec"
+        },
+        {
+          "no": 10,
+          "name": "Markus López",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 19,
+          "name": "Cristian Montecinos",
+          "pos": "DEL",
+          "flag": "cl"
+        },
+        {
+          "no": 22,
+          "name": "Alexandro Álvarez",
+          "pos": "POR",
+          "flag": "mx"
+        },
+        {
+          "no": 17,
+          "name": "José Navas",
+          "pos": "POR",
+          "flag": "mx"
+        },
+        {
+          "no": 6,
+          "name": "Miguel Acosta",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 15,
+          "name": "Octavio Becerril",
+          "pos": "DEF",
+          "flag": "mx"
+        },
+        {
+          "no": 18,
+          "name": "José Milián",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 14,
+          "name": "Germán Villa",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 16,
+          "name": "David Mendoza",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 20,
+          "name": "José María Gutiérrrez",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 11,
+          "name": "Samuel Terres",
+          "pos": "MED",
+          "flag": "mx"
+        },
+        {
+          "no": 21,
+          "name": "Sergio Vázquez",
+          "pos": "DEL",
+          "flag": "mx"
+        },
+        {
+          "no": 23,
+          "name": "Jaime Hernández",
+          "pos": "DEL",
+          "flag": "mx"
+        }
+      ]
+    },
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "country": "es",
+      "dt": "Vicente del Bosque",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Iker Casillas",
+          "pos": "POR",
+          "flag": "es"
+        },
+        {
+          "no": 2,
+          "name": "Míchel Salgado",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 4,
+          "name": "Fernando Hierro",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 18,
+          "name": "Aitor Karanka",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 3,
+          "name": "Roberto Carlos",
+          "pos": "DEF",
+          "flag": "br"
+        },
+        {
+          "no": 6,
+          "name": "Fernando Redondo",
+          "pos": "MED",
+          "flag": "ar"
+        },
+        {
+          "no": 14,
+          "name": "Guti",
+          "pos": "MED",
+          "flag": "es"
+        },
+        {
+          "no": 8,
+          "name": "Steve McManaman",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 11,
+          "name": "Sávio",
+          "pos": "MED",
+          "flag": "br"
+        },
+        {
+          "no": 7,
+          "name": "Raúl",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 19,
+          "name": "Nicolas Anelka",
+          "pos": "DEL",
+          "flag": "fr"
+        },
+        {
+          "no": 12,
+          "name": "Bodo Illgner",
+          "pos": "POR",
+          "flag": "de"
+        },
+        {
+          "no": 13,
+          "name": "Albano Bizzarri",
+          "pos": "POR",
+          "flag": "ar"
+        },
+        {
+          "no": 5,
+          "name": "Manolo Sanchís",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 15,
+          "name": "Iván Helguera",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 17,
+          "name": "Dorado",
+          "pos": "DEF",
+          "flag": "es"
+        },
+        {
+          "no": 21,
+          "name": "Geremi",
+          "pos": "MED",
+          "flag": "cm"
+        },
+        {
+          "no": 22,
+          "name": "Christian Karembeu",
+          "pos": "MED",
+          "flag": "fr"
+        },
+        {
+          "no": 10,
+          "name": "Clarence Seedorf",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 20,
+          "name": "Perica Ognjenović",
+          "pos": "DEL",
+          "flag": "rs"
+        },
+        {
+          "no": 9,
+          "name": "Fernando Morientes",
+          "pos": "DEL",
+          "flag": "es"
+        },
+        {
+          "no": 16,
+          "name": "Samuel Eto'o",
+          "pos": "DEL",
+          "flag": "cm"
+        },
+        {
+          "no": 23,
+          "name": "Javier Aranda",
+          "pos": "DEL",
+          "flag": "es"
+        }
+      ]
+    },
+    {
+      "id": "manchester-united",
+      "name": "Manchester United",
+      "country": "gb-eng",
+      "dt": "Alex Ferguson",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Mark Bosnich",
+          "pos": "POR",
+          "flag": "au"
+        },
+        {
+          "no": 2,
+          "name": "Gary Neville",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 6,
+          "name": "Jaap Stam",
+          "pos": "DEF",
+          "flag": "nl"
+        },
+        {
+          "no": 27,
+          "name": "Mikaël Silvestre",
+          "pos": "DEF",
+          "flag": "fr"
+        },
+        {
+          "no": 3,
+          "name": "Denis Irwin",
+          "pos": "DEF",
+          "flag": "ie"
+        },
+        {
+          "no": 16,
+          "name": "Roy Keane",
+          "pos": "MED",
+          "flag": "ie"
+        },
+        {
+          "no": 8,
+          "name": "Nicky Butt",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 7,
+          "name": "David Beckham",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 11,
+          "name": "Ryan Giggs",
+          "pos": "MED",
+          "flag": "gb-wal"
+        },
+        {
+          "no": 19,
+          "name": "Dwight Yorke",
+          "pos": "DEL",
+          "flag": "tt"
+        },
+        {
+          "no": 9,
+          "name": "Andy Cole",
+          "pos": "DEL",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 17,
+          "name": "Raimond van der Gouw",
+          "pos": "POR",
+          "flag": "nl"
+        },
+        {
+          "no": 33,
+          "name": "Massimo Taibi",
+          "pos": "POR",
+          "flag": "it"
+        },
+        {
+          "no": 4,
+          "name": "Danny Higginbotham",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 12,
+          "name": "Phil Neville",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 24,
+          "name": "Wes Brown",
+          "pos": "DEF",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 5,
+          "name": "Ronnie Wallwork",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 14,
+          "name": "Jordi Cruyff",
+          "pos": "MED",
+          "flag": "nl"
+        },
+        {
+          "no": 15,
+          "name": "Jesper Blomqvist",
+          "pos": "MED",
+          "flag": "se"
+        },
+        {
+          "no": 25,
+          "name": "Quinton Fortune",
+          "pos": "MED",
+          "flag": "za"
+        },
+        {
+          "no": 22,
+          "name": "Mark Wilson",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 20,
+          "name": "Ole Gunnar Solskjær",
+          "pos": "DEL",
+          "flag": "no"
+        },
+        {
+          "no": 21,
+          "name": "Henning Berg",
+          "pos": "DEL",
+          "flag": "no"
+        }
+      ]
+    },
+    {
+      "id": "al-nassr",
+      "name": "Al Nassr",
+      "country": "sa",
+      "dt": "Milan Živadinović",
+      "squad": [
+        {
+          "no": 21,
+          "name": "Mohammad Khojali",
+          "pos": "POR",
+          "flag": "sa"
+        },
+        {
+          "no": 2,
+          "name": "Mansour Al-Mousa",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 5,
+          "name": "Smahi Triki",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 12,
+          "name": "Majed Al-Dosari",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 20,
+          "name": "Mohsin Harthi",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 8,
+          "name": "Fahad Al-Husseini",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 14,
+          "name": "Moussa Saïb",
+          "pos": "MED",
+          "flag": "dz"
+        },
+        {
+          "no": 16,
+          "name": "Fuad Anwar",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 11,
+          "name": "Muhaisen Al-Dosari",
+          "pos": "DEL",
+          "flag": "sa"
+        },
+        {
+          "no": 13,
+          "name": "Fahad Al-Bishi",
+          "pos": "DEL",
+          "flag": "sa"
+        },
+        {
+          "no": 15,
+          "name": "Ahmed Bahja",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 1,
+          "name": "Madhi Al-Dosari",
+          "pos": "POR",
+          "flag": "sa"
+        },
+        {
+          "no": 22,
+          "name": "Tariq Al-Awwad",
+          "pos": "POR",
+          "flag": "sa"
+        },
+        {
+          "no": 3,
+          "name": "Faisal Al-Dosari",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 4,
+          "name": "Akbar Pourhashemi",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 23,
+          "name": "Ibrahim Al-Shokia",
+          "pos": "DEF",
+          "flag": "sa"
+        },
+        {
+          "no": 6,
+          "name": "Ibrahim Al-Harbi",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 10,
+          "name": "Hussein Al-Hadi",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 17,
+          "name": "Mansour Al-Amri",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 18,
+          "name": "Abdallah Al-Karni",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 19,
+          "name": "Hadi Al-Dosari",
+          "pos": "MED",
+          "flag": "sa"
+        },
+        {
+          "no": 7,
+          "name": "Fahad Mehalel",
+          "pos": "DEL",
+          "flag": "sa"
+        },
+        {
+          "no": 9,
+          "name": "Hadi Mobearek",
+          "pos": "DEL",
+          "flag": "sa"
+        }
+      ]
+    },
+    {
+      "id": "raja-casablanca",
+      "name": "Raja Casablanca",
+      "country": "ma",
+      "dt": "Fathi Jamal",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Mustapha Chadili",
+          "pos": "POR",
+          "flag": "ma"
+        },
+        {
+          "no": 3,
+          "name": "Redouane El Haimeur",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 4,
+          "name": "Talal El Karkouri",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 8,
+          "name": "Abdellatif Jrindou",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 14,
+          "name": "Bouchaib El Moubarki",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 5,
+          "name": "Hicham Misbah",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 6,
+          "name": "Youssef Safri",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 16,
+          "name": "Youssef Achami",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 19,
+          "name": "Mustapha Moustawdaa",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 7,
+          "name": "Mohamed Kharbouch",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 10,
+          "name": "Mustapha Khalif",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 12,
+          "name": "Zouheir Laaroubi",
+          "pos": "POR",
+          "flag": "ma"
+        },
+        {
+          "no": 22,
+          "name": "Abdesalam Daakali",
+          "pos": "POR",
+          "flag": "ma"
+        },
+        {
+          "no": 2,
+          "name": "Adil Sarraj",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 15,
+          "name": "Abdessadek Hafid",
+          "pos": "DEF",
+          "flag": "ma"
+        },
+        {
+          "no": 17,
+          "name": "Zakaria Aboub",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 18,
+          "name": "Reda Ereyahi",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 20,
+          "name": "Hamid Nater",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 21,
+          "name": "Tarik Jarmouni",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 23,
+          "name": "Said Makasi",
+          "pos": "MED",
+          "flag": "ma"
+        },
+        {
+          "no": 9,
+          "name": "Mohamed Armoumen",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 11,
+          "name": "Khamma",
+          "pos": "DEL",
+          "flag": "ma"
+        },
+        {
+          "no": 13,
+          "name": "Omar Nejjary",
+          "pos": "DEL",
+          "flag": "ma"
+        }
+      ]
+    },
+    {
+      "id": "south-melbourne",
+      "name": "South Melbourne",
+      "country": "au",
+      "dt": "Ange Postecoglou",
+      "squad": [
+        {
+          "no": 1,
+          "name": "Milán Blagojevic",
+          "pos": "POR",
+          "flag": "au"
+        },
+        {
+          "no": 2,
+          "name": "Steve Iosifidis",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 3,
+          "name": "Fausto De Amicis",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 4,
+          "name": "Nick Orlic",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 5,
+          "name": "Con Blatsis",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 6,
+          "name": "David Clarkson",
+          "pos": "MED",
+          "flag": "gb-eng"
+        },
+        {
+          "no": 7,
+          "name": "Steve Panopoulos",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 8,
+          "name": "Vaughan Coveny",
+          "pos": "DEL",
+          "flag": "nz"
+        },
+        {
+          "no": 9,
+          "name": "Paul Trimboli",
+          "pos": "DEL",
+          "flag": "au"
+        },
+        {
+          "no": 10,
+          "name": "Michael Curcija",
+          "pos": "DEL",
+          "flag": "au"
+        },
+        {
+          "no": 11,
+          "name": "John Anastasiadis",
+          "pos": "DEL",
+          "flag": "au"
+        },
+        {
+          "no": 20,
+          "name": "Chris Jones",
+          "pos": "POR",
+          "flag": "au"
+        },
+        {
+          "no": 30,
+          "name": "Lajos Cserei",
+          "pos": "POR",
+          "flag": "hu"
+        },
+        {
+          "no": 15,
+          "name": "Goran Lozanovski",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 16,
+          "name": "George Goutzioulis",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 17,
+          "name": "Jim Tsekinis",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 21,
+          "name": "Radoslav Culafic",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 23,
+          "name": "Marko Puhalovich",
+          "pos": "DEF",
+          "flag": "au"
+        },
+        {
+          "no": 12,
+          "name": "Richie Alagich",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 13,
+          "name": "Adrian Cuzzupe",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 14,
+          "name": "Anthony Magnacca",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 19,
+          "name": "Tas Psonis",
+          "pos": "MED",
+          "flag": "au"
+        },
+        {
+          "no": 18,
+          "name": "Robert Liparoti",
+          "pos": "DEL",
+          "flag": "au"
+        },
+        {
+          "no": 22,
+          "name": "Mustafa Mustafa",
+          "pos": "DEL",
+          "flag": "au"
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "A": {
+      "standings": [
+        {
+          "id": "corinthians",
+          "team": "Corinthians",
+          "pts": 7,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 6,
+          "gc": 2
+        },
+        {
+          "id": "real-madrid",
+          "team": "Real Madrid",
+          "pts": 7,
+          "pj": 3,
+          "pg": 2,
+          "pe": 1,
+          "pp": 0,
+          "gf": 8,
+          "gc": 5
+        },
+        {
+          "id": "al-nassr",
+          "team": "Al Nassr",
+          "pts": 3,
+          "pj": 3,
+          "pg": 1,
+          "pe": 0,
+          "pp": 2,
+          "gf": 5,
+          "gc": 8
+        },
+        {
+          "id": "raja-casablanca",
+          "team": "Raja Casablanca",
+          "pts": 0,
+          "pj": 3,
+          "pg": 0,
+          "pe": 0,
+          "pp": 3,
+          "gf": 5,
+          "gc": 9
+        }
+      ],
+      "matches": [
+        {
+          "id1": "real-madrid",
+          "team1": "Real Madrid",
+          "id2": "al-nassr",
+          "team2": "Al Nassr",
+          "score": "3-1",
+          "goals1": [
+            "Anelka 21'",
+            "Sávio 69'",
+            "Raúl 88'"
+          ],
+          "goals2": [
+            "Al-Husseini 45'"
+          ]
+        },
+        {
+          "id1": "corinthians",
+          "team1": "Corinthians",
+          "id2": "raja-casablanca",
+          "team2": "Raja Casablanca",
+          "score": "2-0",
+          "goals1": [
+            "Luizão 50'",
+            "Fabio Luciano 64'"
+          ],
+          "goals2": []
+        },
+        {
+          "id1": "real-madrid",
+          "team1": "Real Madrid",
+          "id2": "corinthians",
+          "team2": "Corinthians",
+          "score": "2-2",
+          "goals1": [
+            "Anelka 19', 71'"
+          ],
+          "goals2": [
+            "Edílson 28', 64'"
+          ]
+        },
+        {
+          "id1": "raja-casablanca",
+          "team1": "Raja Casablanca",
+          "id2": "al-nassr",
+          "team2": "Al Nassr",
+          "score": "3-4",
+          "goals1": [
+            "Al-Dosari 24' (a.g.)",
+            "El Moubarki 66'",
+            "El Karkouri 73'"
+          ],
+          "goals2": [
+            "Al-Husseini 4'",
+            "Bahja 49'",
+            "Al-Bishi 51'",
+            "Saïb 86'"
+          ]
+        },
+        {
+          "id1": "real-madrid",
+          "team1": "Real Madrid",
+          "id2": "raja-casablanca",
+          "team2": "Raja Casablanca",
+          "score": "3-2",
+          "goals1": [
+            "Hierro 49'",
+            "Morientes 53'",
+            "Geremi 88'"
+          ],
+          "goals2": [
+            "Achami 28'",
+            "Moustawdaa 59'"
+          ]
+        },
+        {
+          "id1": "al-nassr",
+          "team1": "Al Nassr",
+          "id2": "corinthians",
+          "team2": "Corinthians",
+          "score": "0-2",
+          "goals1": [],
+          "goals2": [
+            "Ricardinho 24'",
+            "Rincón 81'"
+          ]
+        }
+      ]
+    },
+    "B": {
+      "standings": [
+        {
+          "id": "vasco-da-gama",
+          "team": "Vasco da Gama",
+          "pts": 9,
+          "pj": 3,
+          "pg": 3,
+          "pe": 0,
+          "pp": 0,
+          "gf": 7,
+          "gc": 2
+        },
+        {
+          "id": "necaxa",
+          "team": "Necaxa",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 5,
+          "gc": 4
+        },
+        {
+          "id": "manchester-united",
+          "team": "Manchester United",
+          "pts": 4,
+          "pj": 3,
+          "pg": 1,
+          "pe": 1,
+          "pp": 1,
+          "gf": 4,
+          "gc": 4
+        },
+        {
+          "id": "south-melbourne",
+          "team": "South Melbourne",
+          "pts": 0,
+          "pj": 3,
+          "pg": 0,
+          "pe": 0,
+          "pp": 3,
+          "gf": 1,
+          "gc": 7
+        }
+      ],
+      "matches": [
+        {
+          "id1": "manchester-united",
+          "team1": "Manchester United",
+          "id2": "necaxa",
+          "team2": "Necaxa",
+          "score": "1-1",
+          "goals1": [
+            "Yorke 71'"
+          ],
+          "goals2": [
+            "Montecinos 14'"
+          ]
+        },
+        {
+          "id1": "vasco-da-gama",
+          "team1": "Vasco da Gama",
+          "id2": "south-melbourne",
+          "team2": "South Melbourne",
+          "score": "2-0",
+          "goals1": [
+            "Felipe 53'",
+            "Edmundo 86'"
+          ],
+          "goals2": []
+        },
+        {
+          "id1": "manchester-united",
+          "team1": "Manchester United",
+          "id2": "vasco-da-gama",
+          "team2": "Vasco da Gama",
+          "score": "1-3",
+          "goals1": [
+            "Butt 81'"
+          ],
+          "goals2": [
+            "Romário 24', 26'",
+            "Edmundo 43'"
+          ]
+        },
+        {
+          "id1": "south-melbourne",
+          "team1": "South Melbourne",
+          "id2": "necaxa",
+          "team2": "Necaxa",
+          "score": "1-3",
+          "goals1": [
+            "Anastasiadis 45'"
+          ],
+          "goals2": [
+            "Montecinos 19' (pen.)",
+            "Delgado 29'",
+            "Cabrera 79'"
+          ]
+        },
+        {
+          "id1": "manchester-united",
+          "team1": "Manchester United",
+          "id2": "south-melbourne",
+          "team2": "South Melbourne",
+          "score": "2-0",
+          "goals1": [
+            "Fortune 8', 20'"
+          ],
+          "goals2": []
+        },
+        {
+          "id1": "necaxa",
+          "team1": "Necaxa",
+          "id2": "vasco-da-gama",
+          "team2": "Vasco da Gama",
+          "score": "1-2",
+          "goals1": [
+            "Aguinaga 5'"
+          ],
+          "goals2": [
+            "Odvan 14'",
+            "Romário 69'"
+          ]
+        }
+      ]
+    }
+  },
+  "bracket": {
+    "roundOf16": [],
+    "quarterFinals": [],
+    "semiFinals": [],
+    "thirdPlace": {
+      "id1": "real-madrid",
+      "id2": "necaxa",
+      "team1": "Real Madrid",
+      "team2": "Necaxa",
+      "country1": "es",
+      "country2": "mx",
+      "score": "1-1",
+      "penalties": "3-4",
+      "goals1": [
+        "Raúl 15'"
+      ],
+      "goals2": [
+        "Agustín Delgado 58'"
+      ]
+    },
+    "final": {
+      "id1": "corinthians",
+      "id2": "vasco-da-gama",
+      "team1": "Corinthians",
+      "team2": "Vasco da Gama",
+      "country1": "br",
+      "country2": "br",
+      "score": "0-0",
+      "penalties": "4-3",
+      "goals1": [],
+      "goals2": []
+    }
+  },
+  "stats": {
+    "topScorers": [
+      {
+        "name": "Nicolas Anelka",
+        "flag": "fr",
+        "clubId": "/escudos/espania/real-madrid/real-madrid.png",
+        "value": 3
+      },
+      {
+        "name": "Romário",
+        "flag": "br",
+        "clubId": "/escudos/brasil/vasco-da-gama/vasco.png",
+        "value": 3
+      },
+      {
+        "name": "Edmundo",
+        "flag": "br",
+        "clubId": "/escudos/brasil/vasco-da-gama/vasco.png",
+        "value": 2
+      },
+      {
+        "name": "Edílson",
+        "flag": "br",
+        "clubId": "/escudos/brasil/corinthians/corinthians.png",
+        "value": 2
+      },
+      {
+        "name": "Agustín Delgado",
+        "flag": "ec",
+        "clubId": "/escudos/mexico/necaxa/necaxa.png",
+        "value": 2
+      },
+      {
+        "name": "Quinton Fortune",
+        "flag": "za",
+        "clubId": "/escudos/inglaterra/manchester-united/manchester.png",
+        "value": 2
+      },
+      {
+        "name": "Fahad Al-Husseini",
+        "flag": "sa",
+        "clubId": "/escudos/arabia/alnassr/alnassr.png",
+        "value": 2
+      }
+    ],
+    "assists": []
+  }
+}

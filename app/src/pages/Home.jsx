@@ -3,6 +3,7 @@ import { Search, Trophy, Shield, Globe2, Activity } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState, useEffect, useRef } from 'react';
 import DatoDelDia from '../components/DatoDelDia';
+import SEO from '../components/SEO';
 
 export default function Home() {
   const [activeLang, setActiveLang] = useState('Español');
@@ -31,18 +32,27 @@ export default function Home() {
 
     // Diccionario de torneos para mapear nombres de trofeos a sus slugs (URLs)
     const trophyToSlug = {
-      'fa cup': 'fa_cup',
       'champions': 'champions',
       'liga de campeones': 'champions',
       'libertadores': 'libertadores',
       'sudamericana': 'sudamericana',
       'europa league': 'europa_league',
       'uefa': 'europa_league',
-      'copa del rey': 'copa_del_rey',
-      'dfb pokal': 'dfb_pokal',
-      'copa de francia': 'copa_francia',
-      'coppa italia': 'coppa_italia',
-      'copa argentina': 'copa_argentina'
+      'mercosur': 'mercosur',
+      'intertoto': 'intertoto',
+      'conference': 'conference_league',
+      'conference league': 'conference_league',
+      'intercontinental': 'intercontinental',
+      'mundial de clubes': 'mundial_clubes',
+      'recopa de europa': 'recopa_europa',
+      'supercopa de europa': 'supercopa_europa',
+      'supercopa sudamericana': 'supercopa_sudamericana',
+      'copa conmebol': 'copa_conmebol',
+      'recopa sudamericana': 'recopa_sudamericana',
+      'interamericana': 'interamericana',
+      'copa master': 'copa_master',
+      'copa de oro': 'copa_de_oro',
+      'suruga bank': 'suruga_bank'
     };
 
     // Diccionario de atajos para equipos que no tienen JSON pero queremos que dirijan a su liga
@@ -246,11 +256,23 @@ export default function Home() {
   ];
 
   if (import.meta.env.DEV) {
-    pillars.splice(2, 0, { title: t.cups, icon: Trophy, link: '/champions', bg: 'rgba(167, 139, 250, 0.1)', border: '#a855f7' });
+    pillars.splice(2, 0, { title: t.cups, icon: Trophy, link: '/copas', bg: 'rgba(167, 139, 250, 0.1)', border: '#a855f7' });
   }
 
   return (
     <div style={{ position: 'relative', width: '100%', minHeight: '100vh', overflow: 'hidden', background: '#020617' }}>
+      <SEO 
+        title="DataFútbol - Enciclopedia Histórica de Fútbol" 
+        description="Viajá por la historia de los clubes de fútbol del mundo, reviví los mundiales y repasá las grandes batallas intercontinentales en la enciclopedia definitiva."
+        schemaData={{
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "DataFútbol",
+          "url": "https://datafutbol.app",
+          "description": "La enciclopedia definitiva del fútbol mundial. Estadísticas, historia, títulos y datos de los equipos más importantes del mundo.",
+          "inLanguage": "es"
+        }}
+      />
       {/* Background Image */}
       <div
         style={{
