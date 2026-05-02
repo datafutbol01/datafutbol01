@@ -1,0 +1,228 @@
+{
+  "id": "san-luis",
+  "datos": {
+    "nombre_completo": "Atlético de San Luis",
+    "nombre_corto": "Atlético de San Luis",
+    "fundacion": "28 de mayo de 2013",
+    "escudo_actual": "/escudos/mexico/san-luis/2017-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "2013",
+      "hito": "La Resistencia Potosina",
+      "desc": "El 28 de mayo de 2013, ante la inminente orfandad deportiva de la ciudad tras la mudanza de la franquicia original del San Luis FC, el empresario Jacobo Payán Espinosa fundó el Club Atlético de San Luis. Naciendo en la Liga de Ascenso, el objetivo primario fue preservar el fútbol profesional en el emblemático Estadio Alfonso Lastras. Manteniendo el tradicional azul y oro de la huasteca potosina, la nueva institución comenzó un proceso de consolidación arduo, luchando por mantener viva la pasión futbolística de una de las plazas más fieles y castigadas de la república mexicana."
+    },
+    {
+      "ano": "2017",
+      "hito": "La Alianza con el Atlético de Madrid",
+      "desc": "El evento que transformó radicalmente el destino y el peso corporativo de la institución ocurrió en 2017. La directiva potosina firmó una alianza estratégica sin precedentes con el gigante europeo Atlético de Madrid, quien adquirió el 51% de las acciones del equipo. Esta inversión monumental trajo consigo la adopción de los colores rojiblancos madrileños y una reestructuración absoluta bajo metodologías europeas, dotando al club de un músculo financiero y táctico inédito en la categoría de plata del fútbol nacional."
+    },
+    {
+      "ano": "2019",
+      "hito": "El Bicampeonato del Ascenso",
+      "desc": "La sinergia hispano-mexicana no tardó en rendir dividendos asombrosos en el terreno de juego. Bajo la impecable dirección técnica del estratega Alfonso Sosa, el Atlético de San Luis dominó abrumadoramente la división de plata. El equipo potosino se coronó de manera consecutiva en el torneo Apertura 2018 y el Clausura 2019, venciendo en ambas finales a los Dorados de Sinaloa, entonces dirigidos por Diego Armando Maradona. Este histórico bicampeonato les otorgó la gloria absoluta."
+    },
+    {
+      "ano": "2019",
+      "hito": "El Regreso a Primera División",
+      "desc": "Con el boleto directo en mano tras dominar el Ascenso MX, el club firmó su retorno oficial a la Liga MX para el torneo Apertura 2019. El regreso significó no solo la recuperación de una plaza histórica para el máximo circuito, sino la validación del ambicioso proyecto del Atlético de Madrid en suelo americano. La ciudad volvió a vibrar con el fútbol de élite, desatando una euforia colectiva y posicionando al Estadio Alfonso Lastras nuevamente en el radar estelar."
+    },
+    {
+      "ano": "2022",
+      "hito": "La Consolidación en la Élite",
+      "desc": "Tras varios torneos de turbulencia en su adaptación a la Primera División, el proyecto encontró estabilidad táctica bajo la dirección del técnico brasileño André Jardine. Durante el Clausura 2022, el equipo mostró un fútbol dinámico, alegre y sumamente competitivo, clasificando a la liguilla tras eliminar de manera sorpresiva al Monterrey. Esta campaña marcó la consolidación definitiva del Atlético de San Luis como un equipo que dejó de luchar por la permanencia para convertirse en un animador recurrente y respetado de la Liga MX."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "2013 — 2016",
+      "desde": 2013,
+      "hasta": 2016,
+      "url": "/escudos/mexico/san-luis/2013-2016.webp"
+    },
+    {
+      "ano": "2017 — Presente",
+      "desde": 2017,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/san-luis/2017-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Alfonso Lastras Ramírez",
+      "fundacion": "25 de mayo de 1999",
+      "direccion": "Vicente Zepeda 802, Valle Dorado, 78399 San Luis, S.L.P., México",
+      "google_maps": "https://maps.app.goo.gl/hGz3f7B4ZtD7QxM96",
+      "lat": 22.1384,
+      "lng": -100.9501,
+      "obs": "Sede inquebrantable del fútbol potosino desde finales de los 90. La franquicia actual, vinculada al Atlético de Madrid, nació en 2013 pero mantuvo esta histórica localía."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio Plan de San Luis",
+        "desde": "1957",
+        "hasta": "1999",
+        "direccion": "Alamitos, 78280 San Luis, S.L.P., México",
+        "google_maps": "https://maps.app.goo.gl/y2P1oXq5Hn2kG7CVA",
+        "lat": 22.1481,
+        "lng": -100.9856,
+        "obs": "El histórico coliseo donde nació el fútbol profesional potosino y donde hicieron de local las históricas franquicias antecesoras directas del actual equipo."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 2,
+      "nombre": "Ascenso MX",
+      "anios": [
+        "Apertura 2018",
+        "Clausura 2019"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1957",
+      "hasta": "2013",
+      "desc": "Los antecesores históricos (San Luis FC y Real San Luis) vestían de un solo color auriazul (oro y azul), rindiendo tributo a los colores estatales.",
+      "c1": "#D1A25A",
+      "sh": "#002D62",
+      "me": "#D1A25A"
+    },
+    {
+      "desde": "2013",
+      "hasta": "Presente",
+      "desc": "Tras la refundación de la franquicia bajo el cobijo del Atlético de Madrid, adoptaron las rayas verticales rojas y blancas con pantaloncillos azules.",
+      "c1": "#E3001B",
+      "c2": "#FFFFFF",
+      "sh": "#002D62",
+      "me": "#E3001B"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Alfredo Moreno",
+        "apodo": "El Chango",
+        "epoca": "2007-2009, 2011-2012",
+        "desc": "Delantero argentino histórico en el fútbol mexicano. Se coronó campeón de goleo individual en el Apertura 2007, siendo la figura excluyente del San Luis FC original."
+      },
+      {
+        "nombre": "Ariel González",
+        "apodo": "El Apache",
+        "epoca": "2003-2006",
+        "desc": "Atacante de origen argentino naturalizado mexicano. Su capacidad goleadora fue el motor principal del equipo en su travesía por el Ascenso y sus primeros torneos en Primera."
+      },
+      {
+        "nombre": "Marcelo de Faria",
+        "apodo": "De Faria",
+        "epoca": "2002-2004",
+        "desc": "Centrodelantero brasileño recordado por su efectividad y carisma, siendo el autor del gol que selló el ascenso a Primera División en la temporada 2002."
+      },
+      {
+        "nombre": "Unai Bilbao",
+        "apodo": "Unai",
+        "epoca": "2018-2020, 2021-Presente",
+        "desc": "Defensor central español que se convirtió en el capitán y símbolo del Atlético de San Luis moderno. Fue clave en el bicampeonato del Ascenso y se afianzó como líder en la máxima categoría."
+      },
+      {
+        "nombre": "Braulio Luna",
+        "apodo": "Braulio",
+        "epoca": "2007-2010",
+        "desc": "Mediocampista experimentado que fungió como el capitán y cerebro táctico del equipo que alcanzó las fases finales de Liga y disputó competencias internacionales como la Copa Libertadores."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Nicolás Ibáñez",
+        "apodo": "Nico",
+        "goles": 57,
+        "epoca": "2018-2021",
+        "desc": "Máximo anotador en la era moderna del Atlético de San Luis. Sus impresionantes registros goleadores fueron la pieza central para lograr el ascenso y consolidarse en Primera."
+      },
+      {
+        "nombre": "Alfredo Moreno",
+        "apodo": "El Chango",
+        "goles": 54,
+        "epoca": "2007-2009, 2011-2012",
+        "desc": "Mantuvo un registro goleador destacada, destacando por su precisión en táctica fija y definición letal dentro del área rival."
+      },
+      {
+        "nombre": "Ariel González",
+        "apodo": "El Apache",
+        "goles": 51,
+        "epoca": "2003-2006",
+        "desc": "Referente ofensivo de las franquicias antecesoras, alcanzando esta destacado cifra gracias a su potencia física y constante presencia en el ataque."
+      },
+      {
+        "nombre": "Germán Berterame",
+        "apodo": "Berte",
+        "goles": 31,
+        "epoca": "2019-2022",
+        "desc": "Delantero argentino que conquistó el título de goleo en el torneo Apertura 2021, destacando por su dinamismo y técnica en la nueva etapa del club."
+      },
+      {
+        "nombre": "Marcelo de Faria",
+        "apodo": "De Faria",
+        "goles": 27,
+        "epoca": "2002-2004",
+        "desc": "Consiguió ingresar a la lista de goleadores históricos pese a jugar menos tiempo que otros delanteros, demostrando una altísima efectividad de cara a la portería."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Unai Bilbao",
+        "apodo": "Unai",
+        "partidos": 150,
+        "epoca": "2018-2020, 2021-Presente",
+        "desc": "El español ostenta el récord de mayor cantidad de partidos oficiales en la etapa del Atlético de San Luis, afianzándose como titular frecuente en la zaga central."
+      },
+      {
+        "nombre": "Juan David Castro",
+        "apodo": "El Tico",
+        "partidos": 135,
+        "epoca": "2017-Presente",
+        "desc": "Jugador polifuncional de origen mexicano que acompañó al club desde la división de Ascenso hasta el máximo circuito, mostrando una lealtad absoluta."
+      },
+      {
+        "nombre": "Ricardo Sánchez",
+        "apodo": "El Diablo",
+        "partidos": 150,
+        "epoca": "2002-2006",
+        "desc": "Guardameta titular durante la etapa del Club San Luis que sumó una alta cantidad de apariciones en la primera mitad de los años 2000."
+      },
+      {
+        "nombre": "Israel Martínez",
+        "apodo": "El Jagger",
+        "partidos": 130,
+        "epoca": "2004-2008",
+        "desc": "Lateral por izquierda de gran despliegue físico que destacó en el equipo antes de consolidar su carrera en el circuito nacional."
+      },
+      {
+        "nombre": "Javier Güémez",
+        "apodo": "Güémez",
+        "partidos": 120,
+        "epoca": "2021-Presente",
+        "desc": "Mediocampista de contención que asumió rápidamente el liderazgo en la época reciente, sumando más de cien encuentros como capitán del equipo."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Potosinos",
+      "origen": "Se refiere directamente al gentilicio de la población originaria de San Luis Potosí, demarcando un profundo sentido de pertenencia territorial."
+    },
+    {
+      "apodo": "Los Atléticos",
+      "origen": "Apodo contemporáneo implementado de manera paulatina desde 2017, cuando el equipo fue adquirido en mayoría accionaria por el Atlético de Madrid, de quien heredó su esquema de colores y metodologías."
+    },
+    {
+      "apodo": "Los Tuneros",
+      "origen": "Histórico apodo heredado de las franquicias potosinas del pasado. La palabra hace referencia a la tuna, fruto del nopal altamente abundante y tradicional en la región desértica de San Luis Potosí."
+    },
+    {
+      "apodo": "Los Rojiblancos",
+      "origen": "Mote adquirido en la época moderna tras la inversión del Atlético de Madrid, lo que provocó el cambio de sus tradicionales colores auriazules por las rayas rojas y blancas."
+    }
+  ]
+}

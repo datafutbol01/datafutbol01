@@ -1,0 +1,290 @@
+{
+  "id": "necaxa",
+  "datos": {
+    "nombre_completo": "Club Necaxa",
+    "nombre_corto": "Club Necaxa",
+    "fundacion": "21 de agosto de 1923",
+    "escudo_actual": "/escudos/mexico/necaxa/Club_Necaxa_logo2004-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1923",
+      "hito": "Nacimiento Eléctrico",
+      "desc": "El 21 de agosto de 1923, impulsado por el fervor de los trabajadores de la Compañía de Luz y Fuerza del Centro en la Ciudad de México, el ingeniero escocés William H. Frasser fundó el Club Deportivo Necaxa. El equipo nació de la fusión corporativa de los clubes 'Luz y Fuerza' y 'Tranvías', adoptando el nombre del río y de la presa hidroeléctrica que generaba energía para la capital. Financiados y organizados metódicamente por Frasser, los 'Electricistas' instauraron un modelo de disciplina profesional en la era amateur, adoptando los colores rojiblancos en su camiseta y forjando, desde la capital del país, una de las identidades más elegantes y míticas de los primeros años del fútbol mexicano."
+    },
+    {
+      "ano": "1932",
+      "hito": "La Era de los Once Hermanos",
+      "desc": "Durante la década de 1930, el Necaxa dominó la escena nacional con un equipo tan sincronizado y espectacular que la prensa y la afición los bautizaron como 'Los Once Hermanos'. Este grupo legendario, liderado por ídolos de la talla de Horacio Casarín e Hilario 'Moco' López, conquistó múltiples títulos de la Liga Mayor amateur y Copas nacionales, enamorando al país con un estilo de juego asociativo e invencible. Esta era dorada convirtió al Necaxa en el equipo más popular de México, instalando su grandeza en la memoria romántica del deporte nacional."
+    },
+    {
+      "ano": "1995",
+      "hito": "El Título de la Era Profesional",
+      "desc": "Tras décadas de ostracismo, desapariciones temporales e intrascendencia, la verdadera resurrección institucional llegó en los años noventa bajo el paraguas administrativo de Televisa. En la temporada 1994-95, bajo la dirección técnica de Manuel Lapuente y comandados en el campo por la inmensa inteligencia de Álex Aguinaga y los goles de Ivo Basay, el Necaxa derrotó al Cruz Azul en la final disputada en el Estadio Azteca. Este campeonato representó su primer título de liga en la era profesional, marcando el inicio del equipo más dominante de aquella década."
+    },
+    {
+      "ano": "1998",
+      "hito": "El Equipo de la Década",
+      "desc": "El dominio rojiblanco se prolongó de manera arrolladora durante los últimos años del siglo XX. El equipo consolidó su dinastía al conquistar el torneo Invierno 1998, venciendo a las Chivas del Guadalajara en el Estadio Jalisco con figuras emblemáticas como Sergio Zárate y José Luis Montes de Oca. Con este tercer título liguero en los noventa, el Necaxa fue catalogado unánimemente por la prensa y la afición como 'El Equipo de la Década', imponiendo un respeto absoluto en todo el país a través de un fútbol cerebral, frío y altamente efectivo."
+    },
+    {
+      "ano": "2000",
+      "hito": "La Épica del Mundial de Clubes",
+      "desc": "El reconocimiento global del Necaxa llegó en la edición inaugural del Campeonato Mundial de Clubes de la FIFA en Brasil del año 2000. Representando a la Concacaf, los 'Rayos' firmaron una actuación asombrosa, empatando heroicamente con el Manchester United y venciendo al todopoderoso Real Madrid en la tanda de penales para adjudicarse el tercer lugar mundial. Esta gesta internacional, grabada en bronce en los libros de historia, representó el clímax deportivo de una institución que demostró estar a la altura de la élite absoluta del planeta balompié."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1998 — 2004",
+      "desde": 1998,
+      "hasta": 2004,
+      "url": "/escudos/mexico/necaxa/Necaxa1998-2004.webp"
+    },
+    {
+      "ano": "2004 — Presente",
+      "desde": 2004,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/necaxa/Club_Necaxa_logo2004-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Victoria",
+      "fundacion": "26 de julio de 2003",
+      "direccion": "J. Jesús Consuelo S/N, Héroes, 20190 Aguascalientes, Ags., México",
+      "google_maps": "https://maps.app.goo.gl/uXpT6vF1G2XkM7zN7",
+      "lat": 21.8786,
+      "lng": -102.2858,
+      "obs": "Inmueble moderno construido tras la drástica mudanza del equipo, abandonando su larga estancia histórica en la Ciudad de México para radicarse permanentemente en Aguascalientes."
+    },
+    "viejas": [
+      {
+        "nombre": "Parque Asturias",
+        "desde": "1923",
+        "hasta": "1950",
+        "direccion": "Calzada de la Viga y Chabacano, Asturias, Ciudad de México, México",
+        "google_maps": "https://maps.app.goo.gl/rD5vY6nK5G8dF4RTA",
+        "lat": 19.4061,
+        "lng": -99.1308,
+        "obs": "Recinto de madera en la capital donde los legendarios 'Once Hermanos' del Necaxa cimentaron las bases de su historia en la época amateur."
+      },
+      {
+        "nombre": "Estadio de la Ciudad de los Deportes",
+        "desde": "1950",
+        "hasta": "1955",
+        "direccion": "Indiana 255, Cd. de los Deportes, Benito Juárez, Ciudad de México, México",
+        "google_maps": "https://maps.app.goo.gl/H4c4X6c3z2A4P7M16",
+        "lat": 19.3831,
+        "lng": -99.1776,
+        "obs": "Sede temporal antes de mudarse al Olímpico Universitario junto con los otros equipos de la capital."
+      },
+      {
+        "nombre": "Estadio Olímpico Universitario",
+        "desde": "1955",
+        "hasta": "1966",
+        "direccion": "Av. de los Insurgentes Sur S/N, C.U., Coyoacán, Ciudad de México, México",
+        "google_maps": "https://maps.app.goo.gl/1dRyR3Y4BqA9sM289",
+        "lat": 19.3315,
+        "lng": -99.192,
+        "obs": "Hogar compartido con los equipos grandes de la capital antes de la construcción definitiva del Coloso de Santa Úrsula."
+      },
+      {
+        "nombre": "Estadio Azteca",
+        "desde": "1966",
+        "hasta": "2003",
+        "direccion": "Calz. de Tlalpan 3465, Sta. Úrsula Coapa, Coyoacán, Ciudad de México, México",
+        "google_maps": "https://maps.app.goo.gl/V1wBvW8iQ9r6m9MGA",
+        "lat": 19.3029,
+        "lng": -99.1505,
+        "obs": "La monumental casa donde cimentaron su inolvidable e histórica 'Era de los 90', ganando todo y dominando el fútbol mexicano antes de emigrar a Aguascalientes."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 3,
+      "nombre": "Liga MX",
+      "anios": [
+        "1994-95",
+        "1995-96",
+        "Invierno 1998"
+      ]
+    },
+    {
+      "cantidad": 4,
+      "nombre": "Copa MX",
+      "anios": [
+        "1959-60",
+        "1965-66",
+        "1994-95",
+        "Clausura 2018"
+      ]
+    },
+    {
+      "cantidad": 2,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "1965-66",
+        "1994-95"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Supercopa MX",
+      "anios": [
+        "2017-18"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "1999"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Recopa de la CONCACAF",
+      "anios": [
+        "1994"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1923",
+      "hasta": "Presente",
+      "desc": "Las míticas rayas verticales rojas y blancas de los Electricistas, una indumentaria clásica del fútbol mexicano que ha prevalecido durante más de un siglo.",
+      "c1": "#E3001B",
+      "c2": "#FFFFFF",
+      "sh": "#FFFFFF",
+      "me": "#FFFFFF"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Alex Aguinaga",
+        "apodo": "El Maestro",
+        "epoca": "1989-2003",
+        "desc": "Histórico mediocampista ecuatoriano que fungió como el gran director de orquesta en el mediocampo rojiblanco. Su liderazgo e inteligencia táctica lo erigen como el máximo ídolo del equipo en la era moderna."
+      },
+      {
+        "nombre": "Ivo Basay",
+        "apodo": "El Hueso",
+        "epoca": "1990-1995",
+        "desc": "Potente y letal delantero chileno. Anotó uno de los goles más recordados en la historia del club durante la final contra Cruz Azul, otorgándoles su primer campeonato en la época profesional."
+      },
+      {
+        "nombre": "Ricardo Peláez",
+        "apodo": "Peláez",
+        "epoca": "1987-1997",
+        "desc": "reconocido centrodelantero que destacaba por su prodigioso remate de cabeza. Fue el arma ofensiva principal durante el dominio que los llevó a ser nombrados 'El Equipo de la Década'."
+      },
+      {
+        "nombre": "Nicolás Navarro",
+        "apodo": "El Guardián",
+        "epoca": "1983-1997, 2001-2003",
+        "desc": "Experimentado guardameta surgido de las fuerzas básicas. Su sobriedad bajo los postes brindó seguridad al equipo a lo largo de toda su etapa más exitosa y gloriosa."
+      },
+      {
+        "nombre": "Sergio Zárate",
+        "apodo": "El Ratón",
+        "epoca": "1995-1997, 1998-1999",
+        "desc": "Habilidoso extremo argentino que se caracterizaba por su regate en corto y explosividad. Fue una de las grandes figuras en el ataque del club en la segunda mitad de los noventa."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Ricardo Peláez",
+        "apodo": "Peláez",
+        "goles": 158,
+        "epoca": "1987-1997",
+        "desc": "Máximo anotador histórico de la institución en la era profesional. Su extraordinario instinto de ubicación en el área lo posicionó como un referente del gol en México."
+      },
+      {
+        "nombre": "Ivo Basay",
+        "apodo": "El Hueso",
+        "goles": 109,
+        "epoca": "1990-1995",
+        "desc": "Segundo mayor artillero en la historia del club. Obtuvo el campeonato de goleo individual en la temporada 1992-93 marcando 27 anotaciones."
+      },
+      {
+        "nombre": "Julio María Palleiro",
+        "apodo": "Palleiro",
+        "goles": 85,
+        "epoca": "1951-1959",
+        "desc": "Delantero uruguayo que dominó el goleo en la década de los cincuenta, conquistando el campeonato de goleo individual en dos temporadas consecutivas."
+      },
+      {
+        "nombre": "Alex Aguinaga",
+        "apodo": "El Maestro",
+        "goles": 85,
+        "epoca": "1989-2003",
+        "desc": "A pesar de no ser delantero nato, su constancia y jerarquía para cobrar tiros libres y penales le permitieron igualar el tercer puesto en la tabla histórica de anotadores."
+      },
+      {
+        "nombre": "Horacio Casarín",
+        "apodo": "Casarín",
+        "goles": 70,
+        "epoca": "1936-1942, 1950-1951",
+        "desc": "Ícono del fútbol mexicano y líder frecuente de la época de los 'Once Hermanos', aportando una alta cuota goleadora durante la brillante era amateur."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Nicolás Navarro",
+        "apodo": "El Guardián",
+        "partidos": 489,
+        "epoca": "1983-1997, 2001-2003",
+        "desc": "Ostenta el récord principal de partidos disputados con el club. Su larga y fiel trayectoria lo erige como un símbolo de la resistencia institucional."
+      },
+      {
+        "nombre": "Alex Aguinaga",
+        "apodo": "El Maestro",
+        "partidos": 476,
+        "epoca": "1989-2003",
+        "desc": "Mantuvo la regularidad durante catorce años, convirtiéndose en el extranjero con mayor cantidad de apariciones en la historia de la franquicia."
+      },
+      {
+        "nombre": "Ricardo Peláez",
+        "apodo": "Peláez",
+        "partidos": 352,
+        "epoca": "1987-1997",
+        "desc": "Completó este altísimo número de encuentros oficiales liderando ininterrumpidamente el ataque de la escuadra rojiblanca durante una década entera."
+      },
+      {
+        "nombre": "Octavio Becerril",
+        "apodo": "El Picas",
+        "partidos": 310,
+        "epoca": "1994-2000",
+        "desc": "Férreo defensor central que comandó la zaga durante la consecución de los principales títulos en los noventa, ganándose el respeto por su dureza defensiva."
+      },
+      {
+        "nombre": "José María Higareda",
+        "apodo": "Higareda",
+        "partidos": 305,
+        "epoca": "1994-2004",
+        "desc": "Lateral cumplidor y ordenado que se mantuvo como un elemento de total confianza para el cuerpo técnico a lo largo de múltiples campeonatos de Liga."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Electricistas",
+      "origen": "Deriva directamente del origen fundacional del club en 1923, impulsado por William H. Fraser para los trabajadores de la extinta compañía de Luz y Fuerza del Centro."
+    },
+    {
+      "apodo": "Los Rayos",
+      "origen": "Una evolución mercadológica del mote original, implementada en los años noventa bajo la administración de Televisa para modernizar la imagen del club sin perder su vínculo histórico con la electricidad."
+    },
+    {
+      "apodo": "El Equipo de la Década",
+      "origen": "Título otorgado por la prensa deportiva mexicana debido a la abrumadora hegemonía que impuso el club en los años noventa, logrando múltiples campeonatos de Liga bajo el mando de Manuel Lapuente y Raúl Arias."
+    },
+    {
+      "apodo": "Los Rojiblancos",
+      "origen": "Referencia a su vestimenta de rayas verticales rojas y blancas, colores fundacionales que compartieron históricamente con otros equipos pero que forjaron la identidad visual de la franquicia capitalina."
+    }
+  ]
+}

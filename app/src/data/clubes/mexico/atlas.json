@@ -1,0 +1,246 @@
+{
+  "id": "atlas",
+  "datos": {
+    "nombre_completo": "Atlas Fútbol Club",
+    "nombre_corto": "Atlas Fútbol Club",
+    "fundacion": "15 de agosto de 1916",
+    "escudo_actual": "/escudos/mexico/atlas/535px-Club_Atlas_de_Guadalajara_logo.svg.webp"
+  },
+  "historia": [
+    {
+      "ano": "1916",
+      "hito": "Nacimiento en la Alta Sociedad Tapatía",
+      "desc": "El 15 de agosto de 1916, en el legendario café 'Doña Adela' del centro de Guadalajara, un grupo de jóvenes aristócratas tapatíos materializó su pasión por el 'football'. Tras estudiar en prestigiosos colegios de Inglaterra y quedar prendados por la elegancia del juego británico, personajes como Juan José 'Lico' Cortina, Alfonso y Pedro Fernández del Valle, fundaron formalmente el Club Atlas. Cortina fue quien propuso el nombre, argumentando que, al igual que el titán mitológico sostenía el mundo, su equipo sería el sostén del balompié en Jalisco. Inspirados en el mártir San Lorenzo, adoptaron los colores rojinegros y el icónico escudo diseñado por Carlos Stahl, forjando a un equipo que nacía con cuna de seda, estilo depurado y una identidad romántica incomparable."
+    },
+    {
+      "ano": "1951",
+      "hito": "La Primera Estrella y el Derbi",
+      "desc": "El hito fundacional del prestigio deportivo del Atlas ocurrió en la temporada 1950-51, el año cumbre de la llamada 'Academia'. Bajo la tutela de Eduardo 'Che' Valdatti y con la figura estelar del costarricense Edwin Cubero, el Atlas conquistó su primer campeonato de Primera División al vencer dramáticamente por 1-0 a las Chivas, su más enconado rival, con un penal de Cubero. Este título cimentó la rivalidad del Clásico Tapatío y coronó la filosofía de un fútbol vistoso y técnico que definiría a la institución para siempre."
+    },
+    {
+      "ano": "1968",
+      "hito": "Los Reyes de la Copa",
+      "desc": "Durante los años sesenta, frente a la hegemonía emergente de su archirrival ciudadano, el Atlas forjó su identidad de resiliencia y prestigio en los torneos coperos. En la temporada 1967-68, los rojinegros derrotaron al poderoso Veracruz en la gran final para levantar la Copa México, adjudicándose su cuarto título de esta índole en menos de veinte años. Esta victoria reafirmó el linaje competitivo del club, pero también marcó paradójicamente el inicio de la que sería la sequía de títulos de liga más longeva e infame del balompié mexicano."
+    },
+    {
+      "ano": "1999",
+      "hito": "El Semillero de México",
+      "desc": "A pesar de la sequía de campeonatos ligueros, los rojinegros se consolidaron en los años noventa como la cantera más fructífera y brillante de México. Dirigidos por Ricardo La Volpe, la generación dorada de 1999, que incluía a figuras irrepetibles como Rafael Márquez, Juan Pablo Rodríguez, Miguel Zepeda y Daniel Osorno, practicó el fútbol más espectacular, ofensivo y moderno del país. Aunque perdieron la mítica final del torneo Verano 99 ante Toluca por penales, ese equipo enamoró a todo el país y exportó una base incalculable de talento a la Selección Nacional."
+    },
+    {
+      "ano": "2022",
+      "hito": "El Histórico Bicampeonato",
+      "desc": "Cargando con 70 años de burlas, sequía y frustraciones, la historia del Atlas se reescribió mágicamente bajo la dirección de Diego Cocca y la administración corporativa de Grupo Orlegi. En un clímax cinematográfico, los Rojinegros se coronaron en el Apertura 2021 derrotando a León en tanda de penales, exorcizando a todos sus demonios. Lejos de conformarse, repitieron la epopeya en el Clausura 2022 venciendo al Pachuca, logrando un bicampeonato asombroso que sepultó siete décadas de burlas y certificó la resurrección más emotiva en la historia del fútbol mexicano."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "desde": 1900,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/atlas/535px-Club_Atlas_de_Guadalajara_logo.svg.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Jalisco",
+      "fundacion": "31 de enero de 1960",
+      "direccion": "Calle 7 Colinas No. 1772, Independencia, 44290 Guadalajara, Jal., México",
+      "google_maps": "https://maps.app.goo.gl/Q2B4oQ1n8z4FzQYy7",
+      "lat": 20.7042,
+      "lng": -103.3283,
+      "obs": "Monumental estadio dos veces mundialista (1970 y 1986). A diferencia de Chivas que se mudó a un recinto nuevo, Atlas jamás abandonó este histórico coloso de la Calzada Independencia."
+    },
+    "viejas": [
+      {
+        "nombre": "Parque Paradero",
+        "desde": "1916",
+        "hasta": "1930",
+        "direccion": "Av. Tlaquepaque y Calzada del Ejército, Guadalajara, Jal., México",
+        "google_maps": "https://maps.app.goo.gl/9QZz1qV4J1hM7W2Q9",
+        "lat": 20.6558,
+        "lng": -103.3323,
+        "obs": "Canchas primitivas ubicadas junto a la zona del histórico paradero del tranvía."
+      },
+      {
+        "nombre": "Parque Oblatos",
+        "desde": "1930",
+        "hasta": "1960",
+        "direccion": "Calle Gigantes y Calle 30, Sector Libertad, 44730 Guadalajara, Jal., México",
+        "google_maps": "https://maps.app.goo.gl/P2Y4V5w8P3y4T7L26",
+        "lat": 20.6728,
+        "lng": -103.3188,
+        "obs": "Conocido también como Parque Martínez Sandoval. Atlas forjó aquí su único título de la era antigua (1951) y la rivalidad legendaria del Clásico Tapatío."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 3,
+      "nombre": "Liga MX",
+      "anios": [
+        "1950-51",
+        "Apertura 2021",
+        "Clausura 2022"
+      ]
+    },
+    {
+      "cantidad": 4,
+      "nombre": "Copa MX",
+      "anios": [
+        "1945-46",
+        "1949-50",
+        "1961-62",
+        "1967-68"
+      ]
+    },
+    {
+      "cantidad": 5,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "1945-46",
+        "1949-50",
+        "1950-51",
+        "1961-62",
+        "2021-22"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1916",
+      "hasta": "Presente",
+      "desc": "Una de las camisetas más hermosas del fútbol mexicano, dividida en dos mitades perfectas: rojo sangre y negro, que representan a San Lorenzo mártir y al colegio Ampleforth.",
+      "c1": "#000000",
+      "c2": "#E3001B",
+      "sh": "#000000",
+      "me": "#000000"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Rafael Márquez",
+        "apodo": "El Káiser",
+        "epoca": "1996-1999, 2016-2018",
+        "desc": "El máximo canterano en la historia del club. Debutó joven, brilló en la inolvidable generación del '99, y regresó años después para retirarse defendiendo los colores rojinegros."
+      },
+      {
+        "nombre": "Ricardo Chavarín",
+        "apodo": "El Astroboy",
+        "epoca": "1970-1980",
+        "desc": "Delantero carismático e ídolo principal en la década de los setenta. Destacó por su velocidad y definición, formando una dupla entrañable con Berna García."
+      },
+      {
+        "nombre": "Camilo Vargas",
+        "apodo": "El Muro",
+        "epoca": "2019-Presente",
+        "desc": "Guardameta colombiano que se erigió como el héroe del histórico bicampeonato. Sus intervenciones, especialmente en tandas de penales, le dieron el título de leyenda institucional."
+      },
+      {
+        "nombre": "Julio Furch",
+        "apodo": "El Emperador",
+        "epoca": "2021-2023",
+        "desc": "Centrodelantero que marcó el gol de penal definitivo en el Apertura 2021 para romper una sequía de setenta años, asegurando su lugar en la historia grande del club."
+      },
+      {
+        "nombre": "Aldo Rocha",
+        "apodo": "El Capitán",
+        "epoca": "2021-Presente",
+        "desc": "Mediocampista central que fungió como el líder moral y táctico del equipo bicampeón, anotando goles decisivos y mostrando un temple constante en el campo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "José de Jesús Aceves",
+        "apodo": "El Güero",
+        "goles": 82,
+        "epoca": "1970-1980",
+        "desc": "Líder anotador histórico de la institución. Mantuvo una constancia ofensiva remarcable durante toda la década de los setenta, destacando por su inteligencia en el área."
+      },
+      {
+        "nombre": "Edwin Cubero",
+        "apodo": "Cubero",
+        "goles": 81,
+        "epoca": "1948-1952",
+        "desc": "Atacante costarricense que ocupó el puesto de máximo artillero durante décadas. Autor del recordado penal que le dio al club su primer título de Liga en 1951."
+      },
+      {
+        "nombre": "Daniel Osorno",
+        "apodo": "Osorno",
+        "goles": 75,
+        "epoca": "1997-2003, 2004-2007, 2009-2011",
+        "desc": "Extremo izquierdo surgido de la cantera. Su desequilibrio y llegada lo convirtieron en un goleador regular a lo largo de sus tres diferentes etapas con el equipo."
+      },
+      {
+        "nombre": "Carlos Muñoz",
+        "apodo": "Muñoz",
+        "goles": 66,
+        "epoca": "1996-1998, 2001-2002",
+        "desc": "Centrodelantero español que dejó huella rápidamente. En el torneo Invierno 1996 consiguió el título de goleo individual anotando 15 goles."
+      },
+      {
+        "nombre": "Hugo Norberto Castillo",
+        "apodo": "El Misionero",
+        "goles": 60,
+        "epoca": "1998-2001",
+        "desc": "Volante ofensivo argentino de excelsa técnica individual. Aportó goles destacados y fue pieza clave de la recordada generación de finales de los noventa."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Jesús del Muro",
+        "apodo": "Chucho",
+        "partidos": 300,
+        "epoca": "1954-1965",
+        "desc": "Defensa central caracterizado por su firmeza y liderazgo. Fue un bastión defensivo de la escuadra durante más de diez años de servicio ininterrumpido."
+      },
+      {
+        "nombre": "Alfredo Torres",
+        "apodo": "El Pistache",
+        "partidos": 300,
+        "epoca": "1952-1964",
+        "desc": "Referente histórico tanto como jugador y entrenador. Sumó una enorme cantidad de apariciones vistiendo y defendiendo exclusivamente los colores de su amado club."
+      },
+      {
+        "nombre": "Daniel Osorno",
+        "apodo": "Osorno",
+        "partidos": 339,
+        "epoca": "1997-2003, 2004-2007, 2009-2011",
+        "desc": "Además de su aporte goleador, acumuló una de las cifras más altas de presencias oficiales en la era moderna, siendo un emblema de la cantera rojinegra."
+      },
+      {
+        "nombre": "Erubey Cabuto",
+        "apodo": "Cabuto",
+        "partidos": 288,
+        "epoca": "1995-2002",
+        "desc": "Guardameta titular de la llamada 'generación de oro'. Resguardó el arco tapatío con agilidad y seguridad durante más de un lustro consecutivo."
+      },
+      {
+        "nombre": "Camilo Vargas",
+        "apodo": "El Muro",
+        "partidos": 200,
+        "epoca": "2019-Presente",
+        "desc": "Alcanzó el estatus de jugador extranjero con gran número de presencias, aportando regularidad y consistencia en el pórtico rojinegro a lo largo de varios torneos."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Zorros",
+      "origen": "Se popularizó en la década de 1950 cuando un dibujante local publicó caricaturas del equipo representado como un zorro. El club adoptó oficialmente el apodo por considerarlo un animal ágil, inteligente e impredecible."
+    },
+    {
+      "apodo": "La Academia",
+      "origen": "Surge en la década de los cuarenta y cincuenta debido al estilo de juego refinado, técnico y formativo del club. Posteriormente, el término se consolidó gracias al rotundo éxito de las fuerzas básicas rojinegras en la producción de talentos de exportación."
+    },
+    {
+      "apodo": "Los Rojinegros",
+      "origen": "Apelativo directo a los colores fundacionales del club (rojo y negro), los cuales fueron sugeridos por los hermanos Orendain, inspirados en los colores del mártir San Lorenzo, patrono del colegio inglés donde estudiaron."
+    },
+    {
+      "apodo": "Los Amigos del Balón",
+      "origen": "Surgió a mediados del siglo XX en reconocimiento al estilo de juego sumamente técnico, asociativo y vistoso que implementaron, priorizando siempre el buen trato de la pelota sobre la fuerza física."
+    }
+  ]
+}

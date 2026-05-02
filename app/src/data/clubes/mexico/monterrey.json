@@ -1,0 +1,312 @@
+{
+  "id": "monterrey",
+  "datos": {
+    "nombre_completo": "Club de Fútbol Monterrey",
+    "nombre_corto": "Club de Fútbol Monterrey",
+    "fundacion": "28 de junio de 1945",
+    "escudo_actual": "/escudos/mexico/monterrey/CF_Monterrey_Crest_2011-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1945",
+      "hito": "Nacimiento en Tierra Beisbolera",
+      "desc": "El 28 de junio de 1945, en una casona de la calle Padre Mier, un grupo de empresarios regiomontanos liderados por Enrique Ayala Medina, Paul C. Probert, Rogelio Cantú Gómez y Miguel Margáin Zozaya fundaron formalmente el Club de Fútbol Monterrey. En una ciudad predominantemente industrial y beisbolera, el objetivo fundacional fue ofrecer un espectáculo futbolístico profesional que representara a Nuevo León a nivel nacional. Tras un trágico accidente vial en su primera temporada que diezmó al plantel y obligó a una pausa temporal, el club resurgió en los años cincuenta, adoptando los icónicos colores azul y blanco a rayas y forjando, a base de resistencia y arraigo regional, la pasional identidad de los 'Rayados'."
+    },
+    {
+      "ano": "1986",
+      "hito": "El Primer Título",
+      "desc": "En el torneo México 86, previo a la Copa del Mundo, el equipo dirigido por Francisco Avilán rompió cuatro décadas de sequía y anonimato. Apoyados en figuras locales como Francisco Javier 'El Abuelo' Cruz y Mario de Souza Mota 'Bahía', los Rayados desplegaron un fútbol aguerrido y efectivo, venciendo al Tampico Madero en la final disputada en el Estadio Tecnológico para alzar su primer campeonato de Primera División y consolidarse finalmente en la élite."
+    },
+    {
+      "ano": "2003",
+      "hito": "El Renacimiento Institucional",
+      "desc": "Tras superar severas crisis financieras a finales de los noventa, la institución fue rescatada y reestructurada por FEMSA. Este renacimiento corporativo se cristalizó deportivamente en el torneo Clausura 2003 bajo la batuta del técnico argentino Daniel Passarella. Con figuras emblemáticas como Guillermo Franco y Jesús 'Cabrito' Arellano, el Monterrey venció a Monarcas Morelia en la gran final, bordando su segunda estrella y marcando el inicio de una era de prosperidad económica ininterrumpida."
+    },
+    {
+      "ano": "2009",
+      "hito": "La Era Dorada de Vucetich",
+      "desc": "La llegada del técnico Víctor Manuel Vucetich inauguró la etapa más hegemónica y brillante en la historia albiazul. Con un plantel de época comandado por Humberto Suazo y Aldo de Nigris, el Monterrey conquistó de forma apabullante los torneos Apertura 2009 y Apertura 2010. Este equipo no solo dominó el fútbol doméstico con autoridad y jerarquía, sino que sembró las bases definitivas para la proyección internacional que definiría la identidad moderna del club."
+    },
+    {
+      "ano": "2011",
+      "hito": "La Dinastía de Concacaf",
+      "desc": "Trascendiendo las fronteras del balompié mexicano, los Rayados instauraron una auténtica dictadura en la Liga de Campeones de la Concacaf, logrando un asombroso tricampeonato internacional consecutivo (2011, 2012 y 2013). Esta racha histórica catapultó al Monterrey al plano global, participando recurrentemente en el Mundial de Clubes de la FIFA y certificando la transformación definitiva de un modesto equipo de provincia en un gigante absoluto del continente."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1945 — 1960",
+      "desde": 1945,
+      "hasta": 1960,
+      "url": "/escudos/mexico/monterrey/Mtyretro1945-1960.webp"
+    },
+    {
+      "ano": "1960 — 1970",
+      "desde": 1960,
+      "hasta": 1970,
+      "url": "/escudos/mexico/monterrey/Mty1960-1970.webp"
+    },
+    {
+      "ano": "1970 — 1991",
+      "desde": 1970,
+      "hasta": 1991,
+      "url": "/escudos/mexico/monterrey/Lgo-Monterrey-1970-1991.webp"
+    },
+    {
+      "ano": "1991 — 2000",
+      "desde": 1991,
+      "hasta": 2000,
+      "url": "/escudos/mexico/monterrey/Monterrey1991-2000.svg"
+    },
+    {
+      "ano": "2000 — 2003",
+      "desde": 2000,
+      "hasta": 2003,
+      "url": "/escudos/mexico/monterrey/Cf_monterrey2000-2003.webp"
+    },
+    {
+      "ano": "2003 — 2009",
+      "desde": 2003,
+      "hasta": 2009,
+      "url": "/escudos/mexico/monterrey/Monterreyold2003-2009.webp"
+    },
+    {
+      "ano": "2009 — 2010",
+      "desde": 2009,
+      "hasta": 2010,
+      "url": "/escudos/mexico/monterrey/2009-2010.webp"
+    },
+    {
+      "ano": "2010 — 2011",
+      "desde": 2010,
+      "hasta": 2011,
+      "url": "/escudos/mexico/monterrey/265px-CF_Monterrey_Logo_2010-2011svg.webp"
+    },
+    {
+      "ano": "2011 — Presente",
+      "desde": 2011,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/monterrey/CF_Monterrey_Crest_2011-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio BBVA",
+      "fundacion": "2 de agosto de 2015",
+      "direccion": "Av. Pablo Livas 2011, La Pastora, 67140 Guadalupe, N.L., México",
+      "google_maps": "https://maps.app.goo.gl/y2P1oXq5Hn2kG7CVA",
+      "lat": 25.6687,
+      "lng": -100.2445,
+      "obs": "Conocido coloquialmente como 'El Gigante de Acero'. Nombres por acuerdos comerciales: Estadio BBVA Bancomer (2015-2019), Estadio BBVA (2019-Presente)."
+    },
+    "viejas": [
+      {
+        "nombre": "Parque Cuauhtémoc",
+        "desde": "1945",
+        "hasta": "1950",
+        "direccion": "Centro de Monterrey, Nuevo León, México",
+        "google_maps": "https://maps.app.goo.gl/9R6K3V4M2N1Q8L7A9",
+        "lat": 25.6866,
+        "lng": -100.3161,
+        "obs": "Primer recinto de béisbol adaptado para el equipo en sus años formativos."
+      },
+      {
+        "nombre": "Estadio Tecnológico",
+        "desde": "1950",
+        "hasta": "2015",
+        "direccion": "Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., México",
+        "google_maps": "https://maps.app.goo.gl/XqL3M4Z2N9P8Q7W86",
+        "lat": 25.6525,
+        "lng": -100.2936,
+        "obs": "Histórica casa rayada donde el club forjó su identidad y conquistó sus primeros títulos. Fue demolido en 2017."
+      },
+      {
+        "nombre": "Estadio Universitario",
+        "desde": "1973",
+        "hasta": "1980",
+        "direccion": "Av. Niños Héroes S/N, Cd. Universitaria, 66451 San Nicolás de los Garza, N.L., México",
+        "google_maps": "https://maps.app.goo.gl/K6vX8L4M2N1Q8L7A9",
+        "lat": 25.7275,
+        "lng": -100.3122,
+        "obs": "Durante un período de remodelaciones y conflictos con el Tecnológico, Rayados alquiló temporalmente el 'Volcán', compartiendo casa con su acérrimo rival, Tigres."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 5,
+      "nombre": "Liga MX",
+      "anios": [
+        "México 1986",
+        "Clausura 2003",
+        "Apertura 2009",
+        "Apertura 2010",
+        "Apertura 2019"
+      ]
+    },
+    {
+      "cantidad": 3,
+      "nombre": "Copa MX",
+      "anios": [
+        "1991-92",
+        "Apertura 2017",
+        "2019-20"
+      ]
+    },
+    {
+      "cantidad": 5,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2019",
+        "2021"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Recopa de la CONCACAF",
+      "anios": [
+        "1993"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1945",
+      "hasta": "Presente",
+      "desc": "Clásicas rayas verticales en azul marino y blanco que han sido la piel del club desde sus orígenes, combinadas históricamente con pantaloncillos y medias azul marino.",
+      "c1": "#003B7C",
+      "c2": "#FFFFFF",
+      "sh": "#003B7C",
+      "me": "#003B7C"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Humberto Suazo",
+        "apodo": "Chupete",
+        "epoca": "2007-2014",
+        "desc": "Delantero chileno que lideró la época más exitosa del club. Fue pieza clave en la obtención de dos títulos de Liga y el tricampeonato de la Liga de Campeones de CONCACAF."
+      },
+      {
+        "nombre": "Jesús Arellano",
+        "apodo": "Cabrito",
+        "epoca": "1992-1997, 2000-2011",
+        "desc": "Extremo regiomontano caracterizado por su desborde por la banda derecha. Capitaneó al equipo en la consecución de los campeonatos de Liga del Clausura 2003 y Apertura 2009."
+      },
+      {
+        "nombre": "Mario de Souza Mota",
+        "apodo": "Bahía",
+        "epoca": "1984-1992",
+        "desc": "Atacante brasileño que se convirtió en el principal referente ofensivo de la institución en los ochenta. Mantiene el récord como máximo anotador en la historia del Clásico Regiomontano."
+      },
+      {
+        "nombre": "Guillermo Franco",
+        "apodo": "Guille",
+        "epoca": "2002-2005",
+        "desc": "Delantero de origen argentino que fue fundamental en el campeonato del Clausura 2003. Su rendimiento ofensivo lo llevó a obtener un título de goleo individual en 2004."
+      },
+      {
+        "nombre": "Aldo de Nigris",
+        "apodo": "Aldo",
+        "epoca": "2009-2013, 2015-2017",
+        "desc": "Centrodelantero regiomontano que conformó una destacada dupla ofensiva con Humberto Suazo. Contribuyó significativamente en la obtención de múltiples campeonatos nacionales e internacionales."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Rogelio Funes Mori",
+        "apodo": "El Mellizo",
+        "goles": 160,
+        "epoca": "2015-2023",
+        "desc": "Máximo anotador histórico del club. Superó la marca previa en 2021 y se consolidó como el principal referente de ataque durante casi una década."
+      },
+      {
+        "nombre": "Humberto Suazo",
+        "apodo": "Chupete",
+        "goles": 121,
+        "epoca": "2007-2014",
+        "desc": "Segundo mayor goleador histórico. Su capacidad de definición en partidos definitivos, tanto en Liga MX como en competencias internacionales, lo consolidó como figura."
+      },
+      {
+        "nombre": "Mario de Souza Mota",
+        "apodo": "Bahía",
+        "goles": 96,
+        "epoca": "1984-1992",
+        "desc": "Mantuvo el récord de goleo de la institución por varias décadas gracias a su efectividad ofensiva constante a lo largo de los años ochenta y principios de los noventa."
+      },
+      {
+        "nombre": "Dorlan Pabón",
+        "apodo": "Memín",
+        "goles": 88,
+        "epoca": "2013, 2014-2021",
+        "desc": "Delantero colombiano que destacó tanto por su potente disparo de media distancia como por su capacidad de asistencia, siendo uno de los atacantes más rentables del club."
+      },
+      {
+        "nombre": "Aldo de Nigris",
+        "apodo": "Aldo",
+        "goles": 83,
+        "epoca": "2009-2013, 2015-2017",
+        "desc": "Surgido en la ciudad, se convirtió en el delantero mexicano con más anotaciones en la historia del equipo Monterrey."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Jesús Arellano",
+        "apodo": "Cabrito",
+        "partidos": 439,
+        "epoca": "1992-1997, 2000-2011",
+        "desc": "Jugador con mayor cantidad de partidos oficiales disputados en la historia del club. Su permanencia y regularidad lo erigieron como símbolo institucional."
+      },
+      {
+        "nombre": "José María Basanta",
+        "apodo": "Chema",
+        "partidos": 384,
+        "epoca": "2008-2014, 2015-2020",
+        "desc": "Defensa central argentino que capitaneó al equipo durante su época más ganadora. Es el jugador que más títulos oficiales ha levantado con la camiseta albiazul."
+      },
+      {
+        "nombre": "Luis Ernesto Pérez",
+        "apodo": "Lucho",
+        "partidos": 335,
+        "epoca": "2003-2012, 2015-2016",
+        "desc": "Mediocampista central que organizó el juego del equipo durante la consecución de tres títulos de Liga, destacando por su inteligencia táctica."
+      },
+      {
+        "nombre": "Rogelio Funes Mori",
+        "apodo": "El Mellizo",
+        "partidos": 328,
+        "epoca": "2015-2023",
+        "desc": "Acumuló esta cifra a la par de su registro goleador, manteniendo la titularidad constante en la posición de centrodelantero a lo largo de múltiples procesos técnicos."
+      },
+      {
+        "nombre": "Jonathan Orozco",
+        "apodo": "Jona",
+        "partidos": 318,
+        "epoca": "2005-2016",
+        "desc": "Guardameta surgido de la cantera que se consolidó como titular frecuente. Resguardó el arco en la obtención de dos Ligas y el tricampeonato de CONCACAF."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Rayados",
+      "origen": "Se originó a partir del uniforme utilizado en la temporada 1952-53, cuando la directiva determinó implementar definitivamente una camiseta con líneas verticales blancas y azules, abandonando las distintas combinaciones irregulares de sus primeros años."
+    },
+    {
+      "apodo": "La Pandilla",
+      "origen": "Surgió en la década de los sesenta en la prensa local regiomontana. Un periodista apodó al equipo \"La Pandilla del Cerro de la Silla\" por la juventud y rebeldía futbolística del plantel que luchaba en los primeros puestos del circuito."
+    },
+    {
+      "apodo": "Los Albiazules",
+      "origen": "Derivado de la composición cromática de su uniforme (\"albo\" por blanco y azul), es el término más común utilizado por cronistas locales para describir a la escuadra cuando salta a la cancha."
+    },
+    {
+      "apodo": "La Aplanadora",
+      "origen": "Mote histórico surgido durante la brillante época de los años noventa y principios de los 2000, cuando el equipo logró conformar planteles sumamente ofensivos que arrollaban a sus rivales como locales en el Estadio Tecnológico."
+    }
+  ]
+}

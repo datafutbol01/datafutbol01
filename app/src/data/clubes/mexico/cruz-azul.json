@@ -1,0 +1,342 @@
+{
+  "id": "cruz-azul",
+  "datos": {
+    "nombre_completo": "Cruz Azul Fútbol Club",
+    "nombre_corto": "Cruz Azul Fútbol Club",
+    "fundacion": "22 de mayo de 1927",
+    "escudo_actual": "/escudos/mexico/cruz-azul/Cruz_Azul_2022-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1927",
+      "hito": "Nacimiento en la Cementera",
+      "desc": "El 22 de mayo de 1927, en la industrial ciudad de Jasso, Hidalgo (hoy conocida como Ciudad Cooperativa Cruz Azul), nació una de las instituciones más gloriosas del fútbol nacional. Impulsado por el fervor de los trabajadores cementeros y con el apoyo irrestricto de Guillermo Álvarez Macías y Carlos Garcés, el club se formó como una vía de esparcimiento obrero. Originalmente un modesto equipo amateur integrado por los propios empleados de la cementera, el Cruz Azul adoptó rápidamente el inconfundible azul que teñiría de leyenda los campos de tierra antes de conquistar el cemento y el césped de Primera División, forjando un arraigo popular imborrable."
+    },
+    {
+      "ano": "1964",
+      "hito": "Ascenso a la Grandeza",
+      "desc": "Tras dominar las ligas amateur y dar el salto al profesionalismo, el Cruz Azul firmó una campaña épica en la Segunda División bajo la dirección del técnico húngaro Jorge Marik, asegurando su histórico ascenso a la máxima categoría en 1964. Este triunfo deportivo provocó una reorganización monumental, mudando eventualmente al equipo a la capital y transformando a una escuadra de obreros en un contendiente de impacto y jerarquía nacional."
+    },
+    {
+      "ano": "1972",
+      "hito": "El Nacimiento de La Máquina",
+      "desc": "La década de 1970 presenció el surgimiento de 'La Máquina Celeste', uno de los equipos más apabullantes, físicos y dominantes en la historia del fútbol mexicano. Comandados por el legendario portero Miguel Marín 'El Superman' y dirigidos por Raúl Cárdenas, el conjunto cementero instauró una auténtica dictadura deportiva al conseguir seis títulos de liga en un periodo de diez años (incluyendo un tricampeonato), desplazando la jerarquía de los equipos tradicionales."
+    },
+    {
+      "ano": "1997",
+      "hito": "La Sangre de Hermosillo",
+      "desc": "En la final del torneo Invierno 1997 ante el Club León, el Cruz Azul vivió uno de los episodios más icónicos de su rica historia. En tiempo extra, el atacante Carlos Hermosillo fue brutalmente derribado en el área. Con el rostro completamente ensangrentado y el peso de una final en sus botines, Hermosillo cobró el penal de oro que significó la octava estrella para la institución, inmortalizando una postal de estoicismo puro."
+    },
+    {
+      "ano": "2021",
+      "hito": "El Desahogo de la Novena",
+      "desc": "Después de casi veinticuatro años de sufrimiento y finales perdidas, el Cruz Azul experimentó un resurgimiento catártico en el torneo Guard1anes 2021. Dirigidos por Juan Reynoso, excapitán y héroe de la conquista de 1997, 'La Máquina' rompió con su oscura racha al vencer a Santos Laguna en la cancha del Estadio Azteca, bordando la anhelada Novena Estrella y desatando un desahogo emocional sin precedentes en la afición nacional."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1964 — 1971",
+      "desde": 1964,
+      "hasta": 1971,
+      "url": "/escudos/mexico/cruz-azul/1964-1971.webp"
+    },
+    {
+      "ano": "1971 — 1972",
+      "desde": 1971,
+      "hasta": 1972,
+      "url": "/escudos/mexico/cruz-azul/1971-1972.webp"
+    },
+    {
+      "ano": "1972 — 1973",
+      "desde": 1972,
+      "hasta": 1973,
+      "url": "/escudos/mexico/cruz-azul/1972-1973.webp"
+    },
+    {
+      "ano": "1973 — 1974",
+      "desde": 1973,
+      "hasta": 1974,
+      "url": "/escudos/mexico/cruz-azul/1973-1974.webp"
+    },
+    {
+      "ano": "1974 — 1979",
+      "desde": 1974,
+      "hasta": 1979,
+      "url": "/escudos/mexico/cruz-azul/1974-1979.webp"
+    },
+    {
+      "ano": "1979 — 1980",
+      "desde": 1979,
+      "hasta": 1980,
+      "url": "/escudos/mexico/cruz-azul/1979-1980.webp"
+    },
+    {
+      "ano": "1980 — 1995",
+      "desde": 1980,
+      "hasta": 1995,
+      "url": "/escudos/mexico/cruz-azul/1980-1995.webp"
+    },
+    {
+      "ano": "1995 — 1997",
+      "desde": 1995,
+      "hasta": 1997,
+      "url": "/escudos/mexico/cruz-azul/Invierno1995-1997.webp"
+    },
+    {
+      "ano": "1997 — 2021",
+      "desde": 1997,
+      "hasta": 2021,
+      "url": "/escudos/mexico/cruz-azul/1997-2021.webp"
+    },
+    {
+      "ano": "2021 — 2022",
+      "desde": 2021,
+      "hasta": 2022,
+      "url": "/escudos/mexico/cruz-azul/Cruzazul2021-2022.webp"
+    },
+    {
+      "ano": "2022 — Presente",
+      "desde": 2022,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/cruz-azul/Cruz_Azul_2022-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Ciudad de los Deportes",
+      "fundacion": "6 de octubre de 1946",
+      "direccion": "Indiana 255, Cd. de los Deportes, Benito Juárez, 03710 Ciudad de México, CDMX, México",
+      "google_maps": "https://maps.app.goo.gl/3A3q5TzG78L1R5Pz9",
+      "lat": 19.3831,
+      "lng": -99.1776,
+      "obs": "Histórica casa cementera conocida como Estadio Azul (1996-2018). El club regresó a este recinto en 2024 temporalmente por las remodelaciones del Estadio Azteca."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio 10 de Diciembre",
+        "desde": "1964",
+        "hasta": "1971",
+        "direccion": "Jasso, 42840 Cd Cooperativa Cruz Azul, Hgo., México",
+        "google_maps": "https://maps.app.goo.gl/T4z1Y9gG3nZ6m1uW8",
+        "lat": 19.9678,
+        "lng": -99.3243,
+        "obs": "El recinto original donde el club logró el histórico ascenso a Primera División."
+      },
+      {
+        "nombre": "Estadio Azteca",
+        "desde": "1971",
+        "hasta": "2024",
+        "direccion": "Calz. de Tlalpan 3465, Sta. Úrsula Coapa, Coyoacán, 04650 Ciudad de México, CDMX, México",
+        "google_maps": "https://maps.app.goo.gl/nN4x62k1oB4A4i7y9",
+        "lat": 19.3029,
+        "lng": -99.1505,
+        "obs": "Casa principal de La Máquina en dos etapas distintas: la inmensa época dorada de los años 70 (1971-1996) y recientemente (2018-2024)."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 9,
+      "nombre": "Liga MX",
+      "anios": [
+        "1968-69",
+        "México 1970",
+        "1971-72",
+        "1972-73",
+        "1973-74",
+        "1978-79",
+        "1979-80",
+        "Invierno 1997",
+        "Clausura 2021"
+      ]
+    },
+    {
+      "cantidad": 4,
+      "nombre": "Copa MX",
+      "anios": [
+        "1968-69",
+        "1996-97",
+        "Clausura 2013",
+        "Apertura 2018"
+      ]
+    },
+    {
+      "cantidad": 3,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "1968-69",
+        "1973-74",
+        "2020-21"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Supercopa de la Liga MX",
+      "anios": [
+        "2024"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Supercopa MX",
+      "anios": [
+        "2018-19"
+      ]
+    },
+    {
+      "cantidad": 6,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "1969",
+        "1970",
+        "1971",
+        "1996",
+        "1997",
+        "2013-14"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Leagues Cup",
+      "anios": [
+        "2019"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1927",
+      "hasta": "Presente",
+      "desc": "Inmaculado diseño de un solo color azul cruzazulino en la camiseta, pantalón blanco y medias azules, colores que representan el origen cementero y obrero de la institución.",
+      "c1": "#00479F",
+      "sh": "#FFFFFF",
+      "me": "#00479F"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Miguel Marín",
+        "apodo": "El Gato",
+        "epoca": "1971-1981",
+        "desc": "Guardameta argentino que fue pilar en la consolidación de la época dorada del club en los años setenta, destacando por su seguridad bajo los tres postes y liderazgo defensivo."
+      },
+      {
+        "nombre": "Carlos Hermosillo",
+        "apodo": "El Grandote de Cerro Azul",
+        "epoca": "1991-1998",
+        "desc": "Delantero de área que se convirtió en el principal referente ofensivo de la institución en los noventa, anotando el penal decisivo para el título del torneo Invierno 1997."
+      },
+      {
+        "nombre": "Fernando Bustos",
+        "apodo": "El Güero",
+        "epoca": "1963-1979",
+        "desc": "Atacante surgido de las fuerzas básicas que formó parte fundamental del ascenso a Primera División y de la conquista de seis títulos de Liga durante su trayectoria en el equipo."
+      },
+      {
+        "nombre": "Ignacio Flores",
+        "apodo": "Nacho",
+        "epoca": "1972-1990",
+        "desc": "Lateral derecho de destacada regularidad técnica y táctica. Desarrolló toda su carrera profesional en el club, siendo pieza inamovible durante casi dos décadas."
+      },
+      {
+        "nombre": "Christian Giménez",
+        "apodo": "El Chaco",
+        "epoca": "2010-2017",
+        "desc": "Mediocampista ofensivo de origen argentino que asumió el liderazgo del equipo en una etapa de transición, destacando por su compromiso y contribución en la obtención de la Copa MX 2013."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Carlos Hermosillo",
+        "apodo": "El Grandote de Cerro Azul",
+        "goles": 198,
+        "epoca": "1991-1998",
+        "desc": "Líder anotador histórico del club. Fue tricampeón de goleo individual consecutivo, registrando altos promedios de efectividad ofensiva durante la década de los noventa."
+      },
+      {
+        "nombre": "Horacio López Salgado",
+        "apodo": "El Capi",
+        "goles": 133,
+        "epoca": "1971-1982",
+        "desc": "Centrodelantero que lideró el ataque celeste durante la época de los tricampeonatos, obteniendo el título de goleo individual en la temporada 1974-75."
+      },
+      {
+        "nombre": "Francisco Palencia",
+        "apodo": "Gatillero",
+        "goles": 110,
+        "epoca": "1994-2003",
+        "desc": "Surgido de la cantera, aportó una cuota goleadora constante jugando como segundo delantero o volante ofensivo, destacando en la Copa Libertadores 2001."
+      },
+      {
+        "nombre": "Fernando Bustos",
+        "apodo": "El Güero",
+        "goles": 92,
+        "epoca": "1963-1979",
+        "desc": "Además de su aporte en la creación de juego, mantuvo una presencia goleadora regular que lo ubicó entre los principales artilleros históricos de la institución."
+      },
+      {
+        "nombre": "Eladio Vera",
+        "apodo": "Eladio",
+        "goles": 79,
+        "epoca": "1971-1977",
+        "desc": "Atacante paraguayo que formó una sólida dupla ofensiva en la década de los setenta, siendo fundamental en la obtención de múltiples campeonatos de Liga."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Julio César Domínguez",
+        "apodo": "El Cata",
+        "partidos": 655,
+        "epoca": "2006-2023",
+        "desc": "Defensa central y lateral que posee el récord principal de partidos disputados con el club, manteniendo una presencia constante en la zaga durante diecisiete años."
+      },
+      {
+        "nombre": "Ignacio Flores",
+        "apodo": "Nacho",
+        "partidos": 551,
+        "epoca": "1972-1990",
+        "desc": "Completó casi dos décadas en la institución. Su desempeño constante por la banda derecha lo consolidó como uno de los jugadores más emblemáticos de los años setenta y ochenta."
+      },
+      {
+        "nombre": "Jesús Corona",
+        "apodo": "Chuy",
+        "partidos": 504,
+        "epoca": "2009-2023",
+        "desc": "Guardameta titular durante más de una década. Capitaneó al equipo en la consecución del título de Liga del torneo Guard1anes 2021 tras una larga espera institucional."
+      },
+      {
+        "nombre": "Héctor Pulido",
+        "apodo": "El Ocho pulmones",
+        "partidos": 496,
+        "epoca": "1962-1977",
+        "desc": "Mediocampista de amplia resistencia física que formó parte del núcleo de jugadores que ascendió a Primera División y cimentó la época dorada."
+      },
+      {
+        "nombre": "Óscar Pérez",
+        "apodo": "El Conejo",
+        "partidos": 470,
+        "epoca": "1993-2008",
+        "desc": "Portero canterano que resguardó la portería celeste durante quince años, siendo el arquero titular en el campeonato del torneo Invierno 1997."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "La Máquina",
+      "origen": "Bautizado así por el célebre cronista Ángel Fernández a principios de los años setenta, tras observar el funcionamiento mecánico, contundente y arrollador del equipo comandado por Raúl Cárdenas, que dominó absolutamente aquella década."
+    },
+    {
+      "apodo": "Los Cementeros",
+      "origen": "Deriva directamente de los orígenes institucionales del club, fundado en 1927 por los trabajadores de la cooperativa Cemento Cruz Azul en Jasso, Hidalgo."
+    },
+    {
+      "apodo": "Los Celestes",
+      "origen": "Este mote se popularizó en referencia al distintivo color azul cielo que históricamente ha predominado en el uniforme titular del equipo desde su irrupción en el profesionalismo."
+    },
+    {
+      "apodo": "La Liebre",
+      "origen": "Durante los años setenta, la directiva buscó institucionalizar una mascota física para el equipo, eligiendo a una liebre blanca debido a la agilidad, velocidad y color que caracterizaba al veloz ataque de la escuadra."
+    }
+  ]
+}

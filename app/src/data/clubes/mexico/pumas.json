@@ -1,0 +1,250 @@
+{
+  "id": "pumas",
+  "datos": {
+    "nombre_completo": "Club Universidad Nacional",
+    "nombre_corto": "Club Universidad Nacional",
+    "fundacion": "2 de agosto de 1954",
+    "escudo_actual": "/escudos/mexico/pumas/1970-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1954",
+      "hito": "Nacimiento en la Máxima Casa de Estudios",
+      "desc": "El 2 de agosto de 1954, en el seno de la máxima casa de estudios del país, nació formalmente el Club Universidad Nacional. Concebido inicialmente bajo el amateurismo como un proyecto para encauzar el talento deportivo de los estudiantes de la Universidad Nacional Autónoma de México (UNAM), el equipo pronto adquirió el carismático mote de 'Pumas', inspirado en la garra, inteligencia y fiereza de dicho felino, características impulsadas por el legendario entrenador Roberto 'Tapatío' Méndez. Con los colores azul y oro vibrando en la piel, el proyecto universitario cimentó una mística forjada en la educación, la juventud y la irrenunciable cantera, convirtiéndose en el equipo intelectual y rebelde de la capital."
+    },
+    {
+      "ano": "1962",
+      "hito": "El Ascenso a la Élite",
+      "desc": "Después de años de aprendizaje en la Segunda División, el equipo universitario demostró que su proyecto formativo estaba listo para las grandes ligas. Bajo el mando de Octavio Vial y con una plantilla integrada en su mayoría por auténticos estudiantes de la UNAM, los Pumas lograron el ansiado ascenso a la Primera División en enero de 1962. Este triunfo no solo consolidó la viabilidad del fútbol profesional dentro de la universidad, sino que marcó el comienzo de una era donde la cantera felina se volvería el principal semillero de talentos del fútbol mexicano."
+    },
+    {
+      "ano": "1977",
+      "hito": "El Primer Rugido de Campeón",
+      "desc": "La temporada 1976-77 representa el punto de inflexión definitivo en la grandeza del club. Con el incombustible genio brasileño Cabinho destrozando redes y un joven prodigio llamado Hugo Sánchez despuntando como el diamante de la cantera, Pumas conquistó su primer campeonato de liga en la máxima categoría al vencer a la Universidad de Guadalajara. Este campeonato legitimó la filosofía azul y oro a nivel nacional, demostrando que apostar por la cantera nacional arropada por extranjeros de élite era una fórmula infalible."
+    },
+    {
+      "ano": "1981",
+      "hito": "El Tucazo y la Consagración",
+      "desc": "La década de 1980 atestiguó a unos Pumas espectaculares bajo la batuta táctica del serbio Bora Milutinović. En la temporada 1980-81, el equipo universitario regaló una de las finales más memorables frente al Cruz Azul. Con Hugo Sánchez despidiéndose rumbo a Europa, la corona se selló con el inolvidable 'Tucazo', un soberbio cobro de tiro libre de Ricardo 'Tuca' Ferretti que hizo estallar de júbilo las gradas del Estadio Olímpico Universitario, brindando el segundo título de liga a la institución."
+    },
+    {
+      "ano": "2004",
+      "hito": "El Histórico Bicampeonato",
+      "desc": "Medio siglo después de su fundación, el club escribió la página dorada más brillante de su época contemporánea al convertirse en el primer bicampeón en la historia de los torneos cortos en México. Dirigidos desde el banquillo por Hugo Sánchez y con un equipo rebosante de carácter, garra y talento, los Pumas se coronaron en el Clausura 2004 ante Chivas en una dramática tanda de penales, y repitieron la hazaña meses después en el Apertura derrotando a Monterrey, tiñendo el balompié azteca de azul y oro."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1950 — 1960",
+      "desde": 1950,
+      "hasta": 1960,
+      "url": "/escudos/mexico/pumas/Dfs_wl_mex_mexico_city_pumas_unam-1950_1960-.webp"
+    },
+    {
+      "ano": "1960 — 1970",
+      "desde": 1960,
+      "hasta": 1970,
+      "url": "/escudos/mexico/pumas/Dfs_wl_mex_mexico_city_pumas_unam-1960_1970-.webp"
+    },
+    {
+      "ano": "1970 — Presente",
+      "desde": 1970,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/pumas/1970-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Olímpico Universitario",
+      "fundacion": "20 de noviembre de 1952",
+      "direccion": "Av. de los Insurgentes Sur S/N, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",
+      "google_maps": "https://maps.app.goo.gl/1dRyR3Y4BqA9sM289",
+      "lat": 19.3315,
+      "lng": -99.192,
+      "obs": "Declarado Patrimonio Cultural de la Humanidad por la UNESCO y sede principal de los Juegos Olímpicos de 1968. Ha sido la casa ininterrumpida de Pumas desde su ingreso al profesionalismo."
+    },
+    "viejas": []
+  },
+  "titulos": [
+    {
+      "cantidad": 7,
+      "nombre": "Liga MX",
+      "anios": [
+        "1976-77",
+        "1980-81",
+        "1990-91",
+        "Clausura 2004",
+        "Apertura 2004",
+        "Clausura 2009",
+        "Clausura 2011"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Copa MX",
+      "anios": [
+        "1974-75"
+      ]
+    },
+    {
+      "cantidad": 2,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "1974-75",
+        "2004"
+      ]
+    },
+    {
+      "cantidad": 3,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "1980",
+        "1982",
+        "1989"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Copa Interamericana",
+      "anios": [
+        "1981"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1954",
+      "hasta": "Presente",
+      "desc": "Identidad intocable de un solo color dorado universitario, destacando el icónico y gigante puma azul marino sublimado en todo el pecho, con pantaloncillos azules.",
+      "c1": "#D1A25A",
+      "sh": "#002D62",
+      "me": "#D1A25A"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Hugo Sánchez",
+        "apodo": "El Niño de Oro",
+        "epoca": "1976-1981",
+        "desc": "Surgido de la cantera universitaria, destacó por su notable capacidad rematadora. Fue campeón de goleo y lideró al equipo a su primer título de Liga en la temporada 1976-77."
+      },
+      {
+        "nombre": "Evanivaldo Castro",
+        "apodo": "Cabinho",
+        "epoca": "1974-1979",
+        "desc": "Delantero brasileño de destacada potencia física. Obtuvo cuatro títulos de goleo individual consecutivos con la institución, siendo pilar en la obtención del campeonato 76-77."
+      },
+      {
+        "nombre": "Jorge Campos",
+        "apodo": "El Brody",
+        "epoca": "1988-1995",
+        "desc": "Jugador versátil que se desempeñó profesionalmente como portero y delantero. Fue campeón en la temporada 1990-91 y ganó notoriedad internacional por su estilo técnico y agilidad."
+      },
+      {
+        "nombre": "Ricardo Ferretti",
+        "apodo": "El Tuca",
+        "epoca": "1978-1985, 1990-1991",
+        "desc": "Mediocampista ofensivo caracterizado por su fuerte golpeo de balón. Autor del gol decisivo ('Tucazo') en la final de la temporada 1990-91 frente al América."
+      },
+      {
+        "nombre": "Darío Verón",
+        "apodo": "El Hechicero",
+        "epoca": "2003-2017",
+        "desc": "Defensa central paraguayo que ejerció como capitán durante más de una década. Lideró la zaga en la obtención de cuatro títulos de Liga, incluyendo el bicampeonato de 2004."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Evanivaldo Castro",
+        "apodo": "Cabinho",
+        "goles": 166,
+        "epoca": "1974-1979",
+        "desc": "Máximo anotador histórico del club. Su capacidad de definición lo llevó a registrar altos promedios goleadores durante su estadía en el equipo universitario."
+      },
+      {
+        "nombre": "Ricardo Ferretti",
+        "apodo": "El Tuca",
+        "goles": 128,
+        "epoca": "1978-1985, 1990-1991",
+        "desc": "Sus registros ofensivos se cimentaron en su precisión para el cobro de tiros libres y su constancia en el mediocampo de ataque a lo largo de los años ochenta."
+      },
+      {
+        "nombre": "Manuel Negrete",
+        "apodo": "Manolo",
+        "goles": 112,
+        "epoca": "1979-1990",
+        "desc": "Volante ofensivo de notable técnica individual. Su cuota goleadora se destacó especialmente por la elaboración de jugadas y remates de media distancia."
+      },
+      {
+        "nombre": "Hugo Sánchez",
+        "apodo": "El Niño de Oro",
+        "goles": 104,
+        "epoca": "1976-1981",
+        "desc": "Alcanzó esta cifra antes de continuar su carrera en Europa, demostrando una notable efectividad en el área rival desde los inicios de su carrera profesional."
+      },
+      {
+        "nombre": "Luis Flores",
+        "apodo": "Lucho",
+        "goles": 101,
+        "epoca": "1980-1986",
+        "desc": "Delantero surgido de las fuerzas básicas que se consolidó como una de las principales cartas ofensivas del equipo durante la década de los ochenta."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Darío Verón",
+        "apodo": "El Hechicero",
+        "partidos": 533,
+        "epoca": "2003-2017",
+        "desc": "Posee el récord de más apariciones oficiales con la camiseta del club. Su solidez física le permitió mantener una titularidad constante durante catorce años."
+      },
+      {
+        "nombre": "Miguel España",
+        "apodo": "El Capi",
+        "partidos": 529,
+        "epoca": "1983-1994",
+        "desc": "Mediocampista de contención caracterizado por su equilibrio táctico. Fue el eje de recuperación del equipo durante la exitosa etapa de finales de los ochenta y principios de los noventa."
+      },
+      {
+        "nombre": "Sergio Bernal",
+        "apodo": "El Gato",
+        "partidos": 519,
+        "epoca": "1989-2010",
+        "desc": "Guardameta que defendió el arco universitario durante más de dos décadas en diversas etapas, siendo el arquero titular en el histórico bicampeonato de 2004."
+      },
+      {
+        "nombre": "Héctor Sanabria",
+        "apodo": "El Capi",
+        "partidos": 467,
+        "epoca": "1965-1978",
+        "desc": "Defensor central que formó parte de la primera generación de jugadores universitarios que consolidó al equipo en la Primera División mexicana."
+      },
+      {
+        "nombre": "Manuel Negrete",
+        "apodo": "Manolo",
+        "partidos": 410,
+        "epoca": "1979-1990",
+        "desc": "Acumuló esta cifra gracias a su regularidad en el mediocampo, siendo una pieza constante en los planteamientos tácticos a lo largo de los años ochenta."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Pumas",
+      "origen": "La elección de este felino como mascota oficial y apodo fue impulsada en 1942 por Roberto \"Tapatío\" Méndez, histórico entrenador de fútbol americano de la UNAM, argumentando que el puma representaba la inteligencia, la velocidad y la ferocidad táctica que exigía el deporte universitario."
+    },
+    {
+      "apodo": "Los Auriazules",
+      "origen": "Hace referencia directa a los colores oro y azul de la Universidad Nacional Autónoma de México, los cuales tienen su origen en el equipo de fútbol americano universitario de Notre Dame."
+    },
+    {
+      "apodo": "Los Universitarios",
+      "origen": "Resalta el vínculo indisoluble de la franquicia con la máxima casa de estudios del país (UNAM), representando el orgullo de la comunidad estudiantil y académica a nivel nacional."
+    },
+    {
+      "apodo": "Los Felinos",
+      "origen": "Término paraguas utilizado ampliamente en los medios de comunicación para agrupar y referirse a los equipos cuya identidad está ligada a un gran depredador felino."
+    }
+  ]
+}

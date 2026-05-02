@@ -1,0 +1,197 @@
+{
+  "id": "juarez",
+  "datos": {
+    "nombre_completo": "Fútbol Club Juárez",
+    "nombre_corto": "Fútbol Club Juárez",
+    "fundacion": "29 de mayo de 2015",
+    "escudo_actual": "/escudos/mexico/juarez/FC_Ju%3Frez_Logo2015-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "2015",
+      "hito": "Nacimiento en la Frontera",
+      "desc": "El 29 de mayo de 2015, con la firme intención de devolverle la grandeza deportiva a una ciudad históricamente resiliente, un grupo de empresarios fronterizos liderados por la familia De la Vega fundaron el Fútbol Club Juárez. Adoptando el aguerrido mote de 'Bravos' y los vibrantes colores verde brillante y negro, la institución nació directamente en la Liga de Ascenso con un propósito social profundo: utilizar el fútbol como un vehículo de integración, esperanza y reconstrucción del tejido social en Ciudad Juárez. Desde el primer día, el equipo hizo del Estadio Olímpico Benito Juárez una fortaleza pasional e inquebrantable."
+    },
+    {
+      "ano": "2015",
+      "hito": "El Campeonato Tempranero",
+      "desc": "Apenas unos meses después de su fundación, el equipo demostró que su proyecto iba muy en serio. En el torneo Apertura 2015, bajo la dirección técnica de Sergio Orduña, los Bravos de Juárez protagonizaron una campaña espectacular que culminó con el título de la Liga de Ascenso. Tras vencer al Atlante en una final vibrante en el Estadio Olímpico Benito Juárez, la naciente franquicia sorprendió al país entero, demostrando un nivel de organización y jerarquía competitiva inusual para un equipo de tan reciente creación."
+    },
+    {
+      "ano": "2019",
+      "hito": "El Subcampeonato de Copa",
+      "desc": "El mayor logro deportivo de la institución hasta la fecha se gestó en el torneo Clausura 2019 de la Copa MX. Superando todas las expectativas y dejando en el camino a rivales de Primera División, los Bravos, dirigidos por Gabriel Caballero, alcanzaron la gran final del certamen. Aunque cayeron en casa por la mínima diferencia ante el poderoso América, el épico recorrido de un equipo de ascenso llegando al partido definitivo acaparó las portadas nacionales y consolidó el orgullo y la mística fronteriza de Juárez."
+    },
+    {
+      "ano": "2019",
+      "hito": "La Llegada a la Liga MX",
+      "desc": "En un movimiento de expansión corporativa audaz, la directiva fronteriza adquirió la franquicia de Lobos BUAP de cara al torneo Apertura 2019. Esta transacción garantizó el anhelado arribo de los Bravos de Juárez al máximo circuito del fútbol mexicano. El debut en Primera División saldó una deuda histórica con la afición chihuahuense, devolviendo el fútbol de élite a la frontera y consolidando el proyecto integral de la familia De la Vega tras cuatro años de esfuerzo titánico en la división de plata."
+    },
+    {
+      "ano": "2020",
+      "hito": "La Era Femenil",
+      "desc": "A la par de su consolidación en el máximo circuito varonil, el FC Juárez ha destacado a nivel nacional por su fuerte inversión e impulso al fútbol femenil. Apoyadas por la visión empresarial de la directiva fronteriza, las 'Bravas' se han convertido en un símbolo de empoderamiento y resiliencia en la ciudad. El desarrollo del proyecto femenil ha cimentado la identidad inclusiva del club, demostrando que el impacto social de la institución trasciende por mucho los resultados deportivos de fin de semana."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "Actualidad",
+      "desde": 2015,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/juarez/FC_Ju%3Frez_Logo2015-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Olímpico Benito Juárez",
+      "fundacion": "12 de mayo de 1981",
+      "direccion": "Av. Heroico Colegio Militar S/N, Zona Chamizal, 32300 Cd Juárez, Chih., México",
+      "google_maps": "https://maps.app.goo.gl/K6vX8L4M2N1Q8L7A9",
+      "lat": 31.7533,
+      "lng": -106.4522,
+      "obs": "Ubicado de manera icónica a escasos metros de la frontera con Estados Unidos (El Paso, Texas). Los Bravos juegan aquí desde el mismo día de su fundación en 2015."
+    },
+    "viejas": []
+  },
+  "titulos": [
+    {
+      "cantidad": 1,
+      "nombre": "Ascenso MX",
+      "anios": [
+        "Apertura 2015"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "2015",
+      "hasta": "Presente",
+      "desc": "Llamativa piel de un solo color verde flúor o neón con sutiles cortes en negro, combinada con shorts verdes y medias negras.",
+      "c1": "#00E600",
+      "sh": "#00E600",
+      "me": "#000000"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Leandro Carrijo",
+        "apodo": "Carrijo",
+        "epoca": "2015-2020",
+        "desc": "Delantero brasileño convertido en la leyenda fundacional del club. Fue el referente principal y goleador durante los primeros cinco años de la franquicia en la Liga de Ascenso."
+      },
+      {
+        "nombre": "Darío Lezcano",
+        "apodo": "El Motochorro",
+        "epoca": "2019-2023",
+        "desc": "Centrodelantero paraguayo que se erigió como el primer gran referente ofensivo del equipo en su incursión en la Primera División, destacando por su corpulencia y remate."
+      },
+      {
+        "nombre": "Gabriel Hachen",
+        "apodo": "Gaby",
+        "epoca": "2018-2020",
+        "desc": "Mediocampista ofensivo argentino fundamental en el proyecto de Ascenso y en el épico subcampeonato logrado en la Copa MX 2019."
+      },
+      {
+        "nombre": "Edy Brambila",
+        "apodo": "Edy",
+        "epoca": "2018-2020",
+        "desc": "Volante de gran dinámica que portó el gafete de capitán y mostró un compromiso constante, liderando al equipo fronterizo desde el mediocampo."
+      },
+      {
+        "nombre": "Alfredo Talavera",
+        "apodo": "Tala",
+        "epoca": "2022-Presente",
+        "desc": "Guardameta internacional mexicano de enorme jerarquía. Su llegada aportó liderazgo defensivo y experiencia al plantel en su esfuerzo por consolidarse en la máxima categoría."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Leandro Carrijo",
+        "apodo": "Carrijo",
+        "goles": 73,
+        "epoca": "2015-2020",
+        "desc": "Máximo anotador histórico de la institución por un amplio margen. Marcó el primer gol oficial del equipo y se consagró como ídolo durante la etapa de plata."
+      },
+      {
+        "nombre": "Darío Lezcano",
+        "apodo": "El Motochorro",
+        "goles": 33,
+        "epoca": "2019-2023",
+        "desc": "Segundo mayor goleador del club y el máximo artillero exclusivamente en la Primera División de México. Su aporte fue vital para sumar puntos clave."
+      },
+      {
+        "nombre": "Gabriel Hachen",
+        "apodo": "Gaby",
+        "goles": 25,
+        "epoca": "2018-2020",
+        "desc": "Aportó una cuota de goles muy destacada desde el mediocampo durante los últimos años del club en la Liga de Ascenso y la Copa MX."
+      },
+      {
+        "nombre": "Aitor García",
+        "apodo": "Aitor",
+        "goles": 15,
+        "epoca": "2023-Presente",
+        "desc": "Extremo español que, con su destacada pegada de media distancia y velocidad, ingresó rápidamente al top de goleadores en el máximo circuito."
+      },
+      {
+        "nombre": "Tomás Molina",
+        "apodo": "Tomy",
+        "goles": 13,
+        "epoca": "2023",
+        "desc": "Delantero argentino que mantuvo un registro goleador destacado a pesar de su corta estadía en la escuadra fronteriza."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Eder Borelli",
+        "apodo": "Borelli",
+        "partidos": 164,
+        "epoca": "2015-2020",
+        "desc": "Lateral aguerrido que ostenta el récord histórico de apariciones oficiales. Formó parte del club desde el primer día de su fundación hasta la mudanza a Primera."
+      },
+      {
+        "nombre": "Elson Dias",
+        "apodo": "Elson",
+        "partidos": 150,
+        "epoca": "2016-2020",
+        "desc": "Defensa central brasileño que aportó solidez constante a la zaga fronteriza durante cuatro largos años en el circuito de ascenso."
+      },
+      {
+        "nombre": "Leandro Carrijo",
+        "apodo": "Carrijo",
+        "partidos": 145,
+        "epoca": "2015-2020",
+        "desc": "Además de su aporte goleador principal, completó un elevadísimo número de partidos, lo cual ratifica su estatus de máxima leyenda fundacional."
+      },
+      {
+        "nombre": "Edy Brambila",
+        "apodo": "Edy",
+        "partidos": 130,
+        "epoca": "2018-2020",
+        "desc": "Acumuló presencias valiosas orquestando el juego del equipo tanto en la liga de plata como en la histórica carrera en Copa MX."
+      },
+      {
+        "nombre": "Maximiliano Olivera",
+        "apodo": "Maxi",
+        "partidos": 110,
+        "epoca": "2020-2023",
+        "desc": "Defensor uruguayo de fuerte carácter que superó la barrera de los cien encuentros defendiendo la camiseta en la Primera División."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Bravos",
+      "origen": "El apelativo fue elegido mediante encuestas a la afición fronteriza al momento de fundar el club en 2015. El término busca reflejar el carácter resiliente, valiente e indomable de los habitantes de Ciudad Juárez ante las adversidades históricas y sociales."
+    },
+    {
+      "apodo": "Los Fronterizos",
+      "origen": "Reconocimiento geográfico a la ubicación del equipo en Ciudad Juárez, una de las principales y más dinámicas fronteras entre México y Estados Unidos, marcando su profunda identidad binacional."
+    },
+    {
+      "apodo": "Los Caballos Indomables",
+      "origen": "Referencia gráfica al emblema oficial de la institución, el cual presenta una cabeza de caballo de perfil estilizada, animal asociado a la fuerza y la rebeldía del norte de México."
+    }
+  ]
+}

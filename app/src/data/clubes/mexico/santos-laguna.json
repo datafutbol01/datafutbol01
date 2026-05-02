@@ -1,0 +1,262 @@
+{
+  "id": "santos-laguna",
+  "datos": {
+    "nombre_completo": "Club Santos Laguna",
+    "nombre_corto": "Club Santos Laguna",
+    "fundacion": "4 de septiembre de 1983",
+    "escudo_actual": "/escudos/mexico/santos-laguna/2018-actual.svg"
+  },
+  "historia": [
+    {
+      "ano": "1983",
+      "hito": "Nacimiento en La Laguna",
+      "desc": "El 4 de septiembre de 1983, el Instituto Mexicano del Seguro Social (IMSS) trasladó la franquicia de los Tuberos de Tlaxcala a la Comarca Lagunera, fundando formalmente al Club Santos IMSS. El equipo se estableció originalmente en el poblado de Santa Cruz, Tlaxcala, pero arraigó su identidad de manera definitiva en la ciudad de Torreón, Coahuila. Bajo la dirección del profesor Lorenzo García Logsdon, los fundadores adoptaron los colores verde y blanco en honor al Sindicato del Seguro Social, construyendo una filosofía basada en la resistencia del desierto y el trabajo obrero, convirtiendo rápidamente al incipiente 'Santos Laguna' en el bastión deportivo, cultural y pasional de toda la región."
+    },
+    {
+      "ano": "1988",
+      "hito": "La Compra y el Ascenso a Primera",
+      "desc": "En 1988, un grupo de empresarios locales adquirió la franquicia de los Ángeles de Puebla y trasladó los derechos de Primera División a La Laguna, salvando al club de la desaparición en Segunda y garantizando su permanencia en el máximo circuito. Esta agresiva maniobra corporativa inauguró el uso del viejo Estadio Corona ('La Casa del Dolor Ajeno'), forjando de inmediato una atmósfera intimidatoria que transformó al estadio en una fortaleza inexpugnable para los rivales."
+    },
+    {
+      "ano": "1996",
+      "hito": "El Primer Campeonato",
+      "desc": "El torneo Invierno 1996 consagró definitivamente a Santos Laguna en el mapa de los equipos grandes del país. Dirigidos por Alfredo Tena y con un equipo rebosante de talento que incluía a la dupla letal de Jared Borgetti y Gabriel Caballero, el equipo lagunero protagonizó una final épica ante el poderoso Necaxa. Un dramático gol de cabeza de Borgetti, recordado como el legendario 'Gol de Oro' en el antiguo Corona, otorgó al club su primer campeonato de liga, desatando la euforia total en la Comarca."
+    },
+    {
+      "ano": "2012",
+      "hito": "La Era de Oro en el TSM",
+      "desc": "Tras ser adquiridos por Grupo Modelo y sobrevivir a una severa crisis porcentual en 2007, el club renació deportivamente con una inversión sin precedentes y la inauguración del imponente Territorio Santos Modelo (TSM) en 2009. Esta época de oro se coronó en el torneo Clausura 2012 bajo la dirección técnica de Benjamín Galindo. Con figuras de la talla de Oribe Peralta y Oswaldo Sánchez, Santos derrotó a Monterrey en la final, sumando su cuarta estrella y estableciéndose como el modelo institucional a seguir en México."
+    },
+    {
+      "ano": "2018",
+      "hito": "El Rey del Clausura",
+      "desc": "Consolidando su estatus como un equipo infalible en liguillas, Santos Laguna se alzó con el título del Clausura 2018. Bajo el mando táctico del uruguayo Robert Dante Siboldi y con el olfato goleador del caboverdiano Djaniny Tavares, campeón de goleo de ese certamen, los Guerreros superaron en una intensa final al Deportivo Toluca en la cancha del Estadio Nemesio Díez. Esta sexta estrella reafirmó la mentalidad guerrera de una institución que, en apenas cuarenta años, construyó un palmarés envidiable a nivel nacional."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1997 — 2001",
+      "desde": 1997,
+      "hasta": 2001,
+      "url": "/escudos/mexico/santos-laguna/1997-2001.webp"
+    },
+    {
+      "ano": "2001 — 2008",
+      "desde": 2001,
+      "hasta": 2008,
+      "url": "/escudos/mexico/santos-laguna/2001-2008.webp"
+    },
+    {
+      "ano": "2008 — 2011",
+      "desde": 2008,
+      "hasta": 2011,
+      "url": "/escudos/mexico/santos-laguna/2008-2011.webp"
+    },
+    {
+      "ano": "2012 — 2015",
+      "desde": 2012,
+      "hasta": 2015,
+      "url": "/escudos/mexico/santos-laguna/2012-2015.webp"
+    },
+    {
+      "ano": "2015 — 2018",
+      "desde": 2015,
+      "hasta": 2018,
+      "url": "/escudos/mexico/santos-laguna/2015-2018.webp"
+    },
+    {
+      "ano": "2018 — Presente",
+      "desde": 2018,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/santos-laguna/2018-actual.svg"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Corona (TSM)",
+      "fundacion": "11 de noviembre de 2009",
+      "direccion": "Calz. Territorio Santos Modelo 1, 27014 Torreón, Coah., México",
+      "google_maps": "https://maps.app.goo.gl/9QZz1qV4J1hM7W2Q9",
+      "lat": 25.5841,
+      "lng": -103.4022,
+      "obs": "Ubicado dentro del complejo deportivo Territorio Santos Modelo (TSM). Es uno de los estadios más vanguardistas y modernos del continente americano."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio Corona (Original)",
+        "desde": "1983",
+        "hasta": "2009",
+        "direccion": "Colonia Las Carolinas, Torreón, Coahuila, México",
+        "google_maps": "https://maps.app.goo.gl/uXpT6vF1G2XkM7zN7",
+        "lat": 25.5498,
+        "lng": -103.4357,
+        "obs": "Famoso e intimidador recinto apodado 'La Casa del Dolor Ajeno', donde Santos forjó su leyenda en Primera División ganando 3 títulos de liga. Fue demolido a finales de 2009."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 6,
+      "nombre": "Liga MX",
+      "anios": [
+        "Invierno 1996",
+        "Verano 2001",
+        "Clausura 2008",
+        "Clausura 2012",
+        "Clausura 2015",
+        "Clausura 2018"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Copa MX",
+      "anios": [
+        "Apertura 2014"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "2014-15"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1983",
+      "hasta": "Presente",
+      "desc": "Identidad marcada a fuego por sus emblemáticas rayas horizontales en color verde guerrero y blanco, acompañadas usualmente por pantalones y medias verdes.",
+      "c1": "#006A42",
+      "c2": "#FFFFFF",
+      "sh": "#006A42",
+      "me": "#006A42"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Jared Borgetti",
+        "apodo": "El Zorro del Desierto",
+        "epoca": "1996-2004",
+        "desc": "Centrodelantero que se convirtió en el primer gran ídolo nacional del club. Autor del 'Gol de Oro' que otorgó el primer campeonato de Liga a la institución en el Invierno 1996."
+      },
+      {
+        "nombre": "Rodrigo Ruiz",
+        "apodo": "El Pony",
+        "epoca": "2000-2006",
+        "desc": "Extremo chileno caracterizado por su destacado capacidad asistidora. Formó una dupla histórica en ataque junto a Borgetti, siendo fundamental en el título del Verano 2001."
+      },
+      {
+        "nombre": "Oswaldo Sánchez",
+        "apodo": "San Oswaldo",
+        "epoca": "2007-2014",
+        "desc": "Guardameta y capitán que lideró el resurgimiento del equipo tras problemas porcentuales. Levantó dos campeonatos de Liga y se consolidó como referente en la era moderna."
+      },
+      {
+        "nombre": "Oribe Peralta",
+        "apodo": "El Cepillo",
+        "epoca": "2006-2008, 2010-2014",
+        "desc": "Atacante surgido en la Comarca Lagunera que vivió su apogeo futbolístico en el club. Fue el líder ofensivo en el campeonato del Clausura 2012 bajo la dirección de Benjamín Galindo."
+      },
+      {
+        "nombre": "Christian Benítez",
+        "apodo": "Chucho",
+        "epoca": "2007-2009, 2010-2011",
+        "desc": "Delantero ecuatoriano de excepcional potencia física y velocidad. Fue campeón de goleo individual y conquistó el campeonato de Liga en el torneo Clausura 2008."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Jared Borgetti",
+        "apodo": "El Zorro del Desierto",
+        "goles": 205,
+        "epoca": "1996-2004",
+        "desc": "Máximo anotador histórico del equipo. Sus altos promedios goleadores y par de títulos de goleo individual lo consolidaron como uno de los artilleros más letales del país."
+      },
+      {
+        "nombre": "Matías Vuoso",
+        "apodo": "El Toro",
+        "goles": 107,
+        "epoca": "2003-2006, 2007-2010",
+        "desc": "Delantero argentino que se coronó bicampeón de goleo en torneos cortos, siendo el principal referente en ataque durante sus dos exitosas etapas en la institución."
+      },
+      {
+        "nombre": "Oribe Peralta",
+        "apodo": "El Cepillo",
+        "goles": 97,
+        "epoca": "2006-2008, 2010-2014",
+        "desc": "Su madurez futbolística le permitió alcanzar un registro goleador destacado, aportando anotaciones decisivas en fases finales y competencias internacionales."
+      },
+      {
+        "nombre": "Darwin Quintero",
+        "apodo": "El Científico del Gol",
+        "goles": 92,
+        "epoca": "2009-2014",
+        "desc": "Atacante colombiano que destacó por su desequilibrio y velocidad, formando un tridente ofensivo altamente efectivo junto a Peralta y Benítez."
+      },
+      {
+        "nombre": "Daniel Ludueña",
+        "apodo": "El Hachita",
+        "goles": 78,
+        "epoca": "2007-2012",
+        "desc": "Mediocampista ofensivo con notable precisión de media distancia y tiros libres, aportando una alta cuota goleadora a pesar de su rol como generador de juego."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Oswaldo Sánchez",
+        "apodo": "San Oswaldo",
+        "partidos": 340,
+        "epoca": "2007-2014",
+        "desc": "Alcanzó esta cifra récord manteniendo la titularidad absoluta en el arco desde su llegada hasta su retiro profesional."
+      },
+      {
+        "nombre": "Juan Pablo Rodríguez",
+        "apodo": "El Chato",
+        "partidos": 343,
+        "epoca": "2007-2014",
+        "desc": "Mediocampista central que organizó el juego del equipo, destacando por su precisión en los pases y cobros de penal durante más de siete años."
+      },
+      {
+        "nombre": "Julio César Armendáriz",
+        "apodo": "El Guerrero",
+        "partidos": 328,
+        "epoca": "1983-1993",
+        "desc": "Defensa que participó desde los primeros años del club, logrando el ascenso y consolidando al equipo en su primera década en Primera División."
+      },
+      {
+        "nombre": "Iván Estrada",
+        "apodo": "El Guti",
+        "partidos": 284,
+        "epoca": "2007-2013",
+        "desc": "Lateral derecho de gran despliegue físico que acumuló una alta cifra de apariciones, ganándose el cariño de la afición por su entrega constante."
+      },
+      {
+        "nombre": "Matías Vuoso",
+        "apodo": "El Toro",
+        "partidos": 256,
+        "epoca": "2003-2006, 2007-2010",
+        "desc": "Su permanencia durante múltiples torneos le permitió no solo destacar como goleador, sino ingresar al registro histórico de presencias oficiales con el club."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Guerreros",
+      "origen": "Adoptado oficialmente en 1988 tras la compra de la franquicia de los Ángeles de Puebla. La directiva y la afición determinaron el apodo para reflejar el carácter combativo, resistente y tenaz necesario para sobrevivir en las condiciones desérticas de la Comarca Lagunera."
+    },
+    {
+      "apodo": "Los Laguneros",
+      "origen": "Referencia directa al origen geográfico del club, que representa deportivamente a toda la región de la Comarca Lagunera, abarcando municipios de los estados de Coahuila y Durango."
+    },
+    {
+      "apodo": "Los Albiverdes",
+      "origen": "Nomenclatura que describe el patrón de rayas horizontales verdes y blancas que caracteriza su icónica camiseta, diseño que los distingue del resto de las franquicias en la Liga MX."
+    },
+    {
+      "apodo": "El Equipo de Todos",
+      "origen": "Slogan que se transformó en apodo, reflejando el fenómeno social de unificación que logró el club al integrar bajo una misma bandera deportiva a las diversas ciudades y municipios que conforman la Comarca Lagunera."
+    }
+  ]
+}

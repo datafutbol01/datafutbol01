@@ -1,0 +1,264 @@
+{
+  "id": "queretaro",
+  "datos": {
+    "nombre_completo": "Querétaro Fútbol Club",
+    "nombre_corto": "Querétaro Fútbol Club",
+    "fundacion": "8 de julio de 1950",
+    "escudo_actual": "/escudos/mexico/queretaro/2013-actual.svg"
+  },
+  "historia": [
+    {
+      "ano": "1950",
+      "hito": "Nacimiento de los Gallos",
+      "desc": "El 8 de julio de 1950, un grupo de empresarios queretanos encabezados por el presidente de la Asociación Queretana de Fútbol, Alfonso 'Chato' Niembro, materializó el sueño de inscribir a la ciudad en la recién creada Segunda División profesional, fundando oficialmente el Querétaro Fútbol Club. Apoyados económicamente por la sociedad civil local y la prensa deportiva de la época, el equipo fue bautizado rápidamente como los 'Gallos Blancos' debido a la indumentaria inmaculada que utilizaron en sus primeros duelos. Así nació una institución que, pese a enfrentar a lo largo de décadas incontables vicisitudes económicas y reestructuraciones corporativas, forjó una de las aficiones más estoicas, pasionales y leales de toda la república mexicana."
+    },
+    {
+      "ano": "1990",
+      "hito": "El Primer Ascenso",
+      "desc": "Tras cuatro décadas de navegar en el circuito de plata enfrentando crisis financieras y reestructuraciones constantes, los Gallos Blancos lograron su primer gran milagro deportivo en 1990. Al mando del técnico Ricardo de la Peña, el Querétaro se coronó campeón de la Segunda División en la temporada 1989-90 tras vencer a los Correcaminos de la UAT en un dramático tercer partido de desempate en la cancha del Estadio Azteca. Este ascenso histórico desató la locura en la ciudad y coronó el esfuerzo de generaciones que soñaban con ver a su equipo competir en la élite."
+    },
+    {
+      "ano": "2014",
+      "hito": "El Arribo de Ronaldinho",
+      "desc": "El hito mediático más espectacular y sorprendente en la historia del club, y quizás de la liga mexicana moderna, ocurrió en septiembre de 2014 cuando la directiva anunció el fichaje del astro brasileño Ronaldo de Assis Moreira, 'Ronaldinho'. La llegada del campeón del mundo revolucionó la ciudad de Querétaro, llenando los estadios de todo México y colocando al club en las portadas de la prensa deportiva global. El clímax de esta etapa mediática se vivió cuando el ídolo brasileño fue ovacionado de pie por la afición del Estadio Azteca tras marcarle un doblete al América."
+    },
+    {
+      "ano": "2015",
+      "hito": "La Épica Final de Liga",
+      "desc": "El impacto mediático de Ronaldinho se tradujo en un histórico éxito deportivo en el torneo Clausura 2015. Bajo la dirección técnica de Víctor Manuel Vucetich, los Gallos Blancos firmaron una liguilla heroica, eliminando rivales de alta jerarquía para alcanzar la primera final de Liga MX en la historia de la franquicia frente a Santos Laguna. Aunque perdieron en el marcador global tras un desastroso partido de ida, la épica remontada que estuvieron a punto de consumar en el partido de vuelta (ganando 3-0 en el Estadio Corregidora) quedó inmortalizada como la página más gloriosa del club en el campeonato doméstico."
+    },
+    {
+      "ano": "2016",
+      "hito": "La Consagración Copera",
+      "desc": "El trabajo táctico de Víctor Manuel Vucetich finalmente trajo un campeonato a las sedientas vitrinas del club en el torneo Apertura 2016 de la Copa MX. Tras un torneo consistente, el Querétaro enfrentó a las Chivas del Guadalajara en una final de alarido disputada en el Estadio Corregidora. Con una actuación memorable del portero brasileño Tiago Volpi, quien atajó penales y cobró su tiro con maestría, los Gallos Blancos se impusieron en la tanda definitoria para levantar su primer gran título oficial en el máximo circuito, un premio merecido a la resiliencia de su incansable afición."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1950 — 1957",
+      "desde": 1950,
+      "hasta": 1957,
+      "url": "/escudos/mexico/queretaro/1950-1957.webp"
+    },
+    {
+      "ano": "1957 — 1961",
+      "desde": 1957,
+      "hasta": 1961,
+      "url": "/escudos/mexico/queretaro/1957-1961.webp"
+    },
+    {
+      "ano": "1961 — 1965",
+      "desde": 1961,
+      "hasta": 1965,
+      "url": "/escudos/mexico/queretaro/1961-1965.webp"
+    },
+    {
+      "ano": "1965 — 1990",
+      "desde": 1965,
+      "hasta": 1990,
+      "url": "/escudos/mexico/queretaro/1965-1990.webp"
+    },
+    {
+      "ano": "1991 — 1994",
+      "desde": 1991,
+      "hasta": 1994,
+      "url": "/escudos/mexico/queretaro/1991-1994.webp"
+    },
+    {
+      "ano": "1994 — 1997",
+      "desde": 1994,
+      "hasta": 1997,
+      "url": "/escudos/mexico/queretaro/1994-1997.webp"
+    },
+    {
+      "ano": "1995 — 2013",
+      "desde": 1995,
+      "hasta": 2013,
+      "url": "/escudos/mexico/queretaro/1995-2013.svg"
+    },
+    {
+      "ano": "1995 — 2012",
+      "desde": 1995,
+      "hasta": 2012,
+      "url": "/escudos/mexico/queretaro/1995.webp"
+    },
+    {
+      "ano": "2013 — Presente",
+      "desde": 2013,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/queretaro/2013-actual.svg"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Corregidora",
+      "fundacion": "5 de febrero de 1985",
+      "direccion": "Av. de las Torres S/N, Centro Sur, 76090 Santiago de Querétaro, Qro., México",
+      "google_maps": "https://maps.app.goo.gl/uXpT6vF1G2XkM7zN7",
+      "lat": 20.5772,
+      "lng": -100.3589,
+      "obs": "Imponente inmueble mundialista (1986), conocido por su diseño de vanguardia arquitectónica para la época, el cual sirvió de base inspiracional para estadios futuros en México."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio Municipal de Querétaro",
+        "desde": "1950",
+        "hasta": "1985",
+        "direccion": "Centro, Santiago de Querétaro, Qro., México",
+        "google_maps": "https://maps.app.goo.gl/9R6K3V4M2N1Q8L7A9",
+        "lat": 20.5901,
+        "lng": -100.392,
+        "obs": "Pequeño estadio en el centro de la ciudad donde los Gallos Blancos forjaron sus primeros y duros años en las divisiones de ascenso antes de la construcción del gran coloso mundialista."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 1,
+      "nombre": "Copa MX",
+      "anios": [
+        "Apertura 2016"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Supercopa MX",
+      "anios": [
+        "2016-17"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1950",
+      "hasta": "Presente",
+      "desc": "Las hermosas e históricas rayas verticales en negro y azul royal oscuro que han vestido de gala a los Gallos Blancos a lo largo de toda su sufrida historia.",
+      "c1": "#000000",
+      "c2": "#003B7C",
+      "sh": "#000000",
+      "me": "#000000"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Ronaldo de Assis Moreira",
+        "apodo": "Ronaldinho",
+        "epoca": "2014-2015",
+        "desc": "Astro brasileño y campeón del mundo. Su paso fue breve pero transformó la historia mediática del club, liderando al equipo a su única y épica final de Liga en 2015."
+      },
+      {
+        "nombre": "Tiago Volpi",
+        "apodo": "El Guardián",
+        "epoca": "2015-2018",
+        "desc": "reconocido guardameta brasileño. Se convirtió en el héroe principal en la conquista de la Copa MX 2016 atajando y cobrando penales de manera decisiva."
+      },
+      {
+        "nombre": "Camilo Sanvezzo",
+        "apodo": "El Lobo",
+        "epoca": "2014-2019",
+        "desc": "Delantero de gran técnica individual. Superó dos graves lesiones de rodilla para consolidarse como el máximo goleador histórico y un emblema de resiliencia en la ciudad."
+      },
+      {
+        "nombre": "Mauro Gerk",
+        "apodo": "El Tanque",
+        "epoca": "2005-2007, 2009-2010",
+        "desc": "Potente centrodelantero argentino e ídolo principal en la etapa de ascenso. Su garra y entrega incondicional lo mantienen como uno de los jugadores más queridos por la afición."
+      },
+      {
+        "nombre": "Silvano Téllez",
+        "apodo": "El Gallo Mayor",
+        "epoca": "1968-1977",
+        "desc": "Símbolo histórico de las primeras décadas del club en Segunda División. Fue capitán y líder en los momentos de mayor precariedad institucional, forjando el estoicismo del equipo."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Camilo Sanvezzo",
+        "apodo": "El Lobo",
+        "goles": 67,
+        "epoca": "2014-2019",
+        "desc": "Máximo anotador histórico del club en Primera División. Se coronó campeón de goleo en el torneo Apertura 2014, demostrando una altísima calidad en la definición."
+      },
+      {
+        "nombre": "Mauro Gerk",
+        "apodo": "El Tanque",
+        "goles": 63,
+        "epoca": "2005-2007, 2009-2010",
+        "desc": "Segundo mayor artillero de la institución. Su contundencia física y olfato goleador fueron determinantes en los años de consolidación del equipo."
+      },
+      {
+        "nombre": "Emanuel Villa",
+        "apodo": "Tito",
+        "goles": 30,
+        "epoca": "2015-2017",
+        "desc": "Experimentado centrodelantero argentino que compartió el título de goleo individual en el Apertura 2015, aportando jerarquía en el ataque queretano."
+      },
+      {
+        "nombre": "Carlos Bueno",
+        "apodo": "El Loco",
+        "goles": 23,
+        "epoca": "2011-2012",
+        "desc": "Atacante uruguayo que lideró al equipo de manera memorable en el torneo Apertura 2011, llevándolos a su primera liguilla con goles destacados."
+      },
+      {
+        "nombre": "Roberto Nurse",
+        "apodo": "El Negro",
+        "goles": 21,
+        "epoca": "2005-2008",
+        "desc": "Centrodelantero mexicano de imponente físico que aportó una cuota de goles muy importante durante la estancia del equipo en la Liga de Ascenso."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Marco Antonio Jiménez",
+        "apodo": "El Abuelo",
+        "partidos": 250,
+        "epoca": "2006-2018",
+        "desc": "Mediocampista de contención y capitán que ostenta el récord principal de apariciones. Demostró una lealtad férrea manteniéndose en el club por más de una década."
+      },
+      {
+        "nombre": "Raúl Rico",
+        "apodo": "Rico",
+        "partidos": 220,
+        "epoca": "2004-2012",
+        "desc": "Defensa surgido de la cantera que acompañó al equipo en ascensos y descensos, consolidándose como uno de los símbolos institucionales de su época."
+      },
+      {
+        "nombre": "Tiago Volpi",
+        "apodo": "El Guardián",
+        "partidos": 157,
+        "epoca": "2015-2018",
+        "desc": "Completó este número de encuentros siendo el arquero titular inamovible, dejando un legado imborrable en la historia contemporánea del club."
+      },
+      {
+        "nombre": "Miguel Martínez",
+        "apodo": "El Negro",
+        "partidos": 150,
+        "epoca": "2014-2018",
+        "desc": "Zaguero central argentino que portó el gafete de capitán tras la partida de referentes históricos, siendo clave en la obtención de la Copa MX."
+      },
+      {
+        "nombre": "George Corral",
+        "apodo": "Corral",
+        "partidos": 140,
+        "epoca": "2013-2020",
+        "desc": "Lateral derecho de gran consistencia que superó la centena de partidos oficiales, siendo un elemento confiable para diversos cuerpos técnicos durante siete años."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Gallos Blancos",
+      "origen": "El nombre surgió en 1954 cuando, bajo la dirección técnica del histórico Herrera, la directiva entregó uniformes inmaculadamente blancos. Alguien en la prensa destacó la bravura del equipo comparándola con la de un gallo de pelea, consolidando el apodo oficial."
+    },
+    {
+      "apodo": "Los Albiazules",
+      "origen": "Surge de la combinación de blanco y azul oscuro o negro (que ocasionalmente es reemplazado por azul marino profundo) en las clásicas rayas verticales de su uniforme titular."
+    },
+    {
+      "apodo": "Los Emplumados",
+      "origen": "Derivación figurativa del apodo principal \"Gallos Blancos\", utilizado por la prensa escrita para variar el vocabulario al narrar las acciones ofensivas del equipo queretano."
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "tigres",
+  "datos": {
+    "nombre_completo": "Tigres de la UANL",
+    "nombre_corto": "Tigres de la UANL",
+    "fundacion": "7 de marzo de 1960",
+    "escudo_actual": "/escudos/mexico/tigres/2018-actual.webp"
+  },
+  "historia": [
+    {
+      "ano": "1960",
+      "hito": "Nacimiento Universitario",
+      "desc": "El 7 de marzo de 1960 marcó el nacimiento oficial del Club Deportivo Tigres de la Universidad Autónoma de Nuevo León (UANL). Tras la disolución del equipo Jabatos, el Patronato Universitario encabezado por Ernesto Romero Jasso se hizo cargo de la franquicia, cimentando el club bajo el amparo de la máxima casa de estudios del estado para fomentar la identidad estudiantil. Jugando en sus inicios en el Estadio Tecnológico antes de la inauguración del icónico Estadio Universitario ('El Volcán') en 1967, el equipo auriazul adoptó a un tigre como emblema de fiereza y temple, forjando paulatinamente una de las fanaticadas más pasionales y ruidosas de México."
+    },
+    {
+      "ano": "1978",
+      "hito": "El Primer Rugido en Primera",
+      "desc": "Bajo la magistral conducción táctica del técnico uruguayo Carlos Miloc, los Tigres rompieron los pronósticos en la temporada 1977-78. Liderados en la cancha por figuras legendarias como Tomás Boy, Osvaldo Batocletti y Gerónimo Barbadillo, el equipo universitario derrotó a los Pumas de la UNAM en la gran final para conquistar su primer título de liga, dándole al estado de Nuevo León su primer campeonato de Primera División y desatando el fervor masivo por el equipo."
+    },
+    {
+      "ano": "1982",
+      "hito": "La Reafirmación del Mito",
+      "desc": "Apenas unos años después, el proyecto de Carlos Miloc volvió a rendir frutos en la temporada 1981-82. Tras una fase regular consistente y una liguilla intensa, los Tigres enfrentaron al peligroso Atlante en la final. En un duelo que exigió hasta el último aliento y se definió en una agónica tanda de penales en el Estadio Azteca, los felinos alzaron su segunda corona nacional, consagrando a aquella generación de jugadores como los primeros ídolos absolutos de la afición regiomontana."
+    },
+    {
+      "ano": "2011",
+      "hito": "La Era de Ferretti y el Despertar",
+      "desc": "Después de veintinueve años de amarguras, coqueteos con el descenso y fracasos deportivos, la directiva repatrió al técnico Ricardo 'Tuca' Ferretti, iniciando la época de oro moderna de la institución. En el torneo Apertura 2011, apoyados en la letalidad de Héctor Mancilla y el liderazgo de Lucas Lobos, los Tigres vencieron a Santos Laguna en el Volcán para levantar la tercera estrella, exorcizando décadas de fantasmas y sentando las bases tácticas y anímicas para la inminente hegemonía felina."
+    },
+    {
+      "ano": "2015",
+      "hito": "La Década Incomparable",
+      "desc": "Con una inversión corporativa monumental y el fichaje del astro francés André-Pierre Gignac en 2015, los Tigres se transformaron en el dominador absoluto del fútbol mexicano. Conquistaron cuatro títulos de liga en un lapso de cinco años (Apertura 2015, 2016, 2017 y Clausura 2019), destacando el histórico campeonato del 2017 ganado en calidad de visitante ante el Monterrey, su eterno rival, consolidando al club felino como 'El Equipo de la Década' y una superpotencia indiscutida del continente."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1960 — 1974",
+      "desde": 1960,
+      "hasta": 1974,
+      "url": "/escudos/mexico/tigres/1960-1974.webp"
+    },
+    {
+      "ano": "1974 — 1996",
+      "desde": 1974,
+      "hasta": 1996,
+      "url": "/escudos/mexico/tigres/1974-1996.webp"
+    },
+    {
+      "ano": "1996 — 2000",
+      "desde": 1996,
+      "hasta": 2000,
+      "url": "/escudos/mexico/tigres/1996-2000.webp"
+    },
+    {
+      "ano": "2000 — 2002",
+      "desde": 2000,
+      "hasta": 2002,
+      "url": "/escudos/mexico/tigres/2000-2002.webp"
+    },
+    {
+      "ano": "2002 — 2012",
+      "desde": 2002,
+      "hasta": 2012,
+      "url": "/escudos/mexico/tigres/2002-2012.svg"
+    },
+    {
+      "ano": "2012 — 2015",
+      "desde": 2012,
+      "hasta": 2015,
+      "url": "/escudos/mexico/tigres/2012-2015.svg"
+    },
+    {
+      "ano": "2015 — 2016",
+      "desde": 2015,
+      "hasta": 2016,
+      "url": "/escudos/mexico/tigres/2015-2016.webp"
+    },
+    {
+      "ano": "2016",
+      "desde": 2016,
+      "hasta": 2016,
+      "url": "/escudos/mexico/tigres/2016.webp"
+    },
+    {
+      "ano": "2017 — 2018",
+      "desde": 2017,
+      "hasta": 2018,
+      "url": "/escudos/mexico/tigres/2017-2018.webp"
+    },
+    {
+      "ano": "2018 — Presente",
+      "desde": 2018,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/tigres/2018-actual.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio Universitario",
+      "fundacion": "30 de mayo de 1967",
+      "direccion": "Av. Niños Héroes S/N, Cd. Universitaria, 66451 San Nicolás de los Garza, N.L., México",
+      "google_maps": "https://maps.app.goo.gl/K6vX8L4M2N1Q8L7A9",
+      "lat": 25.7275,
+      "lng": -100.3122,
+      "obs": "Conocido popularmente como 'El Volcán', es el recinto histórico e inquebrantable de la afición felina ('Los Incomparables')."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio Tecnológico",
+        "desde": "1960",
+        "hasta": "1967",
+        "direccion": "Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., México",
+        "google_maps": "https://maps.app.goo.gl/XqL3M4Z2N9P8Q7W86",
+        "lat": 25.6525,
+        "lng": -100.2936,
+        "obs": "Hogar temporal del equipo durante sus primeros años de existencia mientras finalizaba la construcción del Universitario."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 8,
+      "nombre": "Liga MX",
+      "anios": [
+        "1977-78",
+        "1981-82",
+        "Apertura 2011",
+        "Apertura 2015",
+        "Apertura 2016",
+        "Apertura 2017",
+        "Clausura 2019",
+        "Clausura 2023"
+      ]
+    },
+    {
+      "cantidad": 3,
+      "nombre": "Copa MX",
+      "anios": [
+        "1975-76",
+        "1995-96",
+        "Clausura 2014"
+      ]
+    },
+    {
+      "cantidad": 4,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2022-23"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "2020"
+      ]
+    },
+    {
+      "cantidad": 2,
+      "nombre": "Campeones Cup",
+      "anios": [
+        "2018",
+        "2023"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1960",
+      "hasta": "Presente",
+      "desc": "Legendaria indumentaria de un solo color amarillo intenso universitario con vivos, franjas horizontales y letras en azul royal, acompañado de pantalones blancos o amarillos.",
+      "c1": "#FFD100",
+      "sh": "#FFFFFF",
+      "me": "#FFD100"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "André-Pierre Gignac",
+        "apodo": "Dedé",
+        "epoca": "2015-Presente",
+        "desc": "Delantero francés que transformó la historia reciente del club. Fue el referente ofensivo en la obtención de múltiples campeonatos de Liga y competencias internacionales desde su llegada."
+      },
+      {
+        "nombre": "Tomás Boy",
+        "apodo": "El Jefe",
+        "epoca": "1975-1988",
+        "desc": "Mediocampista organizador que lideró al equipo en la obtención de sus primeros dos campeonatos de Liga en las temporadas 1977-78 y 1981-82."
+      },
+      {
+        "nombre": "Osvaldo Batocletti",
+        "apodo": "Bato",
+        "epoca": "1977-1984",
+        "desc": "Defensor central de origen argentino que capitaneó la zaga durante la consecución de los primeros títulos de Liga, destacando por su solidez y liderazgo."
+      },
+      {
+        "nombre": "Gerónimo Barbadillo",
+        "apodo": "Patrulla",
+        "epoca": "1975-1982",
+        "desc": "Extremo peruano fundamental en la primera época dorada. Su dorsal número 7 fue retirado por la institución como reconocimiento a su aporte ofensivo y trayectoria."
+      },
+      {
+        "nombre": "Nahuel Guzmán",
+        "apodo": "El Patón",
+        "epoca": "2014-Presente",
+        "desc": "Guardameta argentino clave en la dinastía moderna del club. Su seguridad en el arco y personalidad influyeron decisivamente en la consolidación del equipo en finales de torneos cortos."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "André-Pierre Gignac",
+        "apodo": "Dedé",
+        "goles": 204,
+        "epoca": "2015-Presente",
+        "desc": "Máximo anotador en la historia de la institución. Alcanzó esta cifra estableciendo récords de efectividad tanto en Liga MX como en torneos internacionales y el Mundial de Clubes."
+      },
+      {
+        "nombre": "Tomás Boy",
+        "apodo": "El Jefe",
+        "goles": 104,
+        "epoca": "1975-1988",
+        "desc": "Mantuvo el récord de máximo artillero histórico durante más de tres décadas. Destacó por su capacidad para definir desde el mediocampo y a balón parado."
+      },
+      {
+        "nombre": "Walter Gaitán",
+        "apodo": "El Divino",
+        "goles": 80,
+        "epoca": "2002-2007",
+        "desc": "Volante ofensivo argentino que se convirtió en campeón de goleo individual en el Apertura 2005. Fue el principal referente de ataque del equipo a principios de siglo."
+      },
+      {
+        "nombre": "Lucas Lobos",
+        "apodo": "Lucas",
+        "goles": 68,
+        "epoca": "2008-2014",
+        "desc": "Mediocampista ofensivo y capitán que lideró al club para romper una sequía de 29 años sin títulos de Liga en el torneo Apertura 2011."
+      },
+      {
+        "nombre": "Gerónimo Barbadillo",
+        "apodo": "Patrulla",
+        "goles": 61,
+        "epoca": "1975-1982",
+        "desc": "Atacante por banda que contribuyó significativamente al registro goleador del equipo gracias a su velocidad y definición en la etapa final de las jugadas."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Hugo Ayala",
+        "apodo": "Ayala",
+        "partidos": 462,
+        "epoca": "2010-2022",
+        "desc": "Defensor central con el mayor número de partidos oficiales disputados en la historia del club. Formó parte constante de la zaga titular durante la etapa más exitosa de la institución."
+      },
+      {
+        "nombre": "Jesús Dueñas",
+        "apodo": "Dueñas",
+        "partidos": 450,
+        "epoca": "2008-2022",
+        "desc": "Jugador multifuncional surgido de las fuerzas básicas. Acumuló un alto número de presencias gracias a su adaptabilidad táctica en el mediocampo y la defensa."
+      },
+      {
+        "nombre": "Nahuel Guzmán",
+        "apodo": "El Patón",
+        "partidos": 450,
+        "epoca": "2014-Presente",
+        "desc": "Acumula esta cifra como el guardameta titular inamovible de la escuadra auriazul durante más de una década, siendo fundamental en los esquemas defensivos."
+      },
+      {
+        "nombre": "Tomás Boy",
+        "apodo": "El Jefe",
+        "partidos": 413,
+        "epoca": "1975-1988",
+        "desc": "Mantuvo una presencia constante en la alineación titular a lo largo de trece temporadas, consolidándose como uno de los líderes históricos del equipo."
+      },
+      {
+        "nombre": "André-Pierre Gignac",
+        "apodo": "Dedé",
+        "partidos": 370,
+        "epoca": "2015-Presente",
+        "desc": "Extranjero con más partidos disputados en la historia del club. Su regularidad física le ha permitido mantenerse activo y titular en casi la totalidad de su etapa en México."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Tigres",
+      "origen": "El mote fue adoptado en la década de 1940 a raíz de la unificación deportiva de la Universidad Autónoma de Nuevo León (UANL). El rector Raúl Rangel Frías determinó que el tigre simbolizaba el coraje, la fortaleza y el instinto competitivo de la comunidad estudiantil neoleonesa."
+    },
+    {
+      "apodo": "Los Universitarios",
+      "origen": "Remite directamente a la institución educativa que gestó el proyecto deportivo, la UANL, cimentando su identidad en el orgullo académico del norte del país."
+    },
+    {
+      "apodo": "Los Felinos",
+      "origen": "Al igual que su contraparte capitalina, este apodo subraya la identidad depredadora y dominante que el club proyecta a través de la figura del tigre asiático que adorna su emblema."
+    },
+    {
+      "apodo": "Los Incomparables",
+      "origen": "Originalmente un adjetivo creado para describir a la apasionada, leal e inmensa base de aficionados del equipo. Con el tiempo, el término ha sido adoptado institucionalmente para referirse al ecosistema completo del club."
+    }
+  ]
+}

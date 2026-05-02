@@ -1,0 +1,305 @@
+{
+  "id": "leon",
+  "datos": {
+    "nombre_completo": "Club León",
+    "nombre_corto": "Club León",
+    "fundacion": "20 de agosto de 1944",
+    "escudo_actual": "/escudos/mexico/leon/ClubLeon2014-presente.webp"
+  },
+  "historia": [
+    {
+      "ano": "1944",
+      "hito": "Nacimiento en el Bajío",
+      "desc": "El 20 de agosto de 1944, en el fervor de una ciudad industrial y zapatera que exigía un equipo representativo en la naciente Liga Mayor, se firmó el acta constitutiva del Club León. La fundación fue impulsada por un grupo de entusiastas empresarios guanajuatenses y miembros de la sociedad civil, destacando figuras como Sebastián Martínez y el coronel Enrique Díaz Escobar, quienes gestionaron la incorporación del equipo al balompié profesional. Naciendo directamente bajo el profesionalismo, el conjunto 'Esmeralda' adoptó el verde y blanco inspirándose en la fertilidad agrícola del Bajío. Su primer partido oficial lo disputaron ante el Atlante, marcando el inicio de la primera gran dinastía del fútbol mexicano y cimentando un arraigo feroz en la región centro del país."
+    },
+    {
+      "ano": "1949",
+      "hito": "El Primer Campeonísimo",
+      "desc": "Antes que nadie más en México, el León instauró una tiranía deportiva indiscutida. En la temporada 1948-49, comandados por el inolvidable atacante Adalberto 'Dumbo' López, leyenda absoluta y tricampeón de goleo, los Esmeraldas conquistaron la Liga Mayor y la Copa México de manera simultánea. Esta hazaña inédita les valió convertirse en el primer 'Campeonísimo' en la historia del fútbol profesional en el país, elevando la vara de excelencia y ubicando a la ciudad de León en el mapa continental."
+    },
+    {
+      "ano": "1956",
+      "hito": "El Bicampeonato Histórico",
+      "desc": "La década de los cincuenta consolidó al club como el rey del Bajío. Con la dirección técnica del español Antonio López Herranz, el equipo esmeralda exhibió un fútbol compacto, técnico y ordenado que se tradujo en un histórico bicampeonato al conseguir el título de liga en las temporadas 1951-52 y 1955-56. Esta generación brillante reafirmó la jerarquía institucional y construyó un palmarés de época, forjando el respeto absoluto de todo el circuito mexicano."
+    },
+    {
+      "ano": "2014",
+      "hito": "La Resurrección de La Fiera",
+      "desc": "Tras una agonía deportiva de más de una década en la liga de Ascenso que casi quiebra el espíritu del club, la verdadera resurrección llegó bajo la dirección del técnico uruguayo Gustavo Matosas. Con un fútbol vertiginoso, valiente y suicida, el equipo regresó a Primera División y de inmediato hizo historia: se coronaron en el torneo Apertura 2013 y revalidaron el título en el Clausura 2014. Este espectacular bicampeonato en torneos cortos devolvió el orgullo a 'La Fiera' y resucitó la grandeza de una institución histórica."
+    },
+    {
+      "ano": "2023",
+      "hito": "La Conquista de Concacaf",
+      "desc": "Pese a su rica historia doméstica, el club tenía una gran deuda pendiente a nivel internacional. Esta asignatura se saldó magistralmente en 2023, cuando los Panzas Verdes, bajo el mando táctico de Nicolás Larcamón, conquistaron la Liga de Campeones de la Concacaf derrotando al LAFC de Estados Unidos. Este monumental triunfo no solo significó el primer título internacional avalado por la confederación en la historia de la institución, sino que les otorgó el anhelado boleto al Mundial de Clubes, sellando su pasaporte a la élite global."
+    }
+  ],
+  "evolucion_escudos": [
+    {
+      "ano": "1955 — 1963",
+      "desde": 1955,
+      "hasta": 1963,
+      "url": "/escudos/mexico/leon/Leon1955-1963.webp"
+    },
+    {
+      "ano": "1964 — 1981",
+      "desde": 1964,
+      "hasta": 1981,
+      "url": "/escudos/mexico/leon/Escudo1964-1981.webp"
+    },
+    {
+      "ano": "1981 — 1999",
+      "desde": 1981,
+      "hasta": 1999,
+      "url": "/escudos/mexico/leon/Escudo1981-1999.webp"
+    },
+    {
+      "ano": "2000 — 2013",
+      "desde": 2000,
+      "hasta": 2013,
+      "url": "/escudos/mexico/leon/Escudo2000-2013.webp"
+    },
+    {
+      "ano": "2013",
+      "desde": 2013,
+      "hasta": 2013,
+      "url": "/escudos/mexico/leon/ClubLeonApertura2013-Clausura2014.webp"
+    },
+    {
+      "ano": "2014 — Presente",
+      "desde": 2014,
+      "hasta": "Presente",
+      "url": "/escudos/mexico/leon/ClubLeon2014-presente.webp"
+    }
+  ],
+  "canchas": {
+    "actual": {
+      "nombre": "Estadio León",
+      "fundacion": "1 de marzo de 1967",
+      "direccion": "Blvd. Adolfo López Mateos 1810, La Martinica, 37500 León de los Aldama, Gto., México",
+      "google_maps": "https://maps.app.goo.gl/9QZz1qV4J1hM7W2Q9",
+      "lat": 21.1119,
+      "lng": -101.6593,
+      "obs": "Conocido históricamente e inoficialmente como 'Nou Camp'. Fue sede de los Juegos Olímpicos de 1968 y de los Mundiales de 1970 y 1986."
+    },
+    "viejas": [
+      {
+        "nombre": "Estadio Patria",
+        "desde": "1944",
+        "hasta": "1945",
+        "direccion": "Barrio de la Calzada, León, Guanajuato, México",
+        "google_maps": "https://maps.app.goo.gl/uXpT6vF1G2XkM7zN7",
+        "lat": 21.1213,
+        "lng": -101.6823,
+        "obs": "Primer campo del equipo cuando entraron al profesionalismo en 1944."
+      },
+      {
+        "nombre": "Estadio Enrique Fernández Martínez",
+        "desde": "1945",
+        "hasta": "1950",
+        "direccion": "Deportiva del Estado, León, Gto., México",
+        "google_maps": "https://maps.app.goo.gl/Y9Zz1qV4J1hM7W2Q9",
+        "lat": 21.107,
+        "lng": -101.637,
+        "obs": "Estadio con tribunas de madera donde lograron su primer bicampeonato. Dejaron el recinto luego de que un incendio quemara parte de las instalaciones."
+      },
+      {
+        "nombre": "Estadio La Martinica",
+        "desde": "1950",
+        "hasta": "1967",
+        "direccion": "Calle La Martinica, Barrio La Martinica, León, Guanajuato, México",
+        "google_maps": "https://maps.app.goo.gl/H4c4X6c3z2A4P7M16",
+        "lat": 21.113,
+        "lng": -101.662,
+        "obs": "Sede principal donde forjaron el legendario apodo de 'Campeonísimo' antes de dar el gran salto de infraestructura. El histórico inmueble fue demolido en 2017."
+      }
+    ]
+  },
+  "titulos": [
+    {
+      "cantidad": 8,
+      "nombre": "Liga MX",
+      "anios": [
+        "1947-48",
+        "1948-49",
+        "1951-52",
+        "1955-56",
+        "1991-92",
+        "Apertura 2013",
+        "Clausura 2014",
+        "Apertura 2020"
+      ]
+    },
+    {
+      "cantidad": 5,
+      "nombre": "Copa MX",
+      "anios": [
+        "1948-49",
+        "1957-58",
+        "1966-67",
+        "1970-71",
+        "1971-72"
+      ]
+    },
+    {
+      "cantidad": 5,
+      "nombre": "Campeón de Campeones",
+      "anios": [
+        "1947-48",
+        "1948-49",
+        "1955-56",
+        "1970-71",
+        "1971-72"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Liga de Campeones CONCACAF",
+      "anios": [
+        "2023"
+      ]
+    },
+    {
+      "cantidad": 1,
+      "nombre": "Leagues Cup",
+      "anios": [
+        "2021"
+      ]
+    }
+  ],
+  "equipacion": [
+    {
+      "desde": "1944",
+      "hasta": "Presente",
+      "desc": "El club ha defendido históricamente un diseño de un solo color verde esmeralda brillante en su camiseta, complementado tradicionalmente con pantalones blancos.",
+      "c1": "#006341",
+      "sh": "#FFFFFF",
+      "me": "#006341"
+    }
+  ],
+  "matriz_humana": {
+    "idolos": [
+      {
+        "nombre": "Antonio Carbajal",
+        "apodo": "La Tota",
+        "epoca": "1950-1966",
+        "desc": "reconocido guardameta mexicano conocido como el 'Cinco Copas'. Defendió el arco esmeralda durante dieciséis años, siendo pilar en la obtención de múltiples campeonatos de Liga en los años cincuenta."
+      },
+      {
+        "nombre": "Mauro Boselli",
+        "apodo": "El Matador",
+        "epoca": "2013-2018",
+        "desc": "Delantero argentino que se erigió como el símbolo de la época moderna del club. Su capacidad anotadora fue determinante para el histórico bicampeonato de 2013-2014."
+      },
+      {
+        "nombre": "Luis Montes",
+        "apodo": "El Chapito",
+        "epoca": "2011-2022",
+        "desc": "Mediocampista ofensivo y capitán que lideró al equipo desde su ascenso a Primera División hasta la conquista de tres títulos de Liga, destacando por su técnica y visión de juego."
+      },
+      {
+        "nombre": "Adalberto López",
+        "apodo": "Dumbo",
+        "epoca": "1946-1950",
+        "desc": "Primer gran referente ofensivo de la institución. Fue tricampeón de goleo individual y figura estelar en el primer campeonato del club, consolidando la primera dinastía esmeralda."
+      },
+      {
+        "nombre": "Milton Queiroz",
+        "apodo": "Tita",
+        "epoca": "1990-1992, 1993-1996",
+        "desc": "Volante ofensivo brasileño que aportó talento y goles de manufactura internacional. Fue pieza clave en la consecución del campeonato de Liga en la temporada 1991-92."
+      }
+    ],
+    "goleadores_historicos": [
+      {
+        "nombre": "Adalberto López",
+        "apodo": "Dumbo",
+        "goles": 136,
+        "epoca": "1946-1950",
+        "desc": "Máximo anotador histórico de la institución. Su impresionante promedio goleador cimentó las bases estadísticas del club durante los primeros años del profesionalismo."
+      },
+      {
+        "nombre": "Mauro Boselli",
+        "apodo": "El Matador",
+        "goles": 130,
+        "epoca": "2013-2018",
+        "desc": "Segundo mayor goleador del club. Obtuvo tres títulos de goleo individual en torneos cortos, demostrando una altísima rentabilidad como delantero centro."
+      },
+      {
+        "nombre": "Milton Queiroz",
+        "apodo": "Tita",
+        "goles": 97,
+        "epoca": "1990-1992, 1993-1996",
+        "desc": "A pesar de no ser un centrodelantero nominal, su efectividad en tiros libres y remates de media distancia lo ubicó entre los tres máximos artilleros del equipo."
+      },
+      {
+        "nombre": "Roberto Salomone",
+        "apodo": "Salomone",
+        "goles": 96,
+        "epoca": "1971-1977",
+        "desc": "Atacante argentino que aportó goles de manera constante durante la década de los setenta, destacando su contundencia y ubicación dentro del área."
+      },
+      {
+        "nombre": "Marcos Aurelio",
+        "apodo": "Aurelio",
+        "goles": 91,
+        "epoca": "1944-1948, 1951-1953",
+        "desc": "Compañero de ataque de 'Dumbo' López, este delantero contribuyó significativamente al poderío ofensivo que llevó al club a ganar sus primeros campeonatos."
+      }
+    ],
+    "presencias_historicas": [
+      {
+        "nombre": "Luis Montes",
+        "apodo": "El Chapito",
+        "partidos": 409,
+        "epoca": "2011-2022",
+        "desc": "Poseedor del récord de más partidos disputados en la época contemporánea. Su permanencia y liderazgo lo convirtieron en el jugador más representativo del siglo XXI."
+      },
+      {
+        "nombre": "Antonio Carbajal",
+        "apodo": "La Tota",
+        "partidos": 364,
+        "epoca": "1950-1966",
+        "desc": "Guardameta titular inamovible a lo largo de dieciséis años. Su constancia bajo el arco fue fundamental durante la época dorada de los años cincuenta."
+      },
+      {
+        "nombre": "Fernando Navarro",
+        "apodo": "Navarrito",
+        "partidos": 331,
+        "epoca": "2013-2021",
+        "desc": "Lateral derecho con vocación ofensiva que acumuló una gran cantidad de apariciones, siendo parte estructural del equipo multicampeón en la década pasada."
+      },
+      {
+        "nombre": "Ignacio González",
+        "apodo": "Nacho",
+        "partidos": 302,
+        "epoca": "2010-2020",
+        "desc": "Defensor central conocido por su entrega y determinación. Anotó goles en finales clave y completó una década íntegra defendiendo la camiseta esmeralda."
+      },
+      {
+        "nombre": "Carlos Gómez",
+        "apodo": "Gómez",
+        "partidos": 300,
+        "epoca": "1970-1978",
+        "desc": "Defensa surgido de las fuerzas básicas que mantuvo una titularidad constante a lo largo de la década de los setenta, reflejando compromiso y regularidad deportiva."
+      }
+    ]
+  },
+  "origen_apodos": [
+    {
+      "apodo": "Los Panzas Verdes",
+      "origen": "Surge de una tradición curtidora en la ciudad durante el siglo XX. Los obreros que trabajaban tiñendo el cuero utilizaban químicos que manchaban sus delantales de verde, característica que la prensa y la afición trasladaron al equipo de fútbol local."
+    },
+    {
+      "apodo": "La Fiera",
+      "origen": "Mote adoptado en la década de los ochenta que subraya la garra, intensidad y ferocidad competitiva mostrada en la cancha por el equipo representante de la ciudad que lleva el nombre del felino."
+    },
+    {
+      "apodo": "Los Esmeraldas",
+      "origen": "Surgió como una evolución periodística para enaltecer el color verde de la indumentaria, dotándolo de un tono de elegancia, prestigio y realeza tras la conquista de sus primeros campeonatos en el profesionalismo."
+    },
+    {
+      "apodo": "El Primer Campeonísimo",
+      "origen": "Acuñado en 1949 cuando el Club León se convirtió en el primer equipo en la historia del fútbol profesional en México en ganar la Liga y la Copa en la misma temporada, obteniendo el título de Campeón de Campeones de manera automática."
+    }
+  ]
+}
