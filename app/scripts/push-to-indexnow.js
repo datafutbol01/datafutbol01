@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SITEMAP_PATH = path.join(__dirname, '../public/sitemap.xml');
-const HOST = 'www.datafutbol.app'; // O el dominio principal que tengas configurado
+const HOST = 'datafutbol.app'; // O el dominio principal que tengas configurado
 const KEY = 'datafutbol-indexnow-key-2026';
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 
