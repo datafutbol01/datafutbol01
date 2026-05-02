@@ -5,8 +5,8 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Shield } from 'lucide-react';
-import Breadcrumbs from '../components/Breadcrumbs';
-import SEO from '../components/SEO';
+import Breadcrumbs from '../components/Breadcrumbs.jsx';
+import SEO from '../components/SEO.jsx';
 
 
 export default function ClubDetail() {

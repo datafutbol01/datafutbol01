@@ -4,11 +4,11 @@ import { getClubsByLeague, getLeagueHistory, getLeagueMatchups, getLeagues, getA
 
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
-import ShareButton from '../components/ShareButton';
-import Breadcrumbs from '../components/Breadcrumbs';
-import LeagueTabs from '../components/LeagueTabs';
-import SEO from '../components/SEO';
-import { useAppStore } from '../store/useAppStore';
+import ShareButton from '../components/ShareButton.jsx';
+import Breadcrumbs from '../components/Breadcrumbs.jsx';
+import LeagueTabs from '../components/LeagueTabs.jsx';
+import SEO from '../components/SEO.jsx';
+import { useAppStore } from '../store/useAppStore.js';
 
 export default function League() {
   const { leagueId } = useParams();
