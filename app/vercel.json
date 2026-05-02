@@ -30,6 +30,14 @@
   ],
   "rewrites": [
     {
+      "source": "/(.*\\.txt)",
+      "destination": "/$1"
+    },
+    {
+      "source": "/(.*\\.xml)",
+      "destination": "/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
