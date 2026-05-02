@@ -3,9 +3,6 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "engines": {
-    "node": "20.x"
-  },
   "scripts": {
     "dev": "vite",
     "build": "node scripts/generate-sitemap.js && node scripts/cipher.cjs encrypt && vite build && node scripts/cipher.cjs decrypt",
@@ -49,7 +46,7 @@
     "javascript-obfuscator": "^5.4.1",
     "jsdom": "^29.1.0",
     "puppeteer": "^24.42.0",
-    "vite": "^6.0.1",
+    "vite": "^8.0.1",
     "vite-plugin-javascript-obfuscator": "^3.1.0",
     "vite-plugin-pwa": "^1.2.0",
     "vitest": "^4.1.5"
