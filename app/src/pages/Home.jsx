@@ -252,6 +252,7 @@ export default function Home() {
   const pillars = [
     { title: t.explore, icon: Shield, link: '/leagues', bg: 'rgba(251, 191, 36, 0.1)', border: 'var(--accent-gold)' },
     { title: t.wc, icon: Globe2, link: '/mundiales', bg: 'rgba(56, 189, 248, 0.1)', border: '#38bdf8' },
+    { title: 'MUNDIAL 2026', icon: Globe2, link: '/mundial2026', bg: 'rgba(234, 179, 8, 0.15)', border: 'var(--accent-gold)' },
     { title: t.live, icon: Activity, link: '/resultados', bg: 'rgba(239, 68, 68, 0.1)', border: '#ef4444' }
   ];
 
@@ -419,7 +420,7 @@ export default function Home() {
           <DatoDelDia />
         </div>
 
-        {/* 4 GRANDES PILARES DE LA PÁGINA (MATRIX) */}
+        {/* PILARES DE LA PÁGINA (MATRIX) */}
         <div
           className="animate-fade-in"
           style={{

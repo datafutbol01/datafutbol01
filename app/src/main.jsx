@@ -7,6 +7,7 @@ import Leagues from './pages/Leagues.jsx';
 import League from './pages/League.jsx';
 import ClubDetail from './pages/ClubDetail.jsx';
 import WorldCupsHub from './pages/WorldCupsHub.jsx';
+import WorldCup2026Hub from './pages/WorldCup2026Hub.jsx';
 import ChampionsHub from './pages/ChampionsHub.jsx';
 import LiveScoresHub from './pages/LiveScoresHub.jsx';
 import AuditHub from './pages/AuditHub.jsx';
@@ -26,6 +27,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/" element={<App />}>
           <Route index element={<Home />} />
           <Route path="leagues" element={<Leagues />} />
+          <Route path="mundial2026" element={<WorldCup2026Hub />} />
           <Route path="mundiales" element={<WorldCupsHub />} />
           <Route path="copas" element={<CopasIndex />} />
           <Route path="copas/:torneo" element={<ChampionsHub />} />
