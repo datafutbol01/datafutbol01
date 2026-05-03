@@ -4,6 +4,9 @@ import { readData } from '../data/loader';
 
 const DatoDelDia = () => {
   const [datoHoy, setDatoHoy] = useState('');
+  const [datosArray, setDatosArray] = useState([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [fade, setFade] = useState('in');
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
@@ -17,11 +20,34 @@ const DatoDelDia = () => {
     const efemerides = readData(rawEfemerides);
     const dato = efemerides[fechaClave] || "¿Sabías que en DataFútbol podés consultar historiales completos, campañas de equipos campeones y estadísticas de jugadores desde la era amateur hasta la actualidad?";
     
+    if (Array.isArray(dato)) {
+      setDatosArray(dato);
+      setDatoHoy(dato[0]);
+    } else {
+      setDatosArray([dato]);
+      setDatoHoy(dato);
+    }
+    
     console.log(`[DatoDelDia] Fecha detectada: ${fechaClave}`);
     console.log(`[DatoDelDia] ¿Existe efeméride para hoy?: ${!!efemerides[fechaClave]}`);
-    
-    setDatoHoy(dato);
   }, []);
+
+  useEffect(() => {
+    if (datosArray.length > 1) {
+      const interval = setInterval(() => {
+        setFade('out');
+        setTimeout(() => {
+          setCurrentIndex((prev) => {
+            const next = (prev + 1) % datosArray.length;
+            setDatoHoy(datosArray[next]);
+            return next;
+          });
+          setFade('in');
+        }, 500); // Wait for fade out
+      }, 7000); // Change every 7 seconds
+      return () => clearInterval(interval);
+    }
+  }, [datosArray]);
 
   const handleShare = async () => {
     const shareData = {
@@ -111,15 +137,37 @@ const DatoDelDia = () => {
         </button>
       </div>
       
-      <p style={{ 
-        margin: 0, 
-        fontSize: '14px', 
-        lineHeight: '1.4', 
+      <div style={{
+        margin: 0,
+        fontSize: '14px',
+        lineHeight: '1.4',
         color: '#e2e8f0',
-        fontWeight: '500'
+        fontWeight: '500',
+        minHeight: '60px',
+        display: 'flex',
+        alignItems: 'center',
+        opacity: fade === 'in' ? 1 : 0,
+        transition: 'opacity 0.5s ease-in-out'
       }}>
-        {datoHoy}
-      </p>
+        <p style={{ margin: 0 }}>{datoHoy}</p>
+      </div>
+
+      {datosArray.length > 1 && (
+        <div style={{ display: 'flex', gap: '4px', justifyContent: 'center', marginTop: '4px' }}>
+          {datosArray.map((_, idx) => (
+            <div
+              key={idx}
+              style={{
+                width: '6px',
+                height: '6px',
+                borderRadius: '50%',
+                backgroundColor: idx === currentIndex ? '#facc15' : 'rgba(255, 255, 255, 0.3)',
+                transition: 'background-color 0.3s ease'
+              }}
+            />
+          ))}
+        </div>
+      )}
     </div>
   );
 };

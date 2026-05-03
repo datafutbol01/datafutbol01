@@ -1,3 +1,830 @@
 {
-  "payload": "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"
+  "08-08": [
+    "Un día como hoy en 1907, se fundó FC Augsburg.",
+    "Un día como hoy en 1918, se fundó Instituto Atlético Central Córdoba.",
+    "En 1918, empleados pertenecientes a la seccional de Córdoba del Ferrocarril Central Córdoba llevaron a cabo una asamblea constitutiva en la Escuela de Artes y Oficios de la ciudad. Conducidos por Ramón Isleños, establecieron inicialmente la entida... (Instituto Atlético Central Córdoba)"
+  ],
+  "07-01": [
+    "Un día como hoy en 1904, se fundó Bayer Leverkusen.",
+    "Un día como hoy en 1899, se fundó Hoffenheim.",
+    "Un día como hoy en 1968, se fundó Fortuna Sittard.",
+    "En 1968, se oficializó la fundación del Fortuna Sittard Combinatie, fruto de una fusión estratégica entre dos entidades de la región de Limburgo: el Fortuna '54 (radicado en Geleen) y el Sittardia (de Sittard). La unión fue impulsada por la necesi... (Fortuna Sittard)",
+    "Un día como hoy en 1965, se fundó FC Twente.",
+    "El FC Twente fue fundado oficialmente En 1965 en la ciudad de Enschede. Su nacimiento fue el resultado de una histórica y tensa fusión entre dos enconados rivales locales: el Sportclub Enschede y el Enschedese Boys. La ambiciosa iniciativa fue imp... (FC Twente)",
+    "Un día como hoy en 1970, se fundó FC Utrecht.",
+    "El Football Club Utrecht nació En 1970 como resultado de una compleja y necesaria fusión entre tres equipos locales: DOS (campeón de liga en 1958), Elinkwijk y Velox. La iniciativa fue impulsada fuertemente por la alcaldía local, con el alcalde Ha... (FC Utrecht)",
+    "Un día como hoy en 1906, se fundó Sporting CP.",
+    "El Sporting Clube de Portugal fue fundado En 1906 en la ciudad de Lisboa. La institución nació tras una profunda escisión en el seno del Campo Grande Football Club. José Holtreman Roquette (conocido históricamente como José Alvalade), frustrado po... (Sporting CP)"
+  ],
+  "02-27": [
+    "Un día como hoy en 1900, se fundó Bayern Múnich."
+  ],
+  "12-19": [
+    "Un día como hoy en 1909, se fundó Borussia Dortmund."
+  ],
+  "08-01": [
+    "Un día como hoy en 1900, se fundó Borussia M'gladbach.",
+    "El club logró adjudicarse el trofeo correspondiente de primera división oficializando el Campeonato Brasileño de 1974 y venciendo en la disputa final agendada contra Cruzeiro Esporte Clube. El encuentro resolutivo estipulado por los directivos de ... (Vasco da Gama)",
+    "La entidad fue constituida de manera oficial En 1926 en las mesas del Ristorante D'Angelo, ubicado en la ciudad de Nápoles. El empresario local Giorgio Ascarelli impulsó la refundación del antiguo club Internaples, cambiando la denominación a 'Ass... (Napoli)",
+    "Un día como hoy en 1903, se fundó Boavista FC.",
+    "El Boavista Futebol Clube fue fundado En 1903 bajo el nombre de 'The Boavista Footballers'. La institución nació por iniciativa conjunta de un grupo de jóvenes portugueses y operarios ingleses que trabajaban en la fábrica textil británica 'William... (Boavista FC)"
+  ],
+  "03-08": [
+    "Un día como hoy en 1899, se fundó Eintracht Frankfurt."
+  ],
+  "05-30": [
+    "Un día como hoy en 1904, se fundó SC Freiburg.",
+    "El Cagliari Football Club fue formalmente instituido En 1920 tras una meticulosa asamblea fundacional en los salones del cine Eden, ubicado en el centro de Via Roma. La entidad fue promovida y presidida primeramente por el eminente profesor y ciru... (Cagliari)"
+  ],
+  "09-29": [
+    "Un día como hoy en 1887, se fundó Hamburger SV."
+  ],
+  "08-14": [
+    "Un día como hoy en 1846, se fundó Heidenheim."
+  ],
+  "02-13": [
+    "Un día como hoy en 1948, se fundó 1. FC Köln."
+  ],
+  "03-16": [
+    "Un día como hoy en 1905, se fundó Mainz 05.",
+    "Tras una prolongada sequía de casi dos décadas sin títulos, el Aberdeen retomó la senda del éxito En 2014. Dirigidos por Derek McInnes, se coronaron campeones de la Copa de la Liga Escocesa al vencer por penales al Inverness Caledonian Thistle. (Aberdeen)"
+  ],
+  "05-19": [
+    "Un día como hoy en 2009, se fundó RB Leipzig."
+  ],
+  "05-15": [
+    "Un día como hoy en 1910, se fundó FC St. Pauli.",
+    "El pináculo internacional en la historia de los 'Leones' se alcanzó en la temporada 1963-64, durante la conquista de la Recopa de Europa. El trayecto hacia el título estuvo marcado por hazañas irrepetibles, como la victoria por 16-1 ante el APOEL ... (Sporting CP)"
+  ],
+  "01-20": [
+    "Un día como hoy en 1966, se fundó Union Berlin."
+  ],
+  "09-09": [
+    "Un día como hoy en 1893, se fundó VfB Stuttgart.",
+    "Un día como hoy en 1909, se fundó Levante UD.",
+    "Décadas antes de que el fútbol paralizara pasiones masivas, nacieron en simultáneo dos potencias pioneras en la ciudad a orillas del Turia. En 1909, bajo la dirección y audacia del educador Vicente Cabanes, vio la luz el Levante Foot-ball Club, er... (Levante UD)"
+  ],
+  "02-04": [
+    "Un día como hoy en 1899, se fundó Werder Bremen."
+  ],
+  "09-12": [
+    "Un día como hoy en 1945, se fundó VfL Wolfsburg.",
+    "Un día como hoy en 1907, se fundó Real Betis."
+  ],
+  "03-29": [
+    "Un día como hoy en 1913, se fundó Club Atlético Aldosivi.",
+    "En 1913, un grupo de empleados y trabajadores del Puerto de Mar del Plata fundó el club tras una asamblea realizada en la confitería 'El Recreo'. La institución fue presidida inicialmente por Pedro Seré y su nombre se originó a partir de las prime... (Club Atlético Aldosivi)"
+  ],
+  "08-15": [
+    "Un día como hoy en 1904, se fundó Asociación Atlética Argentinos Juniors.",
+    "En 1904, un grupo de jóvenes con inclinaciones socialistas y anarquistas se reunió en Villa Crespo con el propósito de fundar un club de fútbol. La asamblea, encabezada por Leandro Ravera, Carlos Agostini y los hermanos Candioti, denominó inicialm... (Asociación Atlética Argentinos Juniors)",
+    "Tras la adquisición oficial de los terrenos en el año 1941, la comisión directiva del club inició el proyecto de edificación de sus instalaciones definitivas. Finalmente, En 1951, se inauguró formalmente el Estadio Monumental Presidente Juan Domin... (Instituto Atlético Central Córdoba)",
+    "Un día como hoy en 1916, se fundó Atlas Fútbol Club.",
+    "En 1916, en el legendario café 'Doña Adela' del centro de Guadalajara, un grupo de jóvenes aristócratas tapatíos materializó su pasión por el 'football'. Tras estudiar en prestigiosos colegios de Inglaterra y quedar prendados por la elegancia del ... (Atlas Fútbol Club)",
+    "Un día como hoy en 1902, se fundó Wanderers.",
+    "En 1902, un grupo de estudiantes firmó un acta para documentar la fundación de un nuevo club tras diferencias en el Albion. Debido a problemas para encontrar un terreno fijo, el presidente de Albion los calificó como 'wanderers' (vagabundos en ing... (Wanderers)"
+  ],
+  "10-20": [
+    "En 1976, en el estadio ubicado en la intersección de Boyacá y Juan Agustín García, se produjo el debut oficial de Diego Armando Maradona. Frente a Talleres de Córdoba, el director técnico Juan Carlos Montes ordenó el ingreso del mediocampista de 1... (Asociación Atlética Argentinos Juniors)"
+  ],
+  "09-27": [
+    "Un día como hoy en 1902, se fundó Club Atlético Tucumán.",
+    "En 1902, un grupo de ciudadanos reunidos en una propiedad ubicada en la calle 25 de Mayo de la ciudad de San Miguel de Tucumán llevó a cabo la asamblea constitutiva del Club Atlético Tucumán. La reunión formalizó la creación de la entidad deportiv... (Club Atlético Tucumán)"
+  ],
+  "01-30": [
+    "En 1960, la institución logró su primer título nacional oficial al adjudicarse el Campeonato de Campeones de la República, un certamen organizado por el Consejo Federal de la AFA. El torneo reunía a los clubes campeones de las ligas regionales del... (Club Atlético Tucumán)",
+    "En el marco de la conmemoración del centenario de la Asociación del Fútbol Argentino, se organizó un certamen oficial a nivel nacional denominado Copa Centenario. El equipo dirigido por Roberto Perfumo atravesó diversas fases eliminatorias a lo la... (Club de Gimnasia y Esgrima La Plata)"
+  ],
+  "01-21": [
+    "Un día como hoy en 1896, se fundó Club Atlético Banfield.",
+    "En 1896, un grupo de profesionales e inmigrantes de origen británico fundó el Club Atlético Banfield en las inmediaciones de la estación del Ferrocarril del Sud. La primera comisión directiva estableció a Daniel Kingsland como presidente de la ins... (Club Atlético Banfield)"
+  ],
+  "12-13": [
+    "Bajo la dirección técnica de Julio César Falcioni, la institución estructuró un plantel enfocado en el rigor táctico y la solidez defensiva durante el Torneo Apertura 2009. Sustentado en la organización del mediocampista Walter Erviti y la efectiv... (Club Atlético Banfield)",
+    "El hito que consagró al Pachuca como un club de jerarquía continental llegó la noche dEn 2006 en Santiago de Chile. El equipo dirigido por Enrique Meza, exhibiendo un fútbol exquisito de toques rápidos y verticales, derrotó al todopoderoso Colo-Co... (Pachuca)",
+    "En 1913, debido a diferencias operativas entre la gerencia de la empresa ferroviaria y la afición por las competencias de fútbol en la capital, el departamento deportivo decidió independizarse de la matriz corporativa. Impulsada por Jorge Pacheco,... (Peñarol)"
+  ],
+  "04-05": [
+    "Un día como hoy en 1904, se fundó Club Atlético Barracas Central.",
+    "En 1904, un grupo de trabajadores del barrio de Barracas, encabezado por los operarios Felipe Cámpora, Saúl Cámpora y Pedro Varela, llevó a cabo la fundación oficial del Club Atlético Barracas Central. La entidad fue creada con el objetivo de fome... (Club Atlético Barracas Central)",
+    "Para dar respuesta al creciente desarrollo de la institución y la necesidad de contar con instalaciones adecuadas, la comisión directiva adquirió terrenos situados en las adyacencias del Parque General San Martín. En 1925 se llevó a cabo la inaugu... (Club Sportivo Independiente Rivadavia)",
+    "Un día como hoy en 1898, se fundó Athletic Bilbao."
+  ],
+  "03-19": [
+    "Un día como hoy en 1905, se fundó Club Atlético Belgrano.",
+    "En 1905, bajo la sombra de un histórico árbol ubicado en el barrio de Alberdi, el dirigente Arturo Orgaz lideró una asamblea junto a un grupo de jóvenes para oficializar la creación del Club Atlético Belgrano. La denominación fue escogida en homen... (Club Atlético Belgrano)"
+  ],
+  "06-26": [
+    "En la temporada 2010-2011, tras finalizar en las primeras posiciones del campeonato de la Primera B Nacional, el plantel dirigido por Ricardo Zielinski accedió a disputar la instancia de Promoción por el ascenso frente a River Plate. En 2011, lueg... (Club Atlético Belgrano)"
+  ],
+  "04-03": [
+    "Un día como hoy en 1905, se fundó Club Atlético Boca Juniors.",
+    "En 1905, un grupo de adolescentes compuesto por Esteban Baglietto, Alfredo Scarpatti, Santiago Sana y los hermanos Juan y Teodoro Farenga, llevó a cabo la asamblea constitutiva del Club Atlético Boca Juniors en la Plaza Solís, ubicada en el barrio... (Club Atlético Boca Juniors)"
+  ],
+  "05-25": [
+    "Luego de ejercer su localía en diversos recintos temporales de la Ciudad de Buenos Aires y Avellaneda, la institución concretó la edificación de su estadio definitivo de cemento en las calles Brandsen y Del Valle Iberlucea. El recinto fue inaugura... (Club Atlético Boca Juniors)",
+    "Un día como hoy en 1905, se fundó Club Atlético Platense.",
+    "En 1905, un grupo de jóvenes afincados en las inmediaciones del barrio de Recoleta conformó oficialmente el Club Atlético Platense. Según los registros históricos, la recaudación inicial necesaria para la adquisición de la primera indumentaria y l... (Club Atlético Platense)",
+    "Un día como hoy en 1901, se fundó Club Atlético River Plate.",
+    "En 1901 se concretó la fundación oficial del Club Atlético River Plate en el barrio de La Boca, producto de la fusión administrativa y deportiva de los equipos amateurs 'Santa Rosa' y 'La Rosales'. Durante la asamblea constitutiva, presidida por L... (Club Atlético River Plate)",
+    "En 1967, bajo la conducción táctica de Jock Stein, el Celtic se convirtió en el primer equipo británico (y el único escocés) en ganar la Copa de Europa. Derrotaron por 2-1 al Inter de Milán de Helenio Herrera en el Estadio Nacional de Lisboa. El h... (Celtic)",
+    "Bajo el mando del emergente entrenador Guus Hiddink, el plantel firmó la temporada perfecta. Con Hans van Breukelen en el arco y la jerarquía de Ronald Koeman, el PSV ganó la Liga, la Copa KNVB y tocó el cielo con las manos En 1988 en Stuttgart. T... (PSV)"
+  ],
+  "06-03": [
+    "Un día como hoy en 1919, se fundó Club Atlético Central Córdoba (SdE).",
+    "En 1919, un grupo de trabajadores ferroviarios radicados en la ciudad de Santiago del Estero concretó la asamblea fundacional del Club Atlético Central Córdoba. Tras desvincularse previamente del Club Atlético Mitre debido a diferencias institucio... (Club Atlético Central Córdoba (SdE))",
+    "Un día como hoy en 1887, se fundó Club de Gimnasia y Esgrima La Plata.",
+    "En 1887, cincuenta socios vinculados a la administración pública y el comercio local celebraron una asamblea en un recinto de la Avenida 7 para constituir oficialmente el Club de Gimnasia y Esgrima La Plata. Bajo la presidencia inicial de Saturnin... (Club de Gimnasia y Esgrima La Plata)",
+    "Un día como hoy en 1892, se fundó Liverpool Football Club.",
+    "Tras alcanzar finalmente la Primera División a finales de la década de 1980, el club vivió su época de mayor esplendor futbolístico bajo la astuta dirección técnica del entrenador João Alves. El pináculo absoluto de la institución se materializó e... (Estrela da Amadora)"
+  ],
+  "10-15": [
+    "El club logró su clasificación a la primera edición del Torneo Nacional organizado por la Asociación del Fútbol Argentino en 1967. Durante este certamen, el equipo santiagueño obtuvo relevancia a nivel nacional al conseguir una victoria histórica ... (Club Atlético Central Córdoba (SdE))",
+    "Durante sus tres primeras décadas, el equipo completó de manera nómada sus localías utilizando diversos campos alquilados. Finalmente, la asamblea directiva adquirió terrenos en el medio del tradicional barrio del Prado. En 1933 se inauguraron las... (Wanderers)"
+  ],
+  "03-20": [
+    "Un día como hoy en 1935, se fundó Club Social y Deportivo Defensa y Justicia.",
+    "En 1935, un grupo de vecinos y comerciantes de la localidad de Florencio Varela labró el acta fundacional del Club Social y Deportivo Defensa y Justicia. En sus primeros años, la entidad funcionó como un espacio orientado a actividades sociales y ... (Club Social y Deportivo Defensa y Justicia)",
+    "Un día como hoy en 1970, se fundó Toulouse."
+  ],
+  "12-20": [
+    "Tras décadas de actividad regional, el club fue aceptado como miembro afiliado de la Asociación del Fútbol Argentino En 1977. Este acontecimiento le permitió debutar oficialmente en el Campeonato de Primera D de 1978. Durante este período fundacio... (Club Social y Deportivo Defensa y Justicia)",
+    "Coincidiendo estatutariamente con la agenda anual de su centenario institucional, el equipo conquistó la Copa Libertadores 1998 derrotando al Barcelona Sporting Club. Tras ganar 2-0 la ida efectuada en São Januário, materializó el título continent... (Vasco da Gama)"
+  ],
+  "01-23": [
+    "Durante el año 2020, bajo la conducción técnica de Hernán Crespo, el club protagonizó su campaña internacional más destacada al participar en la Copa Sudamericana. El equipo desplegó un funcionamiento táctico caracterizado por la posesión y agresi... (Club Social y Deportivo Defensa y Justicia)",
+    "En 2018, en el marco de una serie eliminatoria correspondiente a la Copa Argentina disputada frente a Sportivo Belgrano, se produjo el último encuentro oficial del mediocampista Pablo César Aimar. El exfutbolista del seleccionado nacional, quien s... (Asociación Atlética Estudiantes)",
+    "Un día como hoy en 1921, se fundó Deportivo Alavés."
+  ],
+  "08-04": [
+    "Un día como hoy en 1905, se fundó Club Estudiantes de La Plata.",
+    "En 1905, un grupo de jóvenes universitarios y exsocios del Club de Gimnasia y Esgrima concretó la fundación del Club Atlético Estudiantes. La asamblea constitutiva se llevó a cabo en la zapatería 'Nueva York', ubicada en la Avenida 7 de la ciudad ... (Club Estudiantes de La Plata)",
+    "El elenco matriculó su participación más larga en torneos de llaves eliminatorias del país alcanzando la final íntegra de la Copa do Brasil 2010, fase a la que accedió tras superar mecánicamente a Corinthians Alagoano, Náutico, Goiás, Vasco da Gam... (Vitória)"
+  ],
+  "09-21": [
+    "Un día como hoy en 1912, se fundó Asociación Atlética Estudiantes.",
+    "En 1912, como consecuencia de una escisión deportiva producida en el 'Centro de Estudiantes y Biblioteca Bernardino Rivadavia', un grupo de alumnos pertenecientes al Colegio Nacional N.º 1 de Río Cuarto conformó la Asociación Atlética Estudiantes.... (Asociación Atlética Estudiantes)",
+    "En 1895, durante la asamblea de miembros, Lichtenberger propuso y logró modificar la denominación oficial a 'Albion Football Club' como referencia directa a Gran Bretaña. Simultáneamente, la directiva descartó el diseño original de la camiseta e i... (Albion)"
+  ],
+  "04-26": [
+    "Tras la reanudación de la actividad futbolística del club en 1915 y un período en el cual ofició de local en diversos campos de juego cedidos, la institución logró obtener terrenos propios ubicados en las inmediaciones del Paseo del Bosque de la c... (Club de Gimnasia y Esgrima La Plata)",
+    "Un día como hoy en 1929, se fundó Ross County.",
+    "El club se fundó En 1929 en la pequeña localidad de Dingwall para representar al condado de Ross-shire en el área norte del país. De inmediato, el equipo se inscribió en la Highland Football League, un campeonato regional ajeno a la liga profesion... (Ross County)",
+    "Un día como hoy en 1903, se fundó Atlético Madrid.",
+    "En 1903, el coraje vasco se apoderó de Madrid. Llenos de nostalgia y orgullo tras presenciar cómo el Athletic Club de Bilbao levantaba la Copa de España en la capital, un grupo de audaces estudiantes vascos matriculados en la Escuela Especial de I... (Atlético Madrid)"
+  ],
+  "08-30": [
+    "Un día como hoy en 1908, se fundó Club Atlético Gimnasia y Esgrima.",
+    "En 1908, un grupo de exsocios del tradicional 'Club de Gimnasia y Esgrima' concretó la fundación del Club Atlético Gimnasia y Esgrima de Mendoza. La conformación de esta nueva entidad se originó a partir de una escisión motivada por el interés exc... (Club Atlético Gimnasia y Esgrima)"
+  ],
+  "03-25": [
+    "Luego de ejercer la localía en diversos campos de juego transitorios de la capital provincial durante sus primeras décadas, la institución formalizó la construcción de su infraestructura definitiva en terrenos otorgados previamente por el gobierno... (Club Atlético Gimnasia y Esgrima)",
+    "Un día como hoy en 1903, se fundó Racing Club.",
+    "En 1903 se concretó la fundación oficial del Racing Club en la localidad de Barracas al Sud (actual Avellaneda). La entidad surgió como resultado de la fusión administrativa y deportiva de dos equipos locales: el 'Football Club Barracas al Sud' y ... (Racing Club)",
+    "Un día como hoy en 1908, se fundó Atlético Mineiro.",
+    "El Clube Atlético Mineiro se fundó En 1908 por iniciativa y asamblea de 22 estudiantes de secundaria congregados en las inmediaciones del Parque Municipal de Belo Horizonte. La asamblea aprobó un proyecto de carácter social y abierto, lo que propi... (Atlético Mineiro)"
+  ],
+  "11-01": [
+    "Un día como hoy en 1908, se fundó Club Atlético Huracán.",
+    "En 1908, un grupo de jóvenes reunidos en la calle Patagones del barrio de Nueva Pompeya labró el acta de constitución oficial del Club Atlético Huracán. La institución, presidida inicialmente por José Laguna, cimentó sus bases sobre un proyecto fu... (Club Atlético Huracán)",
+    "En 1897, un grupo de jóvenes estudiantes del prestigioso Liceo Classico Massimo d'Azeglio se reunió en un banco del Corso Re Umberto de Turín con la intención de formar un club deportivo. Liderados por los hermanos Eugenio y Enrico Canfari, el obj... (Juventus)",
+    "Un día como hoy en 1892, se fundó Pachuca.",
+    "La Cuna del Fútbol Mexicano gestó al Pachuca Athletic Club En 1892. Impulsado por mineros ingleses que trabajaban en la Compañía Real del Monte y Pachuca, en el estado de Hidalgo, el equipo nació de la añoranza por el deporte británico. Fundado po... (Pachuca)",
+    "Un día como hoy en 1938, se fundó Moreirense FC.",
+    "El Moreirense Futebol Clube fue fundado En 1938 en Moreira de Cónegos, una pequeña freguesía (parroquia civil) perteneciente al municipio de Guimarães. La institución fue creada por un grupo de trabajadores textiles y entusiastas deportivos de la ... (Moreirense FC)"
+  ],
+  "11-26": [
+    "En 2014, el club obtuvo la Copa Argentina tras superar a Rosario Central en el encuentro final disputado en el Estadio San Juan del Bicentenario. Bajo la conducción técnica de Néstor Apuzzo, el equipo logró imponerse mediante la ejecución de tiros... (Club Atlético Huracán)"
+  ],
+  "01-24": [
+    "Un día como hoy en 1913, se fundó Club Sportivo Independiente Rivadavia.",
+    "En 1913, un grupo de jóvenes deportistas de la ciudad de Mendoza concretó la fundación del Club Atlético Independiente. La institución nació como respuesta a la necesidad de contar con un espacio propio para la práctica del fútbol tras desligarse ... (Club Sportivo Independiente Rivadavia)"
+  ],
+  "01-01": [
+    "Un día como hoy en 1905, se fundó Club Atlético Independiente.",
+    "A mediados de 1904, un grupo de jóvenes empleados de la tienda porteña 'A la Ciudad de Londres' decidió establecer un nuevo equipo de fútbol tras no ser incluidos en el conjunto oficial de la empresa (denominado Maipú Banfield). Bajo el liderazgo ... (Club Atlético Independiente)",
+    "Un día como hoy en 1910, se fundó Club Atlético Vélez Sarsfield.",
+    "En 1910, un grupo de jóvenes se resguardó de una precipitación bajo el túnel de la estación Floresta, perteneciente al Ferrocarril del Oeste, llevando a cabo en dicho lugar la asamblea constitutiva del Club Atlético Vélez Sarsfield. La comisión fu... (Club Atlético Vélez Sarsfield)",
+    "Un día como hoy en 1931, se fundó Bahia.",
+    "El Esporte Clube Bahia fue fundado por registros formables asambleístas En 1931 tras coordinar operaciones e independencias a cargo de ex integrantes desvinculados logísticamente de dos asociaciones clausuradas. Los estatutos formales dispusieron ... (Bahia)",
+    "Un día como hoy en 1878, se fundó Everton Football Club."
+  ],
+  "06-19": [
+    "Durante la temporada 1998-1999 del Campeonato de la Primera B Nacional, el plantel dirigido por el entrenador Ernesto Corti completó un destacado torneo que le permitió acceder a las instancias definitivas. En 1999, tras superar una serie decisiva... (Instituto Atlético Central Córdoba)"
+  ],
+  "11-19": [
+    "Luego de un prolongado período de dieciséis años transitando ininterrumpidamente por la segunda categoría del fútbol argentino, el club conformó un plantel competitivo dirigido técnicamente por Lucas Bovaglio para la disputa del torneo de Primera ... (Instituto Atlético Central Córdoba)",
+    "Un día como hoy en 2002, se fundó Cerro Largo.",
+    "En 2002, como resultado de una planificación logística orientada a otorgar representación formal al interior del país dentro de los torneos profesionales de la AUF, se constituyó el Cerro Largo Fútbol Club en la ciudad de Melo. El proyecto dictami... (Cerro Largo)"
+  ],
+  "01-03": [
+    "Un día como hoy en 1915, se fundó Club Atlético Lanús.",
+    "En 1915, representantes de los equipos 'Lanús United' y 'El Progreso', motivados por diversas crisis de financiamiento, formalizaron la unificación de ambas estructuras en una asamblea desarrollada en el Centro Comercial de la ciudad. El acuerdo d... (Club Atlético Lanús)"
+  ],
+  "11-03": [
+    "Un día como hoy en 1903, se fundó Club Atlético Newell's Old Boys.",
+    "En 1903, exalumnos y profesores del Colegio Comercial Anglicano Argentino se reunieron en el patio de la institución educativa para establecer formalmente el Club Atlético Newell's Old Boys. La conformación de la entidad fue promovida por Claudio ... (Club Atlético Newell's Old Boys)"
+  ],
+  "01-31": [
+    "Tras descender en el año 1999 y atravesar una prolongada ausencia de 22 años disputando campeonatos de la segunda y tercera división (Primera B Nacional y Primera B Metropolitana), la institución logró su anhelado retorno a la máxima categoría. En... (Club Atlético Platense)"
+  ],
+  "11-04": [
+    "Bajo la conducción del entrenador Juan José Pizzuti, el equipo conocido popularmente como 'El Equipo de José' obtuvo el campeonato de Primera División en 1966 y se adjudicó la Copa Libertadores de América en 1967 tras superar a Nacional de Uruguay... (Racing Club)"
+  ],
+  "12-27": [
+    "En 2001, tras una prolongada ausencia de 35 años sin la obtención de títulos de liga a nivel nacional, la institución se consagró campeona del Torneo Apertura. El plantel profesional, dirigido técnicamente por Reinaldo Merlo, finalizó el certamen ... (Racing Club)"
+  ],
+  "02-22": [
+    "Un día como hoy en 1931, se fundó Club Deportivo Riestra Asociación de Fomento Barrio Sud.",
+    "En 1931, un grupo de jóvenes reunidos en una tradicional lechería ubicada sobre la avenida Riestra del barrio de Nueva Pompeya fundaron el Club Social, Cultural y Deportivo Riestra. En sus inicios, la institución se orientó a la disputa de certáme... (Club Deportivo Riestra Asociación de Fomento Barrio Sud)"
+  ],
+  "02-20": [
+    "Luego de padecer la expropiación y demolición de su antiguo predio en 1981 como consecuencia del trazado de la Autopista AU7, el club transitó una década ejerciendo localía en estadios ajenos. En 1993, la institución logró la inauguración de su es... (Club Deportivo Riestra Asociación de Fomento Barrio Sud)",
+    "Un día como hoy en 1939, se fundó Boston River.",
+    "En 1939, bajo la tutela de Juan Ramos, un grupo de jóvenes vinculados a la confección oficializó la creación de la entidad durante una asamblea celebrada en la Sastrería Boston del barrio Bolívar de Montevideo. El nombre fue el resultado de fusion... (Boston River)"
+  ],
+  "12-24": [
+    "Un día como hoy en 1889, se fundó Club Atlético Rosario Central.",
+    "En 1889, trabajadores de origen británico pertenecientes a la empresa Ferrocarril Central Argentino fundaron en la ciudad de Rosario el 'Central Argentine Railway Athletic Club'. La primera comisión directiva fue presidida por el escocés Colin Cal... (Club Atlético Rosario Central)",
+    "Un día como hoy en 1935, se fundó Juventud.",
+    "En 1935, un grupo de jóvenes estudiantes del colegio salesiano San Isidro fundó la institución reuniéndose en la plaza de Las Piedras. La decisión se tomó luego de que las autoridades del colegio les prohibieran usar el patio para jugar, debido a ... (Juventud)"
+  ],
+  "04-01": [
+    "Un día como hoy en 1908, se fundó Club Atlético San Lorenzo de Almagro.",
+    "En 1908, un grupo de jóvenes del barrio de Almagro conocidos como 'Los Forzosos de Almagro' constituyó formalmente el Club Atlético San Lorenzo de Almagro. Ante el peligro que representaba jugar al fútbol en calles transitadas por tranvías, el sac... (Club Atlético San Lorenzo de Almagro)",
+    "Un día como hoy en 1911, se fundó Club Atlético Sarmiento.",
+    "En 1911, un grupo de vecinos de la ciudad de Junín llevó a cabo la asamblea constitutiva para la fundación del Club Atlético Sarmiento. La primera comisión directiva fue presidida por Román Gorostiaga, estableciendo los lineamientos iniciales de l... (Club Atlético Sarmiento)",
+    "Un día como hoy en 1888, se fundó Sparta Rotterdam.",
+    "El Sparta Rotterdam fue fundado En 1888, lo que lo acredita oficialmente como el club de fútbol profesional más antiguo de los Países Bajos. Su origen es fascinante: nació en el jardín de la casa de la familia Harteveld Hoos, ubicada en el Oostves... (Sparta Rotterdam)",
+    "Un día como hoy en 1910, se fundó SC Farense.",
+    "El Sporting Clube Farense fue fundado En 1910 en la ciudad costera de Faro, erigiéndose formalmente como la institución futbolística más antigua de la región del Algarve. La creación del club fue liderada por un grupo de jóvenes deportistas locale... (SC Farense)"
+  ],
+  "12-16": [
+    "En 1979, normativas municipales impuestas por la gestión dictatorial obligaron al club a desprenderse de las instalaciones de su estadio ubicado en la Avenida La Plata (conocido como el 'Viejo Gasómetro'). Afectada por una grave crisis institucion... (Club Atlético San Lorenzo de Almagro)",
+    "El Milan Foot-Ball and Cricket Club fue fundado En 1899 en una reunión llevada a cabo en la Fiaschetteria Toscana, ubicada en la céntrica Via Berchet de Milán. La iniciativa fue liderada por los expatriados ingleses Herbert Kilpin (quien se conver... (Milan)",
+    "La fundación formal del Parma Football Club aconteció en los densos y gélidos días dEn 1913 bajo el liderazgo formativo originario del político e intelectual Ugo Betti. Curiosamente e impulsados por un profundo fervor clásico y nacional, su primer... (Parma)"
+  ],
+  "08-13": [
+    "Durante la temporada 2014, bajo la conducción técnica del entrenador Edgardo Bauza, la institución obtuvo por primera vez en su historia la Copa Libertadores de América. Tras superar diversas etapas eliminatorias en las que el equipo demostró un e... (Club Atlético San Lorenzo de Almagro)"
+  ],
+  "10-12": [
+    "Un día como hoy en 1913, se fundó Club Atlético Talleres.",
+    "En 1913, un grupo de operarios y personal jerárquico del Ferrocarril Central Córdoba fundó oficialmente el 'Club Atlético Talleres Central Córdoba' en la ciudad homónima. La primera comisión directiva estuvo presidida por el inglés Tomás Lawson. D... (Club Atlético Talleres)",
+    "Un día como hoy en 1909, se fundó Coritiba.",
+    "El Coritiba Foot Ball Club se fundó de manera concreta En 1909 originándose como fruto de las reuniones formativas de un grupo de jóvenes descendientes de inmigrantes alemanes. Liderados por Frederico Fritz Essenfelder, la agrupación sentó su base... (Coritiba)",
+    "Un día como hoy en 1916, se fundó Club América.",
+    "En 1916, coincidiendo con el Día de la Raza, un grupo de estudiantes de los colegios Mascarones y La Perpetua de la Ciudad de México decidieron unir fuerzas para formar un equipo de fútbol competitivo. Liderados por Rafael Garza Gutiérrez, alias '... (Club América)"
+  ],
+  "08-03": [
+    "Un día como hoy en 1902, se fundó Club Atlético Tigre.",
+    "En 1902, un grupo de jóvenes fundó el Club Atlético Tigre en la localidad homónima, ubicada en la zona norte de la provincia de Buenos Aires. La primera asamblea constitutiva designó a José Dellagiovanna como presidente inaugural de la institución... (Club Atlético Tigre)",
+    "Un día como hoy en 1950, se fundó Lyon.",
+    "El Olympique Lyonnais nació de forma independiente y oficial En 1950, tras una feroz y rebelde asamblea donde los dirigentes del Lyon Olympique Universitaire decidieron separar definitivamente la sección de fútbol del inestable formato multideport... (Lyon)"
+  ],
+  "04-15": [
+    "Un día como hoy en 1907, se fundó Club Atlético Unión.",
+    "En 1907, un grupo de catorce socios disidentes del Santa Fe Foot-ball Club se congregaron en el domicilio de la familia Barisio, ubicado en la calle Catamarca de la ciudad de Santa Fe, para constituir formalmente una nueva entidad. Bajo la preside... (Club Atlético Unión)",
+    "La época dorada fue trágicamente asolada por dos cruentas y terribles tragedias inmortales que desgarraron socialmente el alma e integridad del club y la ciudad. En 1985, un violento asalto de aficionados ingleses provocó 39 muertos en la final de... (Liverpool Football Club)"
+  ],
+  "03-26": [
+    "Un día como hoy en 1924, se fundó Athletico Paranaense.",
+    "El Club Athletico Paranaense surgió En 1924 como resultado directo de la fusión logística de dos instituciones pioneras de la capital paranaense: el International Foot-Ball Club (fundado en 1912) y el América Futebol Clube (1914). Esta unión estra... (Athletico Paranaense)",
+    "Un día como hoy en 1926, se fundó Real Oviedo.",
+    "En 1926, la encarnizada rivalidad que fracturaba Oviedo se selló con un pacto de sangre deportiva histórica. Acorralados ante la necesidad de construir una potencia regional que pudiera competir nacionalmente, el legendario Real Club Deportivo Ovi... (Real Oviedo)"
+  ],
+  "08-12": [
+    "Un día como hoy en 1904, se fundó Botafogo.",
+    "Un día como hoy en 1970, se fundó PSG.",
+    "El Paris Saint-Germain surgió heroicamente En 1970, impulsado por dirigentes parisinos, mediante la astuta e incondicional asombrosa fusión del modesto y pueblerino Stade Saint-Germain con el recién nacido e institucional proyecto del Paris FC. (PSG)"
+  ],
+  "12-08": [
+    "El Botafogo de Futebol e Regatas resultó estatutariamente consolidado como club producto de una fusión directiva acontecida En 1942. El pacto englobó al Club de Regatas Botafogo (asociación acuática pionera fundada el 1 de julio de 1894) y al Bota... (Botafogo)",
+    "Un día como hoy en 1910, se fundó CD Nacional.",
+    "El Clube Desportivo Nacional fue fundado En 1910 en la ciudad de Funchal, capital del archipiélago de Madeira. La creación del club fue impulsada por un grupo de jóvenes locales liderado por António Figueiredo. En una época donde el fútbol incipie... (CD Nacional)"
+  ],
+  "05-10": [
+    "Un día como hoy en 1973, se fundó Chapecoense.",
+    "La Associação Chapecoense de Futebol nació operando matriculando En 1973 organizando a la fuerza perimetral cimentando la ciudad occidental de Chapecó. Su origen oficial formó estructurando una consolidación de voluntades arrojando contundente rep... (Chapecoense)",
+    "Un día como hoy en 1967, se fundó AZ Alkmaar.",
+    "La institución se constituyó formalmente En 1967 como resultado de una fusión estratégica entre dos equipos regionales: el Alkmaar '54 y el FC Zaanstreek. La iniciativa fue impulsada principalmente por los hermanos Cees y Klaas Molenaar, propietar... (AZ Alkmaar)",
+    "Un día como hoy en 1939, se fundó Rio Ave FC.",
+    "El Rio Ave Futebol Clube fue fundado En 1939 en la histórica ciudad costera de Vila do Conde, situada en el distrito de Oporto. La institución nació gracias al empuje de un grupo de jóvenes amigos locales, liderado por João Baptista da Silva y el ... (Rio Ave FC)"
+  ],
+  "09-01": [
+    "Un día como hoy en 1910, se fundó Corinthians.",
+    "El Sport Club Corinthians Paulista se fundó En 1910 a las 20:30 horas en el barrio de Bom Retiro, São Paulo. Fue gestado de manera independiente por un grupo de cinco operarios ferroviarios (Joaquim Ambrósio, Antônio Pereira, Rafael Perrone, Ansel... (Corinthians)"
+  ],
+  "10-13": [
+    "Frente a un prolongado vacío estadístico de 22 años, 8 meses y 7 días de duración sin conseguir campeonatos paulistas formales, la plantilla depuso la marca organizativa conquistando el Campeonato Paulista de 1977. La llave resolutiva estructurada... (Corinthians)"
+  ],
+  "01-02": [
+    "Un día como hoy en 1921, se fundó Cruzeiro.",
+    "La institución se formó En 1921 por directivas impulsadas en la comunidad de inmigrantes italianos residentes en Belo Horizonte. Originalmente nombrada como Società Sportiva Palestra Italia, restringían en sus inicios la participación exclusivamen... (Cruzeiro)"
+  ],
+  "11-17": [
+    "Un día como hoy en 1895, se fundó Flamengo.",
+    "El Grupo de Regatas do Flamengo se fundó originalmente En 1895 en el histórico Café Lamas como una entidad exclusiva para competencias de remo. La incorporación del departamento de fútbol se produjo a fines de 1911, cuando a raíz de un conflicto i... (Flamengo)"
+  ],
+  "11-23": [
+    "Durante su ciclo histórico más laureado y comandado por la figura de Zico, el club materializó su dominio continental obteniendo su primera Copa Libertadores En 1981. El título se definió en un tercer partido de desempate en Montevideo frente a Co... (Flamengo)"
+  ],
+  "07-21": [
+    "Un día como hoy en 1902, se fundó Fluminense.",
+    "El Fluminense Football Club se constituyó En 1902 por iniciativa fundamental de Oscar Cox, joven brasileño de ascendencia británica pionero en la introducción técnica de las reglas del fútbol entre los integrantes de familias influyentes. La recie... (Fluminense)"
+  ],
+  "09-15": [
+    "Un día como hoy en 1903, se fundó Grêmio.",
+    "El Grêmio Foot-Ball Porto Alegrense se fundó En 1903 a partir de la iniciativa del comerciante paulista Cândido Dias. Su origen devino de una casualidad histórica cuando, durante un partido local de otros clubes, el único balón disponible se desin... (Grêmio)"
+  ],
+  "04-04": [
+    "Un día como hoy en 1909, se fundó Internacional.",
+    "El Sport Club Internacional formalizó estatutariamente su origen fundacional la jornada operativa documentada En 1909 tras los comicios encabezados organizadamente por los hermanos comerciales fundadores Henrique, José Eduardo y Luiz Poppe. Frente... (Internacional)"
+  ],
+  "08-16": [
+    "Transicionando y operando operativamente tras largas sequías contables generadas en instancias formales nacionales originando decenios, consiguieron y certificaron oficial coronando su estatus matriz ganando Copa Libertadores En 2006 empatando fin... (Internacional)"
+  ],
+  "12-03": [
+    "Garantizando una inmaculada seguidilla logística frente cruzada operativamente a matrices y ligas de nivel perimetral cruzadas, el grupo estructuró victorias de formato directo cerrando formales en llaves continentales, adjudicándose contable En 2... (Internacional)",
+    "El Torino Football Club fue fundado En 1906 tras una histórica reunión nocturna en la Birreria Voigt de Turín. La gestación de la entidad provino directamente de un cisma dentro de la Juventus. El influyente empresario suizo Alfred Dick (quien aca... (Torino)"
+  ],
+  "11-09": [
+    "Un día como hoy en 1925, se fundó Mirassol.",
+    "Mirassol Futebol Clube surgió y formalizó base originaria En 1925 rubricando estructura deportiva conformando cuadros originando y organizando de base para impulsar formalmente los frentes locales de competencia contable agendados en el interior c... (Mirassol)"
+  ],
+  "08-26": [
+    "Un día como hoy en 1914, se fundó Palmeiras.",
+    "Convocados socialmente en respuesta a la densidad demográfica de la migración italiana en São Paulo, los obreros empleados por las Industrias Matarazzo —Luigi Cervo, Vincenzo Ragognetti, Luigi Emanuele Marzo y Ezequiel Simone— formalizaron organiz... (Palmeiras)"
+  ],
+  "09-14": [
+    "Ante las derivaciones formales originadas en el avance de la Segunda Guerra Mundial, el régimen estatal de Getúlio Vargas decretó nacionalmente en 1942 la prohibición estricta del uso civil e institucional de nombres o menciones vinculados a los P... (Palmeiras)"
+  ],
+  "01-08": [
+    "Un día como hoy en 1928, se fundó Red Bull Bragantino."
+  ],
+  "02-05": [
+    "Un día como hoy en 1905, se fundó Remo."
+  ],
+  "04-14": [
+    "Un día como hoy en 1912, se fundó Santos.",
+    "El club se materializó formalmente la jornada del día En 1912 impulsándose por asamblea fundacional convocando a dependientes por iniciativa originada por Raimundo Marques, Mário Ferraz de Campos y Argemiro de Souza Junior. Los registros contables... (Santos)",
+    "Un día como hoy en 1903, se fundó Aberdeen.",
+    "El Aberdeen Football Club fue fundado En 1903 producto de la fusión de tres clubes preexistentes en la ciudad: Aberdeen, Victoria United y Orion. La unión fue impulsada para crear una sola institución con la fortaleza financiera y deportiva necesa... (Aberdeen)"
+  ],
+  "09-07": [
+    "El departamento ojeador y administrativo concretó las firmas formales registrando un recambio de juventud reclutando generacionalmente a un deportista con estatus prometedor apodado deportivamente Pelé (Edson Arantes do Nascimento). Estableciendo ... (Santos)",
+    "Un día como hoy en 1909, se fundó Real Sociedad.",
+    "Las gélidas mareas cantábricas y la apacible brisa de la preciosa playa de La Concha acunaron una fundación pionera forjada en el barro donostiarra. Hartos de disputar precarios recintos prestados y conformados velozmente a partir de atléticos y d... (Real Sociedad)",
+    "El Genoa Cricket and Football Club, reconocido históricamente como el club de fútbol más antiguo de Italia que sigue en actividad, fue fundado En 1893 en los salones del Consulado Británico de la ciudad portuaria de Génova. Dirigido por el expatri... (Genoa)"
+  ],
+  "01-25": [
+    "Un día como hoy en 1930, se fundó São Paulo.",
+    "El São Paulo Futebol Clube se fundó En 1930 tras la fusión entre el Club Athletico Paulistano y la Associação Atlética das Palmeiras. Los colores rojo, blanco y negro surgieron de la combinación de ambas entidades. En 1935, tras una crisis institu... (São Paulo)",
+    "Un día como hoy en 1890, se fundó Sevilla FC.",
+    "La Giralda y los aromas del sur de España atestiguaron uno de los orígenes deportivos más aristocráticos y tempraneros del país. En el corazón de las florecientes delegaciones comerciales británicas, la histórica noche dEn 1890 se vistió de gala. ... (Sevilla FC)"
+  ],
+  "03-05": [
+    "Bajo la dirección de Rubens Minelli, el equipo conquistó su primer título nacional de Serie A. En la final disputada En 1978 en el Mineirão, São Paulo superó al Atlético Mineiro en la tanda de penales (3-2) tras un empate sin goles, con el arquero... (São Paulo)",
+    "Un día como hoy en 1916, se fundó RCD Mallorca.",
+    "El archipiélago balear exigía a gritos su propia voz futbolera tras una desorganizada y bohemia importación de pelotas desde la lejana península durante principios de siglo. En 1916 floreció la primera piedra monumental liderada casi en soledad, p... (RCD Mallorca)"
+  ],
+  "12-18": [
+    "El club alcanzó su tercer cetro continental al golear 4-0 al Athletico Paranaense en la final de vuelta en el Morumbi. Meses después, En 2005 en Yokohama, São Paulo derrotó por 1-0 al Liverpool FC de Inglaterra con un gol de Mineiro y una actuació... (São Paulo)"
+  ],
+  "08-21": [
+    "Un día como hoy en 1898, se fundó Vasco da Gama.",
+    "El club se fundó En 1898 producto de una asamblea celebrada por 62 empleados de comercio, mayoritariamente inmigrantes portugueses, reunidos en las instalaciones de la Sociedade Dramática Filhos de Talma. Su propósito funcional inicial se restring... (Vasco da Gama)",
+    "Un día como hoy en 1901, se fundó Brighton & Hove Albion Football Club.",
+    "Un día como hoy en 1923, se fundó Club Necaxa.",
+    "En 1923, impulsado por el fervor de los trabajadores de la Compañía de Luz y Fuerza del Centro en la Ciudad de México, el ingeniero escocés William H. Frasser fundó el Club Deportivo Necaxa. El equipo nació de la fusión corporativa de los clubes '... (Club Necaxa)",
+    "Un día como hoy en 1931, se fundó FC Famalicão.",
+    "El Futebol Clube de Famalicão fue fundado En 1931 en la ciudad industrial de Vila Nova de Famalicão, situada en el distrito de Braga. La creación de la institución fue impulsada por un grupo de notables locales liderado por José de Carvalho y Joaq... (FC Famalicão)"
+  ],
+  "04-07": [
+    "En 1923, el plantel conocido sociológicamente como «Os Camisas Negras», conformado de manera inédita por jugadores negros, mestizos y trabajadores obreros de bajos medios sociales, ganó el Campeonato Carioca registrando once victorias, dos empates... (Vasco da Gama)"
+  ],
+  "03-14": [
+    "Bajo la dirección del entrenador Flávio Costa, el club conformó una generación estadísticamente dominante apodada «Expresso da Vitória», escuadra que consiguió los Campeonatos Cariocas de forma invicta en los torneos finalizados en 1945, 1947 y 19... (Vasco da Gama)",
+    "Pese a enfrentar las primeras dificultades en el ámbito de la administración económica (que lo llevaron bajo tutela administrativa), el equipo se rebeló dentro del terreno de juego En 2004, imponiéndose sorpresivamente al Hibernian por 2-0 en Hamp... (Livingston)"
+  ],
+  "05-13": [
+    "Un día como hoy en 1899, se fundó Vitória.",
+    "La institución se fundó En 1899 bajo la denominación original de Club de Cricket Victoria, gestada por iniciativa de los hermanos Artur y Eugênio Borges y un grupo de jóvenes provenientes de familias tradicionales tras retornar de estudios en Ingl... (Vitória)"
+  ],
+  "11-11": [
+    "El equipo se adjudicó la edición 1953 del Campeonato Baiano superando en la fase de decisión a Botafogo de Bahía para cortar administrativamente una sequía deportiva de 44 años sin torneos de primera división oficial. Años más tarde, el proyecto d... (Vitória)"
+  ],
+  "05-11": [
+    "En 1983, el club firmó el capítulo más grandioso de su historia bajo la dirección técnica del entonces emergente Alex Ferguson. En la final de la Recopa de Europa disputada en Gotemburgo, el Aberdeen sorprendió al continente venciendo por 2-1 al p... (Aberdeen)"
+  ],
+  "11-06": [
+    "Un día como hoy en 1887, se fundó Celtic.",
+    "El Celtic Football Club fue fundado oficialmente En 1887 en el salón parroquial de la iglesia de St. Mary, en el distrito de Calton, Glasgow. El principal impulsor fue el Hermano Walfrid, un marista irlandés cuyo objetivo era crear un equipo de fú... (Celtic)"
+  ],
+  "05-24": [
+    "Un día como hoy en 1909, se fundó Dundee United.",
+    "El club fue fundado En 1909 por la comunidad católica irlandesa de la ciudad de Dundee. Inicialmente nombrado Dundee Hibernian, el club tomó posesión de un estadio vacío (Clepington Park), al que renombraron Tannadice Park. En 1923, la institución... (Dundee United)",
+    "En 1972, Rangers logró su mayor éxito internacional al conquistar la Recopa de Europa en el Camp Nou de Barcelona. Conducidos por el técnico Willie Waddell y con John Greig como capitán, el equipo superó por 3-2 al Dinamo de Moscú con un gol de Co... (Rangers)"
+  ],
+  "05-18": [
+    "Dundee Football Club fue fundado En 1893. La institución surgió a partir de la fusión de dos clubes locales de la ciudad, East End y Our Boys, con el propósito explícito de formar una entidad deportiva lo suficientemente profesional para postular ... (Dundee)",
+    "Un día como hoy en 1882, se fundó Burnley Football Club."
+  ],
+  "12-15": [
+    "En 1973, capitaneados en el mediocampo por Gordon Wallace, Dundee sumó su último gran trofeo nacional venciendo al Celtic en Hampden Park por 1-0 en la final de la Copa de la Liga Escocesa. Desde entonces, el club se ha enfocado en sostener su pre... (Dundee)"
+  ],
+  "05-21": [
+    "Tras padecer una histórica sequía de 114 años sin levantar la Copa de Escocia, Hibernian finalmente se consagró campeón En 2016. Dirigidos por Alan Stubbs, superaron a Rangers por 3-2 con un gol agónico del capitán David Gray en tiempo de descuent... (Hibernian)"
+  ],
+  "01-05": [
+    "Un día como hoy en 1869, se fundó Kilmarnock.",
+    "Fundado En 1869 en una reunión llevada a cabo en Robertson's Temperance Hotel. Inicialmente, un grupo de deportistas locales buscaba mantener la actividad física practicando un estilo de fútbol similar al rugby, hasta estandarizar las reglas de la... (Kilmarnock)",
+    "Un día como hoy en 1905, se fundó Central Español.",
+    "En 1905, trabajadores del barrio Palermo oficializaron la creación de la entidad mediante la fusión de los equipos locales Soriano FC y Solís FC. Para definir el nombre, disputaron un partido que consagró ganador a Soriano por 2-0. Tras el triunfo... (Central Español)"
+  ],
+  "04-24": [
+    "En 1965 representa el pináculo histórico del club. En la última jornada de liga, Kilmarnock visitó Tynecastle necesitando vencer a Hearts por diferencia de dos goles para superarlos por promedio de gol. Con un triunfo épico de 2-0, se consagraron ... (Kilmarnock)"
+  ],
+  "05-17": [
+    "Un día como hoy en 1886, se fundó Motherwell.",
+    "En 1886, el club nació a raíz de una reunión en el pub de Baillie McNeil, fusionando a los dos equipos amateurs locales: Glencairn y Alpha. La iniciativa surgió de trabajadores de acerías y minas del corazón industrial de Lanarkshire Norte, lo que... (Motherwell)",
+    "Un día como hoy en 1939, se fundó Estoril Praia.",
+    "El Grupo Desportivo Estoril Praia fue fundado En 1939 por Fausto Figueiredo, un acaudalado magnate empresarial, dueño de la línea ferroviaria Lisboa-Cascais, del famoso Casino de Estoril y de los grandes hoteles de lujo de la Riviera portuguesa. J... (Estoril Praia)"
+  ],
+  "03-13": [
+    "El principal logro oficial de la institución sucedió En 2016. Durante su estancia continua en la Primera División, el equipo avanzó hasta la final de la Copa de la Liga tras superar al Celtic en las semifinales previas. En el encuentro decisivo di... (Ross County)"
+  ],
+  "02-24": [
+    "Un día como hoy en 1884, se fundó St. Johnstone."
+  ],
+  "08-19": [
+    "Un hito fundamental para la consolidación institucional de la organización se produjo En 1989 con el establecimiento en un nuevo recinto. El agricultor local Bruce McDiarmid donó los terrenos agrícolas de su propiedad sobre los cuales la directiva... (St. Johnstone)"
+  ],
+  "10-24": [
+    "Un día como hoy en 1877, se fundó St. Mirren.",
+    "Un día como hoy en 1920, se fundó CA Osasuna.",
+    "La férrea y orgullosa tierra de Navarra carecía de un estandarte unificado hasta la noche clave dEn 1920. El murmullo tenso de las tertulias taurinas y fiesteras se acalló en las céntricas mesas del legendario Café Kutz, frente a la mismísima Plaz... (CA Osasuna)"
+  ],
+  "11-29": [
+    "Un día como hoy en 1899, se fundó Barcelona."
+  ],
+  "10-22": [
+    "La génesis del FC Barcelona es quizás una de las epopeyas fundacionales más poéticas de toda Europa. En 1899, el suizo Hans Max Gamper (conocido luego como Joan Gamper), publicó un humilde pero incisivo anuncio en la revista 'Los Deportes' llamand... (Barcelona)"
+  ],
+  "08-23": [
+    "Un día como hoy en 1923, se fundó Celta de Vigo.",
+    "El oleaje atlántico empujó un pacto cívico y deportivo sin parangón en las rías gallegas. Entrada la década de los veinte, la ciudad marinera sufría el sangriento cisma competitivo entre sus dos tótems ineludibles: el aristócrata 'Real Vigo Sporti... (Celta de Vigo)",
+    "Un día como hoy en 1924, se fundó Monaco."
+  ],
+  "01-10": [
+    "Un día como hoy en 1923, se fundó Elche Club de Fútbol."
+  ],
+  "10-28": [
+    "Un día como hoy en 1900, se fundó Espanyol.",
+    "En 1900, la incipiente escena barcelonesa sufría un éxodo de talento usurpado y organizado exclusivamente por colonias y sociedades británicas y suizas, donde los lugareños eran menospreciados. Furioso ante este elitismo excluyente, el estudiante ... (Espanyol)"
+  ],
+  "07-08": [
+    "Un día como hoy en 1983, se fundó Getafe CF.",
+    "En pleno corazón del arrabal proletario y del resistente cinturón sur de Madrid, el colapso financiero amenazaba con exterminar al fútbol local en 1983. Ante las cenizas desgarradoras del antiguo e histórico Club Getafe Deportivo, la tristeza popu... (Getafe CF)",
+    "Un día como hoy en 1950, se fundó Querétaro Fútbol Club.",
+    "En 1950, un grupo de empresarios queretanos encabezados por el presidente de la Asociación Queretana de Fútbol, Alfonso 'Chato' Niembro, materializó el sueño de inscribir a la ciudad en la recién creada Segunda División profesional, fundando ofici... (Querétaro Fútbol Club)",
+    "En 1939 se inauguró el mítico estadio Goffertstadion, construido como un ambicioso proyecto de la ciudad. Inicialmente, el NEC se negó a abandonar su histórico campo de Hazenkampseweg para no pagar alquiler municipal. Sin embargo, en 1942, forzado... (NEC Nijmegen)"
+  ],
+  "07-23": [
+    "Un día como hoy en 1930, se fundó Girona FC.",
+    "El clamor independentista y el fervor catalán buscaban de manera acuciante una voz representante en la rica llanura del río Onyar. Tras la disolución trágica de la previa Unión Esportiva, las bases fundacionales para un frente impenetrable se plan... (Girona FC)",
+    "Un día como hoy en 1902, se fundó Excelsior.",
+    "La organización deportiva Rotterdamse Voetbal en Atletiek Vereniging Excelsior se constituyó En 1902 por un grupo de jóvenes amigos encabezados por Guy de Rover en el distrito de Kralingen. Nacido como un club de perfil humilde en comparación a su... (Excelsior)"
+  ],
+  "05-29": [
+    "Un día como hoy en 1924, se fundó Rayo Vallecano.",
+    "El latido proletario estallaba colapsando de presión las arterias de Madrid desde su margen sur polvoriento y barrial. A un abismo de distancia de la cuna acaudalada del centro ostentoso, la incansable agitación vecinal de un innegociable orgullo ... (Rayo Vallecano)",
+    "En 1985, la Juventus de Giovanni Trapattoni y Michel Platini alcanzó la cima de Europa al vencer al Liverpool por 1-0 en el estadio Heysel de Bruselas, logrando su primera Copa de Europa. Sin embargo, el triunfo deportivo quedó ensombrecido perman... (Juventus)",
+    "Un día como hoy en 2015, se fundó Fútbol Club Juárez.",
+    "En 2015, con la firme intención de devolverle la grandeza deportiva a una ciudad históricamente resiliente, un grupo de empresarios fronterizos liderados por la familia De la Vega fundaron el Fútbol Club Juárez. Adoptando el aguerrido mote de 'Bra... (Fútbol Club Juárez)"
+  ],
+  "03-06": [
+    "Un día como hoy en 1902, se fundó Real Madrid.",
+    "En la llovizna fundacional de fines del siglo XIX, la élite académica de la Institución Libre de Enseñanza comenzó a ensayar un extraño juego inglés en los descampados madrileños, formando el clandestino 'Foot-Ball Sky' bajo la mirada atenta de Ju... (Real Madrid)"
+  ],
+  "03-18": [
+    "Un día como hoy en 1919, se fundó Valencia CF.",
+    "La llanura costera del Turia observaba con intriga la fiebre por el balón. La génesis del conjunto che fue tan bohemia como magnética. La tarde dEn 1919, las bulliciosas mesas del céntrico Bar Torino, en plena Plaza del Ayuntamiento, sirvieron de ... (Valencia CF)",
+    "Un día como hoy en 1900, se fundó Ajax.",
+    "En 1900, durante una asamblea celebrada en el Café Oost-Indië situado en la calle Kalverstraat de Ámsterdam, se redactó el acta constitutiva del Amsterdamsche Football Club Ajax. La iniciativa fue impulsada por Floris Stempel, Carel Reeser y el es... (Ajax)"
+  ],
+  "03-10": [
+    "Un día como hoy en 1923, se fundó Villarreal.",
+    "Un día como hoy en 1901, se fundó Rennes.",
+    "El Stade Rennais Football Club fue fundado puristamente En 1901 por un grupo entusiasta de estudiantes incondicionales universitarios locales, adoptando heroicamente los tradicionales colores negro y rojo de forma inamovible. (Rennes)",
+    "Un día como hoy en 1905, se fundó Chelsea Football Club.",
+    "A diferencia de la inmensa mayoría de los clubes forjados por obreros o iglesias, el Chelsea Football Club nació por una necesidad inmobiliaria comercial. En 1905, en la humilde trastienda del pub 'The Rising Sun' (hoy llamado The Butcher's Hook),... (Chelsea Football Club)"
+  ],
+  "08-22": [
+    "En la convulsa década de los cuarenta, el talento insular sufría un constante éxodo hacia la España peninsular. Tratando de blindar su patrimonio deportivo, el visionario dirigente Manuel Rodríguez Monroy propuso una alianza sin precedentes. En 19... (UD Las Palmas)",
+    "En 1964, tras un largo proceso de expropiación en la zona contigua al arroyo Pantanoso, el club finalizó la construcción de su estadio monumental bajo el mandato del presidente Luis Tróccoli. El sustento económico provino de la venta de bonos y el... (Cerro)"
+  ],
+  "06-23": [
+    "El origen de los populares pepineros transcurrió bajo la brisa de los llanos agrícolas del sur madrileño. Conformado por un núcleo de emprendedores y agricultores locales, En 1928 se gestó estatutariamente el Club Deportivo Leganés. Bajo la estric... (CD Leganés)"
+  ],
+  "06-20": [
+    "Un día como hoy en 1928, se fundó Real Valladolid Club de Fútbol.",
+    "El nacimiento del coloso de Castilla es fruto de una excepcional cordura cívica y deportiva. En 1928, la incipiente escena vallisoletana desgastaba sus fuerzas en las pujas fratricidas entre sus dos entidades más poderosas: la Real Unión Deportiva... (Real Valladolid Club de Fútbol)"
+  ],
+  "10-10": [
+    "El club Sporting Club de l'Ouest (SCO) fue fundado En 1919 por los hermanos Fortin, administradores del Crédit de l'Ouest, quienes adoptaron el blanco y el negro como colores institucionales inspirados en los rigurosos balances bancarios. (Angers)",
+    "Un día como hoy en 1889, se fundó Brentford Football Club."
+  ],
+  "12-29": [
+    "La 'Association de la Jeunesse Auxerroise' fue inmaculadamente fundada En 1905 por el piadoso abad Deschamps, un cura francés que utilizó el fútbol amateur purista como rústica distracción para alejar a los incipientes jóvenes locales de los oscur... (Auxerre)"
+  ],
+  "09-23": [
+    "Un día como hoy en 1944, se fundó Lille."
+  ],
+  "04-02": [
+    "Un día como hoy en 1926, se fundó Lorient."
+  ],
+  "08-31": [
+    "Un día como hoy en 1899, se fundó Marseille.",
+    "Un día como hoy en 1913, se fundó PSV.",
+    "El Philips Sport Vereniging fue oficialmente fundado En 1913 como una iniciativa deportiva exclusiva para los trabajadores de la inmensa fábrica de iluminación de los hermanos Gerard y Anton Philips. La chispa germinal ocurrió en 1911, cuando un j... (PSV)"
+  ],
+  "04-21": [
+    "Un día como hoy en 1943, se fundó Nantes."
+  ],
+  "07-09": [
+    "Un día como hoy en 1904, se fundó Nice."
+  ],
+  "11-21": [
+    "Un día como hoy en 1874, se fundó Aston Villa Football Club."
+  ],
+  "06-24": [
+    "La institución nació originariamente En 1901 fundándose formal e inicialmente bajo el primitivo nombre de 'Brighton and Hove United', tras una asamblea clave orquestada en la taberna local Seven Stars por promotores y entusiastas deportistas. A la... (Brighton & Hove Albion Football Club)"
+  ],
+  "04-16": [
+    "Un día como hoy en 1894, se fundó Manchester City Football Club."
+  ],
+  "02-06": [
+    "El visionario Matt Busby conformó los 'Busby Babes', una escuadra arrolladora de imberbes prodigios. Esta prometedora generación fue cruel y trágicamente destrozada En 1958 cuando el avión que los transportaba se estrelló y destruyó en las pistas ... (Manchester United Football Club)"
+  ],
+  "12-09": [
+    "Un día como hoy en 1892, se fundó Newcastle United Football Club."
+  ],
+  "10-17": [
+    "Un día como hoy en 1879, se fundó Sunderland Association Football Club.",
+    "La 'Società Bergamasca di Ginnastica e Sports Atletici Atalanta' fue instituida En 1907 en el seno de un humilde local de las calles de Bérgamo. La iniciativa surgió exclusivamente de jóvenes estudiantes del prestigioso Liceo Classico Paolo Sarpi ... (Atalanta)"
+  ],
+  "09-05": [
+    "Un día como hoy en 1882, se fundó Tottenham Hotspur Football Club.",
+    "El Tottenham Hotspur fue fundado En 1882 como el humilde 'Hotspur Football Club' por un grupo de jóvenes estudiantes de gramática de la iglesia All Hallows que eran parte del club local de críquet. Decidieron formar la institución de fútbol para m... (Tottenham Hotspur Football Club)"
+  ],
+  "06-29": [
+    "Un día como hoy en 1895, se fundó West Ham United Football Club."
+  ],
+  "01-13": [
+    "Un día como hoy en 1877, se fundó Wolverhampton Wanderers Football Club."
+  ],
+  "10-03": [
+    "El Bologna Football Club fue formalmente constituido En 1909 en los salones de la Birreria Ronzani, un local popular céntrico de la ciudad. El austríaco Emilio Arturo Arnstein, quien había presenciado la incipiente fiebre del fútbol europeo en Vie... (Bologna)"
+  ],
+  "03-24": [
+    "La 'Unione Sportiva Cremonese' fue instituida formalmente En 1903 durante una cálida asamblea celebrada humildemente entre las mesas céntricas y taburetes rústicos de la emblemática Trattoria La Varesina, ubicada en la plácida urbe de Cremona. La ... (Cremonese)"
+  ],
+  "08-29": [
+    "La Associazione Calcio Firenze Fiorentina se fundó formalmente En 1926 en Florencia. La creación fue impulsada de manera directa por el aristócrata local y líder fascista, el Marqués Luigi Ridolfi Vay da Verrazzano. Su objetivo central fue orquest... (Fiorentina)"
+  ],
+  "03-09": [
+    "El Football Club Internazionale fue fundado En 1908 en una turbulenta asamblea celebrada en el Ristorante Orologio de Milán. Cuarenta y cuatro socios disidentes (liderados por el artista Giorgio Muggiani, quien diseñó el icónico escudo en el rever... (Inter)"
+  ],
+  "01-09": [
+    "La Società Sportiva Lazio fue fundada En 1900 en las cercanías de la céntrica Piazza della Libertà de Roma. El proyecto fue ideado por Luigi Bigiarelli (un suboficial de los Bersaglieri) y ocho amigos cercanos. El objetivo original no estaba vincu... (Lazio)"
+  ],
+  "05-26": [
+    "En 2013 es recordado como el capítulo más agudo e importante de la rivalidad capitalina. La Lazio y la Roma se enfrentaron por primera y única vez en una Final absoluta de la Coppa Italia en el Estadio Olímpico. Los 'Biancocelesti', dirigidos por ... (Lazio)",
+    "El momento de mayor éxtasis en los más de cien años de historia del Vitória SC ocurrió En 2013 en el emblemático Estádio Nacional do Jamor. Bajo la dirección técnica de Rui Vitória, el equipo alcanzó la gran final de la Taça de Portugal, enfrentán... (Vitória de Guimarães)"
+  ],
+  "03-15": [
+    "La matriz y base constitutiva legal fundacional de la futura Unione Sportiva Lecce se remonta al lejano origen estructurado dEn 1908 tras originarse formalmente el club madre denominado como el histórico Sporting Club Lecce. Impulsado activamente ... (Lecce)",
+    "Un día como hoy en 1913, se fundó Defensor Sporting.",
+    "En 1913, un grupo de empleados de la fábrica de vidrios Mendoça, encabezados por los hermanos Pedro, Ramón y Arturo Castiglioni, fundaron el Club Atlético Defensor en el barrio de Punta Carretas. El nombre fue propuesto como homenaje a un combinad... (Defensor Sporting)"
+  ],
+  "05-22": [
+    "En 1963, el equipo liderado tácticamente por Nereo Rocco y capitaneado en el terreno por el virtuoso Cesare Maldini se convirtió en el primer conjunto italiano en levantar la Copa de Europa. En la mítica catedral de Wembley, derrotaron por 2-1 al ... (Milan)",
+    "Un día como hoy en 1927, se fundó Cruz Azul Fútbol Club.",
+    "En 1927, en la industrial ciudad de Jasso, Hidalgo (hoy conocida como Ciudad Cooperativa Cruz Azul), nació una de las instituciones más gloriosas del fútbol nacional. Impulsado por el fervor de los trabajadores cementeros y con el apoyo irrestrict... (Cruz Azul Fútbol Club)",
+    "Durante sus primeras décadas, el Braga compitió principalmente a nivel regional, alternando ascensos y descensos esporádicos en las categorías nacionales. El verdadero salto a la prominencia nacional se materializó en la temporada 1965-66. Bajo la... (SC Braga)"
+  ],
+  "07-05": [
+    "En 1984, el club sacudió el panorama del fútbol mundial al presentar oficialmente a Diego Armando Maradona ante más de 70.000 espectadores delirantes en un Estadio San Paolo colmado. La adquisición del astro argentino (mediante una transferencia r... (Napoli)"
+  ],
+  "06-07": [
+    "La Associazione Sportiva Roma se fundó En 1927 en el edificio de Via Forlì 16. La iniciativa fue ejecutada por el secretario federal del Partido Nacional Fascista de la ciudad, Italo Foschi. Siguiendo las directrices políticas de consolidación del... (Roma)"
+  ],
+  "07-17": [
+    "La Unione Sportiva Sassuolo Calcio fue originada modesta y comunitariamente En 1920 impulsada cívicamente gracias al ímpetu ferviente barrial propulsado firmemente desde un núcleo de vecinos adscritos al populoso y pintoresco núcleo central poblac... (Sassuolo)",
+    "Un día como hoy en 1963, se fundó Telstar.",
+    "El club fue constituido oficialmente En 1963 en un esfuerzo desesperado por salvar el fútbol profesional en la región de IJmond. La crisis detonó cuando el VSV logró el campeonato y el ascenso en la temporada 62/63, pero se dio cuenta de que estab... (Telstar)"
+  ],
+  "05-04": [
+    "En 1949 se escribió la página más dolorosa y definitoria del fútbol mundial contemporáneo. Tras disputar un encuentro de exhibición en Portugal frente al Benfica, el avión Fiat G.212 que transportaba de regreso a todo el plantel, cuerpo técnico y ... (Torino)"
+  ],
+  "11-30": [
+    "El Udinese Calcio es reconocido oficial y estadísticamente como uno de los conglomerados deportivos más antiguos que persisten en la estructura del fútbol italiano moderno. Su conformación primaria remonta su fundación al En 1896 bajo el paraguas ... (Udinese)"
+  ],
+  "05-08": [
+    "Un día como hoy en 1906, se fundó Club Deportivo Guadalajara.",
+    "La semilla del Club Deportivo Guadalajara se plantó En 1906, impulsada por el belga Edgar Everaert y el francés Calixto Gas, dos empleados de una casa comercial que, añorando el fútbol europeo, organizaron un equipo junto a trabajadores y estudian... (Club Deportivo Guadalajara)"
+  ],
+  "08-20": [
+    "Un día como hoy en 1944, se fundó Club León.",
+    "En 1944, en el fervor de una ciudad industrial y zapatera que exigía un equipo representativo en la naciente Liga Mayor, se firmó el acta constitutiva del Club León. La fundación fue impulsada por un grupo de entusiastas empresarios guanajuatenses... (Club León)"
+  ],
+  "06-02": [
+    "Un día como hoy en 2020, se fundó Mazatlán Fútbol Club.",
+    "En 2020, en medio de una reestructuración corporativa sin precedentes en el fútbol mexicano, el balompié profesional arribó por primera vez al estado de Sinaloa con el nacimiento del Mazatlán Fútbol Club. Impulsado por el Grupo Salinas y el gobier... (Mazatlán Fútbol Club)"
+  ],
+  "07-27": [
+    "A pesar de nacer en medio de las restricciones globales por la pandemia, la institución marcó su primer gran paso simbólico En 2020 al disputar su primer partido oficial en la Liga MX. Jugando en el espectacular Estadio El Encanto, conocido popula... (Mazatlán Fútbol Club)"
+  ],
+  "06-28": [
+    "Un día como hoy en 1945, se fundó Club de Fútbol Monterrey.",
+    "En 1945, en una casona de la calle Padre Mier, un grupo de empresarios regiomontanos liderados por Enrique Ayala Medina, Paul C. Probert, Rogelio Cantú Gómez y Miguel Margáin Zozaya fundaron formalmente el Club de Fútbol Monterrey. En una ciudad p... (Club de Fútbol Monterrey)"
+  ],
+  "05-07": [
+    "Un día como hoy en 1944, se fundó Club Puebla.",
+    "En 1944, en el seno de una de las ciudades con mayor riqueza colonial y cultural de México, un grupo de empresarios y entusiastas hispano-poblanos, liderados por Joaquín Díaz Loredo y Alfonso Sobero, fundaron oficialmente el Puebla Fútbol Club. El... (Club Puebla)"
+  ],
+  "08-02": [
+    "Un día como hoy en 1954, se fundó Club Universidad Nacional.",
+    "En 1954, en el seno de la máxima casa de estudios del país, nació formalmente el Club Universidad Nacional. Concebido inicialmente bajo el amateurismo como un proyecto para encauzar el talento deportivo de los estudiantes de la Universidad Naciona... (Club Universidad Nacional)"
+  ],
+  "05-28": [
+    "Un día como hoy en 2013, se fundó Atlético de San Luis.",
+    "En 2013, ante la inminente orfandad deportiva de la ciudad tras la mudanza de la franquicia original del San Luis FC, el empresario Jacobo Payán Espinosa fundó el Club Atlético de San Luis. Naciendo en la Liga de Ascenso, el objetivo primario fue ... (Atlético de San Luis)"
+  ],
+  "09-04": [
+    "Un día como hoy en 1983, se fundó Club Santos Laguna.",
+    "En 1983, el Instituto Mexicano del Seguro Social (IMSS) trasladó la franquicia de los Tuberos de Tlaxcala a la Comarca Lagunera, fundando formalmente al Club Santos IMSS. El equipo se estableció originalmente en el poblado de Santa Cruz, Tlaxcala,... (Club Santos Laguna)"
+  ],
+  "03-07": [
+    "Un día como hoy en 1960, se fundó Tigres de la UANL.",
+    "En 1960 marcó el nacimiento oficial del Club Deportivo Tigres de la Universidad Autónoma de Nuevo León (UANL). Tras la disolución del equipo Jabatos, el Patronato Universitario encabezado por Ernesto Romero Jasso se hizo cargo de la franquicia, ci... (Tigres de la UANL)"
+  ],
+  "01-14": [
+    "Un día como hoy en 2007, se fundó Club Tijuana Xoloitzcuintles de Caliente.",
+    "En 2007, en la vibrante y multicultural frontera de Baja California, el empresario Jorge Hank Rhon y su hijo Jorge Alberto Hank Inzunza fundaron oficialmente el Club Tijuana Xoloitzcuintles de Caliente. El objetivo fundacional era dotar a la ciuda... (Club Tijuana Xoloitzcuintles de Caliente)"
+  ],
+  "02-12": [
+    "Un día como hoy en 1917, se fundó Deportivo Toluca Fútbol Club.",
+    "En 1917, en el número 37 de la Avenida Juárez de la capital mexiquense, se redactó el acta fundacional del Club Deportivo Toluca. Un grupo de prominentes empresarios y ciudadanos locales, encabezados por los hermanos Manuel y Francisco Henkel Bros... (Deportivo Toluca Fútbol Club)"
+  ],
+  "07-19": [
+    "Un día como hoy en 1908, se fundó Feyenoord.",
+    "La conformación del club se produjo En 1908 a instancias de un grupo de jóvenes trabajadores en las instalaciones del pub De Vereeniging, ubicado en el pujante sector sur de Róterdam. Los fundadores Kees van Donderen, Gerard van Leerdam, Henk Muld... (Feyenoord)"
+  ],
+  "12-02": [
+    "Un día como hoy en 1902, se fundó Go Ahead Eagles.",
+    "El club nació oficialmente En 1902 en la ciudad de Deventer, por iniciativa de los hermanos Karel y Han Hollander junto a su amigo Leo zur Kleinsmiede, bajo la denominación inicial de 'Be Quick'. Apenas tres años más tarde, tras solicitar su ingre... (Go Ahead Eagles)"
+  ],
+  "06-16": [
+    "Un día como hoy en 1971, se fundó FC Groningen.",
+    "El FC Groningen nació formalmente En 1971 como el heredero profesional directo del GVAV. La creación de esta nueva entidad fue impulsada por la 'Fundación de Fútbol Profesional' local, liderada por figuras clave de la ciudad como el visionario dir... (FC Groningen)"
+  ],
+  "05-03": [
+    "Tras décadas de ser un animador constante de la liga y un club modelo en la captación de talentos internacionales (sirviendo de trampolín para figuras como Luis Suárez y Arjen Robben), el FC Groningen alcanzó la gloria absoluta en la temporada 201... (FC Groningen)",
+    "Un día como hoy en 1903, se fundó Heracles Almelo.",
+    "El Heracles Almelo nació formalmente En 1903, originado por la ambiciosa fusión de dos modestos equipos vecinales de la ciudad: el 'Hollandia' y el 'Inartie'. El Hollandia había sido fundado apenas un año antes en la primavera de 1902 por los pion... (Heracles Almelo)",
+    "Un día como hoy en 1924, se fundó Gil Vicente FC.",
+    "El Gil Vicente Futebol Clube fue fundado En 1924 en la histórica ciudad de Barcelos, perteneciente al distrito de Braga. Su origen es sumamente singular: la institución nació gracias a un grupo de jóvenes amigos que se reunían cada tarde a jugar a... (Gil Vicente FC)"
+  ],
+  "07-20": [
+    "Un día como hoy en 1920, se fundó SC Heerenveen.",
+    "Tras la disolución del antiguo club local V.A.C. en 1918, un grupo de jóvenes deportistas del pueblo decidió organizar un nuevo equipo para llenar el vacío futbolístico. Así, En 1920 fundaron formalmente el club bajo la denominación inicial de Ath... (SC Heerenveen)",
+    "En 1902, se registró el primer partido de la historia entre las selecciones de Uruguay y Argentina en la Cancha del Paso del Molino, propiedad de Albion. Del total de once jugadores titulares uruguayos, nueve pertenecían directamente al plantel de... (Albion)"
+  ],
+  "09-19": [
+    "Un día como hoy en 1912, se fundó NAC Breda.",
+    "La institución nació En 1912 en Breda a partir de la unificación de dos organizaciones locales previas: NOAD y ADVENDO. Los directivos que lideraron esta fusión histórica fueron H.J.A. Loonen (Presidente), C.A. Wouterlood van Doesburg (Secretario)... (NAC Breda)"
+  ],
+  "11-15": [
+    "Un día como hoy en 1900, se fundó NEC Nijmegen.",
+    "El embrión de la institución nació En 1900 bajo el nombre de 'Eendracht' (Unidad) en las calles del barrio obrero Benedenstad en Nimega. Tres jóvenes entusiastas de clase trabajadora, August Lodenstijn, Antoon Kuypers y Wouter de Lent, fundaron el... (NEC Nijmegen)"
+  ],
+  "06-12": [
+    "Un día como hoy en 1910, se fundó PEC Zwolle.",
+    "El club nació formalmente En 1910 en el céntrico Hotel Koenders de Zwolle. Fue el producto de una fusión estratégica entre dos entidades amateur de la ciudad: Prins Hendrik (fundado en 1906 por la clase media) y Ende Desespereert Nimmer (creado en... (PEC Zwolle)"
+  ],
+  "05-02": [
+    "En 2010 quedó grabado para siempre en la historia de Enschede. Bajo la dirección táctica del inglés Steve McClaren y comandados en ataque por figuras como Bryan Ruiz y el goleador Blaise Nkufo, el Twente logró lo impensado: romper la hegemonía de ... (FC Twente)"
+  ],
+  "06-01": [
+    "Un día como hoy en 1920, se fundó FC Volendam.",
+    "En 1920, un grupo de pescadores que jugaban en las calles de la aldea portuaria decidieron formalizar su pasión. La reunión fundacional histórica tuvo lugar en el clásico café 'De Oude Lutine', donde se firmó el acta constitutiva del equipo, bauti... (FC Volendam)",
+    "Un día como hoy en 1891, se fundó Albion.",
+    "En 1891, los alumnos del English High School de Montevideo firmaron el acta de constitución de la entidad. La asamblea fue liderada por Henry Lichtenberger bajo la supervisión del profesor británico William Leslie Poole. Se fundó bajo la premisa d... (Albion)"
+  ],
+  "12-25": [
+    "Un día como hoy en 1951, se fundó Futebol Clube de Arouca.",
+    "El Futebol Clube de Arouca fue concebido formalmente En 1951, emergiendo como un modesto proyecto deportivo impulsado por un reducido grupo de comerciantes y aficionados locales en Arouca, una pequeña y pintoresca villa enclavada en un valle del d... (Futebol Clube de Arouca)"
+  ],
+  "05-05": [
+    "Un día como hoy en 2023, se fundó AVS Futebol SAD.",
+    "AVS Futebol SAD fue fundado oficialmente En 2023, naciendo de una compleja reestructuración administrativa en el fútbol portugués. La entidad se originó tras el traslado de la estructura profesional del União Desportiva Vilafranquense desde Vila F... (AVS Futebol SAD)"
+  ],
+  "02-28": [
+    "Un día como hoy en 1904, se fundó SL Benfica.",
+    "En 1904, un grupo de veinticuatro jóvenes, exalumnos de la Real Casa Pia de Lisboa, se reunió en la parte trasera de la Farmácia Franco, ubicada en la Rua de Belém. Liderados por Cosme Damião, decidieron crear un club de fútbol al que denominaron ... (SL Benfica)"
+  ],
+  "10-25": [
+    "En 2003, el club inauguró el nuevo Estádio da Luz, construido sobre los terrenos del antiguo recinto homónimo, en el marco de la preparación para la Eurocopa 2004. Esta modernización de infraestructura fue acompañada por la inauguración en 2006 de... (SL Benfica)"
+  ],
+  "01-19": [
+    "Un día como hoy en 1921, se fundó SC Braga.",
+    "El Sporting Clube de Braga fue fundado formalmente En 1921 por un grupo de jóvenes estudiantes del Liceu Nacional de Sá de Miranda y comerciantes locales que se reunían habitualmente en los cafés cercanos a la Praça do Município. En sus primeros a... (SC Braga)"
+  ],
+  "07-03": [
+    "Un día como hoy en 1920, se fundó Casa Pia AC.",
+    "El Casa Pia Atlético Clube fue fundado En 1920 por un grupo de exalumnos de la centenaria institución benéfica y orfanato 'Casa Pia de Lisboa'. La creación del club fue impulsada por figuras que terminarían siendo pilares fundacionales del deporte... (Casa Pia AC)"
+  ],
+  "01-22": [
+    "Un día como hoy en 1932, se fundó Estrela da Amadora.",
+    "El histórico Clube de Futebol Estrela da Amadora fue fundado originalmente En 1932 por un grupo de jóvenes entusiastas conformado por Júlio da Silva y los hermanos Almeida (Júlio, José y António). La creación del club surgió de la urgente necesida... (Estrela da Amadora)",
+    "En 2020, la presidencia del City Football Group presentó la transformación absoluta de la identificación corporativa. Con la modificación de estatutos, el club descartó su denominación y colores originarios para llamarse oficialmente Montevideo Ci... (MC Torque)"
+  ],
+  "01-29": [
+    "Tras más de una década de inestabilidad, oscilando con múltiples ascensos y descensos entre las tres principales categorías del país, el Moreirense consumó la gesta más grande y surrealista de su historia institucional. En 2017, el modesto equipo ... (Moreirense FC)"
+  ],
+  "09-28": [
+    "Un día como hoy en 1893, se fundó FC Porto.",
+    "El Futebol Clube do Porto fue fundado originalmente En 1893 por António Nicolau de Almeida, un próspero comerciante local de vino de Oporto que descubrió el fútbol durante sus viajes de negocios a Inglaterra. Sin embargo, tras un periodo de inacti... (FC Porto)",
+    "En 1891, empleados de la empresa ferroviaria británica Central Uruguay Railway Company fundaron el Central Uruguay Railway Cricket Club (CURCC) en las oficinas de la empresa ubicadas en la localidad rural de Peñarol. La asamblea constitutiva desig... (Peñarol)"
+  ],
+  "05-27": [
+    "El punto de inflexión absoluto en la historia moderna del club ocurrió en 1982 con la asunción de Jorge Nuno Pinto da Costa a la presidencia. En alianza con el visionario entrenador José Maria Pedroto, Pinto da Costa profesionalizó ferozmente la e... (FC Porto)"
+  ],
+  "05-12": [
+    "Un día como hoy en 1921, se fundó Santa Clara.",
+    "El Clube Desportivo Santa Clara fue fundado oficialmente En 1927 en la ciudad de Ponta Delgada, ubicada en la isla de São Miguel, en el archipiélago de las Azores. La institución nació gracias a la iniciativa de un grupo de jóvenes trabajadores y ... (Santa Clara)"
+  ],
+  "09-22": [
+    "Un día como hoy en 1922, se fundó Vitória de Guimarães.",
+    "El Vitória Sport Clube fue fundado En 1922 en la histórica ciudad de Guimarães, conocida universalmente como la 'Cuna de Portugal'. La institución nació del empeño de un grupo de jóvenes locales liderado por António Macedo Guimarães, quien asumió ... (Vitória de Guimarães)"
+  ],
+  "11-08": [
+    "Afectados por crisis financieras y décadas alternando en competencias de ascenso, la asamblea corporativa aprobó un memorando de reestructuración radical En 1971. Mediante la absorción de capitales vinculados a instituciones representativas de la ... (Central Español)"
+  ],
+  "12-01": [
+    "Un día como hoy en 1922, se fundó Cerro.",
+    "En 1922, los delegados de los clubes Reformers, Santa Rosa, Aldosiver y Oriental acordaron la fusión unificada de sus instituciones mediante una reunión formal documentada en el Café Paniza, ubicado en la intersección de Grecia y China en la Villa... (Cerro)"
+  ],
+  "03-01": [
+    "Un día como hoy en 1932, se fundó Danubio.",
+    "En 1932, los hermanos Juan y Miguel Lazaroff, junto a un grupo de alumnos de la escuela pública de la zona, fundaron el club en la plaza de la Curva de Maroñas en Montevideo. María Mincheff de Lazaroff, madre de los fundadores de origen búlgaro, s... (Danubio)"
+  ],
+  "08-25": [
+    "En 1957, la dirigencia concretó la apertura oficial de su estadio propio, construido de manera comunitaria en los terrenos aledaños al hipódromo de Maroñas. La jornada inaugural quedó registrada con un evento de programación doble: un enfrentamien... (Danubio)",
+    "Un día como hoy en 1928, se fundó Deportivo Maldonado.",
+    "En 1928, bajo el entusiasmo por la consagración olímpica de la selección uruguaya en Ámsterdam, un grupo de vecinos de Maldonado liderado por Ginés Cairo Medina y Juan Delfino fundó una nueva institución deportiva en una tertulia de bar. El nombre... (Deportivo Maldonado)"
+  ],
+  "12-31": [
+    "En 1963, tras catorce años de arrendamiento y negociaciones, el club inauguró oficialmente su estadio propio en los terrenos del Parque Rodó. El escenario fue bautizado años más tarde con el nombre del presidente del club Luis Franzini, quien lide... (Defensor Sporting)"
+  ],
+  "07-25": [
+    "En 1976, el equipo dirigido por el entrenador José Ricardo De León se coronó campeón del Campeonato Uruguayo. Este título ingresó en los registros oficiales como la primera ocasión en toda la era profesional del fútbol uruguayo en la que un club d... (Defensor Sporting)"
+  ],
+  "06-27": [
+    "En 1932, los socios directivos convocaron a una asamblea formal con el objetivo de dotar a la institución de una identidad más representativa del departamento. En esa reunión votaron el cambio de nombre a Club Deportivo Maldonado. A partir de esta... (Deportivo Maldonado)"
+  ],
+  "02-15": [
+    "Un día como hoy en 1915, se fundó Liverpool.",
+    "En 1915, en la trastienda del almacén comercial de los hermanos Chinchurreta en el barrio Nuevo París, se labró el acta fundacional de la institución. Los fundadores eran alumnos del Colegio de los Padres Capuchinos de la zona. La directiva selecc... (Liverpool)"
+  ],
+  "12-26": [
+    "Un día como hoy en 2007, se fundó MC Torque.",
+    "En 2007, el empresario uruguayo Raúl Aquino Reynoso formalizó la creación de la institución deportiva en Montevideo. La idea surgió durante la Copa América de Venezuela con la colaboración del electromecánico Marcelo Yaurreche. Este último sugirió... (MC Torque)"
+  ],
+  "04-06": [
+    "En 2017, la historia administrativa de la institución registró una transformación radical al formalizarse la adquisición total del club por parte del City Football Group, consorcio dueño del Manchester City. Las autoridades del holding fijaron al ... (MC Torque)",
+    "Un día como hoy en 1919, se fundó Racing.",
+    "En 1919, un grupo de jóvenes que se reunían en el barrio Reducto de Montevideo fundó una nueva institución deportiva. Entre los firmantes del acta de fundación se encontraban Dante Roberto, Germán Roberto y Osvaldo Roberto. Tras utilizar los nombr... (Racing)"
+  ],
+  "05-14": [
+    "Un día como hoy en 1899, se fundó Nacional.",
+    "En 1899, en la residencia de Ernesto Caprario ubicada en la calle Soriano 99 de Montevideo, directivos y jugadores del Uruguay Athletic y del Montevideo Football Club firmaron su fusión ante el dominio británico en el deporte local. Esta unión fun... (Nacional)"
+  ],
+  "09-13": [
+    "En 1903, la naciente selección nacional de Uruguay debía enfrentarse a Argentina en Buenos Aires. Ante la negativa de los jugadores del CURCC de asistir, la Asociación Uruguaya recurrió al plantel completo de Nacional para competir en representaci... (Nacional)"
+  ],
+  "02-11": [
+    "El club cimentó su segundo ciclo dorado continental venciendo en la final de la Copa Libertadores al SC Internacional de Brasil. Posteriormente, bajo el liderazgo de Hugo De León y Waldemar Victorino, Nacional inauguró el formato a partido único d... (Nacional)"
+  ],
+  "12-12": [
+    "En 1982, con la dirección técnica de Hugo Bagnulo, el equipo superó al Aston Villa de Inglaterra por 2-0 en el Estadio Olímpico de Tokio. Anteriormente, el club había alcanzado su cuarta Copa Libertadores superando a Cobreloa de Chile. Esta victor... (Peñarol)"
+  ],
+  "10-31": [
+    "En 1987, la institución cimentó su quinta conquista oficial de la Copa Libertadores bajo las directivas tácticas de Óscar Washington Tabárez. Revertió una fase final adversa ante el América de Cali forzando un tercer partido de desempate en el Est... (Peñarol)"
+  ],
+  "04-30": [
+    "Un día como hoy en 1917, se fundó Progreso.",
+    "En 1917, un grupo de trabajadores pertenecientes al gremio de picapedreros de La Teja concretó la fundación oficial de la entidad deportiva en Montevideo, tras organizarse inicialmente en las instalaciones del conventillo Balaro por gestión de Jos... (Progreso)"
+  ]
 }
