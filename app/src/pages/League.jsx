@@ -113,21 +113,32 @@ export default function League() {
   const [selectedRound, setSelectedRound] = useState('');
   
   const renderStatusBadge = (description, rank) => {
+    if (activeTab !== 'temporadas') return null;
     if (!description) return null;
     const desc = description.toLowerCase();
     
-    if (desc.includes('champion') || desc.includes('winner') || (rank === 1 && desc.includes('promotion'))) {
-      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(234, 179, 8, 0.15)', color: '#facc15', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(234, 179, 8, 0.3)'}}>🏆 Campeón</span>;
-    }
-    if (desc.includes('promotion') && !desc.includes('play-off') && !desc.includes('playoff')) {
-      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(34, 197, 94, 0.15)', color: '#4ade80', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(34, 197, 94, 0.3)'}}>⬆️ Ascenso</span>;
-    }
-    if (desc.includes('play-off') || desc.includes('playoff') || desc.includes('promotion play')) {
-      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(59, 130, 246, 0.15)', color: '#60a5fa', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(59, 130, 246, 0.3)'}}>🔼 Play-off</span>;
-    }
-    if (desc.includes('relegation')) {
+    if (desc.includes('relegation') || desc.includes('descenso')) {
       return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(239, 68, 68, 0.15)', color: '#f87171', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(239, 68, 68, 0.3)'}}>⬇️ Descenso</span>;
     }
+
+    if ((rank === 1) || desc === 'winner' || desc === 'champion' || desc === 'campeón') {
+      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(234, 179, 8, 0.15)', color: '#facc15', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(234, 179, 8, 0.3)'}}>🏆 Campeón</span>;
+    }
+    
+    const isPrimeraDiv = !['arg_nacional_b', 'arg_b_metro', 'arg_primera_c'].includes(leagueId);
+
+    if ((desc.includes('promotion') || desc.includes('ascenso')) && !desc.includes('play-off') && !desc.includes('playoff') && !desc.includes('champions') && !desc.includes('europa') && !desc.includes('conference')) {
+      if (!isPrimeraDiv) {
+        return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(34, 197, 94, 0.15)', color: '#4ade80', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(34, 197, 94, 0.3)'}}>⬆️ Ascenso</span>;
+      }
+    }
+
+    if (desc.includes('play-off') || desc.includes('playoff') || desc.includes('promotion play')) {
+      if (!isPrimeraDiv || desc.includes('conference') || desc.includes('europa')) {
+        return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(59, 130, 246, 0.15)', color: '#60a5fa', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(59, 130, 246, 0.3)'}}>🔼 Play-off</span>;
+      }
+    }
+    
     return null;
   };
 

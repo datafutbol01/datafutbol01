@@ -24,8 +24,8 @@
   <meta name="twitter:image" content="https://datafutbol.app/pwa-512x512.png" />
   
   <script>
-    // PARCHE NUCLEAR v3: Forzar borrado de Service Worker y Caché trabada correctamente (asincrónico)
-    if (!localStorage.getItem('pwa_cache_cleared_v3')) {
+    // PARCHE NUCLEAR v4: Forzar borrado de Service Worker y Caché trabada correctamente (asincrónico)
+    if (!localStorage.getItem('pwa_cache_cleared_v4')) {
       Promise.all([
         'serviceWorker' in navigator 
           ? navigator.serviceWorker.getRegistrations().then(function(registrations) {
@@ -38,7 +38,7 @@
             })
           : Promise.resolve()
       ]).then(() => {
-        localStorage.setItem('pwa_cache_cleared_v3', 'true');
+        localStorage.setItem('pwa_cache_cleared_v4', 'true');
         window.location.reload(true);
       });
     }
