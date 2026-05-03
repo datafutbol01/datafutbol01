@@ -342,18 +342,22 @@ export default function ClubDetail() {
                   url: canchas.actual.google_maps,
                   historia_nombres: canchas.actual.historia_nombres,
                   lat: canchas.actual.lat,
-                  lng: canchas.actual.lng
+                  lng: canchas.actual.lng,
+                  obs: canchas.actual.obs
                 }] : [];
 
                 historicStadiums = canchas.viejas ? canchas.viejas.map(c => ({
                   nombre: c.nombre,
                   epoca: c.epoca,
+                  desde: c.desde,
+                  hasta: c.hasta,
                   inauguracion: c.fundacion || c.inauguracion,
                   direccion: c.direccion,
                   url: c.google_maps,
                   historia_nombres: c.historia_nombres,
                   lat: c.lat,
-                  lng: c.lng
+                  lng: c.lng,
+                  obs: c.obs
                 })) : [];
               } else if (datos?.estadios && datos.estadios.length > 0) {
                 activeStadiums = datos.estadios.filter(e => e.condicion === 'actual').map(e => ({...e, lat: parseFloat(e.lat), lng: parseFloat(e.lng)}));

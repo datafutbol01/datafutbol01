@@ -120,6 +120,7 @@ export default function Leagues() {
                   width: '55px', 
                   height: '55px', 
                   objectFit: 'contain',
+                  borderRadius: league.id === 'mex_liga_mx' ? '50%' : '0',
                   maxWidth: '100%',
                   filter: activeLeagueIdx === idx ? 'drop-shadow(0 0 15px rgba(251, 191, 36, 0.9)) drop-shadow(0 0 30px rgba(251, 191, 36, 0.6))' : 'grayscale(60%) opacity(80%)',
                   transition: 'all 0.3s'
@@ -165,6 +166,7 @@ export default function Leagues() {
                   style={{
                     height: '140px',
                     objectFit: 'contain',
+                    borderRadius: activeLeague.id === 'mex_liga_mx' ? '50%' : '0'
                   }}
                 />
               )}

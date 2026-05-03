@@ -42,10 +42,14 @@ export default function League() {
       case 'escocia': return 'scottish_league';
       case 'uruguay': return 'campeonato_uruguayo';
       case 'brasil': return 'brasileirao';
+      case 'mex_liga_mx':
+      case 'mexico': return 'liga_mx';
       default: return 'metropolitano';
     }
   };
   const [activeTorneoTab, setActiveTorneoTab] = useState(getDefaultTab(leagueId));
+
+  console.log("LEAGUE RENDER", { leagueId, activeTab, clubsLength: clubs.length, activeTorneoTab });
 
   // Novedad: Conexión Real con Vercel para la Tabla de Posiciones y Llaves
   const slugToApi = {
@@ -516,6 +520,12 @@ export default function League() {
       if (activeTorneoTab === 'hoofdklasse') return name.includes('campeonato');
       if (activeTorneoTab === 'knvb_beker') return name.includes('knvb') || name.includes('beker') || name.includes('copa');
       if (activeTorneoTab === 'johan_cruyff') return name.includes('johan cruyff') || name.includes('supercopa');
+    } else if (leagueId === 'mex_liga_mx' || leagueId === 'mexico') {
+      if (activeTorneoTab === 'liga_mx') return name === 'liga mx';
+      if (activeTorneoTab === 'copa_mx') return name === 'copa mx';
+      if (activeTorneoTab === 'campeon_de_campeones') return name === 'campeón de campeones';
+      if (activeTorneoTab === 'supercopa_mx') return name === 'supercopa mx';
+      if (activeTorneoTab === 'supercopa_liga_mx') return name === 'supercopa de la liga mx';
     } else {
       if (activeTorneoTab === 'copas') return name.includes('copa') || name.includes('superfinal') || name.includes('trofeo de campeones') || name.includes('honor');
       if (activeTorneoTab === 'nacional') return name.includes('nacional') && !name.includes('primera división') && !name.includes('internacional');
@@ -1380,6 +1390,24 @@ export default function League() {
                     Johan Cruyff Schaal
                   </button>
                 </>
+              ) : leagueId === 'mex_liga_mx' || leagueId === 'mexico' ? (
+                <>
+                  <button onClick={() => setActiveTorneoTab('liga_mx')} style={{ background: activeTorneoTab === 'liga_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'liga_mx' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'liga_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                    Liga MX
+                  </button>
+                  <button onClick={() => setActiveTorneoTab('copa_mx')} style={{ background: activeTorneoTab === 'copa_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'copa_mx' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'copa_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                    Copa MX
+                  </button>
+                  <button onClick={() => setActiveTorneoTab('campeon_de_campeones')} style={{ background: activeTorneoTab === 'campeon_de_campeones' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'campeon_de_campeones' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'campeon_de_campeones' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                    Campeón de Campeones
+                  </button>
+                  <button onClick={() => setActiveTorneoTab('supercopa_mx')} style={{ background: activeTorneoTab === 'supercopa_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'supercopa_mx' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'supercopa_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                    Supercopa MX
+                  </button>
+                  <button onClick={() => setActiveTorneoTab('supercopa_liga_mx')} style={{ background: activeTorneoTab === 'supercopa_liga_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'supercopa_liga_mx' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'supercopa_liga_mx' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
+                    Supercopa de la Liga
+                  </button>
+                </>
               ) : (
                 <>
                   <button onClick={() => setActiveTorneoTab('metropolitano')} style={{ background: activeTorneoTab === 'metropolitano' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.05)', color: activeTorneoTab === 'metropolitano' ? 'black' : 'white', border: '1px solid', borderColor: activeTorneoTab === 'metropolitano' ? 'var(--accent-gold)' : 'rgba(255,255,255,0.1)', padding: '0.8rem 2rem', borderRadius: '12px', fontWeight: 'bold', fontSize: '1rem', cursor: 'pointer', transition: 'all 0.3s' }}>
@@ -1417,19 +1445,31 @@ export default function League() {
                       let shortName = t.campeon;
 
                       if (t.campeon) {
-                        // Mapeo de Aliases rápido
-                        const aliases = {
-                          // ARG
-                          "velez sarsfield": "velez-sarsfield",
-                          "velez": "velez-sarsfield",
-                          "huracan": "huracan",
-                          "argentinos": "argentinos-jrs",
-                          "newells": "newells-old-boys",
-                          "newell's": "newells-old-boys",
-                          "newell's old boys": "newells-old-boys",
-                          "union": "union",
-                          "estudiantes": "estudiantes-lp",
-                          "estudiantes (lp)": "estudiantes-lp",
+                        // Si el JSON ya trae el escudo preprocesado (ej. Liga MX), usarlo
+                        if (t.escudo_historico) {
+                          logo = t.escudo_historico;
+                          shortName = t.campeon;
+                          // Intentar sacar el nombre corto si el club existe
+                          const normalizedName = t.campeon.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                          let aliasId = normalizedName.replace(/ /g, '-');
+                          const club = clubs.find(c => c.id === aliasId || c.datos?.nombre_completo?.toLowerCase() === t.campeon.toLowerCase());
+                          if (club) {
+                            shortName = club.datos?.nombre_corto || club.datos?.nombre_completo || t.campeon;
+                          }
+                        } else {
+                          // Mapeo de Aliases rápido
+                          const aliases = {
+                            // ARG
+                            "velez sarsfield": "velez-sarsfield",
+                            "velez": "velez-sarsfield",
+                            "huracan": "huracan",
+                            "argentinos": "argentinos-jrs",
+                            "newells": "newells-old-boys",
+                            "newell's": "newells-old-boys",
+                            "newell's old boys": "newells-old-boys",
+                            "union": "union",
+                            "estudiantes": "estudiantes-lp",
+                            "estudiantes (lp)": "estudiantes-lp",
                           "estudiantes de la plata": "estudiantes-lp",
                           "gimnasia": "gimnasia-lp",
                           "gimnasia y esgrima (lp)": "gimnasia-lp",
@@ -1576,6 +1616,7 @@ export default function League() {
                           logo = `/escudos/${aliasId}.${extMap[aliasId] || 'png'}`;
                         }
                       }
+                    }
 
                       return (
                         <div key={idx} className="glass-panel hover-card" style={{

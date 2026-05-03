@@ -6,7 +6,7 @@ export const useAppStore = create((set) => ({
   clubDataCache: {},
   
   // Estado de navegación
-  activeLeagueTab: 'posiciones', // o 'fixture', 'goleadores', etc.
+  activeLeagueTab: 'clubes', // o 'actualidad', 'temporadas', etc.
   
   // Acciones
   setLeagueData: (leagueId, data) => set((state) => ({
