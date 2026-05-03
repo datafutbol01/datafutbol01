@@ -177,13 +177,6 @@ const WorldCup2026Hub = () => {
                                                 Llave Eliminatoria (32 Equipos)
                                             </h3>
                                             
-                                            <div style={{ marginBottom: '2rem', padding: '1rem', background: 'rgba(239, 68, 68, 0.1)', border: '1px solid #ef4444', borderRadius: '8px', color: 'white', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-                                                <AlertCircle size={24} color="#ef4444" />
-                                                <p style={{ margin: 0, fontSize: '0.9rem' }}>
-                                                    <strong>Formato Inédito:</strong> Por primera vez el torneo contará con Dieciseisavos de Final. El cuadro exacto dependerá de qué grupos aporten los 8 mejores terceros. Aquí se muestra la estructura oficial tentativa.
-                                                </p>
-                                            </div>
-
                                             <div className="hide-scrollbar" style={{ overflowX: 'auto', paddingBottom: '1rem' }}>
                                                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 250px)', gap: '2rem', minWidth: '1200px' }}>
                                                     {/* Column 1: Dieciseisavos */}
