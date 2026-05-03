@@ -8,6 +8,7 @@ const DatoDelDia = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [fade, setFade] = useState('in');
   const [copied, setCopied] = useState(false);
+  const [isExpanded, setIsExpanded] = useState(false);
 
   useEffect(() => {
     // Obtener la fecha actual en formato MM-DD
@@ -33,13 +34,15 @@ const DatoDelDia = () => {
   }, []);
 
   useEffect(() => {
-    if (datosArray.length > 1) {
+    if (datosArray.length > 1 && !isExpanded) {
       const interval = setInterval(() => {
         setFade('out');
         setTimeout(() => {
           setCurrentIndex((prev) => {
             const next = (prev + 1) % datosArray.length;
             setDatoHoy(datosArray[next]);
+            // Collapse automatically when transitioning to a new item
+            setIsExpanded(false);
             return next;
           });
           setFade('in');
@@ -47,7 +50,7 @@ const DatoDelDia = () => {
       }, 7000); // Change every 7 seconds
       return () => clearInterval(interval);
     }
-  }, [datosArray]);
+  }, [datosArray, isExpanded]);
 
   const handleShare = async () => {
     const shareData = {
@@ -145,11 +148,30 @@ const DatoDelDia = () => {
         fontWeight: '500',
         minHeight: '60px',
         display: 'flex',
-        alignItems: 'center',
+        alignItems: 'flex-start',
         opacity: fade === 'in' ? 1 : 0,
         transition: 'opacity 0.5s ease-in-out'
       }}>
-        <p style={{ margin: 0 }}>{datoHoy}</p>
+        <p style={{ margin: 0 }}>
+          {datoHoy.length > 140 && !isExpanded ? `${datoHoy.substring(0, 140)}...` : datoHoy}
+          {datoHoy.length > 140 && (
+            <button 
+              onClick={() => setIsExpanded(!isExpanded)}
+              style={{
+                background: 'none',
+                border: 'none',
+                color: '#facc15',
+                cursor: 'pointer',
+                fontWeight: 'bold',
+                padding: '0 0 0 6px',
+                fontSize: '13px',
+                textDecoration: 'underline'
+              }}
+            >
+              {isExpanded ? 'Ver menos' : 'Leer más'}
+            </button>
+          )}
+        </p>
       </div>
 
       {datosArray.length > 1 && (

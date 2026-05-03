@@ -111,6 +111,26 @@ export default function League() {
   const [loadingFixtures, setLoadingFixtures] = useState(false);
   const [viewMode, setViewMode] = useState('tabla'); // 'tabla' | 'fixture'
   const [selectedRound, setSelectedRound] = useState('');
+  
+  const renderStatusBadge = (description, rank) => {
+    if (!description) return null;
+    const desc = description.toLowerCase();
+    
+    if (desc.includes('champion') || desc.includes('winner') || (rank === 1 && desc.includes('promotion'))) {
+      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(234, 179, 8, 0.15)', color: '#facc15', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(234, 179, 8, 0.3)'}}>🏆 Campeón</span>;
+    }
+    if (desc.includes('promotion') && !desc.includes('play-off') && !desc.includes('playoff')) {
+      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(34, 197, 94, 0.15)', color: '#4ade80', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(34, 197, 94, 0.3)'}}>⬆️ Ascenso</span>;
+    }
+    if (desc.includes('play-off') || desc.includes('playoff') || desc.includes('promotion play')) {
+      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(59, 130, 246, 0.15)', color: '#60a5fa', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(59, 130, 246, 0.3)'}}>🔼 Play-off</span>;
+    }
+    if (desc.includes('relegation')) {
+      return <span style={{fontSize: '0.65rem', padding: '2px 5px', borderRadius: '4px', background: 'rgba(239, 68, 68, 0.15)', color: '#f87171', marginLeft: '6px', whiteSpace: 'nowrap', border: '1px solid rgba(239, 68, 68, 0.3)'}}>⬇️ Descenso</span>;
+    }
+    return null;
+  };
+
   useEffect(() => {
     if (activeTab === 'actualidad' && slugToApi[leagueId] && !standingsData) {
       const fetchData = async () => {
@@ -1070,6 +1090,7 @@ export default function League() {
                                       <span style={{ color: zone.color !== 'transparent' ? zone.color : 'var(--text-muted)', width: '20px', fontWeight: 'bold' }}>{t.rank}</span>
                                       <img src={t.team.logo} alt="" style={{ width: '24px', height: '24px', objectFit: 'contain' }} onError={(e) => e.target.style.display = 'none'} />
                                       <span style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.team.name}</span>
+                                      {renderStatusBadge(t.description, t.rank)}
                                     </td>
                                     <td style={{ color: 'var(--text-muted)' }}>{t.all.played}</td>
                                     <td style={{ color: 'var(--text-muted)' }}>{t.all.win}</td>
