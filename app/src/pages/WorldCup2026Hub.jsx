@@ -34,7 +34,40 @@ const WorldCup2026Hub = () => {
     }, []);
 
     // Extraemos todos los equipos para la pestaña de participantes
-    const allTeams = standings ? standings.flatMap(g => g).map(t => t.team).sort((a, b) => a.name.localeCompare(b.name)) : [];
+    const translateTeamName = (name) => {
+        const dictionary = {
+            "Brazil": "Brasil", "Germany": "Alemania", "Spain": "España", "France": "Francia",
+            "United States": "Estados Unidos", "England": "Inglaterra", "Italy": "Italia",
+            "Netherlands": "Países Bajos", "Belgium": "Bélgica", "Croatia": "Croacia",
+            "Switzerland": "Suiza", "Denmark": "Dinamarca", "Sweden": "Suecia",
+            "Morocco": "Marruecos", "Japan": "Japón", "South Korea": "Corea del Sur", "Korea Republic": "Corea del Sur",
+            "Saudi Arabia": "Arabia Saudita", "Iran": "Irán", "Ivory Coast": "Costa de Marfil", "Cote D Ivoire": "Costa de Marfil",
+            "Cameroon": "Camerún", "Egypt": "Egipto", "South Africa": "Sudáfrica",
+            "Algeria": "Argelia", "Turkey": "Turquía", "Poland": "Polonia",
+            "Wales": "Gales", "Scotland": "Escocia", "Ireland": "Irlanda",
+            "New Zealand": "Nueva Zelanda", "Peru": "Perú", "Uruguay": "Uruguay",
+            "Ecuador": "Ecuador", "Chile": "Chile", "Paraguay": "Paraguay",
+            "Bolivia": "Bolivia", "Venezuela": "Venezuela", "Canada": "Canadá",
+            "Mexico": "México", "Panama": "Panamá", "Honduras": "Honduras",
+            "Australia": "Australia", "Serbia": "Serbia", "Romania": "Rumania",
+            "Hungary": "Hungría", "Czech Republic": "República Checa", "Slovakia": "Eslovaquia",
+            "Slovenia": "Eslovenia", "Ukraine": "Ucrania", "Russia": "Rusia",
+            "Greece": "Grecia", "Iceland": "Islandia", "Norway": "Noruega",
+            "Finland": "Finlandia", "Austria": "Austria", "Bosnia & Herzegovina": "Bosnia y Herzegovina",
+            "Northern Ireland": "Irlanda del Norte", "United Arab Emirates": "Emiratos Árabes Unidos",
+            "China": "China", "Uzbekistan": "Uzbekistán", "Iraq": "Irak",
+            "Oman": "Omán", "Syria": "Siria", "Bahrain": "Bahréin",
+            "Jordan": "Jordania", "Palestine": "Palestina", "Lebanon": "Líbano",
+            "Kuwait": "Kuwait", "North Korea": "Corea del Norte", "Korea DPR": "Corea del Norte",
+            "DR Congo": "RD Congo", "Mali": "Malí", "Burkina Faso": "Burkina Faso",
+            "Guinea": "Guinea", "Zambia": "Zambia", "Gabon": "Gabón",
+            "Angola": "Angola", "Cape Verde": "Cabo Verde", "Equatorial Guinea": "Guinea Ecuatorial",
+            "Haiti": "Haití", "Trinidad and Tobago": "Trinidad y Tobago", "Jamaica": "Jamaica"
+        };
+        return dictionary[name] || name;
+    };
+
+    const allTeams = standings ? standings.flatMap(g => g).map(t => t.team).sort((a, b) => translateTeamName(a.name).localeCompare(translateTeamName(b.name))) : [];
 
     return (
         <div style={{ minHeight: '100vh', background: 'var(--bg-main)', position: 'relative' }}>
@@ -145,7 +178,7 @@ const WorldCup2026Hub = () => {
                                                                                     <td style={{ padding: '0.8rem 0.5rem', display: 'flex', alignItems: 'center', gap: '0.6rem', fontWeight: i < 2 ? 'bold' : 'normal' }}>
                                                                                         <span style={{ color: i < 2 ? '#4ade80' : 'var(--text-muted)', width: '16px', fontSize: '0.8rem', textAlign: 'center' }}>{i + 1}</span>
                                                                                         <img src={t.team.logo} alt={t.team.name} style={{ width: '24px', height: '16px', objectFit: 'cover', borderRadius: '2px', boxShadow: '0 1px 3px rgba(0,0,0,0.5)' }} />
-                                                                                        {t.team.name}
+                                                                                        {translateTeamName(t.team.name)}
                                                                                     </td>
                                                                                     <td style={{ textAlign: 'center', fontWeight: '900', color: 'var(--accent-gold)' }}>{t.points}</td>
                                                                                     <td style={{ textAlign: 'center', color: 'var(--text-muted)' }}>{t.all.played}</td>
@@ -281,11 +314,11 @@ const WorldCup2026Hub = () => {
                                                         <div style={{ width: '40px', height: '26px', overflow: 'hidden', borderRadius: '4px', boxShadow: '0 2px 5px rgba(0,0,0,0.5)' }}>
                                                             <img
                                                                 src={team.logo}
-                                                                alt={team.name}
+                                                                alt={translateTeamName(team.name)}
                                                                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                                                             />
                                                         </div>
-                                                        <span style={{ color: 'white', fontWeight: 'bold', fontSize: '1.1rem' }}>{team.name}</span>
+                                                        <span style={{ color: 'white', fontWeight: 'bold', fontSize: '1.1rem' }}>{translateTeamName(team.name)}</span>
                                                     </div>
                                                 ))}
                                             </div>
