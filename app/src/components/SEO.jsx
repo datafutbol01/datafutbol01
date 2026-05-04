@@ -39,6 +39,24 @@ export default function SEO({ title, description, schemaData }) {
       document.head.appendChild(scriptEl);
     }
 
+    // 4. Inyectar Etiqueta Canonical (Crucial para Bing/Google)
+    let canonicalEl = document.querySelector('link[rel="canonical"]');
+    if (!canonicalEl) {
+      canonicalEl = document.createElement('link');
+      canonicalEl.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalEl);
+    }
+    // Asegurar que usamos www en la canonical para evitar duplicados
+    let currentUrl = window.location.href;
+    if (currentUrl.includes('//datafutbol.app')) {
+      currentUrl = currentUrl.replace('//datafutbol.app', '//www.datafutbol.app');
+    }
+    // Quitar trailing slash si existe y no es root
+    if (currentUrl.endsWith('/') && new URL(currentUrl).pathname !== '/') {
+        currentUrl = currentUrl.slice(0, -1);
+    }
+    canonicalEl.setAttribute('href', currentUrl);
+
     // Cleanup: Removemos el esquema específico al desmontar para evitar colisiones
     return () => {
       if (scriptEl && document.head.contains(scriptEl)) {
