@@ -284,7 +284,7 @@ export default function ChampionsHub() {
                 description={selectedYear ? `Repasá todos los datos, planteles y estadísticas de la ${tournamentConfig.name} ${selectedYear}.` : tournamentConfig.desc}
                 schemaData={{
                     "@context": "https://schema.org",
-                    "@type": "SportsEvent",
+                    "@type": "CollectionPage",
                     "name": selectedYear ? `${tournamentConfig.name} ${selectedYear}` : tournamentConfig.name,
                     "description": tournamentConfig.desc,
                     "url": `https://datafutbol.app/copas/${selectedTournament}`

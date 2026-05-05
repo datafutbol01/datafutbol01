@@ -196,7 +196,7 @@ export default function WorldCupsHub() {
                 description={selectedYear ? `Repasá todos los datos, planteles y estadísticas del Mundial ${currentWc?.host} ${selectedYear}.` : "Explora la cronología completa de la Copa del Mundo. Planteles, resultados y estadísticas de todas las ediciones."}
                 schemaData={{
                     "@context": "https://schema.org",
-                    "@type": "SportsEvent",
+                    "@type": "CollectionPage",
                     "name": selectedYear ? `Copa Mundial de la FIFA ${selectedYear}` : "Copa Mundial de la FIFA",
                     "description": "Historia y estadísticas de los Mundiales de Fútbol",
                     "url": "https://datafutbol.app/mundiales"

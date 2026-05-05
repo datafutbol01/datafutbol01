@@ -716,7 +716,7 @@ export default function League() {
         description={`Repasá la historia, todos los campeones y la actualidad de ${currentLeague.name}.`}
         schemaData={{
           "@context": "https://schema.org",
-          "@type": "SportsEvent",
+          "@type": "CollectionPage",
           "name": currentLeague.name,
           "description": `Historia y actualidad de ${currentLeague.name}`,
           "url": `https://datafutbol.app/liga/${leagueId}`,
