@@ -1,0 +1,141 @@
+{
+  "id": "colombia",
+  "nombre_oficial": "Liga BetPlay Dimayor",
+  "nombre_completo": "Categoría Primera A de Colombia",
+  "pais": "Colombia",
+  "confederacion": "CONMEBOL",
+  "fundacion": "1948",
+  "organizador": "División Mayor del Fútbol Colombiano (DIMAYOR)",
+  "sitio_web": "https://dimayor.com.co/",
+  "descripcion_corta": "La Primera División y máxima categoría profesional del sistema de ligas de fútbol de Colombia.",
+  "historia": [
+    {
+      "periodo": "1948 - 2001",
+      "descripcion": "La liga coronaba a un único campeón anual. La época dorada incluyó 'El Dorado', un periodo donde jugaron estrellas mundiales como Alfredo Di Stéfano y Adolfo Pedernera."
+    },
+    {
+      "periodo": "2002 - Presente",
+      "descripcion": "El campeonato se dividió en Torneos Cortos (Apertura y Finalización), coronando a dos campeones absolutos por año."
+    }
+  ],
+  "formatos_historicos": [
+    {
+      "epoca": "Actualidad",
+      "formato": "20 equipos. Se juegan dos torneos cortos al año (Apertura y Finalización). Los primeros 8 clasifican a cuadrangulares semifinales y luego los líderes disputan la Gran Final."
+    }
+  ],
+  "clubes": [
+    "aguilas-doradas",
+    "alianza-fc",
+    "america-de-cali",
+    "atletico-bucaramanga",
+    "atletico-nacional",
+    "boyaca-chico",
+    "cucuta-deportivo",
+    "deportes-tolima",
+    "deportivo-cali",
+    "deportivo-pasto",
+    "deportivo-pereira",
+    "fortaleza-ceif",
+    "independiente-medellin",
+    "independiente-santa-fe",
+    "internacional-de-bogota",
+    "jaguares-de-cordoba",
+    "junior",
+    "llaneros",
+    "millonarios",
+    "once-caldas"
+  ],
+  "clasicos": [
+    {
+      "nombre": "Superclásico de Colombia",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Millonarios",
+      "descripcion": "El enfrentamiento entre los dos clubes más laureados y con mayor hinchada del país, representantes de las dos principales ciudades (Medellín y Bogotá)."
+    },
+    {
+      "nombre": "Clásico Añejo",
+      "equipo1": "Millonarios",
+      "equipo2": "Deportivo Cali",
+      "descripcion": "La rivalidad deportiva más antigua de la historia del fútbol profesional colombiano."
+    },
+    {
+      "nombre": "Clásico Paisa",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Independiente Medellín",
+      "descripcion": "El derbi ineludible de la ciudad de Medellín."
+    },
+    {
+      "nombre": "Clásico Capitalino",
+      "equipo1": "Millonarios",
+      "equipo2": "Independiente Santa Fe",
+      "descripcion": "El tradicional derbi de la ciudad de Bogotá."
+    },
+    {
+      "nombre": "Clásico Vallecaucano",
+      "equipo1": "América de Cali",
+      "equipo2": "Deportivo Cali",
+      "descripcion": "El acalorado y vibrante duelo entre los dos gigantes de la ciudad de Cali."
+    },
+    {
+      "nombre": "El Clásico del Pueblo",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "América de Cali",
+      "descripcion": "Rivalidad histórica que enfrenta a dos de los clubes con mayor cantidad de seguidores y títulos en el país."
+    },
+    {
+      "nombre": "Clásico de las Estrellas",
+      "equipo1": "Millonarios",
+      "equipo2": "América de Cali",
+      "descripcion": "Un enfrentamiento con profunda tradición, protagonizado por dos de los equipos más emblemáticos de Colombia."
+    },
+    {
+      "nombre": "Clásico del Eje Cafetero",
+      "equipo1": "Once Caldas",
+      "equipo2": "Deportivo Pereira",
+      "descripcion": "El derbi regional más pasional del Eje Cafetero colombiano."
+    },
+    {
+      "nombre": "Clásico del Gran Santander",
+      "equipo1": "Atlético Bucaramanga",
+      "equipo2": "Cúcuta Deportivo",
+      "descripcion": "La máxima rivalidad del oriente colombiano entre el departamento de Santander y Norte de Santander."
+    },
+    {
+      "nombre": "Clásico Costeño",
+      "equipo1": "Junior",
+      "equipo2": "Unión Magdalena",
+      "descripcion": "La máxima rivalidad de la Región Caribe colombiana."
+    },
+    {
+      "nombre": "Clásico del Tolima Grande",
+      "equipo1": "Deportes Tolima",
+      "equipo2": "Atlético Huila",
+      "descripcion": "El histórico derbi de la región andina entre pijaos y opitas."
+    },
+    {
+      "nombre": "Clásico Boyacense",
+      "equipo1": "Boyacá Chicó",
+      "equipo2": "Patriotas",
+      "descripcion": "El duelo regional más importante del departamento de Boyacá."
+    },
+    {
+      "nombre": "Clásico de Verdes",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Deportivo Cali",
+      "descripcion": "Enfrentamiento histórico nacional entre dos de las instituciones verdiblancas más laureadas."
+    },
+    {
+      "nombre": "Clásico de Rojos",
+      "equipo1": "Independiente Santa Fe",
+      "equipo2": "América de Cali",
+      "descripcion": "Duelo nacional entre los dos primeros campeones y equipos escarlatas tradicionales del país."
+    },
+    {
+      "nombre": "Clásico Rojiverde",
+      "equipo1": "Atlético Nacional",
+      "equipo2": "Independiente Santa Fe",
+      "descripcion": "Rivalidad histórica entre el verde de la montaña y el primer campeón colombiano."
+    }
+  ]
+}
